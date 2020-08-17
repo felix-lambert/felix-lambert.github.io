@@ -1,0 +1,140 @@
+I"�/<p>SOURCE:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=8J7TRSLf55U">https://www.youtube.com/watch?v=8J7TRSLf55U</a></li>
+  <li><a href="https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i">https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i</a></li>
+  <li><a href="https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv">https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv</a></li>
+  <li><a href="https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d">https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d</a></li>
+  <li>Season 3 of westworld</li>
+  <li><a href="https://www.youtube.com/watch?v=tcMdWM8wmqs">https://www.youtube.com/watch?v=tcMdWM8wmqs</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Robots_exclusion_standard">https://en.wikipedia.org/wiki/Robots_exclusion_standard</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Search_engine_scraping">https://en.wikipedia.org/wiki/Search_engine_scraping</a></li>
+  <li><a href="https://www.youtube.com/watch?v=guvsH5OFizE">https://www.youtube.com/watch?v=guvsH5OFizE</a></li>
+  <li><a href="http://info.cern.ch/hypertext/WWW/TheProject.html">http://info.cern.ch/hypertext/WWW/TheProject.html</a></li>
+</ul>
+
+<p><span style="display:block;text-align:center"><img src="/assets/img/service.png" alt="Octocat" /></span></p>
+
+<p>When I say to people that I’m doing “web scraping” for my personal project, they either don’t know what I’m talking about or look at me with eyes of fear. The term “web scraping” has a negative connotation today. It’s often seen as unethical or/and illegal.</p>
+
+<h1 id="why-illegal">Why illegal?</h1>
+
+<p>Some companies could even sue you (there have been dozens of legal cases on web scraping over the decades) or do some lobbying to make it illegal. It might not work but it gives a force of dissuasion: people might experience the guilt of doing something illegal.</p>
+
+<h1 id="why-unethical">Why unethical?</h1>
+
+<p>Of course, if you read the news, you might be thinking of Cambridge Analytica or other organizations that scraps social media user data and manipulate by sending advertisements, fake news…</p>
+
+<p>We realize today that you can do web scraping to sell data to states, industries, advertisement companies or to rig an election. All this is of course harmful because the end goal is control and manipulation (pushing people to buy, to vote for the person who pays for you…). If the end goal is only money, power and control, we will end up with ads, surveillance everywhere. The web will become senseless and data will become a simple tool for controlling humans. Season 3 of westworld or episode 1 season 3 of black mirror give us a good illustration of what we need to avoid.</p>
+
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YrpK90bHO2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p>If you want a centralized computer that monitors everything, and data with one owner, you need to be like facebook and ask users hand over their data by means of an authentification system. If the technological architecture is designed this way, the data will belong to the company and no one else.</p>
+
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OqObVUEdGEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KdtPNRzuKrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5JmY59xUPxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p>All this is pretty bad, I agree. But it doesn’t necessarily mean that we need to condemn web scraping. I would like to rehabilitate this practice if it’s ok and see if we can change direction.</p>
+
+<p>But to do this, we need to go back first to the basics and see what a cool thing the web actually is.</p>
+
+<h1 id="what-is-the-web">What is the web?</h1>
+
+<p><span style="display:block;text-align:center"><img src="/assets/img/document.png" alt="Octocat" /></span></p>
+
+<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_mNOXDbXr9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p>The web is basically linked documents (you click on a link and it brings you to an other document from a specific computer). These linked documents can be shown by asking a specific computer to download it into your browser with an http/https protocol.</p>
+
+<p><span style="display:block;text-align:center"><img src="/assets/img/http.png" alt="Octocat" /></span></p>
+
+<p>We call these computers ‘servers’ because they are configured in such way that it can listen to our requests. ‘Servers’ turn a program in background waiting for some messages to come so that it can answer and deliver the required document or data.</p>
+
+<p>The content of these html documents is digital data. Why digital? Because they are binary (0 1). The browser translates this binary data to data that a human can understand.</p>
+
+<p>This is maybe a basic definition of what we call the web. The enormous value of it today is that all these documents, coming from different computers are linked together (with hyperlinks). Like university papers, or academic books, they often provides sources.</p>
+
+<p>It’s extremely important to note that there is no super-computer that monitors all these documents. Nor are there any super computers that monitor all these little computers. The information is spread horizontally in a decentralized way, through different computers.</p>
+
+<p><span style="display:block;text-align:center"><img src="/assets/img/decentralized.png" alt="Octocat" /></span></p>
+
+<p>When everything seems to be controlled by an institution, a company, a state in the offline world…, no one really controls the online world and some even say that this world has been made (not really by the us army, but by everyone of us that decides to add document files on the web) to be uncontrollable.</p>
+
+<p>In summary, we can see the web as an enormous library of documents linked to each other with no owner. If data had owners and strict copyright, we would not be able to build search engine. The web would become a very messy library with no way of finding the documents that users really need.</p>
+
+<p><span style="display:block;text-align:center"><img src="/assets/img/library.jpeg" alt="Octocat" /></span></p>
+
+<h1 id="what-is-web-scraping-now">What is web scraping now?</h1>
+
+<blockquote>
+  <p><em>“The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case.”</em></p>
+</blockquote>
+
+<blockquote>
+  <p><em>“One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk.”</em></p>
+</blockquote>
+
+<p><a href="https://en.wikipedia.org/wiki/Search_engine_scraping">Wikipedia: Search engine scraping</a></p>
+
+<p>Web scraping is an automated way to collect data from the web. If an API is not available, often, what needs to be done is taking a website’s HTML file, detecting the data and saving it, often into a database. So once the data is public, on the web, someone can store, monitor and/or use it.</p>
+
+<p>If people don’t want to access good content it’s not the fault of the web. And this problem is not technical. It’s ethical. If we build a new architecture of the web but behaviors does not change we will have new types of facebook coming along. We don’t need to build a more decentralized web with other technologies, we already need to be aware of the existing potentials of the web.</p>
+
+<p style="text-align:center"><video width="500" height="500" controls="">
+    <source src="/assets/google2.mp4" type="video/mp4" />
+</video></p>
+
+<p>The dream of one of the co-founders of google was to download the html documents of all the web, save it on his computer and do a big network of nodes based on the links he could find on each web (html) documents. He would need to first make a rule that recognizes links within webpages, transforms the link into a node and see where it is positionned in this big network.</p>
+
+<p>We can easily see here that Google is today’s most advanced web scraping company in existence. And, if we really want to access it, Google’s web scraping gives us the most
+amazing access to culture (with a big C) that there is.</p>
+
+<p>With these web scraping techniques, Google has given us a web that is easy to navigate.
+A web that is decipherable.</p>
+
+<h1 id="no-web-scraping-no-search-engine">No Web Scraping, no search engine</h1>
+
+<p style="text-align:center"><video width="500" height="500" controls="">
+    <source src="/assets/google4.mp4" type="video/mp4" />
+</video></p>
+
+<p>Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.</p>
+
+<p style="text-align:center"><video width="500" height="500" controls="">
+    <source src="/assets/google.mp4" type="video/mp4" />
+</video></p>
+
+<h1 id="so-now-where-can-we-go">So now where can we go?</h1>
+
+<p>I think we didn’t grab very well the potential of web scraping today and it’s normal because it’s not easy. Of course the first thing that comes into our mind is to use web scraping to find cheap prices for plane tickets, restaurants, products… Which is
+great. But we maybe can find an even better use for it.</p>
+
+<p>Today, we realize that the web is the perfect thing for big data. No web, no big data, no big data, no machine learning. We have powerful enough machines now to process a lot of the data and make sense of it.</p>
+
+<p>We now have machine-learning techniques that scrape the web and can process and classify data in order to:</p>
+
+<ul>
+  <li>detect a serious illness fast, before it’s too late</li>
+  <li>detect a forest fire before it’s too late</li>
+  <li>detect dangerous substances in a food product</li>
+  <li>detect dangers to plant, animal or insect life (such as the varroa mite to bee populations)</li>
+  <li>detect an outbreak of a new disease before it’s too late</li>
+  <li>detect dangerous substances of product we’re eating</li>
+  <li>automatized customer services that use advanced chatbots to problem-solve help you mend stuff (by sending photos to them) and find what you need to buy for you
+    <ul>
+      <li>these chatbot could help you mend stuff (by sending photos to them) and find what you need to buy for you</li>
+    </ul>
+  </li>
+  <li>machine learning can give us very precise statistics in economy, urbanism, criminality …
+…</li>
+</ul>
+
+<p>Other suggestions?</p>
+
+<p>Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fire so that cameras can recognize automatically a danger.</p>
+
+<p>In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.</p>
+:ET

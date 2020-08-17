@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-17T12:04:37+02:00</updated><id>/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">In defence of web scraping</title><link href="/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8J7TRSLf55U&quot;&gt;https://www.youtube.com/watch?v=8J7TRSLf55U&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&quot;&gt;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv&quot;&gt;https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d&quot;&gt;https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Season 3 of westworld&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tcMdWM8wmqs&quot;&gt;https://www.youtube.com/watch?v=tcMdWM8wmqs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Robots_exclusion_standard&quot;&gt;https://en.wikipedia.org/wiki/Robots_exclusion_standard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_scraping&quot;&gt;https://en.wikipedia.org/wiki/Search_engine_scraping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=guvsH5OFizE&quot;&gt;https://www.youtube.com/watch?v=guvsH5OFizE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://info.cern.ch/hypertext/WWW/TheProject.html&quot;&gt;http://info.cern.ch/hypertext/WWW/TheProject.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/service.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;When I say to people that I’m doing “web scraping” for my personal project, they either don’t know what I’m talking about or look at me with eyes of fear. The term “web scraping” has a negative connotation today. It’s often seen as unethical or/and illegal.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-illegal&quot;&gt;Why illegal?&lt;/h1&gt;
+
+&lt;p&gt;Some companies could even sue you (there have been dozens of legal cases on web scraping over the decades) or do some lobbying to make it illegal. It might not work but it gives a force of dissuasion: people might experience the guilt of doing something illegal.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-unethical&quot;&gt;Why unethical?&lt;/h1&gt;
+
+&lt;p&gt;Of course, if you read the news, you might be thinking of Cambridge Analytica or other organizations that scraps social media user data and manipulate by sending advertisements, fake news…&lt;/p&gt;
+
+&lt;p&gt;We realize today that you can do web scraping to sell data to states, industries, advertisement companies or to rig an election. All this is of course harmful because the end goal is control and manipulation (pushing people to buy, to vote for the person who pays for you…). If the end goal is only money, power and control, we will end up with ads, surveillance everywhere. The web will become senseless and data will become a simple tool for controlling humans. Season 3 of westworld or episode 1 season 3 of black mirror give us a good illustration of what we need to avoid.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YrpK90bHO2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want a centralized computer that monitors everything, and data with one owner, you need to be like facebook and ask users hand over their data by means of an authentification system. If the technological architecture is designed this way, the data will belong to the company and no one else.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OqObVUEdGEo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KdtPNRzuKrk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5JmY59xUPxg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;All this is pretty bad, I agree. But it doesn’t necessarily mean that we need to condemn web scraping. I would like to rehabilitate this practice if it’s ok and see if we can change direction.&lt;/p&gt;
+
+&lt;p&gt;But to do this, we need to go back first to the basics and see what a cool thing the web actually is.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-the-web&quot;&gt;What is the web?&lt;/h1&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/document.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_mNOXDbXr9c&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;The web is basically linked documents (you click on a link and it brings you to an other document from a specific computer). These linked documents can be shown by asking a specific computer to download it into your browser with an http/https protocol.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/http.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;We call these computers ‘servers’ because they are configured in such way that it can listen to our requests. ‘Servers’ turn a program in background waiting for some messages to come so that it can answer and deliver the required document or data.&lt;/p&gt;
+
+&lt;p&gt;The content of these html documents is digital data. Why digital? Because they are binary (0 1). The browser translates this binary data to data that a human can understand.&lt;/p&gt;
+
+&lt;p&gt;This is maybe a basic definition of what we call the web. The enormous value of it today is that all these documents, coming from different computers are linked together (with hyperlinks). Like university papers, or academic books, they often provides sources.&lt;/p&gt;
+
+&lt;p&gt;It’s extremely important to note that there is no super-computer that monitors all these documents. Nor are there any super computers that monitor all these little computers. The information is spread horizontally in a decentralized way, through different computers.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/decentralized.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;When everything seems to be controlled by an institution, a company, a state in the offline world…, no one really controls the online world and some even say that this world has been made (not really by the us army, but by everyone of us that decides to add document files on the web) to be uncontrollable.&lt;/p&gt;
+
+&lt;p&gt;In summary, we can see the web as an enormous library of documents linked to each other with no owner. If data had owners and strict copyright, we would not be able to build search engine. The web would become a very messy library with no way of finding the documents that users really need.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/library.jpeg&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-web-scraping-now&quot;&gt;What is web scraping now?&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_scraping&quot;&gt;Wikipedia: Search engine scraping&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Web scraping is an automated way to collect data from the web. If an API is not available, often, what needs to be done is taking a website’s HTML file, detecting the data and saving it, often into a database. So once the data is public, on the web, someone can store, monitor and/or use it.&lt;/p&gt;
+
+&lt;p&gt;If people don’t want to access good content it’s not the fault of the web. And this problem is not technical. It’s ethical. If we build a new architecture of the web but behaviors do not change we will have new types of facebook coming along. We don’t need to build a more decentralized web with other technologies, we already need to be aware of the existing potentials of the web.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;500&quot; height=&quot;500&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/google2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;The dream of one of the co-founders of google was to download the html documents of all the web, save it on his computer and do a big network of nodes based on the links he could find on each web (html) documents. He would need to first make a rule that recognizes links within webpages, transforms the link into a node and see where it is positionned in this big network.&lt;/p&gt;
+
+&lt;p&gt;We can easily see here that Google is today’s most advanced web scraping company in existence. And, if we really want to access it, Google’s web scraping gives us the most
+amazing access to culture (with a big C) that there is.&lt;/p&gt;
+
+&lt;p&gt;With these web scraping techniques, Google has given us a web that is easy to navigate.
+A web that is decipherable.&lt;/p&gt;
+
+&lt;h1 id=&quot;no-web-scraping-no-search-engine&quot;&gt;No Web Scraping, no search engine&lt;/h1&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;500&quot; height=&quot;500&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/google4.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;p&gt;Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;500&quot; height=&quot;500&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;/assets/google.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;so-now-where-can-we-go&quot;&gt;So now where can we go?&lt;/h1&gt;
+
+&lt;p&gt;I think we didn’t grab very well the potential of web scraping today and it’s normal because it’s not easy. Of course the first thing that comes into our mind is to use web scraping to find cheap prices for plane tickets, restaurants, products… Which is
+great. But we maybe can find an even better use for it.&lt;/p&gt;
+
+&lt;p&gt;Today, we realize that the web is the perfect thing for big data. No web, no big data, no big data, no machine learning. We have powerful enough machines now to process a lot of the data and make sense of it.&lt;/p&gt;
+
+&lt;p&gt;We now have machine-learning techniques that scrape the web and can process and classify data in order to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;detect a serious illness fast, before it’s too late&lt;/li&gt;
+  &lt;li&gt;detect a forest fire before it’s too late&lt;/li&gt;
+  &lt;li&gt;detect dangerous substances in a food product&lt;/li&gt;
+  &lt;li&gt;detect dangers to plant, animal or insect life (such as the varroa mite to bee populations)&lt;/li&gt;
+  &lt;li&gt;detect an outbreak of a new disease before it’s too late&lt;/li&gt;
+  &lt;li&gt;detect dangerous substances of product we’re eating&lt;/li&gt;
+  &lt;li&gt;automatized customer services that use advanced chatbots to problem-solve help you mend stuff (by sending photos to them) and find what you need to buy for you
+    &lt;ul&gt;
+      &lt;li&gt;these chatbot could help you mend stuff (by sending photos to them) and find what you need to buy for you&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;machine learning can give us very precise statistics in economy, urbanism, criminality …
+…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other suggestions?&lt;/p&gt;
+
+&lt;p&gt;Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fire so that cameras can recognize automatically a danger.&lt;/p&gt;
+
+&lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-native works?</title><link href="/posts/2019/10/15/how-does-react-native-works/" rel="alternate" type="text/html" title="How does react-native works?" /><published>2019-10-15T12:18:00+02:00</published><updated>2019-10-15T12:18:00+02:00</updated><id>/posts/2019/10/15/how-does-react-native-works</id><content type="html" xml:base="/posts/2019/10/15/how-does-react-native-works/">&lt;p&gt;SOURCE:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&quot;&gt;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/docs/communication-ios&quot;&gt;https://reactnative.dev/docs/communication-ios&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;https://facebook.github.io/react-native/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/React_Native&quot;&gt;https://en.wikipedia.org/wiki/React_Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qSRrxpdMpVc&amp;amp;t=231s&quot;&gt;https://www.youtube.com/watch?v=qSRrxpdMpVc&amp;amp;t=231s&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rReCzR6DMEM&quot;&gt;https://www.youtube.com/watch?v=rReCzR6DMEM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/kiok46/28743cd78fdd864322c12306eef0cff2&quot;&gt;https://gist.github.com/kiok46/28743cd78fdd864322c12306eef0cff2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jondot/rn-snoopy&quot;&gt;https://github.com/jondot/rn-snoopy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/&quot;&gt;https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/docs/performance&quot;&gt;https://reactnative.dev/docs/performance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/53588142/the-benefits-of-react-native-javascriptcore&quot;&gt;https://stackoverflow.com/questions/53588142/the-benefits-of-react-native-javascriptcore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/33479180/what-does-react-native-use-to-allow-javascript-to-be-executed-on-ios-and-android&quot;&gt;https://stackoverflow.com/questions/33479180/what-does-react-native-use-to-allow-javascript-to-be-executed-on-ios-and-android&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055/&quot;&gt;https://www.freecodecamp.org/news/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reactnative.guide/3-react-native-internals/3.1-react-native-internals.html&quot;&gt;https://www.reactnative.guide/3-react-native-internals/3.1-react-native-internals.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=1&amp;amp;v=0MlT74erp60&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=1&amp;amp;v=0MlT74erp60&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=1&amp;amp;v=8N4f4h6SThc&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=1&amp;amp;v=8N4f4h6SThc&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=3&amp;amp;v=UcqRXTriUVI&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=3&amp;amp;v=UcqRXTriUVI&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f&quot;&gt;https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.raywenderlich.com/1227-javascriptcore-tutorial-for-ios-getting-started&quot;&gt;https://www.raywenderlich.com/1227-javascriptcore-tutorial-for-ios-getting-started&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_IiDHmAPH28&quot;&gt;https://www.youtube.com/watch?v=_IiDHmAPH28&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/view.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;lets-understand-what-happens-when-a-user-starts-running-a-react-native-app&quot;&gt;Let’s understand what happens when a user starts running a react-native app&lt;/h1&gt;
+
+&lt;p&gt;To run the application one of the following commands are issued via the command-line interface (CLI): &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-ios&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-android&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This command runs at the native entry point thread (native thread) on which your Android (Java/Kotlin) or IOS (Swift/Objective C) app is running. This thread is automatically assigned by the phone’s operating system.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/process.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The native thread (or main thread) has access at what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The command creates a RootView (RCTRootView) that gives everything visible to the user.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The RootView creates the Bridge Interface.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the javascript side) so that it can pass accross. This communication is actually quite similar to a client (native thread) and a server (JS thread).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Bridge Interface will send messages to create the javascript (JS) thread to execute the code that is written in react-native.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Once the Bridge passes Serialized payload to JavaScript, Event is processed and your application logic comes into play.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Like all javascript virtual machines, this JS thread is an event loop where your React application lives, API calls are made, touch events are interpreted, etc… It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When React starts rendering it sends the changes to another thread: the Shadow thread.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the real mobile layout.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;
+&lt;img src=&quot;/assets/img/native.png&quot; alt=&quot;drawing&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Let’s look at this code as an example:&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-jsx highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;App&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+       &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;Hello there&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+     &lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;View /&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TextInput /&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Text/&amp;gt;&lt;/code&gt; are special components compiled into native code. The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;View&amp;gt;&lt;/code&gt; component will be linked to android.view for android and UIView for ios. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TextInput&amp;gt;&lt;/code&gt; will be linked to EditText for android and UITextField for IOS.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Since only the main thread is able to render something on the screen, shadow thread should send generated layout to the main thread, and only then UI renders.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Pourquoi les inégalités sont aussi importantes aujourd’hui?</title><link href="/posts/2019/10/14/valuing-diversity/" rel="alternate" type="text/html" title="Pourquoi les inégalités sont aussi importantes aujourd'hui?" /><published>2019-10-14T12:18:00+02:00</published><updated>2019-10-14T12:18:00+02:00</updated><id>/posts/2019/10/14/valuing-diversity</id><content type="html" xml:base="/posts/2019/10/14/valuing-diversity/">&lt;p&gt;Sources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=d-qmvvzBANY&amp;amp;t=364s&quot;&gt;Peter Hershock on diversity&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.&lt;/p&gt;
+
+&lt;p&gt;C’est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd’hui, c’est parce qu’il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités.&lt;/p&gt;
+
+&lt;p&gt;Pour que ca change les humains doivent déclencher les 3 principaux mécanismes de la compassion:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Une nuisance très sérieuse se passe aujoud’hui chez un humain ou un groupe d’humains&lt;/li&gt;
+  &lt;li&gt;Cette nuisance n’est pas méritée. Ce n’est pas de leur faute.&lt;/li&gt;
+  &lt;li&gt;Si ces personnes sont plus épanouies, ca me rendra plus épanoui.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu’elles soient religieuses, familiales, économiques…&lt;/p&gt;
+
+&lt;p&gt;L’individualisme est probablement une bonne valeur mais elle nous a proposé une conception du monde qui consiste à séparer radicalement le “Moi” des autres. Chaque action individuelle influence l’interconnectivité entre les personnes. Les valeurs, les actions, d’un humain ne s’arrêtent pas à ce seul humain. Elles interagissent et influencent sans cesse les actions, les valeurs des autres et réciproquement. Quelques exemples :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;la crise immobilière de 2008 a créé une crise mondiale&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;un humain qui passe à moto très vite en ville avec un moteur très bruyant influence l’environnement tout entier dans lequel il se retrouve. Il communique aux autres un style de vie. Cette forme de communication est essentielle. Il faut l’évaluer profondément et éventuellement la changer.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il faut prendre conscience que les dynamismes du changement peuvent aujourd’hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Le plus important est de dire non au pouvoir en tant qu’idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l’impression qu’on est bloqué avec ça. Lorsqu’on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d’actions. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Inventons, créons de nouvelles règles du jeu où l’on cherche à jouer avec tous ses membres, sans qu’il y ait de fin, en faisant en sorte que ce jeu soit intéressant pour tout le monde. Un joueur de qualité est un joueur qui cherche à bien improviser pour proposer de la diversité dans ce jeu. Il faut faire plus que “tolérer” les différences entre les personnes, il faut les favoriser, car la différence est une opportunité, une possibilité, pour faire découvrir aux autres de nouvelles valeurs, de nouvelles perspectives sur les choses, de nouvelles possibilités d’harmonisations. C’est une relation émergente qualitative qui arrive dans un contexte donné. Mais il faut en même temps trouver des engagements que l’on partage sans que ce soit en fonction d’une idée commune d’épanouissement (sinon on risque de tomber dans une idéologie).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mais ATTENTION: il ne faut pas forcer la diversité, il faut créer les conditions qui favorisent cette diversité.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">Sources: Peter Hershock on diversity. Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné. C’est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd’hui, c’est parce qu’il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités. Pour que ca change les humains doivent déclencher les 3 principaux mécanismes de la compassion: Une nuisance très sérieuse se passe aujoud’hui chez un humain ou un groupe d’humains Cette nuisance n’est pas méritée. Ce n’est pas de leur faute. Si ces personnes sont plus épanouies, ca me rendra plus épanoui. Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu’elles soient religieuses, familiales, économiques… L’individualisme est probablement une bonne valeur mais elle nous a proposé une conception du monde qui consiste à séparer radicalement le “Moi” des autres. Chaque action individuelle influence l’interconnectivité entre les personnes. Les valeurs, les actions, d’un humain ne s’arrêtent pas à ce seul humain. Elles interagissent et influencent sans cesse les actions, les valeurs des autres et réciproquement. Quelques exemples : la crise immobilière de 2008 a créé une crise mondiale un humain qui passe à moto très vite en ville avec un moteur très bruyant influence l’environnement tout entier dans lequel il se retrouve. Il communique aux autres un style de vie. Cette forme de communication est essentielle. Il faut l’évaluer profondément et éventuellement la changer. Il faut prendre conscience que les dynamismes du changement peuvent aujourd’hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ? Le plus important est de dire non au pouvoir en tant qu’idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l’impression qu’on est bloqué avec ça. Lorsqu’on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d’actions. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres. Inventons, créons de nouvelles règles du jeu où l’on cherche à jouer avec tous ses membres, sans qu’il y ait de fin, en faisant en sorte que ce jeu soit intéressant pour tout le monde. Un joueur de qualité est un joueur qui cherche à bien improviser pour proposer de la diversité dans ce jeu. Il faut faire plus que “tolérer” les différences entre les personnes, il faut les favoriser, car la différence est une opportunité, une possibilité, pour faire découvrir aux autres de nouvelles valeurs, de nouvelles perspectives sur les choses, de nouvelles possibilités d’harmonisations. C’est une relation émergente qualitative qui arrive dans un contexte donné. Mais il faut en même temps trouver des engagements que l’on partage sans que ce soit en fonction d’une idée commune d’épanouissement (sinon on risque de tomber dans une idéologie). Mais ATTENTION: il ne faut pas forcer la diversité, il faut créer les conditions qui favorisent cette diversité.</summary></entry></feed>
