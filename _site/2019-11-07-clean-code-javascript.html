@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Felix's blog | Clean code javascript</title>
+  <link rel="stylesheet" href="/assets/css/mark.css" />
+  <link rel="stylesheet" href="/assets/css/custom.css" />
+  <!-- PILL JS LOADER SYLE -->
+  <style>
+    #indicator {
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 0;
+      height: 3px;
+      display: none;
+      background-color: #72b6b5;
+    }
+
+    .is-loading {
+      display: block;
+      animation: blink 1.5s linear infinite;
+    }
+
+    @keyframes blink {
+      from,
+      to {
+        background-color: #72b6b5;
+      }
+
+      50% {
+        background-color: #42b983;
+      }
+    }
+
+    #project-link {
+      display: block;
+      position: fixed;
+      padding: 8px;
+      top: 0;
+      right: 0;
+    }
+  </style>
+  <!-- PILL JS -->
+  <script src="/assets/js/pill.min.js"></script>
+  <script>
+    // this is for pill js as the normal link wont work
+    function openLink(url) {
+      window.open(url, "_blank");
+    }
+  </script>
+</head>
+
+  <body>
+    <div id="indicator"></div>
+    <div id="page">
+      <style>
+        .title {
+          padding: 10%;
+          color: #0ac4ba;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          /* background: #0ac4ba; */
+          display: grid;
+        }
+        .meta {
+          font-size: 0.7rem;
+          font-weight: normal;
+          text-transform: uppercase;
+        }
+      </style>
+      <!-- header -->
+      <header>
+	<a href="/">
+		<h3>Felix's blog</h3>
+	</a>
+</header>
+
+      <!-- nav -->
+      <nav>
+	
+		
+			<a href="/">Home</a>
+		
+	
+		
+			<a href="/about">About</a>
+		
+	
+</nav>
+      <!-- page content -->
+      <main class="content">
+        <p class="title">
+          Clean code javascript
+        </p>
+        <p>SOURCE:</p>
+
+<ul>
+  <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</a></li>
+  <li><a href="https://google.github.io/styleguide/jsguide.html">https://google.github.io/styleguide/jsguide.html</a></li>
+  <li><a href="https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a">https://medium.com/@konstankino/2019-reactjs-best-practices-design-patterns-516e1c3ca06a</a></li>
+  <li><a href="https://americanexpress.io/clean-code-dirty-code/">https://americanexpress.io/clean-code-dirty-code/</a></li>
+  <li><a href="https://dmitripavlutin.com/react-usestate-hook-guide/">https://dmitripavlutin.com/react-usestate-hook-guide/</a></li>
+  <li><a href="https://lightsonsoftware.com/writing-code-that-reads-like-a-story/">https://lightsonsoftware.com/writing-code-that-reads-like-a-story/</a></li>
+  <li><a href="https://opensource.com/business/15/10/jane-austen-on-python">https://opensource.com/business/15/10/jane-austen-on-python</a></li>
+  <li><a href="https://eloquentjavascript.net/Eloquent_JavaScript.pdf">https://eloquentjavascript.net/Eloquent_JavaScript.pdf</a></li>
+</ul>
+
+<p>The end goal of code is to be understood by a machine and by an other human being. This is like communication: if you speak and no one understands you. You’re only speaking to yourself and others cannot make any use of it. This is like code.</p>
+
+<p>Envisioning code as a story can be a useful metaphor for helping to create clean code. If the audience has difficulty reading your story, it will not be a pleasant experience for them. They will not be able to work with it, explain the nuances to others, or adapt it in the future.</p>
+
+<p>So clean code is just simple code. Nothing else.</p>
+
+<h1 id="naming">Naming</h1>
+
+<h2 id="use-meaningful-and-pronounceable-variable-names">Use meaningful and pronounceable variable names</h2>
+
+<p>Bad:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">d</span>
+<span class="kd">let</span> <span class="nx">elapsed</span>
+<span class="kd">const</span> <span class="nx">ages</span> <span class="o">=</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">i</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">i</span><span class="p">.</span><span class="nx">age</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Good:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="kd">let</span> <span class="nx">daysSinceModification</span>
+<span class="kd">const</span> <span class="nx">agesOfUsers</span> <span class="o">=</span> <span class="nx">users</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">user</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">user</span><span class="p">.</span><span class="nx">age</span><span class="p">)</span>
+
+</code></pre></div></div>
+
+<h2 id="make-meaningful-distinctions-and-dont-add-extra-unnecessary-nouns-to-the-variable-name">Make meaningful distinctions and don’t add extra, unnecessary nouns to the variable name</h2>
+
+<p>Bad:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">nameString</span>
+<span class="kd">let</span> <span class="nx">theUsers</span>
+</code></pre></div></div>
+
+<p>Good:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">name</span>
+<span class="kd">let</span> <span class="nx">users</span>
+</code></pre></div></div>
+
+<h2 id="make-your-variable-names-easy-to-pronounce-because-for-the-human-mind-it-takes-less-effort-to-process">Make your variable names easy to pronounce, because for the human mind it takes less effort to process</h2>
+
+<p>In short, don’t cause extra mental mapping with your names.</p>
+
+<p>Bad:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">fName</span><span class="p">,</span> <span class="nx">lName</span>
+<span class="kd">let</span> <span class="nx">cntr</span>
+
+<span class="kd">let</span> <span class="nx">full</span> <span class="o">=</span> <span class="kc">false</span>
+<span class="k">if</span> <span class="p">(</span><span class="nx">cart</span><span class="p">.</span><span class="nx">size</span> <span class="o">&gt;</span> <span class="mi">100</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">full</span> <span class="o">=</span> <span class="kc">true</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>Good:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">firstName</span><span class="p">,</span> <span class="nx">lastName</span>
+<span class="kd">let</span> <span class="nx">counter</span>
+
+<span class="kd">const</span> <span class="nx">MAX_CART_SIZE</span> <span class="o">=</span> <span class="mi">100</span>
+<span class="c1">// ...</span>
+<span class="kd">const</span> <span class="nx">isFull</span> <span class="o">=</span> <span class="nx">cart</span><span class="p">.</span><span class="nx">size</span> <span class="o">&gt;</span> <span class="nx">MAX_CART_SIZE</span>
+
+
+</code></pre></div></div>
+
+<h2 id="use-searchable-names">Use searchable names</h2>
+
+<p>We will read more code than we will ever write. It’s important that the code we do write is readable and searchable. By not naming variables that end up being meaningful for understanding our program, we hurt our readers. Make your names searchable.</p>
+
+<p>Bad:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// What the heck is 86400000 for?</span>
+<span class="nx">setTimeout</span><span class="p">(</span><span class="nx">blastOff</span><span class="p">,</span> <span class="mi">86400000</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p>Good:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Declare them as capitalized named constants.</span>
+<span class="kd">const</span> <span class="nx">MILLISECONDS_IN_A_DAY</span> <span class="o">=</span> <span class="mi">86400000</span><span class="p">;</span>
+
+<span class="nx">setTimeout</span><span class="p">(</span><span class="nx">blastOff</span><span class="p">,</span> <span class="nx">MILLISECONDS_IN_A_DAY</span><span class="p">);</span>
+
+</code></pre></div></div>
+
+<h2 id="use-explanatory-variables">Use explanatory variables</h2>
+
+<p>Bad:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+<span class="kd">const</span> <span class="nx">address</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">One Infinite Loop, Cupertino 95014</span><span class="dl">'</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">cityZipCodeRegex</span> <span class="o">=</span> <span class="sr">/^</span><span class="se">[^</span><span class="sr">,</span><span class="se">\\]</span><span class="sr">+</span><span class="se">[</span><span class="sr">,</span><span class="se">\\\s]</span><span class="sr">+</span><span class="se">(</span><span class="sr">.+</span><span class="se">?)\s</span><span class="sr">*</span><span class="se">(\d{5})?</span><span class="sr">$/</span><span class="p">;</span>
+<span class="nx">saveCityZipCode</span><span class="p">(</span><span class="nx">address</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="nx">cityZipCodeRegex</span><span class="p">)[</span><span class="mi">1</span><span class="p">],</span> <span class="nx">address</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="nx">cityZipCodeRegex</span><span class="p">)[</span><span class="mi">2</span><span class="p">]);</span>
+
+</code></pre></div></div>
+
+<p>Good:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">address</span> <span class="o">=</span> <span class="dl">'</span><span class="s1">One Infinite Loop, Cupertino 95014</span><span class="dl">'</span><span class="p">;</span>
+<span class="kd">const</span> <span class="nx">cityZipCodeRegex</span> <span class="o">=</span> <span class="sr">/^</span><span class="se">[^</span><span class="sr">,</span><span class="se">\\]</span><span class="sr">+</span><span class="se">[</span><span class="sr">,</span><span class="se">\\\s]</span><span class="sr">+</span><span class="se">(</span><span class="sr">.+</span><span class="se">?)\s</span><span class="sr">*</span><span class="se">(\d{5})?</span><span class="sr">$/</span><span class="p">;</span>
+<span class="kd">const</span> <span class="p">[,</span> <span class="nx">city</span><span class="p">,</span> <span class="nx">zipCode</span><span class="p">]</span> <span class="o">=</span> <span class="nx">address</span><span class="p">.</span><span class="nx">match</span><span class="p">(</span><span class="nx">cityZipCodeRegex</span><span class="p">)</span> <span class="o">||</span> <span class="p">[];</span>
+<span class="nx">saveCityZipCode</span><span class="p">(</span><span class="nx">city</span><span class="p">,</span> <span class="nx">zipCode</span><span class="p">);</span>
+
+</code></pre></div></div>
+
+<h2 id="avoid-mental-mapping">Avoid Mental Mapping</h2>
+
+<p>Explicit is better than implicit.</p>
+
+<p>Bad:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">locations</span> <span class="o">=</span> <span class="p">[</span><span class="dl">'</span><span class="s1">Austin</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">New York</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">San Francisco</span><span class="dl">'</span><span class="p">];</span>
+<span class="nx">locations</span><span class="p">.</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">l</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">doStuff</span><span class="p">();</span>
+  <span class="nx">doSomeOtherStuff</span><span class="p">();</span>
+  <span class="c1">// ...</span>
+  <span class="c1">// ...</span>
+  <span class="c1">// ...</span>
+  <span class="c1">// Wait, what is `l` for again?</span>
+  <span class="nx">dispatch</span><span class="p">(</span><span class="nx">l</span><span class="p">);</span>
+<span class="p">});</span>
+
+</code></pre></div></div>
+
+<p>Good:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">locations</span> <span class="o">=</span> <span class="p">[</span><span class="dl">'</span><span class="s1">Austin</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">New York</span><span class="dl">'</span><span class="p">,</span> <span class="dl">'</span><span class="s1">San Francisco</span><span class="dl">'</span><span class="p">];</span>
+<span class="nx">locations</span><span class="p">.</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">location</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">doStuff</span><span class="p">();</span>
+  <span class="nx">doSomeOtherStuff</span><span class="p">();</span>
+  <span class="c1">// ...</span>
+  <span class="c1">// ...</span>
+  <span class="c1">// ...</span>
+  <span class="nx">dispatch</span><span class="p">(</span><span class="nx">location</span><span class="p">);</span>
+<span class="p">});</span>
+
+
+</code></pre></div></div>
+
+      </main>
+
+      <!-- footer -->
+      <footer>
+  <p>
+    
+  </p>
+  <p>
+    &copy 2020 | Felix's blog
+  </p>
+</footer>
+<script
+  src="/assets/js/site.js"
+  id="pill_site_script"
+  type="module"
+></script>
+
+    </div>
+  </body>
+</html>
