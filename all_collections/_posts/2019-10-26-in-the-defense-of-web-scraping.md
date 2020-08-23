@@ -34,7 +34,7 @@ We realize today that you can do web scraping to sell data to states, industries
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YrpK90bHO2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-If you want a centralized computer that monitors everything, and data with one owner, you need to be like facebook and ask users hand over their data by means of an authentification system. If the technological architecture is designed this way, the data will belong to the company and no one else.
+If you want a centralized computer that monitors everything, and data with one owner, you need to be like facebook and ask users hand over their data by means of an authentification system. If the technological architecture is designed this way, the data will belong to the company and no one else. If you decide to put all the data collected by users behind an authentification system, you decide not to share data, but to keep it for yourself.
 
 <p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OqObVUEdGEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 

@@ -8,6 +8,7 @@ tags: philosophy
 Sources:
 
 - [Peter Hershock on diversity](https://www.youtube.com/watch?v=d-qmvvzBANY&t=364s).
+- [https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf](https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf)
 
 Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
 
@@ -29,7 +30,7 @@ L'individualisme est probablement une bonne valeur mais elle nous a proposé une
 
 Il faut prendre conscience que les dynamismes du changement peuvent aujourd'hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ?
 
-1. Le plus important est de dire non au pouvoir en tant qu'idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l'impression qu'on est bloqué avec ça. Lorsqu'on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d'actions. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres.
+1. Le plus important est de dire non au pouvoir en tant qu'idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l'impression qu'on est bloqué avec ça. Lorsqu'on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d'actions. Le cœur de la diversité est l'idée de la dynamique créatrice entre l'acceptation totale et le rejet total, que les confucéens considèrent comme essentielle à l'épanouissement humain. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres.
 
 2. Inventons, créons de nouvelles règles du jeu où l'on cherche à jouer avec tous ses membres, sans qu'il y ait de fin, en faisant en sorte que ce jeu soit intéressant pour tout le monde. Un joueur de qualité est un joueur qui cherche à bien improviser pour proposer de la diversité dans ce jeu. Il faut faire plus que "tolérer" les différences entre les personnes, il faut les favoriser, car la différence est une opportunité, une possibilité, pour faire découvrir aux autres de nouvelles valeurs, de nouvelles perspectives sur les choses, de nouvelles possibilités d'harmonisations. C'est une relation émergente qualitative qui arrive dans un contexte donné. Mais il faut en même temps trouver des engagements que l'on partage sans que ce soit en fonction d'une idée commune d'épanouissement (sinon on risque de tomber dans une idéologie).
 
