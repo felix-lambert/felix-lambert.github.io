@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-31T14:42:34+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">Clean code javascript</title><link href="http://localhost:4000/posts/2019/11/07/clean-code-javascript/" rel="alternate" type="text/html" title="Clean code javascript" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/07/clean-code-javascript</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/07/clean-code-javascript/">&lt;p&gt;SOURCE:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-31T15:04:09+02:00</updated><id>/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">Clean code javascript</title><link href="/posts/2019/11/07/clean-code-javascript/" rel="alternate" type="text/html" title="Clean code javascript" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>/posts/2019/11/07/clean-code-javascript</id><content type="html" xml:base="/posts/2019/11/07/clean-code-javascript/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/airbnb/javascript&quot;&gt;https://github.com/airbnb/javascript&lt;/a&gt;&lt;/li&gt;
@@ -486,7 +486,7 @@ Bad:&lt;/p&gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;name-your-event-handlers-with-handle-prefixes-such-as-handleclick-or-handleupdate&quot;&gt;Name your event handlers with handle prefixes, such as &lt;code class=&quot;highlighter-rouge&quot;&gt;handleClick()&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;handleUpdate()&lt;/code&gt;.&lt;/h3&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Does a developer need to be nice?</title><link href="http://localhost:4000/posts/2019/11/07/does-a-developer-needs-to-be-nice/" rel="alternate" type="text/html" title="Does a developer need to be nice?" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/07/does-a-developer-needs-to-be-nice</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/07/does-a-developer-needs-to-be-nice/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;h3 id=&quot;name-your-event-handlers-with-handle-prefixes-such-as-handleclick-or-handleupdate&quot;&gt;Name your event handlers with handle prefixes, such as &lt;code class=&quot;highlighter-rouge&quot;&gt;handleClick()&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;handleUpdate()&lt;/code&gt;.&lt;/h3&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Does a developer need to be nice?</title><link href="/posts/2019/11/07/does-a-developer-needs-to-be-nice/" rel="alternate" type="text/html" title="Does a developer need to be nice?" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>/posts/2019/11/07/does-a-developer-needs-to-be-nice</id><content type="html" xml:base="/posts/2019/11/07/does-a-developer-needs-to-be-nice/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=J9OpTNk0hYc&amp;amp;t=164s&quot;&gt;https://www.youtube.com/watch?v=J9OpTNk0hYc&amp;amp;t=164s&lt;/a&gt;&lt;/li&gt;
@@ -506,7 +506,7 @@ Bad:&lt;/p&gt;
 
 &lt;p&gt;So all the words we use should be chosen very precisely. We need to make sure that others did get it and didn’t feel offended. It’s a real work that requires training, and it’s even more important for me than good quality code. Code, oral or written communication have the same goal: to communicate to somebody else by making sure that the output you provide is well understood and well interpreted by the receiver of this output.&lt;/p&gt;
 
-&lt;p&gt;This is why we shouldn’t even use “Good code” or “Bad code” because “good” and “bad” have a moral implication that could easily come with a feeling of guilt. We should maybe say instead: a code that is easily readable or not. So when we see a code that is complicated to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">In defence of web scraping</title><link href="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;p&gt;This is why we shouldn’t even use “Good code” or “Bad code” because “good” and “bad” have a moral implication that could easily come with a feeling of guilt. We should maybe say instead: a code that is easily readable or not. So when we see a code that is complicated to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">In defence of web scraping</title><link href="/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8J7TRSLf55U&quot;&gt;https://www.youtube.com/watch?v=8J7TRSLf55U&lt;/a&gt;&lt;/li&gt;
@@ -644,7 +644,7 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
 
 &lt;p&gt;Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fire so that cameras can recognize automatically a danger.&lt;/p&gt;
 
-&lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-native works?</title><link href="http://localhost:4000/posts/2019/10/15/how-does-react-native-works/" rel="alternate" type="text/html" title="How does react-native works?" /><published>2019-10-15T12:18:00+02:00</published><updated>2019-10-15T12:18:00+02:00</updated><id>http://localhost:4000/posts/2019/10/15/how-does-react-native-works</id><content type="html" xml:base="http://localhost:4000/posts/2019/10/15/how-does-react-native-works/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-native works?</title><link href="/posts/2019/10/15/how-does-react-native-works/" rel="alternate" type="text/html" title="How does react-native works?" /><published>2019-10-15T12:18:00+02:00</published><updated>2019-10-15T12:18:00+02:00</updated><id>/posts/2019/10/15/how-does-react-native-works</id><content type="html" xml:base="/posts/2019/10/15/how-does-react-native-works/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&quot;&gt;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&lt;/a&gt;&lt;/li&gt;
@@ -673,7 +673,7 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
 
 &lt;h1 id=&quot;lets-understand-what-happens-when-a-user-starts-running-a-react-native-app&quot;&gt;Let’s understand what happens when a user starts running a react-native app&lt;/h1&gt;
 
-&lt;p&gt;To run the application one of the following commands are issued via the command-line interface (CLI): &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-ios&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-android&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;To run the application one of the following commands is issued via the command-line interface (CLI): &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-ios&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-android&lt;/code&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;This command runs at the native entry point thread (native thread) on which your Android (Java/Kotlin) or IOS (Swift/Objective C) app is running. This thread is automatically assigned by the phone’s operating system.&lt;/li&gt;
@@ -682,7 +682,7 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/process.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The native thread (or main thread) has access at what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.&lt;/p&gt;
+  &lt;p&gt;The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -695,20 +695,20 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the javascript side) so that it can pass accross. This communication is actually quite similar to a client (native thread) and a server (JS thread).&lt;/p&gt;
+  &lt;p&gt;The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;The Bridge Interface will send messages to create the javascript (JS) thread to execute the code that is written in react-native.&lt;/p&gt;
+    &lt;p&gt;The Bridge Interface will send messages to create the JavaScript (JS) thread to execute the code that is written in react-native.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Once the Bridge passes Serialized payload to JavaScript, Event is processed and your application logic comes into play.&lt;/p&gt;
+    &lt;p&gt;Once the Bridge passes serialized payload to JavaScript, Event is processed and your application logic comes into play.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Like all javascript virtual machines, this JS thread is an event loop where your React application lives, API calls are made, touch events are interpreted, etc… It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).&lt;/p&gt;
+  &lt;p&gt;Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -716,30 +716,22 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the real mobile layout.&lt;/p&gt;
+  &lt;p&gt;React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;
-&lt;img src=&quot;/assets/img/native.png&quot; alt=&quot;drawing&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt; &lt;img src=&quot;/assets/img/native.png&quot; alt=&quot;drawing&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Let’s look at this code as an example:&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;div class=&quot;language-jsx highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;App&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-      &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-       &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;Hello there&lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-     &lt;span class=&quot;p&quot;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;View&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;p&gt;```jsx let d const App = props = { return ( &lt;View&gt; &lt;Text&gt;Hello there&lt;/Text&gt; &lt;/View&gt; ) }&lt;/p&gt;
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;```&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.&lt;/p&gt;
@@ -749,26 +741,26 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Since only the main thread is able to render something on the screen, shadow thread should send generated layout to the main thread, and only then UI renders.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Pourquoi les inégalités sont aussi importantes aujourd’hui?</title><link href="http://localhost:4000/posts/2019/10/14/valuing-diversity/" rel="alternate" type="text/html" title="Pourquoi les inégalités sont aussi importantes aujourd'hui?" /><published>2019-10-14T12:18:00+02:00</published><updated>2019-10-14T12:18:00+02:00</updated><id>http://localhost:4000/posts/2019/10/14/valuing-diversity</id><content type="html" xml:base="http://localhost:4000/posts/2019/10/14/valuing-diversity/">&lt;p&gt;Sources:&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Pourquoi les inégalités sont aussi importantes aujourd’hui?</title><link href="/posts/2019/10/14/valuing-diversity/" rel="alternate" type="text/html" title="Pourquoi les inégalités sont aussi importantes aujourd'hui?" /><published>2019-10-14T12:18:00+02:00</published><updated>2019-10-14T12:18:00+02:00</updated><id>/posts/2019/10/14/valuing-diversity</id><content type="html" xml:base="/posts/2019/10/14/valuing-diversity/">&lt;p&gt;Sources:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=d-qmvvzBANY&amp;amp;t=364s&quot;&gt;Peter Hershock on diversity&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf&quot;&gt;https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.&lt;/p&gt;
+&lt;p&gt;Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches ont doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.&lt;/p&gt;
 
 &lt;p&gt;C’est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd’hui, c’est parce qu’il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités.&lt;/p&gt;
 
-&lt;p&gt;Pour que ca change les humains doivent déclencher les 3 principaux mécanismes de la compassion:&lt;/p&gt;
+&lt;p&gt;Pour que ça change, les humains doivent déclencher les 3 principaux mécanismes de la compassion:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Une nuisance très sérieuse se passe aujoud’hui chez un humain ou un groupe d’humains&lt;/li&gt;
+  &lt;li&gt;Une nuisance très sérieuse se passe aujourd’hui chez un humain ou un groupe d’humains&lt;/li&gt;
   &lt;li&gt;Cette nuisance n’est pas méritée. Ce n’est pas de leur faute.&lt;/li&gt;
-  &lt;li&gt;Si ces personnes sont plus épanouies, ca me rendra plus épanoui.&lt;/li&gt;
+  &lt;li&gt;Si ces personnes sont plus épanouies, ça me rendra plus épanoui.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu’elles soient religieuses, familiales, économiques…&lt;/p&gt;
+&lt;p&gt;Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu’elles soient religieuses, familiales, économique…&lt;/p&gt;
 
 &lt;p&gt;L’individualisme est probablement une bonne valeur mais elle nous a proposé une conception du monde qui consiste à séparer radicalement le “Moi” des autres. Chaque action individuelle influence l’interconnectivité entre les personnes. Les valeurs, les actions, d’un humain ne s’arrêtent pas à ce seul humain. Elles interagissent et influencent sans cesse les actions, les valeurs des autres et réciproquement. Quelques exemples :&lt;/p&gt;
 
@@ -781,7 +773,7 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Il faut prendre conscience que les dynamismes du changement peuvent aujourd’hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ?&lt;/p&gt;
+&lt;p&gt;Il faut prendre conscience que les dynamismes du changement peuvent aujourd’hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ?&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -793,4 +785,4 @@ great. But we maybe can find an even better use for it.&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;Mais ATTENTION: il ne faut pas forcer la diversité, il faut créer les conditions qui favorisent cette diversité.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">Sources: Peter Hershock on diversity. https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné. C’est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd’hui, c’est parce qu’il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités. Pour que ca change les humains doivent déclencher les 3 principaux mécanismes de la compassion: Une nuisance très sérieuse se passe aujoud’hui chez un humain ou un groupe d’humains Cette nuisance n’est pas méritée. Ce n’est pas de leur faute. Si ces personnes sont plus épanouies, ca me rendra plus épanoui. Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu’elles soient religieuses, familiales, économiques… L’individualisme est probablement une bonne valeur mais elle nous a proposé une conception du monde qui consiste à séparer radicalement le “Moi” des autres. Chaque action individuelle influence l’interconnectivité entre les personnes. Les valeurs, les actions, d’un humain ne s’arrêtent pas à ce seul humain. Elles interagissent et influencent sans cesse les actions, les valeurs des autres et réciproquement. Quelques exemples : la crise immobilière de 2008 a créé une crise mondiale un humain qui passe à moto très vite en ville avec un moteur très bruyant influence l’environnement tout entier dans lequel il se retrouve. Il communique aux autres un style de vie. Cette forme de communication est essentielle. Il faut l’évaluer profondément et éventuellement la changer. Il faut prendre conscience que les dynamismes du changement peuvent aujourd’hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ? Le plus important est de dire non au pouvoir en tant qu’idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l’impression qu’on est bloqué avec ça. Lorsqu’on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d’actions. Le cœur de la diversité est l’idée de la dynamique créatrice entre l’acceptation totale et le rejet total, que les confucéens considèrent comme essentielle à l’épanouissement humain. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres. Inventons, créons de nouvelles règles du jeu où l’on cherche à jouer avec tous ses membres, sans qu’il y ait de fin, en faisant en sorte que ce jeu soit intéressant pour tout le monde. Un joueur de qualité est un joueur qui cherche à bien improviser pour proposer de la diversité dans ce jeu. Il faut faire plus que “tolérer” les différences entre les personnes, il faut les favoriser, car la différence est une opportunité, une possibilité, pour faire découvrir aux autres de nouvelles valeurs, de nouvelles perspectives sur les choses, de nouvelles possibilités d’harmonisations. C’est une relation émergente qualitative qui arrive dans un contexte donné. Mais il faut en même temps trouver des engagements que l’on partage sans que ce soit en fonction d’une idée commune d’épanouissement (sinon on risque de tomber dans une idéologie). Mais ATTENTION: il ne faut pas forcer la diversité, il faut créer les conditions qui favorisent cette diversité.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">Sources: Peter Hershock on diversity. https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches ont doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné. C’est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd’hui, c’est parce qu’il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités. Pour que ça change, les humains doivent déclencher les 3 principaux mécanismes de la compassion: Une nuisance très sérieuse se passe aujourd’hui chez un humain ou un groupe d’humains Cette nuisance n’est pas méritée. Ce n’est pas de leur faute. Si ces personnes sont plus épanouies, ça me rendra plus épanoui. Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu’elles soient religieuses, familiales, économique… L’individualisme est probablement une bonne valeur mais elle nous a proposé une conception du monde qui consiste à séparer radicalement le “Moi” des autres. Chaque action individuelle influence l’interconnectivité entre les personnes. Les valeurs, les actions, d’un humain ne s’arrêtent pas à ce seul humain. Elles interagissent et influencent sans cesse les actions, les valeurs des autres et réciproquement. Quelques exemples : la crise immobilière de 2008 a créé une crise mondiale un humain qui passe à moto très vite en ville avec un moteur très bruyant influence l’environnement tout entier dans lequel il se retrouve. Il communique aux autres un style de vie. Cette forme de communication est essentielle. Il faut l’évaluer profondément et éventuellement la changer. Il faut prendre conscience que les dynamismes du changement peuvent aujourd’hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ? Le plus important est de dire non au pouvoir en tant qu’idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l’impression qu’on est bloqué avec ça. Lorsqu’on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d’actions. Le cœur de la diversité est l’idée de la dynamique créatrice entre l’acceptation totale et le rejet total, que les confucéens considèrent comme essentielle à l’épanouissement humain. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres. Inventons, créons de nouvelles règles du jeu où l’on cherche à jouer avec tous ses membres, sans qu’il y ait de fin, en faisant en sorte que ce jeu soit intéressant pour tout le monde. Un joueur de qualité est un joueur qui cherche à bien improviser pour proposer de la diversité dans ce jeu. Il faut faire plus que “tolérer” les différences entre les personnes, il faut les favoriser, car la différence est une opportunité, une possibilité, pour faire découvrir aux autres de nouvelles valeurs, de nouvelles perspectives sur les choses, de nouvelles possibilités d’harmonisations. C’est une relation émergente qualitative qui arrive dans un contexte donné. Mais il faut en même temps trouver des engagements que l’on partage sans que ce soit en fonction d’une idée commune d’épanouissement (sinon on risque de tomber dans une idéologie). Mais ATTENTION: il ne faut pas forcer la diversité, il faut créer les conditions qui favorisent cette diversité.</summary></entry></feed>
