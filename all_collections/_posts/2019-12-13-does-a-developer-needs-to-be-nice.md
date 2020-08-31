@@ -19,8 +19,6 @@ SOURCE:
 
 [The New York Times](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-When companies want to hire new software developers, they now focus on empathy skills, or at least they should do. This is why software developers need to take empathy very seriously: if you're an amazing developer but you don't know how to work in a group and communicate clearly, with benevolence, you will not provide psychological safety which is the most important thing to have if you want to feel good in an environment and be productive.
+Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety which is the most important thing to have if you want to flourish in an environment and be productive.
 
-So all the words we use should be chosen very precisely. We need to make sure that others did get it and didn't feel offended. It's a real work that requires training, and it's even more important for me than good quality code. Code, oral or written communication have the same goal: to communicate to somebody else by making sure that the output you provide is well understood and well interpreted by the receiver of this output.
-
-This is why we shouldn't even use "Good code" or "Bad code" because "good" and "bad" have a moral implication that could easily come with a feeling of guilt. We should maybe say instead: a code that is easily readable or not. So when we see a code that is complicated to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
+So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s a real work that requires training. For example, when we see a code that is complicated to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
