@@ -19,6 +19,6 @@ SOURCE:
 
 [The New York Times](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety which is the most important thing to have if you want to flourish in an environment and be productive.
+Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety.
 
-So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s a real work that requires training. For example, when we see a code that is complicated to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
+So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
