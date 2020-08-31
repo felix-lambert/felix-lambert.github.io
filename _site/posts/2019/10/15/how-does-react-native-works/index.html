@@ -125,7 +125,7 @@
 
 <h1 id="lets-understand-what-happens-when-a-user-starts-running-a-react-native-app">Let’s understand what happens when a user starts running a react-native app</h1>
 
-<p>To run the application one of the following commands are issued via the command-line interface (CLI): <code class="highlighter-rouge">react-native run-ios</code> or <code class="highlighter-rouge">react-native run-android</code></p>
+<p>To run the application one of the following commands is issued via the command-line interface (CLI): <code class="highlighter-rouge">react-native run-ios</code> or <code class="highlighter-rouge">react-native run-android</code></p>
 
 <ul>
   <li>This command runs at the native entry point thread (native thread) on which your Android (Java/Kotlin) or IOS (Swift/Objective C) app is running. This thread is automatically assigned by the phone’s operating system.</li>
@@ -134,7 +134,7 @@
 <p><span style="display:block;text-align:center"><img src="/assets/img/process.png" alt="Octocat" /></span></p>
 
 <blockquote>
-  <p>The native thread (or main thread) has access at what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.</p>
+  <p>The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.</p>
 </blockquote>
 
 <ul>
@@ -147,20 +147,20 @@
 </ul>
 
 <blockquote>
-  <p>The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the javascript side) so that it can pass accross. This communication is actually quite similar to a client (native thread) and a server (JS thread).</p>
+  <p>The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).</p>
 </blockquote>
 
 <ul>
   <li>
-    <p>The Bridge Interface will send messages to create the javascript (JS) thread to execute the code that is written in react-native.</p>
+    <p>The Bridge Interface will send messages to create the JavaScript (JS) thread to execute the code that is written in react-native.</p>
   </li>
   <li>
-    <p>Once the Bridge passes Serialized payload to JavaScript, Event is processed and your application logic comes into play.</p>
+    <p>Once the Bridge passes serialized payload to JavaScript, Event is processed and your application logic comes into play.</p>
   </li>
 </ul>
 
 <blockquote>
-  <p>Like all javascript virtual machines, this JS thread is an event loop where your React application lives, API calls are made, touch events are interpreted, etc… It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).</p>
+  <p>Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).</p>
 </blockquote>
 
 <ul>
@@ -168,30 +168,22 @@
 </ul>
 
 <blockquote>
-  <p>React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the real mobile layout.</p>
+  <p>React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.</p>
 </blockquote>
 
 <blockquote>
   <p>The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.</p>
 </blockquote>
 
-<p><span style="display:block;text-align:center">
-<img src="/assets/img/native.png" alt="drawing" width="900" /></span></p>
+<p><span style="display:block;text-align:center"> <img src="/assets/img/native.png" alt="drawing" width="900" /></span></p>
 
 <blockquote>
   <p>Let’s look at this code as an example:</p>
 </blockquote>
 
-<div class="language-jsx highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">d</span>
-<span class="kd">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="nx">props</span> <span class="o">=</span> <span class="p">{</span>
-  <span class="k">return</span> <span class="p">(</span>
-      <span class="p">&lt;</span><span class="nc">View</span><span class="p">&gt;</span>
-       <span class="p">&lt;</span><span class="nc">Text</span><span class="p">&gt;</span>Hello there<span class="p">&lt;/</span><span class="nc">Text</span><span class="p">&gt;</span>
-     <span class="p">&lt;/</span><span class="nc">View</span><span class="p">&gt;</span>
-  <span class="p">)</span>
-<span class="p">}</span>
+<p>```jsx let d const App = props = { return ( <View> <Text>Hello there</Text> </View> ) }</p>
 
-</code></pre></div></div>
+<p>```</p>
 
 <blockquote>
   <p>If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.</p>
