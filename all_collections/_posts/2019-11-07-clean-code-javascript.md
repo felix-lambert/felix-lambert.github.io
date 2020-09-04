@@ -21,7 +21,7 @@ The end goal of code is to be understood by a machine and by another human being
 
 Envisioning code as a story can be a useful metaphor for helping to create clean code. If the audience has difficulty reading your story, it will not be a pleasant experience for them. They will not be able to work with it, explain the nuances to others, or adapt it in the future.
 
-So clean code is just simple code. Nothing else. If you repeat yourself, you don't abstract, if your code still stays simple, it doesn't matter. Do not build for yourself or the machine — build for the next developer who takes over from you.
+So clean code is just simple code. Nothing else. If you repeat yourself, you don't abstract, if your code still stays simple, it doesn't matter.
 
 # Naming
 
@@ -32,14 +32,14 @@ Bad:
 ```javascript
 let d;
 let elapsed;
-const ages = arr.map(i => i.age);
+const ages = arr.map((i) => i.age);
 ```
 
 Good:
 
 ```javascript
 let daysSinceModification;
-const agesOfUsers = users.map(user => user.age);
+const agesOfUsers = users.map((user) => user.age);
 ```
 
 ## Make meaningful distinctions and don't add extra, unnecessary nouns to the variable name
@@ -135,7 +135,7 @@ Bad:
 
 ```javascript
 const locations = ["Austin", "New York", "San Francisco"];
-locations.forEach(l => {
+locations.forEach((l) => {
   doStuff();
   doSomeOtherStuff();
   // ...
@@ -150,7 +150,7 @@ Good:
 
 ```javascript
 const locations = ["Austin", "New York", "San Francisco"];
-locations.forEach(location => {
+locations.forEach((location) => {
   doStuff();
   doSomeOtherStuff();
   // ...
@@ -255,7 +255,6 @@ function processItems(list) {
 
   return result;
 }
-
 ```
 
 Good:
@@ -264,8 +263,7 @@ Good:
 function processItems(list) {
   var result = [];
 
-  if (items.length <= 0)
-    return result;
+  if (items.length <= 0) return result;
 
   normalize(items);
   for (var index = 0, len = items.length; index < len; ++index) {
@@ -274,7 +272,6 @@ function processItems(list) {
 
   return result;
 }
-
 ```
 
 # Functions
@@ -336,7 +333,7 @@ Bad:
 
 ```javascript
 function emailClients(clients) {
-  clients.forEach(client => {
+  clients.forEach((client) => {
     const clientRecord = database.lookup(client);
     if (clientRecord.isActive()) {
       email(client);
@@ -444,6 +441,7 @@ if (shouldShowSpinner(fsmInstance, listNodeInstance)) {
 ```
 
 ## Avoid negative conditionals
+
 Bad:
 
 ```javascript
@@ -470,7 +468,7 @@ if (isDOMNodePresent(node)) {
 
 # Error Handling
 
-Thrown errors are a good thing! They mean the runtime has successfully identified when something in your program has gone wrong and it's letting you know by stopping function execution on the current stack, killing the process (in Node), and notifying you in the console with a stack trace. 
+Thrown errors are a good thing! They mean the runtime has successfully identified when something in your program has gone wrong and it's letting you know by stopping function execution on the current stack, killing the process (in Node), and notifying you in the console with a stack trace.
 
 # Build on the shoulders of giants
 
@@ -483,28 +481,28 @@ We want to touch the DOM as little as possible. The DOM is a very complex API an
 ### Separate stateful aspects from rendering
 
 Bad:
+
 ```javascript
 class User extends Component {
   state = { loading: true };
 
   render() {
     const { loading, user } = this.state;
-    return loading
-      ? <div>Loading...</div>
-      : <div>
-          <div>
-            First name: {user.firstName}
-          </div>
-          <div>
-            First name: {user.lastName}
-          </div>
-          ...
-        </div>;
+    return loading ? (
+      <div>Loading...</div>
+    ) : (
+      <div>
+        <div>First name: {user.firstName}</div>
+        <div>First name: {user.lastName}</div>
+        ...
+      </div>
+    );
   }
 
   componentDidMount() {
-    fetchUser(this.props.id)
-      .then((user) => { this.setState({ loading: false, user })})
+    fetchUser(this.props.id).then((user) => {
+      this.setState({ loading: false, user });
+    });
   }
 }
 ```
@@ -512,7 +510,6 @@ class User extends Component {
 Good:
 
 ```javascript
-
 class User extends Component {
   state = { loading: true };
 
@@ -522,14 +519,11 @@ class User extends Component {
   }
 
   componentDidMount() {
-    fetchUser(this.props.id)
-      .then(user => { this.setState({ loading: false, user })})
+    fetchUser(this.props.id).then((user) => {
+      this.setState({ loading: false, user });
+    });
   }
 }
-
-
 ```
 
-###  Name your event handlers with handle prefixes, such as `handleClick()` or `handleUpdate()`.
-
-
+### Name your event handlers with handle prefixes, such as `handleClick()` or `handleUpdate()`.
