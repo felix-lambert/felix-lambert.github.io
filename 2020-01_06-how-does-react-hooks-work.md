@@ -10,6 +10,7 @@ SOURCE:
 - [https://reactjs.org/docs/hooks-intro.html](https://reactjs.org/docs/hooks-intro.html)
 - [https://www.youtube.com/watch?v=dpw9EHDh2bM&feature=emb_logo](https://www.youtube.com/watch?v=dpw9EHDh2bM&feature=emb_logo)
 - [https://medium.com/@morgler/dont-use-redux-9e23b5381291](https://medium.com/@morgler/dont-use-redux-9e23b5381291)
+- [https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397](https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397)
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/reactlifecycle.png)</span>
 
@@ -17,9 +18,29 @@ Why react-hooks?
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/reacthooks.png)</span>
 
+```javascript
+const ComponentWithHook = () => {
+  const [count, setCount] = React.useState(0);
+
+  return <button onClick={() => setCount(count + 1)}>Count: {count}</button>;
+};
+
+ReactDOM.render(<ComponentWithHook />, document.getElementById("root"));
+```
+
+Hooks were created to encapsulate side effects and stateful behaviour in such components. If we look at this code through our data structure lens, we can see that:
+
+ComponentWithHook is a function which returns an object (all JXS calls are translated into objects by this babel plugin)
+
+In ComponentWithHook, we call a function that returns two values which we destructure
+
 React hooks has been created to avoid developers introducing too much abstraction with a separate state management library (redux, mobx...). That often requires to jumb between different files, write excessive amounts of code and lose time.
 
-The Hooks are stored as a linked list. What’s a linked list? There is actually a ton to linked lists, but in its most basic form a linked list is a data structure that consists of nodes. Each node has its data and also a reference that points to the next node in the list. The order of nodes is entirely dependent on each node’s reference to the next. In Javascript this is can look something like this:
+The Hooks are stored as a linked list. What’s a linked list? There is actually a ton to linked lists, but in its most basic form a linked list is a data structure that consists of nodes. Each node has its data and also a reference that points to the next node in the list. The order of nodes is entirely dependent on each node’s reference to the next.
+
+On the first render of a component, a linked list of the Hooks called gets created and on subsequent renders.
+
+In Javascript this is can look something like this:
 
 React components pass through three lifecycles: Mounting, Updating and Unmounting.
 
