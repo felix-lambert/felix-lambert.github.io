@@ -18,7 +18,7 @@ Why react-hooks?
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/reacthooks.png)</span>
 
-React hooks has been created to avoid developers introducing too much abstraction with a separate state management library (redux, mobx...). That often requires to jump between different files, write excessive amounts of code and lose time.
+To avoid developers introducing too much abstraction with a separate state management library (redux, mobx…) that often requires to jump between different files, write excessive amounts of code and lose time. the facebook team invented react hooks in 2015. 
 
 ```javascript
 const ComponentWithHook = () => {
@@ -34,7 +34,6 @@ const ComponentWithHook = () => {
 ReactDOM.render(<ComponentWithHook />, document.getElementById("root"));
 ```
 
-ComponentWithHook is a function which returns an object (all JXS calls are translated into objects by this babel plugin). On the first render of a component, a linked list of the Hooks called gets created.
 
 ```javascript
 {
@@ -71,4 +70,4 @@ ComponentWithHook is a function which returns an object (all JXS calls are trans
 }
 ```
 
-Hooks are stored according to their calling order in a linked list of fiber objects to represent the entire DOM. A fiber is an object that is mutable and holds component state that preserves from re-renders. Every component has a corresponding fiber object. Each node has its data and also a reference that points to the next node in the list. The order of nodes is entirely dependent on each node’s reference to the next.
+Hooks creates on the first render, a linked list of mutable fiber objects to represent the entire DOM. It holds the states that preserves from re-renders and store the data of a component. It also has a reference that points to the next node of the tree. 
