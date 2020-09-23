@@ -1,4 +1,4 @@
-I"��<p>SOURCE:</p>
+I"X�<p>SOURCE:</p>
 
 <ul>
   <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</a></li>
@@ -12,11 +12,11 @@
   <li><a href="https://www.w3.org/wiki/JavaScript_best_practices">https://www.w3.org/wiki/JavaScript_best_practices</a></li>
 </ul>
 
-<p>The end goal of code is to be understood by a machine and by an other human being. This is like communication: like code, if you speak and no one understand you, you’re only speaking to yourself and others cannot make any use of it.</p>
+<p>The end goal of code is to be understood by a machine and by another human being. This is like communication: like code, if you speak and no one understands you, you’re only speaking to yourself and others cannot make any use of it.</p>
 
 <p>Envisioning code as a story can be a useful metaphor for helping to create clean code. If the audience has difficulty reading your story, it will not be a pleasant experience for them. They will not be able to work with it, explain the nuances to others, or adapt it in the future.</p>
 
-<p>So clean code is just simple code. Nothing else. If you repeat yourself, you don’t abstract, if your code still stays simple, it doesn’t matter. Do not build for yourself or the machine — build for the next developer who takes over from you.</p>
+<p>So clean code is just simple code. Nothing else. If you repeat yourself, you don’t abstract, if your code still stays simple, it doesn’t matter.</p>
 
 <h1 id="naming">Naming</h1>
 
@@ -26,13 +26,13 @@
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">d</span><span class="p">;</span>
 <span class="kd">let</span> <span class="nx">elapsed</span><span class="p">;</span>
-<span class="kd">const</span> <span class="nx">ages</span> <span class="o">=</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="nx">i</span> <span class="o">=&gt;</span> <span class="nx">i</span><span class="p">.</span><span class="nx">age</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">ages</span> <span class="o">=</span> <span class="nx">arr</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">i</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">i</span><span class="p">.</span><span class="nx">age</span><span class="p">);</span>
 </code></pre></div></div>
 
 <p>Good:</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">daysSinceModification</span><span class="p">;</span>
-<span class="kd">const</span> <span class="nx">agesOfUsers</span> <span class="o">=</span> <span class="nx">users</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="nx">user</span> <span class="o">=&gt;</span> <span class="nx">user</span><span class="p">.</span><span class="nx">age</span><span class="p">);</span>
+<span class="kd">const</span> <span class="nx">agesOfUsers</span> <span class="o">=</span> <span class="nx">users</span><span class="p">.</span><span class="nx">map</span><span class="p">((</span><span class="nx">user</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="nx">user</span><span class="p">.</span><span class="nx">age</span><span class="p">);</span>
 </code></pre></div></div>
 
 <h2 id="make-meaningful-distinctions-and-dont-add-extra-unnecessary-nouns-to-the-variable-name">Make meaningful distinctions and don’t add extra, unnecessary nouns to the variable name</h2>
@@ -119,7 +119,7 @@
 <p>Bad:</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">locations</span> <span class="o">=</span> <span class="p">[</span><span class="dl">"</span><span class="s2">Austin</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">New York</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">San Francisco</span><span class="dl">"</span><span class="p">];</span>
-<span class="nx">locations</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">l</span> <span class="o">=&gt;</span> <span class="p">{</span>
+<span class="nx">locations</span><span class="p">.</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">l</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
   <span class="nx">doStuff</span><span class="p">();</span>
   <span class="nx">doSomeOtherStuff</span><span class="p">();</span>
   <span class="c1">// ...</span>
@@ -133,7 +133,7 @@
 <p>Good:</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">locations</span> <span class="o">=</span> <span class="p">[</span><span class="dl">"</span><span class="s2">Austin</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">New York</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">San Francisco</span><span class="dl">"</span><span class="p">];</span>
-<span class="nx">locations</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">location</span> <span class="o">=&gt;</span> <span class="p">{</span>
+<span class="nx">locations</span><span class="p">.</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">location</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
   <span class="nx">doStuff</span><span class="p">();</span>
   <span class="nx">doSomeOtherStuff</span><span class="p">();</span>
   <span class="c1">// ...</span>
@@ -229,7 +229,6 @@
 
   <span class="k">return</span> <span class="nx">result</span><span class="p">;</span>
 <span class="p">}</span>
-
 </code></pre></div></div>
 
 <p>Good:</p>
@@ -237,8 +236,7 @@
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">processItems</span><span class="p">(</span><span class="nx">list</span><span class="p">)</span> <span class="p">{</span>
   <span class="kd">var</span> <span class="nx">result</span> <span class="o">=</span> <span class="p">[];</span>
 
-  <span class="k">if</span> <span class="p">(</span><span class="nx">items</span><span class="p">.</span><span class="nx">length</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">)</span>
-    <span class="k">return</span> <span class="nx">result</span><span class="p">;</span>
+  <span class="k">if</span> <span class="p">(</span><span class="nx">items</span><span class="p">.</span><span class="nx">length</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">)</span> <span class="k">return</span> <span class="nx">result</span><span class="p">;</span>
 
   <span class="nx">normalize</span><span class="p">(</span><span class="nx">items</span><span class="p">);</span>
   <span class="k">for</span> <span class="p">(</span><span class="kd">var</span> <span class="nx">index</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nx">len</span> <span class="o">=</span> <span class="nx">items</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">index</span> <span class="o">&lt;</span> <span class="nx">len</span><span class="p">;</span> <span class="o">++</span><span class="nx">index</span><span class="p">)</span> <span class="p">{</span>
@@ -247,7 +245,6 @@
 
   <span class="k">return</span> <span class="nx">result</span><span class="p">;</span>
 <span class="p">}</span>
-
 </code></pre></div></div>
 
 <h1 id="functions">Functions</h1>
@@ -304,7 +301,7 @@ Since JavaScript allows you to make objects on the fly, without a lot of class b
 <p>Bad:</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">emailClients</span><span class="p">(</span><span class="nx">clients</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">clients</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">client</span> <span class="o">=&gt;</span> <span class="p">{</span>
+  <span class="nx">clients</span><span class="p">.</span><span class="nx">forEach</span><span class="p">((</span><span class="nx">client</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
     <span class="kd">const</span> <span class="nx">clientRecord</span> <span class="o">=</span> <span class="nx">database</span><span class="p">.</span><span class="nx">lookup</span><span class="p">(</span><span class="nx">client</span><span class="p">);</span>
     <span class="k">if</span> <span class="p">(</span><span class="nx">clientRecord</span><span class="p">.</span><span class="nx">isActive</span><span class="p">())</span> <span class="p">{</span>
       <span class="nx">email</span><span class="p">(</span><span class="nx">client</span><span class="p">);</span>
@@ -404,6 +401,7 @@ Bad:</p>
 </code></pre></div></div>
 
 <h2 id="avoid-negative-conditionals">Avoid negative conditionals</h2>
+
 <p>Bad:</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">isDOMNodeNotPresent</span><span class="p">(</span><span class="nx">node</span><span class="p">)</span> <span class="p">{</span>
@@ -441,35 +439,34 @@ Bad:</p>
 <h3 id="separate-stateful-aspects-from-rendering">Separate stateful aspects from rendering</h3>
 
 <p>Bad:</p>
+
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nx">User</span> <span class="kd">extends</span> <span class="nx">Component</span> <span class="p">{</span>
   <span class="nx">state</span> <span class="o">=</span> <span class="p">{</span> <span class="na">loading</span><span class="p">:</span> <span class="kc">true</span> <span class="p">};</span>
 
   <span class="nx">render</span><span class="p">()</span> <span class="p">{</span>
     <span class="kd">const</span> <span class="p">{</span> <span class="nx">loading</span><span class="p">,</span> <span class="nx">user</span> <span class="p">}</span> <span class="o">=</span> <span class="k">this</span><span class="p">.</span><span class="nx">state</span><span class="p">;</span>
-    <span class="k">return</span> <span class="nx">loading</span>
-      <span class="p">?</span> <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span><span class="nx">Loading</span><span class="p">...</span><span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
-</span>      <span class="p">:</span> <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
-          <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
-            <span class="nx">First</span> <span class="nx">name</span><span class="p">:</span> <span class="p">{</span><span class="nx">user</span><span class="p">.</span><span class="nx">firstName</span><span class="p">}</span>
-          <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
-</span>          <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
-            <span class="nx">First</span> <span class="nx">name</span><span class="p">:</span> <span class="p">{</span><span class="nx">user</span><span class="p">.</span><span class="nx">lastName</span><span class="p">}</span>
-          <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
-</span>          <span class="p">...</span>
-        <span class="o">&lt;</span><span class="sr">/div&gt;</span><span class="err">;
-</span>  <span class="p">}</span>
+    <span class="k">return</span> <span class="nx">loading</span> <span class="p">?</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span><span class="nx">Loading</span><span class="p">...</span><span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>    <span class="p">)</span> <span class="p">:</span> <span class="p">(</span>
+      <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span>
+        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span><span class="nx">First</span> <span class="nx">name</span><span class="p">:</span> <span class="p">{</span><span class="nx">user</span><span class="p">.</span><span class="nx">firstName</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>        <span class="o">&lt;</span><span class="nx">div</span><span class="o">&gt;</span><span class="nx">First</span> <span class="nx">name</span><span class="p">:</span> <span class="p">{</span><span class="nx">user</span><span class="p">.</span><span class="nx">lastName</span><span class="p">}</span><span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>        <span class="p">...</span>
+      <span class="o">&lt;</span><span class="sr">/div</span><span class="err">&gt;
+</span>    <span class="p">);</span>
+  <span class="p">}</span>
 
   <span class="nx">componentDidMount</span><span class="p">()</span> <span class="p">{</span>
-    <span class="nx">fetchUser</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">id</span><span class="p">)</span>
-      <span class="p">.</span><span class="nx">then</span><span class="p">((</span><span class="nx">user</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="na">loading</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span> <span class="nx">user</span> <span class="p">})})</span>
+    <span class="nx">fetchUser</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">id</span><span class="p">).</span><span class="nx">then</span><span class="p">((</span><span class="nx">user</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+      <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="na">loading</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span> <span class="nx">user</span> <span class="p">});</span>
+    <span class="p">});</span>
   <span class="p">}</span>
 <span class="p">}</span>
 </code></pre></div></div>
 
 <p>Good:</p>
 
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-<span class="kd">class</span> <span class="nx">User</span> <span class="kd">extends</span> <span class="nx">Component</span> <span class="p">{</span>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nx">User</span> <span class="kd">extends</span> <span class="nx">Component</span> <span class="p">{</span>
   <span class="nx">state</span> <span class="o">=</span> <span class="p">{</span> <span class="na">loading</span><span class="p">:</span> <span class="kc">true</span> <span class="p">};</span>
 
   <span class="nx">render</span><span class="p">()</span> <span class="p">{</span>
@@ -478,14 +475,12 @@ Bad:</p>
 </span>  <span class="p">}</span>
 
   <span class="nx">componentDidMount</span><span class="p">()</span> <span class="p">{</span>
-    <span class="nx">fetchUser</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">id</span><span class="p">)</span>
-      <span class="p">.</span><span class="nx">then</span><span class="p">(</span><span class="nx">user</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="na">loading</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span> <span class="nx">user</span> <span class="p">})})</span>
+    <span class="nx">fetchUser</span><span class="p">(</span><span class="k">this</span><span class="p">.</span><span class="nx">props</span><span class="p">.</span><span class="nx">id</span><span class="p">).</span><span class="nx">then</span><span class="p">((</span><span class="nx">user</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span>
+      <span class="k">this</span><span class="p">.</span><span class="nx">setState</span><span class="p">({</span> <span class="na">loading</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span> <span class="nx">user</span> <span class="p">});</span>
+    <span class="p">});</span>
   <span class="p">}</span>
 <span class="p">}</span>
-
-
 </code></pre></div></div>
 
 <h3 id="name-your-event-handlers-with-handle-prefixes-such-as-handleclick-or-handleupdate">Name your event handlers with handle prefixes, such as <code class="highlighter-rouge">handleClick()</code> or <code class="highlighter-rouge">handleUpdate()</code>.</h3>
-
 :ET
