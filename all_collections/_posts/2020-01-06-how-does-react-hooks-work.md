@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does react-hooks work?
-date: 2020-01-31 10:18:00
+date: 2020-01-06 10:18:00
 tags: technology
 ---
 
