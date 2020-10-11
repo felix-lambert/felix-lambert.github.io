@@ -1,6 +1,5 @@
-I"(<p>SOURCE:</p>
+I"\<p>SOURCE:</p>
 
-<p>SOURCE:</p>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=v_hR4K4auoQ&amp;list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ">https://www.youtube.com/watch?v=v_hR4K4auoQ&amp;list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ</a></li>
   <li><a href="https://cloud.google.com/firestore/docs/data-model">https://cloud.google.com/firestore/docs/data-model</a></li>
@@ -8,16 +7,16 @@
   <li><a href="https://en.wikipedia.org/wiki/Document-oriented_database">https://en.wikipedia.org/wiki/Document-oriented_database</a></li>
 </ul>
 
-<p>Firestore is a NoSQL  (“non-relational” or “Not only SQL”), document-oriented database.</p>
+<p>Firestore is a NoSQL (“non-relational” or “Not only SQL”), document-oriented database.</p>
 
-<p>There are 4 different types of NoSQL databases:</p>
+<p>4 different NoSQL databases can be categorized:</p>
 
 <ul>
   <li>Wide column like Cassandra</li>
-  <li>Document like MongoDB or Firestore…</li>
+  <li>Document like MongoDB, Apache CouchDB or Firestore…</li>
   <li>Key–value like Redis</li>
   <li>Graph like InfiniteGraph</li>
 </ul>
 
-<p>Firestore can be categorized in the type “Document” with databases like MongoDB, Apache CouchDB… So firestore, like other document-oriented databases, encapsulate and encode data (or information) in documents. Encodings in use include XML, YAML, and JSON and binary forms like BSON. Documents are addressed in the database via a unique key that represents that document.</p>
+<p>Firestore list documents because it encapsulates and encode information using XML, YAML, and JSON and binary forms like BSON via a unique key that represents that document.</p>
 :ET
