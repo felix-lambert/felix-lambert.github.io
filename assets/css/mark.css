@@ -6,17 +6,13 @@
 p {
   letter-spacing: 1px !important;
   line-height: 1.7 !important;
-  min-height: 1em !important;
   box-sizing: border-box !important;
   /* word-wrap: break-word !important; */
   text-align: justify;
-  margin: 20px 0 !important;
 }
 
 blockquote {
   border-left: 4px solid #0ac4ba;
-  padding: 0 15px !important;
-  margin: 0px;
 }
 
 strong {
@@ -34,7 +30,6 @@ pre {
   background-color: #0ac4ba;
   border-radius: 3px;
   /* word-wrap: break-word; */
-  padding: 12px 13px;
   font-size: 13px;
 }
 
@@ -44,8 +39,6 @@ h3,
 h4,
 h5,
 h6 {
-  word-break: break-all !important;
-  margin: 20px 0;
   padding-bottom: 0.3em;
   line-height: 1.2;
   text-align: left;
@@ -82,19 +75,12 @@ a {
   text-decoration: none;
 }
 
-ul,
-ol {
-  padding-left: 30px;
-}
-
 li {
   line-height: 30px;
 }
 
 hr {
   height: 4px;
-  padding: 0;
-  margin: 16px 0;
   background-color: #0ac4ba;
   border: 0 none;
   overflow: hidden;
@@ -108,14 +94,11 @@ hr {
 
 pre {
   background: #00110d !important;
-  padding: 12px 13px;
   overflow-x: auto !important;
   border: 2px solid rgb(0, 39, 0);
 }
 
 code {
-  margin: 0 2px;
-  padding: 3px 5px;
   color: #ffffff;
   border-radius: 2px;
   white-space: pre;
