@@ -3,14 +3,6 @@
   --theme-color: #0ac4ba;
 }
 
-p {
-  letter-spacing: 1px !important;
-  line-height: 1.7 !important;
-  box-sizing: border-box !important;
-  /* word-wrap: break-word !important; */
-  text-align: justify;
-}
-
 blockquote {
   border-left: 4px solid #0ac4ba;
 }
