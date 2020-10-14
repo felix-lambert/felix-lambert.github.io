@@ -13,7 +13,6 @@ img {
 /* header */
 
 header {
-  margin: 2rem 20% -2rem 20%;
   display: flex;
   justify-content: center;
 }
@@ -26,8 +25,6 @@ header * {
 /* nav */
 
 nav {
-  margin-left: 20%;
-  margin-right: 20%;
   padding-top: 3rem;
   line-height: 2rem;
 }
@@ -47,8 +44,6 @@ nav a:hover {
 
 main {
   margin-top: 3rem;
-  margin-left: 20%;
-  margin-right: 20%;
   display: grid;
   grid-gap: 1.4rem;
   line-height: 1.5rem;
@@ -93,5 +88,4 @@ footer {
   font-weight: bold;
   color: #72b6b5;
   font-size: 0.7rem;
-  margin: 4rem 20% 4rem 20%;
 }
