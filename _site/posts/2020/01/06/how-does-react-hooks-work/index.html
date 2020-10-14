@@ -1,63 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Felix's blog | How does react-hooks work?</title>
-    <link rel="stylesheet" href="/assets/css/mark.css" />
-    <link rel="stylesheet" href="/assets/css/custom.css" />
-    <!-- PILL JS LOADER SYLE -->
-    <style>
-      #indicator {
-        position: fixed;
-        top: 0;
-        right: 0;
-        left: 0;
-        height: 3px;
-        display: none;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Felix's blog | How does react-hooks work?</title>
+  <link rel="stylesheet" href="/assets/css/mark.css" />
+  <link rel="stylesheet" href="/assets/css/custom.css" />
+  <!-- PILL JS LOADER SYLE -->
+  <style>
+    #indicator {
+      position: fixed;
+      top: 0;
+      right: 0;
+      left: 0;
+      height: 3px;
+      display: none;
+      background-color: #72b6b5;
+    }
+
+    .is-loading {
+      display: block;
+      animation: blink 1.5s linear infinite;
+    }
+
+    @keyframes blink {
+      from,
+      to {
         background-color: #72b6b5;
       }
 
-      .is-loading {
-        display: block;
-        animation: blink 1.5s linear infinite;
+      50% {
+        background-color: #42b983;
       }
+    }
 
-      @keyframes blink {
-        from,
-        to {
-          background-color: #72b6b5;
-        }
-
-        50% {
-          background-color: #42b983;
-        }
-      }
-
-      #project-link {
-        display: block;
-        position: fixed;
-        padding: 8px;
-        top: 0;
-        right: 0;
-      }
-    </style>
-    <!-- PILL JS -->
-    <script src="/assets/js/pill.min.js"></script>
-    <script>
-      // this is for pill js as the normal link wont work
-      function openLink(url) {
-        window.open(url, "_blank")
-      }
-    </script>
-  </head>
+    #project-link {
+      display: block;
+      position: fixed;
+      padding: 8px;
+      top: 0;
+      right: 0;
+    }
+  </style>
+  <!-- PILL JS -->
+  <script src="/assets/js/pill.min.js"></script>
+  <script>
+    // this is for pill js as the normal link wont work
+    function openLink(url) {
+      window.open(url, "_blank");
+    }
+  </script>
+</head>
 
   <body>
     <div id="indicator"></div>
     <div id="page">
       <style>
         .title {
+          padding: 10%;
           color: #0ac4ba;
           font-size: 18px;
           font-weight: bold;
@@ -73,73 +74,46 @@
       </style>
       <!-- header -->
       <header>
-        <a href="/">
-          <h3>Felix's blog</h3>
-        </a>
-      </header>
+	<a href="/">
+		<h3>Felix's blog</h3>
+	</a>
+</header>
 
       <!-- nav -->
       <nav>
-        <a href="/">Home</a>
-
-        <a href="/about">About</a>
-      </nav>
+	
+		
+			<a href="/">Home</a>
+		
+	
+		
+			<a href="/about">About</a>
+		
+	
+</nav>
       <!-- page content -->
       <main class="content">
-        <p class="title">How does react-hooks work?</p>
+        <p class="title">
+          How does react-hooks work?
+        </p>
         <p>SOURCE:</p>
 
-        <ul>
-          <li>
-            <a href="https://reactjs.org/docs/hooks-intro.html"
-              >https://reactjs.org/docs/hooks-intro.html</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://www.youtube.com/watch?v=dpw9EHDh2bM&amp;feature=emb_logo"
-              >https://www.youtube.com/watch?v=dpw9EHDh2bM&amp;feature=emb_logo</a
-            >
-          </li>
-          <li>
-            <a href="https://medium.com/@morgler/dont-use-redux-9e23b5381291"
-              >https://medium.com/@morgler/dont-use-redux-9e23b5381291</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397"
-              >https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook–a4983397</a
-            >
-          </li>
-        </ul>
+<ul>
+  <li><a href="https://reactjs.org/docs/hooks-intro.html">https://reactjs.org/docs/hooks-intro.html</a></li>
+  <li><a href="https://www.youtube.com/watch?v=dpw9EHDh2bM&amp;feature=emb_logo">https://www.youtube.com/watch?v=dpw9EHDh2bM&amp;feature=emb_logo</a></li>
+  <li><a href="https://medium.com/@morgler/dont-use-redux-9e23b5381291">https://medium.com/@morgler/dont-use-redux-9e23b5381291</a></li>
+  <li><a href="https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397">https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook–a4983397</a></li>
+</ul>
 
-        <p>
-          <span style="display: block; text-align: center"
-            ><img src="/assets/img/reactlifecycle.png" alt="Octocat"
-          /></span>
-        </p>
+<p><span style="display:block;text-align:center"><img src="/assets/img/reactlifecycle.png" alt="Octocat" /></span></p>
 
-        <p>Why react-hooks?</p>
+<p>Why react-hooks?</p>
 
-        <p>
-          <span style="display: block; text-align: center"
-            ><img src="/assets/img/reacthooks.png" alt="Octocat"
-          /></span>
-        </p>
+<p><span style="display:block;text-align:center"><img src="/assets/img/reacthooks.png" alt="Octocat" /></span></p>
 
-        <p>
-          To avoid developers introducing too much abstraction with a separate
-          state management library (redux, mobx…) that often requires to jump
-          between different files, write excessive amounts of code and lose
-          time. the facebook team invented react hooks in 2015.
-        </p>
+<p>To avoid developers introducing too much abstraction with a separate state management library (redux, mobx…) that often requires to jump between different files, write excessive amounts of code and lose time. the facebook team invented react hooks in 2015.</p>
 
-        <div class="language-javascript highlighter-rouge">
-          <div class="highlight">
-            <pre
-              class="highlight"
-            ><code><span class="kd">const</span> <span class="nx">ComponentWithHook</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">ComponentWithHook</span> <span class="o">=</span> <span class="p">()</span> <span class="o">=&gt;</span> <span class="p">{</span>
   <span class="kd">const</span> <span class="p">[</span><span class="nx">count</span><span class="p">,</span> <span class="nx">setCount</span><span class="p">]</span> <span class="o">=</span> <span class="nx">React</span><span class="p">.</span><span class="nx">useState</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
   <span class="kd">const</span> <span class="p">[</span><span class="nx">bool</span><span class="p">,</span> <span class="nx">setBool</span><span class="p">]</span> <span class="o">=</span> <span class="nx">React</span><span class="p">.</span><span class="nx">useState</span><span class="p">(</span><span class="kc">false</span><span class="p">);</span>
 
@@ -150,13 +124,9 @@
 </span><span class="p">};</span>
 
 <span class="nx">ReactDOM</span><span class="p">.</span><span class="nx">render</span><span class="p">(</span><span class="o">&lt;</span><span class="nx">ComponentWithHook</span> <span class="o">/&gt;</span><span class="p">,</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="dl">"</span><span class="s2">root</span><span class="dl">"</span><span class="p">));</span>
-</code></pre>
-          </div>
-        </div>
+</code></pre></div></div>
 
-        <div class="language-javascript highlighter-rouge">
-          <div class="highlight">
-            <pre class="highlight"><code><span class="p">{</span>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span>
   <span class="nl">memoizedState</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span> <span class="c1">// the setCount hook</span>
   <span class="nx">baseState</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span>
   <span class="nx">queue</span><span class="p">:</span> <span class="p">{</span> <span class="cm">/* ... */</span><span class="p">},</span>
@@ -188,28 +158,27 @@
     <span class="p">}</span>
   <span class="p">}</span>
 <span class="p">}</span>
-</code></pre>
-          </div>
-        </div>
+</code></pre></div></div>
 
-        <p>
-          Hooks creates on the first render, a linked list of mutable fiber
-          objects to represent the entire DOM. It holds the states that
-          preserves from re-renders and store the data of a component. It also
-          has a reference that points to the next node of the tree.
-        </p>
+<p>Hooks creates on the first render, a linked list of mutable fiber objects to represent the entire DOM. It holds the states that preserves from re-renders and store the data of a component. It also has a reference that points to the next node of the tree.</p>
+
       </main>
 
       <!-- footer -->
       <footer>
-        <p></p>
-        <p>&copy 2020 | Felix's blog</p>
-      </footer>
-      <script
-        src="/assets/js/site.js"
-        id="pill_site_script"
-        type="module"
-      ></script>
+  <p>
+    
+  </p>
+  <p>
+    &copy 2020 | Felix's blog
+  </p>
+</footer>
+<script
+  src="/assets/js/site.js"
+  id="pill_site_script"
+  type="module"
+></script>
+
     </div>
   </body>
 </html>
