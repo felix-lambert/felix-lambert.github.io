@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How does firestore work?
+title: Throw out your tools
 date: 2020-01-17 10:18:00
 tags: technology
 ---
