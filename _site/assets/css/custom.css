@@ -62,6 +62,7 @@ main {
   text-decoration: none;
   position: relative;
   color: var(--theme-color) !important;
+  margin-left: 5px;
   /* color: #72b6b5 !important; */
 }
 
