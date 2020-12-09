@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T02:57:25+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T03:00:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QIPiLp9NwyY&quot;&gt;https://www.youtube.com/watch?v=QIPiLp9NwyY&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=n4jsZ5DetcI&quot;&gt;https://www.youtube.com/watch?v=n4jsZ5DetcI&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -754,9 +754,7 @@ A web that is decipherable.&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/process.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -767,9 +765,7 @@ A web that is decipherable.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -780,35 +776,25 @@ A web that is decipherable.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;When React starts rendering it sends the changes to another thread: the Shadow thread.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt; &lt;img src=&quot;/assets/img/native.png&quot; alt=&quot;drawing&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Let’s look at this code as an example:&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Let’s look at this code as an example:&lt;/p&gt;
 
 &lt;p&gt;```jsx let d const App = props = { return ( &lt;View&gt; &lt;Text&gt;Hello there&lt;/Text&gt; &lt;/View&gt; ) }&lt;/p&gt;
 
 &lt;p&gt;```&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;View /&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TextInput /&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Text/&amp;gt;&lt;/code&gt; are special components compiled into native code. The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;View&amp;gt;&lt;/code&gt; component will be linked to android.view for android and UIView for ios. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TextInput&amp;gt;&lt;/code&gt; will be linked to EditText for android and UITextField for IOS.&lt;/p&gt;
 
