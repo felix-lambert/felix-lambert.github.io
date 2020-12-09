@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T02:28:58+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T02:37:18+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QIPiLp9NwyY&quot;&gt;https://www.youtube.com/watch?v=QIPiLp9NwyY&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=n4jsZ5DetcI&quot;&gt;https://www.youtube.com/watch?v=n4jsZ5DetcI&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -17,7 +17,6 @@
 &lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does firestore work?</title><link href="http://localhost:4000/posts/2020/01/09/how-does-cloud-firestore-work/" rel="alternate" type="text/html" title="How does firestore work?" /><published>2020-01-09T11:18:00+01:00</published><updated>2020-01-09T11:18:00+01:00</updated><id>http://localhost:4000/posts/2020/01/09/how-does-cloud-firestore-work</id><content type="html" xml:base="http://localhost:4000/posts/2020/01/09/how-does-cloud-firestore-work/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=v_hR4K4auoQ&amp;amp;list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ&quot;&gt;https://www.youtube.com/watch?v=v_hR4K4auoQ&amp;amp;list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/firestore/docs/data-model&quot;&gt;https://cloud.google.com/firestore/docs/data-model&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/NoSQL&quot;&gt;https://en.wikipedia.org/wiki/NoSQL&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Document-oriented_database&quot;&gt;https://en.wikipedia.org/wiki/Document-oriented_database&lt;/a&gt;&lt;/li&gt;
@@ -109,7 +108,6 @@
   &lt;li&gt;&lt;a href=&quot;https://lightsonsoftware.com/writing-code-that-reads-like-a-story/&quot;&gt;https://lightsonsoftware.com/writing-code-that-reads-like-a-story/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/business/15/10/jane-austen-on-python&quot;&gt;https://opensource.com/business/15/10/jane-austen-on-python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://eloquentjavascript.net/Eloquent_JavaScript.pdf&quot;&gt;https://eloquentjavascript.net/Eloquent_JavaScript.pdf&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/wiki/JavaScript_best_practices&quot;&gt;https://www.w3.org/wiki/JavaScript_best_practices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The end goal of code is to be understood by a machine and by another human being. This is like communication: like code, if you speak and no one understands you, you’re only speaking to yourself and others cannot make any use of it.&lt;/p&gt;
@@ -590,7 +588,6 @@ Bad:&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/&quot;&gt;https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=YYzt71o2IvQ&quot;&gt;https://www.youtube.com/watch?v=YYzt71o2IvQ&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rS2HYJKndRc&amp;amp;t=578s&quot;&gt;https://www.youtube.com/watch?v=rS2HYJKndRc&amp;amp;t=578s&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Empathic-Civilization-Global-Consciousness-Crisis-ebook/dp/B0030CVQJY/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=jeremy+rifkin+english&amp;amp;qid=1598624938&amp;amp;sr=8-3&quot;&gt;https://www.amazon.com/Empathic-Civilization-Global-Consciousness-Crisis-ebook/dp/B0030CVQJY/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=jeremy+rifkin+english&amp;amp;qid=1598624938&amp;amp;sr=8-3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html&quot;&gt;https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -627,7 +624,7 @@ Bad:&lt;/p&gt;
 
 &lt;p&gt;We realize today that you can do web scraping to sell data to states, industries, advertisement companies or to rig an election. All this is, of course, harmful because the end goal is control and manipulation (pushing people to buy, to vote for the person who pays for you…). If the end goal is only money, power and control, we will end up with ads, surveillance everywhere. The web will become senseless and data will become a simple tool for controlling humans. Season 3 of westworld or episode 1 season 3 of black mirror gives us a good illustration of what we need to avoid.&lt;/p&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YrpK90bHO2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;90%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YrpK90bHO2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;p&gt;If you want a centralized computer that monitors everything, and data with one owner, you need to be like Facebook and ask users to hand over their data by means of an authentication system. If the technological architecture is designed this way, the data will belong to the company and no one else. If you decide to put all the data collected by users behind an authentication system, you decide not to share data, but to keep it for yourself.&lt;/p&gt;
 
@@ -690,7 +687,7 @@ A web that is decipherable.&lt;/p&gt;
 
 &lt;h1 id=&quot;no-web-scraping-no-search-engine&quot;&gt;No Web Scraping, no search engine&lt;/h1&gt;
 
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;500&quot; height=&quot;500&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/google4.mp4&quot; type=&quot;video/mp4&quot; /&gt; &lt;/video&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;90%&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/google4.mp4&quot; type=&quot;video/mp4&quot; /&gt; &lt;/video&gt;&lt;/p&gt;
 
 &lt;p&gt;Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.&lt;/p&gt;
 
