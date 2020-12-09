@@ -8,7 +8,6 @@ tags: philosophy
 Sources:
 
 - [Peter Hershock on diversity](https://www.youtube.com/watch?v=d-qmvvzBANY&t=364s).
-- [https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf](https://link.springer.com/content/pdf/10.1007%2Fs13347-011-0021-z.pdf)
 
 Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches ont doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
 
