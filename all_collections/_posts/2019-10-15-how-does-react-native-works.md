@@ -38,35 +38,35 @@ To run the application one of the following commands is issued via the command-l
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/process.png)</span>
 
-> The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event...) are listened on the native side.
+The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event...) are listened on the native side.
 
 - The command creates a RootView (RCTRootView) that gives everything visible to the user.
 
 - The RootView creates the Bridge Interface.
 
-> The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).
+The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).
 
 - The Bridge Interface will send messages to create the JavaScript (JS) thread to execute the code that is written in react-native.
 
 - Once the Bridge passes serialized payload to JavaScript, Event is processed and your application logic comes into play.
 
-> Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).
+Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).
 
 - When React starts rendering it sends the changes to another thread: the Shadow thread.
 
-> React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.
+React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.
 
-> The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.
+The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.
 
 <span style="display:block;text-align:center"> <img src="{{site.baseurl}}/assets/img/native.png" alt="drawing" width="900"/></span>
 
-> Let's look at this code as an example:
+Let's look at this code as an example:
 
 ```jsx let d const App = props = { return ( <View> <Text>Hello there</Text> </View> ) }
 
 ```
 
-> If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.
+If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.
 
 `<View />` or `<TextInput />` or `<Text/>` are special components compiled into native code. The `<View>` component will be linked to android.view for android and UIView for ios. `<TextInput>` will be linked to EditText for android and UITextField for IOS.
 
