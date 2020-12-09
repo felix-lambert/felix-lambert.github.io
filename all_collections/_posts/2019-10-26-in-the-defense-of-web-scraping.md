@@ -7,15 +7,11 @@ tags: philosophy
 
 SOURCE:
 
-- [https://www.youtube.com/watch?v=8J7TRSLf55U](https://www.youtube.com/watch?v=8J7TRSLf55U)
-- [https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
-- [https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv](https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv)
-- [https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d](https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d)
+- [Open internet](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
+- [Big data and web scraping](https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv)
 - Season 3 of westworld
-- [https://www.youtube.com/watch?v=tcMdWM8wmqs](https://www.youtube.com/watch?v=tcMdWM8wmqs)
 - [Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 - [Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
-- [https://www.youtube.com/watch?v=guvsH5OFizE](https://www.youtube.com/watch?v=guvsH5OFizE)
 - [TheProject](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/service.png)</span>
@@ -70,9 +66,9 @@ In summary, we can see the web as an enormous library of documents linked to eac
 
 # What is web scraping now?
 
-> <em>"The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case."</em>
+<em>"The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case."</em>
 
-> <em>"One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk."</em>
+<em>"One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk."</em>
 
 [Wikipedia: Search engine scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
 

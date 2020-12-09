@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T03:00:14+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-09T03:11:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QIPiLp9NwyY&quot;&gt;https://www.youtube.com/watch?v=QIPiLp9NwyY&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=n4jsZ5DetcI&quot;&gt;https://www.youtube.com/watch?v=n4jsZ5DetcI&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -598,15 +598,11 @@ Bad:&lt;/p&gt;
 &lt;p&gt;So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">In defence of web scraping</title><link href="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=8J7TRSLf55U&quot;&gt;https://www.youtube.com/watch?v=8J7TRSLf55U&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&quot;&gt;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv&quot;&gt;https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d&quot;&gt;https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&quot;&gt;Open internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv&quot;&gt;Big data and web scraping&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Season 3 of westworld&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tcMdWM8wmqs&quot;&gt;https://www.youtube.com/watch?v=tcMdWM8wmqs&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Robots_exclusion_standard&quot;&gt;Robots_exclusion_standard&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_scraping&quot;&gt;Search_engine_scraping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=guvsH5OFizE&quot;&gt;https://www.youtube.com/watch?v=guvsH5OFizE&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://info.cern.ch/hypertext/WWW/TheProject.html&quot;&gt;TheProject&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -662,13 +658,9 @@ Bad:&lt;/p&gt;
 
 &lt;h1 id=&quot;what-is-web-scraping-now&quot;&gt;What is web scraping now?&lt;/h1&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case.”&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;“The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk.”&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;“One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk.”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_scraping&quot;&gt;Wikipedia: Search engine scraping&lt;/a&gt;&lt;/p&gt;
 
@@ -721,7 +713,7 @@ A web that is decipherable.&lt;/p&gt;
 &lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-native works?</title><link href="http://localhost:4000/posts/2019/10/15/how-does-react-native-works/" rel="alternate" type="text/html" title="How does react-native works?" /><published>2019-10-15T12:18:00+02:00</published><updated>2019-10-15T12:18:00+02:00</updated><id>http://localhost:4000/posts/2019/10/15/how-does-react-native-works</id><content type="html" xml:base="http://localhost:4000/posts/2019/10/15/how-does-react-native-works/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&quot;&gt;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&quot;&gt;React native bridge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/docs/communication-ios&quot;&gt;https://reactnative.dev/docs/communication-ios&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;https://facebook.github.io/react-native/&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/React_Native&quot;&gt;https://en.wikipedia.org/wiki/React_Native&lt;/a&gt;&lt;/li&gt;
