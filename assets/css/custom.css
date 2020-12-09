@@ -28,7 +28,6 @@ header * {
 nav {
   margin-left: 20%;
   margin-right: 20%;
-  padding-top: 3rem;
   line-height: 2rem;
 }
 
@@ -46,11 +45,9 @@ nav a:hover {
 /* main */
 
 main {
-  margin-top: 3rem;
   margin-left: 20%;
   margin-right: 20%;
-  display: grid;
-  grid-gap: 1.4rem;
+
   line-height: 1.5rem;
 }
 
@@ -58,7 +55,13 @@ main {
   text-decoration: underline;
 }
 
+.post-list {
+  display: grid;
+  grid-gap: 1.4rem;
+}
+
 .post-list a {
+
   text-decoration: none;
   position: relative;
   color: var(--theme-color) !important;

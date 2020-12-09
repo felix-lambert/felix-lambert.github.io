@@ -6,7 +6,7 @@ profile_pic_alt: ""
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-> Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's%20CV%20_%20CV.pdf)
+Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's%20CV%20_%20CV.pdf)
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic and harmonious atmospheres.
 
