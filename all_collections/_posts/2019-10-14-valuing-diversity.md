@@ -14,7 +14,7 @@ Constat actuel : les milliardaires du monde entier possèdent plus de richesses 
 
 C'est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd'hui, c'est parce qu'il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités.
 
-Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir critiquer les valeurs liées à notre environnement, qu'elles soient religieuses, familiales, économique...
+Ce quelque chose doit être remis en question et ne doit plus être considéré comme une valeur positive. Il faut savoir se distinguer de ses valeurs liées à notre environnement, qu'elles soient religieuses, familiales, économiques...
 
 L'individualisme est probablement une bonne valeur mais elle nous a proposé une conception du monde qui consiste à séparer radicalement le "Moi" des autres. Chaque action individuelle influence l'interconnectivité entre les personnes. Les valeurs, les actions, d'un humain ne s'arrêtent pas à ce seul humain. Elles interagissent et influencent sans cesse les actions, les valeurs des autres et réciproquement. Quelques exemples :
 
