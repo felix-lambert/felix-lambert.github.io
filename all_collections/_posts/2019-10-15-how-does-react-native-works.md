@@ -7,7 +7,7 @@ tags: technology
 
 SOURCE:
 
-- [https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works](https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works)
+- [React native bridge](https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works)
 - [https://reactnative.dev/docs/communication-ios](https://reactnative.dev/docs/communication-ios)
 - [https://facebook.github.io/react-native/](https://facebook.github.io/react-native/)
 - [https://en.wikipedia.org/wiki/React_Native](https://en.wikipedia.org/wiki/React_Native)
