@@ -13,7 +13,6 @@ SOURCE:
 - [https://en.wikipedia.org/wiki/React_Native](https://en.wikipedia.org/wiki/React_Native)
 - [https://www.youtube.com/watch?v=qSRrxpdMpVc&t=231s](https://www.youtube.com/watch?v=qSRrxpdMpVc&t=231s)
 - [https://www.youtube.com/watch?v=rReCzR6DMEM](https://www.youtube.com/watch?v=rReCzR6DMEM)
-- [https://gist.github.com/kiok46/28743cd78fdd864322c12306eef0cff2](https://gist.github.com/kiok46/28743cd78fdd864322c12306eef0cff2)
 - [https://github.com/jondot/rn-snoopy](https://github.com/jondot/rn-snoopy)
 - [https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/](https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/)
 - [https://reactnative.dev/docs/performance](https://reactnative.dev/docs/performance)
