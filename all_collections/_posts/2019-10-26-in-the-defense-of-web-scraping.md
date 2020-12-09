@@ -13,10 +13,10 @@ SOURCE:
 - [https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d](https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d)
 - Season 3 of westworld
 - [https://www.youtube.com/watch?v=tcMdWM8wmqs](https://www.youtube.com/watch?v=tcMdWM8wmqs)
-- [https://en.wikipedia.org/wiki/Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
-- [https://en.wikipedia.org/wiki/Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
+- [Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+- [Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
 - [https://www.youtube.com/watch?v=guvsH5OFizE](https://www.youtube.com/watch?v=guvsH5OFizE)
-- [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- [TheProject](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/service.png)</span>
 
