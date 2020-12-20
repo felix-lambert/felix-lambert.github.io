@@ -15,7 +15,7 @@ SOURCE:
 - [https://lightsonsoftware.com/writing-code-that-reads-like-a-story/](https://lightsonsoftware.com/writing-code-that-reads-like-a-story/)
 - [https://opensource.com/business/15/10/jane-austen-on-python](https://opensource.com/business/15/10/jane-austen-on-python)
 - [https://eloquentjavascript.net/Eloquent_JavaScript.pdf](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
-- [https://www.w3.org/wiki/JavaScript_best_practices](https://www.w3.org/wiki/JavaScript_best_practices)
+
 
 The end goal of code is to be understood by a machine and by another human being. This is like communication: like code, if you speak and no one understands you, you're only speaking to yourself and others cannot make any use of it.
 

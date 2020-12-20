@@ -7,16 +7,12 @@ tags: philosophy
 
 SOURCE:
 
-- [https://www.youtube.com/watch?v=8J7TRSLf55U](https://www.youtube.com/watch?v=8J7TRSLf55U)
-- [https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
-- [https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv](https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv)
-- [https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d](https://hackernoon.com/the-a-z-of-web-scraping-in-2020-a-how-to-guide-sg263y8d)
+- [Open internet](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
+- [Big data and web scraping](https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv)
 - Season 3 of westworld
-- [https://www.youtube.com/watch?v=tcMdWM8wmqs](https://www.youtube.com/watch?v=tcMdWM8wmqs)
-- [https://en.wikipedia.org/wiki/Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
-- [https://en.wikipedia.org/wiki/Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
-- [https://www.youtube.com/watch?v=guvsH5OFizE](https://www.youtube.com/watch?v=guvsH5OFizE)
-- [http://info.cern.ch/hypertext/WWW/TheProject.html](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- [Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
+- [Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
+- [TheProject](http://info.cern.ch/hypertext/WWW/TheProject.html)
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/service.png)</span>
 
@@ -32,11 +28,11 @@ Of course, if you read the news, you might be thinking of Cambridge Analytica or
 
 We realize today that you can do web scraping to sell data to states, industries, advertisement companies or to rig an election. All this is, of course, harmful because the end goal is control and manipulation (pushing people to buy, to vote for the person who pays for you...). If the end goal is only money, power and control, we will end up with ads, surveillance everywhere. The web will become senseless and data will become a simple tool for controlling humans. Season 3 of westworld or episode 1 season 3 of black mirror gives us a good illustration of what we need to avoid.
 
-<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YrpK90bHO2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/YrpK90bHO2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 If you want a centralized computer that monitors everything, and data with one owner, you need to be like Facebook and ask users to hand over their data by means of an authentication system. If the technological architecture is designed this way, the data will belong to the company and no one else. If you decide to put all the data collected by users behind an authentication system, you decide not to share data, but to keep it for yourself.
 
-<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OqObVUEdGEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/OqObVUEdGEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 All this is pretty bad, I agree. But it doesn't necessarily mean that we need to condemn web scraping. I would like to rehabilitate this practice if it's OK and see if we can change direction.
 
@@ -46,7 +42,7 @@ But to do this, we need to go back first to the basics and see what a cool thing
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/document.png)</span>
 
-<p style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_mNOXDbXr9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/_mNOXDbXr9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 The web is basically linked documents (you click on a link and it brings you to another document from a specific computer). These linked documents can be shown by asking a specific computer to download it into your browser with an http/https protocol.
 
@@ -70,9 +66,9 @@ In summary, we can see the web as an enormous library of documents linked to eac
 
 # What is web scraping now?
 
-> <em>"The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case."</em>
+<em>"The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case."</em>
 
-> <em>"One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk."</em>
+<em>"One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk."</em>
 
 [Wikipedia: Search engine scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
 
@@ -80,7 +76,7 @@ Web scraping is an automated way to collect data from the web. If an API is not 
 
 If people don't want to access good content, it's not the fault of the web. And this problem is not technical. It's ethical. If we build a new architecture of the web but behaviors do not change, we will have new types of Facebook coming along. We don't need to build a more decentralized web with other technologies, we already need to be aware of the existing potentials of the web.
 
-<p style="text-align:center"><video width="500" height="500" controls> <source src="{{site.baseurl}}/assets/google2.mp4" type="video/mp4"> </video></p>
+<p style="text-align:center"><video width="100%" height="500" controls> <source src="{{site.baseurl}}/assets/google2.mp4" type="video/mp4"> </video></p>
 
 The dream of one of the co-founders of google was to download the html documents of all the web, save it on his computer and do a big network of nodes based on the links he could find on each web (html) documents. He would need to first make a rule that recognizes links within webpages, transforms the link into a node and see where it is positioned in this big network.
 
@@ -91,11 +87,11 @@ A web that is decipherable.
 
 # No Web Scraping, no search engine
 
-<p style="text-align:center"><video width="500" height="500" controls> <source src="{{site.baseurl}}/assets/google4.mp4" type="video/mp4"> </video></p>
+<p style="text-align:center"><video width="100%" controls> <source src="{{site.baseurl}}/assets/google4.mp4" type="video/mp4"> </video></p>
 
 Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.
 
-<p style="text-align:center"><video width="500" height="500" controls> <source src="{{site.baseurl}}/assets/google.mp4" type="video/mp4"> </video></p>
+<p style="text-align:center"><video width="100%" height="500" controls> <source src="{{site.baseurl}}/assets/google.mp4" type="video/mp4"> </video></p>
 
 # So now where can we go?
 
