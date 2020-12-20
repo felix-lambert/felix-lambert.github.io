@@ -6,7 +6,9 @@ profile_pic_alt: ""
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-> Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's%20CV%20_%20CV.pdf)
+Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's%20CV%20_%20CV.pdf)
+
+Current project: [EmptyMyFridge](https://www.emptymyfridge.com/)
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic and harmonious atmospheres.
 
@@ -22,9 +24,13 @@ What can I do?
 - Front-End developers / web integrators
 - Hosting
 
-FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques et harmonieuses. Do not hesitate to contact me so that you can tell me about your project.
+Do not hesitate to contact me so that you can tell me about your project.
 
-Je suis un passionné de javascript, du machine learning, et je suis ouvert à toutes formes d'innovations. N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
+FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques et harmonieuses. 
+
+Je suis un passionné de javascript, du machine learning, et je suis ouvert à toutes formes d'innovations. 
+
+N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
 
 Qu'est ce que je peux faire?
 
@@ -66,7 +72,7 @@ For collaboration:
 | :------------------------ |
 | lambertfelixpro@gmail.com |
 
-[My Github](http://github.com/voold)
+[My Github](http://github.com/felix-lambert)
 [Malt](https://www.malt.fr/profile/felixlambert1)
 
 IMPORTANT:

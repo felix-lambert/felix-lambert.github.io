@@ -49,13 +49,16 @@ main {
   margin-top: 3rem;
   margin-left: 20%;
   margin-right: 20%;
-  display: grid;
-  grid-gap: 1.4rem;
   line-height: 1.5rem;
 }
 
 .content a {
   text-decoration: underline;
+}
+
+.post-list {
+  display: grid;
+  grid-gap: 1.4rem;
 }
 
 .post-list a {
