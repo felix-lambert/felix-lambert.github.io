@@ -8,7 +8,7 @@ tags: technology
 SOURCE:
 
 - [https://www.youtube.com/watch?v=J9OpTNk0hYc&t=164s](https://www.youtube.com/watch?v=J9OpTNk0hYc&t=164s)
-- [https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/](https://www.youtube.com/watch?v=BsGXEiW7D3A&t=162s)
+- [https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/)
 - [https://www.youtube.com/watch?v=YYzt71o2IvQ](https://www.youtube.com/watch?v=YYzt71o2IvQ)
 - [https://www.youtube.com/watch?v=rS2HYJKndRc&t=578s](https://www.youtube.com/watch?v=rS2HYJKndRc&t=578s)
