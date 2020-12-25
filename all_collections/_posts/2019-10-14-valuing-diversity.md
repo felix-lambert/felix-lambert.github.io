@@ -21,7 +21,7 @@ L'individualisme est probablement une bonne valeur mais elle nous a proposé une
 
 - un humain qui passe à moto très vite en ville avec un moteur très bruyant influence l'environnement tout entier dans lequel il se retrouve. Il communique aux autres un style de vie. Cette forme de communication est essentielle. Il faut l'évaluer profondément et éventuellement la changer.
 
-Il faut prendre conscience que les dynamismes du changement peuvent aujourd'hui venir de partout, de chaque individu. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ?
+Il faut prendre conscience que les dynamismes du changement peuvent aujourd'hui venir de partout, de chaque individu. On n'est plus dans un système aujourd'hui où il faut monter les escaliers du pouvoir pour changer le monde. Nous sommes aujourd'hui dans une société en réseaux. La qualité de la contribution dans ce réseau change la qualité du monde dans lequel on vit. La qualité du web par exemple se construit en fonction de la qualité des contributions des personnes. Alors que faire concrètement ?
 
 1. Le plus important est de dire non au pouvoir en tant qu'idéologie. Ce jeu du pouvoir et du contrôle est un jeu qui génère des gagnants et des perdants. Et on a l'impression qu'on est bloqué avec ça. Lorsqu'on se retrouve dans une organisation un peu autoritaire avec un pouvoir vertical, proposons de la diversité, de nouveaux comportements pour offrir aux personnes de nouvelles opportunités d'actions. Cherchons donc à agir de manière à ce que notre différence soit une valeur pour les autres.
 
