@@ -9,4 +9,4 @@ tags: idées
 
 Un youtubeur que je suis qui propose de nous aider à trouver des idées fortes par ce qu'il connaît bien: la rhétorique. Il a aussi le courage de tenter des expériences qui me semblent très intéressantes.
 
-Ma proposition: peut-on réconcilier philosophie et rhétorique?
+Mon interrogation: peut-on réconcilier philosophie et rhétorique?
