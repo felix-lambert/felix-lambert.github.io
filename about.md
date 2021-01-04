@@ -12,23 +12,22 @@ Current project: [EmptyMyFridge](https://www.emptymyfridge.com/)
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic and harmonious atmospheres.
 
-Skilled in Node.js, react.js, react-native connected objets and Cloud Computing.
-
-I have a real passion for javascript, machine learning, and I'm open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design and development to back-end systems solutions, and server administration.
+I have a real passion for javascript in general and I'm open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design, mobile development, to back-end systems solutions, and server administration.
 
 What can I do?
 
 - Site / server migration
 - Server installation
-- Back-End Developers
-- Front-End developers / web integrators
+- Back-End
+- Front-End / web integrators
 - Hosting
+- Mobile apps
 
 Do not hesitate to contact me so that you can tell me about your project.
 
 FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques et harmonieuses. 
 
-Je suis un passionné de javascript, du machine learning, et je suis ouvert à toutes formes d'innovations. 
+Je suis un passionné de javascript et je suis ouvert à toutes formes d'innovations. 
 
 N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
 
@@ -49,10 +48,10 @@ Mes spécialités:
 - React-Native
 - Firebase
 - CSS3
-- HTML5
 - MySQL
 - MongoDB
 - git
+- Linux
 
 Connaissances:
 
