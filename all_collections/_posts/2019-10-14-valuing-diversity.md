@@ -9,7 +9,7 @@ Sources:
 
 - [Peter Hershock on diversity](https://www.youtube.com/watch?v=d-qmvvzBANY&t=364s).
 
-Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches ont doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
+Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
 
 C'est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd'hui, c'est parce qu'il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités.
 
