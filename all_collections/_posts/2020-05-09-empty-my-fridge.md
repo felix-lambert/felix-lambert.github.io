@@ -6,6 +6,7 @@ tags: application
 ---
 
 - [EmptyMyFridge](https://www.emptymyfridge.com)
+- [https://www.youtube.com/watch?v=S8a1DascnZg&t=136s](https://www.youtube.com/watch?v=S8a1DascnZg&t=136s)
 
 A chaque fois, avec ma compagne, je me retrouve à jeter pratiquement tous les mois de la nourriture. J'ai essayé d'élaborer des stratégies, des résolutions, j'y arrive peut-être deux, trois mois, mais après je me relâche, et je me remets à jeter.
 
