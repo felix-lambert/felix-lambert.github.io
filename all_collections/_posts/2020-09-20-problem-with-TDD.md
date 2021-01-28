@@ -1,3 +1,10 @@
+---
+layout: post
+title: Problem with TDD
+date: 2020-09-20 10:18:00
+tags: technology
+---
+
 SOURCE: 
 - [https://www.youtube.com/watch?v=21JlBOxgGwY](https://www.youtube.com/watch?v=21JlBOxgGwY)
 
