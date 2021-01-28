@@ -4,15 +4,16 @@
     "posts": [
         
             {
-                "title": "Problem With Tdd",
+                "title": "Problem with TDD",
                 "content_text": "SOURCE:  https://www.youtube.com/watch?v=21JlBOxgGwYIt’s a bit arrogant but I think that he has a point (on TDD not on Javascript…) :)Solution? Let’s just be more efficient because our end goal is building new projects for the happiness of our users, not for ourselves.",
                 "content_html": "<p>SOURCE:</p><ul>  <li><a href=\"https://www.youtube.com/watch?v=21JlBOxgGwY\">https://www.youtube.com/watch?v=21JlBOxgGwY</a></li></ul><p>It’s a bit arrogant but I think that he has a point (on TDD not on Javascript…) :)</p><p>Solution? Let’s just be more efficient because our end goal is building new projects for the happiness of our users, not for ourselves.</p>",
                 "url": "http://localhost:4000/posts/2020/09/20/problem-with-TDD/",
                 
                                 
                 
-                "date_published": "2020-09-20T00:00:00+02:00",
-                "date_modified": "2020-09-20T00:00:00+02:00",
+                "tags": ["technology"],
+                "date_published": "2020-09-20T12:18:00+02:00",
+                "date_modified": "2020-09-20T12:18:00+02:00",
                 
                 "author":  "Felix Lambert" 
                 
