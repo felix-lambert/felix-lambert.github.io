@@ -19,7 +19,7 @@ What can I do?
 - Site / server migration
 - Server installation
 - Back-End
-- Front-End / web integrators
+- Front-End
 - Hosting
 - Mobile apps
 - Browser extensions
