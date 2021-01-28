@@ -22,6 +22,7 @@ What can I do?
 - Front-End / web integrators
 - Hosting
 - Mobile apps
+- Browser extensions
 
 Do not hesitate to contact me so that you can tell me about your project.
 
