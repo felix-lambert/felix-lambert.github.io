@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-19T00:54:31+01:00</updated><id>/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">Le projet qui me tient à coeur &amp;gt; EmptyMyFridge</title><link href="/posts/2020/05/09/empty-my-fridge/" rel="alternate" type="text/html" title="Le projet qui me tient à coeur &gt; EmptyMyFridge" /><published>2020-05-09T12:18:00+02:00</published><updated>2020-05-09T12:18:00+02:00</updated><id>/posts/2020/05/09/empty-my-fridge</id><content type="html" xml:base="/posts/2020/05/09/empty-my-fridge/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-29T00:37:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">Problem With Tdd</title><link href="http://localhost:4000/posts/2020/09/20/problem-with-TDD/" rel="alternate" type="text/html" title="Problem With Tdd" /><published>2020-09-20T00:00:00+02:00</published><updated>2020-09-20T00:00:00+02:00</updated><id>http://localhost:4000/posts/2020/09/20/problem-with-TDD</id><content type="html" xml:base="http://localhost:4000/posts/2020/09/20/problem-with-TDD/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=21JlBOxgGwY&quot;&gt;https://www.youtube.com/watch?v=21JlBOxgGwY&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s a bit arrogant but I think that he has a point (on TDD not on Javascript…) :)&lt;/p&gt;
+
+&lt;p&gt;Solution? Let’s just be more efficient because our end goal is building new projects for the happiness of our users, not for ourselves.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><summary type="html">SOURCE: https://www.youtube.com/watch?v=21JlBOxgGwY</summary></entry><entry><title type="html">Le projet qui me tient à coeur &amp;gt; EmptyMyFridge</title><link href="http://localhost:4000/posts/2020/05/09/empty-my-fridge/" rel="alternate" type="text/html" title="Le projet qui me tient à coeur &gt; EmptyMyFridge" /><published>2020-05-09T12:18:00+02:00</published><updated>2020-05-09T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/09/empty-my-fridge</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/09/empty-my-fridge/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.emptymyfridge.com&quot;&gt;EmptyMyFridge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=S8a1DascnZg&amp;amp;t=136s&quot;&gt;https://www.youtube.com/watch?v=S8a1DascnZg&amp;amp;t=136s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -13,18 +20,18 @@
 
 &lt;p&gt;Je pense qu’une bonne manière de se prendre en main, c’est par la cuisine. En effet, c’est une des techniques les plus anciennes, et c’est ce qui nous a permis de survivre jusqu’à aujourd’hui.&lt;/p&gt;
 
-&lt;p&gt;J’aimerais que tout le monde puissent partager cette satisfaction, et qu’on puisse tous entendre notre cuisine chanter, avec tous les outils sortis et un bon plât préparé pour sa famille, sa compagne, ou soi-même.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="application" /><summary type="html">EmptyMyFridge https://www.youtube.com/watch?v=S8a1DascnZg&amp;amp;t=136s</summary></entry><entry><title type="html">My best scenes in TV series</title><link href="/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
+&lt;p&gt;J’aimerais que tout le monde puissent partager cette satisfaction, et qu’on puisse tous entendre notre cuisine chanter, avec tous les outils sortis et un bon plât préparé pour sa famille, sa compagne, ou soi-même.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="application" /><summary type="html">EmptyMyFridge https://www.youtube.com/watch?v=S8a1DascnZg&amp;amp;t=136s</summary></entry><entry><title type="html">My best scenes in TV series</title><link href="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/" rel="alternate" type="text/html" title="My best scenes in TV series" /><published>2020-05-08T12:18:00+02:00</published><updated>2020-05-08T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/08/my-best-scenes-in-tv-series/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=n4jsZ5DetcI&quot;&gt;https://www.youtube.com/watch?v=n4jsZ5DetcI&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7d85bNTIamM&quot;&gt;https://www.youtube.com/watch?v=7d85bNTIamM&lt;/a&gt;
 From a comment: “He was free to speak whatever he wanted because there was a movement underground developing that allowed that type of behavior.”&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="art" /><summary type="html">https://www.youtube.com/watch?v=n4jsZ5DetcI https://www.youtube.com/watch?v=7d85bNTIamM From a comment: “He was free to speak whatever he wanted because there was a movement underground developing that allowed that type of behavior.”</summary></entry><entry><title type="html">About sleep and programming</title><link href="/posts/2020/02/20/about-sleep-and-programming/" rel="alternate" type="text/html" title="About sleep and programming" /><published>2020-02-20T11:18:00+01:00</published><updated>2020-02-20T11:18:00+01:00</updated><id>/posts/2020/02/20/about-sleep-and-programming</id><content type="html" xml:base="/posts/2020/02/20/about-sleep-and-programming/">&lt;ul&gt;
+&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="art" /><summary type="html">https://www.youtube.com/watch?v=n4jsZ5DetcI https://www.youtube.com/watch?v=7d85bNTIamM From a comment: “He was free to speak whatever he wanted because there was a movement underground developing that allowed that type of behavior.”</summary></entry><entry><title type="html">About sleep and programming</title><link href="http://localhost:4000/posts/2020/02/20/about-sleep-and-programming/" rel="alternate" type="text/html" title="About sleep and programming" /><published>2020-02-20T11:18:00+01:00</published><updated>2020-02-20T11:18:00+01:00</updated><id>http://localhost:4000/posts/2020/02/20/about-sleep-and-programming</id><content type="html" xml:base="http://localhost:4000/posts/2020/02/20/about-sleep-and-programming/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://opensource.com/article/20/2/why-developers-code-night&quot;&gt;https://opensource.com/article/20/2/why-developers-code-night&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">https://opensource.com/article/20/2/why-developers-code-night</summary></entry><entry><title type="html">Throw out your tools</title><link href="/posts/2020/01/17/throw-out-your-tools/" rel="alternate" type="text/html" title="Throw out your tools" /><published>2020-01-17T11:18:00+01:00</published><updated>2020-01-17T11:18:00+01:00</updated><id>/posts/2020/01/17/throw-out-your-tools</id><content type="html" xml:base="/posts/2020/01/17/throw-out-your-tools/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">https://opensource.com/article/20/2/why-developers-code-night</summary></entry><entry><title type="html">Throw out your tools</title><link href="http://localhost:4000/posts/2020/01/17/throw-out-your-tools/" rel="alternate" type="text/html" title="Throw out your tools" /><published>2020-01-17T11:18:00+01:00</published><updated>2020-01-17T11:18:00+01:00</updated><id>http://localhost:4000/posts/2020/01/17/throw-out-your-tools</id><content type="html" xml:base="http://localhost:4000/posts/2020/01/17/throw-out-your-tools/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hlYiWznhhzw&quot;&gt;https://www.youtube.com/watch?v=hlYiWznhhzw&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N-lSE3DBerM&quot;&gt;https://www.youtube.com/watch?v=N-lSE3DBerM&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does firestore work?</title><link href="/posts/2020/01/09/how-does-cloud-firestore-work/" rel="alternate" type="text/html" title="How does firestore work?" /><published>2020-01-09T11:18:00+01:00</published><updated>2020-01-09T11:18:00+01:00</updated><id>/posts/2020/01/09/how-does-cloud-firestore-work</id><content type="html" xml:base="/posts/2020/01/09/how-does-cloud-firestore-work/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does firestore work?</title><link href="http://localhost:4000/posts/2020/01/09/how-does-cloud-firestore-work/" rel="alternate" type="text/html" title="How does firestore work?" /><published>2020-01-09T11:18:00+01:00</published><updated>2020-01-09T11:18:00+01:00</updated><id>http://localhost:4000/posts/2020/01/09/how-does-cloud-firestore-work</id><content type="html" xml:base="http://localhost:4000/posts/2020/01/09/how-does-cloud-firestore-work/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/firestore/docs/data-model&quot;&gt;https://cloud.google.com/firestore/docs/data-model&lt;/a&gt;&lt;/li&gt;
@@ -43,7 +50,7 @@ From a comment: “He was free to speak whatever he wanted because there was a m
   &lt;li&gt;Graph like InfiniteGraph&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Firestore list documents because it encapsulates and encode information using XML, YAML, and JSON and binary forms like BSON via a unique key that represents that document.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-hooks work?</title><link href="/posts/2020/01/06/how-does-react-hooks-work/" rel="alternate" type="text/html" title="How does react-hooks work?" /><published>2020-01-06T11:18:00+01:00</published><updated>2020-01-06T11:18:00+01:00</updated><id>/posts/2020/01/06/how-does-react-hooks-work</id><content type="html" xml:base="/posts/2020/01/06/how-does-react-hooks-work/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;p&gt;Firestore list documents because it encapsulates and encode information using XML, YAML, and JSON and binary forms like BSON via a unique key that represents that document.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-hooks work?</title><link href="http://localhost:4000/posts/2020/01/06/how-does-react-hooks-work/" rel="alternate" type="text/html" title="How does react-hooks work?" /><published>2020-01-06T11:18:00+01:00</published><updated>2020-01-06T11:18:00+01:00</updated><id>http://localhost:4000/posts/2020/01/06/how-does-react-hooks-work</id><content type="html" xml:base="http://localhost:4000/posts/2020/01/06/how-does-react-hooks-work/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://reactjs.org/docs/hooks-intro.html&quot;&gt;https://reactjs.org/docs/hooks-intro.html&lt;/a&gt;&lt;/li&gt;
@@ -107,7 +114,7 @@ From a comment: “He was free to speak whatever he wanted because there was a m
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Hooks creates on the first render, a linked list of mutable fiber objects to represent the entire DOM. It holds the states that preserves from re-renders and store the data of a component. It also has a reference that points to the next node of the tree.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Clean code javascript</title><link href="/posts/2019/11/07/clean-code-javascript/" rel="alternate" type="text/html" title="Clean code javascript" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>/posts/2019/11/07/clean-code-javascript</id><content type="html" xml:base="/posts/2019/11/07/clean-code-javascript/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;p&gt;Hooks creates on the first render, a linked list of mutable fiber objects to represent the entire DOM. It holds the states that preserves from re-renders and store the data of a component. It also has a reference that points to the next node of the tree.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Clean code javascript</title><link href="http://localhost:4000/posts/2019/11/07/clean-code-javascript/" rel="alternate" type="text/html" title="Clean code javascript" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/07/clean-code-javascript</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/07/clean-code-javascript/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/airbnb/javascript&quot;&gt;https://github.com/airbnb/javascript&lt;/a&gt;&lt;/li&gt;
@@ -590,7 +597,7 @@ Bad:&lt;/p&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;name-your-event-handlers-with-handle-prefixes-such-as-handleclick-or-handleupdate&quot;&gt;Name your event handlers with handle prefixes, such as &lt;code class=&quot;highlighter-rouge&quot;&gt;handleClick()&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;handleUpdate()&lt;/code&gt;.&lt;/h3&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Does a developer need to be nice?</title><link href="/posts/2019/11/07/does-a-developer-needs-to-be-nice/" rel="alternate" type="text/html" title="Does a developer need to be nice?" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>/posts/2019/11/07/does-a-developer-needs-to-be-nice</id><content type="html" xml:base="/posts/2019/11/07/does-a-developer-needs-to-be-nice/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;h3 id=&quot;name-your-event-handlers-with-handle-prefixes-such-as-handleclick-or-handleupdate&quot;&gt;Name your event handlers with handle prefixes, such as &lt;code class=&quot;highlighter-rouge&quot;&gt;handleClick()&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;handleUpdate()&lt;/code&gt;.&lt;/h3&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">Does a developer need to be nice?</title><link href="http://localhost:4000/posts/2019/11/07/does-a-developer-needs-to-be-nice/" rel="alternate" type="text/html" title="Does a developer need to be nice?" /><published>2019-11-07T11:18:00+01:00</published><updated>2019-11-07T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/07/does-a-developer-needs-to-be-nice</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/07/does-a-developer-needs-to-be-nice/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=J9OpTNk0hYc&amp;amp;t=164s&quot;&gt;https://www.youtube.com/watch?v=J9OpTNk0hYc&amp;amp;t=164s&lt;/a&gt;&lt;/li&gt;
@@ -605,7 +612,7 @@ Bad:&lt;/p&gt;
 
 &lt;p&gt;Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety.&lt;/p&gt;
 
-&lt;p&gt;So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">In defence of web scraping</title><link href="/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
+&lt;p&gt;So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">In defence of web scraping</title><link href="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&quot;&gt;Open internet&lt;/a&gt;&lt;/li&gt;
@@ -720,86 +727,4 @@ A web that is decipherable.&lt;/p&gt;
 
 &lt;p&gt;Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fire so that cameras can recognize a danger automatically.&lt;/p&gt;
 
-&lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">How does react-native works?</title><link href="/posts/2019/10/15/how-does-react-native-works/" rel="alternate" type="text/html" title="How does react-native works?" /><published>2019-10-15T12:18:00+02:00</published><updated>2019-10-15T12:18:00+02:00</updated><id>/posts/2019/10/15/how-does-react-native-works</id><content type="html" xml:base="/posts/2019/10/15/how-does-react-native-works/">&lt;p&gt;SOURCE:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://subscription.packtpub.com/book/application_development/9781787282537/1/01lvl1sec9/how-the-react-native-bridge-from-javascript-to-native-world-works&quot;&gt;React native bridge&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/docs/communication-ios&quot;&gt;https://reactnative.dev/docs/communication-ios&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;https://facebook.github.io/react-native/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/React_Native&quot;&gt;https://en.wikipedia.org/wiki/React_Native&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qSRrxpdMpVc&amp;amp;t=231s&quot;&gt;https://www.youtube.com/watch?v=qSRrxpdMpVc&amp;amp;t=231s&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rReCzR6DMEM&quot;&gt;https://www.youtube.com/watch?v=rReCzR6DMEM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jondot/rn-snoopy&quot;&gt;https://github.com/jondot/rn-snoopy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/&quot;&gt;https://blog.logrocket.com/overcoming-single-threaded-limitations-in-react-native/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/docs/performance&quot;&gt;https://reactnative.dev/docs/performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/53588142/the-benefits-of-react-native-javascriptcore&quot;&gt;https://stackoverflow.com/questions/53588142/the-benefits-of-react-native-javascriptcore&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/33479180/what-does-react-native-use-to-allow-javascript-to-be-executed-on-ios-and-android&quot;&gt;https://stackoverflow.com/questions/33479180/what-does-react-native-use-to-allow-javascript-to-be-executed-on-ios-and-android&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055/&quot;&gt;https://www.freecodecamp.org/news/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055/&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.reactnative.guide/3-react-native-internals/3.1-react-native-internals.html&quot;&gt;https://www.reactnative.guide/3-react-native-internals/3.1-react-native-internals.html&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=1&amp;amp;v=0MlT74erp60&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=1&amp;amp;v=0MlT74erp60&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=1&amp;amp;v=8N4f4h6SThc&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=1&amp;amp;v=8N4f4h6SThc&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=3&amp;amp;v=UcqRXTriUVI&amp;amp;feature=emb_logo&quot;&gt;https://www.youtube.com/watch?time_continue=3&amp;amp;v=UcqRXTriUVI&amp;amp;feature=emb_logo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f&quot;&gt;https://levelup.gitconnected.com/wait-what-happens-when-my-react-native-application-starts-an-in-depth-look-inside-react-native-5f306ef3250f&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.raywenderlich.com/1227-javascriptcore-tutorial-for-ios-getting-started&quot;&gt;https://www.raywenderlich.com/1227-javascriptcore-tutorial-for-ios-getting-started&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=_IiDHmAPH28&quot;&gt;https://www.youtube.com/watch?v=_IiDHmAPH28&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/view.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;lets-understand-what-happens-when-a-user-starts-running-a-react-native-app&quot;&gt;Let’s understand what happens when a user starts running a react-native app&lt;/h1&gt;
-
-&lt;p&gt;To run the application one of the following commands is issued via the command-line interface (CLI): &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-ios&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;react-native run-android&lt;/code&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This command runs at the native entry point thread (native thread) on which your Android (Java/Kotlin) or IOS (Swift/Objective C) app is running. This thread is automatically assigned by the phone’s operating system.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/process.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;The native thread (or main thread) has access to what the user is seeing. All events (touch event, timer event, network request event…) are listened on the native side.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The command creates a RootView (RCTRootView) that gives everything visible to the user.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The RootView creates the Bridge Interface.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Bridge takes care of the communication by serializing it through JSON messages (on the native side and on the JavaScript side) so that it can pass across. This communication is actually quite similar to a client (native thread) and a server (JS thread).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Bridge Interface will send messages to create the JavaScript (JS) thread to execute the code that is written in react-native.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Once the Bridge passes serialized payload to JavaScript, Event is processed and your application logic comes into play.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When React starts rendering it sends the changes to another thread: the Shadow thread.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.&lt;/p&gt;
-
-&lt;p&gt;The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt; &lt;img src=&quot;/assets/img/native.png&quot; alt=&quot;drawing&quot; width=&quot;900&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s look at this code as an example:&lt;/p&gt;
-
-&lt;p&gt;```jsx let d const App = props = { return ( &lt;View&gt; &lt;Text&gt;Hello there&lt;/Text&gt; &lt;/View&gt; ) }&lt;/p&gt;
-
-&lt;p&gt;```&lt;/p&gt;
-
-&lt;p&gt;If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;View /&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TextInput /&amp;gt;&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Text/&amp;gt;&lt;/code&gt; are special components compiled into native code. The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;View&amp;gt;&lt;/code&gt; component will be linked to android.view for android and UIView for ios. &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;TextInput&amp;gt;&lt;/code&gt; will be linked to EditText for android and UITextField for IOS.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Since only the main thread is able to render something on the screen, shadow thread should send generated layout to the main thread, and only then UI renders.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry></feed>
+&lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry></feed>
