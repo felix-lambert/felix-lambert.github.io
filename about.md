@@ -8,6 +8,7 @@ short_bio: Hi this is Felix, a web, software, and mobile developer.
 
 <!-- Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's%20CV%20_%20CV.pdf) -->
 
+
 Current project: [EmptyMyFridge](https://www.emptymyfridge.com/)
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic and harmonious atmospheres.
@@ -19,9 +20,10 @@ What can I do?
 - Site / server migration
 - Server installation
 - Back-End
-- Front-End / web integrators
+- Front-End
 - Hosting
 - Mobile apps
+- Browser extensions
 
 Do not hesitate to contact me so that you can tell me about your project.
 
