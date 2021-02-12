@@ -1,11 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-29T00:38:40+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">Problem with TDD</title><link href="http://localhost:4000/posts/2020/09/20/problem-with-TDD/" rel="alternate" type="text/html" title="Problem with TDD" /><published>2020-09-20T12:18:00+02:00</published><updated>2020-09-20T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/09/20/problem-with-TDD</id><content type="html" xml:base="http://localhost:4000/posts/2020/09/20/problem-with-TDD/">&lt;p&gt;SOURCE:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-02-12T20:45:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Felix’s blog</title><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><entry><title type="html">My best music of the moment</title><link href="http://localhost:4000/posts/2021/02/09/my-best-music-of-the-moment/" rel="alternate" type="text/html" title="My best music of the moment" /><published>2021-02-09T11:18:00+01:00</published><updated>2021-02-09T11:18:00+01:00</updated><id>http://localhost:4000/posts/2021/02/09/my-best-music-of-the-moment</id><content type="html" xml:base="http://localhost:4000/posts/2021/02/09/my-best-music-of-the-moment/">&lt;p&gt;Coldplay: Ink&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/Ink.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;
+
+&lt;p&gt;Jackson Browne: Stay Just A Little Bit Longer&lt;/p&gt;
+&lt;audio controls=&quot;&quot;&gt;
+  &lt;source src=&quot;/assets/stay.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="music" /><summary type="html">Coldplay: Ink Your browser does not support the audio element.</summary></entry><entry><title type="html">Problem with TDD</title><link href="http://localhost:4000/posts/2020/09/20/problem-with-TDD/" rel="alternate" type="text/html" title="Problem with TDD" /><published>2020-09-20T12:18:00+02:00</published><updated>2020-09-20T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/09/20/problem-with-TDD</id><content type="html" xml:base="http://localhost:4000/posts/2020/09/20/problem-with-TDD/">&lt;p&gt;SOURCE:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=21JlBOxgGwY&quot;&gt;https://www.youtube.com/watch?v=21JlBOxgGwY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://felix-lambert.github.io/posts/2020/01/17/throw-out-your-tools/&quot;&gt;Throw out your tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;It’s a bit arrogant but I think that he has a point (on TDD not on Javascript…) :)&lt;/p&gt;
+&lt;p&gt;It’s a bit arrogant and I’m sure he will have problem in fitting in a team but I think that he has a point (on TDD not on Javascript…) :)&lt;/p&gt;
 
-&lt;p&gt;Solution? Let’s just be more efficient because our end goal is building new projects for the happiness of our users, not for ourselves.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE: https://www.youtube.com/watch?v=21JlBOxgGwY</summary></entry><entry><title type="html">Le projet qui me tient à coeur &amp;gt; EmptyMyFridge</title><link href="http://localhost:4000/posts/2020/05/09/empty-my-fridge/" rel="alternate" type="text/html" title="Le projet qui me tient à coeur &gt; EmptyMyFridge" /><published>2020-05-09T12:18:00+02:00</published><updated>2020-05-09T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/09/empty-my-fridge</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/09/empty-my-fridge/">&lt;ul&gt;
+&lt;p&gt;Solution? Let’s just be more efficient because our end goal is building new projects for the happiness of our users, not for ourselves.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE: https://www.youtube.com/watch?v=21JlBOxgGwY Throw out your tools</summary></entry><entry><title type="html">Le projet qui me tient à coeur &amp;gt; EmptyMyFridge</title><link href="http://localhost:4000/posts/2020/05/09/empty-my-fridge/" rel="alternate" type="text/html" title="Le projet qui me tient à coeur &gt; EmptyMyFridge" /><published>2020-05-09T12:18:00+02:00</published><updated>2020-05-09T12:18:00+02:00</updated><id>http://localhost:4000/posts/2020/05/09/empty-my-fridge</id><content type="html" xml:base="http://localhost:4000/posts/2020/05/09/empty-my-fridge/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.emptymyfridge.com&quot;&gt;EmptyMyFridge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=S8a1DascnZg&amp;amp;t=136s&quot;&gt;https://www.youtube.com/watch?v=S8a1DascnZg&amp;amp;t=136s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -612,119 +623,4 @@ Bad:&lt;/p&gt;
 
 &lt;p&gt;Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety.&lt;/p&gt;
 
-&lt;p&gt;So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry><entry><title type="html">In defence of web scraping</title><link href="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/" rel="alternate" type="text/html" title="In defence of web scraping" /><published>2019-11-01T11:18:00+01:00</published><updated>2019-11-01T11:18:00+01:00</updated><id>http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping</id><content type="html" xml:base="http://localhost:4000/posts/2019/11/01/in-the-defense-of-web-scraping/">&lt;p&gt;SOURCE:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i&quot;&gt;Open internet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv&quot;&gt;Big data and web scraping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Season 3 of westworld&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Robots_exclusion_standard&quot;&gt;Robots_exclusion_standard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_scraping&quot;&gt;Search_engine_scraping&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://info.cern.ch/hypertext/WWW/TheProject.html&quot;&gt;TheProject&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/service.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;When I say to people that I’m doing “web scraping” for my personal project, they either don’t know what I’m talking about or look at me with eyes of fear. The term “web scraping” has a negative connotation today. It’s often seen as unethical or/and illegal.&lt;/p&gt;
-
-&lt;h1 id=&quot;why-illegal&quot;&gt;Why illegal?&lt;/h1&gt;
-
-&lt;p&gt;Some companies could even sue you (there have been dozens of legal cases on web scraping over the decades) or do some lobbying to make it illegal. It might not work but it gives a force of dissuasion: people might experience the guilt of doing something illegal.&lt;/p&gt;
-
-&lt;h1 id=&quot;why-unethical&quot;&gt;Why unethical?&lt;/h1&gt;
-
-&lt;p&gt;Of course, if you read the news, you might be thinking of Cambridge Analytica or other organizations that scraps social media user data and manipulate by sending advertisements, fake news…&lt;/p&gt;
-
-&lt;p&gt;We realize today that you can do web scraping to sell data to states, industries, advertisement companies or to rig an election. All this is, of course, harmful because the end goal is control and manipulation (pushing people to buy, to vote for the person who pays for you…). If the end goal is only money, power and control, we will end up with ads, surveillance everywhere. The web will become senseless and data will become a simple tool for controlling humans. Season 3 of westworld or episode 1 season 3 of black mirror gives us a good illustration of what we need to avoid.&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YrpK90bHO2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want a centralized computer that monitors everything, and data with one owner, you need to be like Facebook and ask users to hand over their data by means of an authentication system. If the technological architecture is designed this way, the data will belong to the company and no one else. If you decide to put all the data collected by users behind an authentication system, you decide not to share data, but to keep it for yourself.&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OqObVUEdGEo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;All this is pretty bad, I agree. But it doesn’t necessarily mean that we need to condemn web scraping. I would like to rehabilitate this practice if it’s OK and see if we can change direction.&lt;/p&gt;
-
-&lt;p&gt;But to do this, we need to go back first to the basics and see what a cool thing the web actually is.&lt;/p&gt;
-
-&lt;h1 id=&quot;what-is-the-web&quot;&gt;What is the web?&lt;/h1&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/document.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_mNOXDbXr9c&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;p&gt;The web is basically linked documents (you click on a link and it brings you to another document from a specific computer). These linked documents can be shown by asking a specific computer to download it into your browser with an http/https protocol.&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/http.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;We call these computers ‘servers’ because they are configured in such a way that it can listen to our requests. ‘Servers’ turn a program in background waiting for some messages to come so that it can answer and deliver the required document or data.&lt;/p&gt;
-
-&lt;p&gt;The content of these html documents is digital data. Why digital? Because they are binary (0 1). The browser translates this binary data to data that a human can understand.&lt;/p&gt;
-
-&lt;p&gt;This is maybe a basic definition of what we call the web. The enormous value of it today is that all these documents, coming from different computers are linked together (with hyperlinks). Like university papers, or academic books, they often provide sources.&lt;/p&gt;
-
-&lt;p&gt;It’s extremely important to note that there is no super-computer that monitors all these documents. Nor are there any super computers that monitor all these little computers. The information is spread horizontally in a decentralized way, through different computers.&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/decentralized.png&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;When everything seems to be controlled by an institution, a company, a state in the offline world…, no one really controls the online world and some even say that this world has been made (not really by the us army, but by everyone of us that decides to add document files on the web) to be uncontrollable.&lt;/p&gt;
-
-&lt;p&gt;In summary, we can see the web as an enormous library of documents linked to each other with no owner. If data had owners and strict copyright, we would not be able to build a search engine. The web would become a very messy library with no way of finding the documents that users really need.&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;display:block;text-align:center&quot;&gt;&lt;img src=&quot;/assets/img/library.jpeg&quot; alt=&quot;Octocat&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;what-is-web-scraping-now&quot;&gt;What is web scraping now?&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;“The largest public known incident of a search engine being scraped happened in 2011 when Microsoft was caught scraping unknown keywords from Google for their own, rather new Bing service. But even this incident did not result in a court case.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“One possible reason might be that search engines like Google are getting almost all their data by scraping millions of public reachable websites, also without reading and accepting those terms. A legal case won by Google against Microsoft would possibly put their whole business as risk.”&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_scraping&quot;&gt;Wikipedia: Search engine scraping&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Web scraping is an automated way to collect data from the web. If an API is not available, often, what needs to be done is taking a website’s HTML file, detecting the data and saving it, often into a database. So once the data is public, on the web, someone can store, monitor and/or use it.&lt;/p&gt;
-
-&lt;p&gt;If people don’t want to access good content, it’s not the fault of the web. And this problem is not technical. It’s ethical. If we build a new architecture of the web but behaviors do not change, we will have new types of Facebook coming along. We don’t need to build a more decentralized web with other technologies, we already need to be aware of the existing potentials of the web.&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;100%&quot; height=&quot;500&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/google2.mp4&quot; type=&quot;video/mp4&quot; /&gt; &lt;/video&gt;&lt;/p&gt;
-
-&lt;p&gt;The dream of one of the co-founders of google was to download the html documents of all the web, save it on his computer and do a big network of nodes based on the links he could find on each web (html) documents. He would need to first make a rule that recognizes links within webpages, transforms the link into a node and see where it is positioned in this big network.&lt;/p&gt;
-
-&lt;p&gt;We can easily see here that Google is today’s most advanced web scraping company in existence. And, if we really want to access it, Google’s web scraping gives us the most amazing access to culture (with a big C) that there is.&lt;/p&gt;
-
-&lt;p&gt;With these web scraping techniques, Google has given us a web that is easy to navigate.
-A web that is decipherable.&lt;/p&gt;
-
-&lt;h1 id=&quot;no-web-scraping-no-search-engine&quot;&gt;No Web Scraping, no search engine&lt;/h1&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;100%&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/google4.mp4&quot; type=&quot;video/mp4&quot; /&gt; &lt;/video&gt;&lt;/p&gt;
-
-&lt;p&gt;Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center&quot;&gt;&lt;video width=&quot;100%&quot; height=&quot;500&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;/assets/google.mp4&quot; type=&quot;video/mp4&quot; /&gt; &lt;/video&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;so-now-where-can-we-go&quot;&gt;So now where can we go?&lt;/h1&gt;
-
-&lt;p&gt;I think we didn’t grab very well the potential of web scraping today and it’s normal because it’s not easy. Of course the first thing that comes into our mind is to use web scraping to find cheap prices for plane tickets, restaurants, products… Which is great. But we maybe can find an even better use for it.&lt;/p&gt;
-
-&lt;p&gt;Today, we realize that the web is the perfect thing for big data. No web, no big data, no big data, no machine learning. We have powerful enough machines now to process a lot of the data and make sense of it.&lt;/p&gt;
-
-&lt;p&gt;We now have machine-learning techniques that scrape the web and can process and classify data in order to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;detect a serious illness fast, before it’s too late&lt;/li&gt;
-  &lt;li&gt;detect a forest fire before it’s too late&lt;/li&gt;
-  &lt;li&gt;detect dangerous substances in a food product&lt;/li&gt;
-  &lt;li&gt;detect dangers to plant, animal or insect life (such as the varroa mite to bee populations)&lt;/li&gt;
-  &lt;li&gt;detect an outbreak of a new disease before it’s too late&lt;/li&gt;
-  &lt;li&gt;detect dangerous substances of product we’re eating&lt;/li&gt;
-  &lt;li&gt;automatized customer services that use advanced chatbots to problem-solve help you mend stuff (by sending photos to them) and find what you need to buy for you&lt;/li&gt;
-  &lt;li&gt;these chatbot could help you mend stuff (by sending photos to them) and find what you need to buy for you&lt;/li&gt;
-  &lt;li&gt;machine learning can give us very precise statistics in economy, urbanism, criminality …
-…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other suggestions?&lt;/p&gt;
-
-&lt;p&gt;Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fire so that cameras can recognize a danger automatically.&lt;/p&gt;
-
-&lt;p&gt;In summary, Web scraping can give us better access to culture, science, and with better access to culture, science… humans can maybe act in the world with greater attention to important things and/or awareness.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="philosophy" /><summary type="html">SOURCE:</summary></entry></feed>
+&lt;p&gt;So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.&lt;/p&gt;</content><author><name>Felix Lambert</name><email>lambertfelix8@gmail.com</email></author><category term="technology" /><summary type="html">SOURCE:</summary></entry></feed>
