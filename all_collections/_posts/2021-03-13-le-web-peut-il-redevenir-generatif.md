@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les web peut-il redevenir génératif?
+title: Le web peut-il redevenir génératif?
 date: 2021-02-25 10:18:00
 tags: technologie
 ---
