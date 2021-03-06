@@ -19,4 +19,4 @@ We also criticize google helping us with our spelling mistakes in english for ex
 
 The technophobe is fascinated by the end of humanity, destroyed by technology, while the technophile is fascinated by the tools of technology while neglecting its purpose (reducing suffering, for example).
 
-The right path is probably to accept technology as the best way to transform ourselves into an empowered and fulfilled human.
+The right path is probably to accept technology without confrontation, as the best way to transform ourselves into an empowered and fulfilled human. 
