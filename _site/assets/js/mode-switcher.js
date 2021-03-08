@@ -1,30 +1,18 @@
-const userPrefers = getComputedStyle(document.documentElement).getPropertyValue(
-  "content"
-);
+document.addEventListener("DOMContentLoaded", themeChange);
 
-if (theme === "dark") {
-  document.getElementById("theme-toggle").innerHTML = "Light Mode";
-} else if (theme === "light") {
-  document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-} else if (userPrefers === "dark") {
-  document.documentElement.setAttribute("data-theme", "dark");
-  window.localStorage.setItem("theme", "dark");
-  document.getElementById("theme-toggle").innerHTML = "Light Mode";
-} else {
-  document.documentElement.setAttribute("data-theme", "light");
-  window.localStorage.setItem("theme", "light");
-  document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-}
+function themeChange() {
+  // Select our toggle button
+  let button = document.querySelector(".theme-toggle");
 
-function modeSwitcher() {
-  let currentMode = document.documentElement.getAttribute("data-theme");
-  if (currentMode === "dark") {
-    document.documentElement.setAttribute("data-theme", "light");
-    window.localStorage.setItem("theme", "light");
-    document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-  } else {
-    document.documentElement.setAttribute("data-theme", "dark");
-    window.localStorage.setItem("theme", "dark");
-    document.getElementById("theme-toggle").innerHTML = "Light Mode";
-  }
+  // Add an event listener for a click
+  button.addEventListener("click", function (e) {
+    // Check the current data-theme value
+    let currentTheme = document.documentElement.getAttribute("data-theme");
+
+    if (currentTheme === "dark") {
+      document.documentElement.setAttribute("data-theme", "light");
+    } else {
+      document.documentElement.setAttribute("data-theme", "dark");
+    }
+  });
 }

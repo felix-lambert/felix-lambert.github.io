@@ -2,9 +2,15 @@
   outline: none;
   --theme-color: #0ac4ba;
 }
-body {
-  color: rgb(167, 158, 139) !important;
+/* body[data-theme="light"] {
+  font-size: 20px;
+  background: hsl(0, 5%, 95%);
 }
+
+body[data-theme="dark"] {
+  font-size: 20px;
+  background: rgb(16, 20, 23);
+} */
 
 img {
   max-width: 100% !important;

@@ -6,8 +6,6 @@ profile_pic_alt: ""
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-<button id="theme-toggle" onclick="modeSwitcher()"></button>
-
 Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf)
 
 Current project: [EmptyMyFridge](https://www.emptymyfridge.com/)
