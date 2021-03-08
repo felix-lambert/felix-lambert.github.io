@@ -1,5 +1,7 @@
-I"¼
-<!-- Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's%20CV%20_%20CV.pdf) -->
+I"ÿ
+<p><button id="theme-toggle" onclick="modeSwitcher()"></button></p>
+
+<p>Check <a href="https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf">CV</a></p>
 
 <p>Current project: <a href="https://www.emptymyfridge.com/">EmptyMyFridge</a></p>
 
