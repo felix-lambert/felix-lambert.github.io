@@ -6,6 +6,8 @@ profile_pic_alt: ""
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
+<button id="theme-toggle" onclick="modeSwitcher()"></button>
+
 Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf)
 
 Current project: [EmptyMyFridge](https://www.emptymyfridge.com/)
@@ -26,9 +28,9 @@ What can I do?
 
 Do not hesitate to contact me so that you can tell me about your project.
 
-FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques et harmonieuses. 
+FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques et harmonieuses.
 
-Je suis un passionné de javascript et je suis ouvert à toutes formes d'innovations. 
+Je suis un passionné de javascript et je suis ouvert à toutes formes d'innovations.
 
 N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
 
