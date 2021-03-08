@@ -3,7 +3,6 @@ title: Blog
 layout: collections_layout
 ---
 
-<button id="theme-toggle" onclick="modeSwitcher()"></button>
 {% for post in site.posts %}
 <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
 {%endfor%}
