@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book review > The Ethics Of Ordinary Technology by Michel Puech
-date: 2020-08-13 10:18:00
+date: 2021-03-25 10:18:00
 tags: philosophy
 ---
 
@@ -11,7 +11,7 @@ SOURCE:
 - [https://www.amazon.com/Ordinary-Technology-Routledge-Studies-Science/dp/1138659347](https://www.amazon.com/Ordinary-Technology-Routledge-Studies-Science/dp/1138659347)
 - [http://michel.puech.free.fr/](http://michel.puech.free.fr/)
 
-We need to focus today and have more attention of the ordinary. The author thinks that it's in the ordinary that we can cultivate wisdom, not in the extroardinary.
+We need to have more attention of the ordinary. The author thinks that it's in the ordinary that we can cultivate wisdom, not in the extroardinary.
 
 But what is the ordinary?
 
@@ -19,4 +19,4 @@ The ordinary is the real life we live in. It's our daily tools and technologies 
 
 What is the extraordinary?
 
-The easiest way of having a good representation of the extraordinary is by paying attention to the media or the ads you're seeing every day in your ordinary life.
+The easiest way of having a good representation of the extraordinary is by paying attention of the media or the ads you're seeing every day in your ordinary life.
