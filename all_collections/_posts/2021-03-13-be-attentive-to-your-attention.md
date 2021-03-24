@@ -12,4 +12,4 @@ Source:
 
 The skill of reorienting your attention could be the answer for having a furfilled life. If we have the capacity of being careful of where your attention is focused, from waking up to sleeping, we might be able to solve all the global problems of the world. So instead of complaining about bad things, let's stop paying attention to them.
 
-But let's be careful here. I don't want to say that google or mobile apps for example are stealing times of your life. If the attention you have on a google search or some kind of mobile app does fit your end goal in life, these services can be incorporated and accepted by you.
+But let's be careful here :) I don't want to say that google or mobile apps for example are stealing times of your life. If the attention you have on a google search or some kind of mobile app does fit your end goal in life, these services can be incorporated and be accepted by you.
