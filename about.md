@@ -8,7 +8,7 @@ short_bio: Hi this is Felix, a web, software, and mobile developer.
 
 Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf)
 
-Current project: [EmptyMyFridge](https://www.emptymyfridge.com/)
+Current project: [EmptyMyFridge](https://www.emptymyfridge.com/) and [dismoi](https://www.dismoi.io/).
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic and harmonious atmospheres.
 
