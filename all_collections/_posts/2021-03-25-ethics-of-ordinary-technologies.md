@@ -10,6 +10,7 @@ SOURCE:
 - [https://books.google.fr/books/about/The_Ethics_of_Ordinary_Technology.html?id=-QERDAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false](https://books.google.fr/books/about/The_Ethics_of_Ordinary_Technology.html?id=-QERDAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
 - [https://www.amazon.com/Ordinary-Technology-Routledge-Studies-Science/dp/1138659347](https://www.amazon.com/Ordinary-Technology-Routledge-Studies-Science/dp/1138659347)
 - [http://michel.puech.free.fr/](http://michel.puech.free.fr/)
+- [https://www.youtube.com/watch?v=2VSYmGSJtCA](https://www.youtube.com/watch?v=2VSYmGSJtCA)
 
 We need to have more attention of the ordinary. The author thinks that it's in the ordinary that we can cultivate wisdom, not in the extroardinary.
 
