@@ -12,7 +12,7 @@ Current project: [EmptyMyFridge](https://www.emptymyfridge.com/) and [dismoi](ht
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic and harmonious atmospheres.
 
-I have a real passion for javascript in general and I'm open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design, mobile development, to back-end systems solutions, and server administration.
+I have a real passion for javascript in general because it's a simple language that enables us to code fast and efficiently. But I'm also open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design, mobile development, to back-end systems solutions, and server administration.
 
 What can I do?
 
@@ -24,7 +24,33 @@ What can I do?
 - Mobile apps
 - Browser extensions
 
-Do not hesitate to contact me so that you can tell me about your project.
+My specialties:
+
+- Javascript
+- Node.JS
+- React.JS
+- React-Native
+- Firebase
+- CSS3
+- MySQL
+- MongoDB
+- git
+- Linux
+- Android (java + xml)
+
+Knowledge:
+
+- docker
+- system administration
+- IoT
+
+Languages:
+
+- Native French
+- Bilingual English
+- Korean beginner
+
+Do not hesitate to contact me so we can have a conversation about your project.
 
 FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques et harmonieuses.
 
@@ -53,6 +79,7 @@ Mes spécialités:
 - MongoDB
 - git
 - Linux
+- Android (java + xml)
 
 Connaissances:
 
