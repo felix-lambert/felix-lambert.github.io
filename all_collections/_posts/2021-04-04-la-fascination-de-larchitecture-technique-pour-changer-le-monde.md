@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Une nouvelle architecture technique peut-elle changer le monde ?
-date: 2021-03-28 10:18:00
+date: 2021-04-04 10:18:00
 tags: technologie
 ---
 
