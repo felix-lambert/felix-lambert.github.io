@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La fascination de l'architecture technique pour changer le monde
+title: Une nouvelle architecture technique peut-elle changer le monde ?
 date: 2021-03-28 10:18:00
 tags: technologie
 ---
