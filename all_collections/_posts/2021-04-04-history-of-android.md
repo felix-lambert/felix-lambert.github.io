@@ -6,6 +6,6 @@ tags: technologie
 ---
 
 Source: 
-- [Good summary](https://www.youtube.com/watch?v=ij76dh_340w)
+- [Good summary](https://www.youtube.com/watch?v=9wWgw9smBJs)
 - [Oracle vs Google](https://www.youtube.com/watch?v=IDwGHr32Vw4)
 
