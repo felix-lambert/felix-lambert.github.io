@@ -7,8 +7,14 @@ tags: music
 
 Free from copyright :)
 
+Lo-Fi
 <audio controls>
+
   <source src="{{site.baseurl}}/assets/Lo-Fi.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
-[Offshane](https://www.youtube.com/watch?v=T3dsCW3aL4s)
+Offshane
+<audio controls>
+  <source src="{{site.baseurl}}/assets/ofshane.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
