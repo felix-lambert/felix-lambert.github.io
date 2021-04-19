@@ -89,9 +89,9 @@ Connaissances:
 
 Langues:
 
-[Français natif]()
-[Anglais bilingue]()
-[Coréen débutant]()
+- [Français natif]()
+- [Anglais bilingue]()
+- [Coréen débutant]()
 
 For collaboration:
 
