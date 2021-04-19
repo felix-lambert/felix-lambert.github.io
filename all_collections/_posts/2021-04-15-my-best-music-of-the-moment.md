@@ -13,7 +13,7 @@ Lo-Fi
   <source src="{{site.baseurl}}/assets/Lo-Fi.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
-Offshane
+Ofshane
 <audio controls>
   <source src="{{site.baseurl}}/assets/ofshane.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
