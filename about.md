@@ -16,39 +16,39 @@ I have a real passion for javascript in general because it's a simple language t
 
 What can I do?
 
-Site / server migration
-Server installation
-Back-End
-Front-End
-Hosting
-Mobile apps
-Browser extensions
+* [Site / server migration]()
+* [Server installation]()
+* [Back-End]
+* [Front-End]
+* [Hosting]
+* [Mobile apps]()
+* [Browser extensions]()
 
 My specialties:
 
-Javascript
-Node.JS
-React.JS
-React-Native
-Firebase
-CSS3
-MySQL
-MongoDB
-git
-Linux
-Android (kotlin + xml)
+* [Javascript]
+* [Node.JS]
+* [React.JS]
+* [React-Native]
+* [Firebase]
+* [CSS3]
+* [MySQL]
+* [MongoDB]
+* [git]
+* [Linux]
+* [Android (kotlin + xml)]()
 
 Knowledge:
 
-docker
-system administration
-IoT
+* [docker]
+* [system administration]()
+* [IoT]
 
 Languages:
 
-Native French
-Bilingual English
-Korean beginner
+* [Native French]()
+* [Bilingual English]()
+* [Korean beginner]()
 
 Do not hesitate to contact me so we can have a conversation about your project.
 
@@ -60,38 +60,38 @@ N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet.
 
 Qu'est ce que je peux faire?
 
-Migration site / serveur
-Installation serveur
-Développeurs Back-End
-Développeurs Front-End / intégrateurs web
-Webmasters
-Hébergements
+- [Migration site / serveur]()
+- [Installation serveur]()
+- [Développeurs Back-End]()
+- [Développeurs Front-End / intégrateurs web]()
+- [Webmasters]
+- [Hébergements]
 
 Mes spécialités:
 
-Javascript
-Node.JS
-React.JS
-React-Native
-Firebase
-CSS3
-MySQL
-MongoDB
-git
-Linux
-Android (kotlin + xml)
+- [Javascript]
+- [Node.JS]
+- [React.JS]
+- [React-Native]
+- [Firebase]
+- [CSS3]
+- [MySQL]
+- [MongoDB]
+- [git]
+- [Linux]
+- [Android (kotlin + xml)]()
 
 Connaissances:
 
-docker
-administration système
-IoT
+- [docker]
+- [administration système]()
+- [IoT]
 
 Langues:
 
-Français natif
-Anglais bilingue
-Coréen débutant
+[Français natif]
+[Anglais bilingue]
+[Coréen débutant]
 
 For collaboration:
 
@@ -104,5 +104,5 @@ For collaboration:
 
 IMPORTANT:
 
-dans la mesure où mes informations personnelles sont utilisées et partagées sans mon consentement, je bloque systématiquement les appels des agences de recrutement
-le PHP, Laravel, CMS wordpress ne correspond pas à mes compétences
+- [dans la mesure où mes informations personnelles sont utilisées et partagées sans mon consentement, je bloque systématiquement les appels des agences de recrutement]()
+- [le PHP, Laravel, CMS wordpress ne correspond pas à mes compétences]()
