@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do not resist or admire, hack it
+title: Do not resist or admire, hack
 date: 2021-04-15 10:18:00
 tags: philosophy
 ---
