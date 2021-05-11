@@ -13,6 +13,7 @@ Source:
 - [La marche dans un jeu vidéo](https://www.youtube.com/watch?v=2sXu3rqgsnY)
 - [Animal crossing](https://www.youtube.com/watch?v=w2iEYzWwgf0)
 - [Starcraft 2 et l'IA](https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft)
+- [Aide](https://www.youtube.com/watch?v=9jiNWK9dUy8)
 
 Cotés négatifs:
 
