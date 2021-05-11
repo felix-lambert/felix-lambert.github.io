@@ -6,6 +6,7 @@ tags: philosophy
 ---
 
 - [Hacker culture](https://en.wikipedia.org/wiki/Hacker_culture)
+- [Impermanence](https://en.wikipedia.org/wiki/Impermanence)
 
 <em>"The hacker culture is a subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes"</em>
 
