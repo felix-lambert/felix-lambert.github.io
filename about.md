@@ -16,84 +16,40 @@ I have a real passion for javascript in general because it's a simple language t
 
 What can I do?
 
-* [Site / server migration]()
-* [Server installation]()
-* [Back-End]()
-* [Front-End]()
-* [Hosting]()
-* [Mobile apps]()
-* [Browser extensions]()
+* [Server configuration](https://en.wikipedia.org/wiki/Server_(computing))
+* [Back-End](https://en.wikipedia.org/wiki/Front_end_and_back_end)
+* [Front-End](https://en.wikipedia.org/wiki/Front_end_and_back_end)
+* [Hosting](https://en.wikipedia.org/wiki/Web_hosting_service)
+* [Mobile apps](https://en.wikipedia.org/wiki/Mobile_device)
+* [Browser extensions](https://en.wikipedia.org/wiki/Browser_extension)
 
 My specialties:
 
-* [Javascript]()
-* [Node.JS]()
-* [React.JS]()
-* [React-Native]()
-* [Firebase]()
-* [CSS3]()
-* [MySQL]()
-* [MongoDB]()
-* [git]()
-* [Linux]()
-* [Android (kotlin + xml)]()
+* [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+* [Node.JS](https://en.wikipedia.org/wiki/Node.js)
+* [React.JS](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+* [React-Native](https://en.wikipedia.org/wiki/React_Native)
+* [Firebase](https://en.wikipedia.org/wiki/Firebase)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [MySQL](https://en.wikipedia.org/wiki/MySQL)
+* [MongoDB](https://en.wikipedia.org/wiki/MongoDB)
+* [git](https://en.wikipedia.org/wiki/Git)
+* [Linux](https://en.wikipedia.org/wiki/Linux)
+* [Android (kotlin + xml)](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 
 Knowledge:
 
-* [docker]()
-* [system administration]()
-* [IoT]()
+* [Docker](https://en.wikipedia.org/wiki/Docker_(software))
+* [System administration](https://en.wikipedia.org/wiki/System_administrator)
+* [IoT](https://en.wikipedia.org/wiki/Internet_of_things)
 
 Languages:
 
-* [Native French]()
-* [Bilingual English]()
-* [Korean beginner]()
+* [Native French](https://en.wikipedia.org/wiki/France)
+* [Bilingual English](https://en.wikipedia.org/wiki/England)
+* [Korean beginner](https://en.wikipedia.org/wiki/Korea)
 
 Do not hesitate to contact me so we can have a conversation about your project.
-
-FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques.
-
-Je suis un passionné de javascript et je suis ouvert à toutes formes d'innovations.
-
-N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
-
-Qu'est ce que je peux faire?
-
-- [Migration site / serveur]()
-- [Installation serveur]()
-- [Développeurs Back-End]()
-- [Développeurs Front-End / intégrateurs web]()
-- [Webmasters]()
-- [Hébergements]()
-
-Mes spécialités:
-
-- [Javascript]()
-- [Node.JS]()
-- [React.JS]()
-- [React-Native]()
-- [Firebase]()
-- [CSS3]()
-- [MySQL]()
-- [MongoDB]()
-- [git]()
-- [Linux]()
-- [Android (kotlin + xml)]()
-
-Connaissances:
-
-- [docker]()
-- [administration système]()
-- [IoT]()
-
-Langues:
-
-- [Français natif]()
-- [Anglais bilingue]()
-- [Coréen débutant]()
-
-For collaboration:
 
 | Email                     |
 | :------------------------ |
@@ -101,8 +57,17 @@ For collaboration:
 
 [My Github](http://github.com/felix-lambert)
 [Malt](https://www.malt.fr/profile/felixlambert1)
+[LinkedIn](https://www.linkedin.com/in/felix-lambert-6870b720a/)
+
+FR: Issue d'Epitech, je sais développer un projet de façon autonome. J’aime apprendre, je suis curieux, et j’apprécie les atmosphères dynamiques.
+
+Je suis un passionné de javascript et je suis ouvert à toutes formes d'innovations.
+
+N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
+
+For collaboration:
 
 IMPORTANT:
 
-- [dans la mesure où mes informations personnelles sont utilisées et partagées sans mon consentement, je bloque systématiquement les appels des agences de recrutement]()
-- [le PHP, Laravel, CMS wordpress ne correspond pas à mes compétences]()
+- [dans la mesure où mes informations personnelles sont utilisées et partagées sans mon consentement, je bloque systématiquement les appels des agences de recrutement](https://en.wikipedia.org/wiki/Profiling_(information_science))
+- [le PHP, Laravel, CMS wordpress ne correspond pas à mes compétences](https://en.wikipedia.org/wiki/WordPress)
