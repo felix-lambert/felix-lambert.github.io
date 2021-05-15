@@ -6,13 +6,15 @@ profile_pic_alt: ''
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf)
+<!-- Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf) -->
 
 Current project: [EmptyMyFridge](https://www.emptymyfridge.com/) and [dismoi](https://www.dismoi.io/).
 
 EN: I started at Epitech (European Institute of Technology), a very pragmatic programming school. I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic atmospheres.
 
 I have a real passion for javascript in general because it's a simple language that enables us to code fast and efficiently. But I'm also open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design, mobile development, to back-end systems solutions, and server administration.
+
+I also have a philosophical background with a master degree in Paris 4 Sorbonne.
 
 What can I do?
 
