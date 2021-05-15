@@ -8,6 +8,7 @@ tags: philosophy
 Sources:
 
 - [Peter Hershock on diversity](https://www.youtube.com/watch?v=d-qmvvzBANY&t=364s).
+- [Faim dans le monde](https://www.oxfamfrance.org/agriculture-et-securite-alimentaire/faim-dans-le-monde-causes-consequences-solutions/)
 
 Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1 % les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
 
