@@ -14,6 +14,10 @@ EN: I started at Epitech (European Institute of Technology), a very pragmatic pr
 
 I have a real passion for javascript in general because it's a simple language that enables us to code fast and efficiently. But I'm also open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design, mobile development, to back-end systems solutions, and server administration.
 
+Currently, I'm working at DisMoi as an associate and a developer. I'm focusing mainly on the mobile app, coding the android version in kotlin and a bit of react-native for the display.
+
+I'm also the co-founder of EmptyMyFridge by developing the android and ios application in react-native and firebase.
+
 I also have a philosophical background with a master degree in Paris 4 Sorbonne.
 
 What can I do?
