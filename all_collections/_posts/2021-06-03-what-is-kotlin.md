@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is kotlin?
-date: 2021-31-05 10:18:00
+date: 2021-03-06 10:18:00
 tags: technology
 ---
 
