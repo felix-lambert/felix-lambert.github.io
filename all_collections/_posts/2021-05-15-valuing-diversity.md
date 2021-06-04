@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pourquoi les inégalités sont aussi importantes aujourd'hui?
-date: 2019-10-14 10:18:00
+date: 2021-05-15 10:18:00
 tags: philosophy
 ---
 
