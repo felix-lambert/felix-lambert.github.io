@@ -12,12 +12,12 @@ SOURCE:
 - [http://michel.puech.free.fr/](http://michel.puech.free.fr/)
 - [https://www.youtube.com/watch?v=2VSYmGSJtCA](https://www.youtube.com/watch?v=2VSYmGSJtCA)
 
-We need to have more attention of the ordinary. The author thinks that it's in the ordinary that we can cultivate wisdom, not in the extroardinary.
+We need to pay more attention to the ordinary. The author thinks that it's in the ordinary that we can cultivate wisdom, not in the extraordinary.
 
 But what is the ordinary?
 
 The ordinary is the real life we live in. It's our daily tools and technologies we live with every day. It's something like the coffee machine, the computer you work with every day, your hoover, or the shower you use... We need to give all our attention (or awareness) on these ordinary things.
 
-What is the extraordinary?
+What is extraordinary?
 
-The easiest way of having a good representation of the extraordinary is by paying attention of the media or the ads you're seeing every day in your ordinary life.
+The easiest way of having a good representation of the extraordinary is by paying attention to the media or the ads you're seeing every day in your ordinary life.
