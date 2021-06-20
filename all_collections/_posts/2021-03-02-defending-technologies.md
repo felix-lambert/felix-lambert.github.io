@@ -15,7 +15,7 @@ Some examples:
 Bill Gates: "Artificial Intelligence is a threat"
 Elon Musk: "With artificial intelligence we are summoning the demon"
 
-We also criticize google helping us with our spelling mistakes in english for example, or suggesting some answers, not enabling us to think for ouselves. But google might work so well for humans, because this functionnality is actually a great help for us: if we feel lazy answering, google can motivate us by giving us this fast answer, which is more polite. If we don't approve, these new functionnalities, we are not forced to accept them. We can decide to leave gmail for example. But we don't really, because I think it's for a good reason.
+We also criticize google helping us with our spelling mistakes in english for example, or suggesting some answers, not enabling us to think for ourselves. But google might work so well for humans, because this functionality is actually a great help for us: if we feel lazy answering, google can motivate us by giving us this fast answer, which is more polite. If we don't approve, these new functionalities, we are not forced to accept them. We can decide to leave gmail for example. But we don't really, because I think it's for a good reason.
 
 The technophobe is fascinated by the end of humanity, destroyed by technology, while the technophile is fascinated by the tools of technology while neglecting its purpose (reducing suffering for example).
 

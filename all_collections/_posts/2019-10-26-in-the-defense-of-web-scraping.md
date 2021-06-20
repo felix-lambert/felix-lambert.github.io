@@ -49,7 +49,7 @@ The web is basically linked documents (you click on a link and it brings you to 
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/http.png)</span>
 
-We call these computers 'servers' because they are configured in such a way that it can listen to our requests. 'Servers' turn a program in background waiting for some messages to come so that it can answer and deliver the required document or data.
+We call these computers 'servers' because they are configured in such a way that it can listen to our requests. 'Servers' turn a program in the background waiting for some messages to come so that it can answer and deliver the required document or data.
 
 The content of these html documents is digital data. Why digital? Because they are binary (0 1). The browser translates this binary data to data that a human can understand.
 
@@ -79,7 +79,7 @@ If people don't want to access good content, it's not the fault of the web. And 
 
 <p style="text-align:center"><video width="100%" height="500" controls> <source src="{{site.baseurl}}/assets/google2.mp4" type="video/mp4"> </video></p>
 
-The dream of one of the co-founders of google was to download the html documents of all the web, save it on his computer and do a big network of nodes based on the links he could find on each web (html) documents. He would need to first make a rule that recognizes links within webpages, transforms the link into a node and see where it is positioned in this big network.
+The dream of one of the co-founders of google was to download the html documents of all the web, save it on his computer and do a big network of nodes based on the links he could find on each web (html) documents. He would need to first make a rule that recognizes links within web pages, transforms the link into a node and sees where it is positioned in this big network.
 
 We can easily see here that Google is today’s most advanced web scraping company in existence. And, if we really want to access it, Google’s web scraping gives us the most amazing access to culture (with a big C) that there is.
 
@@ -96,25 +96,25 @@ Without search engines like Google, the web would be nearly impossible to use. W
 
 # So now where can we go?
 
-I think we didn't grab very well the potential of web scraping today and it's normal because it's not easy. Of course the first thing that comes into our mind is to use web scraping to find cheap prices for plane tickets, restaurants, products... Which is great. But we maybe can find an even better use for it.
+I think we didn't grasp the potential of web scraping very well today and it's normal because it's not easy. Of course the first thing that comes into our mind is to use web scraping to find cheap prices for plane tickets, restaurants, products... Which is great. But we maybe can find an even better use for it.
 
 Today, we realize that the web is the perfect thing for big data. No web, no big data, no big data, no machine learning. We have powerful enough machines now to process a lot of the data and make sense of it.
 
 We now have machine-learning techniques that scrape the web and can process and classify data in order to:
 
-- detect a serious illness fast, before it's too late
-- detect a forest fire before it’s too late
-- detect dangerous substances in a food product
-- detect dangers to plant, animal or insect life (such as the varroa mite to bee populations)
-- detect an outbreak of a new disease before it’s too late
-- detect dangerous substances of product we're eating
-- automatized customer services that use advanced chatbots to problem-solve help you mend stuff (by sending photos to them) and find what you need to buy for you
-- these chatbot could help you mend stuff (by sending photos to them) and find what you need to buy for you
-- machine learning can give us very precise statistics in economy, urbanism, criminality …
+- [detect a serious illness fast, before it's too late]()
+- [detect a forest fire before it’s too late]()
+- [detect dangerous substances in a food product]()
+- [detect dangers to plant, animal or insect life (such as the varroa mite to bee populations)]()
+- [detect an outbreak of a new disease before it’s too late]()
+- [detect dangerous substances of product we're eating]()
+- [automatized customer services that use advanced chatbots to problem-solve help you mend stuff (by sending photos to them) and find what you need to buy for you]()
+- [these chatbot could help you mend stuff (by sending photos to them) and find what you need to buy for you]()
+- [machine learning can give us very precise statistics in economy, urbanism, criminality]() …
 ...
 
 Other suggestions?
 
-Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fire so that cameras can recognize a danger automatically.
+Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fires so that cameras can recognize a danger automatically.
 
 In summary, Web scraping can give us better access to culture, science, and with better access to culture, science... humans can maybe act in the world with greater attention to important things and/or awareness.
