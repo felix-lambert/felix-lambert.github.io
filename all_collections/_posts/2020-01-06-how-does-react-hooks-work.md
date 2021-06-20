@@ -18,7 +18,7 @@ Why react-hooks?
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/reacthooks.png)</span>
 
-To avoid developers introducing too much abstraction with a separate state management library (redux, mobx…) that often requires to jump between different files, write excessive amounts of code and lose time. the facebook team invented react hooks in 2015. 
+To avoid developers introducing too much abstraction with a separate state management library (redux, mobx…) that often requires to jump between different files, write excessive amounts of code and lose time, the facebook team invented react hooks in 2015. 
 
 ```javascript
 const ComponentWithHook = () => {
