@@ -18,7 +18,7 @@ Currently, I'm working at DisMoi as an associate and a developer. I'm focusing m
 
 I'm also the co-founder of EmptyMyFridge by developing the android and ios application in react-native and firebase.
 
-I have a philosophical background with a master degree in Paris 4 Sorbonne. I then decided to start a programming school that teaches us to learn by doing: Epitech (European Institute of Technology).
+I also have a philosophical background with a master degree in Paris 4 Sorbonne.
 
 What can I do?
 
