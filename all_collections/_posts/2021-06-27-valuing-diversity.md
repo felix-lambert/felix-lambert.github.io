@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comment changer?
-date: 2021-05-15 10:18:00
+date: 2021-06-27 10:18:00
 tags: philosophy
 ---
 
