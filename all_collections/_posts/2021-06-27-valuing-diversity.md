@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pourquoi les inégalités sont aussi importantes aujourd'hui?
+title: Comment changer?
 date: 2021-05-15 10:18:00
 tags: philosophy
 ---
