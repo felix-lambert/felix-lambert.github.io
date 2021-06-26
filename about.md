@@ -18,7 +18,7 @@ Currently, I'm working at DisMoi as an associate and a developer. I'm focusing m
 
 I'm also the co-founder of EmptyMyFridge by developing the android and ios application in react-native and firebase.
 
-I also have a philosophical background with a master degree in Paris 4 Sorbonne.
+Last thing: I have a philosophical background with a master degree in Paris 4 Sorbonne.
 
 What can I do?
 
@@ -72,6 +72,8 @@ Je suis un passionné de javascript et je suis ouvert à toutes formes d'innovat
 N'hésitez pas à me contacter pour que vous puissiez me parler de votre projet. Sinon bonne navigation à vous.
 
 For collaboration:
+
+lambertfelixpro@gmail.com
 
 IMPORTANT:
 
