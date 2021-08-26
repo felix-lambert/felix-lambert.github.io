@@ -5,7 +5,7 @@ date: 2021-07-19 10:18:00
 tags: technologies
 ---
 
-- (Switch Access)[https://www.youtube.com/watch?v=rAIXE6ilRQ0]
+- [Switch Access](https://www.youtube.com/watch?v=rAIXE6ilRQ0)
 
 Google enables Android users to increase the accessibility for Android users who experience disabilities. Since many users with disabilities have unique needs, Android's APIs for creating accessibility services are open, and developers are free to create and distribute their own services through the Play Store.
 
