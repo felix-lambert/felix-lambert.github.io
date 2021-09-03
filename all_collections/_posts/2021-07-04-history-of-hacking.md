@@ -1,7 +1,7 @@
 ---
 layout: post
 title: History of hacking
-date: 2021-06-27 10:18:00
+date: 2021-09-02 10:18:00
 tags: technologies
 ---
 
