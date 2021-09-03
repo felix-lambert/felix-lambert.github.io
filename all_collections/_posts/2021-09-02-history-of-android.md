@@ -1,7 +1,7 @@
 ---
 layout: post
 title: History of android
-date: 2021-04-04 10:18:00
+date: 2021-09-02 10:18:00
 tags: technologie
 ---
 
