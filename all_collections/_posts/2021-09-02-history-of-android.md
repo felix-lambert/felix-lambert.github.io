@@ -24,7 +24,9 @@ On top of the Linux kernel, there are the middleware, libraries and APIs written
 Matthew Panzarino, co-editor of TechCrunch, believes that there are three phases of app history in mobile technology.
 
 1/ The initial gaming and utilities apps available in mobiles. This was seen in early PDAs and the first-generation iPhone. 
+
 2/ Apps that were focused around grabbing the user's attention and dominating the mobile home screen. 
+
 3/ Today's phase in which apps are service layers, purpose built and utilise technology such as hardware sensors, location, history of use and predictive computation. 
 
 Diagram of android >
