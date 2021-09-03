@@ -29,9 +29,9 @@ Matthew Panzarino, co-editor of TechCrunch, believes that there are three phases
 
 Diagram of android >
 
-1. Linux Kernel
-2. Hardware Abstraction Layer
-3. Native Services
-3. Runtime
-4. Application Framework
-5. Applications
+1/ Linux Kernel
+2/ Hardware Abstraction Layer
+3/ Native Services
+4/ Runtime
+5/ Application Framework
+6/ Applications
