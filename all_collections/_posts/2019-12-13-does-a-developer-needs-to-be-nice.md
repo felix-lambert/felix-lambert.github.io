@@ -13,9 +13,10 @@ SOURCE:
 - [https://www.youtube.com/watch?v=YYzt71o2IvQ](https://www.youtube.com/watch?v=YYzt71o2IvQ)
 - [https://www.youtube.com/watch?v=rS2HYJKndRc&t=578s](https://www.youtube.com/watch?v=rS2HYJKndRc&t=578s)
 - [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+- [What do we stand for? (Kind-hearted, Humble, Together)](https://www.youtube.com/watch?v=BsGXEiW7D3A)
 
 "[...] to be fully present at work, to feel "psychologically safe", we must know that we can be free enough, sometimes, to share the things that scare us without fear of recriminations. We must be able to talk about what is messy or sad, to have hard conversations with colleagues who are driving us crazy. We can’t be focused just on efficiency. Rather, when we start the morning by collaborating with a team of engineers and then send emails to our marketing colleagues and then jump on a conference call, we want to know that those people really hear us. We want to know that work is more than just labor. [The New York Times](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)"
 
 Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety.
 
-So we need to choose very precisely the words we use and make sure that others did get it and didn’t feel offended. It’s an exercise that requires training. For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
+For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
