@@ -9,5 +9,3 @@ tags: art
 - [https://www.youtube.com/watch?v=7d85bNTIamM](https://www.youtube.com/watch?v=7d85bNTIamM)
 
 From a comment: "He was free to speak whatever he wanted because there was a movement underground developing that allowed that type of behavior."
-
-- [Be brave and don't believe in any gods](https://www.youtube.com/watch?v=QIPiLp9NwyY)
