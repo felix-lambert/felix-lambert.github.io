@@ -34,8 +34,6 @@ We realize today that you can do web scraping to sell data to states, industries
 
 If you want a centralized computer that monitors everything, and data with one owner, you need to be like Facebook and ask users to hand over their data by means of an authentication system. If the technological architecture is designed this way, the data will belong to the company and no one else. If you decide to put all the data collected by users behind an authentication system, you decide not to share data, but to keep it for yourself.
 
-<p style="text-align:center"><video width="100%" height="500" controls> <source src="{{site.baseurl}}/assets/BLACK.mp4" type="video/mp4"> </video></p>
-
 All this is pretty bad, I agree. But it doesn't necessarily mean that we need to condemn web scraping. I would like to rehabilitate this practice if it's OK and see if we can change direction.
 
 But to do this, we need to go back first to the basics and see what a cool thing the web actually is.
@@ -88,8 +86,6 @@ With these web scraping techniques, Google has given us a web that is easy to na
 A web that is decipherable.
 
 # No Web Scraping, no search engine
-
-<p style="text-align:center"><video width="100%" controls> <source src="{{site.baseurl}}/assets/google4.mp4" type="video/mp4"> </video></p>
 
 Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.
 
