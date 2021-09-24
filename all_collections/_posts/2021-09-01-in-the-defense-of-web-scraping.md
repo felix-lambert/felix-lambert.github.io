@@ -87,6 +87,8 @@ A web that is decipherable.
 
 # No Web Scraping, no search engine
 
+<p style="text-align:center"><video width="100%" controls> <source src="{{site.baseurl}}/assets/google4.mp4" type="video/mp4"> </video></p>
+
 Without search engines like Google, the web would be nearly impossible to use. We would not be able to find out what we could do with it or the easy access would only be information from people of big influence like politicians, celebrities of the star system, or powerful advertisement companies.
 
 <p style="text-align:center"><video width="100%" height="500" controls> <source src="{{site.baseurl}}/assets/google.mp4" type="video/mp4"> </video></p>
