@@ -9,7 +9,7 @@ SOURCE:
 
 - [Open internet](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
 - [Big data and web scraping](https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv)
-- Season 3 of westworld
+- [Season 3 of westworld]()
 - [Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 - [Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
 - [TheProject](http://info.cern.ch/hypertext/WWW/TheProject.html)
