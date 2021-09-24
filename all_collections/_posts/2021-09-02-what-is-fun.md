@@ -11,6 +11,7 @@ Source:
 - [Do not show yourself on the web](https://stallman.org/stallman-computing.html)
 - [Résumé du livre "Play anything"](https://www.youtube.com/watch?v=Ratw3o_omIU)
 - [Article sur Play Anything](http://www.chroniquesvideoludiques.com/play-anything-le-dernier-livre-de-ian-bogost/)
+- [Play: Opera](https://www.youtube.com/watch?v=hy6SOqKJjDU)
 
 Fun is maybe doing stuff where you impose yourself some rules that are not really needed, where you can play with. Sometimes it could be fun to really decide to respect another human being, to decide to remain completely anonymous on the web, to configure the computer like Stallman is configuring his, even if it's for ideological reasons. My guess is that Richard Stallman is doing this because he thinks it's fun doing this, and maybe we don't really need to find other reasons than this. We can sometimes decide to obey completely to an authority, or, the next day, to decide to disobey it, if you judge that his level of control is getting too irrational.
 
