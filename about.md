@@ -6,7 +6,7 @@ profile_pic_alt: ''
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-[CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf) français.
+[CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV_fr.pdf) français.
 
 English [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf).
 
