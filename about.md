@@ -6,9 +6,11 @@ profile_pic_alt: ''
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-<!-- Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf) -->
+[CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf) français.
 
-Current project: [EmptyMyFridge](https://www.emptymyfridge.com/) and [dismoi](https://www.dismoi.io/).
+English [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf).
+
+Current project: [EmptyMyFridge](https://www.emptymyfridge.com/).
 
 EN: I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic atmospheres.
 
