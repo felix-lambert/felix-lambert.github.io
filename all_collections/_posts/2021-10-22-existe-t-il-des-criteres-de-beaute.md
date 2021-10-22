@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Existe-t-il des critères de la beauté?
-date: 2021-09-03 10:18:00
+date: 2021-10-22 10:18:00
 tags: philosophie
 ---
 
