@@ -21,6 +21,6 @@ I'm giving myself tons of rules. Sometimes it could be for my productivity (succ
 surplus. Instead of seeing freedom as an escape from the chains of limitation, we should interpret it as an
 opportunity to explore the implications of inherited or invented limitations."</em> Bogost
 
-However, the notion of fun is not the same notion as the notion of freedom. Maybe if we're completely free, we can't have fun because we don't have boundaries. Personnal rules can create an environment of playground where fun is possible.
+However, the notion of fun is not the same notion as the notion of freedom. Maybe if we're completely free, we can't have fun because we don't have boundaries. Personal rules can create an environment of playground where fun is possible.
 
 Fun can also be a way to change the world: it could be fun to all leave facebook, instagram, the media, without any political reason behind. It could be fun to decide to avoid all the advertisements, the speech of a politician, and see each day how good you are at doing this. It could be fun to become a wise person not running for power. We can do these kind of things just for the fun of it because we love testing ourselves by exploring new ways of behaving in the world.
