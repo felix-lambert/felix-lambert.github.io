@@ -6,17 +6,17 @@ profile_pic_alt: ''
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
 
-<!-- Check [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf) -->
+[CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV_fr.pdf) français.
 
-Current project: [EmptyMyFridge](https://www.emptymyfridge.com/) and [dismoi](https://www.dismoi.io/).
+English [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/Felix's_CV.pdf).
+
+Current project: [EmptyMyFridge](https://www.emptymyfridge.com/).
 
 EN: I know how to develop a project independently. I like to learn, I am curious, and I appreciate dynamic atmospheres.
 
 I have a real passion for javascript in general because it's a simple language that enables us to code fast and efficiently. But I'm also open to all forms of innovation. I'm always eager to learn new things. My skills range from front-end design, mobile development, to back-end systems solutions, and server administration.
 
-Currently, I'm working at DisMoi as an associate and a developer. I'm focusing mainly on the mobile app, coding the android version in kotlin and a bit of react-native for the display.
-
-I'm also the co-founder of EmptyMyFridge by developing the android and ios application in react-native and firebase.
+Currently, I'm the co-founder of EmptyMyFridge by developing the android and ios application in react-native and firebase.
 
 Last thing: I have a philosophical background with a master degree in Paris 4 Sorbonne.
 
