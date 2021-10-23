@@ -9,7 +9,7 @@ SOURCE:
 
 - [Open internet](https://hackernoon.com/web-scraping-and-the-fight-for-the-open-internet-ly1o2t8i)
 - [Big data and web scraping](https://hackernoon.com/the-evolution-of-big-data-and-web-scraping-mk1y3ucv)
-- Season 3 of westworld
+- [Season 3 of westworld]()
 - [Robots_exclusion_standard](https://en.wikipedia.org/wiki/Robots_exclusion_standard)
 - [Search_engine_scraping](https://en.wikipedia.org/wiki/Search_engine_scraping)
 - [TheProject](http://info.cern.ch/hypertext/WWW/TheProject.html)
@@ -33,8 +33,6 @@ We realize today that you can do web scraping to sell data to states, industries
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/YrpK90bHO2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 If you want a centralized computer that monitors everything, and data with one owner, you need to be like Facebook and ask users to hand over their data by means of an authentication system. If the technological architecture is designed this way, the data will belong to the company and no one else. If you decide to put all the data collected by users behind an authentication system, you decide not to share data, but to keep it for yourself.
-
-<p style="text-align:center"><video width="100%" height="500" controls> <source src="{{site.baseurl}}/assets/BLACK.mp4" type="video/mp4"> </video></p>
 
 All this is pretty bad, I agree. But it doesn't necessarily mean that we need to condemn web scraping. I would like to rehabilitate this practice if it's OK and see if we can change direction.
 
