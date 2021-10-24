@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Throw out your tools
-date: 2021-09-24 10:18:00
+date: 2021-10-24 10:18:00
 tags: technology
 ---
 
