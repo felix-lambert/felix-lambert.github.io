@@ -23,6 +23,6 @@ But how to hack?
 
 4. Climb on the top of the roof. Do not question so much the tools, the technologies provided today. If they exist, and are here in our ordinary life massively, it means that they provide great service for humanity. Just see what you can build with them. If google is providing you great AI services for example, do take this opportunity. If youtube helps you to learn new things, take it very seriously and see what you can create out of it. Do not rebuild the wheel. But see what we can do with the wheels of today.
 
-5. Take into consideration the values of others. Hacking doesn't need to be done alone. Also consider and take seriously the differences that others are showing to you. If you see others behaving in new ways, be curious, and see what you can learn. 
+5. Take into consideration the values of others. Hacking doesn't need to be done alone. You can bring others with you, by showing them new ways of playing. Also consider and take seriously the differences that others are showing to you. If you see others behaving in new ways, be curious, and see what you can learn from them. 
 
 6. Distinguish yourself from the rules I just proposed to you :)
