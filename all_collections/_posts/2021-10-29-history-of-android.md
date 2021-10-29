@@ -1,13 +1,14 @@
 ---
 layout: post
 title: History of android
-date: 2021-09-02 10:18:00
+date: 2021-10-29 10:18:00
 tags: technologie
 ---
 
 Source: 
 - [Good summary](https://www.youtube.com/watch?v=9wWgw9smBJs)
 - [Oracle vs Google](https://www.youtube.com/watch?v=IDwGHr32Vw4)
+- [Start of android](https://www.youtube.com/watch?v=WIu2cyAIgQM)
 
 The early intentions of the company were to develop an advanced operating system for digital cameras, and this was the basis of its pitch to investors in April 2004. The company then decided that the market for cameras was not large enough for its goals, and five months later it had diverted its efforts and was pitching Android as a handset operating system that would rival Symbian and Microsoft Windows Mobile.
 
