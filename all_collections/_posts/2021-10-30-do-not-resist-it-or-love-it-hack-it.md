@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Do not resist or admire, hack
-date: 2021-10-28 10:18:00
+date: 2021-10-30 10:18:00
 tags: philosophy
 ---
 
 - [Hacker culture](https://en.wikipedia.org/wiki/Hacker_culture)
 - [Impermanence](https://en.wikipedia.org/wiki/Impermanence)
 - [Non-confrontation](http://michel.puech.free.fr/docs/2014nonconfront.pdf)
+- [Herman Hollerith](https://www.youtube.com/watch?v=GoUK2_vXqQk)
+- [Punching cards](https://www.youtube.com/watch?v=KG2M4ttzBnY)
 
 <em>"The hacker culture is a subculture of individuals who enjoy the intellectual challenge of creatively overcoming limitations of software systems to achieve novel and clever outcomes"</em>
 
