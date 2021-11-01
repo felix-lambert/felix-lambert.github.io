@@ -6,7 +6,7 @@ tags: application
 ---
 
 - [EmptyMyFridge](https://www.emptymyfridge.com)
-- [Food waste](https://www.youtube.com/watch?v=1MpfEeSem_4)
+- [Food waste](https://www.researchgate.net/publication/331207943_Consumer_Choice_and_Food_Waste_Can_Nudging_Help)
 
 A chaque fois, avec ma compagne, je me retrouve à jeter pratiquement tous les mois de la nourriture. J'ai essayé d'élaborer des stratégies, des résolutions, j'y arrive peut-être deux, trois mois, mais après je me relâche, et je me remets à jeter.
 
