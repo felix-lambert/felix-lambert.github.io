@@ -9,8 +9,11 @@ Source:
 - [Good summary](https://www.youtube.com/watch?v=9wWgw9smBJs)
 - [Oracle vs Google](https://www.youtube.com/watch?v=IDwGHr32Vw4)
 - [Start of android](https://www.youtube.com/watch?v=WIu2cyAIgQM)
+- [Shenzhen China](https://www.youtube.com/watch?v=lcrfk6OoZIw)
 
-The early intentions of the company were to develop an advanced operating system for digital cameras, and this was the basis of its pitch to investors in April 2004. The company then decided that the market for cameras was not large enough for its goals, and five months later it had diverted its efforts and was pitching Android as a handset operating system that would rival Symbian and Microsoft Windows Mobile.
+Smartphones didn't change so much since the 2007 Apple iPhone. 
+
+The early intentions of android were to develop an advanced operating system for digital cameras, and this was the basis of its pitch to investors in April 2004. The company then decided that the market for cameras was not large enough for its goals, and five months later it had diverted its efforts and was pitching Android as a handset operating system that would rival Symbian and Microsoft Windows Mobile.
 
 The Apple App store was launched on 10 July 2008 with 500 apps. The Google Play Store, which was originally known as the Android Market was launched on 22 October 2008.
 
