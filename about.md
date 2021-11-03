@@ -18,7 +18,7 @@ I have a real passion for javascript in general because it's a simple language t
 
 Currently, I'm the co-founder of EmptyMyFridge by developing the android and ios application in react-native and firebase.
 
-Last thing: I have a philosophical background with a master degree in Paris 4 Sorbonne.
+Last thing: I have a philosophical background with a Masters degree in Paris 4 Sorbonne.
 
 What can I do?
 
