@@ -7,6 +7,8 @@ tags: application
 
 - [EmptyMyFridge](https://www.emptymyfridge.com)
 - [Food waste](https://www.researchgate.net/publication/331207943_Consumer_Choice_and_Food_Waste_Can_Nudging_Help)
+- [Android](https://play.google.com/store/apps/details?id=com.emptymyfridge)
+- [iOS](https://apps.apple.com/app/id1550812530)
 
 Je me retrouve à jeter pratiquement tous les mois de la nourriture. C'est assez désagréable ce sentiment parce que je sais que ce manque d'endurance est un des symptômes de notre manque de motivation pour changer, pour se motiver à transformer le monde, et notamment pour se préparer à des choses comme des épidémies, l'accélération de la perte de la biodiversité ou les violences et les dominations.
 

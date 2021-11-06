@@ -13,7 +13,7 @@ Source:
 - [Article sur Play Anything](http://www.chroniquesvideoludiques.com/play-anything-le-dernier-livre-de-ian-bogost/)
 - [Play: Opera](https://www.youtube.com/watch?v=hy6SOqKJjDU)
 
-Fun is maybe doing stuff where you impose yourself some rules that are not really needed, that you can play with. Sometimes it could be fun to remain completely anonymous on the web, to configure the computer like Stallman is configuring his, even if it's for ideological reasons. My guess is that Richard Stallman is doing this because he thinks it's fun. Maybe we don't really need to find other reasons. 
+Fun is maybe imposing yourself some rules that are not really needed, that you can play with. Sometimes it could be fun to remain completely anonymous on the web, to configure the computer like Stallman is configuring his, even if it's for ideological reasons. My guess is that Richard Stallman is doing this because he thinks it's fun. Maybe we don't really need to find other reasons. 
 
 I'm giving myself tons of rules. Sometimes it could be for my productivity (succeeding in life, in my professional career I guess, or even having some kind of level of recognition). Or I could even give myself a rule to decide to avoid all things linked to productivity. I wonder if we decide to have fun and play with all the world in front of us, we can make peace with all the things that are around us.
 
