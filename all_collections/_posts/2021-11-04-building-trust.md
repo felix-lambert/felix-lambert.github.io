@@ -7,7 +7,7 @@ tags: application
 
 - [The Social Network](https://www.youtube.com/watch?v=x6b9DG4CjzQ)
 
-We need to pay attention here to all the behaviors are helping us in building a civilization of trust or knowledge. As an individual the hard job is to build trust around us. But it's also trusting others. 
+We need to pay attention here to all the behaviors that are helping us in building a civilization of trust or knowledge. As an individual the hard job is to build trust around us. But it's also trusting others. 
 
 Promising us something but not actually realizing this promise is lowering the global level of trust. So a lot of politicians are not helping us here. 
 
