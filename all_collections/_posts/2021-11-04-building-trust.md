@@ -9,9 +9,7 @@ tags: application
 
 We need to pay attention here to all the behaviors that are helping us in building a civilization of trust or knowledge. As an individual the hard job is to build trust around us. But it's also trusting others. 
 
-Promising us something but not actually realizing this promise is lowering the global level of trust. So a lot of politicians are not helping us here. 
-
-More we have behaviors that are coherent with what we say, closer we get to a society based on trust. If we keep not respecting what we're telling to others, we are destroying trust. 
+Promising us something, being coherent with what we say, but not actually realizing this promise is lowering the global level of trust. So a lot of politicians are not helping us here. If we keep not respecting what we're telling to others, we are destroying the culture of trust. 
 
 The digital age gives us the possibility to share all our feelings and thoughts to the humanity. I think we should celebrate this evolution: people are not insecure to share their ideas and photos or videos to the world, and often for free. So gathering billions of data is not really a problem if in return companies can provide constructive help to all of us.
 
