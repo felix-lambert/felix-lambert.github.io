@@ -9,7 +9,7 @@ SOURCE:
 - [Dangers de la technophobie](https://www.youtube.com/watch?v=AUxvauMIZzQ)
 - [Technophile contre technophobe](https://www.latribune.fr/opinions/tribunes/20140610trib000836155/technophiles-contre-technophobes-biophiles-contre-biophobes-un-essai-de-definition.html)
 
-It's really difficult to find thinkers defending new technologies of today. They seem to not notice that technology offers a huge service for humans. A service that could help them to become more human. Even with thinkers I really appreciate, they nearly always end up saying that technology, with capitalism I suppose, will, by one way or another, end up destroying humanity. It's always the same kind of love song.
+It's really difficult to find thinkers defending new technologies of today. They seem to not notice that technology offers a huge service for humans, that could help them to become more human. Even with thinkers I really appreciate, they nearly always end up saying that technology, with capitalism I suppose, will, by one way or another, end up destroying humanity. It's always the same kind of love song.
 
 We also criticize google helping us with our spelling mistakes in english for example, or suggesting some answers, not enabling us to think for ourselves. But google might work so well for humans, because this functionality is actually a great help for us: if we feel lazy answering, google can motivate us by giving us this fast answer, which is more polite. If we don't approve, these new functionalities, we are not forced to accept them. We can decide to leave gmail for example. But we don't really, because I think it's for a good reason.
 
