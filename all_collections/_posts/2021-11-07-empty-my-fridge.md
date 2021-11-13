@@ -10,12 +10,11 @@ tags: application
 - [Android](https://play.google.com/store/apps/details?id=com.emptymyfridge)
 - [iOS](https://apps.apple.com/app/id1550812530)
 
-1/3 des aliments dans les foyers ne sont pas consommés, et c'est une des causes des problèmes de la malnutrition dans le monde. Autrement dit, il y a un lien entre la façon dont on cuisine chez soi et l'accès à la nourriture dans les pays pauvres. Afin de changer ça, je pense qu’il est possible de s’aider des technologies pour nous auto-discipliner. Les applications mobiles aujourd’hui offrent les outils pour l’autonomie. Ces applications nous soutiennent, et nous accompagnent afin de devenir plus endurant, avec une volonté plus forte.
+Une bonne manière pour commencer à se prendre en main c’est par la cuisine. 1/3 des aliments dans les foyers ne sont pas toutefois pas consommés, et c'est une des causes des problèmes de la malnutrition dans le monde. Autrement dit, il y a un lien entre la façon dont on cuisine chez soi et l'accès à la nourriture dans les pays pauvres. Afin de changer ça, je pense qu’il est possible de s’aider des technologies pour nous auto-discipliner. Les applications mobiles aujourd’hui offrent les outils pour l’autonomie. Ces applications nous soutiennent, et nous accompagnent afin de devenir plus endurant, avec une volonté plus forte.
 
-Une bonne manière pour commencer à se prendre en main c’est par la cuisine. Comment donc se forcer à ne plus jeter et à notamment se motiver pour cuisiner et prendre soin de sa santé?
+Comment donc se forcer à ne plus jeter et à notamment se motiver pour cuisiner et prendre soin de sa santé?
 
 Tous les mois, je jette de la nourriture. C'est assez désagréable ce sentiment parce que je sais que ce manque d'endurance est un des symptômes de notre manque de motivation pour changer, pour se motiver à transformer le monde, et notamment pour se préparer à des choses comme des épidémies, l'accélération de la perte de la biodiversité ou les violences et les dominations.
-
 
 J'ai sorti dans les "stores" depuis presque un an une application qui aide à cuisiner facilement avec les ingrédients que l'on a déjà chez soi. Je répertorie les fruits et les légumes de saison et je mets en place un frigo virtuel avec un algorithme qui permet de sélectionner les 25 meilleures recettes en fonction des ingrédients de ce frigo. Avantages: on se motive plus facilement pour cuisiner, et on préfère consommer ce qu'on a plutôt que d'aller au supermarché.
 
