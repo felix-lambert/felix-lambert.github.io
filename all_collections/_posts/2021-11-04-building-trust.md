@@ -15,4 +15,4 @@ The digital age gives us the possibility to share all our feelings and thoughts 
 
 The problem comes when in exchange a company like facebook uses this data so that they receive money from private companies and manipulate us with publicity or by rigging an election. These actions are lowering the global level of trust in the society.
 
-The strategy here is to focus more on trust than security. But it does not mean, when a mistake is occuring, that we should completely neglect security.
+Maybe we could focus more on trust than security. The idea is to first trust others and maybe, if there is a mistake, to see what we can learn from it, and be more careful by not completely neglecting security.
