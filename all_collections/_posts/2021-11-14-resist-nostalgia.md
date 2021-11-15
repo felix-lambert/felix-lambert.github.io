@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resist notalgia
+title: Resist nostalgia
 date: 2021-11-14 10:18:00
 tags: application
 ---
