@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le projet qui me tient à coeur > EmptyMyFridge
-date: 2021-11-07 10:18:00
+date: 2021-11-15 10:18:00
 tags: application
 ---
 

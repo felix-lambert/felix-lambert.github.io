@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resist notalgia
-date: 2021-11-15 10:18:00
+date: 2021-11-14 10:18:00
 tags: application
 ---
 
