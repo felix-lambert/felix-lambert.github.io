@@ -10,7 +10,17 @@ tags: application
 - [Android](https://play.google.com/store/apps/details?id=com.emptymyfridge)
 - [iOS](https://apps.apple.com/app/id1550812530)
 
-Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil proprement révolutionnaire. L'internet, le téléphone portable à clapet par exemple l'est aussi mais peut-être que le smartphone est l'aboutissement de la mise en exécution de ce changement, car les applications mobiles nous soutiennent, et offrent aujourd’hui les outils pour l’autonomie, afin qu'on ait une volonté plus forte.
+Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1% les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
+
+C'est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd'hui, c'est parce qu'il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités, qu'elles soient religieuses, familiales, économiques...
+
+Ce quelque chose doit être remis en question en se distinguant, car c'est par la distinction qu'on peut proposer un changement.
+
+Ce changement doit commencer en remettant en cause les idées reçues d'aujourd'hui.
+
+Le smartphone n'est qu'un simple outil pour nous abrutir? Pour captiver notre attention avec des contenus stupides? Il n'y a maintenant que des écrans partout! Mais si justement on utilisait l'écran pour faire des choses incroyables avec l'humain ?
+
+Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. Est-ce que c'est parce que l'humain est stupide? Certainement pas! L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles nous soutiennent, et offrent aujourd’hui les outils pour l’autonomie, afin qu'on ait une volonté plus forte. Il n'y a plus qu'à bien savoir les utiliser, car c'est proprement d'une nouvelle culture, comme l'écriture, ou la mise en place d'une vidéo youtube, qu'il s'agit.
 
 Commençons donc par essayer de changer dans un domaine essentiel: la cuisine, et la façon dont on mange de la nourriture. Une bonne manière pour commencer à se prendre en main c’est en effet par la cuisine. 
 
