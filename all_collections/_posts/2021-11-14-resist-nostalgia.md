@@ -6,6 +6,7 @@ tags: application
 ---
 
 - [Electric youth](https://www.youtube.com/watch?v=mqy98hcMV9w)
+- [Sad photographies](https://www.youtube.com/watch?v=TTwbbEhYQ5k&list=RDTTwbbEhYQ5k)
 - [Téléphone clapet](https://www.slate.fr/story/218880/generation-z-telephone-clapet)
 - [Ian Bogost](http://bogost.com/)
 
