@@ -13,11 +13,11 @@ Mais bonne nouvelle: c'est en train de changer.
 
 On rentre dans une nouvelle phase dans le développement des applications mobiles. Les premières phases sont les suivantes:
 
-1/ On développe des applications qui se concentrent simplement sur le fait d'attirer l'attention de l'utilisateur et de dominer l'écran d'accueil du mobile
+- On développe des applications qui se concentrent simplement sur le fait d'attirer l'attention de l'utilisateur et de dominer l'écran d'accueil du mobile
 
-2/ On développe des applications qui utilisent des IA de calcul prédictif pour influencer l'utilisateur
+- On développe des applications qui utilisent des IA de calcul prédictif pour influencer l'utilisateur
 
-3/ On arrive aujourd’hui dans une phase où l'on développe des applications qui accompagnent les utilisateurs pour agir de manière plus soutenable: une application française comme TooGood ToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
+- On arrive aujourd’hui dans une phase où l'on développe des applications qui accompagnent les utilisateurs pour agir de manière plus soutenable: une application française comme TooGood ToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
 
 Mais il existe en même temps une certaine défiance vis-à-vis des nouvelles technologies et c'est peut-être d'autant plus vrai au sein des groupes sensibles aux problèmes de l'anthropocène. Le monde du numérique, à ses débuts, pouvait susciter de l'espoir. Mais 95% du temps, quand on décide de télécharger une application on est déçu et ça se voit facilement dans les commentaires. On est agacé d'avoir des pubs, avec un long formulaire à remplir (sinon on ne peut pas utiliser l'application) pour finalement tomber sur rien d'utile, sans parler des mails de spams qu'on sera obligé de filtrer ou des notifications promotionnelles qui ne sont pas décochées par défaut. Un paywall peut aussi nous tomber dessus au bout de quelques minutes. 
 
@@ -30,11 +30,11 @@ Dès qu'on se connecte à une application, on peut créer un refuge grâce au vi
 La cause du phénomène 
 
 Pourquoi donc les créateurs d'applications sont aussi tentés par une forme de marketing paternaliste? Plusieurs hypothèses:
-1. Ils cherchent à faire du profit rapidement
-2. Ils n'ont pas bien construit une véritable culture autour de ces nouvelles applications 
-3. Les ingénieurs ne sont souvent que fascinés par les nouvelles technologies et négligent l'utilisateur final
+- Ils cherchent à faire du profit rapidement
+- Ils n'ont pas bien construit une véritable culture autour de ces nouvelles applications 
+- Les ingénieurs ne sont souvent que fascinés par les nouvelles technologies et négligent l'utilisateur final
 
-4. C'est l'architecture technique des applications mobiles qui imposent en soi une logique "top - down" du "serveur – client"
+- C'est l'architecture technique des applications mobiles qui imposent en soi une logique "top - down" du "serveur – client"
 
 On pourrait penser que le vrai problème est 4, que le monde des applications mobiles est contrôlé par les idéologies de la Silicon Valley. N'est-t-on pas en effet de plus en plus convaincu que les réseaux sociaux facebook ou twitter créent de la polarité, en mettant en place des systèmes des bulles de filtres idéologiques? Pourquoi ne peut-on pas appliquer cette théorie aux applications mobiles?
 
