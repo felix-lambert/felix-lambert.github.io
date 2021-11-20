@@ -30,11 +30,10 @@ Dès qu'on se connecte à une application, on peut créer un refuge grâce au vi
 La cause du phénomène 
 
 Pourquoi donc les créateurs d'applications sont aussi tentés par une forme de marketing paternaliste? Plusieurs hypothèses:
-- Ils cherchent à faire du profit rapidement
-- Ils n'ont pas bien construit une véritable culture autour de ces nouvelles applications 
-- Les ingénieurs ne sont souvent que fascinés par les nouvelles technologies et négligent l'utilisateur final
-
-- C'est l'architecture technique des applications mobiles qui imposent en soi une logique "top - down" du "serveur – client"
+1/ Ils cherchent à faire du profit rapidement
+2/ Ils n'ont pas bien construit une véritable culture autour de ces nouvelles applications 
+3/ Les ingénieurs ne sont souvent que fascinés par les nouvelles technologies et négligent l'utilisateur final
+4/ C'est l'architecture technique des applications mobiles qui imposent en soi une logique "top - down" du "serveur – client"
 
 On pourrait penser que le vrai problème est 4, que le monde des applications mobiles est contrôlé par les idéologies de la Silicon Valley. N'est-t-on pas en effet de plus en plus convaincu que les réseaux sociaux facebook ou twitter créent de la polarité, en mettant en place des systèmes des bulles de filtres idéologiques? Pourquoi ne peut-on pas appliquer cette théorie aux applications mobiles?
 
