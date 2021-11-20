@@ -13,11 +13,11 @@ Mais bonne nouvelle: c'est en train de changer.
 
 On rentre dans une nouvelle phase dans le développement des applications mobiles. Les premières phases sont les suivantes:
 
-- On développe des applications qui se concentrent simplement sur le fait d'attirer l'attention de l'utilisateur et de dominer l'écran d'accueil du mobile
+1 On développe des applications qui se concentrent simplement sur le fait d'attirer l'attention de l'utilisateur et de dominer l'écran d'accueil du mobile
 
-- On développe des applications qui utilisent des IA de calcul prédictif pour influencer l'utilisateur
+2 On développe des applications qui utilisent des IA de calcul prédictif pour influencer l'utilisateur
 
-- On arrive aujourd’hui dans une phase où l'on développe des applications qui accompagnent les utilisateurs pour agir de manière plus soutenable: une application française comme TooGood ToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
+3 On arrive aujourd’hui dans une phase où l'on développe des applications qui accompagnent les utilisateurs pour agir de manière plus soutenable: une application française comme TooGood ToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
 
 Mais il existe en même temps une certaine défiance vis-à-vis des nouvelles technologies et c'est peut-être d'autant plus vrai au sein des groupes sensibles aux problèmes de l'anthropocène. Le monde du numérique, à ses débuts, pouvait susciter de l'espoir. Mais 95% du temps, quand on décide de télécharger une application on est déçu et ça se voit facilement dans les commentaires. On est agacé d'avoir des pubs, avec un long formulaire à remplir (sinon on ne peut pas utiliser l'application) pour finalement tomber sur rien d'utile, sans parler des mails de spams qu'on sera obligé de filtrer ou des notifications promotionnelles qui ne sont pas décochées par défaut. Un paywall peut aussi nous tomber dessus au bout de quelques minutes. 
 
