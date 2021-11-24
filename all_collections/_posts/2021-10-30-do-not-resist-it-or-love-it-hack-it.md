@@ -27,4 +27,4 @@ But how to hack?
 
 5. Take into consideration the values of others. Hacking doesn't need to be done alone. You can bring others with you, by showing them new ways of playing. Also consider and take seriously the differences that others are showing to you. If you see others behaving in new ways, be curious, and see what you can learn from them. 
 
-6. Distinguish yourself from the rules I just proposed to you :)
+6. Disregard the rules I just proposed to you :)
