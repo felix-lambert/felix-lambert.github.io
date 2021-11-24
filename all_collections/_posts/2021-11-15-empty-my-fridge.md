@@ -1,0 +1,37 @@
+---
+layout: post
+title: Le projet qui me tient à coeur > EmptyMyFridge
+date: 2021-11-15 10:18:00
+tags: application
+---
+
+- [EmptyMyFridge](https://www.emptymyfridge.com)
+- [Food waste](https://www.researchgate.net/publication/331207943_Consumer_Choice_and_Food_Waste_Can_Nudging_Help)
+- [Android](https://play.google.com/store/apps/details?id=com.emptymyfridge)
+- [iOS](https://apps.apple.com/app/id1550812530)
+
+Constat actuel : les milliardaires du monde entier possèdent plus de richesses que 60 % de la population mondiale et le patrimoine des 1% les plus riches a doublé en moins de 30 ans. La richesse des 50 % les plus pauvres a plus ou moins stagné.
+
+C'est un constat alarmant, mais le pire est que 1.000.000.000 de personnes se couchent le soir en ayant faim. Ceci ne peut pas être accepté et si ces inégalités sont aussi importantes aujourd'hui, c'est parce qu'il y a quelque chose dans nos valeurs, liées à notre environnement qui soutient ces inégalités, qu'elles soient religieuses, familiales, économiques...
+
+Ce quelque chose doit être remis en question en se distinguant, car c'est par la distinction qu'on peut proposer un changement.
+
+Ce changement doit commencer en remettant en cause les idées reçues d'aujourd'hui.
+
+Le smartphone n'est qu'un simple outil pour nous abrutir? Pour captiver notre attention avec des contenus stupides? Il n'y a maintenant que des écrans partout! Mais si justement on utilisait l'écran pour faire des choses incroyables avec l'humain ?
+
+Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. Est-ce que c'est parce que l'humain est stupide? Certainement pas! L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles nous soutiennent, et offrent aujourd’hui les outils pour l’autonomie, afin qu'on ait une volonté plus forte. Il n'y a plus qu'à bien savoir les utiliser, car c'est proprement d'une nouvelle culture, comme l'écriture, ou la mise en place d'une vidéo youtube, qu'il s'agit.
+
+Commençons donc par essayer de changer dans un domaine essentiel: la cuisine, et la façon dont on mange de la nourriture. Une bonne manière pour commencer à se prendre en main c’est en effet par la cuisine. 
+
+1/3 des aliments dans les foyers ne sont pas consommés, et c'est une des causes des problèmes de la malnutrition dans le monde. Autrement dit, il y a un lien entre la façon dont on cuisine chez soi et l'accès à la nourriture dans les pays pauvres. Pour changer, on peut s'aider des technologies pour nous auto-discipliner. 
+
+Comment donc se forcer à ne plus jeter et à notamment se motiver pour cuisiner et prendre soin de sa santé?
+
+Tous les mois, je jette de la nourriture. C'est assez désagréable ce sentiment parce que je sais que ce manque d'endurance est un des symptômes de notre manque de motivation pour transformer le monde, et notamment pour se préparer à des choses comme des épidémies, l'accélération de la perte de la biodiversité ou les violences et les dominations.
+
+J'ai sorti dans les "stores" depuis presque un an une application qui aide à cuisiner facilement avec les ingrédients que l'on a déjà chez soi. Je répertorie les fruits et les légumes de saison et je mets en place un frigo virtuel avec un algorithme qui permet de sélectionner les 25 meilleures recettes en fonction des ingrédients de ce frigo. Avantages: on se motive plus facilement pour cuisiner, et on préfère consommer ce qu'on a plutôt que d'aller au supermarché.
+
+J'espère à terme que cette application puisse se connecter avec les app anti-gaspis, les supermarchés, les associations de consommateurs, afin que les ingrédients puissent s'ajouter automatiquement. Ce frigo virtuel peut aussi se partager avec les membres du foyer ou de la communauté. Ca permet d'économiser de l'argent et de se surprendre à découvrir des recettes coréennes, chinoises, italiennes, vietnamiennes, marocaines... 
+
+J'aimerais que tout le monde puissent partager cette satisfaction, et entendre sa cuisine chanter, avec tous les outils sortis et un bon plât préparé pour sa famille, sa compagne, ou soi-même.
