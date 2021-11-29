@@ -9,7 +9,6 @@ Source:
 - [Good summary](https://www.youtube.com/watch?v=9wWgw9smBJs)
 - [Oracle vs Google](https://www.youtube.com/watch?v=IDwGHr32Vw4)
 - [Start of android](https://www.youtube.com/watch?v=WIu2cyAIgQM)
-- [Shenzhen China](https://www.youtube.com/watch?v=lcrfk6OoZIw)
 
 Smartphones didn't change so much since the 2007 Apple iPhone. 
 
