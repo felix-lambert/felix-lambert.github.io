@@ -8,6 +8,7 @@ tags: technologie
 SOURCE: 
 - [Dangers de la technophobie](https://www.youtube.com/watch?v=AUxvauMIZzQ)
 - [Technophile contre technophobe](https://www.latribune.fr/opinions/tribunes/20140610trib000836155/technophiles-contre-technophobes-biophiles-contre-biophobes-un-essai-de-definition.html)
+- [Stuart Russell](https://www.youtube.com/watch?v=EBK-a94IFHY)
 
 It's really difficult to find thinkers defending new technologies of today. They seem to not notice that technology offers a huge service for humans, that could help them to become more human. Even with thinkers I really appreciate, they nearly always end up saying that technology, with capitalism I suppose, will, by one way or another, end up destroying humanity. It's always the same kind of love song.
 
