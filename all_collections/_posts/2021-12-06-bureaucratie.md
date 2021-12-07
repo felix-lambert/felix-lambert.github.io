@@ -15,7 +15,7 @@ Donc j'assume de penser, de manière peut-être un peu simpliste, mais qui clari
 
 Si vous avez une personne qui cherche à communiquer avec vous en invoquant constamment la loi, ou qui ne cherche qu'à vous envoyer des recommandés, ou un langage ultra-technique, il prend 
 selon moi, le registre de la menace. Vous vous situez donc dans une relation de domination. C'est une forme de relation à éviter ou qu'il ne faut surtout pas accepter, 
-si c'est possible. Si ce n'est pas possible, inventons en urgence un service qui sache faire du karaté ou du aïkido pour mettre hors d'état de nuire cet attaquant.
+si c'est possible. 
 
 Donc comment concrètement résister à la bureaucratie, qu'elle soit en réalité financière, fiscale, immobilière, étatique... ? 
 
