@@ -16,7 +16,7 @@ Donc j'assume de penser, de manière peut-être un peu simpliste, mais qui clari
 Si vous avez une personne qui cherche à communiquer avec vous en invoquant constamment la loi, ou qui ne cherche qu'à vous envoyer des recommandés, ou un langage ultra-technique, il prend 
 selon moi, le registre de la menace. Vous vous situez donc dans une relation de domination. C'est une forme de relation à éviter ou qu'il ne faut surtout pas accepter, si c'est possible. Si ce n'est pas possible, inventons en urgence un nouveau service qui sache se défendre.
 
-Donc comment concrètement résister à la bureaucratie, qu'elle soit en réalité financière, fiscale, immobilière, étatique... ? 
+Donc comment agir pour se protéger de l'envahissement bureaucratique, qu'elle soit en réalité financière, fiscale, immobilière, étatique... ? 
 
 Le premier stade de la résistance commence par la communication. Evitons à tout prix un langage issu de la bureaucratie, ou de n'importe quelle autre forme de fausse expertise. 
 Cherchons à créer avec d'autres humains une forme de langage non-bureaucratique, qui rentre en profondeur dans le registre de l'amicalité, d'un langage vernaculaire. 
