@@ -14,7 +14,7 @@ Si vous avez une personne qui cherche à communiquer avec vous en invoquant cons
 
 Donc comment agir pour se protéger de l'envahissement bureaucratique, qu'elle soit en réalité financière, fiscale, immobilière, étatique... ? 
 
-Afin de hacker la bureaucratie, il faut déjà commencer par changer notre communication. Evitons à tout prix un langage issu de la bureaucratie, ou de n'importe quelle autre forme de fausse expertise. 
+Afin de hacker la bureaucratie, il faut déjà commencer par changer notre communication. Evitons à tout prix un langage volontairement obscur issu de la bureaucratie, ou de n'importe quelle autre forme de fausse expertise. 
 Cherchons à créer avec d'autres humains une forme de langage non-bureaucratique, qui rentre en profondeur dans le registre de l'amicalité, d'un langage vernaculaire. 
 Il s'agit ici de recréer du lien, de la communication sincère avec les autres. Une forme de communication ni bureaucratique, ni idéologique, ni compétitive. Une forme de communication de la gentillesse, de la sincérité et de l'amitié.
 
