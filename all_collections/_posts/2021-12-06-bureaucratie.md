@@ -2,7 +2,7 @@
 layout: post
 title: Bureaucratie
 date: 2021-12-06 10:18:00
-tags: application
+tags: philosophy
 ---
 
 - [Bureaucratie](https://www.amazon.com/Bureaucratie/dp/2330076142)
