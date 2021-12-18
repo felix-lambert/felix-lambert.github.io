@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to become a better person
-date: 2021-11-21 10:18:00
+date: 2021-12-10 10:18:00
 tags: application
 ---
 
