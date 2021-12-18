@@ -2,7 +2,7 @@
 layout: post
 title: How to become a better person
 date: 2021-12-18 10:18:00
-tags: philosophy
+tags: application
 ---
 
 One interesting thing that we could do is to wake up every morning and read about a word and its concept that fit your values. It could be friendship or courage. It could be kindness or peace. Whatever you want.
