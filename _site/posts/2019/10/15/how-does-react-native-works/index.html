@@ -128,7 +128,7 @@
 <p>To run the application one of the following commands is issued via the command-line interface (CLI): <code class="highlighter-rouge">react-native run-ios</code> or <code class="highlighter-rouge">react-native run-android</code></p>
 
 <ul>
-  <li>This command runs at the native entry point thread (native thread) on which your Android (Java/Kotlin) or IOS (Swift/Objective C) app is running. This thread is automatically assigned by the phone’s operating system.</li>
+  <li><a href="">This command runs at the native entry point thread (native thread) on which your Android (Java/Kotlin) or IOS (Swift/Objective C) app is running. This thread is automatically assigned by the phone’s operating system.</a></li>
 </ul>
 
 <p><span style="display:block;text-align:center"><img src="/assets/img/process.png" alt="Octocat" /></span></p>
@@ -137,10 +137,10 @@
 
 <ul>
   <li>
-    <p>The command creates a RootView (RCTRootView) that gives everything visible to the user.</p>
+    <p><a href="">The command creates a RootView (RCTRootView) that gives everything visible to the user.</a></p>
   </li>
   <li>
-    <p>The RootView creates the Bridge Interface.</p>
+    <p><a href="">The RootView creates the Bridge Interface.</a></p>
   </li>
 </ul>
 
@@ -148,17 +148,17 @@
 
 <ul>
   <li>
-    <p>The Bridge Interface will send messages to create the JavaScript (JS) thread to execute the code that is written in react-native.</p>
+    <p><a href="">The Bridge Interface will send messages to create the JavaScript (JS) thread to execute the code that is written in react-native.</a></p>
   </li>
   <li>
-    <p>Once the Bridge passes serialized payload to JavaScript, Event is processed and your application logic comes into play.</p>
+    <p><a href="">Once the Bridge passes serialized payload to JavaScript, Event is processed and your application logic comes into play.</a></p>
   </li>
 </ul>
 
 <p>Like all JavaScript virtual machines, this JS thread is an event loop where your react application lives, API calls are made, touch events are interpreted, etc. It will start loading JS bundles into a single main.bundle.js file by compiling it into EcmaScript 5 using babel (Babel JavaScript compiler).</p>
 
 <ul>
-  <li>When React starts rendering it sends the changes to another thread: the Shadow thread.</li>
+  <li><a href="">When React starts rendering it sends the changes to another thread: the Shadow thread.</a></li>
 </ul>
 
 <p>React-native uses flexbox to style and position the elements in the screen. But the native UI has his own layout system so it does not understand flexbox. This is why react-native has created his own library called yoga to translate the flexbox css to the mobile layout.</p>
@@ -169,16 +169,16 @@
 
 <p>Let’s look at this code as an example:</p>
 
-<p>```jsx let d const App = props = { return ( <View> <Text>Hello there</Text> </View> ) }</p>
+<div class="language-jsx highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">d</span> <span class="kd">const</span> <span class="nx">App</span> <span class="o">=</span> <span class="nx">props</span> <span class="o">=</span> <span class="p">{</span> <span class="k">return</span> <span class="p">(</span> <span class="p">&lt;</span><span class="nc">View</span><span class="p">&gt;</span> <span class="p">&lt;</span><span class="nc">Text</span><span class="p">&gt;</span>Hello there<span class="p">&lt;/</span><span class="nc">Text</span><span class="p">&gt;</span> <span class="p">&lt;/</span><span class="nc">View</span><span class="p">&gt;</span> <span class="p">)</span> <span class="p">}</span>
 
-<p>```</p>
+</code></pre></div></div>
 
 <p>If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.</p>
 
 <p><code class="highlighter-rouge">&lt;View /&gt;</code> or <code class="highlighter-rouge">&lt;TextInput /&gt;</code> or <code class="highlighter-rouge">&lt;Text/&gt;</code> are special components compiled into native code. The <code class="highlighter-rouge">&lt;View&gt;</code> component will be linked to android.view for android and UIView for ios. <code class="highlighter-rouge">&lt;TextInput&gt;</code> will be linked to EditText for android and UITextField for IOS.</p>
 
 <ul>
-  <li>Since only the main thread is able to render something on the screen, shadow thread should send generated layout to the main thread, and only then UI renders.</li>
+  <li><a href="">Since only the main thread is able to render something on the screen, shadow thread should send generated layout to the main thread, and only then UI renders.</a></li>
 </ul>
 
       </main>
