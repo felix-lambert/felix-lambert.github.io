@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to become a better person?
+title: How to become a better person
 date: 2021-12-18 10:18:00
 tags: philosophy
 ---
