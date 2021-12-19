@@ -18,7 +18,7 @@ Ce quelque chose doit être remis en question en se distinguant, car c'est par l
 
 Ce changement doit commencer en remettant en cause les idées reçues d'aujourd'hui.
 
-Le smartphone n'est qu'un simple outil pour nous abrutir? Pour captiver notre attention avec des contenus stupides? Il n'y a maintenant que des écrans partout! Mais si justement on utilisait l'écran pour faire des choses incroyables avec l'humain ?
+Le smartphone n'est qu'un simple outil pour nous abrutir? Pour captiver notre attention avec des contenus stupides? Il n'y a maintenant que des écrans partout! 
 
 Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. Est-ce que c'est parce que l'humain est stupide? Certainement pas! L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles nous soutiennent, et offrent aujourd’hui les outils pour l’autonomie, afin qu'on ait une volonté plus forte. Il n'y a plus qu'à bien savoir les utiliser, car c'est proprement d'une nouvelle culture, comme l'écriture, ou la mise en place d'une vidéo youtube, qu'il s'agit.
 
