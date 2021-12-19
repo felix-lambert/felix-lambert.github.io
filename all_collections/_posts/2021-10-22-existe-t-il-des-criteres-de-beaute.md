@@ -13,6 +13,3 @@ Ma démonstration:
 
 
 2/ Pour celui qui produit > Un artiste ou un humain qui cherche à créer des belles choses dans sa vie, en apprenant des techniques, des critères objectifs, à travers le geste par exemple, essaie en même temps de dépasser ces critères pour arriver à quelque chose de sublime, de contemplatif, d'harmonieux... On peut même dire qu'une personne peut être belle intérieurement et je suis de plus en plus convaincu que cela n'est possible que par une technique, laquelle peut aboutir à une forme de dépassement de soi: un virtuose s'est entraîné toute sa vie, à travers des critères objectifs afin d'incorporer totalement cette technique sans même y penser.
-
-
-Pour aller plus loin: puisqu'il y a des critères du beau, et que l'on a les dispositions pour développer notre goût. Il peut en même temps être intéressant de se dire qu'on est tous acteurs pour affiner ces critères et les dépasser.
