@@ -12,7 +12,7 @@ si on ignore ce message, ou on s'y oppose, ça risque, au bout de quelques mois,
 
 Si vous avez une personne qui cherche à communiquer avec vous en invoquant constamment la loi, en vous envoyant des recommandés par exemple, avec un langage ultra-technique, on est ici dans une relation de domination. C'est une forme de relation à éviter ou qu'il ne faut surtout pas accepter, si c'est possible.
 
-Donc comment agir pour se protéger de l'envahissement bureaucratique, qu'elle soit en réalité financière, fiscale, immobilière, étatique... ? 
+Donc comment agir pour se protéger de l'envahissement bureaucratique, qu'il soit en réalité financier, fiscal, immobilier, étatique... ? 
 
 Afin de hacker la bureaucratie, il faut déjà commencer par changer notre communication. Evitons un langage volontairement obscur issu de la bureaucratie, ou de n'importe quelle autre forme de fausse expertise. 
 
