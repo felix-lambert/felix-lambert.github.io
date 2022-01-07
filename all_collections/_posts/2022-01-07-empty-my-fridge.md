@@ -26,7 +26,9 @@ Commençons donc par essayer de changer dans un domaine essentiel: la cuisine, e
 
 Pour changer, on peut s'aider des technologies pour nous auto-discipliner. Mais il faut déjà commencer par remettre en cause les idées reçues d'aujourd'hui.
 
-Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. Est-ce que c'est parce que l'humain est stupide? Je ne pense pas. L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles offrent aujourd’hui les outils pour l’autonomie, afin qu'on ait une volonté plus forte.On rentre aujourd'hui dans une nouvelle phase dans le développement des applications mobiles. Les premières phases sont les suivantes:
+Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. Est-ce que c'est parce que l'humain est stupide? Je ne pense pas. L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles offrent aujourd’hui les outils pour l’autonomie, afin qu'on ait une volonté plus forte.
+
+On rentre aujourd'hui dans une nouvelle phase dans le développement des applications mobiles. Les premières phases sont les suivantes:
 
 1 On développe des applications qui se concentrent simplement sur le fait d'attirer l'attention de l'utilisateur et de dominer l'écran d'accueil du mobile
 2 On développe des applications qui utilisent des IA de calcul prédictif pour influencer l'utilisateur
