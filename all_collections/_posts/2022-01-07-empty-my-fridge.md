@@ -8,16 +8,15 @@ tags: application
 - [EmptyMyFridge](https://www.emptymyfridge.com)
 - [Android](https://play.google.com/store/apps/details?id=com.emptymyfridge)
 - [iOS](https://apps.apple.com/app/id1550812530)
-- https://www.youtube.com/watch?v=TVP3j7_W7og
 - [The Ethics of Ordinary Technology](https://www.amazon.com/Ordinary-Technology-Routledge-Studies-Science/dp/1138659347)
 - [http://michel.puech.free.fr/](http://michel.puech.free.fr/)
 - [The Filter Bubble](https://www.amazon.fr/dp/B004Y4WMH2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Food waste: nudging](https://www.researchgate.net/publication/331207943_Consumer_Choice_and_Food_Waste_Can_Nudging_Help)
 - [Food waste, Global hunger and you](https://www.youtube.com/watch?v=TVP3j7_W7og)
-- [Feeding the World by Reducing Food Waste | Elena Matsui](https://www.youtube.com/watch?v=fGOUCNvuu0s)
-- [How To End The Food Waste Fiasco | Rob Greenfield](https://www.youtube.com/watch?v=w96osGZaS74)
-- [The Food Waste Dilemma | Daniel Tay](https://www.youtube.com/watch?v=z_R2y0feHLE)
-- [Save food from the fridge | Jihyun Ryou](https://www.youtube.com/watch?v=-NByNOOaCzI)
+- [Feeding the World by Reducing Food Waste Elena Matsui](https://www.youtube.com/watch?v=fGOUCNvuu0s)
+- [How To End The Food Waste Fiasco Rob Greenfield](https://www.youtube.com/watch?v=w96osGZaS74)
+- [The Food Waste Dilemma Daniel Tay](https://www.youtube.com/watch?v=z_R2y0feHLE)
+- [Save food from the fridge Jihyun Ryou](https://www.youtube.com/watch?v=-NByNOOaCzI)
 
 L'humain a besoin de changer et d'agir afin de résoudre les problèmes liés à l'anthropocène mais on n'y arrive pas. Les scientifiques nous alertent des dangers de l'accélération de la perte de biodiversité. On en est conscient, on sait quoi faire et comment faire, mais on ne fait rien. Il y a une certaine forme d'inertie à l'action.
 
