@@ -16,6 +16,6 @@ The world of tech should not be limited to people solving fast abstract mathemat
  
 I also think that whiteboarding interviews could be seen as a right of passage into the tech world and it's cultural. It's a form of submission that you need to go through. So even if it's useless for the job in solving abstract maths and statistics you still need to do this week of training. The one disciplined enough to follow this ritual will get the job. This process could also prove that the organization of the company is vertical (top-down).
  
-This is why I've decided to only work for companies that do not do whiteboarding interviews.
+I'm lucky to be in a sector where I can decide where I want to work. This is why I've decided to only work for companies that do not do whiteboarding interviews.
 
 
