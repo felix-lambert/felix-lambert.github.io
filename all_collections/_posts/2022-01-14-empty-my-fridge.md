@@ -16,12 +16,13 @@ tags: application
 - [Food waste, Global hunger and you](https://www.youtube.com/watch?v=TVP3j7_W7og)
 - [How To End The Food Waste Fiasco Rob Greenfield](https://www.youtube.com/watch?v=w96osGZaS74)
 - [Save food from the fridge Jihyun Ryou](https://www.youtube.com/watch?v=-NByNOOaCzI)
+- [Technologies to reduce food waste at consumer level](https://unepdtu.org/wp-content/uploads/2021/11/reducing-consumer-food-waste-using-green-and-digital-technologies.pdf)
 
 L'humain a besoin de changer et d'agir afin de résoudre les problèmes liés à l'anthropocène mais on n'y arrive pas. Les scientifiques nous alertent des dangers de l'accélération de la perte de biodiversité. On en est conscient, on sait quoi faire et comment faire, mais on ne fait rien. Il y a une certaine forme d'inertie à l'action.
 
-Cette inertie est facilement palpable lorsqu'on se rend compte qu'1/3 des aliments produits dans le monde ne sont jamais consommés alors que près de 690.000.000 de personnes souffrent de la faim ou de malnutrition. Autrement dit, il y a un lien entre la façon dont on cuisine chez soi et l'accès à la nourriture dans les pays pauvres. Ce gaspillage représente en France une dépense de 159 euros par personne et par an. C'est une aberration.
-
 Commençons donc par essayer de changer dans un domaine essentiel: la cuisine, et la façon dont on mange de la nourriture. Une bonne manière pour commencer à se prendre en main c’est en effet par la cuisine. Comment donc se forcer à ne plus jeter et à notamment se motiver pour cuisiner et prendre soin de sa santé?
+
+En effet, 1/3 des aliments produits dans le monde ne sont jamais consommés et 61% de ces aliments non-consommés proviennent des ménages alors que près de 690.000.000 de personnes souffrent de la faim ou de malnutrition. Autrement dit, il y a un lien entre la façon dont on cuisine chez soi et l'accès à la nourriture dans les pays pauvres. Ce gaspillage représente en France une dépense de 159 euros par personne et par an. C'est une aberration.
 
 Pour changer, on peut s'aider des technologies pour nous auto-discipliner. Mais il faut déjà commencer par remettre en cause les idées reçues d'aujourd'hui.
 
@@ -30,7 +31,9 @@ Le smartphone et ses applications, même s'il a été créé par une grande mult
 On rentre aujourd'hui dans une nouvelle phase dans le développement des applications mobiles. Les premières phases sont les suivantes:
 
 1 On développe des applications qui se concentrent simplement sur le fait d'attirer l'attention de l'utilisateur et de dominer l'écran d'accueil du mobile
+
 2 On développe des applications qui utilisent des IA de calcul prédictif pour influencer l'utilisateur
+
 3 On arrive aujourd’hui dans une phase où l'on développe des applications qui accompagnent les utilisateurs pour les aider à devenir plus autonome: une application française comme TooGoodToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
 
 Mais souvent, on peut être tenté de réduire le smartphone comme un simple outil pour nous abrutir? Pour captiver notre attention avec des contenus stupides. Il n'y a maintenant que des écrans partout!
@@ -46,7 +49,9 @@ Donc est-ce que toutes ces nouvelles applications ne sont-elles pas au fond des 
 Pourquoi donc les créateurs d'applications sont aussi tentés par une forme de marketing paternaliste? Plusieurs hypothèses:
 
 1 Ils cherchent à faire du profit rapidement
+
 2 Ils n'ont pas bien construit une véritable culture autour de ces nouvelles applications
+
 3 C'est l'architecture technique des applications mobiles qui imposent en soi une logique "top - down" du "serveur – client"
 
 On pourrait penser que le vrai problème est 3, que le monde des applications mobiles est contrôlé par les idéologies de la Silicon Valley. N'est-t-on pas en effet de plus en plus convaincu que les réseaux sociaux facebook ou twitter créent de la polarité, en mettant en place des systèmes des bulles de filtres idéologiques?
