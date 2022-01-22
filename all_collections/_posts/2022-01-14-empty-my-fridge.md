@@ -13,8 +13,6 @@ tags: application
 - [The Filter Bubble](https://www.amazon.fr/dp/B004Y4WMH2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Food waste: nudging](https://www.researchgate.net/publication/331207943_Consumer_Choice_and_Food_Waste_Can_Nudging_Help)
 - [Is it appropriate to use surplus food to feed people in-hunger](https://foodresearch.org.uk/publications/is-it-appropriate-to-use-surplus-food-to-feed-people-in-hunger/)
-- [Food waste, Global hunger and you](https://www.youtube.com/watch?v=TVP3j7_W7og)
-- [How To End The Food Waste Fiasco Rob Greenfield](https://www.youtube.com/watch?v=w96osGZaS74)
 - [Save food from the fridge Jihyun Ryou](https://www.youtube.com/watch?v=-NByNOOaCzI)
 - [Technologies to reduce food waste at consumer level](https://unepdtu.org/wp-content/uploads/2021/11/reducing-consumer-food-waste-using-green-and-digital-technologies.pdf)
 
