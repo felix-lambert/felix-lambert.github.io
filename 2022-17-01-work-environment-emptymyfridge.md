@@ -75,3 +75,40 @@ history - A list of visited items. This is an optional property and not present 
 stale - A navigation state is assumed to be stale unless the stale property is explicitly set to false. This means that the state object needs to be "rehydrated".
 
 The Link component lets us navigate to a screen using a path instead of a screen name based on the linking options. It preserves the default behavior of anchor tags in the browser such as Right click -> Open link in new tab", Ctrl+Click/⌘+Click etc.
+
+Following are the built-in events available with every navigator:
+
+focus - This event is emitted when the screen comes into focus
+
+blur - This event is emitted when the screen goes out of focus
+
+beforeRemove - This event is emitted when the user is leaving the screen, there's a chance to prevent the user from leaving
+
+state (advanced) - This event is emitted when the navigator's state changes
+
+Inside a screen, you can add listeners on the navigation prop with the addListener method. The addListener method takes 2 arguments: type of the event, and a callback to be called on the event. It returns a function that can be called to unsubscribe from the event.
+
+Example:
+
+```javascript
+const unsubscribe = navigation.addListener('tabPress', (e) => {
+  // Prevent default action
+  e.preventDefault();
+});
+
+```
+
+```javascript
+
+function Profile({ navigation }) {
+  React.useEffect(() => {
+    const unsubscribe = navigation.addListener('focus', () => {
+      // do something
+    });
+
+    return unsubscribe;
+  }, [navigation]);
+
+  return <ProfileContent />;
+}
+```
