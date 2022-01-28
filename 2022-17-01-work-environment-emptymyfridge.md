@@ -112,3 +112,13 @@ function Profile({ navigation }) {
   return <ProfileContent />;
 }
 ```
+
+Every good website is prefixed with https://, and https is what is known as a URL scheme. Insecure websites are prefixed with http://, and http is the URL scheme. Let's call it scheme for short.
+
+In addition to https, you're likely also familiar with the mailto scheme. When you open a link with the mailto scheme, your operating system will open an installed mail application. If you have more than one mail application installed then your operating system may prompt you to pick one. Similarly, there are schemes for making phone calls and sending SMS. Read more about built-in URL schemes below.
+
+Just like using the mailto scheme, it's possible to link to other applications by using other url schemes. For example, when you get a "Magic Link" email from Slack, the "Launch Slack" button is an anchor tag with an href that looks something like: slack://secret/magic-login/other-secret. Like with Slack, you can tell the operating system that you want to handle a custom scheme. Read more about configuring a scheme. When the Slack app opens, it receives the URL that was used to open it and can then act on the data that is made available through the url -- in this case, a secret string that will log the user in to a particular server. This is often referred to as deep linking. Read more about handling deep links into your app.
+
+Deep linking with schemes isn't the only linking tool available to you. It is often desirable for regular HTTPS links to open your application on mobile. For example, if you're sending a notification email about a change to a record, you don't want to use a custom URL scheme in links in the email, because then the links would be broken on desktop. Instead, you want to use a regular HTTPS link such as https://www.myapp.io/records/123, and on mobile you want that link to open your app. iOS terms this concept "universal links" and Android calls it "deep links" (unfortunate naming, since deep links can also refer to the topic above). Expo supports these links on both platforms (with some configuration). Expo also supports deferred deep links with Branch.
+
+There is no anchor tag in React Native, so we can't write <a href="https://expo.dev">, instead we have to use Linking.openURL.

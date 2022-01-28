@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le projet qui me tient à coeur > EmptyMyFridge
-date: 2022-01-06 10:18:00
+date: 2022-01-28 10:18:00
 tags: application
 ---
 
@@ -18,7 +18,7 @@ tags: application
 
 L'humain a besoin de changer et d'agir afin de résoudre les problèmes liés à l'anthropocène mais on n'y arrive pas. Les scientifiques nous alertent des dangers de l'accélération de la perte de biodiversité. On en est conscient, on sait quoi faire et comment faire, mais on ne fait rien. Il y a une certaine forme d'inertie à l'action.
 
-Commençons donc par essayer de changer dans un domaine essentiel: la cuisine, et la façon dont on mange de la nourriture. Une bonne manière pour commencer à se prendre en main c’est en effet par la cuisine. Comment donc se forcer à ne plus jeter et à notamment se motiver pour cuisiner et prendre soin de sa santé?
+Commençons donc par essayer de changer dans un domaine essentiel: la cuisine, et la façon dont on mange de la nourriture. Une bonne manière pour commencer à se prendre en main c’est en effet par la cuisine. Comment se forcer à ne plus jeter et à notamment se motiver pour cuisiner et prendre soin de sa santé?
 
 En effet, 1/3 des aliments produits dans le monde ne sont jamais consommés et 61% de ces aliments non-consommés proviennent des ménages alors que près de 690.000.000 de personnes souffrent de la faim ou de malnutrition. Autrement dit, il y a un lien entre la façon dont on cuisine chez soi et l'accès à la nourriture dans les pays pauvres. Ce gaspillage représente en France une dépense de 159 euros par personne et par an. C'est une aberration.
 
@@ -34,7 +34,7 @@ On rentre aujourd'hui dans une nouvelle phase dans le développement des applica
 
 3 On arrive aujourd’hui dans une phase où l'on développe des applications qui accompagnent les utilisateurs pour les aider à devenir plus autonome: une application française comme TooGoodToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
 
-Mais souvent, on peut être tenté de réduire le smartphone comme un simple outil pour nous abrutir? Pour captiver notre attention avec des contenus stupides. Il n'y a maintenant que des écrans partout!
+Mais souvent, on peut être tenté de réduire le smartphone comme un simple outil pour nous abrutir. Pour captiver notre attention avec des contenus stupides. Il n'y a maintenant que des écrans partout!
 
 Il existe aujourd'hui en effet une certaine défiance vis-à-vis des nouvelles technologies et c'est peut-être d'autant plus vrai au sein des groupes sensibles aux problèmes de l'anthropocène. Le monde du numérique, à ses débuts, pouvait susciter de l'espoir. Mais 95% du temps, quand on décide de télécharger une application on est déçu et ça se voit facilement dans les commentaires. On est agacé d'avoir des pubs, avec un long formulaire à remplir (sinon on ne peut pas utiliser l'application) pour finalement tomber sur rien d'utile, sans parler des mails de spams qu'on sera obligé de filtrer ou des notifications promotionnelles qui ne sont pas décochées par défaut. Un paywall peut aussi nous tomber dessus au bout de quelques minutes.
 
