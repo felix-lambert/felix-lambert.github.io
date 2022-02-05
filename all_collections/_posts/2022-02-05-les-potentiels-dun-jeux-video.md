@@ -14,6 +14,7 @@ Source:
 - [Animal crossing](https://www.youtube.com/watch?v=w2iEYzWwgf0)
 - [Starcraft 2 et l'IA](https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft)
 - [Aide](https://www.youtube.com/watch?v=9jiNWK9dUy8)
+- [PC building simulator](https://www.youtube.com/watch?v=sOVyMYyH3KA)
 
 Cotés négatifs:
 
