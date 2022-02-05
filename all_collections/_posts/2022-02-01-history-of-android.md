@@ -10,7 +10,7 @@ Source:
 - [Oracle vs Google](https://www.youtube.com/watch?v=IDwGHr32Vw4)
 - [Start of android](https://www.youtube.com/watch?v=WIu2cyAIgQM)
 
-Smartphones didn't change so much since the 2007 Apple iPhone. 
+Smartphones haven't changed so much since the 2007 Apple iPhone.
 
 The early intentions of android were to develop an advanced operating system for digital cameras, and this was the basis of its pitch to investors in April 2004. The company then decided that the market for cameras was not large enough for its goals, and five months later it had diverted its efforts and was pitching Android as a handset operating system that would rival Symbian and Microsoft Windows Mobile.
 
@@ -31,12 +31,3 @@ Matthew Panzarino, co-editor of TechCrunch, believes that there are three phases
 2/ Apps that were focused around grabbing the user's attention and dominating the mobile home screen. 
 
 3/ Today's phase in which apps are service layers, purpose built and utilise technology such as hardware sensors, location, history of use and predictive computation. 
-
-Diagram of android >
-
-1/ Linux Kernel
-2/ Hardware Abstraction Layer
-3/ Native Services
-4/ Runtime
-5/ Application Framework
-6/ Applications
