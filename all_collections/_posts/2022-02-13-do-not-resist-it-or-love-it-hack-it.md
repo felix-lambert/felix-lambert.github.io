@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do not resist or admire, hack
-date: 2021-10-30 10:18:00
+date: 2021-02-13 10:18:00
 tags: philosophy
 ---
 
@@ -17,7 +17,7 @@ When a new thing is coming to you, or when something needs to change, the first 
 
 But how to hack?
 
-1. Evaluate zones that are not totally blocked. So hacking politics, facebook, the nuclear industry, or closed ideologies could be a big waste of energy with a big wall with no holes facing you… What you could hack, is things that are actually open to hacking, by being aware of things that are in dynamic movement. Hacking is letting things move, with no blockage. If there is violence in the world or closed ideology, it’s because there is blockage and no movement. So hacking could be letting things move as they should move.
+1. Hacking is letting things move, with no blockage. If there is violence in the world or closed ideology, it’s because there is blockage and no movement. So hacking could be letting things move as they should move.
 
 2. Do things differently. Do not really listen to what should be done to start a business for example, or gather users, or work, or anything else. People kept saying to google's founder to put some ads in the first page of their search engine, or even mix the editorial and paid content (like it was usually done in the search engine of the beginning of the web) because there would be no way for them to earn money. Every other search engine did it. So why can't google do it? They had never accepted it: a simple white page with a search input was enough for them. It's really important to be creative and do what others are not doing or think is wrong doing so, to distinguish yourself from others. Not necessarily because others are wrong, but by doing differently, you provide new ways of doing things. If you're not creative, you're not hacking.
 
