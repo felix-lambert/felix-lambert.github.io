@@ -5,7 +5,6 @@ date: 2021-11-14 10:18:00
 tags: application
 ---
 
-- [Sad photographies](https://www.youtube.com/watch?v=TTwbbEhYQ5k&list=RDTTwbbEhYQ5k)
 - [Téléphone clapet](https://www.slate.fr/story/218880/generation-z-telephone-clapet)
 - [Ian Bogost](http://bogost.com/)
 
