@@ -5,7 +5,6 @@ date: 2021-11-14 10:18:00
 tags: application
 ---
 
-- [Téléphone clapet](https://www.slate.fr/story/218880/generation-z-telephone-clapet)
 - [Ian Bogost](http://bogost.com/)
 
 Maybe in our culture nostalgia is a real problem for building the future. We tend to idealize the 80s or the 90s for example and have some kind of romantic fascination with the past. And probably, in the future we'll idealize today. Maybe this is a symptom showing how much we have trouble appreciating the present. But we have everything today: we can easily connect with each other and have conversations with anybody, available to listen. We can access all the cultures of the world for free to build ourselves as individuals. We basically have all the necessary tools for building new projects. So why coming back to the past? Why do we sometimes have this feeling of nostalgia?
