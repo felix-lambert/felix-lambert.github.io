@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How does react-native works?
-date: 2019-10-15 10:18:00
+date: 2022-03-06 10:18:00
 tags: technology
 ---
 
@@ -59,13 +59,6 @@ React-native uses flexbox to style and position the elements in the screen. But 
 The shadow thread is like a mathematical engine which finally decides on how to compute the view positions in a tree of nodes, like the html.
 
 <span style="display:block;text-align:center"> <img src="{{site.baseurl}}/assets/img/native.png" alt="drawing" width="900"/></span>
-
-Let's look at this code as an example:
-
-```jsx 
-let d const App = props = { return ( <View> <Text>Hello there</Text> </View> ) }
-
-```
 
 If the JS thread wants a view and text to be created it will batch the request into a single message and send it across to the shadow thread to interpret the positions for the native thread. Then the message will be rendered to the Native thread to render the the UI.
 
