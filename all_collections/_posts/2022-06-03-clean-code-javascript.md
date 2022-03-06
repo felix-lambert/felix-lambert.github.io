@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean code javascript
-date: 2019-11-07 10:18:00
+date: 2022-06-03 10:18:00
 tags: technology
 ---
 
@@ -526,4 +526,3 @@ class User extends Component {
 }
 ```
 
-### Name your event handlers with handle prefixes, such as `handleClick()` or `handleUpdate()`.
