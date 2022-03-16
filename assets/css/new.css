@@ -2,12 +2,12 @@ html {
   --bg: #fff;
   --bg-secondary: #fcfcfc;
   --headings: #07f;
-  --text: #333;
+  --text: #888;
 }
 
 html[data-theme="dark"] {
   --bg: rgb(16, 20, 23);
-  --bg-secondary: #444;
+  --bg-secondary: #888;
   --headings: #39f;
   --text: #bbb;
 }
