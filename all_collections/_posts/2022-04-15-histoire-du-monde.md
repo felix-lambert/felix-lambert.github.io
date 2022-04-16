@@ -9,7 +9,7 @@ tags: histoire
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bigbang.png)</span>
 
-Des mesures détaillées du taux d'expansion de l'univers placent la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une explosion incroyablement grande à partir d'une particule incroyablement petite (beaucoup plus petite d'un atome). Il représente le point de l'histoire où l'on peut vérifier que l'univers est entré dans un régime où les lois de la physique telles que nous les comprenons (en particulier la relativité générale et la mécanique quantique) fonctionnent.
+Des mesures détaillées du taux d'expansion de l'univers placent la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une explosion incroyablement grande à partir d'une particule incroyablement petite (beaucoup plus petite qu'un atome). Il représente le point de l'histoire où l'on peut vérifier que l'univers est entré dans un régime où les lois de la physique telles que nous les comprenons (en particulier la relativité générale et la mécanique quantique) fonctionnent.
 
 La relativité permet de décrire les objets infiniment grands et démontre une déformation de l'espace-temps grâce à la gravitation tandis que la mécanique quantique s’en tient à l’infiniment petit et démontre l'impossibilité de connaître la vitesse et la position d'une particule quantique. 
 
