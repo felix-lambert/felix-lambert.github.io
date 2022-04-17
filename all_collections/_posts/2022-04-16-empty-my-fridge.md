@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Le projet qui me tient à coeur > EmptyMyFridge
-date: 2022-02-19 10:18:00
+date: 2022-04-16 10:18:00
 tags: application
 ---
 
 - [EmptyMyFridge](https://www.emptymyfridge.com)
 - [Android](https://play.google.com/store/apps/details?id=com.emptymyfridge)
 - [iOS](https://apps.apple.com/app/id1550812530)
+- [web](https://app.emptymyfridge.com/)
 - [The Ethics of Ordinary Technology](http://michel.puech.free.fr/pages/0eot.html)
 - [http://michel.puech.free.fr/](http://michel.puech.free.fr/)
 - [The Filter Bubble](https://www.amazon.fr/dp/B004Y4WMH2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -15,6 +16,7 @@ tags: application
 - [Is it appropriate to use surplus food to feed people in-hunger](https://foodresearch.org.uk/publications/is-it-appropriate-to-use-surplus-food-to-feed-people-in-hunger/)
 - [Save food from the fridge Jihyun Ryou](https://www.youtube.com/watch?v=-NByNOOaCzI)
 - [Technologies to reduce food waste at consumer level](https://unepdtu.org/wp-content/uploads/2021/11/reducing-consumer-food-waste-using-green-and-digital-technologies.pdf)
+- [Faim dans le monde](https://www.oxfamfrance.org/agriculture-et-securite-alimentaire/faim-dans-le-monde-causes-consequences-solutions/)
 
 L'humain a besoin de changer et d'agir afin de résoudre les problèmes liés à l'anthropocène mais on n'y arrive pas. Les scientifiques nous alertent des dangers de l'accélération de la perte de biodiversité. On en est conscient, on sait quoi faire et comment faire, mais on ne fait rien. Il y a une certaine forme d'inertie à l'action.
 
@@ -24,7 +26,7 @@ Commençons donc par essayer de changer dans un domaine essentiel pour notamment
 
 Pour changer, on peut s'aider des technologies pour nous auto-discipliner. Mais il faut déjà commencer par remettre en cause les idées reçues d'aujourd'hui.
 
-Le smartphone et ses applications, même s'il a été créé par une grande multinationale, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. Est-ce que c'est parce que l'humain est stupide? Je ne pense pas. L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles offrent aujourd’hui les outils pour l’autonomie par le jeu (le nom du service android de la distribution d'app s'appelle le Play Store).
+Le smartphone et ses applications, même s'il a été créé par une grande multinationale en 2007, est en fait un outil génial, proprement révolutionnaire et qui a incroyablement bien marché. L'internet, le téléphone portable à clapet par exemple a fait évoluer la civilisation humaine mais peut-être que le smartphone est l'aboutissement de la mise en exécution de cette évolution, car les applications mobiles offrent aujourd’hui les outils pour l’autonomie par le jeu (le nom du service android de la distribution d'app s'appelle le Play Store). C'est la raison pour laquelle l'humain attache aujourd'hui une énorme importance au smartphone, lequel est toujours présent, à côté de nous (physiquement, dans l'espace, mais aussi psychologiquement). 
 
 On rentre aujourd'hui dans une nouvelle phase dans le développement des applications mobiles. Les premières phases sont les suivantes:
 
@@ -34,13 +36,9 @@ On rentre aujourd'hui dans une nouvelle phase dans le développement des applica
 
 3 On arrive aujourd’hui dans une phase où l'on développe des applications de plus en plus ludiques qui accompagnent les utilisateurs pour les aider au quotidien: une application française comme TooGoodToGo par exemple aide les commerçants à lutter contre le gaspillage alimentaire, tout en gagnant de l'argent. Cette entreprise se développe très vite en Europe et aux Etats-Unis.
 
-Mais souvent, on peut être tenté de réduire le smartphone à un simple outil pour nous abrutir. Pour captiver notre attention avec des contenus stupides. Il n'y a maintenant que des écrans partout!
+Il existe toutefois aujourd'hui une certaine défiance vis-à-vis des nouvelles technologies et c'est peut-être d'autant plus vrai au sein des groupes sensibles aux problèmes de l'anthropocène. Le monde du numérique, à ses débuts, pouvait susciter de l'espoir. Mais 95% du temps, quand on décide de télécharger une application on est déçu. On est agacé d'avoir des pubs, avec un long formulaire à remplir (sinon on ne peut pas utiliser l'application) pour finalement tomber sur rien d'utile, sans parler des mails de spams qu'on sera obligé de filtrer ou des notifications promotionnelles qui ne sont pas décochées par défaut. Un paywall peut aussi nous tomber dessus au bout de quelques minutes. Il semble donc exister presque partout de la surveillance inutile, laquelle rentre de force dans nos intimités sans avoir rien demandé.
 
-Il existe aujourd'hui une certaine défiance vis-à-vis des nouvelles technologies et c'est peut-être d'autant plus vrai au sein des groupes sensibles aux problèmes de l'anthropocène. Le monde du numérique, à ses débuts, pouvait susciter de l'espoir. Mais 95% du temps, quand on décide de télécharger une application on est déçu. On est agacé d'avoir des pubs, avec un long formulaire à remplir (sinon on ne peut pas utiliser l'application) pour finalement tomber sur rien d'utile, sans parler des mails de spams qu'on sera obligé de filtrer ou des notifications promotionnelles qui ne sont pas décochées par défaut. Un paywall peut aussi nous tomber dessus au bout de quelques minutes.
-
-Dès qu'on se connecte à une application, on peut se créer un refuge grâce au virtuel qui nous protège de l'envahissement d'informations pessimistes et catastrophistes sur l'avenir. Le smartphone c'est quelque chose de très intime, qui procure de l'attachement. C'est la technologie qui est toujours présente, à côté de nous (physiquement, dans l'espace, mais aussi psychologiquement). Mais on peut aussi tomber sur de la surveillance inutile, laquelle rentre de force dans nos intimités sans avoir rien demandé.
-
-Comment explorer le monde avec confiance et sérénité ? Comment être motivé à agir dans ces conditions si on a cette impression inconsciente d'être dans un environnement envahi par des personnes qui ne semblent courir qu'après nos données ou notre argent? On perd du temps, de la concentration et on rentre plus facilement dans une phase de distraction, qui empêche d'avancer sur nos projets individuels ou collectifs.
+Cet environnement est pénible car on perd du temps, de la concentration et on rentre plus facilement dans une phase de distraction, qui empêche d'avancer sur nos projets individuels ou collectifs.
 
 Donc est-ce que toutes ces nouvelles applications ne sont-elles pas au fond des gadgets qui nous rendent simplement accros aux écrans, et qui nous prennent encore quelques minutes de notre temps, quelques mégaoctets de nos données, ou quelques euros de notre argent sous prétexte de faire de l'écologie ? Et pourquoi les créateurs d'applications sont aussi tentés par une forme de marketing paternaliste? Plusieurs hypothèses:
 
@@ -50,13 +48,13 @@ Donc est-ce que toutes ces nouvelles applications ne sont-elles pas au fond des 
 
 3 C'est l'architecture technique des applications mobiles qui imposent en soi une logique "top - down" du "serveur – client"
 
-Je pense que la vraie cause est humaine: il y a un peu du vrai pour 1 mais c'est peut-être lié à quelque chose de plus profond, qui est selon moi produite par 2. Les applications mobiles doivent en effet prospérer dans un environnement de jeu pacifique qui permet d'offrir aux utilisateurs les bonnes dispositions à agir. 
+Je pense qu'il y a un peu du vrai pour 1 mais c'est peut-être lié à quelque chose de plus profond, qui est selon moi produite par 2. Les applications mobiles doivent en effet prospérer dans un environnement de jeu pacifique qui permet d'offrir aux utilisateurs les bonnes dispositions à agir. 
 
 J'ai sorti dans les "stores" depuis presque un an une application qui aide à cuisiner facilement avec les ingrédients que l'on a déjà chez soi. Je répertorie les fruits et les légumes de saison et je mets en place un frigo virtuel avec un algorithme qui permet de sélectionner les 25 meilleures recettes en fonction des ingrédients de ce frigo. On peut aussi partager ce frigo virtuel avec n'importe qui pour synchroniser les recettes, les ingrédients, les meilleures recettes et la liste de course. Avantages: on se motive plus facilement pour cuisiner, et on préfère consommer ce qu'on a plutôt que d'aller au supermarché.
 
 Un frigo est un appareil très sophistiqué qui permet de conserver un peu plus longtemps une grande quantité d’aliments. Sans application, sans aide technologique, il est en fait difficile de trouver des repères, des règles amusantes, pour gérer son frigo. Il est difficile d’avoir l’expertise pour savoir quoi cuisiner, à quel moment, pour pas cher, et sans rien jeter. 
 
-Il est vrai qu'il est de temps en temps réconfortant de sortir un peu, ou de commander un bon plat préparé en ligne devant un bon film. Je le fais aussi. Mais si on perd complètement la maîtrise du frigo, si on n’agit pas, peu ou mal, sur le frigo, on perd de l’argent et ça se traduit par du gaspillage. Il y a donc quelque chose d’assez profond qui se manifeste lorsqu’on jette un pot de yaourt périmé au lieu de l’apprécier dans un bon tikka masala qui est probablement plus grave qu’une simple perte d’argent. C’est peut-être une forme de perte de repère ou de sens de la vie. 
+Il est vrai qu'il est de temps en temps réconfortant de sortir un peu, ou de commander un bon plat préparé en ligne devant un bon film. Je le fais aussi. Mais si on perd complètement la maîtrise du frigo, si on n’agit pas, peu ou mal, sur le frigo, on perd de l’argent et ça se traduit par du gaspillage. Il y a donc quelque chose d’assez profond qui se manifeste lorsqu’on jette un pot de yaourt périmé au lieu de l’apprécier dans un bon tikka masala qui est probablement plus grave qu’une simple perte d’argent.  
 
 Il existe des tonnes d’alternatives à ce que je propose, qui permet non seulement de ne pas gaspiller, mais aussi d'acquérir de l’autonomie en cuisinant par soi-même. Il est possible de consulter des sites de recettes, de faire des plats qu'on apprécie et qu'on connait déjà. Il est possible même d’avoir de la créativité, en mélangeant des ingrédients qu'on apprécie, sans forcément suivre une recette en particulier.
 

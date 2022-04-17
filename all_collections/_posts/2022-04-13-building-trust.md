@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building trust
-date: 2021-11-04 10:18:00
+date: 2022-04-13 10:18:00
 tags: application
 ---
 
@@ -15,4 +15,4 @@ The digital age gives us the possibility to share all our feelings and thoughts 
 
 The problem comes when in exchange a company like facebook uses this data so that they receive money from private companies that try to model us and manipulate us with publicity or by rigging an election. These actions are lowering the global level of trust in the society.
 
-Maybe we could focus more on trust than security. The idea is to first trust others and maybe, if there is a mistake, to see what we can learn from it, and be more careful by not completely neglecting security. Security could come after a mistake not before.
+Maybe we could focus more on trust than security. I propose to first trust others and maybe, if there is a mistake, to see what we can learn from it, and be more careful by not completely neglecting security. Security could come after a mistake not before.
