@@ -32,8 +32,6 @@ On rentre aujourd'hui dans une nouvelle phase dans le développement des applica
 
 Il existe toutefois aujourd'hui une certaine défiance vis-à-vis des nouvelles technologies et c'est peut-être d'autant plus vrai au sein des groupes sensibles aux problèmes de l'anthropocène. Le monde du numérique, à ses débuts, pouvait susciter de l'espoir. Mais 95% du temps, quand on décide de télécharger une application on est déçu. On est agacé d'avoir des pubs, de la surveillance inutile, avec un long formulaire à remplir (sinon on ne peut pas utiliser l'application) pour finalement tomber sur rien d'utile, sans parler des mails de spams qu'on sera obligé de filtrer ou des notifications promotionnelles qui ne sont pas décochées par défaut. Un paywall peut aussi nous tomber dessus au bout de quelques minutes.
 
-
-
 Cet environnement est pénible car on perd du temps, de la concentration et on rentre plus facilement dans une phase de distraction, qui empêche d'avancer sur nos projets individuels ou collectifs.
 
 Donc est-ce que toutes ces nouvelles applications ne sont-elles pas au fond des gadgets qui nous rendent simplement accros aux écrans, et qui nous prennent encore quelques minutes de notre temps, quelques mégaoctets de nos données, ou quelques euros de notre argent sous prétexte de faire de l'écologie ? Et pourquoi les créateurs d'applications sont aussi tentés par une forme de marketing paternaliste? Plusieurs hypothèses:
