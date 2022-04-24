@@ -17,7 +17,7 @@ SOURCE:
 - [https://eloquentjavascript.net/Eloquent_JavaScript.pdf](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 
 
-The end goal of code is to be understood by a machine and by another human being. This is like communication: like code, if you speak and no one understands you, you're only speaking to yourself and others cannot make any use of it. Whenever you start to write a variable, you just need to ask yourself if this will make the code more readable and predictable for the next developer. 
+The end goal of code is to be understood by a machine and by another human being: if you speak and no one understands you, you're only speaking to yourself and others cannot make any use of it. Whenever you start to write a variable, you just need to ask yourself if this will make the code more readable and predictable for the next developer. 
 
 Envisioning code as a story can be a useful metaphor for helping to create clean code. If the audience has difficulty reading your story, it will not be a pleasant experience for them. They will not be able to work with it, explain the nuances to others, or adapt it in the future.
 
