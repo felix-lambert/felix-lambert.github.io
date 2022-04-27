@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technophilia and technophobia
-date: 2022-04-23 10:18:00
+date: 2022-04-26 10:18:00
 tags: technologie
 ---
 
