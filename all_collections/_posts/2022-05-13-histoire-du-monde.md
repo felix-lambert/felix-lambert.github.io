@@ -49,7 +49,7 @@ Le diamètre de l'univers est environ 3 fois moins grand qu'actuellement.
 
 # -9 000 000 000 d'années
 
-La formation de nouvelles étoiles commencent à freiner.
+La formation de nouvelles étoiles commence à freiner.
 
 
 
