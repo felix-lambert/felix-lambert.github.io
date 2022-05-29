@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les potentiels d'un jeu vidéo
-date: 2021-03-28 10:18:00
+date: 2022-05-20 10:18:00
 tags: technologie
 ---
 
@@ -15,6 +15,7 @@ Source:
 - [Starcraft 2 et l'IA](https://www.discovermagazine.com/technology/how-ai-accidentally-learned-ecology-by-playing-starcraft)
 - [Aide](https://www.youtube.com/watch?v=9jiNWK9dUy8)
 - [PC building simulator](https://www.youtube.com/watch?v=sOVyMYyH3KA)
+- [Résoudre des problèmes](https://www.youtube.com/watch?v=cFzCMn_RHF4)
 
 Cotés négatifs:
 
