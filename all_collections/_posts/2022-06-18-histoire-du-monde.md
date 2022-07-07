@@ -87,12 +87,6 @@ Fin des plus grandes fusions des galaxies de notre Voie lactée. Cette dernière
  
 L'activité de la formation d'étoiles et des supernovas retombe. 
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/laniakea.png)</span>
-
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/groupelocal.png)</span>
-
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/voielactee.jpg)</span>
-
 L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'helium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. C'est le début de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage de gaz attire 99,9% de la matière dans ses environs, devient de plus en plus dense et de plus en plus chaud pour qu'à la fin, une fusion nucléaire marque la naissance de notre soleil. Ce processus a pris environ 100 000 années.
 
 Ce très jeune soleil est eutouré de gaz et de poussière. Ce sont un peu les débris de la formation de ce soleil. Les gaz les plus légers sont propulsés très loin dans notre système solaire, dans une zone très loin du soleil donc très froide. Cette basse température permet de former des corps riches en eau et en carbone. Ces corps riches d'eau et de carbone vont aussi s'assembler pour former des planètes géantes gazeuses. Jupiter, la plus grande planète de notre système solaire, est la première à se former. 
