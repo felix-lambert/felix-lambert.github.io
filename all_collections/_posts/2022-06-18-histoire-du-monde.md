@@ -155,8 +155,8 @@ Rodinia commence à se casser et se diviser.
 
 # -900 000 000 d'années
 
-# - 700 000 000 d'années
-
 Il y a 780 millions d'années le premier animal voit le jour: les éponges marines. Ce sont des animaux qui parviennent à survivre dans des conditions extrêmes à très basse ou très haute température. Ils n'ont besoin que de très peu d'oxygènes et ont une espérance de vie de plus de 40 000 ans. Ces animaux peuvent se reproduirent sexuellement. Mais il peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. 
 
 Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries). Ceci a permit aux bactéries qui produisent la photosynthèse à résister, à évoluer, et donc à libérer encore plus d'oxygènes dans les océans.
+
+# - 700 000 000 d'années
