@@ -107,7 +107,7 @@ Notre système solaire contient probablement quelques dizaines de planètes. Mai
 
 L'orbite d'une planète se nommant Théia l'amène tout droit sur la planète Terre et crée une collision énorme. Des milliards de débris orbitent la Terre et forment petit à petit la Lune. La Terre a survécu à l'événement cataclysmique, mais une bonne partie de l'eau de la Terre s'est probablement évaporée suite à l'impact.
 
-La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau puis en pluie torrentielle qui dure des millions d'années. Cette pluie a permit de créer les premiers océans, très acides, il y a 4,3 milliards d'années. La concentration en CO2 diminue et par extension continue à refroidir la Terre. Dès que la température devient suffisamment froide, une croute chocheuse se forme.
+La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau puis en pluie torrentielle qui dure des millions d'années. Cette pluie a permit de créer les premiers océans, avec beaucoup de CO2, très acides, il y a 4,3 milliards d'années. C'est un océan d'eau, fait de CO2. La concentration en CO2 diminue et par extension continue à refroidir la Terre. Dès que la température devient suffisamment froide, une croute chocheuse se forme.
 
 Parallèlement, grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette les astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.
 
@@ -207,11 +207,9 @@ Il y a 560 millions d'années la vie animale est toujours un exception. Elle est
 
 Ceci permet de créer une explosion d'animaux complexes qui arrivent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne.
 
-En plus des plantes placées au niveau des fonds des océans, les bactéries primitives, certaines cellules eukaryotes, se développent et pleins de petits animaux existent désormais dans les océans, comme des vers. Avec l'augmentation en oxygène, les animaux grandissent et développent des squelettes. Les 80 centimètres de l'Anomalocaris par exemple en font un véritable géant des mers cambriennes.
+En plus des plantes placées au niveau des fonds des océans, les bactéries primitives, certaines cellules eukaryotes, se développent et pleins de petits animaux existent désormais dans les océans, comme des vers. Avec l'augmentation en oxygène, les animaux grandissent et développent des squelettes. Les 80 centimètres de l'Anomalocaris par exemple le premier présateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents. On trouve aussi les premiers animaux avec des squelettes externes afin d'éviter de se faire manger. 
 
 Il y a 540 millions d'années on a aussi la présence de corail dans les océans.
-
-On a les premiers prédateurs mais aussi les premiers animaux avec des squelettes externes afin d'éviter de se faire manger. Anomalocaris est le premier prédateur connu de l'histoire du vivant, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents. 
 
 # - 500 000 000 d'années
 

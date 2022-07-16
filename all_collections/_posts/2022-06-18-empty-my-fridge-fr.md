@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le projet qui me tient à coeur > EmptyMyFridge
-date: 2022-04-26 10:18:00
+date: 2022-06-18 10:18:00
 tags: application
 ---
 
@@ -52,6 +52,6 @@ Il est vrai qu'il est de temps en temps réconfortant de sortir un peu, ou de co
 
 Il existe des tonnes d’alternatives à ce que je propose, qui permet non seulement de ne pas gaspiller, mais aussi d'acquérir de l’autonomie en cuisinant par soi-même. Il est possible de consulter des sites de recettes, de faire des plats qu'on apprécie et qu'on connait déjà, d’avoir de la créativité, en mélangeant des ingrédients qu'on apprécie, sans forcément suivre une recette en particulier.
 
-Étant moi-même un passionné de cuisine, j’ai essayé toutes ces solutions. Mais notre mémoire est limitée même pour un bon chef. Si on a en revanche devant ses yeux un panorama des meilleures recettes en fonction de ce qu’on a chez soi, ça stimule notre réflexion, notre imagination, notre créativité et notre motivation par le jeu. C’est la première étape pour l’action.
+Étant moi-même un amateur de cuisine, j’ai essayé toutes ces solutions. Mais notre mémoire est limitée même pour un bon chef. Si on a en revanche devant ses yeux un panorama des meilleures recettes en fonction de ce qu’on a chez soi, ça stimule notre réflexion, notre imagination, notre créativité et notre motivation par le jeu. C’est la première étape pour l’action.
 
 Dans mon domaine de la tech, les ingénieurs peuvent quelquefois n’être que fascinés par ce qu’ils font, c’est-à-dire du code et finir par négliger l'utilisateur final. On a au fond un peu du mal à comprendre les utilisateurs, ce qu’ils recherchent lorsqu’ils décident de télécharger. Je souhaite déjà qu'on cherche à oublier la communication top-down avec un “no-reply” comme adresse d’un courrier électronique: si on construit l'application avec les utilisateurs, et en collaborant avec d'autres applications, on sort de la logique "serveur-client". Je souhaite construire cette application avec les utilisateurs afin qu’on puisse avancer ensemble pour créer des nouvelles fonctionnalités. 

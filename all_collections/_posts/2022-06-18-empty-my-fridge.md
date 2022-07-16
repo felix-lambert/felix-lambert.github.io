@@ -13,7 +13,6 @@ tags: application
 - [The Filter Bubble](https://www.amazon.fr/dp/B004Y4WMH2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Food waste: nudging](https://www.researchgate.net/publication/331207943_Consumer_Choice_and_Food_Waste_Can_Nudging_Help)
 - [Is it appropriate to use surplus food to feed people in-hunger](https://foodresearch.org.uk/publications/is-it-appropriate-to-use-surplus-food-to-feed-people-in-hunger/)
-- [Save food from the fridge Jihyun Ryou](https://www.youtube.com/watch?v=-NByNOOaCzI)
 - [Technologies to reduce food waste at consumer level](https://unepdtu.org/wp-content/uploads/2021/11/reducing-consumer-food-waste-using-green-and-digital-technologies.pdf)
 
 Humans need to change and act in order to solve the problems linked to the Anthropocene, but we cannot. Scientists are alerting us to the dangers of accelerating biodiversity loss. We are aware of it, we know what to do and how to do it, but we do nothing. There is a certain form of inertia to action.
