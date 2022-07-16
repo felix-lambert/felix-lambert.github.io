@@ -9,17 +9,17 @@ tags: histoire
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bigbang.png)</span>
 
-Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une explosion incroyablement grande à partir d'une particule beaucoup plus petite qu'un atome.
+Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
  
-L'univers est au début presque infiniment plus chaud que le centre de notre soleil et très compact, et depuis lors, il s'est étendu et refroidi. Les forces électromagnétiques, nucléaires faible, nucléaires forte et gravitationnelles se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
+L'univers est au début presque infiniment plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Les forces électromagnétiques, nucléaires faibles, nucléaires fortes et gravitationnelles se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
  
-Un cent millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires sont présentes dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes constitués domine de manière mystérieuse l’antimatière.
+Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes constitués domine de manière mystérieuse l’antimatière.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
-Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons. Après 3 minutes, la température descend très vite à un milliard de degrés. La force nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont électriquement neutres), et donc les premiers éléments chimiques apparaissent. Avec le neutron, le proton est l’une des particules qui composent le noyau atomique.
+Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons. Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont électriquement neutres), et donc les premiers éléments chimiques apparaissent. Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
 
 Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour). 
  
