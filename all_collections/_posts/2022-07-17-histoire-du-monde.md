@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-07-12 10:18:00
+date: 2022-07-17 10:18:00
 tags: histoire
 ---
 
@@ -15,7 +15,7 @@ L'univers est au début presque infiniment plus chaud que le centre de notre sol
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
  
-Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes constitués domine de manière mystérieuse l’antimatière.
+Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
@@ -23,15 +23,15 @@ Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer prot
 
 Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour). 
  
-A 20 minutes après le Big Bang nous avons principalement un univers avec 75% d'hydrogène et 25% d'hélium.
+À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.
  
-Ces continuelles interactions se sont poursuivies pendant 380 000 ans, jusqu’à ce que l’Univers ait été suffisamment refroidi par sa propre expansion. La température est alors descendue sous les 2 700 °C. 
+Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température a alors chuté à moins de 2 700 °C.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/helium.png)</span>
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative qui gravite autour et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans entrave, est connu sous le nom de fond diffus cosmologique. 
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative qui gravite autour et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique. 
 
-Après, nous sommes dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité. De temps en temps l'hydrogène et l'hélium se compressent tellement, qu'ils se chauffent de plus en plus, jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est à dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement ; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
+Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité. De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement ; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
 Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Ces atomes d’hydrogène et d’hélium n’ont pas réussi ce tour de force tout seuls. Il leur a fallu le concours de la mystérieuse matière sombre dont on ignore la nature mais qui constitue près de 85 % de la matière présente dans l’Univers.
  
