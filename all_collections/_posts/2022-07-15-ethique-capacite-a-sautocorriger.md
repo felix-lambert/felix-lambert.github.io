@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ethique et autocorrection
-date: 2022-07-12 10:18:00
+date: 2022-07-15 10:18:00
 tags: histoire
 ---
 
