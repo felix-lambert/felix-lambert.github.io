@@ -179,7 +179,23 @@ Il y a 830 millions d'années, une éruption volcanique énorme voit le jour au 
 
 Il y a 780 millions d'années le premier animal voit le jour: les éponges marines. Ce sont des animaux qui parviennent à survivre dans des conditions extrêmes à très basse (à -80 degrés) ou très haute température. Ils n'ont besoin que de très peu d'oxygènes et ont une espérance de vie de plus de 20 000 ans. Ces animaux peuvent se reproduirent sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries). 
 
-Il y a 740 millions d'années Rodinia se casse complètement. Les roches qui forment ce continent sont des roches volcaniques, le basalte. Elles sont donc à l'air libre et sont excellents pour absorber le CO2. Ceci à pour conséquent une planète qui se refroidit de plus en plus car les volcans ne parviennent pas à éjecter du CO2 plus vite que le basalte en absorbe.
+Il y a 740 millions d'années Rodinia se casse complètement. Les roches qui forment ce continent sont des roches volcaniques, le basalte, un des constituants principaux de la croûte océanique. Elles sont donc à l'air libre et sont excellents pour absorber le CO2. Ceci à pour conséquence une planète qui se refroidit de plus en plus car les volcans ne parviennent pas à éjecter du CO2 plus vite que le basalte en absorbe.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalte.jpg)</span>
+
+(Basalte)
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalteocean.jpg)</span>
+
+(Basalte vu au fond de l'océan)
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lavebasaltique.jpg)</span>
+
+(Coulée de lave basaltique refroidie)
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cathedralebasalte.JPG)</span>
+
+(la cathédrale Saint-Étienne d'Agde est construite en basalte)
 
 Il y a 710 millions d'années, il n'y a plus assez de dioxyde de carbone dans l'atmosphère pour capter la chaleur du soleil. La température plonge à -60 degrés. La Terre devient alors une boule de neige (Terre boule de neige) une deuxième fois. C'est la période glaciaire la plus froide et la plus longue de toute l'histoire de la planète.
 
@@ -189,9 +205,9 @@ Il y a 660 millions d'années, les volcans, à nouveau, permettent de libérer l
 
 Mais il y a 650 millions d'années, la Terre est de nouveau presque inhabitable. C'est une nouvelle époque de la Terre boule de neige (troisième fois). La mer a toujours très peu d'oxygène.
 
-Vers 630 millions d'années la dernière époque de la Terre boule de neige prend fin. Et petit à petit les éponges marines ont permit aux bactéries qui produisent la photosynthèse à résister, à évoluer, et donc à libérer plus d'oxygènes dans les océans. Les bactéries qui produisent la photosynthése ont évolué en plante qui permettent de libérer encore plus d'oxygènes: les algues.
+Vers 630 millions d'années la dernière époque de la Terre boule de neige prend fin. Et petit à petit les éponges marines ont permit aux bactéries qui produisent la photosynthèse à résister, à évoluer, et donc à libérer plus d'oxygènes dans les océans. Les bactéries qui produisent la photosynthèse ont évolué en plante qui permettent de libérer encore plus d'oxygènes: les algues.
 
-Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs  des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
+Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
 
 Parallèlement des activités volcaniques se déroulent de plus en plus sur les continents, ce qui a permit une augmentation en taux de CO2 et donc une augmentation de la température. Ceci signe la fin de l'époque de la Terre boule de neige.
 
@@ -201,13 +217,19 @@ Les plantes sont une évolution des cyanobactéries. Elles font le même travail
 
 Il y a 600 millions d'années, avec taux d'oxygène de 12% on a un début de couche d'ozone apparaître.
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/coucheozone.png)</span>
+
 # - 600 000 000 d'années
 
-Il y a 560 millions d'années la vie animale est toujours un exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans augmentent encore. 
+Il y a 560 millions d'années la vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans augmentent encore. 
 
 Ceci permet de créer une explosion d'animaux complexes qui arrivent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne.
 
-En plus des plantes placées au niveau des fonds des océans, les bactéries primitives, certaines cellules eukaryotes, se développent et pleins de petits animaux existent désormais dans les océans, comme des vers. Avec l'augmentation en oxygène, les animaux grandissent et développent des squelettes. Les 80 centimètres de l'Anomalocaris par exemple le premier présateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents. On trouve aussi les premiers animaux avec des squelettes externes afin d'éviter de se faire manger. 
+En plus des plantes placées au niveau des fonds des océans, certaines cellules eukaryotes se développent et pleins de petits animaux existent désormais dans les océans, comme des vers. Avec l'augmentation en oxygène, les animaux grandissent et développent des squelettes. 
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/anomacolis.jpg)</span>
+
+Les 80 centimètres de l'Anomalocaris par exemple le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents. On trouve aussi les premiers animaux avec des squelettes externes afin d'éviter de se faire manger. 
 
 Il y a 540 millions d'années on a aussi la présence de corail dans les océans.
 
@@ -221,17 +243,15 @@ Il y a 400 millions d'années on peut constater la présence des premiers insect
 
 # - 400 000 000 d'années
 
-Il y a 300.9 millions d'années on a déjà les premiers arbres sur terre.
-
-Il y a 300.5 millions d'années on peut constater l'existence des premiers insectes volants, avec des ailes donc. Rien d'autre ne vole à cet époque.
+Il y a 300 millions d'années on a déjà les premiers arbres sur terre. On peut aussi constater l'existence des premiers insectes volants, avec des ailes donc. Rien d'autre ne vole à cet époque.
 
 # - 300 000 000 d'années
 
-Il y a 200.4 millions d'années les premières mouches voient le jour. C'est le premier insecte à avoir la capacité à polliniser. On constate aussi l'existence des premiers dinosaurs.
+Il y a 250 millions d'années on constate l'existence des premières plantes avec des fleurs. Les fleurs constituent les organes sexuels des plantes vivantes. Les plantes à fleurs primitives penvent se reproduire en prenant soit le rôle du mâle, soit celui de la femelle. 
+
+Il y a 200 millions d'années les premières mouches voient le jour. C'est le premier insecte à avoir la capacité à polliniser. On constate aussi l'existence des premiers dinosaurs.
 
 # - 200 000 000 d'années
-
-Il y a 130 millions d'années on constate l'existence des premières plantes avec des fleurs.
 
 Il y a 110. millions d'années on trouve aussi les premiers serpents.
 
