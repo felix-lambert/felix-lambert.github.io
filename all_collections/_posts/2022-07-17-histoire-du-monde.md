@@ -198,27 +198,25 @@ Dans le même temps, les activités volcaniques se déroulent de plus en plus su
 
 # - 600 000 000 d'années
 
-Il y a 560 millions d'années la vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans augmentent encore. 
+La vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans est en constante augmentation. 
 
-Ceci permet de créer une explosion d'animaux complexes il y a 541 millions d'années qui arrivent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eukaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques). Il n'existe pas encore vraiment d'animaux prédateurs.
+Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques). Il n'existe pas encore vraiment d'animaux prédateurs.
 
-Il y a 420 millions d'années, avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux. Les trilobites apparaissent à cette époque. C'est un animal avec des yeux, un système digestif sophistiqué, des jambes, et couvert d'un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et a dominé les mers cambriennes en se nourissant principalement de vers.
+Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux. Les trilobites apparaissent à cette époque. Ce sont des animaux avec des yeux, un système digestif sophistiqué, des jambes, et couvert d'un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et ont dominé les mers cambriennes en se nourissant principalement de vers.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/anomacolis.jpg)</span>
 
-Les 80 centimètres de l'Anomalocaris par exemple le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante est tout en haut de la chaîne alimentaire de la période cambrienne. 
+L'Anomalocaris par exemple le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne. 
 
 # - 500 000 000 d'années
 
-Il y a 488 millions d'années l'explosion cambrienne s'arrête et subit une extinction de masse mystérieuse. Il est probable que la cause de cette extinction est une baisse nette du niveau de l'oxygène.
-
-Il y a 480 millions d'années les îles et continents sans plantes, ni animaux, sont en mouvement constant et créent de nouveaux habitats, de nouvelles niches. Ceci permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400. On croise à cette époque le premier poisson, l'ancètre des vertébrés: Ostracoderme. Ce dernier mesure rarement plus de trente centimètres et est probablement un animal lent vivant dans le fond océanique. 
+L'explosion cambrienne prend fin et subit une mystérieuse extinction massive. Il est vraisemblable que la cause de cette extinction est une diminution nette des niveaux d'oxygène. Les îles et les continents, toujours sans plantes ni animaux, se déplacent constamment et créent de nouveaux habitats, de nouvelles niches. Cela permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400. On croise à cette époque le premier poisson, l'ancêtre des vertébrés: Ostracoderme. Ce dernier mesure rarement plus de trente centimètres et est probablement un animal lent vivant dans le fond océanique.
 
 Il y a donc trois grands types d'animaux qui peuplent les mers: les mollusques (un peu comme des petits animaux avec une coquille), les anthropodes (un peu comme des insectes), et les vertébrés (les premiers poissons).
 
-Il y a 460 millions d'années les plantes se diversifient et vivent sur les rochers à côté des mers. Ces premières plantes sont non-vasculaires, c'est-à-dire qu'elles n'ont, comme les algues, ni racine, ni tige, ni feuille. Elles ne peuvent vivre ailleurs qu'à côté d'une source d'eau.
+Les plantes se diversifient et habitent sur les rochers au bord de la mer. Ces premières plantes sont non-vasculaires, c'est-à-dire qu'elles n'ont, comme les algues, ni racine, ni tige, ni feuille. Elles ne peuvent vivre ailleurs qu'à côté d'une source d'eau.
 
-Le niveau d'oxygène est proche du niveau d'aujourd'hui. L'oxygène, avec le mélange des radiations du soleil, permet de mieux étendre la couche d'ozone, ce qui permet de donner les conditions de possibilité à la vie sur les continents. Sans couche d'ozone, une vie complexe sur les continents aurait été beaucoup plus compliqué.
+Le niveau d'oxygène est proche du niveau d'aujourd'hui. L'oxygène, avec le mélange de rayonnement solaire, permet de mieux étendre la couche d'ozone, ce qui permet de donner les conditions possibles à la vie sur les continents. Sans couche d'ozone, une vie complexe sur les continents aurait été beaucoup plus compliquée.
 
 Cette colonisation des terres par les plantes a aspiré beaucoup de carbone, ce qui a causé une baisse de la température. On arrive à un nouvel âge de glace de 2 millions d'années il y a 444 millions d'années. Ce n'est certes pas la même température qu'à l'époque de la Terre boule de neige mais ce froid a quand même causé une des plus grandes extinctions de masse que la Terre a connu avec la disparition de 86% des espèces marines. Le niveau de l'oxygène retombe et les océans sont dorénavant peuplés que de cyanobactéries.
 
