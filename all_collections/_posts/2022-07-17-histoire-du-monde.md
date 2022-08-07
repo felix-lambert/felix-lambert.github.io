@@ -220,8 +220,6 @@ Les plantes sont une évolution des cyanobactéries. Elles font le même travail
 
 Il y a 600 millions d'années, avec taux d'oxygène de 12% on a un début de couche d'ozone apparaître.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/coucheozone.png)</span>
-
 # - 600 000 000 d'années
 
 Il y a 560 millions d'années la vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans augmentent encore. 
@@ -254,9 +252,9 @@ Il y a 443 millions d'années, avec une augmentation de la température, les pla
 
 Il y a 425 millions d'années les plantes commencent à développer des tissus vasculaires, ce qui permet de pomper de l'eau du bas au sommet des plantes et libérer du sucre (Cooksonia est une des premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes peuvent pousser et donc s'agrandir. Ces plantes n'avaient pas encore de feuille mais peuvent quand même utiliser la photosynthèse. Ce type de tissu vasculaire est l'ancètre du bois, qui accomplit à peu prêt la même tâche. Ces tissus permettent donc, grâce à ce mécanisme, aux plantes de s'agrandir et d'accéder à plus d'énergies du soleil. On comprend que les plantes ont besoin de trois choses pour prospérer: 
 
-1. de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)
-2. de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)
-3. du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner la photosynthèse).
+- de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)
+-  de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)
+- du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner la photosynthèse).
 
 Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante hydraté le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones océaniques.
 
