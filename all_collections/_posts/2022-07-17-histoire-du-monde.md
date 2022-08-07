@@ -37,11 +37,11 @@ Cette fusion permet de donner naissance aux premières étoiles de l’Univers. 
  
 Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives étaient assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil). Ces étoiles de la population III sont essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche que l’Univers primitif, à savoir transmuter l’hydrogène en hélium. Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène, du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer). 
  
-Vers 13, 5 milliards d'années, les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir grâce à la gravité dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi à cette époques des étoiles de la population II qui ont été formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium. 
+Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir grâce à la gravité dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi à cette époques des étoiles de la population II qui ont été formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium. 
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
  
-Il y a environ 13, 1 milliard d'années, certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome d'eau. Il y a environ 13 milliards d'années, on peut ainsi observer dans notre univers la présence d'eau sous forme de glace en raison d'un univers froid.
+Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome d'eau. On peut ainsi observer dans notre univers la présence d'eau sous forme de glace en raison d'un univers froid.
 
 Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donnent les physiognomies des galaxies. On peut sans doute affirmer que s'il n'y avait pas de trous noirs, il n'y aurait pas de galaxies.
  
@@ -49,9 +49,9 @@ Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui p
  
 Le centre, le noyau de la voie lactée se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
  
-Vers -12, 7 milliards d'années les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.
+Les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.
  
-Même si notre système solaire n'a pas encore été formé, la situation de l'univers il y a environ 12 milliards d'années ressemble à l'univers actuel, avec une concentration d'étoiles, de galaxies, et de groupes de galaxies, qui, de temps en temps, se fusionnent entre eux. La lumière dans l'univers devient plus vive et l'univers poursuit son expansion.
+Même si notre système solaire n'a pas encore été formé, la situation de l'univers ressemble à l'univers actuel, avec une concentration d'étoiles, de galaxies, et de groupes de galaxies, qui, de temps en temps, se fusionnent entre eux. La lumière dans l'univers devient plus vive et l'univers poursuit son expansion.
  
 # -11 000 000 000 d'années
  
@@ -63,7 +63,7 @@ La Voie lactée est semblable aux galaxies satellitaires naines que nous connais
  
 # -10 000 000 000 d'années
  
-Le diamètre de l'univers est environ trois fois inférieur à ce qu'il est maintenant et il a déjà formé la plupart de ses étoiles. La moitié des galaxies les plus massives présentes il y a environ 10 milliards d'années ont déjà cessé définitivement de former des étoiles. En revanche, la formation de la galaxie voisine de notre Voie lactée, la galaxie d'Andromède commence. Cette dernière est l'une des rares galaxies qui peut être observée à l'oeil nu à partir de la Terre.
+Le diamètre de l'univers est environ trois fois inférieur à ce qu'il est maintenant et il a déjà formé la plupart de ses étoiles. La moitié des galaxies les plus massives présentes ont déjà cessé définitivement de former des étoiles. En revanche, la formation de la galaxie voisine de notre Voie lactée, la galaxie d'Andromède commence. Cette dernière est l'une des rares galaxies qui peut être observée à l'oeil nu à partir de la Terre.
  
 La Voie lactée a aussi fusionné avec Gaïa-Encelade: une galaxie naine. Au moment de cette fusion, la Voie lactée a déjà formé de nombreuses étoiles. Mais la Voie lactée est elle-même beaucoup plus petite qu'aujourd'hui (peut-être d'un facteur 40 %), ce qui fait de cette fusion la deuxième plus grande fusion de l'histoire de notre galaxie. Beaucoup de ces étoiles natives se sont retrouvées dans le disque épais au milieu de la galaxie tandis que celles capturées à partir de Gaia-Encelade se trouvent dans la partie extérieure de la galaxie.  
 
@@ -93,11 +93,11 @@ L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 
 
 Ce très jeune soleil est eutouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps riches en eau et en carbone se réuniront aussi pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
 
-Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone.). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.
+Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.
 
 Dans la zone chaude de notre système solaire, les éléments lourds, plus proches du soleil, se mettent à former de plus en plus de corps rocheux. La gravité permet à ces roches de s'assembler ensemble pour finalement former des planètes. Ces types de planètes, qui se forment par la roche, sont appelés des planètes rocheuses ou telluriques. Ce sont Mercure, Vénus, la Terre, et Mars. 
 
-La Terre, il y a 4.54 milliards d'années, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui, à long terme, formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Et les éléments légers vont être à la surface de la planète. Le centre de la planète va ensuite libérer certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
+La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui, à long terme, formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Et les éléments légers vont être à la surface de la planète. Le centre de la planète va ensuite libérer certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
 
 Notre système solaire renferme sans doute plusieurs dizaines de planètes. Mais il n'y a pas suffisamment d'espace pour tous ces astres - leurs trajectoires orbitales sont tout sauf stables et il y a de nombreuses collisions. Ils exercent des forces gravitationnelles d'attraction les uns sur les autres, certaines planètes ont été brulées par le Soleil, d'autres ont été projetées hors du système solaire lors de quasi-collisions et errent maintenant, seuls et sans étoile, dans l'espace. Il n'est donc pas étonnant que tant de planètes errent dans l'espace sans tourner autour d'une étoile.
 
@@ -110,7 +110,7 @@ Parallèlement, grâce à la gravité, Jupiter, à ses débuts, se rapproche du 
 
 Saturne a fini de se former et se rapproche à son tour du soleil. Mais après un certain temps, le flux de gaz autour de Saturne et Jupiter disparait. En son absence, la force qui entraîne ces deux planètes en direction du Soleil s'affaiblit. Ces planètes reviennent donc vers l'extérieur du système solaire et entrent de nouveau en collision avec des astéroïdes riches en eau et en carbone.
 
-Il y a 4.1 milliards d'années certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Sans ce bombardement, la Terre aurait été complètement sèche, car ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.
+Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Sans ce bombardement, la Terre aurait été complètement sèche, car ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.
 
 Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à petit pour en libérer les éléments et créer mystérieusement de la vie au fond des océans.
 
@@ -122,48 +122,39 @@ Les premières formes de vie sont des organismes microscopiques (microbes). Ces 
 
 La mer regorge à présent de ces organismes microscopiques. Durant des millions d'années ces cellules se sont petit à petit rapprochées de la surface. La vie s'est répandue de l'obscurité permanente des profondeurs des océans aux eaux de surface ensoleillées.
 
-Il y a 3,5 milliards d'années, les êtres vivants commencent à se rassembler pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés
-cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
+Les êtres vivants commencent à se rassembler pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
 
 Ces bactéries (procaryotes donc) (cyanobactéries) permettent de transformer la lumière du soleil en nourriture. C'est ce qu'on appelle la photosynthèse. Ceci permet d'utiliser le rayonnement du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en glucose, une forme simple de sucre. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil existe. Cette transformation génère un déchet: l'oxygène. 
 
-Il y a 3.2 milliards d'années on trouve des traces de bactéries en dehors des océans, sur la terre. Il n'y a toujours pas d'oxygène. Les bactéries sont les premières entités vivantes à coloniser le monde à l'extérieur des océans.
+Les bactéries sont les premières entités vivantes à coloniser le monde sans oxygène à l'extérieur des océans.
 
 # -3 000 000 000 d'années
 
-Vers 2.9 milliards d'années l'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 %, et le plus ancien âge de glace, avec une température moyenne de 10 degrés, que la Terre commence. Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère il ya environ 2,8 milliards d'années. La lave libérée par les volcans commence à refroidir et à créer de petites îles volcaniques. La première ère glaciaire s'achève aux alentours de 2,7 milliards d'années après 120 millions d'années.
+L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 %, et le plus ancien âge de glace, avec une température moyenne de 10 degrés, que la Terre commence. Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère. La lave libérée par les volcans commence à refroidir et à créer de petites îles volcaniques. La première ère glaciaire s'achève aux alentours de 2,7 milliards d'années après 120 millions d'années.
 
-Les îles volcaniques vont s'unir et former un super continent nommé Kenorland, un continent de la taille de l'Australie. 
+Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
 
-Boosté par l'oxygène, certains organismes unicellulaires se rassemblent et collaborent pour survivre (on parle de relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Cette communauté finit par se transformer en un organisme unique. C'est le début de la vie multicellulaire et les premiers eukaryotes: des organismes dont les chromosomes sont protégés dans un noyau. La plupart des eukaryotes respirent en utilisant de l'oxygène.
+Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
 
-On comprend donc que toutes les choses vivantes sont faites de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules prokaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eukariotes ont un ADN gardé dans un noyau.
+On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau.
 
-Il y a 2.4 milliards d'années, les bactéries (cyanobactéries) qui ont la capacité à produire la photosynthèse continuent à se multiplier et libèrent de plus en plus d'oxygènes dans l'atmosphère. Cet oxygène éjecte le méthane, ce qui a pour conséquence de refroidir drastiquement la Terre et tuer encore une fois une bonne partie de la vie sur Terre. L'oxygène est donc responsable d'une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène) en transformant la Terre en grande boule de neige pendant 200 millions d'années avec une température moyenne de -27 degrés. L'oxygène à cette époque représente 1% de gaz dans l'atmosphère, ce qui est suffisant pour avoir tué presque toutes les formes de vie sur Terre. L'oxygène actuel est présent à 21% dans l'atmosphère.
+Les bactéries (cyanobactéries) qui ont la capacité de produire la photosynthèse continuent à se multiplier et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte du méthane, qui a pour effet de refroidir considérablement la Terre et de tuer une bonne partie de la vie sur Terre.L'oxygène est donc responsable d'une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène) en transformant la Terre en grande boule de neige pendant 200 millions d'années avec une température moyenne de -27 degrés. L'oxygène à ce moment-là représente 1% du gaz dans l'atmosphère, ce qui est suffisant pour avoir tué pratiquement toutes les formes de vie sur Terre. L'oxygène actuel est présent à 21% dans l'atmosphère.
 
-Ce gaz, l'oxygène, est en effet hautement toxique pour presque tous les organismes unicellulaires vivants de la planète. C'est une arme de destruction massive. Au dessus de la mer, l'oxygène empoisonne l'atmosphère. Presque toute la vie sur Terre est tuée par l'oxygène. Mais les micro-organisme unicellulaires qui ont survécu ont réussi à utiliser l'oxygène pour réorienter leur évolution.
+Ce gaz, l'oxygène, est très toxique pour la plupart des organismes unicellulaires vivants de la planète. C'est une arme de destruction massive. La vie est presque entièrement détruite par l'oxygène. Mais les microorganismes unicellulaires survivants ont réussi à se servir de l'oxygène pour rediriger leur évolution.
 
-Il y a 2.1 milliards d'années, les volcans arrivent à éjecter assez de gaz chaud de CO2 pour que le climat se réquilibre. Les organismes qui ont survécu peuvent évoluer très vite dans un monde à la fois chaud, oxygénisé à 1% et avec un tout nouveau gaz, l'ozone. Cette couche d'ozone permet de bloquer les rayons ultraviolets du soleil. On peut dire qu'il y a à cette époque une explosion de la vie multicellulaire.
+Les volcans réussissent finalement à éjecter suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes qui ont survécu peuvent évoluer très vite dans un monde à la fois chaud, oxygéné à 1 % et avec un tout nouveau gaz, l'ozone. Cette couche d'ozone permet de bloquer les rayons ultraviolets du soleil. 
 
 # -2 000 000 000 d'années
 
-Il y a 1.8 milliards d'années, un nouveau supercontinent se forme. On le nomme Nuna. Le reste est entouré d'eau avec des îles volcaniques. 
+Nuna, un nouveau supercontinent, se forme. Le reste se limite à de la mer des îles volcaniques. 
 
-La plupart de la vie qu'on trouve à cette époque est prokaryotique parce que l'oxygène est toujours plus rare qu'aujourd'hui.
+La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l'oxygène est toujours plus rare qu'aujourd'hui mais on constate certains types de cyanobactéries (les bactéries qui arrivent à faire la photosynthèse) à se transformer en cellules eucaryotes. Ces eucaryotes sont l'ancêtre de toutes les plantes et algues. Voilà pourquoi les plantes et les cyanobactéries possèdent le même mécanisme photosynthétique. 
 
-On constate ici certains types de cyanobactéries (les bactéries qui arrivent à faire la photosynthèse) à se transformer en cellules eukaryotes. Ces eukaryotes sont l'ancètres de toutes les plantes et algues. Et ceci explique pourquoi les plantes et les cyanobactéries possèdent le même mécanisme de photosynthèse. 
+Les algues sont les premières plantes à se développer dans les fonds marins, et 100 millions d'années plus tard, des champignons microscopiques sont présents en dehors de l'eau. Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. La copie par reproduction permet de maintenir la complexité d'une cellule. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
 
-On constate il y a 1.4 milliards d'années les premières plantes à se développer dans le fond des océans: les algues. Ces plantes sont les premiers organismes multicellulaires à coloniser les océans.
-
-Il y a 1.3 milliards d'années on peut constater la présence de champignons microscopiques en dehors de l'eau, sur terre.
-
-Il y a 1.2 milliards d'années certains organismes eukoryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. L'avantage de la reproduction est de pouvoir garder sa complexité. La copie via la reproduction permet de maintenir la complexité d'une cellule en quelque sorte alors que le clonage de cellules prokaryotiques est souvent imparfait. L'ADN (acide désoxyribonucléique) est une suite d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et offrent les protéines nécessaires pour accomplir ces instructions. Toute la vie sur Terre a un ADN, même les cellules prokariotes.
-
-Parallèlement, certains organismes capables de photosynthèse commence à coloniser les terres.
-
-Il y a presque 1 milliard d'années, le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensemble du Globe. Ces fissures se rapprochent et créent un nouveau supercontinent beaucoup plus grand: Rodinia. Sur ce continent, il n'y a bien évidemment aucune vie et la température est de plus de 85 degrés.
+Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensemble du Globe. Ces fissures se referment et créent un nouveau supercontinent bien plus vaste que Nuna: Rodinia. Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus de 85 degrés.
 
 # -1 000 000 000 d'années
 
@@ -171,50 +162,39 @@ Rodinia commence à se casser et se diviser.
 
 # -900 000 000 d'années
 
-Il y a 830 millions d'années, une éruption volcanique énorme voit le jour au niveau de l'arctique canadien. Les roches de ces volcans étaient remplis de soufre donc une énorme quantité de ce gaz est libéré dans l'atmosphère. On sait en effet que lorsqu'on pompe du souffre dans l'air, ça refroidit la Terre. Et ces éruptions étaient tellement énormes que cela a libéré une quantité énorme de souffre dans l'atmosphère. La quantité est tellement grande qu'une partie de cet élément chimique a rejoint la stratosphère (au dessus de tous les nuages) et donc ne s'est pas transformé en pluie acide. Avec une petite quantité de souffre dans l'atmosphère la Terre peut se refroidir un peu mais pas pour très longtemps car ce gaz se transforme en pluie acide. En revanche, si le souffre atteint la stratosphère, ce gaz peut radicalement modifié le climat de la planète.
+Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela a libéré une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique a atteint la stratosphère (au-dessus des nuages) et n'est donc pas devenue acide. Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
 
 # -800 000 000 d'années
 
-Il y a 780 millions d'années le premier animal voit le jour: les éponges marines. Ce sont des animaux qui parviennent à survivre dans des conditions extrêmes à très basse (à -80 degrés) ou très haute température. Ils n'ont besoin que de très peu d'oxygènes et ont une espérance de vie de plus de 20 000 ans. Ces animaux peuvent se reproduirent sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries). 
+Naissance du premier animal : les éponges de mer. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Ils nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries). 
 
-Il y a 740 millions d'années Rodinia se casse complètement. Les roches qui forment ce continent sont des roches volcaniques, le basalte, un des constituants principaux de la croûte océanique. Elles sont donc à l'air libre et sont excellents pour absorber le CO2. Ceci à pour conséquence une planète qui se refroidit de plus en plus car les volcans ne parviennent pas à éjecter du CO2 plus vite que le basalte en absorbe.
+Rodinia se casse complètement. Les roches qui composent ce continent sont des roches volcaniques, le basalte, l'un des principaux constituants de la croûte océanique. Elles sont donc à ciel ouvert et sont excellentes pour l'absorption du CO2. En conséquence, une planète se refroidit de plus en plus car les volcans ne sont pas en mesure d'éjecter le CO2 plus rapidement que le basalte ne l'absorbe.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalte.jpg)</span>
 
-(Basalte)
+<span style="display:block;text-align:center">(Basalte)</span>
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalteocean.jpg)</span>
 
-(Basalte vu au fond de l'océan)
+<span style="display:block;text-align:center">(Basalte vu au fond de l'océan)<span style="display:block;text-align:center">
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lavebasaltique.jpg)</span>
 
-(Coulée de lave basaltique refroidie)
+<span style="display:block;text-align:center">(Coulée de lave basaltique refroidie)</span>
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cathedralebasalte.JPG)</span>
 
-(la cathédrale Saint-Étienne d'Agde est construite en basalte)
+<span style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</span>
 
-Il y a 710 millions d'années, il n'y a plus assez de dioxyde de carbone dans l'atmosphère pour capter la chaleur du soleil. En effet, le méthane et le dioxyde de carbone sont deux des gaz présents dans le remplissage de
-la couverture isolante qui garde la Terre au chaud. Ils favorisent ce que nous appelons « l'effet de serre ». La température plonge à -60 degrés. La Terre devient alors une boule de neige (Terre boule de neige) une deuxième fois. C'est la période glaciaire la plus froide et la plus longue de toute l'histoire de la planète.
+L'atmosphère ne contient pas suffisamment de dioxyde de carbone pour capter la chaleur solaire. Le méthane et le dioxyde de carbone sont deux des gaz présents dans le revêtement isolant qui réchauffe la Terre. Ils favorisent ce que nous appelons « l'effet de serre ». La température plonge à -60 degrés. La Terre devient alors une boule de neige (Terre boule de neige). Il s'agit de l'âge de glace le plus froid et le plus long de l'histoire de la planète.
 
 # - 700 000 000 d'années
 
-Il y a 660 millions d'années, les volcans, à nouveau, permettent de libérer la Terre cette glace englobante en rejetant des milliards de tonnes de carbone.
+Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone. Mais un peu plus tard, la Terre est à nouveau pratiquement inhabitable. C'est une nouvelle époque de la Terre boule de neige. 
 
-Mais il y a 650 millions d'années, la Terre est de nouveau presque inhabitable. C'est une nouvelle époque de la Terre boule de neige (troisième fois). La mer a toujours très peu d'oxygène.
+Les éponges marines ont permis aux bactéries qui produisent la photosynthèse de résister, d'évoluer et, par conséquent, de libérer davantage d'oxygène dans les océans. Les bactéries qui produisent la photosynthèse ont évolué en plante qui libère encore plus d'oxygène: les algues. Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
 
-Vers 630 millions d'années la dernière époque de la Terre boule de neige prend fin. Et petit à petit les éponges marines ont permit aux bactéries qui produisent la photosynthèse à résister, à évoluer, et donc à libérer plus d'oxygènes dans les océans. Les bactéries qui produisent la photosynthèse ont évolué en plante qui permettent de libérer encore plus d'oxygènes: les algues. 
-
-Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
-
-Parallèlement des activités volcaniques se déroulent de plus en plus sur les continents, ce qui a permit une augmentation en taux de CO2 et donc une augmentation de la température. Ceci signe la fin de l'époque de la Terre boule de neige.
-
-Il y a 635 000 000 d'années des plantes autres que les algues voient le jour dans les profondeurs des océans. 
-
-Les plantes sont une évolution des cyanobactéries. Elles font le même travail de photosynthèse en transformant la lumière en nourriture et en libérant de la nourriture.
-
-Il y a 600 millions d'années, avec taux d'oxygène de 12% on a un début de couche d'ozone apparaître.
+Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui a permis d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes autres que les algues voient le jour dans les profondeurs des océans. 
 
 # - 600 000 000 d'années
 
