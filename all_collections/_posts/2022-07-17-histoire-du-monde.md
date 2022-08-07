@@ -133,9 +133,7 @@ Il y a 3.2 milliards d'années on trouve des traces de bactéries en dehors des 
 
 # -3 000 000 000 d'années
 
-Vers 2.9 milliards d'années l'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 %.
-
-Il y a le plus ancien âge de glace, avec une température moyenne de 10 degrés, que la Terre connaît. Ce froid empêche les cyanobactéries de produire de l'oxygène, donc le taux d'oxygène retombe à zéro dans l'atmosphère vers 2.8 milliards d'années. La lave émise par les volcans commencent à se refroidir et créer des petites îles volcaniques. Cette première glaciation se termine vers 2.7 milliards d'années après 120 millions d'années.
+Vers 2.9 milliards d'années l'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 %, et le plus ancien âge de glace, avec une température moyenne de 10 degrés, que la Terre commence. Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère il ya environ 2,8 milliards d'années. La lave libérée par les volcans commence à refroidir et à créer de petites îles volcaniques. La première ère glaciaire s'achève aux alentours de 2,7 milliards d'années après 120 millions d'années.
 
 Les îles volcaniques vont s'unir et former un super continent nommé Kenorland, un continent de la taille de l'Australie. 
 
