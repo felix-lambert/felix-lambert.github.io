@@ -138,7 +138,11 @@ Le taux d'impacts du grand bombardement tardif diminue. Après ce bombardement, 
 
 Les premières formes de vie sont des organismes microscopiques (microbes). Ces micro-organismes sont probablement formés par le carbone, ce qui rend très facile d'assembler d'autres molécules. Ainsi, grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
 
-La mer regorge à présent de ces organismes microscopiques. Durant des millions d'années ces cellules se sont petit à petit rapprochées de la surface. La vie s'est répandue de l'obscurité permanente des profondeurs des océans aux eaux de surface ensoleillées.
+La mer regorge à présent de ces organismes microscopiques. Durant des millions d'années ces cellules se sont petit à petit rapprochées de la surface.
+
+## -3 700 000 000 d'années
+
+La vie s'est répandue de l'obscurité permanente des profondeurs des océans aux eaux de surface ensoleillées.
 
 ## -3 500 000 000 d'années
 
@@ -200,11 +204,24 @@ Des champignons microscopiques sont présents en dehors de l'eau.
 
 ## -1 200 000 000 d'années
 
-Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. La copie par reproduction permet de maintenir la complexité d'une cellule. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
+Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. Les gènes des deux parents sont mélangés pour créer le plan d'un nouvel individu distinct, différent de l'un ou l'autre des parents. Nous appelons cet échange élégant de matériel génétique « sexe ».
+
+La copie par reproduction permet de maintenir la complexité d'une cellule. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
+
+Les cellules eukaryotes commencent donc à se diversifier, sous des formes reconnaissables comme
+les premiers parents unicellulaires des algues et des champignons
+
+Pour la première fois, ils se sont aventurés loin de la mer et ont colonisé des étangs d'eau douce et des ruisseaux à l'intérieur des terres.
 
 # -1 000 000 000 d'années
 
-Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensemble du Globe. Ces fissures se referment et créent un nouveau supercontinent bien plus vaste que Nuna: Rodinia. Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus de 85 degrés. Puis, Rodinia commence à se casser et se diviser.
+Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensemble du Globe. Ces fissures se referment et créent un nouveau supercontinent bien plus vaste que Nuna: Rodinia.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/Rodinia.jpg)</span>
+
+<span style="display:block;text-align:center">(Rodinia)</span>
+
+Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus de 85 degrés.
 
 # -900 000 000 d'années
 
@@ -212,15 +229,10 @@ Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensembl
 
 Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela a libéré une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique a atteint la stratosphère (au-dessus des nuages) et n'est donc pas devenue acide. Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
 
-# -800 000 000 d'années
+## -825 000 000 d'années
 
-## -780 000 000 d'années
-
-Naissance du premier animal : les éponges de mer. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Ils nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).
-
-## -740 000 000 d'années
-
-Rodinia se casse complètement. Les roches qui composent ce continent sont des roches volcaniques, le basalte, l'un des principaux constituants de la croûte océanique. Elles sont donc à ciel ouvert et sont excellentes pour l'absorption du CO2. En conséquence, une planète se refroidit de plus en plus car les volcans ne sont pas en mesure d'éjecter le CO2 plus rapidement que le basalte ne l'absorbe.
+L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années, laissant un anneau de continents autour de l'équateur. La rupture s'est accompagnée d'énormes éruptions volcaniques qui ont apporté de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée
+basalte.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalte.jpg)</span>
 
@@ -237,6 +249,22 @@ Rodinia se casse complètement. Les roches qui composent ce continent sont des r
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cathedralebasalte.JPG)</span>
 
 <span style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</span>
+
+# -800 000 000 d'années
+
+## -780 000 000 d'années
+
+Naissance du premier animal : les éponges de mer.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/eponges)</span>
+
+<span style="display:block;text-align:center">(Eponges de mer)</span>
+
+Bien que les larves d'éponges soient petites et mobiles, les éponges adultes restent au même endroit toute leur vie. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Ils nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).
+
+## -740 000 000 d'années
+
+Rodinia se casse complètement. Les roches qui composent ce continent sont des roches volcaniques, le basalte, l'un des principaux constituants de la croûte océanique. Elles sont donc à ciel ouvert et sont excellentes pour l'absorption du CO2. En conséquence, une planète se refroidit de plus en plus car les volcans ne sont pas en mesure d'éjecter le CO2 plus rapidement que le basalte ne l'absorbe.
 
 ## -710 000 000 d'années
 
@@ -268,11 +296,40 @@ La vie animale est toujours une exception. Elle est toujours très simple et pas
 
 Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques). Il n'existe pas encore vraiment d'animaux prédateurs.
 
-Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux. Les trilobites apparaissent à cette époque. Ce sont des animaux avec des yeux, un système digestif sophistiqué, des jambes, et couvert d'un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et ont dominé les mers cambriennes en se nourissant principalement de vers.
+Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux.
+
+## - 525 000 000 d'années
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/trilobite.jpg)</span>
+
+<span style="display:block;text-align:center">(Trilobite)</span>
+
+Les trilobites apparaissent. Ce sont des animaux avec des yeux, un système digestif sophistiqué, des jambes, et couvert d'un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et ont dominé les mers cambriennes en se nourissant principalement de vers.
+
+## - 505 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/anomacolis.jpg)</span>
 
-L'Anomalocaris par exemple le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne.
+<span style="display:block;text-align:center">(Anomacolis)</span>
+
+L'Anomalocaris le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne. Le corps long et étroit, recouvert d'un exosquelette, est doté d'une bouche avec des dents, de pattes flexibles, de 28 nageoires latérales réparties par paires et d'une longue queue en V constituée, assurant probablement à l'animal une propulsion rapide dans l'eau.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/metaspriggina.jpg)</span>
+
+<span style="display:block;text-align:center">(Le plus ancien poisson et un des premiers vertébrés: Metaspriggina)</span>
+
+Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lamprey.jpg)</span>
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/myxine.jpg)</span>
+
+<span style="display:block;text-align:center">(Les vertébrés les plus primitifs vivants aujourd'hui sont les lamproies et les myxine: ils n'ont, comme les premiers poissons, pas de mâchoires)</span>
+
+La caractéristique d'un vertébré est d'être en mouvement. Il n'existe pas vraiment de vertébré qui passe toute sa vie fixé au même endroit. Etant constamment à l'affût le vertébré a besoin de beaucoup d'oxygène, d'une baterrie de sens complète avec des yeux, un odorat raffiné; et un système élaboré de détection des courants d'eau. Ce système sensoriel nécessite un cerveau complexe et centralisé. Le cerveau des vertébrés dépasse la cerveau d'autres animaux très mobiles comme les crustacés.
+
+Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globalité de grands animaux. De nombreux invertébrés, en revanche, sont à peine visibles sans loupe ou microscope. Les insectes sont les
+les invertébrés les plus nombreux.
 
 # - 500 000 000 d'années
 
@@ -308,11 +365,21 @@ Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la 
 
 Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de transformer les rochers en terre fertile, afin que les plantes de la prochaine génération puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres des continents sont encore des déserts massifs.
 
-Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons sans machoires qui bougent. Mais plus tard on trouve des poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons ont élaboré une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons. On peut aussi rencontrer les premiers requins dans les océans, les placordermes. En fait, ils n'avaient pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes). Les placodermes ont été considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont l'homme.
+Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons sans machoires qui bougent. Mais plus tard on trouve des poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons ont élaboré une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/placoderme.jpg)</span>
+
+<span style="display:block;text-align:center">(Placoderme)</span>
+
+On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes). Les placodermes sont considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont l'homme.
 
 A la même époque on trouve les premières plantes avec des feuilles (Lycophyte est une des premières plantes avec des feuilles), c'est-à-dire que certaines plantes développent les capacités de photosynthèse à un autre niveau, par rapport aux plantes sans feuille. Les feuilles permettent de beaucoup mieux répartir l'eau qu'un simple tissu vasculaire à travers ses veines. Plus la circulation d'eau est aisée, plus la plante pousse vite.
 
 Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites (l'ancètre des insectes, qui rampe dans le fond des océans et mange principalement des vers et mollusques qui se cachent sous le sable).
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jaekelopterus.jpg)</span>
+
+<span style="display:block;text-align:center">(Jaekelopterus)</span>
 
 Mais il y a aussi les anthropodes et plus particulièrement les scorpions des mers de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains anthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
 
@@ -390,6 +457,12 @@ On a les premiers crocodiles.
 
 # - 80 000 000 d'années
 
+## -66 000 000 d'années
+
+L'impact d'un astéroïde met fin brutalement au monde des dinosaures.
+
+# -60 000 000 d'années
+
 On a les premiers primates.
 
 ## -55 000 000 d'années
@@ -397,5 +470,56 @@ On a les premiers primates.
 On a les premieres chauve-souris.
 
 # - 50 000 000 d'années
+
+# - 7 000 000 d'années
+
+Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement
+transforme lentement les singes en hominidé. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
+
+Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exemple, fabriquer des outils ou tenir des nourrissons, ne sont pas très convaincants, étant donné que de nombreux animaux gèrent les deux sans le changement en profondeur de la bipédie des hominidés.
+
+La marche humaine est l'une des grandes merveilles sous-estimées du monde moderne. Aujourd'hui, les scientifiques sont capables de connaître la structure des particules subatomiques, détecter le grondement et le grincement des trous noirs, et même scruter les tout débuts de l'univers. Pourtant, il n'existe pas de robot capable d'imiter la grâce naturelle et l'athlétisme d'un être humain ordinaire en marchant.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=tF4DML7FIWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=NrYMKJf2e0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas qu'il fait. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble à tel point que nous n'en sommes pas conscients.
+
+## - 3 500 000 d'années
+
+Certains des hominidés ont développé un goût pour la viande, généralement récupérée à partir de proies faites par d'autres animaux. Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie.
+
+Les hominidés qui mangent de la viande et de la graisse développent des dents plus petites et des muscles masticateurs plus petits. L'énergie qu'ils économisent est entré dans la croissance de cerveaux plus gros.
+
+# - 3 000 000 d'années
+
+# - 300 000 ans
+
+Alors que les premiers Néandertaliens s'adaptent au froid glacial de l'Europe – un nouvel hominidé, Homo Sapiens apparaît en Afrique. Il est certes rare, mais il est réparti sur tout le continent.
+
+# - 200 000 ans
+
+Certains Homo Sapiens arrivent en Europe.
+
+# - 180 000 ans
+
+Certains Homo Sapiens arrivent au Levant. Les humains modernes rencontrent les Néandertaliens au Levant et se reproduisent avec eux. En conséquence, tous les humains modernes avec les ancêtres qui ne sont pas exclusivement africains contiennent de l'ADN néandertalien.
+
+## -110 000 ans
+
+Homo Sapiens se répand à nouveau dans toute l'Afrique et sont là cette fois pour rester.
+
+# -100 000 ans
+
+## -45 000 ans
+
+Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, depuis la Bulgarie à l'est vers l'Espagne et l'Italie à l'ouest. Les Néandertaliens, dominants en Europe depuis un quart de million d'années, a repoussé toutes les incursions antérieures d'Homo sapiens. Cette fois, cependant, ils sont en déclins.
+
+# -40 000 ans
+
+# -10 000 ans
+
+On constate la disparition de pratiquement tous les animaux plus massif qu'un gros chien dans toute l'Eurasie, les Amériques et l'Australie. La cause ultime de cette extinction aurait pu être la propagation d'une humanité rapace. L'agriculture commence dans plusieurs parties du monde plus ou moins simultanément. Depuis lors, l'augmentation de la population humaine est spectaculaire.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
