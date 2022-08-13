@@ -256,7 +256,7 @@ basalte.
 
 Naissance du premier animal : les éponges de mer.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/eponges)</span>
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/eponges.jpg)</span>
 
 <span style="display:block;text-align:center">(Eponges de mer)</span>
 
