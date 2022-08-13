@@ -406,7 +406,9 @@ Cette capacité à occuper des milieux très diversifiés auraient facilité leu
 Ichthyostega, le premier tétrapode qui sort de l'eau et qui s'adapte à la fois à la nage et à une forme de locomotion terrestre, a trois adaptations majeures :
 
 1 des pattes antérieures capables de supporter son poids hors de l'eau
+
 2 des cotes allongées évitant l'écrasement des poumons par le poids du corps hors de l'eau
+
 3 une chaine d'os descendant jusqu'au milieu de la poitrine.
 
 Une telle structure renforce la cage thoracique de cette nouvelle espèce, très curieuse pour l'époque, lui permettant ainsi de soutenir une partie du poids de son corps au niveau de la poitrine pendant ses mouvements sur terre. Il se déplace à terre comme un phoque, c'est-à-dire en projetant en avant ses pattes antérieures et sa tête avant de traîner la partie arrière de son corps. Manifestement, l'arrière du corps, avec sa large queue capable d'onduler et ses membres postérieurs en forme de pagaie, a une vocation aquatique.
