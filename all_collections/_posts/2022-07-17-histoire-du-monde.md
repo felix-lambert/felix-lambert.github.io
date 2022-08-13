@@ -482,9 +482,9 @@ Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exem
 
 La marche humaine est l'une des grandes merveilles sous-estimées du monde moderne. Aujourd'hui, les scientifiques sont capables de connaître la structure des particules subatomiques, détecter le grondement et le grincement des trous noirs, et même scruter les tout débuts de l'univers. Pourtant, il n'existe pas de robot capable d'imiter la grâce naturelle et l'athlétisme d'un être humain ordinaire en marchant.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed?v=tF4DML7FIWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tF4DML7FIWk" frameborder="0" allowfullscreen></iframe></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed?v=NrYMKJf2e0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/NrYMKJf2e0A" frameborder="0" allowfullscreen></iframe></p>
 
 En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble à tel point que nous n'en sommes pas conscients.
 
