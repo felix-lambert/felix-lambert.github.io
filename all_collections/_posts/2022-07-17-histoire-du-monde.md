@@ -564,7 +564,7 @@ La marche humaine est l'une des grandes merveilles sous-estimées du monde moder
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tF4DML7FIWk" frameborder="0" allowfullscreen></iframe></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/NrYMKJf2e0A" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hLvfq51RkxM" frameborder="0" allowfullscreen></iframe></p>
 
 En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble à tel point que nous n'en sommes pas conscients.
 
