@@ -381,11 +381,11 @@ Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites
 
 <span style="display:block;text-align:center">(Jaekelopterus)</span>
 
-Mais il y a aussi les anthropodes et plus particulièrement les scorpions des mers de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains anthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
+Mais il y a aussi les anthropodes et plus particulièrement les scorpions des mers (de type anthropode, ancètre des scorpions sur terre) de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains anthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
 
 # - 400 000 000 d'années
 
-On peut constater la présence des premiers insectes. Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. Certains poissons commencent à développer des poumons car ils se retrouvent dans des milieux aquatiques pauvres en oxygène. Ce sont les ancètres des tétrapodes (les mammifères, les oiseaux, les reptiles, et les amphibiens font partie de la lignée des tétrapodes), les premiers animaux vertébrés avec un poumon. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres.
+On peut constater la présence des premiers insectes. Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. Certains poissons commencent à développer des poumons car ils se retrouvent dans des milieux aquatiques pauvres en oxygène. Ce sont les ancètres des tétrapodes (les mammifères, les oiseaux, les reptiles, et les amphibiens (grenouille par exemple) font partie de la lignée des tétrapodes), les premiers animaux vertébrés avec un poumon. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres.
 
 On constate aussi un groupe de poissons qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.
 
@@ -415,9 +415,13 @@ Une telle structure renforce la cage thoracique de cette nouvelle espèce, très
 
 Il est probable qu'Ichthyostega ne vienne que très partiellement à terre. D'une part, son corps est mal adapté à la vie terrestre, avec une mobilité à terre assez réduite et, d'autre part, sa taille pouvant atteindre 1,35 mètre doit rendre difficile de trouver de la nourriture sur terre.
 
+Ichthyostega est un prédateur qui chasse des proies terrestres et est un carnivore.
+
 ## -365 000 000 d'années
 
-Il y a une remontée du niveau d'oxygène, les forêts s'agrandissent et se multiplient sur les continents. Il y a principalement des insectes et des scorpions énormes aussi grand que les aigles qui existent sur les continents. C'est à une époque où le taux d'oxygène dans l'atmosphère est plus haut qu'actuellement.
+Il y a une remontée du niveau d'oxygène, les forêts s'agrandissent et se multiplient sur les continents. Il y a principalement des araignées et des scorpions énormes aussi grand que les aigles qui existent sur les continents. Des libellules géantes comme Meganeura par exemple dépassent tous les insectes actuels.
+
+L'espèce Meganeura est un des plus grands insectes qui aient jamais existé. Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.
 
 ## -360 000 000 d'années
 
@@ -425,11 +429,11 @@ On connait une nouvelle extinction massive (extinction du dévonien tardif) caus
 
 ## -340 000 000 d'années
 
-Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile).
+Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.
 
 ## -320 000 000 d'années
 
-Tous les continents fusionnent en un seul super-continent: Pangée. La formation du supercontinent Pangée a des conséquences importantes sur la vie : la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.
+Tous les continents fusionnent en un seul super-continent, Pangée, qui renferme en son sein une mer intéreure: thétis. La formation du supercontinent Pangée a des conséquences importantes sur la vie : la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.
 
 ## -305 000 000 d'années
 
@@ -439,11 +443,67 @@ Enfin, sur terre, l'éloignement des terres de la Pangée centrale (Amérique du
 
 Les continents sont occupés par des marres. On peut aussi constater l'existence des premiers insectes volants, avec des ailes donc, ainsi que des plantes géantes. Rien d'autre ne vole à cette époque.
 
+## - 290 000 000 d'années
+
+La plupart des forêts sont remplacées par du désert au coeur du continent de Pangée.
+
+## -252 000 000 d'années
+
+L'évolution progresse vite et les petits lézards deviennent des reptiles géants. Ces premiers types de reptiles géants connus sont assez proches des tortues mais ce ne sont pas des dinosaures.
+
+Mais une combinaison d'activités volcaniques, provoquant le réchauffement climatique et l'acidification des océans, est responsable d'une nouvelle extinction (l'extinction Permien-Trias). Cette extinction est marquée par la disparition de 95 % des espèces marines (requins, poissons et tous les trilobites) et de 70 % des vertébrés terrestres (mammifère et reptile), ce qui en fait la plus grande extinction massive ayant affecté la biosphère.
+
+La lave des volcans envahit les continents jusqu'au niveau de la taille des Etats-Unis, ce qui transforme l'air, avec de l'acide sulfurique, la couche d'ozone et le climat. La vie devient donc à nouveau très rare au sein des continents et les plus grands reptiles de cette époque disparaissent. La montée de la température fait baisser brutalement le taux d'oxygène dans les océans. Des bulles de gaz de méthane s'échappent de la mer et fait encore plus monter la température. Il fait alors plus de 105 degrés.
+
+Les 5% d'espèces terrestres qui ont réussi à survivre, s'enfouissent sous Terre, afin de fuir la chaleur. Mais le reste est mort.
+
+En conséquence, retrouver un niveau de biodiversité équivalent a pris beaucoup plus de temps que pour les autres extinctions massives.
+
 ## - 250 000 000 d'années
 
 On constate l'existence des premières plantes avec des fleurs. Les fleurs constituent les organes sexuels des plantes vivantes. Les plantes à fleurs primitives penvent se reproduire en prenant soit le rôle du mâle, soit celui de la femelle.
 
+## - 240 000 000 d'années
+
+Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent.
+
+## - 230 000 000 d'années
+
+Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au sommet, se tenait les Rauisuhiens, les ancètres des crocodiles. Ce sont des énormes prédateurs atteignant des tailles de plus de 7m de long.
+
+## - 218 000 000 d'années
+
+Le premier vrai mammifère, fidèle à notre lignée, apparaît. Il est petit et fait peut-être moins d'un kilo. On n'a pour le moment pas trouvé de fossiles de ce premier mammifère. Mais il a probablement les caractéristiques qui permet de dire que c'est un mammifère. Ces caractéristiques sont les suivantes:
+
+1 Il a des poils
+2 Il a une mâchoire
+3 Les femelles peuvent produire du lait
+
+## - 201 000 000 d'années
+
+La température se stabilise et la végétation revient.
+
+## - 205 000 000 d'années
+
+Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.
+
 # - 200 000 000 d'années
+
+Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux qui ont évolué des rares espèces qui ont survécu à la dernière énorme extinction.
+
+## -190 000 000 d'années
+
+Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui a commencé à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.
+
+Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui. En bref, la Terre est tout ce que nous redoutons aujourd'hui.
+
+Au sein de cette fissure, cette division des continents, un nouvel océan apparaît. C'est l'ancètre de l'océan atlantique. Cet océan regorge de poissons, mais, encore une fois, la vie marine commence à diminuer. Des poissons morts et du plancton envahissent les fonds marins. Durant, plusieurs millions d'années les rochers vont chauffer ces animaux morts pour les transformer en pétrole.
+
+Une bonne partie des produits que nous consommons aujourd'hui, sont produits et transformés à partir de ce pétrole.
+
+## -175 000 000 d'années
+
+Le continent, Pangée, commence à se fissurer et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle. On peut trouver les forêts de pins et des abeilles.
 
 Les premières mouches voient le jour. C'est le premier insecte à avoir la capacité à polliniser. On constate aussi l'existence des premiers dinosaures.
 
@@ -461,7 +521,15 @@ On a les premiers crocodiles.
 
 ## -66 000 000 d'années
 
-L'impact d'un astéroïde met fin brutalement au monde des dinosaures.
+L'impact d'un astéroïde met fin brutalement au monde des dinosaures. Cet astéroide fait presque 10 km de long et tombe dans l'océan crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel en presque en feu, chauffant la surface de la planète à plus de 500 degrés. La végétation est annihilée instantément. Même plusieurs mois après l'impact la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts et les animaux meurent de faim.
+
+Mais certains mammifères, qui ont eu l'intelligence de se cacher dans un environnement plus froid, sous terre, beaucoup plus petits que les dinosaures, parviennent à survivre. Ce sont les héritiers du règne des dinosaures. Ils n'ont plus besoin de craindre des prédateurs aussi impressionants que des dinosaures, et ont donc la possibilité d'évoluer très rapidement.
+
+A noter que certains lézards aussi parviennet à survivre et constituent par ailleurs aujourd'hui une des branches des espèces des vertébrés (notamment lézards et serpents) les plus répandus même aujourd'hui et donc pas du tout en voie d'extinction.
+
+Il n'y a aucune raison de penser qu'après l'humain décide par lui-même de causer sa propre extinction, même avec un cerveau très avancé, que les reptiles reprennent possession des continents et se développent aussi rapidement que les mammifères.
+
+On comprend aussi que les conditions de survie se situe souvent sous Terre, que ce soit en situation de conflit ou de menace climatique. A condition bien sûr qu'une montagne volcanique ne ressorte pas des surfaces, provoquée par des énergies des profondeurs terrestres.
 
 # -60 000 000 d'années
 
@@ -471,7 +539,19 @@ On a les premiers primates.
 
 On a les premieres chauve-souris.
 
+## -54 000 000 d'années
+
+On a les premieres chauve-souris.
+
 # - 50 000 000 d'années
+
+## -47 000 000 d'années
+
+Grâce aux mouvements des plaques tectoniques les himalayas et le mont le plus haut sur Terre se forment.
+
+Les montagnes sont comme des énormes tours d'eau. Ils fournissent des rivières qui permettent à la population humaine de boire.
+
+# -20 000 000 d'années
 
 # - 7 000 000 d'années
 
@@ -488,6 +568,10 @@ La marche humaine est l'une des grandes merveilles sous-estimées du monde moder
 
 En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble à tel point que nous n'en sommes pas conscients.
 
+# - 4 000 000 d'années
+
+Le climat de la planète se modifie et transforme les forêts de l'Afrique en savane. Ce nouveau climat, plus chaud, change l'habitat, forçant les premiers primates à marcher plus loin pour de la nourriture et se tiennent de plus en plus droit.
+
 ## - 3 500 000 d'années
 
 Certains des hominidés ont développé un goût pour la viande, généralement récupérée à partir de proies faites par d'autres animaux. Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie.
@@ -495,6 +579,16 @@ Certains des hominidés ont développé un goût pour la viande, généralement 
 Les hominidés qui mangent de la viande et de la graisse développent des dents plus petites et des muscles masticateurs plus petits. L'énergie qu'ils économisent est entré dans la croissance de cerveaux plus gros.
 
 # - 3 000 000 d'années
+
+# - 1 000 000 d'années
+
+Homo Erectus commence à coloniser l'Eurasie.
+
+## - 790 000 ans
+
+Homo Erectus sait utiliser le feu.
+
+# - 700 000 ans
 
 # - 300 000 ans
 
@@ -513,6 +607,10 @@ Certains Homo Sapiens arrivent au Levant. Les humains modernes rencontrent les N
 Homo Sapiens se répand à nouveau dans toute l'Afrique et sont là cette fois pour rester.
 
 # -100 000 ans
+
+## -70 000 ans
+
+Le niveau des mers tombe et permet facilement à Homo Sapiens de sortir de l'Afrique.
 
 ## -45 000 ans
 
