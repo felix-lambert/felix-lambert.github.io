@@ -33,7 +33,7 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative qui gravite autour et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
 
-Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité. De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement ; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
+Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité. De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement ; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
 Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Ces atomes d’hydrogène et d’hélium n’ont pas réussi ce tour de force tout seuls. Il leur a fallu le concours de la mystérieuse matière sombre dont on ignore la nature mais qui constitue près de 85 % de la matière présente dans l’Univers.
 
@@ -421,7 +421,11 @@ Ichthyostega est un prédateur qui chasse des proies terrestres et est un carniv
 
 Il y a une remontée du niveau d'oxygène, les forêts s'agrandissent et se multiplient sur les continents. Il y a principalement des araignées et des scorpions énormes aussi grand que les aigles qui existent sur les continents. Des libellules géantes comme Meganeura par exemple dépassent tous les insectes actuels.
 
-L'espèce Meganeura est un des plus grands insectes qui aient jamais existé. Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/meganeura.jpg)</span>
+
+<span style="display:block;text-align:center">(Meganeura)</span>
+
+L'espèce Meganeura est un des plus grands insectes qui aient jamais existé, fort semblable à une libellule géante. Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.
 
 ## -360 000 000 d'années
 
@@ -429,11 +433,17 @@ On connait une nouvelle extinction massive (extinction du dévonien tardif) caus
 
 ## -340 000 000 d'années
 
-Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.
+Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents, là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hylomonus.jpg)</span>
+
+<span style="display:block;text-align:center">(Hylomonus)</span>
 
 ## -320 000 000 d'années
 
-Tous les continents fusionnent en un seul super-continent, Pangée, qui renferme en son sein une mer intéreure: thétis. La formation du supercontinent Pangée a des conséquences importantes sur la vie : la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.
+Tous les continents fusionnent en un seul super-continent, Pangée, qui renferme en son sein une mer intéreure: Thétis.
+
+La formation du supercontinent Pangée a des conséquences importantes sur la vie : la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.
 
 ## -305 000 000 d'années
 
@@ -441,7 +451,7 @@ Enfin, sur terre, l'éloignement des terres de la Pangée centrale (Amérique du
 
 # - 300 000 000 d'années
 
-Les continents sont occupés par des marres. On peut aussi constater l'existence des premiers insectes volants, avec des ailes donc, ainsi que des plantes géantes. Rien d'autre ne vole à cette époque.
+Les continents sont occupés par des marres.
 
 ## - 290 000 000 d'années
 
@@ -451,7 +461,7 @@ La plupart des forêts sont remplacées par du désert au coeur du continent de 
 
 L'évolution progresse vite et les petits lézards deviennent des reptiles géants. Ces premiers types de reptiles géants connus sont assez proches des tortues mais ce ne sont pas des dinosaures.
 
-Mais une combinaison d'activités volcaniques, provoquant le réchauffement climatique et l'acidification des océans, est responsable d'une nouvelle extinction (l'extinction Permien-Trias). Cette extinction est marquée par la disparition de 95 % des espèces marines (requins, poissons et tous les trilobites) et de 70 % des vertébrés terrestres (mammifère et reptile), ce qui en fait la plus grande extinction massive ayant affecté la biosphère.
+Toutefois, une combinaison d'activités volcaniques, provoquant le réchauffement climatique et l'acidification des océans, est responsable d'une nouvelle extinction (l'extinction Permien-Trias). Cette extinction est marquée par la disparition de 95 % des espèces marines (requins, poissons et tous les trilobites) et de 70 % des vertébrés terrestres (mammifère et reptile), ce qui en fait la plus grande extinction massive (sur les 5 connus) ayant affecté la biosphère.
 
 La lave des volcans envahit les continents jusqu'au niveau de la taille des Etats-Unis, ce qui transforme l'air, avec de l'acide sulfurique, la couche d'ozone et le climat. La vie devient donc à nouveau très rare au sein des continents et les plus grands reptiles de cette époque disparaissent. La montée de la température fait baisser brutalement le taux d'oxygène dans les océans. Des bulles de gaz de méthane s'échappent de la mer et fait encore plus monter la température. Il fait alors plus de 105 degrés.
 
@@ -467,9 +477,17 @@ On constate l'existence des premières plantes avec des fleurs. Les fleurs const
 
 Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent.
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/thetis.jpg)</span>
+
+<span style="display:block;text-align:center">(Pangée)</span>
+
 ## - 230 000 000 d'années
 
 Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au sommet, se tenait les Rauisuhiens, les ancètres des crocodiles. Ce sont des énormes prédateurs atteignant des tailles de plus de 7m de long.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/rauisuhiens.jpg)</span>
+
+<span style="display:block;text-align:center">(Rauisuhiens)</span>
 
 ## - 218 000 000 d'années
 
@@ -487,6 +505,10 @@ La température se stabilise et la végétation revient.
 
 Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/morganucodon.jpg)</span>
+
+<span style="display:block;text-align:center">(Morganucodon)</span>
+
 # - 200 000 000 d'années
 
 Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux qui ont évolué des rares espèces qui ont survécu à la dernière énorme extinction.
@@ -494,6 +516,10 @@ Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux q
 ## -190 000 000 d'années
 
 Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui a commencé à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/pangee.jpg)</span>
+
+<span style="display:block;text-align:center">(Pangée)</span>
 
 Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui. En bref, la Terre est tout ce que nous redoutons aujourd'hui.
 
@@ -503,9 +529,19 @@ Une bonne partie des produits que nous consommons aujourd'hui, sont produits et 
 
 ## -175 000 000 d'années
 
-Le continent, Pangée, commence à se fissurer et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle. On peut trouver les forêts de pins et des abeilles.
+Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle. On peut trouver les forêts de pins et des abeilles.
 
-Les premières mouches voient le jour. C'est le premier insecte à avoir la capacité à polliniser. On constate aussi l'existence des premiers dinosaures.
+On constate aussi l'existence des premiers dinosaures.
+
+## - 165 000 000 d'années
+
+Un insecte (Chrysopidae) visite une plante pour un repas, afin de sucer les fluides sucrées de la plante. C'est le début de la pollinisation.
+
+## - 125 000 000 d'années
+
+Les premières mouches pollinisent certaines plantes. Certaines plantes fleurissent pour la première fois. Le but de la fleur est d'attirer les insectes pollinisateurs. Lorsque l'insecte mange le fluide sucré il transporte involontairement le pollen d’une fleur jusqu’à une autre fleur et assure ainsi la pollinisation de nombreux végétaux. Lorsqu’un grain de pollen est déposé sur le pistil d’une fleur de la même espèce, cela permet la fécondation d’un ovule puis la formation d’un fruit contenant des graines.
+
+Aujourd'hui, les plantes avec des fleurs représentent 80% des plantes terrestres.
 
 # - 100 000 000 d'années
 
@@ -519,13 +555,23 @@ On a les premiers crocodiles.
 
 # - 80 000 000 d'années
 
+# - 70 000 000 d'années
+
+Les dinausores sont répandus partout sur la planète, même en arctique.
+
+# -68 000 000 d'années
+
+C'est vraiment à la toute fin du règle des dinausores que l'on peut constater le Tyrannosaurus rex traverser les forêts. Cette espèce vit durant 2 millions d'années.
+
 ## -66 000 000 d'années
 
-L'impact d'un astéroïde met fin brutalement au monde des dinosaures. Cet astéroide fait presque 10 km de long et tombe dans l'océan crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel en presque en feu, chauffant la surface de la planète à plus de 500 degrés. La végétation est annihilée instantément. Même plusieurs mois après l'impact la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts et les animaux meurent de faim.
+L'impact d'un astéroïde met fin brutalement au monde des dinosaures, ainsi qu'aux reptiles marins. Cet astéroide fait presque 10 km de long et tombe dans l'océan crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel en presque en feu, chauffant la surface de la planète à plus de 500 degrés. Même plusieurs mois après l'impact la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts.
 
-Mais certains mammifères, qui ont eu l'intelligence de se cacher dans un environnement plus froid, sous terre, beaucoup plus petits que les dinosaures, parviennent à survivre. Ce sont les héritiers du règne des dinosaures. Ils n'ont plus besoin de craindre des prédateurs aussi impressionants que des dinosaures, et ont donc la possibilité d'évoluer très rapidement.
+Cet événement marque la 5ème et la dernière extinction massive.
 
-A noter que certains lézards aussi parviennet à survivre et constituent par ailleurs aujourd'hui une des branches des espèces des vertébrés (notamment lézards et serpents) les plus répandus même aujourd'hui et donc pas du tout en voie d'extinction.
+Mais certains mammifères, qui ont eu l'intelligence de se cacher dans un environnement plus froid, sous terre, beaucoup plus petits que les dinosaures, parviennent à survivre. Ils se nourissent principalement de champignons qui n'ont pas besoin de lumière pour se développer et peuvent vivre sous Terre. Ils n'ont plus besoin de craindre des prédateurs aussi impressionants que des dinosaures, et ont donc la possibilité d'évoluer très rapidement. En effet, les animaux survivants commencent à se diversifier presque immédiatement, établissant des écosystèmes renouvelés et résilients sur terre en quelques centaines de milliers d'années.
+
+A noter que certains lézards aussi parviennet à survivre et constituent par ailleurs aujourd'hui une des branches des espèces des vertébrés (notamment lézards, oiseaux et serpents) les plus répandus même aujourd'hui et donc pas du tout en voie d'extinction.
 
 Il n'y a aucune raison de penser qu'après l'humain décide par lui-même de causer sa propre extinction, même avec un cerveau très avancé, que les reptiles reprennent possession des continents et se développent aussi rapidement que les mammifères.
 
@@ -533,30 +579,63 @@ On comprend aussi que les conditions de survie se situe souvent sous Terre, que 
 
 # -60 000 000 d'années
 
-On a les premiers primates.
+Cette évolution rapide permet de faire évoluer à partir des mammifères une nouvelle branche d'espèces: les primates. Le primate le plus ancien est probablement Purgatorius. Il se nourrit d'insectes et de fruits. On rentre dans la branche des primates si l'on parvient à posséder des membranes qui permettent de facilement s'accrocher aux branches des arbres.
 
-## -55 000 000 d'années
+Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.
 
-On a les premieres chauve-souris.
+Les fourmis deviennent des fermiers. Ils déplacent les feuilles pas pour les manger mais pour préserver et assurer un environnement dans lequel les petits champignons peuvent prospérer. Ces fourmis se nourissent de ces petits champignons.
+
+Avec l'évolution, certains de ces petits champignons ne peuvent plus survivre sans l'intervention fermière des fourmis. Ils sont, en quelque sorte, domestiques.
+
+L'agriculture fait donc partie du savoir-faire des fourmis.
+
+## -56 000 000 d'années
+
+L'antarctique, chaud par rapport à aujourd'hui, avec des forêts, est toujours lié à l'Australie et l'Amérique du Sud. Il y a des palmiers, des mammifères
 
 ## -54 000 000 d'années
 
-On a les premieres chauve-souris.
+Un nouveau mammifère volant voit le jour: les chauve-souris (Icaronyteris).
 
 # - 50 000 000 d'années
 
+Les plus grands mamifères marins voient les jour: les premières baleines.
+
 ## -47 000 000 d'années
 
-Grâce aux mouvements des plaques tectoniques les himalayas et le mont le plus haut sur Terre se forment.
+Grâce aux mouvements des plaques tectoniques, l'Inde percute violemment l'Eurasie, et les himalayas se forment. Ces montagnes permettent de libérer le CO2 de l'air, ce qui a considérablement refroidit la planète.
+
+Les environnements tropicaux sont donc réduits à l'équateur, et ne sont donc plus répandus sur tous les continents. L'habitat par exemple en Amérique du Nord n'est donc plus propice pour les primates, car plus de forêt tropicale.
 
 Les montagnes sont comme des énormes tours d'eau. Ils fournissent des rivières qui permettent à la population humaine de boire.
 
+## -45 000 000 d'années
+
+L'Australie et l'Antarctique se sépare.
+
+## -35 000 000 d'années
+
+Les glaciers commencent leur propagation à travers l'Antarctique.
+
+## -33 000 000 d'années
+
+Les grands singes sont surtout répartis en Europe.
+
+## -27 000 000 d'années
+
 # -20 000 000 d'années
 
-# - 7 000 000 d'années
+## -15 000 000 d'années
+
+## - 7 000 000 d'années
 
 Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement
-transforme lentement les singes en hominidé. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
+transforme lentement les singes en hominidé. Les traits principaux qui distinguent les hominidés d'un grand singe sont les suivants:
+
+1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)
+2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)
+
+L'ancètre le plus proche des hominidés est le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
 
 Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exemple, fabriquer des outils ou tenir des nourrissons, ne sont pas très convaincants, étant donné que de nombreux animaux gèrent les deux sans le changement en profondeur de la bipédie des hominidés.
 
@@ -580,6 +659,20 @@ Les hominidés qui mangent de la viande et de la graisse développent des dents 
 
 # - 3 000 000 d'années
 
+# - 2 000 000 d'années
+
+Homo Australopithecus utilise la marche principalement et arrête définitivement de grimper dans les arbres, sauf en cas de menace imminente.
+
+## - 1 800 000 ans
+
+Homo Erectus a la capacité de courir avec ses deux pieds, un peu comme un humain, afin notamment de chasser des proies. Homo Erectus peut courir plus de 5 heures sans boire d'eau.
+
+C'est probablement cette pratique de la course à pied qui permet à l'humain de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des mammifères.
+
+Aujourd'hui, l'humain a cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, on est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
+
+Cette capacité permet à Homo Erectus d'être très endurant et d'épuiser ses proies. Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
+
 # - 1 000 000 d'années
 
 Homo Erectus commence à coloniser l'Eurasie.
@@ -592,34 +685,37 @@ Homo Erectus sait utiliser le feu.
 
 # - 300 000 ans
 
-Alors que les premiers Néandertaliens s'adaptent au froid glacial de l'Europe – un nouvel hominidé, Homo Sapiens apparaît en Afrique. Il est certes rare, mais il est réparti sur tout le continent.
+Alors que les premiers hommes de Néandertal s'adaptent au froid glacial de l'Europe – un nouvel hominide, l'Homo Sapiens apparaît en Afrique, réparti sur tout le continent.
 
 # - 200 000 ans
 
-Certains Homo Sapiens arrivent en Europe.
+Quelques homos sapiens arrivent en Europe.
 
 # - 180 000 ans
 
-Certains Homo Sapiens arrivent au Levant. Les humains modernes rencontrent les Néandertaliens au Levant et se reproduisent avec eux. En conséquence, tous les humains modernes avec les ancêtres qui ne sont pas exclusivement africains contiennent de l'ADN néandertalien.
+Des Homo Sapien arrivent au Levant. Les hommes modernes rencontrent les hommes de Néandertal au Levant et se reproduisent avec eux. En conséquence, tous les humains modernes avec des ancêtres qui ne sont pas exclusivement africains contiennent de l'ADN néandertalien.
 
 ## -110 000 ans
 
-Homo Sapiens se répand à nouveau dans toute l'Afrique et sont là cette fois pour rester.
+L'Homo Sapiens se répand de nouveau en Afrique et est là cette fois pour rester.
 
 # -100 000 ans
 
 ## -70 000 ans
 
-Le niveau des mers tombe et permet facilement à Homo Sapiens de sortir de l'Afrique.
+Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique.
 
 ## -45 000 ans
 
-Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, depuis la Bulgarie à l'est vers l'Espagne et l'Italie à l'ouest. Les Néandertaliens, dominants en Europe depuis un quart de million d'années, a repoussé toutes les incursions antérieures d'Homo sapiens. Cette fois, cependant, ils sont en déclins.
+Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie à l'Est à l'Espagne et l'Italie à l'Ouest. Les Néandertaliens, qui ont dominé l'Europe pendant un quart de million d'années, ont repoussé toutes les incursions antérieures des Homo sapiens. Cette fois, cependant, ils ne vont pas réussir. Ils vont disparaître assez rapidement après.
 
 # -40 000 ans
 
 # -10 000 ans
 
-On constate la disparition de pratiquement tous les animaux plus massif qu'un gros chien dans toute l'Eurasie, les Amériques et l'Australie. La cause ultime de cette extinction aurait pu être la propagation d'une humanité rapace. L'agriculture commence dans plusieurs parties du monde plus ou moins simultanément. Depuis lors, l'augmentation de la population humaine est spectaculaire.
+Presque tous les animaux plus grands qu'un grand chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction aurait pu être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine est spectaculaire.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
+- [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
+- [Intéraction élémentaire](https://fr.wikipedia.org/wiki/Interaction_%C3%A9l%C3%A9mentaire)
+- [Intéraction faible](https://fr.wikipedia.org/wiki/Interaction_faible)
