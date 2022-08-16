@@ -435,7 +435,7 @@ On connait une nouvelle extinction massive (extinction du dévonien tardif) caus
 
 Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents, là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hylomonus.jpg)</span>
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hylonomus.jpg)</span>
 
 <span style="display:block;text-align:center">(Hylomonus)</span>
 
