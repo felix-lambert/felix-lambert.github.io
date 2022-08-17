@@ -15,7 +15,7 @@ L'univers est au début presque infiniment plus chaud que le centre de notre sol
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
-Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière.
+Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement et se transforment en énergie. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
@@ -599,11 +599,11 @@ Un nouveau mammifère volant voit le jour: les chauve-souris (Icaronyteris).
 
 # - 50 000 000 d'années
 
-Les plus grands mamifères marins voient les jour: les premières baleines.
+Les plus gros mammifères marins voient le jour : les premières baleines.
 
 ## -47 000 000 d'années
 
-Grâce aux mouvements des plaques tectoniques, l'Inde percute violemment l'Eurasie, et les himalayas se forment. Ces montagnes permettent de libérer le CO2 de l'air, ce qui a considérablement refroidit la planète.
+Grâce aux mouvements des plaques tectoniques, l'Inde frappe violemment l'Eurasie, et l'himalaya se forme. Ces montagnes dégagent du CO2 de l'air, ce qui a sensiblement refroidi la planète.
 
 Les environnements tropicaux sont donc réduits à l'équateur, et ne sont donc plus répandus sur tous les continents. L'habitat par exemple en Amérique du Nord n'est donc plus propice pour les primates, car plus de forêt tropicale.
 
@@ -611,7 +611,7 @@ Les montagnes sont comme des énormes tours d'eau. Ils fournissent des rivières
 
 ## -45 000 000 d'années
 
-L'Australie et l'Antarctique se sépare.
+L'Australie et l'Antarctique se séparent.
 
 ## -35 000 000 d'années
 
@@ -639,23 +639,21 @@ L'ancètre le plus proche des hominidés est le chimpanzé et le bonobo. Pour un
 
 Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exemple, fabriquer des outils ou tenir des nourrissons, ne sont pas très convaincants, étant donné que de nombreux animaux gèrent les deux sans le changement en profondeur de la bipédie des hominidés.
 
-La marche humaine est l'une des grandes merveilles sous-estimées du monde moderne. Aujourd'hui, les scientifiques sont capables de connaître la structure des particules subatomiques, détecter le grondement et le grincement des trous noirs, et même scruter les tout débuts de l'univers. Pourtant, il n'existe pas de robot capable d'imiter la grâce naturelle et l'athlétisme d'un être humain ordinaire en marchant.
+La marche humaine est l'une des grandes merveilles sous-estimées du monde moderne. Aujourd'hui, les scientifiques sont capables de connaître la structure des particules subatomiques, détecter le grondement et le grincement des trous noirs, et même scruter les tout débuts de l'univers. Cependant, il n'existe aucun robot capable d'imiter la grâce naturelle d'un être humain ordinaire se promenant.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tF4DML7FIWk" frameborder="0" allowfullscreen></iframe></p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hLvfq51RkxM" frameborder="0" allowfullscreen></iframe></p>
 
-En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble à tel point que nous n'en sommes pas conscients.
+En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.
 
 # - 4 000 000 d'années
 
-Le climat de la planète se modifie et transforme les forêts de l'Afrique en savane. Ce nouveau climat, plus chaud, change l'habitat, forçant les premiers primates à marcher plus loin pour de la nourriture et se tiennent de plus en plus droit.
+Le climat de la planète est en train de changer, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.
 
 ## - 3 500 000 d'années
 
-Certains des hominidés ont développé un goût pour la viande, généralement récupérée à partir de proies faites par d'autres animaux. Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie.
-
-Les hominidés qui mangent de la viande et de la graisse développent des dents plus petites et des muscles masticateurs plus petits. L'énergie qu'ils économisent est entré dans la croissance de cerveaux plus gros.
+Quelques-uns des hominidés ont développé un goût pour la viande. Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie.
 
 # - 3 000 000 d'années
 
@@ -719,3 +717,7 @@ Presque tous les animaux plus grands qu'un grand chien disparaissent d'Eurasie, 
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
 - [Intéraction élémentaire](https://fr.wikipedia.org/wiki/Interaction_%C3%A9l%C3%A9mentaire)
 - [Intéraction faible](https://fr.wikipedia.org/wiki/Interaction_faible)
+- [Intéraction forte](https://fr.wikipedia.org/wiki/Interaction_forte)
+- [Gravitation](https://fr.wikipedia.org/wiki/Gravitation)
+- [Inflation cosmique](https://fr.wikipedia.org/wiki/Inflation_cosmique)
+- [Particule élémentaire](https://fr.wikipedia.org/wiki/Particule_%C3%A9l%C3%A9mentaire)
