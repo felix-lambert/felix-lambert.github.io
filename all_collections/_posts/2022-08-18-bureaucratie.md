@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Bureaucratie
-date: 2022-04-23 10:18:00
+date: 2022-08-18 10:18:00
 tags: philosophy
 ---
 
 - [Bureaucratie](https://www.amazon.com/Bureaucratie/dp/2330076142)
 
-La bureaucratie est une violence. Comme le soutient David Graeber, quand il y a communication bureaucratique, souvent, si on ignore ce message, ou on s'y oppose, on court un danger. Après quelques mois, quelques années, on risque de subir une intervention énergique des policiers, une matraque sur la tête, une humiliation...
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bureaucratie.jpg)</span>
+
+La bureaucratie est une violence. Comme le soutient David Graeber, quand il y a communication bureaucratique, souvent, si on ignore ce message, ou on s'y oppose, on court un danger. Après quelques mois, quelques années, on risque de subir une intervention énergique des policiers ou/et une humiliation...
 
 Si vous avez une personne qui tente de communiquer avec vous dans une langue obscure, en invoquant sans cesse la loi, en utilisant un langage ultra-technique, nous sommes dans une relation de domination. Il s'agit d'une forme de relation qui devrait être évitée ou qui devrait être rejetée, dans la mesure du possible.
 
