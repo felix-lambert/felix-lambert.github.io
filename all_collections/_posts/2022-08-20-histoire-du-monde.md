@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-07-17 10:18:00
+date: 2022-08-20 10:18:00
 tags: histoire
 ---
 
@@ -11,11 +11,18 @@ tags: histoire
 
 Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
 
-L'univers est au début presque infiniment plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Les forces électromagnétiques, nucléaires faibles, nucléaires fortes et gravitationnelles se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
+L'univers est au début des milliards de fois plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Dans cet univers, il y a 4 forces fondamentales:
+
+1 forces électromagnétiques > peut influer des objets plus grands que des atomes
+2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus grand est l'objet, plus se force est grande
+3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome
+4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome
+
+Ces 4 forces fondamentales du monde se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
-Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement et se transforment en énergie. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière.
+Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement et se transforment en énergie. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. C'est donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
@@ -31,17 +38,17 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/helium.png)</span>
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative qui gravite autour et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
 
-Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité. De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement ; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
+Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle). De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
 Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Ces atomes d’hydrogène et d’hélium n’ont pas réussi ce tour de force tout seuls. Il leur a fallu le concours de la mystérieuse matière sombre dont on ignore la nature mais qui constitue près de 85 % de la matière présente dans l’Univers.
 
-Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives étaient assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil). Ces étoiles de la population III sont essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche que l’Univers primitif, à savoir transmuter l’hydrogène en hélium. Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène, du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
+Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil). Ces étoiles de la population III sont essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche que l’Univers primitif, à savoir transmuter l’hydrogène en hélium. Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène, du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
 
 ## -13 500 000 000 d'années
 
-Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir grâce à la gravité dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi à cette époques des étoiles de la population II qui ont été formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
+Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
 
@@ -51,9 +58,9 @@ Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premi�
 
 # -13 000 000 000 d'années
 
-Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome d'eau. On peut ainsi observer dans notre univers la présence d'eau sous forme de glace en raison d'un univers froid.
+Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.
 
-Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donnent les physiognomies des galaxies. On peut sans doute affirmer que s'il n'y avait pas de trous noirs, il n'y aurait pas de galaxies.
+Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donne les physiognomies des galaxies.
 
 Le centre, le noyau de la voie lactée se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
 
@@ -63,13 +70,11 @@ Les premières exoplanètes se forment grâce aux disques de matières qui orbit
 
 # -12 000 000 000 d'années
 
-Même si notre système solaire n'a pas encore été formé, la situation de l'univers ressemble à l'univers actuel, avec une concentration d'étoiles, de galaxies, et de groupes de galaxies, qui, de temps en temps, se fusionnent entre eux. La lumière dans l'univers devient plus vive et l'univers poursuit son expansion.
+Même si notre système solaire n'a pas encore été formé, la situation de l'univers ressemble à l'univers actuel, avec une concentration d'étoiles d'une existence de plus courte durée qu'aujourd'hui, de galaxies, et de groupes de galaxies, qui, de temps en temps, se fusionnent entre eux. La lumière dans l'univers devient plus vive grâce à un pic d'activités de formation d'étoiles (à un rythme plus d'une dizaine de fois plus rapide qu'aujourd'hui) et l'univers poursuit son expansion.
 
-On trouve un pic d'activités de la formation d'étoiles. C'est à un rythme plus d'une dizaine de fois plus rapide qu'aujourd'hui. Mais leur existence est de plus courte durée.
+Les interactions entre galaxies sont plus nombreuses, mais les galaxies massives moins nombreuses. Ces dernières étant apparues plus tard des suites des phénomènes de fusion entre galaxies.
 
-Les interactions entre galaxies sont plus nombreuses, les galaxies massives moins nombreuses, ces dernières étant apparues plus tard des suites des phénomènes de fusion entre galaxies.
-
-Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers. Il faut noter qu'en l'absence de ces éléments lourds, la vie serait impossible.
+Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers, essentiels à la vie.
 
 La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
 
@@ -77,13 +82,13 @@ La Voie lactée est semblable aux galaxies satellitaires naines que nous connais
 
 # -10 000 000 000 d'années
 
-Le diamètre de l'univers est environ trois fois inférieur à ce qu'il est maintenant et il a déjà formé la plupart de ses étoiles. La moitié des galaxies les plus massives présentes ont déjà cessé définitivement de former des étoiles. En revanche, la formation de la galaxie voisine de notre Voie lactée, la galaxie d'Andromède commence. Cette dernière est l'une des rares galaxies qui peut être observée à l'oeil nu à partir de la Terre.
+Le diamètre de l'univers est environ trois fois inférieur à ce qu'il est maintenant. La plupart des étoiles du monde sont formées. La moitié des galaxies les plus massives présentes ont déjà cessé définitivement de former des étoiles. En revanche, la formation de la galaxie voisine de notre Voie lactée, la galaxie d'Andromède, l'une des rares galaxies qui peut être observée à l'oeil nu à partir de la Terre, commence.
 
-La Voie lactée a aussi fusionné avec Gaïa-Encelade: une galaxie naine. Au moment de cette fusion, la Voie lactée a déjà formé de nombreuses étoiles. Mais la Voie lactée est elle-même beaucoup plus petite qu'aujourd'hui (peut-être d'un facteur 40 %), ce qui fait de cette fusion la deuxième plus grande fusion de l'histoire de notre galaxie. Beaucoup de ces étoiles natives se sont retrouvées dans le disque épais au milieu de la galaxie tandis que celles capturées à partir de Gaia-Encelade se trouvent dans la partie extérieure de la galaxie.
+La Voie lactée, faisant presque la moitié de la taille actuelle, fusionne avec Gaïa-Encelade: une galaxie naine. Beaucoup des étoiles natives de notre galaxie se dirigent dans le disque épais au milieu de la galaxie tandis que celles capturées à partir de Gaia-Encelade se trouvent dans la partie extérieure de la galaxie. En fonction du pourcentage d'étoiles capturées c'est la deuxième plus grande fusion de l'histoire de notre galaxie.
 
 # -9 000 000 000 d'années
 
-La création de nouvelles étoiles et de supernovas commence à ralentir.
+La création de nouvelles étoiles et de supernovas ralentit lentement.
 
 # -8 000 000 000 d'années
 
@@ -91,11 +96,11 @@ Le trou noir (Sagittarius A\*) de notre galaxie a terminé la plus grande part d
 
 # - 7 000 000 000 d'années
 
-La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée, a fusionné avec la Voie Lactée et possède un milliard d'étoiles.
+La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée fusionne avec la Voie Lactée et possède un milliard d'étoiles. C'est la plus grande fusion connue de notre galaxie.
 
 # -6 000 000 000 d'années
 
-Fin des plus grandes fusions des galaxies de notre Voie lactée.
+Fin des fusions des galaxies de notre Voie lactée. C'est la deuxième plus grande galaxie de notre cluster: le Groupe Local.
 
 # -5 000 000 000 d'années
 
@@ -105,7 +110,7 @@ Fin des plus grandes fusions des galaxies de notre Voie lactée.
 
 L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'hélium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. Il s'agit du commencement de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage gazeux attire 99,9 % de la matière à proximité. Ce nuage devient plus dense et plus chaud de sorte qu'au final, une fusion nucléaire marque la naissance de notre soleil. Ce processus a duré à peu près 100 000 ans.
 
-Ce très jeune soleil est eutouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps riches en eau et en carbone se réuniront aussi pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
+Ce très jeune soleil est eutouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
 
 Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.
 
@@ -113,32 +118,35 @@ Dans la zone chaude de notre système solaire, les éléments lourds, plus proch
 
 ## -4 540 000 000 d'années
 
-La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui, à long terme, formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Et les éléments légers vont être à la surface de la planète. Le centre de la planète va ensuite libérer certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
+La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
 
 Notre système solaire renferme sans doute plusieurs dizaines de planètes. Mais il n'y a pas suffisamment d'espace pour tous ces astres - leurs trajectoires orbitales sont tout sauf stables et il y a de nombreuses collisions. Ils exercent des forces gravitationnelles d'attraction les uns sur les autres, certaines planètes ont été brulées par le Soleil, d'autres ont été projetées hors du système solaire lors de quasi-collisions et errent maintenant, seuls et sans étoile, dans l'espace. Il n'est donc pas étonnant que tant de planètes errent dans l'espace sans tourner autour d'une étoile.
 
-L'orbite d'une planète appelée Theia l'emmène directement sur la planète Terre et crée une immense collision. Il y a des milliards de débris autour de la Terre qui orbitent. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Finalement, les anneaux ont fusionné pour créer un autre nouveau
-monde – la Lune. La Terre a survécu à l'évènement cataclysmique, mais une grande partie de l'eau de la Terre s'est probablement évaporée après l'impact.
+L'orbite d'une planète appelée Theia l'emmène directement sur la planète Terre et crée une immense collision. Il y a des milliards de débris autour de la Terre qui orbitent. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune. La Terre survit à cet évènement cataclysmique, mais une grande partie de l'eau de la Terre s'évapore à cause de l'impact.
 
-La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie a rendu possible la création des premiers océans, avec beaucoup de CO2, très acide, il y a 4,3 milliards d'années. C'est un océan d'eau, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
+## -4 300 000 000 d'années
+
+La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie a rendu possible la création des premiers océans, avec beaucoup de CO2, très acide. C'est un océan d'eau, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
 
 Parallèlement, grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.
 
-Saturne a fini de se former et se rapproche à son tour du soleil. Mais après un certain temps, le flux de gaz autour de Saturne et Jupiter disparait. En son absence, la force qui entraîne ces deux planètes en direction du Soleil s'affaiblit. Ces planètes reviennent donc vers l'extérieur du système solaire et entrent de nouveau en collision avec des astéroïdes riches en eau et en carbone.
+Saturne fini de se former et se rapproche à son tour du soleil. Mais après un certain temps, le flux de gaz autour de Saturne et Jupiter disparait. En son absence, la force qui entraîne ces deux planètes en direction du Soleil s'affaiblit. Ces planètes reviennent finalement vers l'extérieur du système solaire et entrent de nouveau en collision avec des astéroïdes riches en eau et en carbone.
 
 ## -4 100 000 000 d'années
 
-Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Sans ce bombardement, la Terre aurait été complètement sèche, car ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.
+Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.
 
 Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à petit pour en libérer les éléments et créer mystérieusement de la vie au fond des océans.
 
 # -4 000 000 000 d'années
 
-Le taux d'impacts du grand bombardement tardif diminue. Après ce bombardement, 97% de cette Terre est recouverte d'océans. Et il n'y a pas d'oxygène. La température de la Terre baisse à 40 degrés. Les volcans, riches en gaz à effet de serre, émergent de l'océan et forment une nouvelle atmosphère.
+Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est recouverte d'océans. Et il n'y a toujours pas d'oxygène. La température de la Terre baisse à 40 degrés. Les volcans, riches en gaz à effet de serre, émergent de l'océan et forment une nouvelle atmosphère.
 
-Les premières formes de vie sont des organismes microscopiques (microbes). Ces micro-organismes sont probablement formés par le carbone, ce qui rend très facile d'assembler d'autres molécules. Ainsi, grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
+Les premières formes de vie sont des organismes microscopiques (microbes). Ces micro-organismes sont faits de carbone, ce qui rend très facile l'assemblage d'autres molécules. Grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
 
-La mer regorge à présent de ces organismes microscopiques. Durant des millions d'années ces cellules se sont petit à petit rapprochées de la surface.
+Une composante essentielle d'une entité vivante est de chercher de l'énergie en se nourissant. La vie sexuelle arrivera bien après. Un être qui ne mange pas n'est pas vivant.
+
+La mer regorge à présent de ces organismes microscopiques. Ces cellules se rapprochent de la surface.
 
 ## -3 700 000 000 d'années
 
@@ -150,7 +158,7 @@ Les êtres vivants commencent à se rassembler pour composer des filaments verd�
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
 
-Ces bactéries (procaryotes donc) (cyanobactéries) permettent de transformer la lumière du soleil en nourriture. C'est ce qu'on appelle la photosynthèse. Ceci permet d'utiliser le rayonnement du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en glucose, une forme simple de sucre. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil existe. Cette transformation génère un déchet: l'oxygène.
+Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène.
 
 ## -3 200 000 000 d'années
 
