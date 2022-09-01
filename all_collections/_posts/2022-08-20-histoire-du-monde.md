@@ -384,7 +384,7 @@ Les poissons, les vertébrés, commencent à peupler les mers et à se diversifi
 
 <span style="display:block;text-align:center">(Placoderme)</span>
 
-On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes). Les placodermes sont considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont l'homme.
+On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes). Les placodermes sont considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont Homo Sapiens.
 
 A la même époque on trouve les premières plantes avec des feuilles (Lycophyte est une des premières plantes avec des feuilles), c'est-à-dire que certaines plantes développent les capacités de photosynthèse à un autre niveau, par rapport aux plantes sans feuille. Les feuilles permettent de beaucoup mieux répartir l'eau qu'un simple tissu vasculaire à travers ses veines. Plus la circulation d'eau est aisée, plus la plante pousse vite.
 
