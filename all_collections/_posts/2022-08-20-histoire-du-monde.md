@@ -369,7 +369,9 @@ On commence à comprendre que ces effets des changements climatiques, que ce soi
 Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent, grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil. On comprend que les plantes ont besoin de trois choses pour prospérer:
 
 1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)
+
 2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)
+
 3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner la photosynthèse).
 
 Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante hydratée le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones océaniques.
