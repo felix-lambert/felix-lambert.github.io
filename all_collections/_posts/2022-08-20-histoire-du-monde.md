@@ -15,7 +15,7 @@ L'univers est au début des milliards de fois plus chaud que le centre de notre 
 
 1 forces électromagnétiques > peut influer des objets plus grands que des atomes
 
-2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus grand est l'objet, plus se force est grande
+2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus grand est l'objet, plus sa force est grande
 
 3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome
 
