@@ -215,12 +215,11 @@ Des champignons microscopiques sont présents en dehors de l'eau.
 
 ## -1 200 000 000 d'années
 
-Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. Les gènes des deux parents sont mélangés pour créer le plan d'un nouvel individu distinct, différent de l'un ou l'autre des parents. Nous appelons cet échange élégant de matériel génétique « sexe ».
+Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. Les gènes des deux parents sont mélangés pour créer le plan d'un nouvel individu distinct, différent de l'un ou l'autre des parents. Nous appelons cet échange élégant de matériel génétique "reproduction".
 
 La copie par reproduction permet de maintenir la complexité d'une cellule. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
 
-Les cellules eukaryotes commencent donc à se diversifier, sous des formes reconnaissables comme
-les premiers parents unicellulaires des algues et des champignons
+Les cellules eukaryotes commencent donc à se diversifier, sous des formes reconnaissables comme les premiers parents unicellulaires des algues et des champignons
 
 Pour la première fois, ils se sont aventurés loin de la mer et ont colonisé des étangs d'eau douce et des ruisseaux à l'intérieur des terres.
 
@@ -772,7 +771,7 @@ Fin des hommes de Néandertal probablement à cause d'un refroidissement brutal 
 
 De plus, depuis l'arrivée d'Homo Sapiens il existe une concurrence plus forte pour la nourriture. Homo Néandertal, avec une demande plus grande en calorie qu'Homo Sapiens, fini par ne plus être assez nombreux pour maintenir sa population. Bref, le froid, la trop forte demande en calorie, et la compétition pour de la nourriture avec Homo Sapiens, signent la fin de Homo Néandertal.
 
-Il est peut-être utile de mantionner que cette fin est violente car on retrouve des traces de cannibalisme entre différentes tribus de Néandertaliens, probablement, encore une fois, à cause de ce manque de nourriture.
+Il est peut-être utile de mentionner que cette fin est violente car on retrouve des traces de cannibalisme entre différentes tribus de Néandertaliens, probablement, encore une fois, à cause de ce manque de nourriture.
 
 Homo Sapiens, quant à lui, survit, et commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
 
