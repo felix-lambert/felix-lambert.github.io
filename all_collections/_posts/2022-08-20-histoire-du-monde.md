@@ -815,7 +815,7 @@ Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans
 
 # -4000 ans
 
-Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths ont survécu sont morts.
+Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
 
 # -3000 ans
 
