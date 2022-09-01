@@ -203,7 +203,7 @@ Les volcans réussissent finalement à éjecter suffisamment de gaz à effet de 
 
 Nuna, un nouveau supercontinent, se forme. Le reste se limite à de la mer des îles volcaniques.
 
-La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l'oxygène est toujours plus rare qu'aujourd'hui mais on constate certains types de cyanobactéries (les bactéries qui arrivent à faire la photosynthèse) à se transformer en cellules eucaryotes. Ces eucaryotes sont l'ancêtre de toutes les plantes et algues. Voilà pourquoi les plantes et les cyanobactéries possèdent le même mécanisme photosynthétique.
+La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l'oxygène est toujours plus rare qu'aujourd'hui mais on constate certains types de cyanobactéries (les bactéries qui arrivent à faire la photosynthèse) à se transformer en cellules eucaryotes. Ces eucaryotes sont l'ancêtre de toutes les plantes et algues. Elles possèdent le même mécanisme photosynthétique.
 
 ## -1 400 000 000 d'années
 
