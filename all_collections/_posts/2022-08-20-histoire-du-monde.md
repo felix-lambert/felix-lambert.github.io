@@ -14,9 +14,12 @@ Des mesures détaillées du taux d'expansion de l'univers placent selon le modè
 L'univers est au début des milliards de fois plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Dans cet univers, il y a 4 forces fondamentales:
 
 1 forces électromagnétiques > peut influer des objets plus grands que des atomes
+
 2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus grand est l'objet, plus se force est grande
+
 3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome
-4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome
+
+4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome. Attire les quarks entre eux par exemple.
 
 Ces 4 forces fondamentales du monde se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
 
@@ -665,19 +668,33 @@ Quelques-uns des hominidés ont développé un goût pour la viande. Aucun des p
 
 # - 3 000 000 d'années
 
+## - 2 400 000 années
+
+Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il ait été plus charognard (qui consomme les cadavres d'autres animaux) que chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer. Homo Habilis est la première espèce qui peut utiliser des pierres pour fabriquer des outils simples.
+
 # - 2 000 000 d'années
 
 Homo Australopithecus utilise la marche principalement et arrête définitivement de grimper dans les arbres, sauf en cas de menace imminente.
 
-## - 1 800 000 ans
+## - 1 900 000 ans
 
-Homo Erectus a la capacité de courir avec ses deux pieds, un peu comme un humain, afin notamment de chasser des proies. Homo Erectus peut courir plus de 5 heures sans boire d'eau.
+Homo Erectus a la capacité de courir avec ses deux pieds, un peu comme un humain, afin notamment de chasser des proies, comme des gazelles ou des antilopes. Homo Erectus peut courir plus de 5 heures sans boire d'eau.
 
 C'est probablement cette pratique de la course à pied qui permet à l'humain de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des mammifères.
 
 Aujourd'hui, l'humain a cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, on est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
 
 Cette capacité permet à Homo Erectus d'être très endurant et d'épuiser ses proies. Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
+
+Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
+
+L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution humaine.
+
+## - 1 600 000 années
+
+Homo Erectus est capable de maîtriser le feu. Avec cette maîtrise l'avantage principal est de se chauffer.
+
+L'usage du feu permet aussi à l'espèce humaine de se déplacer plus loin, dans des climats différents. Contrairement à tous les hominidés antérieurs, Homo Erectus a prospéré non seulement en Afrique mais également dans toute l'Eurasie. Très probablement, ces ancêtres ont partagé leur proie, un peu comme les chasseurs-cueilleurs le font aujourd'hui, favorisant la cohésion sociale au sein du groupe.
 
 # - 1 000 000 d'années
 
@@ -689,9 +706,25 @@ Homo Erectus sait utiliser le feu.
 
 # - 700 000 ans
 
-# - 300 000 ans
+# - 450 000 ans
+
+Début des hommes de Néandertal. Ils peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).
+
+Le Néandertal court très vite mais est possiblement moins endurant que Homo Sapiens.
+
+# - 400 000 ans
+
+Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec la cuisine en effet on peut plus facilement mastiquer et digérer. Cuisiner est en quelque sorte le démarrage du process de digestion, avant même de mettre la nourriture dans son corps. Cuisiner permet aussi de tuer les poisons et les pathogènes.
+
+## - 350 000 ans
 
 Alors que les premiers hommes de Néandertal s'adaptent au froid glacial de l'Europe – un nouvel hominide, l'Homo Sapiens apparaît en Afrique, réparti sur tout le continent.
+
+# - 300 000 ans
+
+## - 250 000 ans
+
+Fin de Homo Erectus. Il a vécu plus de 1.5 millions d'années.
 
 # - 200 000 ans
 
@@ -707,19 +740,139 @@ L'Homo Sapiens se répand de nouveau en Afrique et est là cette fois pour reste
 
 # -100 000 ans
 
-## -70 000 ans
+La population humaine commence à décroître.
+
+## -74 000 ans
+
+# -70 000 ans
 
 Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique.
+
+# -50 000 ans
+
+## -49 000 ans
+
+Homo Sapiens et Néandertal se sont reproduis. C'est la raison pour laquelle on retrouve des traces de Néandertal dans notre ADN.
+
+Arrivée des humains en Australie. Cette arrivée semble coïncider avec la perte d'animaux indigènes.
 
 ## -45 000 ans
 
 Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie à l'Est à l'Espagne et l'Italie à l'Ouest. Les Néandertaliens, qui ont dominé l'Europe pendant un quart de million d'années, ont repoussé toutes les incursions antérieures des Homo sapiens. Cette fois, cependant, ils ne vont pas réussir. Ils vont disparaître assez rapidement après.
 
+## -44000 ans
+
+Les plus anciennes peintures connues, d'Indonésie, ont été réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux.
+
 # -40 000 ans
+
+Fin des hommes de Néandertal probablement à cause d'un refroidissement brutal du climat et du manque de nourriture. En effet, le Neanderthal a besoin de plus de calorie qu'Homo Sapiens pour survivre et pour se reproduire notamment à cause de sa plus grande masse musculaire. Homo Sapiens est désormais le seul hominidé qui existe.
+
+De plus, depuis l'arrivée d'Homo Sapiens il existe une concurrence plus forte pour la nourriture. Homo Néandertal, avec une demande plus grande en calorie qu'Homo Sapiens, fini par ne plus être assez nombreux pour maintenir sa population. Bref, le froid, la trop forte demande en calorie, et la compétition pour de la nourriture avec Homo Sapiens, signent la fin de Homo Néandertal.
+
+Il est peut-être utile de mantionner que cette fin est violente car on retrouve des traces de cannibalisme entre différentes tribus de Néandertaliens, probablement, encore une fois, à cause de ce manque de nourriture.
+
+Homo Sapiens, quant à lui, survit, et commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
+
+Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
+
+## -15 000 ans
+
+La glace commence à fondre.
+
+## -12 000 ans
+
+Fin du dernier âge glaciaire.
+
+## -11 000 ans
+
+Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, les gens ont développé l'agriculture, apprenant à cultiver et à récolter des figues, de l'orge, des pois chiches et des lentilles. En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
 
 # -10 000 ans
 
 Presque tous les animaux plus grands qu'un grand chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction aurait pu être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine est spectaculaire.
+
+## -9 000 ans
+
+Homo Sapiens commence à domestiquer le chat.
+
+## -7 000 ans
+
+Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui), l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).
+
+## -6 000 ans
+
+En Amérique du Sud, Homo Sapiens domestique le chili. C'est peut-être la plante la plus ancienne à avoir été domestiquée.
+
+# -5000 ans
+
+Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois pour qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui. Le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
+
+C'est comme si les Egyptiens connaissaient déjà tous les pouvoirs de l'écrit. Pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.
+
+Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
+
+# -4000 ans
+
+Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths ont survécu sont morts.
+
+# -3000 ans
+
+En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. Il faut en effet utiliser le principe du rébus pour vraiment saisir toute l'imagination et le sens abstrait lorsqu'Homo Sapiens fait usage du langage.
+
+Ce même pas de géant se concrétise aussi en Egypte, à la même époque.
+
+L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard.
+
+Grâce à ce nouvel emploi des images, les dirigeants ont pu écrire l'histoire de leur règne, rédiger des codes juridiques, administrer, et même construire des monuments.
+
+Le principe du répus, transformer une image en un son, est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représentée.
+
+## -1800 ans
+
+Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont eu l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens travailleur coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
+
+La maison en hiérogriphe représente la lettre "B". L'eau en hiérogriphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
+
+A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī, le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.
+
+La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens, on n'a besoin pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une énorme invention.
+
+Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
+
+Cette troupe de travailleurs a rapporté leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, où ol fut adopté par les Grecs, puis les Romains.
+
+## -1500 ans
+
+On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues. L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture chinoise devient encore plus précise car elle utilise le déterminant pour dire si une image peut être lisible comme un simple son ou comme une image.
+
+Un déterminant est un nouveau symbole qui permet de classifier une image et de dire dans quelle catégorie elle doit se situer, et donne donc un indice sur la bonne façon de lire un caractère.
+
+Ces signes classificateurs sont très fréquents en chinois, d'où son importance.
+
+Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.
+
+Pour autant, le pharaon Akhenaton (celui qui sert Aton, ou celui qui est bénéfique à Aton) choisit un Dieu beaucoup plus puissant que les autres. C'est le Dieu du soleil (Rê). Le pouvoir royal (Akhenaton) règne sur Terre et Rê (le Dieu du soleil) dans les cieux. Cette dynastie (famille de rois) va se placer sous la protection de la divinité locale "Amon" située à Thèbes (là où habite le roi Akhenaton). Donc un roi comme Akhenaton divinise le Dieu Amon, perçu même comme le Dieu dynastique, sans pour autant nier le Dieu des cieux, Rê. Au fil du temps, Rê et Amon va s'amalgamer et devenir "Amon-Rê". Bref, le soleil est promu au rang de principal divinité, c'est-à-dire celui qui recrée le monde chaque jours.
+
+La volonté de ce Dieu du soleil se manifeste par le biais des oracles, qui, pour accomplir de nombreuses missions, reçoivent de nombreuses offrandes. Le clergé de Thèbes, qui filtre ces offrandes devient de plus en plus puissant et riche, et finit même par légitimer l'accès au trône de certains souverains en appliquant le principe de la théogamie (le plus important n'est plus d'être le fils d'un roi mais le fils d'un Dieu). Il faut que le nouvel empereur soit approuvé par Amon. On peut alors légitimer le fait que ce nouveau pharaon est désormais le nouveau Dieu vivant sur Terre.
+
+## -1400 ans
+
+La reine Hatchepstout prend le pouvoir grâce aux oracles de Thèbes, donc par le clergé de Thèbes. Cette reine implore souvent les Dieux pour se faire pardonner. Mais pour suivre ce chemin du Pardon, il faut suivre le chemin de la Déesse Maât, qui représente l'ordre, la justice, la vérité et la stabilité du monde.
+
+## -1300 ans
+
+Perte d'influence de l'Egypte ancienne. Le peuple Hittites, Assyriens et Babylonieux s'affirment de plus en plus. Le culte d'Aton se fait oublier.
+
+# -1000 ans
+
+Les grands royaumes de l'âge du bronze s'effondre.
+
+# -600 ans
+
+La civilisation Maya en Amérique emploie aussi le principe du Rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguités (lire comme une image comme une image ou comme un son ?).
+
+L'écriture chinoise, maya et égyptionne sont des écritures qui suivent le même principe.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
@@ -729,3 +882,5 @@ Presque tous les animaux plus grands qu'un grand chien disparaissent d'Eurasie, 
 - [Gravitation](https://fr.wikipedia.org/wiki/Gravitation)
 - [Inflation cosmique](https://fr.wikipedia.org/wiki/Inflation_cosmique)
 - [Particule élémentaire](https://fr.wikipedia.org/wiki/Particule_%C3%A9l%C3%A9mentaire)
+- [Quark](https://fr.wikipedia.org/wiki/Quark)
+- [Electron](https://fr.wikipedia.org/wiki/%C3%89lectron)
