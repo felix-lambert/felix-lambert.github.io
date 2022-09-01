@@ -807,7 +807,7 @@ En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être
 
 # -5000 ans
 
-Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois pour qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui. Le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
+Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui. Le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
 
 C'est comme si les Egyptiens connaissaient déjà tous les pouvoirs de l'écrit. Pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.
 
