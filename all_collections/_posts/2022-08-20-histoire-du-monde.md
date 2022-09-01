@@ -803,7 +803,7 @@ Homo Sapiens commence à faire usage de la brique pour construire des maisons. E
 
 ## -6 000 ans
 
-En Amérique du Sud, Homo Sapiens domestique le chili. C'est peut-être la plante la plus ancienne à avoir été domestiquée.
+En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.
 
 # -5000 ans
 
