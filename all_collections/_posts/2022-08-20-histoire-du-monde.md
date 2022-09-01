@@ -870,7 +870,7 @@ Les grands royaumes de l'âge du bronze s'effondre.
 
 # -600 ans
 
-La civilisation Maya en Amérique emploie aussi le principe du Rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguités (lire comme une image comme une image ou comme un son ?).
+La civilisation Maya en Amérique emploie aussi le principe du Rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguités (lire une image comme une image ou comme un son ?).
 
 L'écriture chinoise, maya et égyptionne sont des écritures qui suivent le même principe.
 
