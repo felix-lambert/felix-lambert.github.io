@@ -506,7 +506,9 @@ Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au somm
 Le premier vrai mammifère, fidèle à notre lignée, apparaît. Il est petit et fait peut-être moins d'un kilo. On n'a pour le moment pas trouvé de fossiles de ce premier mammifère. Mais il a probablement les caractéristiques qui permet de dire que c'est un mammifère. Ces caractéristiques sont les suivantes:
 
 1 Il a des poils
+
 2 Il a une mâchoire
+
 3 Les femelles peuvent produire du lait
 
 ## - 201 000 000 d'années
