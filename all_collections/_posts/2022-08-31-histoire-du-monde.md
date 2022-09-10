@@ -579,21 +579,27 @@ C'est vraiment à la toute fin du règle des dinausores que l'on peut constater 
 
 ## -66 000 000 d'années
 
-L'impact d'un astéroïde met fin brutalement au monde des dinosaures, ainsi qu'aux reptiles marins. Cet astéroide fait presque 10 km de long et tombe dans l'océan crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel en presque en feu, chauffant la surface de la planète à plus de 500 degrés. Même plusieurs mois après l'impact la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts.
+L'impact d'un astéroïde met fin brutalement au monde des dinosaures, ainsi qu'aux reptiles marins. Cet astéroide fait presque 10 km de long. Lorsqu'il tombe dans l'océan, crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel presque en feu, chauffant la surface de la planète à plus de 500 degrés. Même plusieurs mois après l'impact, la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts.
 
 Cet événement marque la 5ème et la dernière extinction massive.
 
-Mais certains mammifères, qui ont eu l'intelligence de se cacher dans un environnement plus froid, sous terre, beaucoup plus petits que les dinosaures, parviennent à survivre. Ils se nourissent principalement de champignons qui n'ont pas besoin de lumière pour se développer et peuvent vivre sous Terre. Ils n'ont plus besoin de craindre des prédateurs aussi impressionants que des dinosaures, et ont donc la possibilité d'évoluer très rapidement. En effet, les animaux survivants commencent à se diversifier presque immédiatement, établissant des écosystèmes renouvelés et résilients sur terre en quelques centaines de milliers d'années.
+Mais certains mammifères, qui ont l'intelligence de se cacher dans un environnement plus froid, sous terre, beaucoup plus petits que les dinosaures, parviennent à survivre. Ils se nourissent principalement de champignons qui n'ont pas besoin de lumière pour se développer et peuvent vivre sous Terre. Ils n'ont plus besoin de craindre des prédateurs aussi impressionants que des dinosaures, et ont donc la possibilité d'évoluer très rapidement. En effet, les animaux survivants commencent à se diversifier presque immédiatement, établissant des écosystèmes renouvelés et résilients sur terre en quelques centaines de milliers d'années.
 
-A noter que certains lézards aussi parviennet à survivre et constituent par ailleurs aujourd'hui une des branches des espèces des vertébrés (notamment lézards, oiseaux et serpents) les plus répandus même aujourd'hui et donc pas du tout en voie d'extinction.
+A noter que certains lézards aussi parviennent à survivre et constituent par ailleurs aujourd'hui une des branches des espèces des vertébrés (notamment lézards, oiseaux et serpents) les plus répandus même aujourd'hui et donc pas du tout en voie d'extinction.
 
-Il n'y a aucune raison de penser qu'après l'humain décide par lui-même de causer sa propre extinction, même avec un cerveau très avancé, que les reptiles reprennent possession des continents et se développent aussi rapidement que les mammifères.
+Il n'y a aucune raison de penser, même avec le cerveau très avancé d'un Homo Sapiens, que les reptiles ne puissent pas reprendre possession des continents dans un futur proche par rapport à l'âge de la vie.
 
 On comprend aussi que les conditions de survie se situe souvent sous Terre, que ce soit en situation de conflit ou de menace climatique. A condition bien sûr qu'une montagne volcanique ne ressorte pas des surfaces, provoquée par des énergies des profondeurs terrestres.
 
 # -60 000 000 d'années
 
-Cette évolution rapide permet de faire évoluer à partir des mammifères une nouvelle branche d'espèces: les primates. Le primate le plus ancien est probablement Purgatorius. Il se nourrit d'insectes et de fruits. On rentre dans la branche des primates si l'on parvient à posséder des membranes qui permettent de facilement s'accrocher aux branches des arbres.
+Cette évolution rapide permet de faire évoluer à partir des mammifères une nouvelle branche d'espèces: les primates. Le primate le plus ancien est probablement Purgatorius.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/purgatorius.jpg)</span>
+
+<span style="display:block;text-align:center">(Purgatorius)</span>
+
+Il se nourrit d'insectes et de fruits. On rentre dans la branche des primates si l'on parvient à posséder des membranes qui permettent de facilement s'accrocher aux branches des arbres.
 
 Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.
 
@@ -819,6 +825,8 @@ Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
 
+Les villes et les villages du long du (grand fleuve d'Afrique du Nord) Nil s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
+
 # -3000 ans
 
 En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. Il faut en effet utiliser le principe du rébus pour vraiment saisir toute l'imagination et le sens abstrait lorsqu'Homo Sapiens fait usage du langage.
@@ -865,17 +873,53 @@ La reine Hatchepstout prend le pouvoir grâce aux oracles de Thèbes, donc par l
 
 ## -1300 ans
 
-Perte d'influence de l'Egypte ancienne. Le peuple Hittites, Assyriens et Babylonieux s'affirment de plus en plus. Le culte d'Aton se fait oublier.
+Perte d'influence de l'Egypte ancienne.
+
+Les peuples Hittites, Assyriens et Babylonieux s'affirment de plus en plus. Le culte d'Aton se fait oublier.
+
+### -1275 ans
+
+Ramsès II invente la propagande. En effet, ce qu'on appelle "l'épopée de Ramsès II", c'est une victoire éclatante face à l'Empire Hittite. Or dans la réalité, le territoire Egyptien se réduit face à l'expension du territoire Hittite. La bataille est relatée sur au moins 5 temples différents, ainsi qu'un récit (poême de Pentaour) qui relate l'événement.
+
+Ramsès II ne se gêne pas de se représenter à côté du Dieu Amon, qui lui remercie de cette prétendue victoire. L'image de Ramsès, qui n'hésite pas à remplacer le nom d'anciens pharaons sur les temples par le sien, se présente comme le "pacificateur de l'univers".
+
+En réécrivant sa propre histoire, Ramsès cherche à prouver qu'il est le pharaon choisit par les Dieux, légitimant ainsi un pouvoir incontestable.
+
+### -1258 ans
+
+Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.
+
+## -1207 ans
+
+Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...". Mais cette famine, qui a frappé la deuxième superpuissance de l'époque, n'est qu'un symptôme d'un problème bien plus large: un changement climatique drastique avec un refroidissement des températures. Ce changement de climat touche l'ensemble du bassin méditerranéen.
+
+Qui dit en effet température plus froide aux surfaces de la mer, dit moins d'évaporation, donc moins de précipitations. Et qui dit moins de pluie, dit baisse de la production agricole.
+
+Les agriculteurs représentent près de 99 % de la population. C'est pourquoi la moindre variation de la production agricole a des répercussions considérables sur toutes ses anciennes civilisations. Un paysan à cette époque dépend entièrement de la pluie. Il ne peut rien faire si la pluie tombe trop tôt ou trop tard. Lorsque la sécheresse frappe plusieurs royaumes simultanément, la famine menace.
+
+La cause de ce refroidissement n'est pas encore réellement connue, mais l'impact de ce changement climatique pèse sur les relations entre les différentes civilisations. Finalement, le commerce s'arrête puisqu'il n'y a plus de stocks de nourriture pour le commerce.
+
+Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.
+
+# -1200 ans
+
+Ramsès III a accédé au pouvoir dans une Egypte prospère et puissante. C'est à ce moment-là que la situation s'est véritablement détériorée. Des bandes de pillards envahissent des régions et des cités entières l'Egypte après avoir ravagé d'autres royaumes.
+
+Ces envahisseurs sont désignés sous le nom de "peuple de la mer". L'apparition de ces peuples de la mer marque la fin de nombreuses civilisations (celles qui disposent déjà de l'écriture) de l'âge du bronze.
+
+## -1155 ans
+
+## -1200 ans
 
 # -1000 ans
 
-Les grands royaumes de l'âge du bronze s'effondre.
+Les grands royaumes de l'âge du bronze s'effondrent.
 
 # -600 ans
 
-La civilisation Maya en Amérique emploie aussi le principe du Rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguités (lire une image comme une image ou comme un son ?).
+La civilisation Maya en Amérique emploie aussi le principe du rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguïtés (lire une image comme une image ou comme un son ?).
 
-L'écriture chinoise, maya et égyptionne sont des écritures qui suivent le même principe.
+Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
