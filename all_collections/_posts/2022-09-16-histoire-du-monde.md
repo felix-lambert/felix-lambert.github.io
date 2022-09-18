@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-08-31 10:18:00
+date: 2022-09-16 10:18:00
 tags: histoire
 ---
 
@@ -689,7 +689,7 @@ Homo Australopithecus utilise la marche principalement et arrête définitivemen
 
 ## - 1 900 000 ans
 
-Homo Erectus a la capacité de courir avec ses deux pieds, un peu comme un humain, afin notamment de chasser des proies, comme des gazelles ou des antilopes. Homo Erectus peut courir plus de 5 heures sans boire d'eau.
+Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds afin notamment de chasser des proies, comme des gazelles ou des antilopes.
 
 C'est probablement cette pratique de la course à pied qui permet à l'humain de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des mammifères.
 
@@ -729,7 +729,7 @@ Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec 
 
 ## - 350 000 ans
 
-Alors que les premiers hommes de Néandertal s'adaptent au froid glacial de l'Europe – un nouvel hominide, l'Homo Sapiens apparaît en Afrique, réparti sur tout le continent.
+Alors que les premiers hommes de Néandertal s'adaptent au froid glacial de l'Europe – un nouvel hominidé, Homo Sapiens, apparaît en Afrique, réparti sur tout le continent.
 
 # - 300 000 ans
 
@@ -761,15 +761,9 @@ Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique.
 
 # -50 000 ans
 
-## -49 000 ans
-
-Homo Sapiens et Néandertal se sont reproduis. C'est la raison pour laquelle on retrouve des traces de Néandertal dans notre ADN.
-
-Arrivée des humains en Australie. Cette arrivée semble coïncider avec la perte d'animaux indigènes.
-
 ## -45 000 ans
 
-Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie à l'Est à l'Espagne et l'Italie à l'Ouest. Les Néandertaliens, qui ont dominé l'Europe pendant un quart de million d'années, ont repoussé toutes les incursions antérieures des Homo sapiens. Cette fois, cependant, ils ne vont pas réussir. Ils vont disparaître assez rapidement après.
+Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie (à l'Est) à l'Espagne et l'Italie (à l'Ouest).
 
 ## -44000 ans
 
@@ -777,13 +771,13 @@ Les plus anciennes peintures connues, d'Indonésie, ont été réalisées; les c
 
 # -40 000 ans
 
-Fin des hommes de Néandertal probablement à cause d'un refroidissement brutal du climat et du manque de nourriture. En effet, le Neanderthal a besoin de plus de calorie qu'Homo Sapiens pour survivre et pour se reproduire notamment à cause de sa plus grande masse musculaire. Homo Sapiens est désormais le seul hominidé qui existe.
+Fin des hommes de Néandertal probablement à cause d'un refroidissement brutal du climat et du manque de nourriture. En effet, le Neanderthal a besoin de plus de calorie qu'Homo Sapiens pour survivre et pour se reproduire notamment à cause de sa plus grande masse musculaire.
 
 De plus, depuis l'arrivée d'Homo Sapiens il existe une concurrence plus forte pour la nourriture. Homo Néandertal, avec une demande plus grande en calorie qu'Homo Sapiens, fini par ne plus être assez nombreux pour maintenir sa population. Bref, le froid, la trop forte demande en calorie, et la compétition pour de la nourriture avec Homo Sapiens, signent la fin de Homo Néandertal.
 
 Il est peut-être utile de mentionner que cette fin est violente car on retrouve des traces de cannibalisme entre différentes tribus de Néandertaliens, probablement, encore une fois, à cause de ce manque de nourriture.
 
-Homo Sapiens, quant à lui, survit, et commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
+Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui existe. Il commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
 
 Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
 
@@ -797,11 +791,11 @@ Fin du dernier âge glaciaire.
 
 ## -11 000 ans
 
-Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, les gens ont développé l'agriculture, apprenant à cultiver et à récolter des figues, de l'orge, des pois chiches et des lentilles. En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
+Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture, apprenant à cultiver et à récolter des figues, de l'orge, des pois chiches et des lentilles. En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
 
 # -10 000 ans
 
-Presque tous les animaux plus grands qu'un grand chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction aurait pu être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine est spectaculaire.
+Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.
 
 ## -9 000 ans
 
@@ -817,9 +811,9 @@ En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être
 
 # -5000 ans
 
-Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui. Le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
+Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui: le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
 
-C'est comme si les Egyptiens connaissaient déjà tous les pouvoirs de l'écrit. Pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.
+Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.
 
 Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
 
@@ -827,33 +821,31 @@ Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
 
-Les villes et les villages du long du (grand fleuve d'Afrique du Nord) Nil s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
+Les villes et les villages du long du Nil (grand fleuve d'Afrique du Nord) s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
 
 # -3000 ans
 
-En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. Il faut en effet utiliser le principe du rébus pour vraiment saisir toute l'imagination et le sens abstrait lorsqu'Homo Sapiens fait usage du langage.
+En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. C'est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représentée.
 
-Ce même pas de géant se concrétise aussi en Egypte, à la même époque.
+Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard.
 
 Grâce à ce nouvel emploi des images, les dirigeants ont pu écrire l'histoire de leur règne, rédiger des codes juridiques, administrer, et même construire des monuments.
 
-Le principe du répus, transformer une image en un son, est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représentée.
-
 ## -1800 ans
 
-Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont eu l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens travailleur coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
+Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont eu l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
 
 La maison en hiérogriphe représente la lettre "B". L'eau en hiérogriphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
 
 A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī, le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.
 
-La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens, on n'a besoin pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une énorme invention.
+La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens, on n'a pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une énorme invention.
 
 Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
 
-Cette troupe de travailleurs a rapporté leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, où ol fut adopté par les Grecs, puis les Romains.
+Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.
 
 ## -1500 ans
 
@@ -871,17 +863,15 @@ La volonté de ce Dieu du soleil se manifeste par le biais des oracles, qui, pou
 
 ## -1400 ans
 
-La reine Hatchepstout prend le pouvoir grâce aux oracles de Thèbes, donc par le clergé de Thèbes. Cette reine implore souvent les Dieux pour se faire pardonner. Mais pour suivre ce chemin du Pardon, il faut suivre le chemin de la Déesse Maât, qui représente l'ordre, la justice, la vérité et la stabilité du monde.
+La reine Hatchepstout prend le pouvoir grâce aux oracles de Thèbes, donc par le clergé de Thèbes. Cette reine implore souvent les Dieux pour se faire pardonner.
 
 ## -1300 ans
-
-Perte d'influence de l'Egypte ancienne.
 
 Les peuples Hittites, Assyriens et Babylonieux s'affirment de plus en plus. Le culte d'Aton se fait oublier.
 
 ### -1275 ans
 
-Ramsès II invente la propagande. En effet, ce qu'on appelle "l'épopée de Ramsès II", c'est une victoire éclatante face à l'Empire Hittite. Or dans la réalité, le territoire Egyptien se réduit face à l'expension du territoire Hittite. La bataille est relatée sur au moins 5 temples différents, ainsi qu'un récit (poême de Pentaour) qui relate l'événement.
+Ramsès II invente la propagande. Ce qu'on appelle "l'épopée de Ramsès II", c'est une victoire éclatante face à l'Empire Hittite. Or dans la réalité, le territoire Egyptien se réduit face à l'expension du territoire Hittite. La bataille est relatée sur au moins 5 temples différents, ainsi qu'un récit (poême de Pentaour) qui relate l'événement.
 
 Ramsès II ne se gêne pas de se représenter à côté du Dieu Amon, qui lui remercie de cette prétendue victoire. L'image de Ramsès, qui n'hésite pas à remplacer le nom d'anciens pharaons sur les temples par le sien, se présente comme le "pacificateur de l'univers".
 
