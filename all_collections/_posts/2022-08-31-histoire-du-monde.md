@@ -35,15 +35,17 @@ Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la n
 
 À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.
 
-## -13 699 620 000 d'années
-
 Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température a alors chuté à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/helium.png)</span>
 
+## -13 699 620 000 d'années
+
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
 
 Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle). De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
+
+Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent : la gravitation, qui tend à contracter et faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à dilater l'astre.
 
 Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Ces atomes d’hydrogène et d’hélium n’ont pas réussi ce tour de force tout seuls. Il leur a fallu le concours de la mystérieuse matière sombre dont on ignore la nature mais qui constitue près de 85 % de la matière présente dans l’Univers.
 
@@ -161,7 +163,7 @@ Les êtres vivants commencent à se rassembler pour composer des filaments verd�
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
 
-Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène.
+Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène (un gaz sans odeur ni couleur).
 
 ## -3 200 000 000 d'années
 
@@ -183,7 +185,7 @@ La lave libérée par les volcans commence à refroidir et à créer de petites 
 
 Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
 
-Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
+Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Les participants à ce qui a été une communauté de cellules en roue libre devinrent de plus en plus interdépendants. Chaque membre se concente uniquement sur un aspect particulier de la vie. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
 
 On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau.
 
@@ -239,8 +241,6 @@ Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus
 
 Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela a libéré une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique a atteint la stratosphère (au-dessus des nuages) et n'est donc pas devenue acide. Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
 
-## -825 000 000 d'années
-
 L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années, laissant un anneau de continents autour de l'équateur. La rupture s'est accompagnée d'énormes éruptions volcaniques qui ont apporté de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée
 basalte.
 
@@ -259,6 +259,8 @@ basalte.
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cathedralebasalte.JPG)</span>
 
 <span style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</span>
+
+## -825 000 000 d'années
 
 # -800 000 000 d'années
 
@@ -314,7 +316,7 @@ Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent
 
 <span style="display:block;text-align:center">(Trilobite)</span>
 
-Les trilobites apparaissent. Ce sont des animaux avec des yeux, un système digestif sophistiqué, des jambes, et couvert d'un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et ont dominé les mers cambriennes en se nourissant principalement de vers.
+Les trilobites apparaissent. Certains trilobites ont des yeux énormes, tandis que d'autres sont aveugles. Mais ils ont tous un système digestif sophistiqué, des jambes, avec un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et domine les mers cambriennes en se nourissant principalement de vers.
 
 ## - 505 000 000 d'années
 
@@ -891,7 +893,7 @@ Premier traité de paix entre les Egyptiens et les Hittites (libre circulation d
 
 ## -1207 ans
 
-Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...". Mais cette famine, qui a frappé la deuxième superpuissance de l'époque, n'est qu'un symptôme d'un problème bien plus large: un changement climatique drastique avec un refroidissement des températures. Ce changement de climat touche l'ensemble du bassin méditerranéen.
+Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...". Mais cette famine, qui a frappé la deuxième superpuissance de l'époque, n'est qu'un symptôme d'un problème bien plus large: un changement climatique drastique avec un refroidissement des températures qui touche l'ensemble du bassin méditerranéen.
 
 Qui dit en effet température plus froide aux surfaces de la mer, dit moins d'évaporation, donc moins de précipitations. Et qui dit moins de pluie, dit baisse de la production agricole.
 
@@ -903,9 +905,9 @@ Plusieurs civilisations qui s'effondrent simultanément signifient la disparitio
 
 # -1200 ans
 
-Ramsès III a accédé au pouvoir dans une Egypte prospère et puissante. C'est à ce moment-là que la situation s'est véritablement détériorée. Des bandes de pillards envahissent des régions et des cités entières l'Egypte après avoir ravagé d'autres royaumes.
+Ramsès III a accédé au pouvoir dans une Egypte prospère et puissante. C'est à ce moment-là que la situation s'est véritablement détériorée. Des bandes de pillards envahissent des régions et des cités entières d'Egypte après avoir ravagé d'autres royaumes.
 
-Ces envahisseurs sont désignés sous le nom de "peuple de la mer". L'apparition de ces peuples de la mer marque la fin de nombreuses civilisations (celles qui disposent déjà de l'écriture) de l'âge du bronze.
+Ces envahisseurs sont désignés sous le nom de "peuple de la mer". L'apparition de ces peuples marque la fin de nombreuses civilisations (celles qui disposent déjà de l'écriture) de l'âge du bronze.
 
 ## -1155 ans
 
@@ -931,3 +933,7 @@ Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 - [Particule élémentaire](https://fr.wikipedia.org/wiki/Particule_%C3%A9l%C3%A9mentaire)
 - [Quark](https://fr.wikipedia.org/wiki/Quark)
 - [Electron](https://fr.wikipedia.org/wiki/%C3%89lectron)
+- [Hydrogène](https://fr.wikipedia.org/wiki/Hydrog%C3%A8ne)
+- [Hélium](https://fr.wikipedia.org/wiki/H%C3%A9lium)
+- [Fond diffus cosmologique](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
+- [Etoile](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
