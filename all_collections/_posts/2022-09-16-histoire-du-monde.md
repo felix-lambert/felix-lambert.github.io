@@ -41,7 +41,9 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 ## -13 699 620 000 d'années
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe): c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Ce phénomène est appelé "Recombinaison".
+
+Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
 
 Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle). De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
@@ -67,7 +69,7 @@ Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoil
 
 Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donne les physiognomies des galaxies.
 
-Le centre, le noyau de la voie lactée se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
+Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
 
 ## -12 700 000 000 d'années
 
@@ -81,9 +83,11 @@ Les interactions entre galaxies sont plus nombreuses, mais les galaxies massives
 
 Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers, essentiels à la vie.
 
-La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
+La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (moins de 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
 
 # -11 000 000 000 d'années
+
+Le taux net de formation d'étoiles a probablement atteint son maximum.
 
 # -10 000 000 000 d'années
 
@@ -595,13 +599,15 @@ On comprend aussi que les conditions de survie se situe souvent sous Terre, que 
 
 # -60 000 000 d'années
 
-Cette évolution rapide permet de faire évoluer à partir des mammifères une nouvelle branche d'espèces: les primates. Le primate le plus ancien est probablement Purgatorius.
+Cette évolution rapide permet de faire évoluer à partir des mammifères une nouvelle branche d'espèces: les primates. On rentre dans la branche des primates si on parvient à posséder des membranes qui permettent de facilement s'accrocher aux branches des arbres.
+
+Le primate le plus ancien est probablement Purgatorius.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/purgatorius.jpg)</span>
 
 <span style="display:block;text-align:center">(Purgatorius)</span>
 
-Il se nourrit d'insectes et de fruits. On rentre dans la branche des primates si l'on parvient à posséder des membranes qui permettent de facilement s'accrocher aux branches des arbres.
+Ce petit animal se nourrit d'insectes et de fruits.
 
 Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.
 
@@ -613,7 +619,7 @@ L'agriculture fait donc partie du savoir-faire des fourmis.
 
 ## -56 000 000 d'années
 
-L'antarctique, chaud par rapport à aujourd'hui, avec des forêts, est toujours lié à l'Australie et l'Amérique du Sud. Il y a des palmiers, des mammifères
+L'antarctique, chaud par rapport à aujourd'hui, avec des forêts, est toujours lié à l'Australie et l'Amérique du Sud. Il y a des palmiers et des mammifères.
 
 ## -54 000 000 d'années
 
@@ -621,7 +627,7 @@ Un nouveau mammifère volant voit le jour: les chauve-souris (Icaronyteris).
 
 # - 50 000 000 d'années
 
-Les plus gros mammifères marins voient le jour : les premières baleines.
+Les plus gros mammifères marins voient le jour: les premières baleines.
 
 ## -47 000 000 d'années
 
@@ -667,39 +673,37 @@ La marche humaine est l'une des grandes merveilles sous-estimées du monde moder
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hLvfq51RkxM" frameborder="0" allowfullscreen></iframe></p>
 
-En effet, un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.
+Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.
 
 # - 4 000 000 d'années
 
-Le climat de la planète est en train de changer, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.
+Le climat de la planète change, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.
 
 ## - 3 500 000 d'années
 
-Quelques-uns des hominidés ont développé un goût pour la viande. Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie.
+Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.
 
 # - 3 000 000 d'années
 
 ## - 2 400 000 années
 
-Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il ait été plus charognard (qui consomme les cadavres d'autres animaux) que chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer. Homo Habilis est la première espèce qui peut utiliser des pierres pour fabriquer des outils simples.
+Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il soit plus un charognard (qui consomme les cadavres d'autres animaux) qu'un chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer et est la première espèce à pouvoir utiliser des pierres pour fabriquer des outils simples.
 
 # - 2 000 000 d'années
 
-Homo Australopithecus utilise la marche principalement et arrête définitivement de grimper dans les arbres, sauf en cas de menace imminente.
+L'homo australopithèque utilise surtout la marche comme moyen de se déplacer et arrête définitivement de grimper dans les arbres, sauf s'il y a une menace imminente.
 
 ## - 1 900 000 ans
 
-Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds afin notamment de chasser des proies, comme des gazelles ou des antilopes.
+Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds afin notamment de chasser et d'épuiser ses proies, comme des gazelles ou des antilopes. Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
 
-C'est probablement cette pratique de la course à pied qui permet à l'humain de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des mammifères.
+C'est probablement cette pratique de la course à pied qui permet à Homo Erectus (et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des autres mammifères.
 
-Aujourd'hui, l'humain a cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, on est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
-
-Cette capacité permet à Homo Erectus d'être très endurant et d'épuiser ses proies. Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
+Grâce à cette pratique de la course à pied, Homo Erectus inaugure a cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, Homo Sapiens est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
 
 Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
 
-L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution humaine.
+L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution des hominidés.
 
 ## - 1 600 000 années
 
@@ -927,3 +931,4 @@ Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 - [Hélium](https://fr.wikipedia.org/wiki/H%C3%A9lium)
 - [Fond diffus cosmologique](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
 - [Etoile](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
+- [Galaxie](https://fr.wikipedia.org/wiki/Galaxie)
