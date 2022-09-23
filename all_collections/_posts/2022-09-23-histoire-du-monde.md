@@ -11,7 +11,7 @@ tags: histoire
 
 Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
 
-L'univers est au début des milliards de fois plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Dans cet univers, il y a 4 forces fondamentales:
+L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Dans cet univers, il y a 4 forces fondamentales:
 
 1 forces électromagnétiques > peut influer des objets plus grands que des atomes
 
@@ -21,11 +21,11 @@ L'univers est au début des milliards de fois plus chaud que le centre de notre 
 
 4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome. Attire les quarks entre eux par exemple.
 
-Ces 4 forces fondamentales du monde se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
+Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
-Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement et se transforment en énergie. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. C'est donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
+Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
@@ -41,9 +41,7 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 ## -13 699 620 000 d'années
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple). Ce phénomène est appelé "Recombinaison".
-
-Qui dit atome d'hydrogène, dit radiation. Ce rayonnement radioactif, qui a traversé l'espace en grande partie sans obstacle, est connu comme le fond diffus cosmologique.
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple).
 
 Nous sommes dorénavant dans les temps sombres car aucune étoile n'existe. L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle). De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, 30 000 000 d'années après le big bang, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
@@ -916,8 +914,6 @@ Ramsès III a accédé au pouvoir dans une Egypte prospère et puissante. C'est 
 Ces envahisseurs sont désignés sous le nom de "peuple de la mer". L'apparition de ces peuples marque la fin de nombreuses civilisations (celles qui disposent déjà de l'écriture) de l'âge du bronze.
 
 ## -1155 ans
-
-## -1200 ans
 
 Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.
 
