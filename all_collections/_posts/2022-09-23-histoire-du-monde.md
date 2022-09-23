@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-09-16 10:18:00
+date: 2022-09-23 10:18:00
 tags: histoire
 ---
 
@@ -51,13 +51,21 @@ Pendant une grande partie de son existence, une étoile est en équilibre sous l
 
 Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Ces atomes d’hydrogène et d’hélium n’ont pas réussi ce tour de force tout seuls. Il leur a fallu le concours de la mystérieuse matière sombre dont on ignore la nature mais qui constitue près de 85 % de la matière présente dans l’Univers.
 
-Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil). Ces étoiles de la population III sont essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche que l’Univers primitif, à savoir transmuter l’hydrogène en hélium. Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène, du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
+Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil). Ces étoiles de la population III sont essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche que l’Univers primitif, à savoir transmuter l’hydrogène en hélium.
+
+A la fin de leur vie, ces étoiles ont généralement explosé en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires comme reliques.
+
+Les trous noirs sont des objets avec un champ gravitationnel tellement fort que même la lumière est incapable de s'y échapper.
 
 ## -13 500 000 000 d'années
 
 Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
 
+Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène, du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
+
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
+
+La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone de quelques mégaparsecs, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. Avec le temps, celle-ci détruit ses satellites, qui viennent ajouter leur masse à la sienne, par le biais des forces de marée. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.
 
 ## -13 100 000 000 d'années
 
@@ -821,6 +829,10 @@ Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on 
 
 Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
 
+## -4200 ans
+
+L'Egypte connaît une épisode de sécheresse très sévère. Les eaux du Nil ont baissé de façon dramatique. Cette première sécheresse a peut-être provoqué la chute de l'Ancien Empire.
+
 # -4000 ans
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
@@ -907,15 +919,35 @@ Ces envahisseurs sont désignés sous le nom de "peuple de la mer". L'apparition
 
 ## -1200 ans
 
+Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.
+
 # -1000 ans
 
-Les grands royaumes de l'âge du bronze s'effondrent.
+Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment. Plusieurs villages forment une ligue religieuse: le Septimontium.
+
+# -800 ans
+
+## -753 ans
+
+Rome envahit Albe, supposé être la ville centre des populations latines. Les populations soumises sont transférées à Rome, augmentant la démographie et donc la croissance. Il y a aussi d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands. Peu à peu une classe de citoyens, avec peu de droits politiques, se forment. On appelle ces citoyens: la Plèbe ou plébéiens. Les Patriciens sont les ancienns familles de Rome, qui disposent de prérogatives religieuses et politiques étendues.
+
+## -616 ans
+
+Tarquin l'Ancien, dirigeant romain, établit le temple de Jupiter sur le Capitole. Il construit aussi des égouts, qui servent à asécher les marais.
 
 # -600 ans
 
 La civilisation Maya en Amérique emploie aussi le principe du rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguïtés (lire une image comme une image ou comme un son ?).
 
 Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
+
+## -509 ans
+
+Le régime monarchique de Rome tombe. La République Romaine se met en place progressivement.
+
+## -390 ans
+
+Rome subit une attaque dévastatrive des Celtes depuis le nord. La ville de Rome est occupée et est obligée de payer une sévère rançon. Ce traumatisme enclenche une politique de conquête. Rome étend son emprise sur la péninsule italique (preque l'Italie actuelle).
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
@@ -932,3 +964,7 @@ Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 - [Fond diffus cosmologique](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
 - [Etoile](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
 - [Galaxie](https://fr.wikipedia.org/wiki/Galaxie)
+- [Étoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II)
+- [Étoile de population III](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_III)
+- [Hypernova](https://fr.wikipedia.org/wiki/Hypernova)
+- [Trou noir](https://fr.wikipedia.org/wiki/Trou_noir)
