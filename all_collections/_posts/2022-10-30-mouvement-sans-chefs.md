@@ -1,6 +1,15 @@
+---
+layout: post
+title: Top 10 des mouvements sans chefs
+date: 2022-10-30 10:18:00
+tags: histoire
+---
+
 Top 10 des mouvements sans chefs, ni hiérarchies, ni règles formelles "obligatoires".
 
-# 10. Tang Ping
+# 10. TangPing
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lie-flat-blog-1.jpg)</span>
 
 En 2016, Luo Huazhong, 26 ans, quitte son emploi à l'usine parce qu'il se sent vide. Il parcourt ensuite 2 100 km du Sichuan au Tibet. Puis, de retour dans sa ville natale de Jiande, dans l'est de la province du Zhejiang, il passe son temps à lire de la philosophie, et se débrouille en faisant quelques petits boulots et en prenant 60 $US par mois de ses économies. Il ne mange que deux repas par jour, généralement des œufs, du riz et des nouilles, ne dépensant qu'environ 200 yuans (31 dollars) par mois.
 
