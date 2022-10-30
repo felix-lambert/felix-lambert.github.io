@@ -5,7 +5,7 @@ date: 2022-10-30 10:18:00
 tags: histoire
 ---
 
-Il est peut-être important de ne pas prendre à la lettre certaines règles de ces mouvements ou de ne pas chercher à y adhérer de manière aveugle, mais simplement d'être conscient qu'ils existent, de les considérer avec amitié et même de temps en temps d'accepter de pratiquer certains rituels qui les font vivre. La valeur nouvelle est précisément de remettre en cause la soumission à un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique. Et l'existence de ces mouvements ne se fait pas non plus à partir d'ennemis clairement identifiés. Ce sont des mouvements qui demandent des changements profonds de la société mais, je l'espère, sans violence.
+Redonnons de la valeur à l'invisible. Il est peut-être important de ne pas prendre à la lettre certaines règles de ces mouvements ou de ne pas chercher à y adhérer de manière aveugle, mais simplement d'être conscient qu'ils existent, de les considérer avec amitié et même de temps en temps d'accepter de pratiquer certains rituels qui les font vivre. La valeur nouvelle est précisément de remettre en cause la soumission à un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique. Et l'existence de ces mouvements ne se fait pas non plus à partir d'ennemis clairement identifiés. Ce sont des mouvements qui demandent des changements profonds de la société mais, je l'espère, sans violence.
 
 # 10. Anonymous
 
