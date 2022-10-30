@@ -11,11 +11,13 @@ Top 10 des mouvements sans chefs, ni hiérarchies, ni règles formelles "obligat
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lie-flat-blog-1.jpg)</span>
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lying-flat.jpg)</span>
+
 En 2016, Luo Huazhong, 26 ans, quitte son emploi à l'usine parce qu'il se sent vide. Il parcourt ensuite 2 100 km du Sichuan au Tibet. Puis, de retour dans sa ville natale de Jiande, dans l'est de la province du Zhejiang, il passe son temps à lire de la philosophie, et se débrouille en faisant quelques petits boulots et en prenant 60 $US par mois de ses économies. Il ne mange que deux repas par jour, généralement des œufs, du riz et des nouilles, ne dépensant qu'environ 200 yuans (31 dollars) par mois.
 
 Luo, sous le pseudo, "Kind-Hearted Traveler", partage un article sur le moteur de recherche chinois Baidu expliquant pourquoi il mène une vie minimaliste.
 
-    "Je n'ai pas travaillé pendant deux ans, j'ai juste traîné et je ne vois rien de mal à cela. La pression vient principalement des comparaisons avec vos pairs et des valeurs de l'ancienne génération. Ces pressions ne cessent d'apparaître… Mais, nous n'avons pas à respecter ces (normes). Je peux vivre comme Diogène et dormir dans un seau en bois, profitant du soleil. Je peux vivre comme Héraclite dans une grotte, en pensant au "logos". S'allonger par terre est mon mouvement philosophique. Ce n'est qu'en s'allongeant par terre sur le dos à plât que l'homme peut devenir la mesure de toutes choses".
+<em>"Je n'ai pas travaillé pendant deux ans, j'ai juste traîné et je ne vois rien de mal à cela. La pression vient principalement des comparaisons avec vos pairs et des valeurs de l'ancienne génération. Ces pressions ne cessent d'apparaître… Mais, nous n'avons pas à respecter ces (normes). Je peux vivre comme Diogène et dormir dans un seau en bois, profitant du soleil. Je peux vivre comme Héraclite dans une grotte, en pensant au "logos". S'allonger par terre est mon mouvement philosophique. Ce n'est qu'en s'allongeant par terre sur le dos à plât que l'homme peut devenir la mesure de toutes choses".</em>
 
 Luo gagne de l'argent grâce à des petits boulots, qui implique précisément de rester allonger sur le dos - l'un de ses petits boulots consiste à être un figurant dans des films, dans lesquels il joue parfois un cadavre.
 
