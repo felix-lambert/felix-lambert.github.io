@@ -935,9 +935,9 @@ Jacques Callot, durant la guerre des trente ans, dénonce la vie dure des soldat
 
 L'Angleterre commence des réformes économiques en
 
-1 supprimant les lourdes taxes sur les manufactures
-2 instituant un impôt foncier de 20%
-3 créant une banque nationale d'Angleterre afin de soutenir le développement des manufactures par des prêts
+1 supprimant les lourdes taxes sur les manufactures<br/>
+2 instituant un impôt foncier de 20%<br/>
+3 créant une banque nationale d'Angleterre afin de soutenir le développement des manufactures par des prêts<br/>
 
 La croissance économique qui suit est énorme. Tandis que l'Europe continentale s'enfonce de plus en plus dans la récession, ces réformes économiques (la révolution financière britannique) favorisent l'avènement de la révolution industrielle.
 
@@ -1035,9 +1035,9 @@ Début de la seconde guerre de l'opium.
 
 Un émissaire américain revient au Japon et parvient à négocier un nouveau traité: le traité Harris.
 
-1 4 nouveaux ports sont ouverts aux américains (ce qui en fait 7 au total)
-2 les droits de douanes sont faibles
-3 les américains sont jugés comme des américains au Japon
+1 4 nouveaux ports sont ouverts aux américains (ce qui en fait 7 au total)<br/>
+2 les droits de douanes sont faibles<br/>
+3 les américains sont jugés comme des américains au Japon<br/>
 
 Les autres grandes puissances en profitent: la France, la Russie, le Royaume-Uni, les Pays-Bas obtiennent des drois similaires au Japon.
 
