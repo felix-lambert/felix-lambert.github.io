@@ -29,14 +29,14 @@ Dans une interview, il déclare qu'il passe la plupart de son temps à nager et 
 
 Les internautes se sont identifiés comme des "lying flatism", publiant des photos de chats et de phoques allongés sur le dos.
 
-Le mouvement "S'allonger sur le dos" signifie :
+Le mouvement "S'allonger sur le dos" propose de:
 
-N'achetez pas d'appartement.
-N'achetez pas de voiture.
-Ne vous mariez pas.
-N'ayez pas d'enfants.
-Ne soyez pas un consommateur.
-Maintenez le niveau de vie le plus bas possible.
+Ne pas acheter d'appartement.
+Ne pas acheter de voiture.
+Ne pas se marrier.
+Ne pas avoir d'enfants.
+Ne pas devenir un consommateur.
+Maintenir un niveau de vie le plus bas possible.
 
 Musique provenant du mouvement Tang ping:
 
