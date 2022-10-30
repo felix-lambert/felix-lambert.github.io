@@ -31,12 +31,12 @@ Les internautes se sont identifiés comme des "lying flatism", publiant des phot
 
 Le mouvement "S'allonger sur le dos" propose de:
 
-Ne pas acheter d'appartement.
-Ne pas acheter de voiture.
-Ne pas se marrier.
-Ne pas avoir d'enfants.
-Ne pas devenir un consommateur.
-Maintenir un niveau de vie le plus bas possible.
+Ne pas acheter d'appartement.<br />
+Ne pas acheter de voiture.<br />
+Ne pas se marrier.<br />
+Ne pas avoir d'enfants.<br />
+Ne pas devenir un consommateur.<br />
+Maintenir un niveau de vie le plus bas possible.<br />
 
 Musique provenant du mouvement Tang ping:
 
@@ -44,13 +44,13 @@ Musique provenant du mouvement Tang ping:
 
 Traduction:
 
-"Travailler de neuf à neuf, six fois par semaine
-Tes cheveux tombent
-S'allonger sur le dos est l'antidote
-C'est vraiment bien de s'allonger sur le dos
-S'allonger sur le dos c'est vraiment merveilleux
-S'allonger sur le dos est la voie royale
-Allongé sur le dos, vous ne pouvez pas être abattu…
-Allongé sur le dos, vous ne pouvez vraiment pas être abattu.
-La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes
-Allongé sur le dos, tu ne peux pas tomber"
+<em>Travailler de neuf à neuf, six fois par semaine</em>
+<em>Tes cheveux tombent</em>
+<em>S'allonger sur le dos est l'antidote</em>
+<em>C'est vraiment bien de s'allonger sur le dos</em>
+<em>S'allonger sur le dos c'est vraiment merveilleux</em>
+<em>S'allonger sur le dos est la voie royale</em>
+<em>Allongé sur le dos, vous ne pouvez pas être abattu…</em>
+<em>Allongé sur le dos, vous ne pouvez vraiment pas être abattu.</em>
+<em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em>
+<em>Allongé sur le dos, tu ne peux pas tomber</em>
