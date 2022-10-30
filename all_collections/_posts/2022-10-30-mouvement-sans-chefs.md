@@ -5,9 +5,32 @@ date: 2022-10-30 10:18:00
 tags: histoire
 ---
 
-Top 10 des mouvements sans chefs, ni hiérarchies, ni règles formelles "obligatoires".
+Top 10 des mouvements sans chefs, ni hiérarchies, ni règles formelles "obligatoires". Il est peut-être important de ne pas prendre à la lettre certaines règles de ces mouvements ou de ne pas chercher à y adhérer de manière aveugle, mais simplement d'être conscient qu'ils existent, de les considérer avec amitié et même de temps en temps d'accepter de pratiquer certains rituels qui les font vivre. La valeur nouvelle est précisément de remettre en cause la soumission à un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique. Et l'existence de ces mouvements ne se fait pas non plus à partir d'ennemis clairement identifiés. Ce sont des mouvements qui demandent des changements profonds de la société mais, je l'espère, sans violence.
 
-# 10. TangPing
+# 10. Anonymous
+
+<em>Anonymous est la première superconscience construite à l'aide d'Internet. Anonymous est un groupe semblable à une volée d'oiseaux. Comment savez-vous que c'est un groupe ? Parce qu'ils voyagent dans la même direction. À tout moment, des oiseaux peuvent rejoindre ou quitter le groupe, ou aller dans une direction totalement contraire à ce dernier.</em>
+
+Mais Anonymous a quand même un cadre, qui peut être définit comme suit: <em>une vision optimiste de l'autonomie régnante, sur l'entraide, le partage des ressources, les connaissances participatives, la sensibilisation sociale, la lutte contre l'oppression, la création communautaire et la communication sécurisée</em>
+
+Anonymous demande clairement un monde sans oppression ou hiérarchie. Le fait que la communication soit sécurisée et privée, sans enregistrement notamment de l'adresse IP, est très importante pour Anonymous. Ils n'hésitent pas à attaquer informatiquement les pays dans lequels l'oppression et la cybercensure est forte, comme la Tunisie, l'Iran, l'Arabie Saoudite, la Lybie, l'Algérie, le Vénésuela, l'Egypte... Mais anonymous peut aussi attaquer informatiquement sur des sujets plus précis, comme Sony, qui a enclenché des procédures judiciaires contre des hackers qui ont réussi à contourner les protections numériques de la PlayStation 3.
+
+Le groupe défend aussi l'éthique animale et la préservation de l'environnement.
+
+Comme la plupart des groupes informels n'importe qui peut se revendiquer « Anonymous ». Anonymous n'étant ni une organisation, ni un quelconque club, il est impossible de le rejoindre officiellement : il n'y a pas de chef, pas de frais, pas de classement, et aucun moyen de communication unique. Anonymous est réparti sur plusieurs médias en plusieurs langues.
+
+Anonymous est un groupe qui a comme finalité la liberté d'expression. Il est aussi central à Anonymous d'intervenir dans le monde non-numérique sans utiliser la violence physique. Les instructions que l'on peut retrouver sur différents forums sont claires quant à la coopération avec la police, la conformité des manifestations aux lois, la présence de personnes mineures, etc.
+
+Quelques événements marquants où on peut reconstater l'existence du groupe anonymous:
+
+occupy wall street
+le printemps arabe
+l'attaque de Charlie Hebdo
+l'influence d'un milliardaire sur la valeur du bitcoin
+le guerre en Ukraine
+...
+
+# 9. TangPing
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lie-flat-blog-1.jpg)</span>
 
