@@ -23,11 +23,11 @@ Anonymous est un groupe qui a comme finalité la liberté d'expression. Il est a
 
 Quelques événements marquants où on peut reconstater l'existence du groupe anonymous:
 
-occupy wall street
-le printemps arabe
-l'attaque de Charlie Hebdo
-l'influence d'un milliardaire sur la valeur du bitcoin
-le guerre en Ukraine
+occupy wall street<br/>
+le printemps arabe<br/>
+l'attaque de Charlie Hebdo<br/>
+l'influence d'un milliardaire sur la valeur du bitcoin<br/>
+le guerre en Ukraine<br/>
 ...
 
 # 9. TangPing
