@@ -23,7 +23,7 @@ Luo gagne de l'argent grâce à des petits boulots, qui implique précisément d
 
 Dans une interview, il déclare qu'il passe la plupart de son temps à nager et à lire des livres, y compris ceux sur la société américaine. "J'aimerais comprendre ce que pensent les gens dans un pays étranger", a-t-il déclaré.
 
-"Bien sûr, tout le monde ne peut pas choisir de s'allonger, mais la société doit donner aux gens la possibilité de progresser ou de se retirer de la vie", a-t-il déclaré à Epoch Story.
+<em>Bien sûr, tout le monde ne peut pas choisir de s'allonger, mais la société doit donner aux gens la possibilité de progresser ou de se retirer de la vie</em>, a-t-il déclaré à Epoch Story.
 
 Les internautes se sont identifiés comme des "lying flatism", publiant des photos de chats et de phoques allongés sur le dos.
 
