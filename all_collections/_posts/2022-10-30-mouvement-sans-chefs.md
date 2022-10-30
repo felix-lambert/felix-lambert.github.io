@@ -21,7 +21,9 @@ Luo, sous le pseudo, "Kind-Hearted Traveler", partage un article sur le moteur d
 
 Luo gagne de l'argent grâce à des petits boulots, qui implique précisément de rester allonger sur le dos - l'un de ses petits boulots consiste à être un figurant dans des films, dans lesquels il joue parfois un cadavre.
 
-Dans une interview, il déclare qu'il passe la plupart de son temps à nager et à lire des livres, y compris ceux sur la société américaine. "J'aimerais comprendre ce que pensent les gens dans un pays étranger", a-t-il déclaré.
+Dans une interview, il déclare qu'il passe la plupart de son temps à nager et à lire des livres, y compris ceux sur la société américaine.
+
+<em>J'aimerais comprendre ce que pensent les gens dans un pays étranger</em>, a-t-il déclaré.
 
 <em>Bien sûr, tout le monde ne peut pas choisir de s'allonger, mais la société doit donner aux gens la possibilité de progresser ou de se retirer de la vie</em>, a-t-il déclaré à Epoch Story.
 
