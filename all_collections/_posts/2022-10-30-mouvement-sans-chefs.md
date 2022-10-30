@@ -38,7 +38,7 @@ Maintenez le niveau de vie le plus bas possible.
 
 Musique provenant du mouvement Tang ping:
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=corZx0a1yRU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/corZx0a1yRU" frameborder="0" allowfullscreen></iframe></p>
 
 Traduction:
 
