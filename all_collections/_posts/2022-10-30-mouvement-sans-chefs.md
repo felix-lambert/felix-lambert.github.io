@@ -36,7 +36,9 @@ N'ayez pas d'enfants.
 Ne soyez pas un consommateur.
 Maintenez le niveau de vie le plus bas possible.
 
-- Musique provenant du mouvement Tang ping: https://www.youtube.com/watch?v=corZx0a1yRU.
+Musique provenant du mouvement Tang ping:
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=corZx0a1yRU" frameborder="0" allowfullscreen></iframe></p>
 
 Traduction:
 
