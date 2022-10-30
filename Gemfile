@@ -6,6 +6,8 @@ source "https://rubygems.org"
 
 gem "jekyll-paginate", "~> 1.1"
 
+
+
 gem "jemoji", "~> 0.11.1"
 
 gem "jekyll-seo-tag", "~> 2.6"
