@@ -44,13 +44,13 @@ Musique provenant du mouvement Tang ping:
 
 Traduction:
 
-<em>Travailler de neuf à neuf, six fois par semaine</em>
-<em>Tes cheveux tombent</em>
-<em>S'allonger sur le dos est l'antidote</em>
-<em>C'est vraiment bien de s'allonger sur le dos</em>
-<em>S'allonger sur le dos c'est vraiment merveilleux</em>
-<em>S'allonger sur le dos est la voie royale</em>
-<em>Allongé sur le dos, vous ne pouvez pas être abattu…</em>
-<em>Allongé sur le dos, vous ne pouvez vraiment pas être abattu.</em>
-<em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em>
+<em>Travailler de neuf à neuf, six fois par semaine</em><br />
+<em>Tes cheveux tombent</em><br />
+<em>S'allonger sur le dos est l'antidote</em><br />
+<em>C'est vraiment bien de s'allonger sur le dos</em><br />
+<em>S'allonger sur le dos c'est vraiment merveilleux</em><br />
+<em>S'allonger sur le dos est la voie royale</em><br />
+<em>Allongé sur le dos, vous ne pouvez pas être abattu…</em><br />
+<em>Allongé sur le dos, vous ne pouvez vraiment pas être abattu.</em><br />
+<em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em><br />
 <em>Allongé sur le dos, tu ne peux pas tomber</em>
