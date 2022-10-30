@@ -47,33 +47,29 @@ L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nua
 
 Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à dilater l'astre.
 
-Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Ces atomes d’hydrogène et d’hélium n’ont pas réussi ce tour de force tout seuls. Il leur a fallu le concours de la mystérieuse matière sombre dont on ignore la nature mais qui constitue près de 85 % de la matière présente dans l’Univers.
+Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.
 
-Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil). Ces étoiles de la population III sont essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche que l’Univers primitif, à savoir transmuter l’hydrogène en hélium.
-
-A la fin de leur vie, ces étoiles ont généralement explosé en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires comme reliques.
-
-Les trous noirs sont des objets avec un champ gravitationnel tellement fort que même la lumière est incapable de s'y échapper.
+A la fin de leur vie, ces étoiles ont généralement explosé en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.
 
 ## -13 500 000 000 d'années
 
 Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
 
-Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène, du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
+Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène (appelée communément « dioxygène » par les chimistes), du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
 
-La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone de quelques mégaparsecs, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. Avec le temps, celle-ci détruit ses satellites, qui viennent ajouter leur masse à la sienne, par le biais des forces de marée. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.
+La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone de quelques mégaparsecs, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.
 
 ## -13 100 000 000 d'années
 
-Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple.
+Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. L'oxygène est, en masse, le troisième élément le plus abondant de l'Univers après l'hydrogène et l'hélium.
 
 # -13 000 000 000 d'années
 
 Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.
 
-Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donne les physiognomies des galaxies.
+Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Les trous noirs sont des objets avec un champ gravitationnel tellement fort que même la lumière est incapable de s'y échapper. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donne les physiognomies des galaxies.
 
 Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
 
@@ -89,7 +85,7 @@ Les interactions entre galaxies sont plus nombreuses, mais les galaxies massives
 
 Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers, essentiels à la vie.
 
-La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (moins de 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
+La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (une petite galaxie de seulement 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
 
 # -11 000 000 000 d'années
 
@@ -115,7 +111,7 @@ La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lacté
 
 # -6 000 000 000 d'années
 
-Fin des fusions des galaxies de notre Voie lactée. C'est la deuxième plus grande galaxie de notre cluster: le Groupe Local.
+Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxième plus grande galaxie de notre cluster: le Groupe Local.
 
 # -5 000 000 000 d'années
 
@@ -131,6 +127,8 @@ Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont d
 
 Dans la zone chaude de notre système solaire, les éléments lourds, plus proches du soleil, se mettent à former de plus en plus de corps rocheux. La gravité permet à ces roches de s'assembler ensemble pour finalement former des planètes. Ces types de planètes, qui se forment par la roche, sont appelés des planètes rocheuses ou telluriques. Ce sont Mercure, Vénus, la Terre, et Mars.
 
+![Alt Text]({{site.baseurl}}/assets/img/Solarsystem3DJupiter.gif)
+
 ## -4 540 000 000 d'années
 
 La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
@@ -141,9 +139,9 @@ L'orbite d'une planète appelée Theia l'emmène directement sur la planète Ter
 
 ## -4 300 000 000 d'années
 
-La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie a rendu possible la création des premiers océans, avec beaucoup de CO2, très acide. C'est un océan d'eau, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
+La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie rend possible la création des premiers océans, avec beaucoup de CO2, très acide. C'est un océan d'eau, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
 
-Parallèlement, grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.
+Parallèlement, encore grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.
 
 Saturne fini de se former et se rapproche à son tour du soleil. Mais après un certain temps, le flux de gaz autour de Saturne et Jupiter disparait. En son absence, la force qui entraîne ces deux planètes en direction du Soleil s'affaiblit. Ces planètes reviennent finalement vers l'extérieur du système solaire et entrent de nouveau en collision avec des astéroïdes riches en eau et en carbone.
 
@@ -201,13 +199,17 @@ On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a
 
 ## -2 400 000 000 d'années
 
-Les bactéries (cyanobactéries) qui ont la capacité de produire la photosynthèse continuent à se multiplier et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte du méthane, qui a pour effet de refroidir considérablement la Terre et de tuer une bonne partie de la vie sur Terre.L'oxygène est donc responsable d'une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène) en transformant la Terre en grande boule de neige pendant 200 millions d'années avec une température moyenne de -27 degrés. L'oxygène à ce moment-là représente 1% du gaz dans l'atmosphère, ce qui est suffisant pour avoir tué pratiquement toutes les formes de vie sur Terre. L'oxygène actuel est présent à 21% dans l'atmosphère.
+Les bactéries (cyanobactéries) qui ont la capacité de produire la photosynthèse continuent à se multiplier et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte du méthane, qui a pour effet de refroidir considérablement la Terre et de tuer une bonne partie de la vie sur Terre. L'oxygène est donc responsable d'une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène) en transformant la Terre en grande boule de neige pendant 200 millions d'années avec une température moyenne de -27 degrés. L'oxygène à ce moment-là représente 1% du gaz dans l'atmosphère, ce qui est suffisant pour avoir tué pratiquement toutes les formes de vie sur Terre. L'oxygène actuel est présent à 21% dans l'atmosphère.
 
 Ce gaz, l'oxygène, est très toxique pour la plupart des organismes unicellulaires vivants de la planète. C'est une arme de destruction massive. La vie est presque entièrement détruite par l'oxygène. Mais les microorganismes unicellulaires survivants ont réussi à se servir de l'oxygène pour rediriger leur évolution.
 
+L'oxygène (dioxygène O2) est toxique pour les organismes anaérobies, dont font partie les premières formes de vie apparues sur Terre, mais est indispensable à la respiration des organismes aérobies, qui constituent la grande majorité des espèces vivantes actuelles.
+
 ## -2 100 000 000 d'années
 
-Les volcans réussissent finalement à éjecter suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes qui ont survécu peuvent évoluer très vite dans un monde à la fois chaud, oxygéné à 1 % et avec un tout nouveau gaz, l'ozone. Cette couche d'ozone permet de bloquer les rayons ultraviolets du soleil.
+Les volcans réussissent finalement à éjecter suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes qui ont survécu peuvent évoluer très vite dans un monde à la fois chaud, oxygéné à 1 % et avec un tout nouveau gaz, l'ozone. Cette couche d'ozone permet de bloquer les rayons ultraviolets du soleil et donc de protéger la biosphère de ce rayonnement nocif.
+
+En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issu de la photosynthèse forme une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire.
 
 # -2 000 000 000 d'années
 
@@ -493,6 +495,10 @@ Les 5% d'espèces terrestres qui ont réussi à survivre, s'enfouissent sous Ter
 
 En conséquence, retrouver un niveau de biodiversité équivalent a pris beaucoup plus de temps que pour les autres extinctions massives.
 
+## - 252 000 000 d'années
+
+Le charbon, cette roche noire, se forme grâce à la décomposition des végétaux.
+
 ## - 250 000 000 d'années
 
 On constate l'existence des premières plantes avec des fleurs. Les fleurs constituent les organes sexuels des plantes vivantes. Les plantes à fleurs primitives penvent se reproduire en prenant soit le rôle du mâle, soit celui de la femelle.
@@ -655,12 +661,6 @@ Les glaciers commencent leur propagation à travers l'Antarctique.
 
 Les grands singes sont surtout répartis en Europe.
 
-## -27 000 000 d'années
-
-# -20 000 000 d'années
-
-## -15 000 000 d'années
-
 ## - 7 000 000 d'années
 
 Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement
@@ -725,8 +725,6 @@ Homo Erectus commence à coloniser l'Eurasie.
 
 Homo Erectus sait utiliser le feu.
 
-# - 700 000 ans
-
 # - 450 000 ans
 
 Début des hommes de Néandertal. Ils peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).
@@ -763,13 +761,9 @@ L'Homo Sapiens se répand de nouveau en Afrique et est là cette fois pour reste
 
 La population humaine commence à décroître.
 
-## -74 000 ans
-
 # -70 000 ans
 
 Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique.
-
-# -50 000 ans
 
 ## -45 000 ans
 
@@ -849,7 +843,7 @@ Grâce à ce nouvel emploi des images, les dirigeants ont pu écrire l'histoire 
 
 ## -1800 ans
 
-Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont eu l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
+Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
 
 La maison en hiérogriphe représente la lettre "B". L'eau en hiérogriphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
 
@@ -871,25 +865,9 @@ Ces signes classificateurs sont très fréquents en chinois, d'où son importanc
 
 Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.
 
-Pour autant, le pharaon Akhenaton (celui qui sert Aton, ou celui qui est bénéfique à Aton) choisit un Dieu beaucoup plus puissant que les autres. C'est le Dieu du soleil (Rê). Le pouvoir royal (Akhenaton) règne sur Terre et Rê (le Dieu du soleil) dans les cieux. Cette dynastie (famille de rois) va se placer sous la protection de la divinité locale "Amon" située à Thèbes (là où habite le roi Akhenaton). Donc un roi comme Akhenaton divinise le Dieu Amon, perçu même comme le Dieu dynastique, sans pour autant nier le Dieu des cieux, Rê. Au fil du temps, Rê et Amon va s'amalgamer et devenir "Amon-Rê". Bref, le soleil est promu au rang de principal divinité, c'est-à-dire celui qui recrée le monde chaque jours.
-
-La volonté de ce Dieu du soleil se manifeste par le biais des oracles, qui, pour accomplir de nombreuses missions, reçoivent de nombreuses offrandes. Le clergé de Thèbes, qui filtre ces offrandes devient de plus en plus puissant et riche, et finit même par légitimer l'accès au trône de certains souverains en appliquant le principe de la théogamie (le plus important n'est plus d'être le fils d'un roi mais le fils d'un Dieu). Il faut que le nouvel empereur soit approuvé par Amon. On peut alors légitimer le fait que ce nouveau pharaon est désormais le nouveau Dieu vivant sur Terre.
-
 ## -1400 ans
 
 La reine Hatchepstout prend le pouvoir grâce aux oracles de Thèbes, donc par le clergé de Thèbes. Cette reine implore souvent les Dieux pour se faire pardonner.
-
-## -1300 ans
-
-Les peuples Hittites, Assyriens et Babylonieux s'affirment de plus en plus. Le culte d'Aton se fait oublier.
-
-### -1275 ans
-
-Ramsès II invente la propagande. Ce qu'on appelle "l'épopée de Ramsès II", c'est une victoire éclatante face à l'Empire Hittite. Or dans la réalité, le territoire Egyptien se réduit face à l'expension du territoire Hittite. La bataille est relatée sur au moins 5 temples différents, ainsi qu'un récit (poême de Pentaour) qui relate l'événement.
-
-Ramsès II ne se gêne pas de se représenter à côté du Dieu Amon, qui lui remercie de cette prétendue victoire. L'image de Ramsès, qui n'hésite pas à remplacer le nom d'anciens pharaons sur les temples par le sien, se présente comme le "pacificateur de l'univers".
-
-En réécrivant sa propre histoire, Ramsès cherche à prouver qu'il est le pharaon choisit par les Dieux, légitimant ainsi un pouvoir incontestable.
 
 ### -1258 ans
 
@@ -897,21 +875,9 @@ Premier traité de paix entre les Egyptiens et les Hittites (libre circulation d
 
 ## -1207 ans
 
-Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...". Mais cette famine, qui a frappé la deuxième superpuissance de l'époque, n'est qu'un symptôme d'un problème bien plus large: un changement climatique drastique avec un refroidissement des températures qui touche l'ensemble du bassin méditerranéen.
-
-Qui dit en effet température plus froide aux surfaces de la mer, dit moins d'évaporation, donc moins de précipitations. Et qui dit moins de pluie, dit baisse de la production agricole.
-
-Les agriculteurs représentent près de 99 % de la population. C'est pourquoi la moindre variation de la production agricole a des répercussions considérables sur toutes ses anciennes civilisations. Un paysan à cette époque dépend entièrement de la pluie. Il ne peut rien faire si la pluie tombe trop tôt ou trop tard. Lorsque la sécheresse frappe plusieurs royaumes simultanément, la famine menace.
-
-La cause de ce refroidissement n'est pas encore réellement connue, mais l'impact de ce changement climatique pèse sur les relations entre les différentes civilisations. Finalement, le commerce s'arrête puisqu'il n'y a plus de stocks de nourriture pour le commerce.
+Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".
 
 Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.
-
-# -1200 ans
-
-Ramsès III a accédé au pouvoir dans une Egypte prospère et puissante. C'est à ce moment-là que la situation s'est véritablement détériorée. Des bandes de pillards envahissent des régions et des cités entières d'Egypte après avoir ravagé d'autres royaumes.
-
-Ces envahisseurs sont désignés sous le nom de "peuple de la mer". L'apparition de ces peuples marque la fin de nombreuses civilisations (celles qui disposent déjà de l'écriture) de l'âge du bronze.
 
 ## -1155 ans
 
@@ -919,17 +885,11 @@ Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégi
 
 # -1000 ans
 
-Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment. Plusieurs villages forment une ligue religieuse: le Septimontium.
-
-# -800 ans
+Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
 
 ## -753 ans
 
-Rome envahit Albe, supposé être la ville centre des populations latines. Les populations soumises sont transférées à Rome, augmentant la démographie et donc la croissance. Il y a aussi d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands. Peu à peu une classe de citoyens, avec peu de droits politiques, se forment. On appelle ces citoyens: la Plèbe ou plébéiens. Les Patriciens sont les ancienns familles de Rome, qui disposent de prérogatives religieuses et politiques étendues.
-
-## -616 ans
-
-Tarquin l'Ancien, dirigeant romain, établit le temple de Jupiter sur le Capitole. Il construit aussi des égouts, qui servent à asécher les marais.
+Il y a d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands.
 
 # -600 ans
 
@@ -939,11 +899,259 @@ Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 
 ## -509 ans
 
-Le régime monarchique de Rome tombe. La République Romaine se met en place progressivement.
+Chute du régime monarchique de Rome. La République Romaine se met en place progressivement.
 
-## -390 ans
+## 542 ans
 
-Rome subit une attaque dévastatrive des Celtes depuis le nord. La ville de Rome est occupée et est obligée de payer une sévère rançon. Ce traumatisme enclenche une politique de conquête. Rome étend son emprise sur la péninsule italique (preque l'Italie actuelle).
+La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
+
+## 1347 ans
+
+La peste débarque une deuxième fois en Europe. Elle arrive d'Asie et va tuer presque 1/3 de la population européenne et presque la moitié de la population urbaine européenne.
+
+Les citadins terrifiés fuient les villes et vont contaminer les campagnes.
+
+Les médecins de cette époque ne vont pas que se contenter de regarder les étoiles. Ils vont observer les phénomènes et tenter de comprendre comment le mal se propage.
+
+Il y a un débat entre les médecins: le mal se propage par l'air ou par le contact. Même s'ils n'ont aucun moyen scientifique pour démontrer cette hypothèse, les médecins comprennent qu'il faut empêcher la circulation des marchandises et des humains.
+
+## 1353 ans
+
+La peste est à Moscou.
+
+## 1521 ans
+
+Chute de l'Empire aztéque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures, de fusils, et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.
+
+## 1582 ans
+
+Il y a à cette époque au Japon une séparation nette entre le paysan et le samurai. Le paysan ne peut pas devenir samurai et réciproquement. Il y a un choix à faire. Cela veut donc dire que le guerrier ne peut plus cultiver un lopin de terre. Cette réforme va structurer la société japonaise pour les siècles à venir.
+
+## 1595 ans
+
+Jacques Callot, durant la guerre des trente ans, dénonce la vie dure des soldats ainsi que les exactions commises sur les civils.
+
+## 1689 ans
+
+L'Angleterre commence des réformes économiques en
+
+1 supprimant les lourdes taxes sur les manufactures
+2 instituant un impôt foncier de 20%
+3 créant une banque nationale d'Angleterre afin de soutenir le développement des manufactures par des prêts
+
+La croissance économique qui suit est énorme. Tandis que l'Europe continentale s'enfonce de plus en plus dans la récession, ces réformes économiques (la révolution financière britannique) favorisent l'avènement de la révolution industrielle.
+
+## 1720 ans
+
+Au Royaume-Uni nous avons les premières machines à vapeur (Newcomen). Son énergie est le charbon.
+
+## 1720 ans
+
+On découvre du charbon dans le nord de la France.
+
+## 1722 ans
+
+Dernière épidémie de peste en Europe. Elle se situe à Marseille et on ne connaît toujours pas sa cause véritable.
+
+## 1757 ans
+
+Dans le nord de la France, première société charbonnière créée par une association de nobles de la région. Cette société s'appelle: "Compagnie des mines d'Anzin".
+
+## 1769 ans
+
+Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction.
+
+## 1776 ans
+
+Indépendance des Etats-Unis.
+
+## 1783 ans
+
+Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.
+
+## 1803 ans
+
+L'arrivée des bâteaux à vapeur favorise la demande en charbon.
+
+## 1810 ans
+
+Début des guerres d'indépendance hispano-méricaines.
+
+Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fustige la barbarie produite par tous conflits.
+
+## 1815 ans
+
+Fin des guerres napoléoniennes. Le Royaume-Uni se concentre sur le commerce international.
+
+## 1830 ans
+
+Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres.
+
+L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.
+
+## 1839 ans
+
+En Chine, tout l'opium est détruit puis jeté à la mer.
+
+Le Japon s'inquiète de la présence récurrente de navires étrangers autour de ses côtes et voit la menace se préciser après la première guerre de l'opium où le Royaume-Uni impose par la force un traité d'ouverture du commerce aux chinois (Traité de Nankin).
+
+## 1840 ans
+
+Le développement de l'industrie ferroviaire nourrit encore plus la demande en charbon.
+
+## 1841 ans
+
+Cession de Hong-Kong. Hong-Kong passe au Royaume-Uni.
+
+## 1842 ans
+
+Le trafic d'opium reprend en Chine, contournant tous les interdits.
+
+## 1845 ans
+
+Les américains ont cette mission quasi divine de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.
+
+## 1848 ans
+
+Des mines sont découvertes en Californie. Attiré par la fortune, c'est le début de la célèbre ruée vers l'or qui voit des mouvements massifs de population vers l'Ouest.
+
+Des troupeaux de bison sont massacrés par les américains pour de la fourrure, privant les tribus indiennes de leur ressource alimentaire.
+
+## 1853 ans
+
+Début de la guerre de Crimée. Première guerre qui utilise la technique de la photographie. C'est le quotidien des soldats qui est saisi.
+
+Un navire américain arrive sur les côtes japonaises avec Matthew Perry à son bord afin d'obliger les japonais à ouvrir leur port aux américains. De plus en plus de navires arrive et menace de bombarder le port en cas de refus. Paniqué le Shogun réforme l'armée et l'installation de hauts fourneaux pour se moderniser.
+
+## 1854 ans
+
+Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante. Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir trois ports aux américains.
+
+## 1856 ans
+
+Début de la seconde guerre de l'opium.
+
+## 1858 ans
+
+Un émissaire américain revient au Japon et parvient à négocier un nouveau traité: le traité Harris.
+
+1 4 nouveaux ports sont ouverts aux américains (ce qui en fait 7 au total)
+2 les droits de douanes sont faibles
+3 les américains sont jugés comme des américains au Japon
+
+Les autres grandes puissances en profitent: la France, la Russie, le Royaume-Uni, les Pays-Bas obtiennent des drois similaires au Japon.
+
+C'est une époque compliquée pour le Japon d'autant plus que les étrangers apportent le choléra.
+
+## 1861 ans
+
+Début de la guerre de sécession.
+
+Abraham Lincoln abolit l'esclavage. Début du télégraphe sur l'ensemble du continent américain.
+
+Le chemin de fer va permettre un développement rapide de la population dans les territoires de l'ouest des Etats-Unis.
+
+## 1863 ans
+
+La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage.
+
+# 1864 ans
+
+Une coallition bombarde Shimonoseki au Japon. Le Japon comprend qu'il est impossible de vaincre militairement les occidentaux.
+
+Droit de grève accordé en France.
+
+# 1865 ans
+
+La guerre de Sécession prend fin. Les états du sud sont ravagés. Il faut désormais reconstruire et réconcilier. Le défi est immense.
+
+Abraham Lincoln se fait assassiner.
+
+# 1866 ans
+
+Construction d'un chemin de fer aux Etats-Unis transcontinentales.
+
+## 1870 ans
+
+Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port d'arme des Samourai est interdit.
+
+Début de la sidérurgie aux Etats-Unis.
+
+## 1873 ans
+
+Les japonais veulent mener une nouvelle guerre à la Corée dans un but impérialiste. Cette volonté est portée par les anciens fiefs rebelles peut-être dans le but de trouver un sens de leur ancien mode de vie guerrier. Le gouvernement refuse. Les révoltes éclatent alors.
+
+Début de jean Levi's à San Fransisco.
+
+## 1877 ans
+
+Les révoltes des anciens fiefs guerriers (qui veulent envahir la corée) du Japon sont matées par cette nouvelle armée impériale, bien entraînée et bien équipée. Cette défaite sonne la fin de l'ère des samourais.
+
+Envahissement des Black Hills territoire des amérindiens.
+
+## 1874 ans
+
+Dernière pandémie de peste en Asie qui fait 12 millions de morts.
+
+## 1886 ans
+
+Création du Coca Cola à Atlanta.
+
+## 1893
+
+Ford trouve assez de temps et d'argent pour étudier les moteurs à essence. Les moteurs de l'époque sont des moteurs à vapeur.
+
+## 1894
+
+L'inventeur italien Guglielmo Marconi développe les premiers émetteurs et récepteurs radio.
+
+## 1896
+
+Ford construit un véhicule à moteur de 4 chevaux refroidit par eau.
+
+## 1898
+
+On découvre grâce à Paul-Louis Simond que la maladie de la peste est transportée par une puce et plus pécisément par la puce du rat. Lorsque les rats meurent et que les puces sont affamées, elles finissent par contaminer les humains.
+
+Les responsables de la peste ne sont donc ni les étoiles, ni Dieu, ni les juifs.
+
+## 1903 ans
+
+Premier vol motorisé de l'histoire. Le moteur parvient à parcourir une distance de 40 mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus, de plus en plus vite, et de plus en plus loin.
+
+Ford fonde la Ford Motor Company. Il décide de créer une nouvelle méthode de travail qui consiste à décomposer le travail de l'ouvrier en tâches simples et élémentaires. Ca permet une simplification des gestes et donc une augmentation de la productivité.
+
+<em>"L'homme qui place une pièce ne la fixe pas. L'homme qui place un boulon, ne met pas l'écrou. Et l'homme qui place l'écrou, ne le visse pas!".</em>
+
+# 1909
+
+Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.
+
+## 1914 ans
+
+Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort.
+
+Les avions ne pouvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne servent qu'à la reconnaissance et au réglage de tirs d'artillerie en prenant des photographies. Les avions de chasse et de bombardement n'apparaissent que plus tard.
+
+## 1915 ans
+
+Après la confection des premiers avions de chasse, la première guerre mondiale se déplace progressivement dans les airs. Le taux de mortalité pour un aviateur est de 25%.
+
+## 1918 ans
+
+Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, prêt de la moitié de ces pilotes meurt ou disparait avec leur avion.
+
+## 1919 ans
+
+Premier avion commercial relativement fiable. C'est un avion entièrement construit en métal.
+
+## 1920 ans
+
+Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.
+
+## 1926 ans
+
+Première compagnie aérienne plus ou moins rentable: la "Luft hansa".
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
@@ -964,3 +1172,5 @@ Rome subit une attaque dévastatrive des Celtes depuis le nord. La ville de Rome
 - [Étoile de population III](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_III)
 - [Hypernova](https://fr.wikipedia.org/wiki/Hypernova)
 - [Trou noir](https://fr.wikipedia.org/wiki/Trou_noir)
+- [Système solaire](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
+- [Oxygène](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
