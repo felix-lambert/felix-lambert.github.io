@@ -669,6 +669,14 @@ transforme lentement les singes en hominidé. Les traits principaux qui distingu
 1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)
 2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/chimpanze.jpg)</span>
+
+<span style="display:block;text-align:center">(Chimpanzé)</span>
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bonobo.jpg)</span>
+
+<span style="display:block;text-align:center">(Bonobo)</span>
+
 L'ancètre le plus proche des hominidés est le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
 
 Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exemple, fabriquer des outils ou tenir des nourrissons, ne sont pas très convaincants, étant donné que de nombreux animaux gèrent les deux sans le changement en profondeur de la bipédie des hominidés.
@@ -689,8 +697,6 @@ Le climat de la planète change, transformant les forêts africaines en savanes.
 
 Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.
 
-# - 3 000 000 d'années
-
 ## - 2 400 000 années
 
 Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il soit plus un charognard (qui consomme les cadavres d'autres animaux) qu'un chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer et est la première espèce à pouvoir utiliser des pierres pour fabriquer des outils simples.
@@ -705,7 +711,7 @@ Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses
 
 C'est probablement cette pratique de la course à pied qui permet à Homo Erectus (et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des autres mammifères.
 
-Grâce à cette pratique de la course à pied, Homo Erectus inaugure a cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, Homo Sapiens est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
+Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, Homo Erectus, comme, plus tard Homo Sapiens, est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
 
 Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
 
@@ -720,10 +726,6 @@ L'usage du feu permet aussi à l'espèce humaine de se déplacer plus loin, dans
 # - 1 000 000 d'années
 
 Homo Erectus commence à coloniser l'Eurasie.
-
-## - 790 000 ans
-
-Homo Erectus sait utiliser le feu.
 
 # - 450 000 ans
 
@@ -795,6 +797,8 @@ Fin du dernier âge glaciaire.
 
 ## -11 000 ans
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/croissantfertile.jpg)</span>
+
 Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture, apprenant à cultiver et à récolter des figues, de l'orge, des pois chiches et des lentilles. En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
 
 # -10 000 ans
@@ -807,6 +811,10 @@ Homo Sapiens commence à domestiquer le chat.
 
 ## -7 000 ans
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/briquecrue.jpg)</span>
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/briquecuite.jpg)</span>
+
 Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui), l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).
 
 ## -6 000 ans
@@ -814,6 +822,8 @@ Homo Sapiens commence à faire usage de la brique pour construire des maisons. E
 En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.
 
 # -5000 ans
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hieroglyphe.jpg)</span>
 
 Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui: le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
 
@@ -839,7 +849,7 @@ Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard.
 
-Grâce à ce nouvel emploi des images, les dirigeants ont pu écrire l'histoire de leur règne, rédiger des codes juridiques, administrer, et même construire des monuments.
+Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
 ## -1800 ans
 
@@ -857,6 +867,8 @@ Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, 
 
 ## -1500 ans
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ossecaille.png)</span>
+
 On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues. L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture chinoise devient encore plus précise car elle utilise le déterminant pour dire si une image peut être lisible comme un simple son ou comme une image.
 
 Un déterminant est un nouveau symbole qui permet de classifier une image et de dire dans quelle catégorie elle doit se situer, et donne donc un indice sur la bonne façon de lire un caractère.
@@ -864,10 +876,6 @@ Un déterminant est un nouveau symbole qui permet de classifier une image et de 
 Ces signes classificateurs sont très fréquents en chinois, d'où son importance.
 
 Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.
-
-## -1400 ans
-
-La reine Hatchepstout prend le pouvoir grâce aux oracles de Thèbes, donc par le clergé de Thèbes. Cette reine implore souvent les Dieux pour se faire pardonner.
 
 ### -1258 ans
 
@@ -943,7 +951,7 @@ La croissance économique qui suit est énorme. Tandis que l'Europe continentale
 
 ## 1720 ans
 
-Au Royaume-Uni nous avons les premières machines à vapeur (Newcomen). Son énergie est le charbon.
+Au Royaume-Uni nous avons les premières machines à vapeur (Newcomen engine). Son énergie est le charbon.
 
 ## 1720 ans
 
@@ -954,6 +962,8 @@ On découvre du charbon dans le nord de la France.
 Dernière épidémie de peste en Europe. Elle se situe à Marseille et on ne connaît toujours pas sa cause véritable.
 
 ## 1757 ans
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/mine.jpg)</span>
 
 Dans le nord de la France, première société charbonnière créée par une association de nobles de la région. Cette société s'appelle: "Compagnie des mines d'Anzin".
 
@@ -1124,6 +1134,8 @@ Ford fonde la Ford Motor Company. Il décide de créer une nouvelle méthode de 
 <em>"L'homme qui place une pièce ne la fixe pas. L'homme qui place un boulon, ne met pas l'écrou. Et l'homme qui place l'écrou, ne le visse pas!".</em>
 
 # 1909
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bleriotXI.jpg)</span>
 
 Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.
 
