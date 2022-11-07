@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bureaucratie
-date: 2022-11-08 10:18:00
+date: 2022-11-07 10:18:00
 tags: philosophy
 ---
 
