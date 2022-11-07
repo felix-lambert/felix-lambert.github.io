@@ -102,4 +102,4 @@ Traduction:
 
 ## Pourquoi en 9eme position ?
 
-Il me semble que Tang Ping se situe un peu trop dans le négatif au niveau de ces actions. Ne pas avoir de famille, de boulot, de voiture... Mais qu'est ce que le mouvement Tang Ping souhaite constuire ?
+Même si s'allonger sur le dos peut-être un bon point de départ positif, il me semble que Tang Ping se situe un peu trop dans le négatif au niveau de ces actions. Ne pas avoir de famille, de boulot, de voiture... Mais est ce que le mouvement Tang Ping va vouloir un jour se relever pour constuire quelque chose ?
