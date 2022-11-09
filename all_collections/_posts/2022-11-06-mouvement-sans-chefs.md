@@ -29,34 +29,7 @@ Donc voyons ce qu'on nous propose aujourd'hui comme exemples de collectifs sans 
 
 Il est peut-être important de ne pas prendre à la lettre certaines règles de ces mouvements ou de ne pas chercher à y adhérer de manière aveugle, mais simplement d'être conscient qu'ils existent, de les considérer et même de temps en temps d'accepter de pratiquer certains rituels qui les font vivre. La valeur nouvelle est précisément de remettre en cause la soumission à un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique. Et l'existence de ces mouvements ne repose pas non plus sur l'identification claire d'ennemis.
 
-# 10. Anonymous
-
-<em>Anonymous est la première superconscience construite à l'aide d'Internet. Anonymous est un groupe semblable à une volée d'oiseaux. Comment savez-vous que c'est un groupe ? Parce qu'ils voyagent dans la même direction. À tout moment, des oiseaux peuvent rejoindre ou quitter le groupe, ou aller dans une direction totalement contraire à ce dernier.</em>
-
-Mais Anonymous a un cadre, qui peut se définir ainsi: <em>une vision optimiste de l'autonomie régnante, sur l'entraide, le partage des ressources, les connaissances participatives, la sensibilisation sociale, la lutte contre l'oppression, la création communautaire et la communication sécurisée</em>
-
-Anonymous demande clairement un monde sans oppression ou hiérarchie. Le fait que la communication soit sécurisée et privée, sans enregistrement notamment de l'adresse IP, est très importante pour Anonymous. Ils n'hésitent pas à attaquer informatiquement les pays dans lequels l'oppression et la cybercensure est forte, comme la Tunisie, l'Iran, l'Arabie Saoudite, la Lybie, l'Algérie, le Vénésuela, l'Egypte...
-
-Le groupe défend aussi l'éthique animale et la préservation de l'environnement.
-
-Anonymous n'est ni une organisation ni un club, c'est donc impossible d'y adhérer officiellement. Il n'y a ni classement, ni moyen de communication unique. Anonymous est réparti sur plusieurs médias en plusieurs langues.
-
-Anonymous est un groupe qui a comme finalité la liberté d'expression. Il est aussi central à Anonymous d'intervenir dans le monde non-numérique sans utiliser la violence physique. Les instructions que l'on peut retrouver sur différents forums sont claires quant à la coopération avec la police, la conformité des manifestations aux lois, la présence de personnes mineures, etc.
-
-Quelques événements marquants où on peut reconstater l'existence du groupe anonymous:
-
-occupy wall street<br/>
-le printemps arabe<br/>
-l'attaque de Charlie Hebdo<br/>
-l'influence d'un milliardaire sur la valeur du bitcoin<br/>
-le guerre en Ukraine<br/>
-...
-
-## Pourquoi en 10eme position ?
-
-Anonymous nous apprend à prendre conscience de la valeur de l'anonymat, ce qui est une valeur forte et de temps en temps importante à préserver. En revanche anonymous semble se focaliser exclusivement sur la dénonciation et les attaques. Un mouvement sans chef ni hiérarchie est peut-être plus intéressant et novateur s'il ne se forge pas à partir d'ennemis à cibler.
-
-# 9. TangPing
+# 10. TangPing
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lie-flat-blog-1.jpg)</span>
 
@@ -104,6 +77,6 @@ Traduction:
 <em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em><br />
 <em>Allongé sur le dos, tu ne peux pas tomber</em>
 
-## Pourquoi en 9eme position ?
+## Pourquoi en 10eme position ?
 
 Même si s'allonger sur le dos peut-être un bon point de départ positif, il me semble que Tang Ping se situe un peu trop dans le négatif au niveau de ces actions. Ne pas avoir de famille, de boulot, de voiture... Mais est ce que le mouvement Tang Ping va vouloir un jour se relever pour constuire quelque chose ?
