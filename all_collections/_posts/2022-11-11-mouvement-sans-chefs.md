@@ -1,17 +1,15 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2022-11-06 10:18:00
+date: 2022-11-11 10:18:00
 tags: histoire
 ---
 
-Un ou des mouvements sans chefs est peut-être ce dont on a besoin aujourd'hui. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et se coordonnent sans communications. Le principe de base de l'organisation collective des fourmis est simple: faire le travail qui n'a pas encore été fait par un autre.
+Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination sans communication. Le principe de base de l'organisation collective des fourmis est simple: faire le travail qui n'a pas encore été fait par un autre.
 
-S'il y a quantativement assez de personnes qui cherchent à s'immerger dans un collectif sans chercher à tout prix la compétition, il peut y avoir un basculement positif, nous menant vers un monde qui ne détruit plus le vivant ou qui le détruit un peu, sans remettre en cause ses propres conditions de subsistance.
+On peut aujourd'hui créer un nouveau collectif capable de résoudre les problèmes d'aujourd'hui. On peut d'ailleurs se mettre d'accord pour en faire une liste. Pour qu'un collectif puisse se dépasser, pour qu'il puisse vraiment aller loin, il doit en réalité ne pas être compétitif car on se focalise trop sur qui est le meilleur, et on oublie un peu ce qu'on est en train de constuire ensemble. C'est la raison pour laquelle il ne doit pas y avoir de chefs, car on ne va que faire la compétition pour chercher à devenir le chef tout en négligeant l'objectif final du collectif.
 
-Faire la compétition, ce n'est pas vraiment viser une finalité pour un collectif. C'est se surpasser, en se comparant aux autres, et c'est cela qui fait la valeur. On peut imaginer une autre valeur dans laquelle un collectif (et pas un individu) doit se surpasser pour résoudre les problèmes d'aujourd'hui. On peut d'ailleurs se mettre d'accord pour en faire une liste. Pour qu'un collectif puisse se dépasser, pour qu'il puisse vraiment aller loin, il doit en réalité ne pas être compétitif (on se focalise sur qui est le meilleur, et on oublie un peu ce qu'on est en train de constuire), et c'est la raison pour laquelle il ne doit pas y avoir de chefs.
-
-Pour faire vivre un collectif, on a besoin d'accomplir un ensemble de rites (dire bonjour, serrer la main, préparer un dîner...) pour célébrer l'appartenance à un collectif (montrant que l'on est uni grâce à un certain nombre de valeurs que l'on partage) et plus globalement pour célébrer la vie.
+Pour faire vivre un collectif, on a besoin d'accomplir un ensemble de rites (dire bonjour, serrer la main, préparer un dîner...). Ces rituels célèbrent l'appartenance à un collectif (montrant que l'on est uni par un certain nombre de valeurs partagées) et plus généralement célèbrent la vie, en jouant avec les autres. Même si on accomplit un rituel seul, comme se laver par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apportées par notre civilisation technologique), on montre notre appartenance avec les personnes accomplissant ce rituel.
 
 Un ensemble d'individus peuvent aussi s'assembler autour de valeurs qu'il n'est pas facile d'accepter. Quelles sont par exemples les valeurs qui rassemblent les individus autour de la télé-poubelle ?
 
@@ -21,7 +19,7 @@ Ce collectif parvient à attirer beaucoup de monde et il ne faut surtout pas né
 
 Il est possible d'être en concurrence culturelle mais faisons peut-être comme les entreprises: évitons de trop parler de nos concurrents. Un défi ici c'est d'intéresser plus de gens autour de nos valeurs en étant plus dans la positif que dans le négatif.
 
-Pour résoudre les problèmes globaux, c'est assez simple en fait, il suffit d'avoir une quantité assez suffisante de rituels, d'actions, qui vont dans le sens de la résolution de ces problèmes. Il s'agit ici de chacun de nous. Et il est même possible de quantifier. Aujourd'hui, on est en dessous de ce seuil mais si l'on accomplit assez de rites collectifs pour minimiser la pollution de l'air, la faim, la violence, et favoriser les conditions d'habilités de la planète pour les animaux (nous inclus) par exemple, il est possible de dépasser ce seuil et donc rendre possible une humanité heureuse et accomplie.
+Pour résoudre les problèmes globaux, c'est assez simple en fait, il suffit d'avoir une quantité assez suffisante de rituels, d'actions (oui ça peut-être quantifiable je pense), qui vont dans le sens de la résolution de ces problèmes. S'il y a quantativement assez de personnes qui cherchent à s'immerger dans un collectif sans chercher à tout prix la compétition, il peut y avoir un basculement positif, nous menant vers un monde qui ne détruit plus les conditions de subsistance des êtres vivants. Aujourd'hui, on est en dessous de ce seuil mais si l'on accomplit assez de rites collectifs pour minimiser la pollution de l'air, la faim, la violence, et favoriser les conditions d'habitabilités de la planète pour les animaux (nous inclus) par exemple, il est possible de dépasser ce seuil et donc rendre possible une humanité heureuse et accomplie.
 
 Pourquoi nous n'agissons pas dans ce sens aujourd'hui ? Peut-être parce qu'il n'existe pas encore de collectifs assez soudés, qui permettent d'inclure le plus de personnes possibles où tout le monde se sent utile et concerné. Donc un individu séparé des autres n'a peut-être pas la force qui lui offre un sens pour des actions cohérentes avec une finalité collective clairement définie.
 
@@ -39,15 +37,11 @@ En 2016, Luo Huazhong, 26 ans, quitte son emploi à l'usine parce qu'il se sent 
 
 Luo, sous le pseudo, "Kind-Hearted Traveler", partage un article sur le moteur de recherche chinois Baidu expliquant pourquoi il mène une vie minimaliste.
 
-<em>Je n'ai pas travaillé pendant deux ans, j'ai juste traîné et je ne vois rien de mal à cela. La pression vient principalement des comparaisons avec vos pairs et des valeurs de l'ancienne génération. Ces pressions ne cessent d'apparaître… Mais, nous n'avons pas à respecter ces (normes). Je peux vivre comme Diogène et dormir dans un seau en bois, profitant du soleil. Je peux vivre comme Héraclite dans une grotte, en pensant au "logos". S'allonger par terre est mon mouvement philosophique. Ce n'est qu'en s'allongeant par terre sur le dos à plât que l'homme peut devenir la mesure de toutes choses.</em>
+<em>Je n'ai pas travaillé pendant deux ans, j'ai juste traîné et je ne vois rien de mal à cela. La pression vient principalement des comparaisons avec vos pairs et des valeurs de l'ancienne génération. Ces pressions ne cessent d'apparaître… Mais, nous n'avons pas à respecter ces normes. Je peux vivre comme Diogène et dormir dans un seau en bois, profitant du soleil. Je peux vivre comme Héraclite dans une grotte, en pensant au "logos". S'allonger par terre est mon mouvement philosophique. Ce n'est qu'en s'allongeant par terre sur le dos à plât que l'homme peut devenir la mesure de toutes choses.</em>
 
 Luo gagne de l'argent grâce à des petits boulots, qui implique précisément de rester allonger sur le dos - l'un de ses petits boulots consiste à être un figurant dans des films, dans lesquels il joue parfois un cadavre.
 
-Dans une interview, il déclare qu'il passe la plupart de son temps à nager et à lire des livres, y compris ceux sur la société américaine.
-
-<em>J'aimerais comprendre ce que pensent les gens dans un pays étranger</em>, a-t-il déclaré.
-
-<em>Bien sûr, tout le monde ne peut pas choisir de s'allonger, mais la société doit donner aux gens la possibilité de progresser ou de se retirer de la vie</em>, a-t-il déclaré à Epoch Story.
+Dans une interview, il déclare qu'il passe la plupart de son temps à nager et à lire des livres.
 
 Les internautes se sont identifiés comme des "lying flatism", publiant des photos de chats et de phoques allongés sur le dos.
 
@@ -79,4 +73,4 @@ Traduction:
 
 ## Pourquoi en 10eme position ?
 
-Même si s'allonger sur le dos peut-être un bon point de départ positif, il me semble que Tang Ping se situe un peu trop dans le négatif au niveau de ces actions. Ne pas avoir de famille, de boulot, de voiture... Mais est ce que le mouvement Tang Ping va vouloir un jour se relever pour constuire quelque chose ?
+Même si s'allonger sur le dos peut-être un bon point de départ positif, il me semble que Tang Ping se situe un peu trop dans le négatif au niveau de ces actions. Ne pas avoir de famille, de boulot, de voiture... Mais je suis bien conscient que si on veut bien saisir la subtilité de ce mouvement, s'allonger sur le dos a comme objectif final de mieux se relever.
