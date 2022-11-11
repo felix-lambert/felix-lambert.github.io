@@ -70,7 +70,3 @@ Traduction:
 <em>Allongé sur le dos, vous ne pouvez vraiment pas être abattu.</em><br />
 <em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em><br />
 <em>Allongé sur le dos, tu ne peux pas tomber</em>
-
-## Pourquoi en 10eme position ?
-
-Même si s'allonger sur le dos peut-être un bon point de départ positif, il me semble que Tang Ping se situe un peu trop dans le négatif au niveau de ces actions. Ne pas avoir de famille, de boulot, de voiture... Mais je suis bien conscient que si on veut bien saisir la subtilité de ce mouvement, s'allonger sur le dos a comme objectif final de mieux se relever.
