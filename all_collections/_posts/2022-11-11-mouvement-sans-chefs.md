@@ -11,7 +11,7 @@ On peut aujourd'hui créer un nouveau collectif capable de résoudre les problè
 
 Pour faire vivre un collectif, on a besoin d'accomplir un ensemble de rites (dire bonjour, serrer la main, préparer un dîner...). Ces rituels célèbrent l'appartenance à un collectif (montrant que l'on est uni par un certain nombre de valeurs partagées) et plus généralement célèbrent la vie, en jouant avec les autres. Même si on accomplit un rituel seul, comme se laver par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apportées par notre civilisation technologique), on montre notre appartenance avec les personnes accomplissant ce rituel.
 
-Un ensemble d'individus peuvent aussi s'assembler autour de valeurs qu'il n'est pas facile d'accepter. Quelles sont par exemples les valeurs qui rassemblent les individus autour de la télé-poubelle ?
+Un ensemble d'individus peuvent aussi s'assembler autour de valeurs qu'il n'est pas facile d'accepter. Quelles sont les valeurs qui rassemblent les individus autour de la télé-poubelle ?
 
 "Soyons un peu bête c'est rigolo. Faisons des petites blagues méchantes entre-nous. Célébrons notre appartenance par des rites clairement identifiables (se moquer ou insulter les autres par exemple), par de la stupidité afin que les gens puissent se détendre sans trop se prendre la tête".
 
