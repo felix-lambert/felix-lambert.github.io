@@ -979,6 +979,10 @@ Indépendance des Etats-Unis.
 
 Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.
 
+## 1800 ans
+
+Il y a 1 000 000 000 d'homo sapiens sur Terre.
+
 ## 1803 ans
 
 L'arrivée des bâteaux à vapeur favorise la demande en charbon.
@@ -1161,9 +1165,57 @@ Premier avion commercial relativement fiable. C'est un avion entièrement constr
 
 Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.
 
+En Allemagne,
+
 ## 1926 ans
 
 Première compagnie aérienne plus ou moins rentable: la "Luft hansa".
+
+## 1928 ans
+
+Mustafa Kemal Atatürk, président de la république de Turquie, a l'idée de remplacer l'écriture Arabe en alphabet latin. Il souhaite imposer une nouvelle écriture à son pays. Et il est aussi déterminé à en interdire l'ancienne.
+
+## 1929 ans
+
+En Turquie, l'alphabet arabe devient illégal.
+
+## 1930 ans
+
+Il y a 2 milliards d'homo sapiens sur Terre.
+
+## 1969 ans
+
+L'armée américaine souhaite inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
+
+Chaque noeud du réseau peut être émetteur d'informations ou récepteur d'informations. C'est la base de réflexion qui va conduire à l'internet.
+
+Quatre ordinateurs sont reliés à distance. C'est le premier lien Arpanet qui est établit.
+
+## 1972 ans
+
+Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. C'est le premier langage facilement lisible pour un humain.
+
+## 1975 ans
+
+Il y a 4 milliards d'homo sapiens sur Terre.
+
+## 1989 ans
+
+100 000 ordinateurs sont connectés à Internet.
+
+Le World Wide Web est inventé à Genève. Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Moins technique, le Web est prêt à séduire tout le monde.
+
+## 1992 ans
+
+1 000 000 d'ordinateurs sont connectés à Internet.
+
+## 2006 ans
+
+Google achète une entreprise harcelée par des poursuites pour violation du droit d'auteur: YouTube.
+
+## 2008 ans
+
+Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
