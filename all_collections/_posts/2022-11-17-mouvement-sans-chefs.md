@@ -7,7 +7,7 @@ tags: histoire
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination sans communication. Le principe de base de l'organisation collective des fourmis est simple: faire le travail qui n'a pas encore été fait par un autre.
 
-On peut aujourd'hui créer une nouvelle organisation capable de résoudre les problèmes d'aujourd'hui. Pour qu'un collectif puisse se dépasser, pour qu'il puisse vraiment aller loin, il ne doit pas y avoir de chefs, car on ne va que faire la compétition pour chercher à devenir ou remplacer le chef tout en négligeant la finalité, c'est-à-dire ce qu'on est en train de construire ensemble.
+On peut aujourd'hui créer une nouvelle organisation capable de résoudre les problèmes d'aujourd'hui. Pour qu'un collectif puisse se dépasser, pour qu'il puisse vraiment aller loin, il ne doit pas y avoir de chef, car on ne va que faire la compétition pour chercher à devenir ou remplacer le chef tout en négligeant la finalité, c'est-à-dire ce qu'on est en train de construire ensemble.
 
 Pour faire vivre un collectif, on a besoin d'accomplir un ensemble de rites (dire bonjour, serrer la main, préparer un dîner...). Ces rituels célèbrent l'appartenance à un collectif (montrant que l'on est uni par un certain nombre de valeurs partagées) et plus généralement célèbrent la vie, en jouant avec les autres. Même si on accomplit un rituel seul, comme se laver les mains par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apportées par notre civilisation technologique), on montre notre appartenance avec les personnes accomplissant ce rituel.
 
