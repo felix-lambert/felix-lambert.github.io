@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2022-11-11 10:18:00
+date: 2022-11-17 10:18:00
 tags: histoire
 ---
 
@@ -21,7 +21,7 @@ Il est possible d'être en concurrence culturelle mais faisons peut-être comme 
 
 Pour résoudre les problèmes globaux, c'est assez simple en fait, il suffit d'avoir une quantité assez suffisante de rituels, d'actions (oui ça peut-être quantifiable je pense), qui vont dans le sens de la résolution de ces problèmes. S'il y a quantativement assez de personnes qui cherchent à s'immerger dans un collectif sans chercher à tout prix la compétition, il peut y avoir un basculement positif, nous menant vers un monde qui ne détruit plus les conditions de subsistance des êtres vivants. Aujourd'hui, on est en dessous de ce seuil mais si l'on accomplit assez de rites collectifs pour minimiser la pollution de l'air, la faim, la violence, et favoriser les conditions d'habitabilités de la planète pour les animaux (nous inclus) par exemple, il est possible de dépasser ce seuil et donc rendre possible une humanité heureuse et accomplie.
 
-Pourquoi nous n'agissons pas dans ce sens aujourd'hui ? Peut-être parce qu'il n'existe pas encore de collectifs assez soudés, qui permettent d'inclure le plus de personnes possibles où tout le monde se sent utile et concerné. Donc un individu séparé des autres n'a peut-être pas la force qui lui offre un sens pour des actions cohérentes avec une finalité collective clairement définie.
+Pourquoi nous n'agissons pas dans ce sens aujourd'hui ? Peut-être parce qu'il n'existe pas encore de collectifs assez soudés, qui permettent d'inclure le plus de personnes possibles où tout le monde se sent utile et concerné. Un individu séparé des autres n'a peut-être pas la force qui lui offre un sens pour des actions cohérentes avec une finalité collective clairement définie.
 
 Donc voyons ce qu'on nous propose aujourd'hui comme exemples de collectifs sans chefs...
 

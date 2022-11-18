@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-09-23 10:18:00
+date: 2022-11-17 10:18:00
 tags: histoire
 ---
 
@@ -582,10 +582,6 @@ On trouve les premiers serpents et on peut constater l'existences des premières
 ## - 95 000 000 d'années
 
 On a les premiers crocodiles.
-
-# - 90 000 000 d'années
-
-# - 80 000 000 d'années
 
 # - 70 000 000 d'années
 
@@ -1209,13 +1205,42 @@ Le World Wide Web est inventé à Genève. Internet devient désormais capable d
 
 1 000 000 d'ordinateurs sont connectés à Internet.
 
-## 2006 ans
+## 1996 ans
 
-Google achète une entreprise harcelée par des poursuites pour violation du droit d'auteur: YouTube.
+Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/premiere-machine-google.jpg)</span>
+
+Pour faire ceci, il faut procéder en 3 étapes:
+
+1 Chercher des disques durs d'occasions pour arriver à un terabyte de données parce qu'on veut vraiment beaucoup de données. À ce moment-là, les disques durs ne disposent pas d'un aussi grand espace de stockage qu'aujourd'hui. Cette installation sommaire a pris place dans la chambre de Larry Page.
+
+Ce type d'architecture sera conservé dans les datacenter à venir de Google. Un datacenter est un espace dans lequel il y a beaucoup de disques durs connectés à internet qui sont utilisés comme des serveurs.
+
+2 Mettre des données dans ces disques durs
+3 Créer l'algorithme qui permet de chercher les informations pertinentes en fonction de ce que l'utilisateur recherche
+
+Les fondateurs de Google regardent comment les résultats sont catégorisés quand ils cherchent des bases de données scientifiques. Ils ont conscience que la valeur d'une publication scientifique est en proportion du nombre de publications qui la citent.
+
+Le concept de PageRank a été créé à partir de ce travail.
+
+## 1998 ans
+
+Fondation de Google dans la Silicon Valley. Désormais, Google a une mission claire: aider les utilisateurs à trouver exactement ce qu'ils veulent sur Internet.
 
 ## 2008 ans
 
 Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto.
+
+Sortie de Chrome. Ce nouveau navigateur, très rapide pour l'époque, va connaitre un énorme succès en très peu de temps.
+
+## 2011 ans
+
+Apple détrône le pétrolier Exxon comme première capitalisation mondiale. Un passage de témoin d’une économie à l’autre.
+
+## 2022 ans
+
+Google ouvre son premier data center en France en région parisienne.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
@@ -1238,3 +1263,4 @@ Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le no
 - [Trou noir](https://fr.wikipedia.org/wiki/Trou_noir)
 - [Système solaire](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
 - [Oxygène](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
+- [Cryptomonnaie](https://fr.wikipedia.org/wiki/Cryptomonnaie)
