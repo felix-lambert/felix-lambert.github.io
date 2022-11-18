@@ -13,4 +13,4 @@ La solution de facilité est de nous précipiter vers des histoires anciennes, d
 
 Ce monde présent de notre civilisation technologique nous demande plutôt d'imaginer de nouveaux comportements collectifs. Et pour faire cela, il faut inventer un nouveau récit qui permet de ressouder la communauté des humains.
 
-Si on arrive à le trouver, les expressions scientifiques, artistiques, littéraires, du grand et petit écran vont probablement suivre.
+Si on arrive à le trouver, les expressions artistiques, littéraires, du grand et petit écran vont probablement suivre.
