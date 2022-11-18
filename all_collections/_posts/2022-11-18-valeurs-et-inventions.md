@@ -7,7 +7,7 @@ tags: histoire
 
 Donc on est d'accord. Comme a très bien dit Yuval Noah Harari dans son livre best-seller "Sapiens", l'humain a besoin d'histoires pour se souder. Ces histoires, qu'elles soient réelles ou ou non, donnent des valeurs, qui guident l'action, le comportement de l'humain, mais sont racontées en fonction de la situation contextuelle du narrateur.
 
-Avons-nous trouvé une histoire qui correspond à notre temps ? Ce plongeon dans ce nouveau monde proposées par les actions collectives et les technologies numériques connectées nous impose une nouveau récit.
+Avons-nous trouvé une histoire qui correspond à notre temps ? Ce plongeon dans ce nouveau monde proposées par les actions collectives et les technologies numériques connectées nous impose une nouvelle histoire.
 
 La solution de facilité est de nous précipiter vers des histoires anciennes, dépassées.
 
