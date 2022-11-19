@@ -47,7 +47,9 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple).
 
-L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle). De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
+L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).
+
+De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
 Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à dilater l'astre.
 
@@ -60,6 +62,10 @@ A la fin de leur vie, ces étoiles ont généralement explosé en hypernovas en 
 Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif)</span>
+
+<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif)</span>
+
+<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif)</span>
 
 Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène (appelée communément « dioxygène » par les chimistes), du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
 
@@ -76,6 +82,8 @@ Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premi�
 Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.
 
 Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Les trous noirs sont des objets avec un champ gravitationnel tellement fort que même la lumière est incapable de s'y échapper. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donne les physiognomies des galaxies.
+
+<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif)</span>
 
 Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
 
