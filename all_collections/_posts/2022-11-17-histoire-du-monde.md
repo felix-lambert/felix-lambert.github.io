@@ -41,6 +41,10 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 ## -13 699 620 000 d'années
 
+<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif)</span>
+
+<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif)</span>
+
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple).
 
 L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle). De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
