@@ -55,6 +55,8 @@ A la fin de leur vie, ces étoiles ont généralement explosé en hypernovas en 
 
 Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
 
+<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif)</span>
+
 Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène (appelée communément « dioxygène » par les chimistes), du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
@@ -127,7 +129,7 @@ Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont d
 
 Dans la zone chaude de notre système solaire, les éléments lourds, plus proches du soleil, se mettent à former de plus en plus de corps rocheux. La gravité permet à ces roches de s'assembler ensemble pour finalement former des planètes. Ces types de planètes, qui se forment par la roche, sont appelés des planètes rocheuses ou telluriques. Ce sont Mercure, Vénus, la Terre, et Mars.
 
-![Alt Text]({{site.baseurl}}/assets/img/Solarsystem3DJupiter.gif)
+<span style="display:block;text-align:center">![Alt Text]({{site.baseurl}}/assets/img/Solarsystem3DJupiter.gif)</span>
 
 ## -4 540 000 000 d'années
 
