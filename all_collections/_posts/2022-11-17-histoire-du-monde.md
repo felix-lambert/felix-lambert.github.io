@@ -97,7 +97,7 @@ Même si notre système solaire n'a pas encore été formé, la situation de l'u
 
 Les interactions entre galaxies sont plus nombreuses, mais les galaxies massives moins nombreuses. Ces dernières étant apparues plus tard des suites des phénomènes de fusion entre galaxies.
 
-Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers, essentiels à la vie.
+Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers.
 
 La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (une petite galaxie de seulement 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
 
@@ -117,7 +117,7 @@ La création de nouvelles étoiles et de supernovas ralentit lentement.
 
 # -8 000 000 000 d'années
 
-Le trou noir (Sagittarius A\*) de notre galaxie a terminé la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.
+Le trou noir (Sagittarius A+) de notre galaxie a terminé la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.
 
 # - 7 000 000 000 d'années
 
@@ -135,7 +135,7 @@ Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxi
 
 L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'hélium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. Il s'agit du commencement de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage gazeux attire 99,9 % de la matière à proximité. Ce nuage devient plus dense et plus chaud de sorte qu'au final, une fusion nucléaire marque la naissance de notre soleil. Ce processus a duré à peu près 100 000 ans.
 
-Ce très jeune soleil est eutouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
+Ce très jeune soleil est entouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
 
 Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.
 
@@ -175,10 +175,6 @@ Une composante essentielle d'une entité vivante est de chercher de l'énergie e
 
 La mer regorge à présent de ces organismes microscopiques. Ces cellules se rapprochent de la surface.
 
-## -3 700 000 000 d'années
-
-La vie s'est répandue de l'obscurité permanente des profondeurs des océans aux eaux de surface ensoleillées.
-
 ## -3 500 000 000 d'années
 
 Les êtres vivants commencent à se rassembler pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
@@ -190,8 +186,6 @@ Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lum
 ## -3 200 000 000 d'années
 
 Les bactéries sont les premières entités vivantes à coloniser le monde sans oxygène à l'extérieur des océans.
-
-# -3 000 000 000 d'années
 
 ## -2 900 000 000 d'années
 
@@ -208,6 +202,8 @@ La lave libérée par les volcans commence à refroidir et à créer de petites 
 Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
 
 Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Les participants à ce qui a été une communauté de cellules en roue libre devinrent de plus en plus interdépendants. Chaque membre se concente uniquement sur un aspect particulier de la vie. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
+
+<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif)</span>
 
 On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau.
 
