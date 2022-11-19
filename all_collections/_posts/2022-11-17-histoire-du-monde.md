@@ -219,7 +219,7 @@ L'oxygène (dioxygène O2) est toxique pour les organismes anaérobies, dont fon
 
 Les volcans réussissent finalement à éjecter suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes qui ont survécu peuvent évoluer très vite dans un monde à la fois chaud, oxygéné à 1 % et avec un tout nouveau gaz, l'ozone. Cette couche d'ozone permet de bloquer les rayons ultraviolets du soleil et donc de protéger la biosphère de ce rayonnement nocif.
 
-En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issu de la photosynthèse forme une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire.
+En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issue de la photosynthèse forme une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire.
 
 # -2 000 000 000 d'années
 
@@ -304,8 +304,6 @@ Rodinia se casse complètement. Les roches qui composent ce continent sont des r
 
 L'atmosphère ne contient pas suffisamment de dioxyde de carbone pour capter la chaleur solaire. Le méthane et le dioxyde de carbone sont deux des gaz présents dans le revêtement isolant qui réchauffe la Terre. Ils favorisent ce que nous appelons « l'effet de serre ». La température plonge à -60 degrés. La Terre devient alors une boule de neige (Terre boule de neige). Il s'agit de l'âge de glace le plus froid et le plus long de l'histoire de la planète.
 
-# - 700 000 000 d'années
-
 ## - 660 000 000 d'années
 
 Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone.
@@ -360,10 +358,9 @@ Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et v
 
 <span style="display:block;text-align:center">(Les vertébrés les plus primitifs vivants aujourd'hui sont les lamproies et les myxine: ils n'ont, comme les premiers poissons, pas de mâchoires)</span>
 
-La caractéristique d'un vertébré est d'être en mouvement. Il n'existe pas vraiment de vertébré qui passe toute sa vie fixé au même endroit. Etant constamment à l'affût le vertébré a besoin de beaucoup d'oxygène, d'une baterrie de sens complète avec des yeux, un odorat raffiné; et un système élaboré de détection des courants d'eau. Ce système sensoriel nécessite un cerveau complexe et centralisé. Le cerveau des vertébrés dépasse la cerveau d'autres animaux très mobiles comme les crustacés.
+La caractéristique d'un vertébré est d'être en mouvement. Il n'existe pas vraiment de vertébré qui passe toute sa vie fixé au même endroit. Etant constamment à l'affût le vertébré a besoin de beaucoup d'oxygène, d'une batterie de sens complète avec des yeux, un odorat raffiné; et un système élaboré de détection des courants d'eau. Ce système sensoriel nécessite un cerveau complexe et centralisé. Le cerveau des vertébrés dépasse la cerveau d'autres animaux très mobiles comme les crustacés.
 
-Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globalité de grands animaux. De nombreux invertébrés, en revanche, sont à peine visibles sans loupe ou microscope. Les insectes sont les
-les invertébrés les plus nombreux.
+Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globalité de grands animaux. De nombreux invertébrés, en revanche, sont à peine visibles sans loupe ou microscope. Les insectes sont les invertébrés les plus nombreux.
 
 # - 500 000 000 d'années
 
