@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-11-17 10:18:00
+date: 2022-11-19 10:18:00
 tags: histoire
 ---
 
@@ -382,7 +382,7 @@ On commence à comprendre que ces effets des changements climatiques, que ce soi
 
 ## -443 000 000 d'années
 
-1vec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres vivent en étroite association avec les champignons, échangeant de la nourriture contre des nutriments.
+Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres vivent en étroite association avec les champignons, échangeant de la nourriture contre des nutriments.
 
 ## -425 000 000 d'années
 
@@ -568,6 +568,8 @@ Une bonne partie des produits que nous consommons aujourd'hui, sont produits et 
 
 ## -175 000 000 d'années
 
+<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/JEjyLjbuOjjYA/giphy.gif)</span>
+
 Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle. On peut trouver les forêts de pins et des abeilles.
 
 On constate aussi l'existence des premiers dinosaures.
@@ -607,8 +609,6 @@ Cet événement marque la 5ème et la dernière extinction massive.
 Mais certains mammifères, qui ont l'intelligence de se cacher dans un environnement plus froid, sous terre, beaucoup plus petits que les dinosaures, parviennent à survivre. Ils se nourissent principalement de champignons qui n'ont pas besoin de lumière pour se développer et peuvent vivre sous Terre. Ils n'ont plus besoin de craindre des prédateurs aussi impressionants que des dinosaures, et ont donc la possibilité d'évoluer très rapidement. En effet, les animaux survivants commencent à se diversifier presque immédiatement, établissant des écosystèmes renouvelés et résilients sur terre en quelques centaines de milliers d'années.
 
 A noter que certains lézards aussi parviennent à survivre et constituent par ailleurs aujourd'hui une des branches des espèces des vertébrés (notamment lézards, oiseaux et serpents) les plus répandus même aujourd'hui et donc pas du tout en voie d'extinction.
-
-Il n'y a aucune raison de penser, même avec le cerveau très avancé d'un Homo Sapiens, que les reptiles ne puissent pas reprendre possession des continents dans un futur proche par rapport à l'âge de la vie.
 
 On comprend aussi que les conditions de survie se situe souvent sous Terre, que ce soit en situation de conflit ou de menace climatique. A condition bien sûr qu'une montagne volcanique ne ressorte pas des surfaces, provoquée par des énergies des profondeurs terrestres.
 
@@ -680,7 +680,7 @@ transforme lentement les singes en hominidé. Les traits principaux qui distingu
 
 <span style="display:block;text-align:center">(Bonobo)</span>
 
-L'ancètre le plus proche des hominidés est le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
+Les ancètres le plus proche des hominidés sont le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
 
 Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exemple, fabriquer des outils ou tenir des nourrissons, ne sont pas très convaincants, étant donné que de nombreux animaux gèrent les deux sans le changement en profondeur de la bipédie des hominidés.
 
@@ -756,7 +756,7 @@ Quelques homos sapiens arrivent en Europe.
 
 # - 180 000 ans
 
-Des Homo Sapien arrivent au Levant. Les hommes modernes rencontrent les hommes de Néandertal au Levant et se reproduisent avec eux. En conséquence, tous les humains modernes avec des ancêtres qui ne sont pas exclusivement africains contiennent de l'ADN néandertalien.
+Des Homo Sapiens arrivent au Levant. Les hommes modernes rencontrent les hommes de Néandertal au Levant et se reproduisent avec eux. En conséquence, tous les humains modernes avec des ancêtres qui ne sont pas exclusivement africains contiennent de l'ADN néandertalien.
 
 ## -110 000 ans
 
@@ -858,7 +858,7 @@ Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de le
 
 Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
 
-La maison en hiérogriphe représente la lettre "B". L'eau en hiérogriphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
+La maison en hiéroglyphe représente la lettre "B". L'eau en hiéroglyphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
 
 A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī, le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.
 
@@ -1134,7 +1134,7 @@ Les responsables de la peste ne sont donc ni les étoiles, ni Dieu, ni les juifs
 
 ## 1903 ans
 
-Premier vol motorisé de l'histoire. Le moteur parvient à parcourir une distance de 40 mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus, de plus en plus vite, et de plus en plus loin.
+Premier vol motorisé de l'histoire. Le moteur parvient à parcourir une distance de 40 mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.
 
 Ford fonde la Ford Motor Company. Il décide de créer une nouvelle méthode de travail qui consiste à décomposer le travail de l'ouvrier en tâches simples et élémentaires. Ca permet une simplification des gestes et donc une augmentation de la productivité.
 
@@ -1150,7 +1150,7 @@ Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclet
 
 Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort.
 
-Les avions ne pouvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne servent qu'à la reconnaissance et au réglage de tirs d'artillerie en prenant des photographies. Les avions de chasse et de bombardement n'apparaissent que plus tard.
+Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne servent qu'à la reconnaissance et au réglage de tirs d'artillerie en prenant des photographies. Les avions de chasse et de bombardement n'apparaissent que plus tard.
 
 ## 1915 ans
 
@@ -1167,8 +1167,6 @@ Premier avion commercial relativement fiable. C'est un avion entièrement constr
 ## 1920 ans
 
 Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.
-
-En Allemagne,
 
 ## 1926 ans
 
@@ -1188,11 +1186,11 @@ Il y a 2 milliards d'homo sapiens sur Terre.
 
 ## 1969 ans
 
-L'armée américaine souhaite inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
+L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".
+
+L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
 
 Chaque noeud du réseau peut être émetteur d'informations ou récepteur d'informations. C'est la base de réflexion qui va conduire à l'internet.
-
-Quatre ordinateurs sont reliés à distance. C'est le premier lien Arpanet qui est établit.
 
 ## 1972 ans
 
@@ -1206,7 +1204,7 @@ Il y a 4 milliards d'homo sapiens sur Terre.
 
 100 000 ordinateurs sont connectés à Internet.
 
-Le World Wide Web est inventé à Genève. Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Moins technique, le Web est prêt à séduire tout le monde.
+Le World Wide Web est inventé à Genève. Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Moins compliqué donc plus accessible, le Web est prêt à séduire tout le monde.
 
 ## 1992 ans
 
@@ -1239,11 +1237,11 @@ Fondation de Google dans la Silicon Valley. Désormais, Google a une mission cla
 
 Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto.
 
-Sortie de Chrome. Ce nouveau navigateur, très rapide pour l'époque, va connaitre un énorme succès en très peu de temps.
+Un nouveau navigateur, Chome, très rapide pour l'époque, connaît un énorme succès en très peu de temps.
 
 ## 2011 ans
 
-Apple détrône le pétrolier Exxon comme première capitalisation mondiale. Un passage de témoin d’une économie à l’autre.
+Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.
 
 ## 2022 ans
 
