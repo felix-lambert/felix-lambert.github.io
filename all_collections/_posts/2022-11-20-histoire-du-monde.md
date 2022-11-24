@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-11-19 10:18:00
+date: 2022-11-20 10:18:00
 tags: histoire
 ---
 
@@ -153,7 +153,7 @@ L'orbite d'une planète appelée Theia l'emmène directement sur la planète Ter
 
 ## -4 300 000 000 d'années
 
-La planète se refroidit petit à petit. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie rend possible la création des premiers océans, avec beaucoup de CO2, très acide. C'est un océan d'eau, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
+La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie rend possible la création des premiers océans, avec beaucoup de CO2, très acide. C'est un océan d'eau très chaud, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
 
 Parallèlement, encore grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.
 
@@ -167,7 +167,7 @@ Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à 
 
 # -4 000 000 000 d'années
 
-Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est recouverte d'océans. Et il n'y a toujours pas d'oxygène. La température de la Terre baisse à 40 degrés. Les volcans, riches en gaz à effet de serre, émergent de l'océan et forment une nouvelle atmosphère.
+Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est recouverte d'océans. Et il n'y a toujours pas d'oxygène. La température de la Terre baisse à 40 degrés. Il y a plus d'éruptions volcaniques qu'il n'y en a aujourd'hui en raison de la chaleur qui s'élève du noyau de la planète. Ces volcans, riches en gaz à effet de serre, émergent de l'océan, forment une nouvelle atmosphère et les premières iles volcaniques.
 
 Les premières formes de vie sont des organismes microscopiques (microbes). Ces micro-organismes sont faits de carbone, ce qui rend très facile l'assemblage d'autres molécules. Grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
 
@@ -282,10 +282,6 @@ basalte.
 
 <span style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</span>
 
-## -825 000 000 d'années
-
-# -800 000 000 d'années
-
 ## -780 000 000 d'années
 
 Naissance du premier animal : les éponges de mer.
@@ -338,6 +334,8 @@ Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent
 
 Les trilobites apparaissent. Certains trilobites ont des yeux énormes, tandis que d'autres sont aveugles. Mais ils ont tous un système digestif sophistiqué, des jambes, avec un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et domine les mers cambriennes en se nourissant principalement de vers.
 
+Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier et atteignent une vaste gamme de tailles: la plus petitemesurant quelques millimètres de long, tandis que les plus grands mesuraient plus d'un demi-mètre de long.
+
 ## - 505 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/anomacolis.jpg)</span>
@@ -382,7 +380,7 @@ On commence à comprendre que ces effets des changements climatiques, que ce soi
 
 ## -443 000 000 d'années
 
-Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres vivent en étroite association avec les champignons, échangeant de la nourriture contre des nutriments.
+Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres ont évolué à partir d'algues vertes aquatiques, et auraient initialement festonné les bords des lacs et des rivières, près de l'eau. Elles vivent en étroite association avec les champignons.
 
 ## -425 000 000 d'années
 
@@ -414,7 +412,7 @@ Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites
 
 <span style="display:block;text-align:center">(Jaekelopterus)</span>
 
-Mais il y a aussi les anthropodes et plus particulièrement les scorpions des mers (de type anthropode, ancètre des scorpions sur terre) de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains anthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
+Mais il y a aussi les arthropodes et plus particulièrement les scorpions des mers (de type arthropode, ancètre des scorpions sur terre) de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains arthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
 
 # - 400 000 000 d'années
 
@@ -452,17 +450,17 @@ Ichthyostega est un prédateur qui chasse des proies terrestres et est un carniv
 
 ## -365 000 000 d'années
 
-Il y a une remontée du niveau d'oxygène, les forêts s'agrandissent et se multiplient sur les continents. Il y a principalement des araignées et des scorpions énormes aussi grand que les aigles qui existent sur les continents. Des libellules géantes comme Meganeura par exemple dépassent tous les insectes actuels.
+Il y a une remontée du niveau d'oxygène, avec des araignées, des scorpions et des libellules (Meganeura) géants. Ces dernières sont les premiers groupes d'animaux à s'envoler. Les forêts s'agrandissent et se multiplient sur les continents.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/meganeura.jpg)</span>
 
 <span style="display:block;text-align:center">(Meganeura)</span>
 
-L'espèce Meganeura est un des plus grands insectes qui aient jamais existé, fort semblable à une libellule géante. Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.
+Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.
 
 ## -360 000 000 d'années
 
-On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple.
+On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobites ont traîné sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.
 
 ## -340 000 000 d'années
 
@@ -982,6 +980,12 @@ Indépendance des Etats-Unis.
 
 Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.
 
+## 1784 ans
+
+Emmanuel Kant publie un petit texte de moins d'une dizaine de pages: Qu'est-ce que les Lumières. C'est peut-être le moment dans lequel un mouvement philosophique a clairement été unifié à travers ce texte. Si nous sommes humanistes, que nous considérons tous les humains comme égaux, avec la même valeur, il faut peut-être partir de là. Ce mouvement se diffuse dans toute l'Europe occidentale (France, Allemagne, Angleterre, et par ricochet Etats-Unis). La symbolique principale des Lumières est probablement ce qu'on appelle "connaissance". Le projet est peut-être au fond de pouvoir diffuser la connaissance. Pourquoi la "connaissance" est si importante à cette époque ? Probablement parce que la grande partie de l'influence sur les esprits est exercée par la religion (christianisme en occident). Cette influence religieuse a un pouvoir énorme sur la culture et l'instruction à cette époque.
+
+Les Lumières refusent que la religion demande aux humains d'obéir à Dieu. On sait en effet que dans les religions abrahamiques Dieu impose ses lois aux hommes (il faut le craindre et lui obéir).
+
 ## 1800 ans
 
 Il y a 1 000 000 000 d'homo sapiens sur Terre.
@@ -1168,6 +1172,10 @@ Premier avion commercial relativement fiable. C'est un avion entièrement constr
 
 Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.
 
+## 1922 ans
+
+Publication du Roman Ulysse de James Joyce. Il est considéré comme l'un des romans les plus importants de la littérature moderne.
+
 ## 1926 ans
 
 Première compagnie aérienne plus ou moins rentable: la "Luft hansa".
@@ -1183,6 +1191,10 @@ En Turquie, l'alphabet arabe devient illégal.
 ## 1930 ans
 
 Il y a 2 milliards d'homo sapiens sur Terre.
+
+## 1967 ans
+
+Publication du roman Cent Ans de solitude de Gabriel García Márquez.
 
 ## 1969 ans
 
