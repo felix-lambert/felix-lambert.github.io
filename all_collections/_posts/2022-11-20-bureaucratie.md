@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Bureaucratie
-date: 2022-11-06 10:18:00
+date: 2022-11-20 10:18:00
 tags: philosophy
 ---
 
 - [Bureaucratie](https://www.amazon.com/Bureaucratie/dp/2330076142)
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bureaucratie.jpg)</span>
+
+«Le ministère de la Santé, la Direction générale de la santé, Santé publique France, la Haute Autorité de santé, les agences régionales de santé, l’Agence épidémiologie France,
+l’Agence nationale de sécurité du médicament et des produits de santé, le Conseil scientifique de la présidence de la République, le Haut Conseil de la santé publique,
+l’Agence nationale de sécurité de logistique médicale ont le plaisir de vous annoncer la naissance du petit dernier: le Haut Conseil d’orientation pour la stratégie vaccinale!»
 
 La bureaucratie est une violence. Comme le soutient David Graeber, quand il y a communication bureaucratique, souvent, si on ignore ce message, ou on s'y oppose, on court un danger. Après quelques mois, quelques années, on risque de subir une intervention énergique des policiers ou/et une humiliation...
 
