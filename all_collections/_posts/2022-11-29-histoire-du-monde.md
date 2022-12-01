@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2022-11-20 10:18:00
+date: 2022-11-29 10:18:00
 tags: histoire
 ---
 
@@ -636,7 +636,7 @@ L'antarctique, chaud par rapport à aujourd'hui, avec des forêts, est toujours 
 
 ## -54 000 000 d'années
 
-Un nouveau mammifère volant voit le jour: les chauve-souris (Icaronyteris).
+Un nouveau mammifère volant voit le jour: les chauve-souris (Icaronyteris). Les chauves-souris ont évolué en vol d'une manière nouvelle, développant une membrane entre les doigts tendus. Ils jouent un rôle crucial en tant que pollinisateurs et disperseurs de graines.
 
 # - 50 000 000 d'années
 
@@ -694,7 +694,7 @@ Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquem
 
 Le climat de la planète change, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.
 
-## - 3 500 000 d'années
+## - 3 300 000 d'années
 
 Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.
 
@@ -776,6 +776,14 @@ Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, 
 
 Les plus anciennes peintures connues, d'Indonésie, ont été réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux.
 
+# -70 000 ans
+
+Homoe Sapiens atteint l'Asie de l'Est, traversant l'Indonésie jusqu'en Australie quelques millénaires plus tard.
+
+# -50 000 ans
+
+Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés.
+
 # -40 000 ans
 
 Fin des hommes de Néandertal probablement à cause d'un refroidissement brutal du climat et du manque de nourriture. En effet, le Neanderthal a besoin de plus de calorie qu'Homo Sapiens pour survivre et pour se reproduire notamment à cause de sa plus grande masse musculaire.
@@ -836,11 +844,20 @@ Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans
 
 L'Egypte connaît une épisode de sécheresse très sévère. Les eaux du Nil ont baissé de façon dramatique. Cette première sécheresse a peut-être provoqué la chute de l'Ancien Empire.
 
+# -5000 ans
+
+La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils ont joué un rôle central dans la culture Botai.
+
+S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains ont été fasciné par eux depuis des milliers d'années, les peignant sur des rochers.
+
 # -4000 ans
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
 
 Les villes et les villages du long du Nil (grand fleuve d'Afrique du Nord) s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
+
+Homo Sapiens commence à utiliser des chevaux pour tirer des chars. Après cela, domestiqué
+les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord et la Chine, étant montés et tirant des véhicules pour la guerre, l'agriculture et la construction.
 
 # -3000 ans
 
@@ -1249,7 +1266,7 @@ Fondation de Google dans la Silicon Valley. Désormais, Google a une mission cla
 
 Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto.
 
-Un nouveau navigateur, Chome, très rapide pour l'époque, connaît un énorme succès en très peu de temps.
+Un nouveau navigateur, Chrome, très rapide pour l'époque, connaît un énorme succès en très peu de temps.
 
 ## 2011 ans
 
