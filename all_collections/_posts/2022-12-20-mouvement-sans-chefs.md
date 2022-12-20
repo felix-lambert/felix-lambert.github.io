@@ -73,7 +73,7 @@ Traduction:
 <em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em><br />
 <em>Allongé sur le dos, tu ne peux pas tomber</em>
 
-9. L'écologie
+# 9. L'écologie
 
 L'écologie est aussi un mouvement sans chef. L'écologie ne consiste pas seulement à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Elle requiert une compréhension active et une réflexion critique de notre part pour pouvoir agir de manière responsable et protéger l'environnement. Elle nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
 
