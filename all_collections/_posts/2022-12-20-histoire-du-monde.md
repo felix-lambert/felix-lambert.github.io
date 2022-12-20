@@ -5,23 +5,31 @@ date: 2022-11-29 10:18:00
 tags: histoire
 ---
 
+Une partie a été générée par Open AI
+
 # -14 000 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bigbang.png)</span>
 
 Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
 
-L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Depuis lors, il s'est étendu et refroidi. Dans cet univers, il y a 4 forces fondamentales:
+L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est rempli d'une sorte de plasma constitué de quarks et de gluons. La théorie qui décrit la façon dont les particules élémentaires se sont formées au cours du Big Bang est la théorie du champ de Higgs, qui est confirmés par des expériences et des observations. Cette théorie explique comment les particules ont acquis de la masse grâce au champ de Higgs, qui leur a donné une certaine résistance au mouvement.
 
-1 forces électromagnétiques > peut influer des objets plus grands que des atomes
+Depuis lors, il s'est étendu et refroidi.
 
-2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus grand est l'objet, plus sa force est grande
+Dans cet univers, il y a 4 forces fondamentales:
+
+1 forces électromagnétiques > peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons dans notre univers, tels que la lumière, le courant électrique et les aimants.
+
+2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes que nous observons au quotidien, comme la chute des objets vers le sol et la marée.
 
 3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome
 
-4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome. Attire les quarks entre eux par exemple.
+4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome. Elle est très forte à une distance très courte, mais elle diminue rapidement avec la distance. S'exerce uniquement à l'intérieur des noyaux atomiques. Attire les quarks entre eux par exemple.
 
-Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace augmente de manière exponentielle à une taille d'environ 10 avec 26 zéros derrière plus grande que la taille avant l'inflation.
+Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.
+
+Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à la taille de l'observable aujourd'hui.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
@@ -29,7 +37,7 @@ Un cent-millième de seconde après le début du big bang, seule une soupe chaot
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
-Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons. Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont électriquement neutres), et donc les premiers éléments chimiques apparaissent. Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
+Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons. Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont électriquement neutres), et donc les premiers éléments chimiques apparaissent. Cette force agit entre les quarks de manière à les maintenir ensemble dans les noyaux atomiques, malgré la tendance des quarks à se disperser en raison de leur charge électrique. Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
 
 Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).
 
@@ -77,6 +85,8 @@ La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe l
 
 Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. L'oxygène est, en masse, le troisième élément le plus abondant de l'Univers après l'hydrogène et l'hélium.
 
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/supernova.jpg)</span>
+
 # -13 000 000 000 d'années
 
 Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.
@@ -103,7 +113,7 @@ La Voie lactée est semblable aux galaxies satellitaires naines que nous connais
 
 # -11 000 000 000 d'années
 
-Le taux net de formation d'étoiles a probablement atteint son maximum.
+Le taux net de formation d'étoiles a probablement atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu.
 
 # -10 000 000 000 d'années
 
@@ -135,6 +145,8 @@ Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxi
 
 L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'hélium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. Il s'agit du commencement de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage gazeux attire 99,9 % de la matière à proximité. Ce nuage devient plus dense et plus chaud de sorte qu'au final, une fusion nucléaire marque la naissance de notre soleil. Ce processus a duré à peu près 100 000 ans.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TOYGhaf8c24" frameborder="0" allowfullscreen></iframe></p>
+
 Ce très jeune soleil est entouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
 
 Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.
@@ -149,7 +161,21 @@ La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés e
 
 Notre système solaire renferme sans doute plusieurs dizaines de planètes. Mais il n'y a pas suffisamment d'espace pour tous ces astres - leurs trajectoires orbitales sont tout sauf stables et il y a de nombreuses collisions. Ils exercent des forces gravitationnelles d'attraction les uns sur les autres, certaines planètes ont été brulées par le Soleil, d'autres ont été projetées hors du système solaire lors de quasi-collisions et errent maintenant, seuls et sans étoile, dans l'espace. Il n'est donc pas étonnant que tant de planètes errent dans l'espace sans tourner autour d'une étoile.
 
-L'orbite d'une planète appelée Theia l'emmène directement sur la planète Terre et crée une immense collision. Il y a des milliards de débris autour de la Terre qui orbitent. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune. La Terre survit à cet évènement cataclysmique, mais une grande partie de l'eau de la Terre s'évapore à cause de l'impact.
+## -4 510 000 000 d'années
+
+L'orbite d'une planète similaire à la Terre mais beaucoup plus petite, appelée Theia, l'emmène directement sur la planète Terre et crée une immense collision. Cette collision projette une grande quantité de matière terrestre et de matière de Théia dans l'espace, qui se condense pour former la Lune. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune, l'unique satellite naturel permanent de la planète Terre.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/impactgeant.png)</span>
+
+La Lune, en rotation, présente toujours la même face à la Terre. Elle a une taille apparente environ 60 fois plus petite que celle du Soleil dans le ciel, mais elle est également beaucoup plus proche de la Terre que le Soleil. Ainsi, lorsqu'elle se trouve entre la Terre et le Soleil, la Lune peut masquer complètement le Soleil, ce qui donne lieu à une éclipse totale.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cachée_lune.jpg)</span>
+
+<span style="display:block;text-align:center">(Face cachée de la Lune)</span>
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/visible_lune.png)</span>
+
+<span style="display:block;text-align:center">(Face visible de la Lune)</span>
 
 ## -4 300 000 000 d'années
 
@@ -169,7 +195,13 @@ Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à 
 
 Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est recouverte d'océans. Et il n'y a toujours pas d'oxygène. La température de la Terre baisse à 40 degrés. Il y a plus d'éruptions volcaniques qu'il n'y en a aujourd'hui en raison de la chaleur qui s'élève du noyau de la planète. Ces volcans, riches en gaz à effet de serre, émergent de l'océan, forment une nouvelle atmosphère et les premières iles volcaniques.
 
-Les premières formes de vie sont des organismes microscopiques (microbes). Ces micro-organismes sont faits de carbone, ce qui rend très facile l'assemblage d'autres molécules. Grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
+# -3 800 000 000 d'années
+
+Il est supposé qu'une activité chimique intense dans un milieu hautement énergétique a alors permis de produire une molécule capable de se reproduire. Ce sont les premières formes de vie qui sont des des organismes microscopiques (microbes).
+
+Une entité est vivante si elle peut en effet se reproduire elle-même, si elle est basée sur l'eau, si elle produit des lipides et des protéines, si son métabolisme est basé sur le carbone, si elle se réplique grâce à des acides nucléiques et si elle possède un système permettant de « lire » des protéines.
+
+Grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
 
 Une composante essentielle d'une entité vivante est de chercher de l'énergie en se nourissant. La vie sexuelle arrivera bien après. Un être qui ne mange pas n'est pas vivant.
 
@@ -263,8 +295,9 @@ Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus
 
 Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela a libéré une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique a atteint la stratosphère (au-dessus des nuages) et n'est donc pas devenue acide. Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
 
-L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années, laissant un anneau de continents autour de l'équateur. La rupture s'est accompagnée d'énormes éruptions volcaniques qui ont apporté de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée
-basalte.
+L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années.
+
+La rupture s'est accompagnée d'énormes éruptions volcaniques qui ont apporté de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée basalte.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalte.jpg)</span>
 
@@ -282,9 +315,11 @@ basalte.
 
 <span style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</span>
 
+Le début de l'éclatement de Rodinia a des conséquences importantes sur l'évolution de la vie sur Terre, car il entraîne des changements climatiques importants et favorise la diversification des espèces animales et végétales. Il contribue également à la formation de nouvelles ressources minérales et à l'apparition de nouvelles terres émergées.
+
 ## -780 000 000 d'années
 
-Naissance du premier animal : les éponges de mer.
+Naissance du premier animal: les éponges de mer. Les éponges sont les premiers organismes multicellulaires à avoir émergé sur Terre, et elles ont probablement été les premiers organismes à coloniser les fonds marins.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/eponges.jpg)</span>
 
@@ -325,6 +360,22 @@ La vie animale est toujours une exception. Elle est toujours très simple et pas
 Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques). Il n'existe pas encore vraiment d'animaux prédateurs.
 
 Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux.
+
+## - 540 000 000 d'années
+
+Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.
+
+Les arthropodes font leur apparition. Ils ont rapidement prospéré et évolué en un grand nombre de formes différentes. Aujourd'hui, ils sont l'un des groupes d'animaux les plus diversifiés et les plus répandus sur Terre, avec des centaines de milliers d'espèces connues. Les arthropodes sont présents dans presque tous les écosystèmes terrestres et aquatiques et jouent un rôle important dans les équilibres écologiques et les cycles naturels.
+
+L'embranchement des arthropodes est de très loin celui qui possède le plus d'espèces et le plus d'individus de tout le règne animal, tels les myriapodes, crustacés, arachnides, insectes, etc.
+
+## - 530 000 000 d'années
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/Haikouichthys_NT.jpg)</span>
+
+<span style="display:block;text-align:center">(Haikouichthys)</span>
+
+Haikouichthys est l’un des plus anciens poissons connus. Cet animal a une tête et un tronc distinct. Il est charognard.
 
 ## - 525 000 000 d'années
 
@@ -382,6 +433,14 @@ On commence à comprendre que ces effets des changements climatiques, que ce soi
 
 Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres ont évolué à partir d'algues vertes aquatiques, et auraient initialement festonné les bords des lacs et des rivières, près de l'eau. Elles vivent en étroite association avec les champignons.
 
+Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons sans machoires qui bougent. Contrairement à la plupart des poissons, qui ont des mâchoires et des dents pour capturer et dévorer leur nourriture, les poissons sans machoires n'ont pas de mâchoires et se nourrissent en suçant la chair de leurs proies. Mais plus tard on trouve des poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons ont élaboré une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jaekelopterus.jpg)</span>
+
+<span style="display:block;text-align:center">(Jaekelopterus)</span>
+
+Mais il y a aussi les scorpions des mers de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains arthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
+
 ## -425 000 000 d'années
 
 Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent, grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil. On comprend que les plantes ont besoin de trois choses pour prospérer:
@@ -396,23 +455,15 @@ Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la 
 
 Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de transformer les rochers en terre fertile, afin que les plantes de la prochaine génération puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres des continents sont encore des déserts massifs.
 
-Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons sans machoires qui bougent. Mais plus tard on trouve des poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons ont élaboré une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.
+# - 420 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/placoderme.jpg)</span>
 
 <span style="display:block;text-align:center">(Placoderme)</span>
 
-On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes). Les placodermes sont considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont Homo Sapiens.
-
-A la même époque on trouve les premières plantes avec des feuilles (Lycophyte est une des premières plantes avec des feuilles), c'est-à-dire que certaines plantes développent les capacités de photosynthèse à un autre niveau, par rapport aux plantes sans feuille. Les feuilles permettent de beaucoup mieux répartir l'eau qu'un simple tissu vasculaire à travers ses veines. Plus la circulation d'eau est aisée, plus la plante pousse vite.
+On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes), mais qui peuvent broyer les poissons les plus coriaces. Les placodermes sont considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont Homo Sapiens.
 
 Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites (l'ancètre des insectes, qui rampe dans le fond des océans et mange principalement des vers et mollusques qui se cachent sous le sable).
-
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jaekelopterus.jpg)</span>
-
-<span style="display:block;text-align:center">(Jaekelopterus)</span>
-
-Mais il y a aussi les arthropodes et plus particulièrement les scorpions des mers (de type arthropode, ancètre des scorpions sur terre) de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains arthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
 
 # - 400 000 000 d'années
 
@@ -429,6 +480,8 @@ Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Te
 ## - 380 000 000 d'années
 
 On constate l'existence d'un poisson (Panderichthys) utilisant ses nageoires comme des pagaies, car il vit dans des eaux peu profondes, dans des eaux saumâtres (estuaires, marais côtiers) envahies de plantes et de détritus. Il est possible qu'il utilise ses nageoires pour s'accrocher aux plantes ou à autre chose pendant qu'il se tienne en embuscade attendant ses proies. Dans la mesure où certains poissons vivent entre l'eau et la Terre, on voit apparaître un trou au niveau du haut de la tête de certains poissons (un peu comme les dauphins) qui est relié à des poumons chez certains poissons, de pattes/nageoires chez les premiers tétrapodes aquatiques.
+
+La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), apparaît. La respiration pulmonaire est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène.
 
 Cette capacité à occuper des milieux très diversifiés auraient facilité leur rapide dispersion sur tous les continents, prélude à la terrestrialisation de certaines lignées.
 
@@ -462,6 +515,10 @@ Son milieu de vie est constitué de forêts tropicales, à proximité de rivièr
 
 On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobites ont traîné sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.
 
+## -350 000 000 d'années
+
+On trouve les premières plantes avec des feuilles, c'est-à-dire que certaines plantes développent les capacités de photosynthèse à un autre niveau. Elles jouent un rôle important dans l'évolution de la vie sur Terre en fournissant une grande quantité de nourriture et d'oxygène pour les animaux et en permettant la colonisation de nouveaux milieux par les plantes. Les feuilles permettent de beaucoup mieux répartir l'eau qu'un simple tissu vasculaire à travers ses veines. Et plus la circulation d'eau est aisée, plus la plante pousse vite.
+
 ## -340 000 000 d'années
 
 Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents, là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.
@@ -470,7 +527,7 @@ Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau d
 
 <span style="display:block;text-align:center">(Hylomonus)</span>
 
-## -320 000 000 d'années
+## -335 000 000 d'années
 
 Tous les continents fusionnent en un seul super-continent, Pangée, qui renferme en son sein une mer intéreure: Thétis.
 
@@ -702,6 +759,12 @@ Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un
 
 Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il soit plus un charognard (qui consomme les cadavres d'autres animaux) qu'un chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer et est la première espèce à pouvoir utiliser des pierres pour fabriquer des outils simples.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/DN1bUmqUgK4" frameborder="0" allowfullscreen></iframe></p>
+
+Pour fabriquer les plus simples outils en pierre, un bloc de roche dure aux propriétés mécaniques particulières, comme le silex, doit être frappé avec un percuteur également en pierre de façon à en détacher un éclat. Cette action produit un bord tranchant à la fois sur le bloc taillé et sur l'éclat qui en est détaché, tous deux pouvant être utilisés comme outils.
+
+Ces premières utilisations de la pierre marquent le début du Paléolithique, qui s'achève avec le développement de l'agriculture il y a environ 12 000 ans.
+
 # - 2 000 000 d'années
 
 L'homo australopithèque utilise surtout la marche comme moyen de se déplacer et arrête définitivement de grimper dans les arbres, sauf s'il y a une menace imminente.
@@ -717,6 +780,14 @@ Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capac
 Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
 
 L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution des hominidés.
+
+## - 1 800 000 années
+
+De nouvelles méthodes de taille de la pierre apparaissent, se traduisant par la production d'outils plus complexes comme le biface.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/WE6P7aIIf3E" frameborder="0" allowfullscreen></iframe></p>
+
+Avec ces outils, les premiers Homo exécutent différentes tâches, dont la découpe de la viande, la fracture des os pour accéder à la moelle osseuse, la coupe du bois, l'ouverture des noix, le dépouillement des carcasses animales pour récupérer la peau.
 
 ## - 1 600 000 années
 
@@ -945,17 +1016,59 @@ Il y a un débat entre les médecins: le mal se propage par l'air ou par le cont
 
 La peste est à Moscou.
 
+## 1455 ans
+
+Le Pape Nicolas V, dans son livre, Romanus Pontifex, légitimise le commerce des Africains. Le Vatican voit ici un intérêt économique évident. Mais l'intérêt est aussi religieux, en convertissant les africains au christianisme. Il accorde aux rois de Portugal le droit de "réduire en servitude" les Africains "païens" et de les emmener en Europe ou ailleurs pour les convertir au christianisme.
+
+Cette bulle papale est utilisée par les Portugais pour justifier leur expansion coloniale en Afrique et leur commerce des Africains comme esclaves.
+
+## 1492 ans
+
+En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, le dernière bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista a également coïncidé avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.
+
+Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Collomb débarque aux Antilles pour le compte de l'Espagne.
+
+## 1500 ans
+
+Les Portugais s'implantent au Brésil avec Pedro Álvares Cabral. Il y a un manque de main-d'œuvre pour travailler sur les plantations et dans les mines, et les Portugais commencent donc à utiliser des esclaves africains pour remplir ces tâches.
+
+Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonie en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.
+
+## 1517 ans
+
+Les colons espagnoles mettent en place une forme de travail forcé afin d'exploiter les immenses richesses amérindiennes comme l'or et l'argent. On regroupe sur un territoire donné les indigènes qu'on oblige à travailler dans les champs, les mines et les chantiers de construction, sous l'autorité d'un colon. Les populations des antilles, d'amérique central et du sud sont ainsi réduites en esclavage.
+
 ## 1521 ans
 
 Chute de l'Empire aztéque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures, de fusils, et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.
 
+## 1550 ans
+
+Bartolomé de Las Casas, prêtre catholique espagnol, prend la défense des amérindiens. Un grand débat religieux et politique, qui doit répondre à une question simple commence: doit-on convertir les indigènes par la force ? La réponse est non. Las Casas parvient désormais à préserver les indiens du travail forcé. Il propose toutefois l'utilisation de travailleurs esclaves africains plutôt que d'indigènes pour les plantations et les mines d'or.
+
 ## 1582 ans
 
-Il y a à cette époque au Japon une séparation nette entre le paysan et le samurai. Le paysan ne peut pas devenir samurai et réciproquement. Il y a un choix à faire. Cela veut donc dire que le guerrier ne peut plus cultiver un lopin de terre. Cette réforme va structurer la société japonaise pour les siècles à venir.
+Il y a à cette époque au Japon une séparation nette entre le paysan et le samurai. Le paysan ne peut pas devenir samurai et réciproquement. Cela veut donc dire que le guerrier ne peut plus cultiver un lopin de terre.
 
-## 1595 ans
+Le statut de samouraï est aussi héréditaire et ne peut être acquis qu'en étant né dans une famille de samouraïs. Les paysans, qui n'appartiennent pas à cette classe, ne peuvent donc pas devenir samouraïs, même s'ils le souhaitent.
 
-Jacques Callot, durant la guerre des trente ans, dénonce la vie dure des soldats ainsi que les exactions commises sur les civils.
+Cette réforme va structurer la société japonaise pour les siècles à venir.
+
+## 1601 ans
+
+La Hollande, la France, l'Angleterre et l'Espagne s'implantent en Amérique. La France domine Saint Domingue, la Guadeloupe, et la Martinique.
+
+## 1602 ans
+
+La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la compagnie néerlandaise des indes occidentales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Elle emploie plus de 1 000 000 de travailleurs partout en Europe ainsi que 4785 navires qui font le commerce de marchandises. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bâteaux. Lorsque les bâteaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.
+
+## 1637 ans
+
+Au Nord d'Amsterdam, la demande pour des tulipes augmente rapidement, entraînant une hausse des prix qui atteint des niveaux exorbitants. Cependant, cette hausse des prix est principalement due à la spéculation et à l'excitation autour de ces tulipes, et non à une valeur réelle. En effet, il n'y a pas de réelle utilisation pratique pour ces tulipes, qui ne sont cultivées que pour leur beauté ornementale. C'est peut-être la première bulle spéculative de l'histoire.
+
+## 1685 ans
+
+Colbert, ministre des finances de Louis XIV rédige le Code Noir, réglementant le rapport entre maître et esclave dans les colonies. A l'origine, il a pour but de réaffirmer l'autorité royale face aux colons afin de limiter les exactions sur les esclaves dans un but précis: favoriser la production pour engranger un maximum de bénéfices. Ce Code Noir autorise de fouetter des esclaves avec des cordes et non des batons pour ne pas leur casser les os. Le propriétaire peut les mutiler en cas de fuite. On peut couper une oreille et marquer une épaule au fer rouge. En cas de récidive, on coupe une jambe et on marque l'autre épaule de la même manière. Enfin en cas d'une troisième tentative de fuite, le maître a le droit d'ôter la vie de son esclave.
 
 ## 1689 ans
 
@@ -967,17 +1080,19 @@ L'Angleterre commence des réformes économiques en
 
 La croissance économique qui suit est énorme. Tandis que l'Europe continentale s'enfonce de plus en plus dans la récession, ces réformes économiques (la révolution financière britannique) favorisent l'avènement de la révolution industrielle.
 
-## 1720 ans
+## 1690 ans
 
-Au Royaume-Uni nous avons les premières machines à vapeur (Newcomen engine). Son énergie est le charbon.
-
-## 1720 ans
-
-On découvre du charbon dans le nord de la France.
+A Saint Domingue, il y a 30 000 esclaves qui produisent 3000 tonnes de sucre.
 
 ## 1722 ans
 
 Dernière épidémie de peste en Europe. Elle se situe à Marseille et on ne connaît toujours pas sa cause véritable.
+
+## 1740 ans
+
+Mohammed ben Abdelwahhab s'allie avec Mohammed Ibn Saoud pour donner une légitimité religieuse à la famille Al Saoud sur les autres tribus arabes. Sa doctrine religieuse, appelée wahhabisme, met l'accent sur la pureté de l'islam et la nécessité de retourner aux pratiques et croyances originales de l'islam, telles qu'elles sont décrites dans le Coran et la tradition prophétique (sunna). Il prône également l'obéissance absolue aux commandements de Dieu et à la loi islamique (sharia), ainsi que l'importance de l'enseignement de l'islam et de la diffusion de la doctrine islamique à travers le monde.
+
+Les deux familles se sont mariées à plusieurs reprises au cours des années et dans l'actuelle Arabie saoudite, le ministre du culte est toujours un membre de la famille de l'Al ash-Sheikh (c'est-à-dire un descendant de Mohammed ben Abdelwahhab).
 
 ## 1757 ans
 
@@ -987,13 +1102,21 @@ Dans le nord de la France, première société charbonnière créée par une ass
 
 ## 1769 ans
 
-Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction.
+Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction. Elles jouent un rôle important dans la révolution industrielle en fournissant une source d'énergie alternative aux moyens traditionnels tels que les chevaux et les eaux courantes.
 
 ## 1776 ans
 
-Indépendance des Etats-Unis.
+Les colonies britanniques en Amérique du Nord décident de se séparer de l'Empire britannique et de devenir un pays indépendant. Cela est motivé par plusieurs facteurs, y compris le désir de liberté et d'autonomie des colonies, le mécontentement croissant envers le gouvernement britannique et la répression des colonies par les troupes britanniques.
+
+Les États-Unis déclarent leur indépendance le 4 juillet 1776, lorsque la Déclaration d'Indépendance est adoptée par le Congrès Continental. La Déclaration d'Indépendance, rédigée par Thomas Jefferson, énonce les raisons pour lesquelles les colonies se séparent de l'Empire britannique et proclament leur indépendance en tant que nouveau pays, les États-Unis d'Amérique.
+
+## 1780 ans
+
+Les actes de mutilation contre les esclaves sont interdits aux Antilles. Dans ces colonies, les esclaves sont souvent soumis à des actes de violence et de mutilation pour les punir de diverses infractions. Par exemple, ils peuvent être marqués au fer rouge, mutilés ou tués pour s'être rebellés ou pour avoir tenté de s'échapper.
 
 ## 1783 ans
+
+Les États-Unis sont finalement reconnus comme un pays indépendant par le Royaume-Uni avec la signature du Traité de Paris.
 
 Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.
 
@@ -1003,39 +1126,63 @@ Emmanuel Kant publie un petit texte de moins d'une dizaine de pages: Qu'est-ce q
 
 Les Lumières refusent que la religion demande aux humains d'obéir à Dieu. On sait en effet que dans les religions abrahamiques Dieu impose ses lois aux hommes (il faut le craindre et lui obéir).
 
+En résumé, le message principal du mouvement des Lumières est de promouvoir la liberté, l'égalité et la démocratie en mettant l'accent sur la raison et la science comme moyens de progrès humain.
+
+## 1790 ans
+
+A Saint-Domingue 500 000 esclaves produisent 100 000 tonnes de sucre. Les esclaves sont principalement originaires d'Afrique subsaharienne et sont utilisés pour travailler dans les plantations de canne à sucre, de café, de coton et de tabac.
+
+Les esclaves sont divisés en deux catégories : les esclaves domestiques, qui travaillent principalement dans les maisons des propriétaires de plantations, et les esclaves agricoles, qui travaillent principalement dans les champs. Les esclaves agricoles sont souvent soumis à des conditions de travail très difficiles et sont souvent maltraités par leurs propriétaires et leurs surveillants.
+
+## 1791 ans
+
+Toussaint Louverture inflige une série de revers aux colons français. Il réussi notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions en Haïti et réussi à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.
+
+## 1794 ans
+
+La France est le premier pays à abolir l'esclavage. Sauf en Martinique qui passe sous domination britannique.
+
 ## 1800 ans
 
 Il y a 1 000 000 000 d'homo sapiens sur Terre.
 
-## 1803 ans
+## 1802 ans
 
-L'arrivée des bâteaux à vapeur favorise la demande en charbon.
+La Martinique redevient français, date à laquelle Napoléon rétablit l'esclavage. Napoléon rétabli également l'esclavage dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.
+
+## 1808 ans
+
+L'esclavage est supprimé au Royaume-Uni. Cette loi est adoptée en réponse aux pressions exercées par les mouvements abolitionnistes et est l'une des premières lois de ce type adoptées en Europe.
 
 ## 1810 ans
 
-Début des guerres d'indépendance hispano-méricaines.
+Début de la guerre d'indépendance hispano-méricaine. Cette guerre est un conflit qui oppose les colonies espagnoles d'Amérique du Sud et d'Amérique centrale aux forces espagnoles, et qui abouti à l'indépendance de ces colonies.
 
-Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fustige la barbarie produite par tous conflits.
+Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fustige la barbarie produite par tous conflits. Une de ses œuvres les plus célèbres qui dénonce la guerre est la série de gravures intitulée "Les Désastres de la Guerre", qui représente les horreurs de la guerre d'Indépendance espagnole et les souffrances infligées aux civils. Dans ces gravures, Goya utilise un style expressif et dramatique pour montrer les effets dévastateurs de la guerre sur les individus et sur la société.
 
 ## 1815 ans
 
-Fin des guerres napoléoniennes. Le Royaume-Uni se concentre sur le commerce international.
+Fin des guerres napoléoniennes.
+
+## 1827 ans
+
+En France, on adopte une loi interdisant la traite négrière et prévoient des peines sévères pour les personnes qui s'y adonnent.
 
 ## 1830 ans
 
-Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres.
-
-L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.
+Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres. L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.
 
 ## 1839 ans
 
-En Chine, tout l'opium est détruit puis jeté à la mer.
+En Chine, tout l'opium est détruit puis jeté à la mer. La destruction de l'opium est effectuée de manière spectaculaire, avec l'utilisation de navires et de bateaux pour jeter les réserves d'opium à la mer ou les brûler publiquement. Cette action est menée en présence de témoins et de journalistes étrangers, afin de montrer au monde la détermination de la Chine à mettre fin au trafic d'opium.
 
 Le Japon s'inquiète de la présence récurrente de navires étrangers autour de ses côtes et voit la menace se préciser après la première guerre de l'opium où le Royaume-Uni impose par la force un traité d'ouverture du commerce aux chinois (Traité de Nankin).
 
 ## 1840 ans
 
-Le développement de l'industrie ferroviaire nourrit encore plus la demande en charbon.
+Le développement de l'industrie ferroviaire nourrit encore plus la demande en charbon. L'industrie ferrovière a en effet besoin de charbon comme source d'énergie pour alimenter ses locomotives à vapeur.
+
+Les locomotives à vapeur fonctionnent en brûlant du charbon pour produire de la chaleur, qui est utilisée pour produire de la vapeur d'eau. La vapeur d'eau est envoyée dans les cylindres de la locomotive, où elle actionne les pistons qui entraînent les roues de la locomotive.
 
 ## 1841 ans
 
@@ -1047,13 +1194,15 @@ Le trafic d'opium reprend en Chine, contournant tous les interdits.
 
 ## 1845 ans
 
-Les américains ont cette mission quasi divine de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.
+Les américains ont cette mission de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.
 
 ## 1848 ans
 
-Des mines sont découvertes en Californie. Attiré par la fortune, c'est le début de la célèbre ruée vers l'or qui voit des mouvements massifs de population vers l'Ouest.
+Des mines d'or sont découvertes en Californie. Attiré par la fortune, c'est le début de la célèbre ruée vers l'or qui suscite l'intérêt de nombreuses personnes désireuses de s'enrichir rapidement. Cela entraîne un afflux massif de population vers ces régions, qui voient leur population augmenter de façon spectaculaire en peu de temps.
 
 Des troupeaux de bison sont massacrés par les américains pour de la fourrure, privant les tribus indiennes de leur ressource alimentaire.
+
+L'esclavage est définitivement aboli en France.
 
 ## 1853 ans
 
@@ -1067,7 +1216,7 @@ Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante. 
 
 ## 1856 ans
 
-Début de la seconde guerre de l'opium.
+Début de la seconde guerre de l'opium. Elle oppose la Chine à une coalition de puissances étrangères, principalement la Grande-Bretagne, la France et les États-Unis. Le conflit débute lorsque les autorités chinoises saisissent et brûlent une cargaison d'opium appartenant à des marchands britanniques.
 
 ## 1858 ans
 
@@ -1083,27 +1232,29 @@ C'est une époque compliquée pour le Japon d'autant plus que les étrangers app
 
 ## 1861 ans
 
-Début de la guerre de sécession.
+Début de la guerre de sécession. Elle oppose les États du Nord, qui forment l'Union, aux États du Sud, qui forment la Confédération. La guerre de Sécession est causée en raison de différences profondes entre les États du Nord et ceux du Sud sur la question de l'esclavage et de l'autonomie des États. Les États du Sud, qui sont principalement agricoles et qui ont besoin de main-d'œuvre bon marché, ont mis en place un système d'esclavage pour travailler dans les champs de coton, de tabac et de canne à sucre. Les États du Nord, qui sont principalement industriels et qui ont besoin de main-d'œuvre qualifiée, ont mis fin à l'esclavage.
 
-Abraham Lincoln abolit l'esclavage. Début du télégraphe sur l'ensemble du continent américain.
+Les différences entre le Nord et le Sud se sont accrues au fil des années, en particulier au sujet de l'expansion de l'esclavage dans les nouveaux territoires de l'Ouest. Les États du Nord s'opposent à l'expansion de l'esclavage, tandis que les États du Sud veulent que l'esclavage soit autorisé dans les nouveaux territoires.
 
-Le chemin de fer va permettre un développement rapide de la population dans les territoires de l'ouest des Etats-Unis.
+Après l'élection de Abraham Lincoln, qui s'oppose à l'expansion de l'esclavage, sept États du Sud décident de se séparer de l'Union et de former leur propre gouvernement, connu sous le nom de Confédération.
+
+Le chemin de fer va permettre un développement rapide de la population dans les territoires de l'ouest des Etats-Unis. Il joue un rôle important dans l'évolution économique et sociale de l'Ouest des États-Unis et contribue à l'unification du pays.
 
 ## 1863 ans
 
-La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage.
+La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage. Par exemple, il prend une série de photographies intitulée "The Dead of Antietam", qui montre les soldats morts sur le champ de bataille de la bataille de Antietam.
+
+Abraham Lincoln abolit l'esclavage. Lincoln prend cette décision pour plusieurs raisons. Tout d'abord, il considére l'esclavage comme une injustice et un obstacle à la réalisation des idéaux de liberté et d'égalité auxquels il croit. Il déclare que tous les esclaves du Sud sont libres et ordonnent aux forces militaires de l'Union de respecter cette décision. Cette proclamation a un impact immédiat sur les esclaves du Sud, qui commence à fuir les plantations pour se joindre aux forces de l'Union.
 
 # 1864 ans
 
-Une coallition bombarde Shimonoseki au Japon. Le Japon comprend qu'il est impossible de vaincre militairement les occidentaux.
-
-Droit de grève accordé en France.
+Une coallition bombarde Shimonoseki au Japon. Une flotte navale britannique, française et américaine est envoyée dans la baie de Shimonoseki pour obliger le Japon à accepter de nouvelles concessions commerciales. Les navires bombardent la ville et le port, causant de nombreux dégâts et tuant plusieurs centaines de personnes. Le Japon comprend qu'il est impossible de vaincre militairement les occidentaux. Cet événement est l'un des éléments déclencheurs de l'ouverture du Japon au monde extérieur et de sa modernisation forcée et rapide au cours du XIXe siècle.
 
 # 1865 ans
 
 La guerre de Sécession prend fin. Les états du sud sont ravagés. Il faut désormais reconstruire et réconcilier. Le défi est immense.
 
-Abraham Lincoln se fait assassiner.
+Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politiques de Lincoln concernant l'abolition de l'esclavage. L'assassinat de Lincoln est l'un des événements les plus marquants de l'histoire des États-Unis et a un impact profond sur le pays. Lincoln est considéré comme l'un des présidents les plus importants de l'histoire américaine et reste un symbole de l'unité et de l'égalité pour tous les Américains.
 
 # 1866 ans
 
@@ -1113,7 +1264,11 @@ Construction d'un chemin de fer aux Etats-Unis transcontinentales.
 
 Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port d'arme des Samourai est interdit.
 
-Début de la sidérurgie aux Etats-Unis.
+Début de la sidérurgie aux Etats-Unis. La sidérurgie est l'industrie qui produit de l'acier à partir de matières premières telles que le minerai de fer et le charbon. L'acier est un alliage métallique composé principalement de fer et de carbone, et il est utilisé dans de nombreuses applications industrielles, y compris la construction de bâtiments, de ponts, de chemins de fer et d'autres infrastructures.
+
+La sidérurgie utilise des fours pour produire de l'acier à partir du minerai de fer. Le minerai de fer est extrait des mines et transporté aux aciéries pour être transformé en acier puis il est chauffé avec du coke, qui est un combustible obtenu à partir de charbon de bois, pour produire du fer fondu. Le fer fondu est alors versé dans des moules pour produire des lingots d'acier.
+
+Une fois que l'acier est produit, il peut être utilisé pour fabriquer divers produits tels que des barres, des tubes et des tôles.
 
 ## 1873 ans
 
@@ -1125,43 +1280,59 @@ Début de jean Levi's à San Fransisco.
 
 Les révoltes des anciens fiefs guerriers (qui veulent envahir la corée) du Japon sont matées par cette nouvelle armée impériale, bien entraînée et bien équipée. Cette défaite sonne la fin de l'ère des samourais.
 
-Envahissement des Black Hills territoire des amérindiens.
+Envahissement des Black Hills territoire des amérindiens. Les Black Hills sont considérées comme un territoire sacré par les Amérindiens de la région, en particulier les Lakotas et les Cheyennes, qui y ont vécu depuis des siècles. L'envahissement des Black Hills est déclenché par la découverte d'or dans la région. Des prospecteurs envahissent les Black Hills et commencent à exploiter l'or sans tenir compte des droits des Amérindiens sur le territoire.
 
 ## 1874 ans
 
-Dernière pandémie de peste en Asie qui fait 12 millions de morts.
+Dernière pandémie de peste en Asie, également connue sous le nom de pandémie de peste de Hong Kong, qui fait 12 millions de morts.
 
 ## 1886 ans
 
-Création du Coca Cola à Atlanta.
+Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets.
+
+La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.
 
 ## 1893
 
 Ford trouve assez de temps et d'argent pour étudier les moteurs à essence. Les moteurs de l'époque sont des moteurs à vapeur.
 
-## 1894
+# 1894 ans
 
-L'inventeur italien Guglielmo Marconi développe les premiers émetteurs et récepteurs radio.
+Le Coca Cola a rapidement gagné en popularité et est commercialisé sous forme de boisson gazeuse en bouteille.
+
+## 1895
+
+L'inventeur italien Guglielmo Marconi développe les premiers émetteurs et récepteurs radio. Il est l'un des premiers à comprendre que les ondes radio peuvent être utilisées pour la communication à distance et met au point un système de transmission de signaux à l'aide d'ondes radio à haute fréquence (HF).
+
+Marconi développe aussi un récepteur radio qui peut capter les ondes radio émises par l'émetteur et les démoduler pour récupérer le signal audio. Il utilise un oscillateur pour générer des ondes radio à haute fréquence et un amplificateur pour augmenter leur puissance, et utilise une antenne pour transmettre les ondes dans l'air.
+
+Il réussi à transmettre un signal radio sur une distance de quelques centaines de mètres.
 
 ## 1896
 
-Ford construit un véhicule à moteur de 4 chevaux refroidit par eau.
+Ford construit un véhicule à moteur de 4 chevaux refroidit par eau. Un moteur de 4 chevaux refroidi par eau est un type de moteur qui utilise de l'eau comme fluide de refroidissement pour évacuer la chaleur générée par la combustion du carburant dans le moteur.
 
 ## 1898
 
-On découvre grâce à Paul-Louis Simond que la maladie de la peste est transportée par une puce et plus pécisément par la puce du rat. Lorsque les rats meurent et que les puces sont affamées, elles finissent par contaminer les humains.
+On découvre grâce à Paul-Louis Simond que la maladie de la peste est transportée par une puce et plus pécisément par la puce du rat. Lorsque les rats meurent et que les puces sont affamées, elles finissent par contaminer les humains. Avant cela, il était largement cru que la peste était transmise par l'air ou par le contact direct avec des personnes infectées.
+
+Simond mène une série d'expériences sur des rongeurs infectés et sur des puces qui vivent sur ces rongeurs. Il constate que les puces qui se nourrissent de sang infecté deviennent elles-mêmes infectées, et qu'elles peuvent transmettre la peste à d'autres rongeurs lorsqu'elles se nourrissaient de leur sang. Cette découverte a permis de mettre en place des mesures de contrôle efficaces pour prévenir la transmission de la peste, telles que la lutte contre les rongeurs et les puces dans les zones où la peste était endémique.
 
 Les responsables de la peste ne sont donc ni les étoiles, ni Dieu, ni les juifs.
+
+## 1901 ans
+
+Marconi réussi à envoyer un signal radio transatlantique de l'Angleterre aux États-Unis. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.
 
 ## 1903 ans
 
 Premier vol motorisé de l'histoire. Le moteur parvient à parcourir une distance de 40 mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.
 
-Ford fonde la Ford Motor Company. Il décide de créer une nouvelle méthode de travail qui consiste à décomposer le travail de l'ouvrier en tâches simples et élémentaires. Ca permet une simplification des gestes et donc une augmentation de la productivité.
+Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 000 dollars et produit son premier véhicule, le modèle A, en 1903. Il décide de créer une nouvelle méthode de travail qui consiste à décomposer le travail de l'ouvrier en tâches simples et élémentaires. Ca permet une simplification des gestes et donc une augmentation de la productivité.
 
 <em>"L'homme qui place une pièce ne la fixe pas. L'homme qui place un boulon, ne met pas l'écrou. Et l'homme qui place l'écrou, ne le visse pas!".</em>
 
-# 1909
+# 1909 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bleriotXI.jpg)</span>
 
@@ -1169,9 +1340,9 @@ Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclet
 
 ## 1914 ans
 
-Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort.
+Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'bAllemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, les États-Unis et d'autres pays d'Europe et d'Amérique du Nord de l'autre.
 
-Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne servent qu'à la reconnaissance et au réglage de tirs d'artillerie en prenant des photographies. Les avions de chasse et de bombardement n'apparaissent que plus tard.
+Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne sont utilisés que pour collecter des informations sur les mouvements et les positions de l'ennemi. Ils sont équipés de caméras et de matériel de photographie pour capturer des images des positions ennemies et de leurs déplacements, qui sont ensuite utilisées pour établir des cartes et des plans de bataille. Les avions de chasse et de bombardement n'apparaissent que plus tard.
 
 ## 1915 ans
 
@@ -1180,6 +1351,8 @@ Après la confection des premiers avions de chasse, la première guerre mondiale
 ## 1918 ans
 
 Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, prêt de la moitié de ces pilotes meurt ou disparait avec leur avion.
+
+La grippe espagnole est apparue pour la première fois en Espagne, d'où elle tire son nom, et se propage rapidement dans le reste de l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Les raisons exactes de son apparition restent inconnues.
 
 ## 1919 ans
 
@@ -1195,19 +1368,23 @@ Publication du Roman Ulysse de James Joyce. Il est considéré comme l'un des ro
 
 ## 1926 ans
 
-Première compagnie aérienne plus ou moins rentable: la "Luft hansa".
+L'une des premières compagnies aériennes à avoir réalisé des profits significatifs est la compagnie américaine United Airlines.
 
 ## 1928 ans
 
-Mustafa Kemal Atatürk, président de la république de Turquie, a l'idée de remplacer l'écriture Arabe en alphabet latin. Il souhaite imposer une nouvelle écriture à son pays. Et il est aussi déterminé à en interdire l'ancienne.
+La Turquie adopte un alphabet latin pour l'écriture de sa langue nationale, le turc, en 1928. Cette décision est prise dans le cadre de la réforme linguistique de Mustafa Kemal Atatürk, qui vise à moderniser et à occidentaliser la Turquie en adoptant certaines caractéristiques de la culture et de la technologie occidentales.
 
-## 1929 ans
-
-En Turquie, l'alphabet arabe devient illégal.
+La réforme linguistique a également impliqué l'abandon de l'écriture en caractères arabes, qui est jusque-là utilisée pour écrire le turc, au profit de l'alphabet latin. Cette décision est prise en partie pour faciliter l'apprentissage de la langue et pour permettre à la Turquie de se rapprocher de l'Europe et de l'Occident.
 
 ## 1930 ans
 
 Il y a 2 milliards d'homo sapiens sur Terre.
+
+## 1950 ans
+
+Le concept de flux tendu est développé par l'ingénieur japonais Taiichi Ohno, alors qu'il travaille pour la société Toyota. Ce concept vise à optimiser la production en éliminant les gaspillages et en créant un flux de travail continu et sans interruption.
+
+Ce concept est adopté par de nombreuses entreprises dans le monde entier et devient un élément clé de l'organisation du travail dans de nombreux secteurs industriels.
 
 ## 1967 ans
 
@@ -1217,13 +1394,29 @@ Publication du roman Cent Ans de solitude de Gabriel García Márquez.
 
 L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".
 
+Arpanet est le premier réseau de communication à large bande passante pour ordinateurs, et il est développé par le Département de la défense des États-Unis (DoD).
+
+Le projet ARPANET est lancé dans le but de mettre en place un réseau de communication fiable et sécurisé pour les chercheurs et les scientifiques travaillant sur des projets de recherche avancés.
+
 L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
 
-Chaque noeud du réseau peut être émetteur d'informations ou récepteur d'informations. C'est la base de réflexion qui va conduire à l'internet.
+Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11 emportant Neil Armstrong et Buzz Aldrin. Selon les estimations, environ 500 millions de personnes regardent le décollage de la mission en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.
+
+Le décollage de la mission Apollo 11 est diffusé en direct par plusieurs chaînes de télévision à travers le monde, et suscite un immense intérêt public. Les télévisions du monde entier couvrent l'événement en direct, et de nombreux Américains organisent des fêtes ou se sont rassemblés devant les écrans de télévision pour regarder l'historique décollage. Cet événement est considéré comme l'un des moments les plus marquants de l'histoire de la télévision et a suscité un intérêt sans précédent pour l'exploration spatiale.
+
+## 1970 ans
+
+L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde.
+
+En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa, c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.
+
+La financiarisation de l'économie, c'est-à-dire le fait que l'économie devient de plus en plus orientée vers les activités financières et les marchés financiers, est un phénomène qui commence à se développer dans les années 1970 et qui s'accélère au cours des décennies suivantes.
 
 ## 1972 ans
 
-Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. C'est le premier langage facilement lisible pour un humain.
+Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. C'est le premier langage facilement lisible pour un Homo Sapiens.
+
+Les derniers Homo Sapiens à marcher sur le sol lunaire sont Harrison Schmitt et Eugene Cernan, lors de la mission Apollo 17.
 
 ## 1975 ans
 
@@ -1231,13 +1424,13 @@ Il y a 4 milliards d'homo sapiens sur Terre.
 
 ## 1989 ans
 
-100 000 ordinateurs sont connectés à Internet.
+100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.
 
 Le World Wide Web est inventé à Genève. Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Moins compliqué donc plus accessible, le Web est prêt à séduire tout le monde.
 
 ## 1992 ans
 
-1 000 000 d'ordinateurs sont connectés à Internet.
+1 000 000 d'ordinateurs sont connectés à Internet. Internet est principalement utilisé par les universités, les gouvernements et les entreprises pour la recherche et la communication.
 
 ## 1996 ans
 
@@ -1249,14 +1442,14 @@ Pour faire ceci, il faut procéder en 3 étapes:
 
 1 Chercher des disques durs d'occasions pour arriver à un terabyte de données parce qu'on veut vraiment beaucoup de données. À ce moment-là, les disques durs ne disposent pas d'un aussi grand espace de stockage qu'aujourd'hui. Cette installation sommaire a pris place dans la chambre de Larry Page.
 
-Ce type d'architecture sera conservé dans les datacenter à venir de Google. Un datacenter est un espace dans lequel il y a beaucoup de disques durs connectés à internet qui sont utilisés comme des serveurs.
+Ce type d'architecture est conservé dans les datacenter à venir de Google. Un datacenter est un espace dans lequel il y a beaucoup de disques durs connectés à internet qui sont utilisés comme des serveurs.
 
 2 Mettre des données dans ces disques durs
 3 Créer l'algorithme qui permet de chercher les informations pertinentes en fonction de ce que l'utilisateur recherche
 
 Les fondateurs de Google regardent comment les résultats sont catégorisés quand ils cherchent des bases de données scientifiques. Ils ont conscience que la valeur d'une publication scientifique est en proportion du nombre de publications qui la citent.
 
-Le concept de PageRank a été créé à partir de ce travail.
+Le concept de PageRank est créé à partir de ce travail. Le PageRank fonctionne en attribuant une "note" à chaque page web, qui reflète sa pertinence et son importance. Les pages qui ont de nombreux liens entrants de haute qualité de la part d'autres pages web de confiance ont tendance à obtenir une note plus élevée. Les pages qui ont peu ou pas de liens entrants ou qui sont liées à partir de sites peu fiables ont tendance à obtenir une note plus faible.
 
 ## 1998 ans
 
@@ -1264,17 +1457,38 @@ Fondation de Google dans la Silicon Valley. Désormais, Google a une mission cla
 
 ## 2008 ans
 
-Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto.
+Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto. Satoshi Nakamoto publie un livre blanc en 2008 décrivant le fonctionnement du Bitcoin et comment il pourrait être utilisé pour créer une monnaie numérique sécurisée et décentralisée.
 
 Un nouveau navigateur, Chrome, très rapide pour l'époque, connaît un énorme succès en très peu de temps.
+
+## 2009 ans
+
+Satoshi Nakamoto lance le logiciel Bitcoin et commence à émettre des Bitcoins.
 
 ## 2011 ans
 
 Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.
 
+## 2019 ans
+
+Une étude hollandaise évoque une baisse de 75 % de la biomasse des insectes volants de 1992 à 2019.
+
+Le médecin chinois Li Wenliang signale aux autorités chinoises la maladie Covid 19, mais il n'est pas écouté. Ce médecin meurt des suites de cette maladie.
+
+## 2020 ans
+
+Le monde est confronté à une pandémie de COVID-19, une maladie causée par le coronavirus SARS-CoV-2. La pandémie entraîne des restrictions de voyage et de rassemblement dans de nombreux pays, ainsi que la fermeture de nombreuses entreprises et écoles. Plusieurs vaccins contre le COVID-19 sont développés et commencent à être administrés à des millions de personnes dans le monde. Ces vaccins sont développés en un temps record grâce à la collaboration internationale.
+
+L'Australie est frappé par des feux de forêt dévastateurs qui brûlent pendant des mois et causent la mort de nombreux animaux et la destruction de nombreuses propriétés.
+
 ## 2022 ans
 
-Google ouvre son premier data center en France en région parisienne.
+La Terre compte approximativement 7,97 milliards d'habitants.
+
+La Russie envahit l'Ukraine. Après les géants américains (Apple, Boeing, Disney, Ford, General Motors…), certaines entreprises françaises commencent à suspendre, voire retirer, leurs
+activités de Russie.
+
+Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en Inde — qui représentent à eux seuls 35 % de la population mondiale. De plus, environ 56 % de la population mondiale vit dans des zones urbaines plutôt que rurales.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
@@ -1294,7 +1508,22 @@ Google ouvre son premier data center en France en région parisienne.
 - [Étoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II)
 - [Étoile de population III](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_III)
 - [Hypernova](https://fr.wikipedia.org/wiki/Hypernova)
+- [Supernova](https://fr.wikipedia.org/wiki/Supernova)
 - [Trou noir](https://fr.wikipedia.org/wiki/Trou_noir)
 - [Système solaire](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
 - [Oxygène](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
 - [Cryptomonnaie](https://fr.wikipedia.org/wiki/Cryptomonnaie)
+- [Soleil](https://fr.wikipedia.org/wiki/Soleil)
+- [Lune](https://fr.wikipedia.org/wiki/Lune)
+- [Océan](https://fr.wikipedia.org/wiki/Oc%C3%A9an)
+- [Terre](https://fr.wikipedia.org/wiki/Terre)
+- [Vie](https://fr.wikipedia.org/wiki/Vie)
+- [Cyanobactérie](https://fr.wikipedia.org/wiki/Cyanobacteriota)
+- [Photosynthèse](https://fr.wikipedia.org/wiki/Photosynth%C3%A8se)
+- [Arthropodes](https://fr.wikipedia.org/wiki/Arthropodes)
+- [Trilobites](https://fr.wikipedia.org/wiki/Trilobita)
+- [Metaspriggina](https://fr.wikipedia.org/wiki/Metaspriggina)
+- [Vertébrés](https://fr.wikipedia.org/wiki/Vert%C3%A9br%C3%A9s)
+- [Haikouichthys](<https://fr.wikipedia.org/wiki/Haikouichthys_(genre)>)
+- [Placodermes](https://fr.wikipedia.org/wiki/Placodermes)
+- [Tetrapoda](https://fr.wikipedia.org/wiki/Tetrapoda)
