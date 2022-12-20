@@ -75,19 +75,19 @@ Traduction:
 
 # 9. L'écologie
 
-L'écologie est aussi un mouvement sans chef. L'écologie ne consiste pas seulement à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Elle requiert une compréhension active et une réflexion critique de notre part pour pouvoir agir de manière responsable et protéger l'environnement. Elle nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
+L'écologie est aussi un mouvement sans chef. L'écologie ne consiste pas à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Elle nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xLXq4rnccDM" frameborder="0" allowfullscreen></iframe></p>
 
 Mais croire en des valeurs n'est pas suffisant. Il faut plutôt les faire exister. Si on voyage en jet privé pour nous raconter l'histoire de l'écologie, on accorde en réalité plus d'importance à:
 
-l'argent et la réussite économique (prendre un jet privée coûte très cher)
-l'exclusion (seule une extrême petite minorité peut prendre un jet privée)
-un mépris du discours scientifique (ils nous disent que c'est le moyen de transport le plus polluant)
+l'argent et la réussite économique (prendre un jet privée coûte très cher)<br />
+l'exclusion (seule une extrême petite minorité peut prendre un jet privée)<br />
+un mépris du discours scientifique (ils nous disent que c'est le moyen de transport le plus polluant)<br />
 
 Bien que cette personne semble sympathique, sans s'en rendre compte, elle détruit le beau récit de l'écologie.
 
-La question n'est donc pas forcément de convaincre des personnes de croire à ces histoires, mais plutôt de les rendre vivantes. La puissance de l'écologie ne peut que venir de là. Tout ce qui doit être dit sur la destruction des écosystèmes a déjà été dit. D'ailleurs, le but n'est pas forcément de "sauver la planète" mais de participer collectivement à une histoire qui rassemble et soude l'humanité entière à travers une prise de conscience de la vie qui est autour de nous.
+Le but n'est pas nécessairement de persuader les gens de croire ces histoires, mais plutôt de les rendre plus concrètes et significatives pour eux en agissant de manière cohérente avec elles. La puissance de l'écologie ne peut que venir de là. Tout ce qui doit être dit sur la destruction des écosystèmes a déjà été dit. D'ailleurs, le but n'est pas forcément de "sauver la planète" mais de participer collectivement à une histoire qui rassemble et soude l'humanité entière à travers une prise de conscience de la vie qui est autour de nous.
 
 S'il y a quantativement assez de personnes qui cherchent à s'immerger dans le collectif de l'écologie, sans chercher à tout prix la compétition, il peut y avoir un basculement positif, nous menant vers un monde qui ne détruit plus les conditions de subsistance des êtres vivants et favoriser les conditions d'habitabilités de la planète pour tous les animaux.
 
