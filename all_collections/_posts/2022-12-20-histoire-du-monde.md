@@ -984,6 +984,10 @@ Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégi
 
 Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
 
+# -900 ans
+
+Un royaume, l'Assyrie, commence à étendre son territoire et conquérir d'autres régions de la Mésopotamie. Les Assyriens se sont rapidement imposés comme une puissance militaire dominante dans la région et créent un vaste empire qui s'étend de l'Irak à la Palestine et à la Syrie.
+
 ## -753 ans
 
 Il y a d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands.
@@ -1312,6 +1316,14 @@ Il réussi à transmettre un signal radio sur une distance de quelques centaines
 
 Ford construit un véhicule à moteur de 4 chevaux refroidit par eau. Un moteur de 4 chevaux refroidi par eau est un type de moteur qui utilise de l'eau comme fluide de refroidissement pour évacuer la chaleur générée par la combustion du carburant dans le moteur.
 
+## 1890
+
+Le recensement des États-Unis est un processus long et fastidieux qui nécessite de nombreuses personnes pour compter et traiter les données manuellement. Ces données sont utilisées pour planifier les services publics et les infrastructures, telles que les écoles et les hôpitaux, et pour aider à prendre des décisions politiques et économiques. Les personnes chargées de traiter les données doivent compter et classer les informations recueillies sur des formulaires papier et les enregistrer dans des registres. Cela prend beaucoup de temps et implique souvent des erreurs de comptage et de transcription.
+
+Herman Hollerith crée un système de traitement de l'information en utilisant des cartes perforées pour stocker et traiter des données pour le recensement des États-Unis. Les cartes perforées peuvent être lues rapidement et facilement par la machine, ce qui permet de traiter de grandes quantités de données de manière rapide et efficace. Ces cartes sont des feuilles de papier perforées de manière à représenter des informations numériques. Chaque carte contiennent plusieurs colonnes de perforations, chacune représentant un chiffre ou une valeur.
+
+Pour lire les cartes perforées, la machine de Hollerith utilise un lecteur de cartes. Ce lecteur comprend plusieurs tiges métalliques qui passent à travers les perforations de la carte. Selon la position des perforations sur la carte, certaines tiges sont bloquées et d'autres non. En fonction de la combinaison de tiges bloquées ou non, la machine peut déterminer la valeur numérique représentée par la carte. Une fois que la machine a lu la carte, elle peut utiliser ces données pour effectuer des calculs et produire des résultats. Par exemple, si une carte représente un nombre de personnes et une autre représente un montant d'argent, la machine peut additionner ces valeurs pour obtenir un total.
+
 ## 1898
 
 On découvre grâce à Paul-Louis Simond que la maladie de la peste est transportée par une puce et plus pécisément par la puce du rat. Lorsque les rats meurent et que les puces sont affamées, elles finissent par contaminer les humains. Avant cela, il était largement cru que la peste était transmise par l'air ou par le contact direct avec des personnes infectées.
@@ -1350,6 +1362,8 @@ Après la confection des premiers avions de chasse, la première guerre mondiale
 
 ## 1918 ans
 
+Fin de la première guerre mondiale. Un film qui dénonce l'horreur et la futilité de cette guerre est All Quiet on the Western Front sur netflix.
+
 Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, prêt de la moitié de ces pilotes meurt ou disparait avec leur avion.
 
 La grippe espagnole est apparue pour la première fois en Espagne, d'où elle tire son nom, et se propage rapidement dans le reste de l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Les raisons exactes de son apparition restent inconnues.
@@ -1380,6 +1394,12 @@ La réforme linguistique a également impliqué l'abandon de l'écriture en cara
 
 Il y a 2 milliards d'homo sapiens sur Terre.
 
+## 1949 ans
+
+Eugene Houdry invente le convertisseur catalytique. Houdry est un ingénieur chimiste français qui développe ce dispositif pour réduire les émissions de polluants causées par les véhicules à essence. Depuis, il devient un équipement standard sur la plupart des véhicules à essence et diesel dans le monde entier.
+
+Le convertisseur catalytique utilise un catalyseur, généralement du platine, du palladium ou du rhodium, pour convertir ces polluants en substances moins nocives, comme l'eau et le dioxyde de carbone.
+
 ## 1950 ans
 
 Le concept de flux tendu est développé par l'ingénieur japonais Taiichi Ohno, alors qu'il travaille pour la société Toyota. Ce concept vise à optimiser la production en éliminant les gaspillages et en créant un flux de travail continu et sans interruption.
@@ -1406,9 +1426,7 @@ Le décollage de la mission Apollo 11 est diffusé en direct par plusieurs chaî
 
 ## 1970 ans
 
-L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde.
-
-En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa, c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.
+L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde. En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa, c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.
 
 La financiarisation de l'économie, c'est-à-dire le fait que l'économie devient de plus en plus orientée vers les activités financières et les marchés financiers, est un phénomène qui commence à se développer dans les années 1970 et qui s'accélère au cours des décennies suivantes.
 
@@ -1421,6 +1439,28 @@ Les derniers Homo Sapiens à marcher sur le sol lunaire sont Harrison Schmitt et
 ## 1975 ans
 
 Il y a 4 milliards d'homo sapiens sur Terre.
+
+## 1977 ans
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/apple2.jpg)</span>
+
+L'Apple II est présenté pour la première fois par Steve Jobs et Steve Wozniak au West Coast Computer Faire, un salon professionnel de l'informatique qui se tient du 22 au 24 avril 1977 à San Francisco. Cet ordinateur est lancé sur le marché en avril 1977 et est l'un des premiers ordinateurs personnels de l'histoire. Il est également le premier ordinateur à être livré avec un kit de développement logiciel complet, ce qui permet aux utilisateurs de créer leurs propres programmes. Pour créer ces programmes, on utilise surtout le langage BASIC, le langage de programmation le plus couramment utilisé sur l'Apple II. Il est également possible de programmer en utilisant d'autres langages tels que le langage machine ou le langage assembleur. En utilisant ces langages de programmation, les utilisateurs peuvent créer des programmes simples, tels que des jeux vidéo, grâce à son écran couleur, ou des applications de base de données, ou des programmes plus complexes, tels que des outils de gestion de projets ou des applications de traitement de texte.
+
+Pour ouvrir un programme, la méthode la plus courante est de le charger à partir d'un disque de démarrage, qui est un disque de 5,25 pouces contenant un programme de démarrage et le programme qu'on souhaite exécuter. Pour charger le programme, on doit insérer le disque de démarrage dans le lecteur de disquettes de l'Apple II et redémarrer l'ordinateur. Le programme de démarrage chargé à partir du disque exécute alors le programme qu'on souhaite exécuter.
+
+## 1976 ans
+
+Le convertisseur catalytique est utilisé pour la première fois sur les véhicules à essence dans les années 1970. Il est maintenant utilisé sur la plupart des véhicules à essence et diesel dans le monde entier pour réduire les émissions de polluants. Il joue un rôle important dans la réduction de la pollution de l'air causée par les véhicules et contribue à protéger l'environnement et la santé humaine.
+
+## 1979 ans
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/visicalc.png)</span>
+
+VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calculs de manière simple et rapide, sans avoir à utiliser des feuilles de calcul papier. Pour démarrer VisiCalc sur un ordinateur Apple II, il faut d'abord insérer le disque contenant le logiciel dans le lecteur de disque de l'ordinateur. Ensuite, il faut appuyer sur la touche "reset" pour redémarrer l'ordinateur et charger le logiciel à partir du disque. Une fois que l'ordinateur a redémarré, le programme VisiCalc devrait s'ouvrir automatiquement. Si ce n'est pas le cas, vous pouvez essayer de le démarrer manuellement en tapant "VISICALC" sur la ligne de commande et en appuyant sur la touche "entrée".
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/compuserve.jpg)</span>
+
+Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.
 
 ## 1989 ans
 
@@ -1455,6 +1495,14 @@ Le concept de PageRank est créé à partir de ce travail. Le PageRank fonctionn
 
 Fondation de Google dans la Silicon Valley. Désormais, Google a une mission claire: aider les utilisateurs à trouver exactement ce qu'ils veulent sur Internet.
 
+## 2007 ans
+
+Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvier 2007 lors d'une conférence de presse à San Francisco. L'événement, intitulé "Introducing iPhone", est diffusé en direct sur Internet et est suivi par des journalistes, des analystes et des fans d'Apple de partout dans le monde.
+
+Lors de cette conférence de presse, Steve Jobs présente le premier iPhone comme étant un téléphone révolutionnaire qui combine un téléphone mobile, un iPod et un appareil de navigation Internet en un seul et même appareil. Il présenté également de nouvelles fonctionnalités telles que l'écran tactile, la reconnaissance vocale et l'accès à Internet à haut débit.
+
+Le premier iPhone est lancé aux États-Unis le 29 juin 2007 et connaît un succès immédiat, devenant rapidement l'un des téléphones mobiles les plus populaires au monde. Depuis, Apple lance de nombreux modèles d'iPhone, chacun avec des fonctionnalités améliorées et de nouvelles technologies.
+
 ## 2008 ans
 
 Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto. Satoshi Nakamoto publie un livre blanc en 2008 décrivant le fonctionnement du Bitcoin et comment il pourrait être utilisé pour créer une monnaie numérique sécurisée et décentralisée.
@@ -1474,6 +1522,8 @@ Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'�
 Une étude hollandaise évoque une baisse de 75 % de la biomasse des insectes volants de 1992 à 2019.
 
 Le médecin chinois Li Wenliang signale aux autorités chinoises la maladie Covid 19, mais il n'est pas écouté. Ce médecin meurt des suites de cette maladie.
+
+DeepMind, la filiale de recherche en intelligence artificielle de la société mère de Google, Alphabet, oppose un agent IA nommé AlphaStar à certains des meilleurs joueurs de StarCraft II au monde. AlphaStar bat 99,8% des joueurs humains.
 
 ## 2020 ans
 
