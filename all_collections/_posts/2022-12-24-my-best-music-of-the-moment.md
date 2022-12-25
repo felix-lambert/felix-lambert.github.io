@@ -8,7 +8,6 @@ tags: music
 - [Lully: Phaéton Opera in 5 acts with prologue - Chaconne](https://www.youtube.com/watch?v=wGbf5b32NLc)
 
 - [Bodysync - Suenos Bravos (feat. Daniela Andrade)](https://www.youtube.com/watch?v=zurKW3VxQ50)
-- [The Naked & Famous - Young Blood (Futurecop! Remix)](https://www.youtube.com/watch?v=n5X7Wxb0u3Y)
 
 Free from copyright :)
 
