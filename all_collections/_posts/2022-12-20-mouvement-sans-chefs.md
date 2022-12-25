@@ -75,7 +75,9 @@ Traduction:
 
 # 9. L'écologie
 
-L'écologie est aussi un mouvement sans chef. L'écologie ne consiste pas à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire le futur et si elles s'avèrent vraies, elles n'aident aucunement à l'action, mais plutôt à une forme de sidération ou de militantisme spectacle. Elle nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
+L'écologie est aussi un mouvement sans chef. L'écologie ne consiste pas à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire le futur et si elles s'avèrent vraies, elles n'aident aucunement à l'action, mais plutôt à une forme de sidération ou de militantisme spectacle.
+
+L'écologie à sa source nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xLXq4rnccDM" frameborder="0" allowfullscreen></iframe></p>
 
