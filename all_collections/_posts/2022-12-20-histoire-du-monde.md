@@ -1362,7 +1362,7 @@ Après la confection des premiers avions de chasse, la première guerre mondiale
 
 ## 1918 ans
 
-Fin de la première guerre mondiale. Un film qui dénonce l'horreur et la futilité de cette guerre est All Quiet on the Western Front sur netflix.
+Fin de la première guerre mondiale. Un film qui dénonce l'horreur et la futilité de cette guerre est All Quiet on the Western Front sur netflix. Ce film montre qu'il n'y a aucune gloire, aucun honneur à chercher derrière une guerre. Juste de la tristesse, de l'horreur et de la désolation.
 
 Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, prêt de la moitié de ces pilotes meurt ou disparait avec leur avion.
 
