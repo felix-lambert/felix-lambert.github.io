@@ -13,7 +13,7 @@ Une partie a été générée par Chat GPT (3)
 
 Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
 
-L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est rempli d'une sorte de plasma constitué de quarks et de gluons. La théorie qui décrit la façon dont les particules élémentaires se sont formées au cours du Big Bang est la théorie du champ de Higgs, qui est confirmés par des expériences et des observations. Cette théorie explique comment les particules ont acquis de la masse grâce au champ de Higgs, qui leur a donné une certaine résistance au mouvement.
+L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est rempli d'une sorte de plasma constitué de quarks et de gluons.
 
 Depuis lors, il s'est étendu et refroidi.
 
@@ -29,7 +29,7 @@ Dans cet univers, il y a 4 forces fondamentales:
 
 Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.
 
-Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à la taille de l'observable aujourd'hui.
+Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à 100000000000000000000000000000 (10^27) de fois plus grand.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
@@ -53,9 +53,13 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif)</span>
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/e9GuJUaX0UM" frameborder="0" allowfullscreen></iframe></p>
+
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple).
 
 L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cRYu8pMg9zQ" frameborder="0" allowfullscreen></iframe></p>
 
 De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
@@ -79,7 +83,9 @@ Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'�
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
 
-La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone de quelques mégaparsecs, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ACzR8l9X3-k" frameborder="0" allowfullscreen></iframe></p>
+
+La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.
 
 ## -13 100 000 000 d'années
 
@@ -127,7 +133,9 @@ La création de nouvelles étoiles et de supernovas ralentit lentement.
 
 # -8 000 000 000 d'années
 
-Le trou noir (Sagittarius A+) de notre galaxie a terminé la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kA1bUI7xdY8" frameborder="0" allowfullscreen></iframe></p>
+
+Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.
 
 # - 7 000 000 000 d'années
 
@@ -147,6 +155,8 @@ L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TOYGhaf8c24" frameborder="0" allowfullscreen></iframe></p>
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/NIyjtgvRcnQ" frameborder="0" allowfullscreen></iframe></p>
+
 Ce très jeune soleil est entouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.
 
 Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.
@@ -159,9 +169,11 @@ Dans la zone chaude de notre système solaire, les éléments lourds, plus proch
 
 La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
 
-Notre système solaire renferme sans doute plusieurs dizaines de planètes. Mais il n'y a pas suffisamment d'espace pour tous ces astres - leurs trajectoires orbitales sont tout sauf stables et il y a de nombreuses collisions. Ils exercent des forces gravitationnelles d'attraction les uns sur les autres, certaines planètes ont été brulées par le Soleil, d'autres ont été projetées hors du système solaire lors de quasi-collisions et errent maintenant, seuls et sans étoile, dans l'espace. Il n'est donc pas étonnant que tant de planètes errent dans l'espace sans tourner autour d'une étoile.
+Notre système solaire renferme sans doute plusieurs dizaines de planètes. Mais il n'y a pas suffisamment d'espace pour tous ces astres - leurs trajectoires orbitales sont tout sauf stables et il y a de nombreuses collisions. Ils exercent des forces gravitationnelles d'attraction les uns sur les autres, certaines planètes sont brulées par le Soleil, d'autres sont projetées hors du système solaire lors de quasi-collisions et errent maintenant, seuls et sans étoile, dans l'espace. Il n'est donc pas étonnant que tant de planètes errent dans l'espace sans tourner autour d'une étoile.
 
 ## -4 510 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bcF28_8zB_c" frameborder="0" allowfullscreen></iframe></p>
 
 L'orbite d'une planète similaire à la Terre mais beaucoup plus petite, appelée Theia, l'emmène directement sur la planète Terre et crée une immense collision. Cette collision projette une grande quantité de matière terrestre et de matière de Théia dans l'espace, qui se condense pour former la Lune. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune, l'unique satellite naturel permanent de la planète Terre.
 
@@ -187,6 +199,8 @@ Saturne fini de se former et se rapproche à son tour du soleil. Mais après un 
 
 ## -4 100 000 000 d'années
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tVIXXehEIok" frameborder="0" allowfullscreen></iframe></p>
+
 Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.
 
 Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à petit pour en libérer les éléments et créer mystérieusement de la vie au fond des océans.
@@ -196,6 +210,8 @@ Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à 
 Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est recouverte d'océans. Et il n'y a toujours pas d'oxygène. La température de la Terre baisse à 40 degrés. Il y a plus d'éruptions volcaniques qu'il n'y en a aujourd'hui en raison de la chaleur qui s'élève du noyau de la planète. Ces volcans, riches en gaz à effet de serre, émergent de l'océan, forment une nouvelle atmosphère et les premières iles volcaniques.
 
 # -3 800 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PFNp3hs-MdE" frameborder="0" allowfullscreen></iframe></p>
 
 Il est supposé qu'une activité chimique intense dans un milieu hautement énergétique a alors permis de produire une molécule capable de se reproduire. Ce sont les premières formes de vie qui sont des des organismes microscopiques (microbes).
 
@@ -209,15 +225,13 @@ La mer regorge à présent de ces organismes microscopiques. Ces cellules se rap
 
 ## -3 500 000 000 d'années
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/oUAEBmvToFc" frameborder="0" allowfullscreen></iframe></p>
+
 Les êtres vivants commencent à se rassembler pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
 
 Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène (un gaz sans odeur ni couleur).
-
-## -3 200 000 000 d'années
-
-Les bactéries sont les premières entités vivantes à coloniser le monde sans oxygène à l'extérieur des océans.
 
 ## -2 900 000 000 d'années
 
@@ -229,21 +243,25 @@ Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau
 
 ## -2 700 000 000 d'années
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/c4Z3yt6ojHU" frameborder="0" allowfullscreen></iframe></p>
+
 La lave libérée par les volcans commence à refroidir et à créer de petites îles volcaniques. La première ère glaciaire s'achève après 120 millions d'années.
 
 Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
 
-Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Les participants à ce qui a été une communauté de cellules en roue libre devinrent de plus en plus interdépendants. Chaque membre se concente uniquement sur un aspect particulier de la vie. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f5mkE_jm-g0" frameborder="0" allowfullscreen></iframe></p>
+
+Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Les participants à ce qui a été une communauté de cellules en roue libre devinrent de plus en plus interdépendants. Chaque membre se concentre uniquement sur un aspect particulier de la vie. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif)</span>
 
-On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau.
+On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
 
 ## -2 400 000 000 d'années
 
 Les bactéries (cyanobactéries) qui ont la capacité de produire la photosynthèse continuent à se multiplier et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte du méthane, qui a pour effet de refroidir considérablement la Terre et de tuer une bonne partie de la vie sur Terre. L'oxygène est donc responsable d'une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène) en transformant la Terre en grande boule de neige pendant 200 millions d'années avec une température moyenne de -27 degrés. L'oxygène à ce moment-là représente 1% du gaz dans l'atmosphère, ce qui est suffisant pour avoir tué pratiquement toutes les formes de vie sur Terre. L'oxygène actuel est présent à 21% dans l'atmosphère.
 
-Ce gaz, l'oxygène, est très toxique pour la plupart des organismes unicellulaires vivants de la planète. C'est une arme de destruction massive. La vie est presque entièrement détruite par l'oxygène. Mais les microorganismes unicellulaires survivants ont réussi à se servir de l'oxygène pour rediriger leur évolution.
+Ce gaz, l'oxygène, est très toxique pour la plupart des organismes unicellulaires vivants de la planète. C'est une arme de destruction massive. La vie est presque entièrement détruite par l'oxygène. Mais les microorganismes unicellulaires survivants réussissent à se servir de l'oxygène pour rediriger leur évolution.
 
 L'oxygène (dioxygène O2) est toxique pour les organismes anaérobies, dont font partie les premières formes de vie apparues sur Terre, mais est indispensable à la respiration des organismes aérobies, qui constituent la grande majorité des espèces vivantes actuelles.
 
@@ -271,13 +289,11 @@ Des champignons microscopiques sont présents en dehors de l'eau.
 
 ## -1 200 000 000 d'années
 
-Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. Les gènes des deux parents sont mélangés pour créer le plan d'un nouvel individu distinct, différent de l'un ou l'autre des parents. Nous appelons cet échange élégant de matériel génétique "reproduction".
-
-La copie par reproduction permet de maintenir la complexité d'une cellule. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
+Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. Les gènes des deux parents sont mélangés pour créer le plan d'un nouvel individu distinct, différent de l'un ou l'autre des parents. Nous appelons cet échange élégant de matériel génétique "reproduction". La copie par reproduction permet de maintenir la complexité d'une cellule.
 
 Les cellules eukaryotes commencent donc à se diversifier, sous des formes reconnaissables comme les premiers parents unicellulaires des algues et des champignons
 
-Pour la première fois, ils se sont aventurés loin de la mer et ont colonisé des étangs d'eau douce et des ruisseaux à l'intérieur des terres.
+Pour la première fois, ils s'aventurent loin de la mer et colonisent des étangs d'eau douce et des ruisseaux à l'intérieur des terres.
 
 # -1 000 000 000 d'années
 
@@ -293,11 +309,11 @@ Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus
 
 ## -830 000 000 d'années
 
-Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela a libéré une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique a atteint la stratosphère (au-dessus des nuages) et n'est donc pas devenue acide. Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
+Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela libère une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages). Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
 
 L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années.
 
-La rupture s'est accompagnée d'énormes éruptions volcaniques qui ont apporté de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée basalte.
+La rupture s'accompagne d'énormes éruptions volcaniques qui apportent de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée basalte.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalte.jpg)</span>
 
@@ -318,6 +334,8 @@ La rupture s'est accompagnée d'énormes éruptions volcaniques qui ont apporté
 Le début de l'éclatement de Rodinia a des conséquences importantes sur l'évolution de la vie sur Terre, car il entraîne des changements climatiques importants et favorise la diversification des espèces animales et végétales. Il contribue également à la formation de nouvelles ressources minérales et à l'apparition de nouvelles terres émergées.
 
 ## -780 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FT54kGWrbJA" frameborder="0" allowfullscreen></iframe></p>
 
 Naissance du premier animal: les éponges de mer. Les éponges sont les premiers organismes multicellulaires à avoir émergé sur Terre, et elles ont probablement été les premiers organismes à coloniser les fonds marins.
 
@@ -349,15 +367,15 @@ Des plantes autres que les algues voient le jour dans les profondeurs des océan
 
 ## - 630 000 000 d'années
 
-La dernière époque de la Terre boule de neige prend fin. Les éponges marines ont permis aux bactéries qui produisent la photosynthèse de résister, d'évoluer et, par conséquent, de libérer davantage d'oxygène dans les océans. Les bactéries qui produisent la photosynthèse ont évolué en plante qui libère encore plus d'oxygène: les algues. Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
+Les éponges marines permettent quand même aux bactéries qui produisent la photosynthèse de résister, d'évoluer et, par conséquent, de libérer davantage d'oxygène dans les océans. Les bactéries qui produisent la photosynthèse évoluent en plante et libèrent encore plus d'oxygène: les algues. Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
 
-Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui a permis d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes autres que les algues voient le jour dans les profondeurs des océans.
+Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui permet d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes autres que les algues voient le jour dans les profondeurs des océans.
 
 # - 600 000 000 d'années
 
-La vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans est en constante augmentation. Avec taux d'oxygène de 12% on a un début de couche d'ozone apparaître.
+La vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans est en constante augmentation.
 
-Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques). Il n'existe pas encore vraiment d'animaux prédateurs.
+Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques).
 
 Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux.
 
@@ -365,11 +383,13 @@ Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent
 
 Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.
 
-Les arthropodes font leur apparition. Ils ont rapidement prospéré et évolué en un grand nombre de formes différentes. Aujourd'hui, ils sont l'un des groupes d'animaux les plus diversifiés et les plus répandus sur Terre, avec des centaines de milliers d'espèces connues. Les arthropodes sont présents dans presque tous les écosystèmes terrestres et aquatiques et jouent un rôle important dans les équilibres écologiques et les cycles naturels.
+Les arthropodes font leur apparition. Ils prospèrent rapidement et évoluent en un grand nombre de formes différentes. Aujourd'hui, ils sont l'un des groupes d'animaux les plus diversifiés et les plus répandus sur Terre, avec des centaines de milliers d'espèces connues. Les arthropodes sont présents dans presque tous les écosystèmes terrestres et aquatiques et jouent un rôle important dans les équilibres écologiques et les cycles naturels.
 
 L'embranchement des arthropodes est de très loin celui qui possède le plus d'espèces et le plus d'individus de tout le règne animal, tels les myriapodes, crustacés, arachnides, insectes, etc.
 
 ## - 530 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ojiuagLU5Gc" frameborder="0" allowfullscreen></iframe></p>
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/Haikouichthys_NT.jpg)</span>
 
@@ -393,13 +413,17 @@ Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier
 
 <span style="display:block;text-align:center">(Anomacolis)</span>
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/0AqvGa5ATH0" frameborder="0" allowfullscreen></iframe></p>
+
 L'Anomalocaris le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne. Le corps long et étroit, recouvert d'un exosquelette, est doté d'une bouche avec des dents, de pattes flexibles, de 28 nageoires latérales réparties par paires et d'une longue queue en V constituée, assurant probablement à l'animal une propulsion rapide dans l'eau.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/zGtOUcl_cCo" frameborder="0" allowfullscreen></iframe></p>
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/metaspriggina.jpg)</span>
 
 <span style="display:block;text-align:center">(Le plus ancien poisson et un des premiers vertébrés: Metaspriggina)</span>
 
-Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris.
+Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris. Contrairement à la plupart des poissons, qui ont des mâchoires et des dents pour capturer et dévorer leur nourriture, les poissons sans machoires n'ont pas de mâchoires et se nourrissent en suçant la chair de leurs proies.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lamprey.jpg)</span>
 
@@ -413,7 +437,7 @@ Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globa
 
 # - 500 000 000 d'années
 
-L'explosion cambrienne prend fin et subit une mystérieuse extinction massive. Il est vraisemblable que la cause de cette extinction est une diminution nette des niveaux d'oxygène. Les îles et les continents, toujours sans plantes ni animaux, se déplacent constamment et créent de nouveaux habitats, de nouvelles niches. Cela permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400. On croise à cette époque le premier poisson, l'ancêtre des vertébrés: Ostracoderme. Ce dernier mesure rarement plus de trente centimètres et est probablement un animal lent vivant dans le fond océanique.
+L'explosion cambrienne prend fin et subit une mystérieuse extinction massive. Il est vraisemblable que la cause de cette extinction est une diminution nette des niveaux d'oxygène. Les îles et les continents, toujours sans plantes ni animaux, se déplacent constamment et créent de nouveaux habitats, de nouvelles niches. Cela permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400.
 
 Il y a donc trois grands types d'animaux qui peuplent les mers: les mollusques (un peu comme des petits animaux avec une coquille), les anthropodes (un peu comme des insectes), et les vertébrés (les premiers poissons).
 
@@ -421,19 +445,17 @@ Les plantes se diversifient et habitent sur les rochers au bord de la mer. Ces p
 
 Le niveau d'oxygène est proche du niveau d'aujourd'hui. L'oxygène, avec le mélange de rayonnement solaire, permet de mieux étendre la couche d'ozone, ce qui permet de donner les conditions possibles à la vie sur les continents. Sans couche d'ozone, une vie complexe sur les continents aurait été beaucoup plus compliquée.
 
-Cette colonisation des terres par les plantes a aspiré beaucoup de carbone, ce qui fait chuter la température.
+Cette colonisation des terres par les plantes aspire beaucoup de carbone, ce qui fait chuter la température.
 
 ## -444 000 000 d'années
 
-On arrive à un nouvel âge de glace de 2 millions d'années. Ce n'est certes pas la même température qu'à l'époque de la Terre boule de neige mais ce froid a quand même causé une des plus grandes extinctions de masse que la Terre a connues avec la disparition de 86% des espèces marines. Le niveau de l'oxygène retombe et les océans sont dorénavant peuplés que de cyanobactéries.
-
-On commence à comprendre que ces effets des changements climatiques, que ce soit une hausse rapide ou une baisse rapide de la température ont des effets très violents pour la biodiversité.
+On arrive à un nouvel âge de glace de 2 millions d'années. Ce n'est certes pas la même température qu'à l'époque de la Terre boule de neige mais ce froid cause quand même une des plus grandes extinctions de masse que la Terre a connues avec la disparition de 86% des espèces marines. Le niveau de l'oxygène retombe et les océans sont de nouveau dorénavant majoritairement peuplés que de cyanobactéries.
 
 ## -443 000 000 d'années
 
-Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres ont évolué à partir d'algues vertes aquatiques, et auraient initialement festonné les bords des lacs et des rivières, près de l'eau. Elles vivent en étroite association avec les champignons.
+Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres évoluent à partir d'algues vertes aquatiques, et ont initialement festonné les bords des lacs et des rivières, près de l'eau. Elles vivent en étroite association avec les champignons.
 
-Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons sans machoires qui bougent. Contrairement à la plupart des poissons, qui ont des mâchoires et des dents pour capturer et dévorer leur nourriture, les poissons sans machoires n'ont pas de mâchoires et se nourrissent en suçant la chair de leurs proies. Mais plus tard on trouve des poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons ont élaboré une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.
+Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons élaborent une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jaekelopterus.jpg)</span>
 
@@ -445,10 +467,8 @@ Mais il y a aussi les scorpions des mers de plus de 2 mètres de long qui posent
 
 Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent, grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil. On comprend que les plantes ont besoin de trois choses pour prospérer:
 
-1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)
-
-2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)
-
+1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)</br>
+2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)</br>
 3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner la photosynthèse).
 
 Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante hydratée le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones océaniques.
@@ -457,31 +477,31 @@ Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la 
 
 # - 420 000 000 d'années
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rp15Ue0gx2s" frameborder="0" allowfullscreen></iframe></p>
+
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/placoderme.jpg)</span>
 
 <span style="display:block;text-align:center">(Placoderme)</span>
 
-On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes), mais qui peuvent broyer les poissons les plus coriaces. Les placodermes sont considérés comme des ancêtres des poissons osseux, qui eux-mêmes sont les ancêtres des vertébrés terrestres, dont Homo Sapiens.
+On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes), mais qui peuvent broyer les poissons les plus coriaces. Les placodermes sont considérés comme des ancêtres des poissons osseux.
 
 Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites (l'ancètre des insectes, qui rampe dans le fond des océans et mange principalement des vers et mollusques qui se cachent sous le sable).
 
 # - 400 000 000 d'années
 
-On peut constater la présence des premiers insectes. Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. Certains poissons commencent à développer des poumons car ils se retrouvent dans des milieux aquatiques pauvres en oxygène. Ce sont les ancètres des tétrapodes (les mammifères, les oiseaux, les reptiles, et les amphibiens (grenouille par exemple) font partie de la lignée des tétrapodes), les premiers animaux vertébrés avec un poumon. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres.
+Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. On constate aussi un groupe de poissons qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.
 
-On constate aussi un groupe de poissons qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.
+Ce sont les ancètres des tétrapodes (les mammifères, les oiseaux, les reptiles, et les amphibiens (grenouille par exemple) font partie de la lignée des tétrapodes), les premiers animaux vertébrés avec un poumon.
 
 ## - 385 000 000 d'années
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/panderichthys.jpg)</span>
-
-Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Terre. C'est peut-être la raison pour laquelle il est nécessaire que certains poissons se dotent de poumons, afin de respirer un oxygène plus abondant sur Terre que dans les océans. Pouvoir respirer de l'air en dehors des océans donne peut-être plus d'énergie à certains poissons afin de pouvoir aller chasser. Ces premiers poissons avec des poumons sont les ancètres des vrais tétrapodes.
+Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Terre. C'est peut-être la raison pour laquelle il est nécessaire que certains poissons se dotent de poumons, afin de respirer un oxygène plus abondant sur Terre que dans les océans. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres. Elle est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène. Pouvoir respirer de l'air en dehors des océans donne peut-être plus d'énergie à certains poissons afin de pouvoir aller chasser.
 
 ## - 380 000 000 d'années
 
-On constate l'existence d'un poisson (Panderichthys) utilisant ses nageoires comme des pagaies, car il vit dans des eaux peu profondes, dans des eaux saumâtres (estuaires, marais côtiers) envahies de plantes et de détritus. Il est possible qu'il utilise ses nageoires pour s'accrocher aux plantes ou à autre chose pendant qu'il se tienne en embuscade attendant ses proies. Dans la mesure où certains poissons vivent entre l'eau et la Terre, on voit apparaître un trou au niveau du haut de la tête de certains poissons (un peu comme les dauphins) qui est relié à des poumons chez certains poissons, de pattes/nageoires chez les premiers tétrapodes aquatiques.
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/panderichthys.jpg)</span>
 
-La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), apparaît. La respiration pulmonaire est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène.
+On constate l'existence d'un poisson (Panderichthys) utilisant ses nageoires comme des pagaies, car il vit dans des eaux peu profondes, dans des eaux saumâtres (estuaires, marais côtiers) envahies de plantes et de détritus. Il est possible qu'il utilise ses nageoires pour s'accrocher aux plantes ou à autre chose pendant qu'il se tienne en embuscade attendant ses proies. Dans la mesure où certains poissons vivent entre l'eau et la Terre, on voit apparaître un trou au niveau du haut de la tête de certains poissons (un peu comme les dauphins) qui est relié à des poumons chez certains poissons, de pattes/nageoires chez les premiers tétrapodes aquatiques.
 
 Cette capacité à occuper des milieux très diversifiés auraient facilité leur rapide dispersion sur tous les continents, prélude à la terrestrialisation de certaines lignées.
 
@@ -489,11 +509,9 @@ Cette capacité à occuper des milieux très diversifiés auraient facilité leu
 
 Ichthyostega, le premier tétrapode qui sort de l'eau et qui s'adapte à la fois à la nage et à une forme de locomotion terrestre, a trois adaptations majeures :
 
-1 des pattes antérieures capables de supporter son poids hors de l'eau
-
-2 des cotes allongées évitant l'écrasement des poumons par le poids du corps hors de l'eau
-
-3 une chaine d'os descendant jusqu'au milieu de la poitrine.
+1 des pattes antérieures capables de supporter son poids hors de l'eau</br>
+2 des cotes allongées évitant l'écrasement des poumons par le poids du corps hors de l'eau</br>
+3 une chaine d'os descendant jusqu'au milieu de la poitrine.</br>
 
 Une telle structure renforce la cage thoracique de cette nouvelle espèce, très curieuse pour l'époque, lui permettant ainsi de soutenir une partie du poids de son corps au niveau de la poitrine pendant ses mouvements sur terre. Il se déplace à terre comme un phoque, c'est-à-dire en projetant en avant ses pattes antérieures et sa tête avant de traîner la partie arrière de son corps. Manifestement, l'arrière du corps, avec sa large queue capable d'onduler et ses membres postérieurs en forme de pagaie, a une vocation aquatique.
 
@@ -1020,6 +1038,18 @@ Il y a un débat entre les médecins: le mal se propage par l'air ou par le cont
 
 La peste est à Moscou.
 
+## 1439 ans
+
+Johannes Gutenberg mis au point sa première imprimerie en Allemagne. Les étapes de l'invention sont les suivantes:
+
+1 créer un modèle ou un moule pour chaque lettre ou caractère que l'on souhaite imprimer. Ce moule peut être fait en bois, en plâtre ou en plastique, et il doit être assez précis pour permettre de produire des caractères de haute qualité<br/>
+2 couler du métal liquide dans chaque moule pour créer chaque caractère. Le métal doit être coulé de manière à remplir complètement le moule et à produire un caractère de haute qualité<br/>
+3 une fois que le métal refroidi et durci, on peut retirer chaque caractère du moule. Les caractères doivent être nettoyés et polis pour éliminer toutes les imperfections et les bavures de métal<br/>
+4 utiliser un mécanisme de levier pour actionner la presse et appliquer la pression nécessaire sur les caractères et le papier<br/>
+5 le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier<br/>
+6 le levier est relié à des rouleaux qui pressent sur les caractères mobiles et sur le papier. Ces rouleaux sont ajustables et peuvent être réglés pour produire une pression uniforme sur toute la page<br/>
+7 un rouleau permet de répartir la pression de manière plus uniforme sur toute la page. Si on utilisait un levier seul, la pression serait concentrée sur un seul point, ce qui pourrait endommager les caractères mobiles et le papier.
+
 ## 1455 ans
 
 Le Pape Nicolas V, dans son livre, Romanus Pontifex, légitimise le commerce des Africains. Le Vatican voit ici un intérêt économique évident. Mais l'intérêt est aussi religieux, en convertissant les africains au christianisme. Il accorde aux rois de Portugal le droit de "réduire en servitude" les Africains "païens" et de les emmener en Europe ou ailleurs pour les convertir au christianisme.
@@ -1098,6 +1128,10 @@ Mohammed ben Abdelwahhab s'allie avec Mohammed Ibn Saoud pour donner une légiti
 
 Les deux familles se sont mariées à plusieurs reprises au cours des années et dans l'actuelle Arabie saoudite, le ministre du culte est toujours un membre de la famille de l'Al ash-Sheikh (c'est-à-dire un descendant de Mohammed ben Abdelwahhab).
 
+## 1751 ans
+
+L'Encyclopédie de Diderot et d'Alembert est publiée pour la première fois. Il s'agit d'un ouvrage encyclopédique qui comprend une collection de savoirs sur un large éventail de sujets, allant de la science et de la technique à la philosophie et aux arts. L'Encyclopédie est conçue comme un outil de diffusion du savoir et de la connaissance. Elle est perçue comme un symbole de la Révolution intellectuelle de l'époque.
+
 ## 1757 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/mine.jpg)</span>
@@ -1124,6 +1158,10 @@ Les États-Unis sont finalement reconnus comme un pays indépendant par le Royau
 
 Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.
 
+## 1781 ans
+
+James Watt brevette sa première machine à vapeur dans le but de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.
+
 ## 1784 ans
 
 Emmanuel Kant publie un petit texte de moins d'une dizaine de pages: Qu'est-ce que les Lumières. C'est peut-être le moment dans lequel un mouvement philosophique a clairement été explicité. Ce mouvement se diffuse dans toute l'Europe occidentale (France, Allemagne, Angleterre, et par ricochet Etats-Unis). La symbolique principale des Lumières est probablement ce qu'on appelle "connaissance". Le projet est peut-être au fond de pouvoir diffuser la connaissance. Pourquoi la "connaissance" est si importante à cette époque ? Probablement parce que la grande partie de l'influence sur les esprits est exercée par la religion (christianisme en occident). Cette influence religieuse a un pouvoir énorme sur la culture et l'instruction à cette époque.
@@ -1145,6 +1183,14 @@ Toussaint Louverture inflige une série de revers aux colons français. Il réus
 ## 1794 ans
 
 La France est le premier pays à abolir l'esclavage. Sauf en Martinique qui passe sous domination britannique.
+
+## 1796 ans
+
+Le premier vaccin contre la variole est inventé par Edward Jenner. Le vaccin de Jenner est basé sur l'observation que les personnes ayant été exposées à la variole bovine (une maladie similaire à la variole humaine mais moins grave) sont moins susceptibles de développer la variole humaine. Le vaccin de Jenner est le premier vaccin de l'histoire et joue un rôle crucial dans la lutte contre la variole et la réduction de sa mortalité.
+
+Pour créer le vaccin, Jenner inocule du materiel infectieux prélevé sur des vaches atteintes de variole bovine à des personnes saines. Le vaccin de Jenner est donc basé sur l'exposition à un virus affaibli ou inoffensif qui, une fois introduit dans l'organisme, stimule la production d'anticorps et offre une protection contre la variole.
+
+Depuis, de nombreux autres vaccins sont développés pour lutter contre d'autres maladies infectieuses, utilisant des techniques similaires basées sur l'exposition à des virus affaiblis ou inoffensifs pour stimuler la production d'anticorps et offrir une protection contre ces maladies.
 
 ## 1800 ans
 
@@ -1176,11 +1222,25 @@ En France, on adopte une loi interdisant la traite négrière et prévoient des 
 
 Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres. L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.
 
+## 1837 ans
+
+Samuel Morse invente le télégraphe électrique, un appareil qui permet de transmettre des messages codés à l'aide d'impulsions électriques le long d'un fil.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7e522NK7gcM" frameborder="0" allowfullscreen></iframe></p>
+
+Le télégraphe de Samuel Morse fonctionne de la manière suivante:
+
+1 on utilise un appareil appelé émetteur, qui consiste en un clavier sur lequel on appuie sur des touches pour envoyer les signaux électriques<br/>
+2 Chaque touche correspont à un caractère ou à un symbole, qui est codé à l'aide de combinaisons de points et de traits<br/>
+3 Les signaux électriques sont envoyés le long d'un fil jusqu'à l'appareil récepteur, qui se trouve à l'autre bout du fil. L'appareil récepteur est relié à un autre clavier, appelé décodeur, qui permet de décoder les signaux et de les afficher sous forme de texte.
+
 ## 1839 ans
 
 En Chine, tout l'opium est détruit puis jeté à la mer. La destruction de l'opium est effectuée de manière spectaculaire, avec l'utilisation de navires et de bateaux pour jeter les réserves d'opium à la mer ou les brûler publiquement. Cette action est menée en présence de témoins et de journalistes étrangers, afin de montrer au monde la détermination de la Chine à mettre fin au trafic d'opium.
 
 Le Japon s'inquiète de la présence récurrente de navires étrangers autour de ses côtes et voit la menace se préciser après la première guerre de l'opium où le Royaume-Uni impose par la force un traité d'ouverture du commerce aux chinois (Traité de Nankin).
+
+L'astronome français Alexandre-Edmond Becquerel observe que certains matériaux produisent une petite quantité de courant électrique lorsqu'ils sont exposés à la lumière. Parmi les matériaux qu'il étudie figurent l'or, l'argent et le platine. Il découvre que cet effet est dû à l'excitation des électrons dans les matériaux par la lumière.
 
 ## 1840 ans
 
@@ -1290,11 +1350,43 @@ Envahissement des Black Hills territoire des amérindiens. Les Black Hills sont 
 
 Dernière pandémie de peste en Asie, également connue sous le nom de pandémie de peste de Hong Kong, qui fait 12 millions de morts.
 
+## 1882 ans
+
+Première centrale hydroélectrique est construite en Suisse, par l'ingénieur suisse Francis Turbine.
+
+Voici comment fonctionne l'énergie hydraulique pour produire de l'électricité:
+
+1 L'eau est stockée dans un réservoir ou un lac, ou elle est captée à partir d'une rivière<br/>
+2 L'eau est dirigée à travers un canal ou un tuyau, appelé canal de dérivation, qui la mène à une centrale hydroélectrique<br/>
+3 Dans la centrale hydroélectrique, l'eau est dirigée vers une turbine, qui est entraînée par la force de l'eau qui coule<br/>
+4 La turbine actionne un générateur, qui transforme l'énergie mécanique en électricité<br/>
+5 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local<br/>
+
+Première centrale électrique alimentée au charbon à Holborn Viaduct à Londres, en Angleterre. Voici comment elle fonctionne:
+
+1 Le charbon est brûlé dans un fourneau pour produire de la chaleur et de la vapeur d'eau
+2 La vapeur d'eau est dirigée vers une turbine, qui est entraînée par la pression de la vapeur
+3 La turbine actionne un générateur, qui transformait l'énergie mécanique en électricité
+4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local
+
+La centrale électrique de Holborn Viaduct est une innovation importante dans l'histoire de l'énergie, car elle permet de produire de l'électricité de manière plus efficace et à un coût inférieur à celui de la production d'électricité par d'autres moyens. Depuis lors, les centrales électriques alimentées au charbon continuent à être développées et améliorées, et elles sont utilisées de manière intensive comme source d'énergie pour la production d'électricité. Cependant, le charbon est une source d'énergie très polluante, car il libère de grandes quantités de dioxyde de carbone (CO2) et d'autres gaz à effet de serre lorsqu'il est brûlé. En outre, l'extraction du charbon peut avoir des impacts négatifs sur l'environnement, notamment la déforestation, la pollution de l'air et de l'eau, et la perturbation des écosystèmes. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation du charbon et à se tourner vers des sources d'énergie renouvelables moins polluantes.
+
 ## 1886 ans
 
 Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets.
 
 La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.
+
+## 1887 ans
+
+Invention du premier moulin à vent moderne pour fabriquer de l'électricité. Il est construit en Norvège par Johan Gustave de Laval et fonctionne de la même manière que les éoliennes d'aujourd'hui.
+
+Voici comment il fonctionne:
+
+1 Le vent souffle sur les pâles du moulin à vent, ce qui les fait tourner<br/>
+2 Le mouvement de rotation de la pale est transmis à un moteur, qui convertit l'énergie mécanique en électricité grâce à un processus appelé induction électrique<br/>
+3 Le moteur actionne un générateur, qui transforme l'énergie électrique en courant électrique utilisable<br/>
+4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local<br/>
 
 ## 1893
 
@@ -1406,6 +1498,12 @@ Le concept de flux tendu est développé par l'ingénieur japonais Taiichi Ohno,
 
 Ce concept est adopté par de nombreuses entreprises dans le monde entier et devient un élément clé de l'organisation du travail dans de nombreux secteurs industriels.
 
+## 1951 ans
+
+L'uranium est utilisé pour produire de l'électricité dans une centrale électrique de l'Etat de Pennsylvanie aux États-Unis. Cette centrale, connue sous le nom de "Shippingport Atomic Power Station", est la première centrale nucléaire du monde à être construite pour produire de l'électricité à des fins commerciales. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.
+
+Il est important de noter que l'uranium est une source d'énergie potentiellement très propre, car il ne libère pas de gaz à effet de serre lorsqu'il est utilisé pour produire de l'électricité. Cependant, l'utilisation de l'uranium peut poser des problèmes de sécurité et de gestion des déchets radioactifs, et elle est souvent critiquée en raison de ses implications pour la santé humaine et l'environnement. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation de l'uranium et à se tourner vers d'autres sources d'énergie renouvelables.
+
 ## 1967 ans
 
 Publication du roman Cent Ans de solitude de Gabriel García Márquez.
@@ -1419,6 +1517,8 @@ Arpanet est le premier réseau de communication à large bande passante pour ord
 Le projet ARPANET est lancé dans le but de mettre en place un réseau de communication fiable et sécurisé pour les chercheurs et les scientifiques travaillant sur des projets de recherche avancés.
 
 L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
+
+Ken Thompson et Dennis Ritchie inventent un système d'exploitation "Unix" (qui est un jeu de mots sur le mot "eunuchs", qui signifie "castré" en grec) au Bell Telephone Laboratories. L'objectif initial de Thompson et Ritchie est de développer un système d'exploitation qui peut être utilisé sur le matériel du laboratoire et qui est plus facile à utiliser que les systèmes d'exploitation existants de l'époque. Unix est basé sur le modèle client-serveur car même si la ligne de commande Unix s'exécute principalement sur un ordinateur local, sa conception et son utilisation a été imaginée pour communiquer sur des réseaux. Elle inclue un shell (un interpréteur de commandes) qui permet aux utilisateurs de taper des commandes pour lancer des programmes et accéder aux fichiers du système.
 
 Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11 emportant Neil Armstrong et Buzz Aldrin. Selon les estimations, environ 500 millions de personnes regardent le décollage de la mission en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.
 
@@ -1436,6 +1536,10 @@ Le langage C est créé à Bell Labs. Il va surtout être utilisé pour dévelop
 
 Les derniers Homo Sapiens à marcher sur le sol lunaire sont Harrison Schmitt et Eugene Cernan, lors de la mission Apollo 17.
 
+## 1973 ans
+
+L'Organisation des pays exportateurs de pétrole (OPEP) souhaite réduire significativement la production et de faire augmenter les prix du pétrole. Cette décision est prise en réaction à la décision de l'administration américaine de fournir une aide militaire à Israël pendant la guerre du Kippour, qui oppose Israël à l'Égypte et à la Syrie. L'OPEP veut utiliser son pouvoir de contrôle sur l'offre de pétrole pour faire pression sur les États-Unis et leur faire changer d'avis sur leur soutien à Israël. Le premier choc pétrolier a conduit à une augmentation de la demande pour les sources d'énergie alternatives, telles que l'énergie solaire et éolienne.
+
 ## 1975 ans
 
 Il y a 4 milliards d'homo sapiens sur Terre.
@@ -1452,6 +1556,8 @@ Pour ouvrir un programme, la méthode la plus courante est de le charger à part
 
 Le convertisseur catalytique est utilisé pour la première fois sur les véhicules à essence dans les années 1970. Il est maintenant utilisé sur la plupart des véhicules à essence et diesel dans le monde entier pour réduire les émissions de polluants. Il joue un rôle important dans la réduction de la pollution de l'air causée par les véhicules et contribue à protéger l'environnement et la santé humaine.
 
+Identification du virus Ebola, lors de deux épidémies simultanées en Afrique, une en République démocratique du Congo (alors Zaire) et l'autre en République du Soudan. Le virus Ebola est transmis par des animaux, notamment les chauves-souris, et peut être transmis de personne à personne par contact étroit avec les liquides corporels d'une personne infectée. Le virus Ebola peut causer une maladie grave et potentiellement mortelle appelée fièvre hémorragique à virus Ebola, qui se caractérise par de fortes fièvres, des maux de tête, de la fatigue et des saignements internes.
+
 ## 1979 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/visicalc.png)</span>
@@ -1466,11 +1572,47 @@ Lancement de CompuServe. C'est un service de communication accessible via un mod
 
 100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.
 
-Le World Wide Web est inventé à Genève. Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Moins compliqué donc plus accessible, le Web est prêt à séduire tout le monde.
+Le World Wide Web (WWW ou Web) est inventé à Genève, par Tim Berners-Lee, alors qu'il travaille au CERN (Conseil Européen pour la Recherche Nucléaire). Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Berners-Lee conçoit le Web comme un moyen de partager de l'information entre les scientifiques du CERN qui travaillent sur des projets collaboratifs. Il développe un système de liens hypertextes qui permettent aux utilisateurs de naviguer entre différents documents sur le réseau en cliquant sur des liens, et crée le premier navigateur Web, qui s'appelle WorldWideWeb. Ce navigateur permet aux utilisateurs de visualiser et d'interagir avec les documents sur le Web.
+
+## 1990 ans
+
+Elinor Ostrom publie "Governing the commons". Elle s'intéresse aux systèmes de gestion des ressources naturelles qui sont utilisés dans les communautés locales à travers le monde. Elle s'efforce de démontrer que les ressources naturelles communes, telles que les pâturages, les forêts, les lieux de pêche et les puits d'eau, peuvent être gérées de manière efficace et durable par les communautés elles-mêmes, plutôt que d'être confiées à des gouvernements ou à des entreprises privées. Elle identifie huit principes de gestion des ressources naturelles communes:
+
+1 La ressource est définie de manière claire et précise<br/>
+2 Les usagers de la ressource sont identifiables<br/>
+3 Les usagers de la ressource ont des droits de contrôle sur l'utilisation de la ressource<br/>
+4 Il existe des règles de gestion de la ressource qui sont suivies et en vigueur<br/>
+5 Il y a des sanctions en cas de non-respect des règles<br/>
+6 Les usagers de la ressource participent à la définition des règles et à leur mise en œuvre<br/>
+7 Les règles sont facilement modifiables<br/>
+8 Les règles de gestion de la ressource sont adaptées à des contextes locaux et historiques spécifiques
+
+Selon Ostrom, lorsque ces principes sont respectés, les communautés sont capables de gérer efficacement les ressources naturelles communes de manière durable.
+
+## 1991 ans
+
+Fin de le l'Union soviétique (URSS). Eltsine accepte sans violence le départ de l’Ukraine et de la Biélorussie, signant avec ses homologues ukrainien et biélorusse l'Acte final de la Conférence sur l'Unité et la Souveraineté de l'URSS.
+
+Le premier serveur Web est mis en ligne, ce qui permet aux utilisateurs d'accéder au Web depuis n'importe quel ordinateur connecté à Internet. Pour mettre en ligne un serveur Web, il faut suivre les étapes suivantes:
+
+1 Acheter ou louer un ordinateur qui sera utilisé comme serveur Web</br>
+2 Installer un système d'exploitation sur le serveur (UNIX ou Windows)</br>
+3 Installer un logiciel de serveur Web (CERN httpd) qui envoie le bon document demandé au navigateur, tels que des pages HTML, des images et des fichiers, tels que des images</br>
+4 Configurer le serveur Web en spécifiant les détails de la configuration du réseau. Pour configurer les détails de la configuration du réseau dans CERN httpd, il faut ajouter ou modifier les options suivantes dans le fichier "httpd.conf" :</br>
+
+A Listen: Cette option spécifie le port sur lequel le serveur doit écouter les requêtes HTTP. Par défaut, CERN httpd écoute sur le port 80.</br>
+
+B ServerName: Cette option spécifie le nom de domaine du serveur Web. Elle est utilisée pour identifier le serveur aux clients et peut être utilisée pour accéder au serveur via un navigateur Web.</br>
+
+5 Télécharger ou créer les fichiers du site Web que vous souhaitez héberger sur le serveur</br>
 
 ## 1992 ans
 
 1 000 000 d'ordinateurs sont connectés à Internet. Internet est principalement utilisé par les universités, les gouvernements et les entreprises pour la recherche et la communication.
+
+## 1993 ans
+
+Création au Rwanda de la radio des Mille Collines, une radio privée, juste avant le début du génocide rwandais. La radio diffuse des messages incitant au meurtre de Tutsis et de membres de l'ethnie Hutue modérée.
 
 ## 1996 ans
 
@@ -1484,7 +1626,7 @@ Pour faire ceci, il faut procéder en 3 étapes:
 
 Ce type d'architecture est conservé dans les datacenter à venir de Google. Un datacenter est un espace dans lequel il y a beaucoup de disques durs connectés à internet qui sont utilisés comme des serveurs.
 
-2 Mettre des données dans ces disques durs
+2 Mettre des données dans ces disques durs<br/>
 3 Créer l'algorithme qui permet de chercher les informations pertinentes en fonction de ce que l'utilisateur recherche
 
 Les fondateurs de Google regardent comment les résultats sont catégorisés quand ils cherchent des bases de données scientifiques. Ils ont conscience que la valeur d'une publication scientifique est en proportion du nombre de publications qui la citent.
@@ -1494,6 +1636,16 @@ Le concept de PageRank est créé à partir de ce travail. Le PageRank fonctionn
 ## 1998 ans
 
 Fondation de Google dans la Silicon Valley. Désormais, Google a une mission claire: aider les utilisateurs à trouver exactement ce qu'ils veulent sur Internet.
+
+Le département de la Justice des États-Unis intente une action en justice contre Microsoft pour abus de sa position dominante sur le marché des systèmes d'exploitation pour ordinateurs personnels.
+
+## 2001
+
+Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de gestion de contenu en ligne qui permet à n'importe qui de créer et de modifier des articles encyclopédiques. Ils lancent le projet avec un petit nombre d'articles, et ils encouragent les bénévoles à contribuer au projet en ajoutant et en mettant à jour des articles.
+
+## 2002 ans
+
+Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui a causé une pandémie mondiale en 2020.
 
 ## 2007 ans
 
@@ -1513,9 +1665,19 @@ Un nouveau navigateur, Chrome, très rapide pour l'époque, connaît un énorme 
 
 Satoshi Nakamoto lance le logiciel Bitcoin et commence à émettre des Bitcoins.
 
+Identification d'un nouveau virus de la grippe de type H1N1. Le virus H1N1 est toujours présent et il est inclu dans les vaccins contre la grippe chaque année pour se protéger contre l'infection.
+
 ## 2011 ans
 
 Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.
+
+Un séisme de magnitude a lieu à environ 130 km au large de la côte est du Japon, près de la ville de Sendai. Il est suivi d'un tsunami qui atteint une hauteur de 40,5 mètres dans certaines régions. Le tremblement de terre et le tsunami entraîne la mort de plus de 18 000 personnes et cause des dommages considérables aux infrastructures.
+
+La centrale nucléaire de Fukushima Daiichi, située sur la côte est du Japon, a été gravement endommagée par le tsunami qui a suivi le tremblement de terre. Les systèmes de refroidissement de la centrale sont endommagés, ce qui entraîne une surchauffe des réacteurs et une fuite de radionucléides dans l'environnement. L'accident de Fukushima est l'un des pires dans l'histoire de l'industrie nucléaire, avec la contamination de vastes zones autour de la centrale et l'évacuation de 160 000 personnes de la région. La décontamination et la reconstruction de la région continuent d'être des défis importants pour le Japon.
+
+## 2012 ans
+
+Identification du syndrome respiratoire du Moyen-Orient (MERS) en Arabie Saoudite qui est un virus causé par un coronavirus appelé MERS-CoV. Le taux de mortalité de ce virus est élevé. Le virus MERS est transmis de personne à personne par voie respiratoire ou par des animaux, notamment les dromadaires. 850 décès sont attribués à ce virus.
 
 ## 2019 ans
 
@@ -1528,6 +1690,8 @@ DeepMind, la filiale de recherche en intelligence artificielle de la société m
 ## 2020 ans
 
 Le monde est confronté à une pandémie de COVID-19, une maladie causée par le coronavirus SARS-CoV-2. La pandémie entraîne des restrictions de voyage et de rassemblement dans de nombreux pays, ainsi que la fermeture de nombreuses entreprises et écoles. Plusieurs vaccins contre le COVID-19 sont développés et commencent à être administrés à des millions de personnes dans le monde. Ces vaccins sont développés en un temps record grâce à la collaboration internationale.
+
+Les mammifères sauvages ne représentent plus aujourd’hui que 4% de la biomasse des mammifères terrestres, les humains et leurs animaux domestiques représentant les 96% restants.
 
 L'Australie est frappé par des feux de forêt dévastateurs qui brûlent pendant des mois et causent la mort de nombreux animaux et la destruction de nombreuses propriétés.
 
