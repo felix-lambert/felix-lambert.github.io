@@ -99,6 +99,6 @@ Le but n'est pas nécessairement de persuader les gens de croire ces histoires, 
 
 S'il y a quantativement assez de personnes qui cherchent à s'immerger dans le collectif de l'écologie, sans chercher à tout prix la compétition, il peut y avoir un basculement positif, nous menant vers un monde qui ne détruit plus les conditions de subsistance des êtres vivants et favoriser les conditions d'habitabilités de la planète pour tous les animaux.
 
-# 8. Les technologies numériques (informationnelles)
+# 7. Les technologies numériques (informationnelles)
 
 Cette histoire propose que nous cherchions plus à collaborer entre nous, plutôt que de faire la compétition.
