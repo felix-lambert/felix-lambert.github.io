@@ -1456,6 +1456,8 @@ Après la confection des premiers avions de chasse, la première guerre mondiale
 
 Fin de la première guerre mondiale. Un film qui dénonce l'horreur et la futilité de cette guerre est All Quiet on the Western Front sur netflix. Ce film montre qu'il n'y a aucune gloire, aucun honneur à chercher derrière une guerre. Juste de la tristesse, de l'horreur et de la désolation.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=XruYsAmKLyU" frameborder="0" allowfullscreen></iframe></p>
+
 Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, prêt de la moitié de ces pilotes meurt ou disparait avec leur avion.
 
 La grippe espagnole est apparue pour la première fois en Espagne, d'où elle tire son nom, et se propage rapidement dans le reste de l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Les raisons exactes de son apparition restent inconnues.
@@ -1485,6 +1487,20 @@ La réforme linguistique a également impliqué l'abandon de l'écriture en cara
 ## 1930 ans
 
 Il y a 2 milliards d'homo sapiens sur Terre.
+
+## 1939 ans
+
+L'Allemagne et l'Union soviétique envahissent la Pologne et divisent le pays entre eux. L'invasion de la Pologne par l'Allemagne et l'Union soviétique est considérée comme le début de la Seconde Guerre mondiale.
+
+L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Guerre d'hiver. Elle veut récupérer certains territoires qui sont cédés à la Finlande lors de la Guerre civile russe de 1918. La Finlande résiste à l'invasion avec succès et réussit à repousser les troupes soviétiques, mais au prix de lourdes pertes.
+
+## 1940 ans
+
+La Finlande est finalement forcée de céder certains territoires à l'Union soviétique, lorsque les deux pays signent un traité de paix.
+
+## 1947 ans
+
+L'Inde est partitionné en deux pays indépendants, l'Inde et le Pakistan.
 
 ## 1949 ans
 
@@ -1557,6 +1573,10 @@ Pour ouvrir un programme, la méthode la plus courante est de le charger à part
 Le convertisseur catalytique est utilisé pour la première fois sur les véhicules à essence dans les années 1970. Il est maintenant utilisé sur la plupart des véhicules à essence et diesel dans le monde entier pour réduire les émissions de polluants. Il joue un rôle important dans la réduction de la pollution de l'air causée par les véhicules et contribue à protéger l'environnement et la santé humaine.
 
 Identification du virus Ebola, lors de deux épidémies simultanées en Afrique, une en République démocratique du Congo (alors Zaire) et l'autre en République du Soudan. Le virus Ebola est transmis par des animaux, notamment les chauves-souris, et peut être transmis de personne à personne par contact étroit avec les liquides corporels d'une personne infectée. Le virus Ebola peut causer une maladie grave et potentiellement mortelle appelée fièvre hémorragique à virus Ebola, qui se caractérise par de fortes fièvres, des maux de tête, de la fatigue et des saignements internes.
+
+## 1977 ans
+
+Instauration de la loi sur la prohibition de l'alcool au Pakistan. Cette loi interdit la production, la vente et la consommation d'alcool dans le pays. La possession et la vente d'alcool sont des infractions punissables par la loi au Pakistan et peuvent entraîner des sanctions sévères, y compris des peines de prison.
 
 ## 1979 ans
 
