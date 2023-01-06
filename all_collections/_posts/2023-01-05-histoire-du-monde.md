@@ -1214,6 +1214,12 @@ Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fus
 
 Fin des guerres napoléoniennes.
 
+## 1826
+
+La plus ancienne photographie de l'histoire. Cette image, connue sous le nom de "View from the Window at Le Gras", est prise depuis la fenêtre d'une maison de campagne près de Chalon-sur-Saône, en France.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/viewfromwindow.png)</span>
+
 ## 1827 ans
 
 En France, on adopte une loi interdisant la traite négrière et prévoient des peines sévères pour les personnes qui s'y adonnent.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2022-12-20 10:18:00
+date: 2023-01-05 10:18:00
 tags: histoire
 ---
 
@@ -73,7 +73,13 @@ Traduction:
 <em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em><br />
 <em>Allongé sur le dos, tu ne peux pas tomber</em>
 
-# 9. L'écologie
+# 9. Le capitalisme
+
+Le capitalisme permet aux individus de produire et de vendre des biens et des services sans entrave ni sanction de la part de forces extérieures. Cela offre également la possibilité à chacun de gagner une somme d'argent en échange d'un travail accompli, apportant reconnaissance et fierté. Actuellement, c'est l'un des systèmes les plus efficaces pour exercer un soft power sur le monde. Ses rituels, centrés sur l'argent, l'investissement et le travail, sont devenus des traditions qui maintiennent un niveau élevé de confiance entre les individus.
+
+Lorsque les capitalistes respectent certaines valeurs éthiques, le capitalisme peut rapidement renverser les pouvoirs autoritaires. La présence de l'échange, de l'écoute et de la communication crée en plus une base de confiance qui peut prévenir les conflits.
+
+# 8. L'écologie
 
 L'écologie est aussi un mouvement sans chef. L'écologie ne consiste pas à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire l'avenir et si elles s'avèrent correctes, elles n'aident aucunement à l'action, mais plutôt à une forme de sidération ou de militantisme spectacle.
 
