@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-01-05 10:18:00
+date: 2023-01-11 10:18:00
 tags: histoire
 ---
 
@@ -505,6 +505,8 @@ On constate l'existence d'un poisson (Panderichthys) utilisant ses nageoires com
 
 Cette capacité à occuper des milieux très diversifiés auraient facilité leur rapide dispersion sur tous les continents, prélude à la terrestrialisation de certaines lignées.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/g8nm-FSgP4g" frameborder="0" allowfullscreen></iframe></p>
+
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ichthyostegalia.jpg)</span>
 
 Ichthyostega, le premier tétrapode qui sort de l'eau et qui s'adapte à la fois à la nage et à une forme de locomotion terrestre, a trois adaptations majeures :
@@ -522,6 +524,8 @@ Ichthyostega est un prédateur qui chasse des proies terrestres et est un carniv
 ## -365 000 000 d'années
 
 Il y a une remontée du niveau d'oxygène, avec des araignées, des scorpions et des libellules (Meganeura) géants. Ces dernières sont les premiers groupes d'animaux à s'envoler. Les forêts s'agrandissent et se multiplient sur les continents.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/9kzorrSbaUA" frameborder="0" allowfullscreen></iframe></p>
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/meganeura.jpg)</span>
 
@@ -549,7 +553,7 @@ Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau d
 
 Tous les continents fusionnent en un seul super-continent, Pangée, qui renferme en son sein une mer intéreure: Thétis.
 
-La formation du supercontinent Pangée a des conséquences importantes sur la vie : la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.
+La formation du supercontinent Pangée a des conséquences importantes sur la vie: la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.
 
 ## -305 000 000 d'années
 
@@ -571,17 +575,19 @@ Toutefois, une combinaison d'activités volcaniques, provoquant le réchauffemen
 
 La lave des volcans envahit les continents jusqu'au niveau de la taille des Etats-Unis, ce qui transforme l'air, avec de l'acide sulfurique, la couche d'ozone et le climat. La vie devient donc à nouveau très rare au sein des continents et les plus grands reptiles de cette époque disparaissent. La montée de la température fait baisser brutalement le taux d'oxygène dans les océans. Des bulles de gaz de méthane s'échappent de la mer et fait encore plus monter la température. Il fait alors plus de 105 degrés.
 
-Les 5% d'espèces terrestres qui ont réussi à survivre, s'enfouissent sous Terre, afin de fuir la chaleur. Mais le reste est mort.
-
-En conséquence, retrouver un niveau de biodiversité équivalent a pris beaucoup plus de temps que pour les autres extinctions massives.
+La majorité des espèces terrestres ont péri à cause de la chaleur extrême, seules 5% d'entre elles ont survécu en se réfugiant sous terre.
 
 ## - 252 000 000 d'années
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LJ6ycSarzv4" frameborder="0" allowfullscreen></iframe></p>
+
 Le charbon, cette roche noire, se forme grâce à la décomposition des végétaux.
 
-## - 250 000 000 d'années
+# - 245 000 000 d'années
 
-On constate l'existence des premières plantes avec des fleurs. Les fleurs constituent les organes sexuels des plantes vivantes. Les plantes à fleurs primitives penvent se reproduire en prenant soit le rôle du mâle, soit celui de la femelle.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R7IaRQPJHf4" frameborder="0" allowfullscreen></iframe></p>
+
+Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux qui ont évolué des rares espèces qui ont survécu à la dernière énorme extinction.
 
 ## - 240 000 000 d'années
 
@@ -593,7 +599,9 @@ Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à 
 
 ## - 230 000 000 d'années
 
-Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au sommet, se tenait les Rauisuhiens, les ancètres des crocodiles. Ce sont des énormes prédateurs atteignant des tailles de plus de 7m de long.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VKq0pr4rbRs" frameborder="0" allowfullscreen></iframe></p>
+
+Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au sommet, se tient les Rauisuhiens, les ancètres des crocodiles. Ce sont des énormes prédateurs atteignant des tailles de plus de 7m de long.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/rauisuhiens.jpg)</span>
 
@@ -601,13 +609,13 @@ Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au somm
 
 ## - 218 000 000 d'années
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R7IaRQPJHf4" frameborder="0" allowfullscreen></iframe></p>
+
 Le premier vrai mammifère, fidèle à notre lignée, apparaît. Il est petit et fait peut-être moins d'un kilo. On n'a pour le moment pas trouvé de fossiles de ce premier mammifère. Mais il a probablement les caractéristiques qui permet de dire que c'est un mammifère. Ces caractéristiques sont les suivantes:
 
-1 Il a des poils
-
-2 Il a une mâchoire
-
-3 Les femelles peuvent produire du lait
+1 Il a des poils<br />
+2 Il a une mâchoire<br />
+3 Les femelles peuvent produire du lait<br />
 
 ## - 201 000 000 d'années
 
@@ -621,13 +629,9 @@ Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres a
 
 <span style="display:block;text-align:center">(Morganucodon)</span>
 
-# - 200 000 000 d'années
-
-Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux qui ont évolué des rares espèces qui ont survécu à la dernière énorme extinction.
-
 ## -190 000 000 d'années
 
-Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui a commencé à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.
+Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui commence à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/pangee.jpg)</span>
 
@@ -635,7 +639,9 @@ Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui a commenc
 
 Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui. En bref, la Terre est tout ce que nous redoutons aujourd'hui.
 
-Au sein de cette fissure, cette division des continents, un nouvel océan apparaît. C'est l'ancètre de l'océan atlantique. Cet océan regorge de poissons, mais, encore une fois, la vie marine commence à diminuer. Des poissons morts et du plancton envahissent les fonds marins. Durant, plusieurs millions d'années les rochers vont chauffer ces animaux morts pour les transformer en pétrole.
+Au sein de cette fissure, cette division des continents, un nouvel océan apparaît. C'est l'ancètre de l'océan atlantique. Cet océan regorge de poissons, mais, encore une fois, la vie marine commence à diminuer. Des poissons morts et du plancton envahissent les fonds marins. Durant plusieurs millions d'années les rochers vont chauffer ces animaux morts pour les transformer en pétrole.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/h-F27s5Te6I" frameborder="0" allowfullscreen></iframe></p>
 
 Une bonne partie des produits que nous consommons aujourd'hui, sont produits et transformés à partir de ce pétrole.
 
@@ -652,6 +658,10 @@ On constate aussi l'existence des premiers dinosaures.
 Un insecte (Chrysopidae) visite une plante pour un repas, afin de sucer les fluides sucrées de la plante. C'est le début de la pollinisation.
 
 ## - 125 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/13aUo5fEjNY" frameborder="0" allowfullscreen></iframe></p>
+
+On constate l'existence des premières plantes avec des fleurs. Les fleurs constituent les organes sexuels des plantes vivantes. Les plantes à fleurs primitives penvent se reproduire en prenant soit le rôle du mâle, soit celui de la femelle.
 
 Les premières mouches pollinisent certaines plantes. Certaines plantes fleurissent pour la première fois. Le but de la fleur est d'attirer les insectes pollinisateurs. Lorsque l'insecte mange le fluide sucré il transporte involontairement le pollen d’une fleur jusqu’à une autre fleur et assure ainsi la pollinisation de nombreux végétaux. Lorsqu’un grain de pollen est déposé sur le pistil d’une fleur de la même espèce, cela permet la fécondation d’un ovule puis la formation d’un fruit contenant des graines.
 
@@ -1704,6 +1714,10 @@ La centrale nucléaire de Fukushima Daiichi, située sur la côte est du Japon, 
 ## 2012 ans
 
 Identification du syndrome respiratoire du Moyen-Orient (MERS) en Arabie Saoudite qui est un virus causé par un coronavirus appelé MERS-CoV. Le taux de mortalité de ce virus est élevé. Le virus MERS est transmis de personne à personne par voie respiratoire ou par des animaux, notamment les dromadaires. 850 décès sont attribués à ce virus.
+
+## 2015 ans
+
+Dieselgate. L'entreprise Volkswagen (VW) avait installe un logiciel dans certains de ses véhicules diesel qui permettent de tricher sur les tests d'émission de gaz polluants. Le logiciel est conçu pour détecter lorsqu'un véhicule est soumis à des tests d'émission pour réduire temporairement les émissions de gaz polluants afin de passer les tests. En dehors de ces tests, cependant, les véhicules émettent des niveaux beaucoup plus élevés de gaz polluants, ce qui contreviennent aux réglementations environnementales en vigueur.
 
 ## 2019 ans
 
