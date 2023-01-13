@@ -93,7 +93,7 @@ l'argent et la réussite économique (prendre un jet privée coûte très cher)<
 l'exclusion (seule une extrême petite minorité peut prendre un jet privée)<br />
 un mépris du discours scientifique (ils nous disent que c'est le moyen de transport le plus polluant)<br />
 
-Bien que cette personne semble sympathique, sans s'en rendre compte, elle détruit le beau récit de l'écologie.
+Même si cette personne semble agréable, elle entreprend en réalité une action de sabotage du discours de l'écologie.
 
 Le but n'est pas nécessairement de persuader les gens de croire ces histoires, mais plutôt de les rendre plus concrètes et significatives pour eux en agissant de manière cohérente avec elles. La puissance de l'écologie ne peut que venir de là. Tout ce qui doit être dit sur la destruction des écosystèmes a déjà été dit. D'ailleurs, le but n'est pas forcément de "sauver la planète" mais de participer collectivement à une histoire qui rassemble et soude l'humanité entière à travers une prise de conscience de la vie qui est autour de nous.
 
