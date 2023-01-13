@@ -1709,15 +1709,31 @@ Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'�
 
 Un séisme de magnitude a lieu à environ 130 km au large de la côte est du Japon, près de la ville de Sendai. Il est suivi d'un tsunami qui atteint une hauteur de 40,5 mètres dans certaines régions. Le tremblement de terre et le tsunami entraîne la mort de plus de 18 000 personnes et cause des dommages considérables aux infrastructures.
 
-La centrale nucléaire de Fukushima Daiichi, située sur la côte est du Japon, a été gravement endommagée par le tsunami qui a suivi le tremblement de terre. Les systèmes de refroidissement de la centrale sont endommagés, ce qui entraîne une surchauffe des réacteurs et une fuite de radionucléides dans l'environnement. L'accident de Fukushima est l'un des pires dans l'histoire de l'industrie nucléaire, avec la contamination de vastes zones autour de la centrale et l'évacuation de 160 000 personnes de la région. La décontamination et la reconstruction de la région continuent d'être des défis importants pour le Japon.
+La centrale nucléaire de Fukushima Daiichi, située sur la côte est du Japon, est gravement endommagée par le tsunami qui a suivi le tremblement de terre. Les systèmes de refroidissement de la centrale sont endommagés, ce qui entraîne une surchauffe des réacteurs et une fuite de radionucléides dans l'environnement. L'accident de Fukushima est l'un des pires dans l'histoire de l'industrie nucléaire, avec la contamination de vastes zones autour de la centrale et l'évacuation de 160 000 personnes de la région. La décontamination et la reconstruction de la région continuent d'être des défis importants pour le Japon.
 
 ## 2012 ans
 
 Identification du syndrome respiratoire du Moyen-Orient (MERS) en Arabie Saoudite qui est un virus causé par un coronavirus appelé MERS-CoV. Le taux de mortalité de ce virus est élevé. Le virus MERS est transmis de personne à personne par voie respiratoire ou par des animaux, notamment les dromadaires. 850 décès sont attribués à ce virus.
 
+## 2013 ans
+
+Les manifestations de la révolution du 30 juin en Egypte conduisent à la destitution du président élu Mohamed Morsi.
+
+## 2014 ans
+
+Manifestations pro-démocratie en Hong Kong, connues sous le nom du mouvement Umbrella.
+
+Les épidémies de fièvre Ebola en Afrique de l'Ouest, tuent plus de 11 000 personnes.
+
 ## 2015 ans
 
-Dieselgate. L'entreprise Volkswagen (VW) avait installe un logiciel dans certains de ses véhicules diesel qui permettent de tricher sur les tests d'émission de gaz polluants. Le logiciel est conçu pour détecter lorsqu'un véhicule est soumis à des tests d'émission pour réduire temporairement les émissions de gaz polluants afin de passer les tests. En dehors de ces tests, cependant, les véhicules émettent des niveaux beaucoup plus élevés de gaz polluants, ce qui contreviennent aux réglementations environnementales en vigueur.
+Dieselgate. L'entreprise Volkswagen (VW) installe un logiciel dans certains de ses véhicules diesel qui permettent de tricher sur les tests d'émission de gaz polluants. Le logiciel est conçu pour détecter lorsqu'un véhicule est soumis à des tests d'émission pour réduire temporairement les émissions de gaz polluants afin de passer les tests. En dehors de ces tests, cependant, les véhicules émettent des niveaux beaucoup plus élevés de gaz polluants, ce qui contreviennent aux réglementations environnementales en vigueur.
+
+## 2016 ans
+
+Brexit. Le Royaume-Uni vote de quitter l'Union Européenne.
+
+Donald Trump est élu président.
 
 ## 2019 ans
 
