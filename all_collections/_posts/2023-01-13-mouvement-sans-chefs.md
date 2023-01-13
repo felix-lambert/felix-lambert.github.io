@@ -101,4 +101,4 @@ S'il y a quantativement assez de personnes qui cherchent à s'immerger dans le c
 
 # 7. Les technologies numériques (informationnelles)
 
-Cette histoire propose que nous cherchions plus à collaborer entre nous, plutôt que de faire la compétition.
+La culture du numérique propose à l'humain de revenir à ce qui a fait sa réussite, c'est-à-dire par une culture du collaboratif.
