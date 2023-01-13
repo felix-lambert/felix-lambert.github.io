@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-01-05 10:18:00
+date: 2023-01-13 10:18:00
 tags: histoire
 ---
 
@@ -75,7 +75,7 @@ Traduction:
 
 # 9. Le capitalisme
 
-Le capitalisme permet aux individus de produire et de vendre des biens et des services sans entrave ni sanction de la part de forces extérieures. Cela offre également la possibilité à chacun de gagner une somme d'argent en échange d'un travail accompli, apportant reconnaissance et fierté. Actuellement, c'est l'un des systèmes les plus efficaces pour exercer un soft power sur le monde. Ses rituels, centrés sur l'argent, l'investissement et le travail, sont devenus des traditions qui maintiennent un niveau élevé de confiance entre les individus.
+Le capitalisme permet aux individus de produire et de vendre des biens et des services sans entrave ni sanction de la part d'un chef autoritaire. Cela offre également la possibilité à chacun de gagner une somme d'argent en échange d'un travail accompli, apportant reconnaissance et fierté. Actuellement, c'est l'un des systèmes les plus efficaces pour exercer un soft power sur le monde. Ses rituels, centrés sur l'argent, l'investissement et le travail, sont devenus des traditions qui maintiennent un niveau élevé de confiance entre les individus.
 
 En adoptant des normes éthiques, le capitalisme peut contribuer à renverser les régimes autoritaires, et promouvoir l'échange, l'écoute et la communication pour renforcer la confiance et éviter les conflits.
 
