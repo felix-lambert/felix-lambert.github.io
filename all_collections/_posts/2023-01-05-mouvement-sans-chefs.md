@@ -77,7 +77,7 @@ Traduction:
 
 Le capitalisme permet aux individus de produire et de vendre des biens et des services sans entrave ni sanction de la part de forces extérieures. Cela offre également la possibilité à chacun de gagner une somme d'argent en échange d'un travail accompli, apportant reconnaissance et fierté. Actuellement, c'est l'un des systèmes les plus efficaces pour exercer un soft power sur le monde. Ses rituels, centrés sur l'argent, l'investissement et le travail, sont devenus des traditions qui maintiennent un niveau élevé de confiance entre les individus.
 
-Lorsque les capitalistes respectent certaines valeurs éthiques, le capitalisme peut rapidement renverser les pouvoirs autoritaires. La présence de l'échange, de l'écoute et de la communication crée en plus une base de confiance qui peut prévenir les conflits.
+En adoptant des normes éthiques, le capitalisme peut contribuer à renverser les régimes autoritaires, et promouvoir l'échange, l'écoute et la communication pour renforcer la confiance et éviter les conflits.
 
 # 8. L'écologie
 
