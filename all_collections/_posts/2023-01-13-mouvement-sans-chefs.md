@@ -101,4 +101,28 @@ S'il y a quantativement assez de personnes qui cherchent à s'immerger dans le c
 
 # 7. Les technologies numériques (informationnelles)
 
-La culture du numérique propose à l'humain de revenir à ce qui a fait sa réussite, c'est-à-dire par une culture du collaboratif. L'Homo Sapiens tient en fait de son adaptation grâce à sa communication et cette communication n'est pas verticale, d'obéissance, mais de connaissance, d'aide, pour trouver des solutions, ensemble.
+La culture du numérique propose à l'humain de revenir à ce qui a fait sa réussite, c'est-à-dire une culture du collaboratif. L'Homo Sapiens tient en fait de son adaptation grâce à sa communication et cette communication n'est pas verticale, d'obéissance, mais de connaissance, d'aide, pour trouver des solutions, ensemble.
+
+Cette culture vise à promouvoir un capitalisme plus solidaire en encourageant les communications horizontales avec les clients, plutôt que des newsletters "no-reply" (non réponses). Elle donne de la valeur à la qualité de la participation plutôt que la performance individuelle. Pour que cela fonctionne il faut un peu sortir de son ego, et ressentir que la sentiment d'être vivant peut être aussi à l'extérieur de soi, en interraction avec les autres autour.
+
+Je pense que la culture de l'internet a commencé ici: c'est-à-dire avant tout par une recherche de communication horizontale, qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque. Il est d'ailleurs possible que le fonctionnement du cerveau soit assez proche de cette description.
+
+Puis, un certain Richard Stallman a acheté une imprimante pour son bureau, mais il s'est vite rendu compte qu'il ne pouvait pas accéder aux codes sources de cette imprimante. Il était perplexe et ne comprenait pas pourquoi il était si difficile d'obtenir ces informations. Il a donc décidé de mener sa propre enquête pour comprendre les raisons de cette restriction.
+
+Il a commencé à interroger les fabricants d'imprimantes, mais aucun d'entre eux ne voulait partager les codes sources de leurs produits. Ils prétendaient que ces informations étaient confidentielles et ne pouvaient pas être partagées avec le public.
+
+Lui pensait plutôt que si un client achète un produit ou un service, il doit aussi acheter l'accès aux codes sources pour que les gens puissent les utiliser, les comprendre et les améliorer. Il a donc décidé de créer un projet appelé "GNU" (GNU is Not Unix) pour créer un système d'exploitation libre qui serait compatible avec Unix.
+
+Stallman a commencé à travailler sur le projet GNU en 1983, et il a rassemblé une équipe de développeurs pour l'aider à créer les différents composants du système d'exploitation. Ils ont travaillé dur pour créer un système de gestion de fichiers, un compilateur, un éditeur de textes et d'autres outils nécessaires pour un système d'exploitation complet.
+
+Malheureusement, il y avait un composant crucial qui manquait à GNU : un noyau, ou kernel. Stallman et son équipe ont cherché à en trouver un qui conviendrait à leur projet, mais ils ont été incapables de trouver un système de noyau librement disponible qui répondait à leurs besoins.
+
+C'est alors qu'un étudiant finlandais nommé Linus Torvalds a entendu parler du projet GNU et a décidé de créer son propre noyau de système d'exploitation, appelé Linux. Il l'a partagé avec la communauté en 1991, et il s'est avéré être le noyau parfait pour le projet GNU.
+
+Stallman et Torvalds ont travaillé ensemble pour intégrer le noyau Linux au système d'exploitation GNU, et ils ont réussi à créer un système d'exploitation complet et libre qui a été appelé "GNU/Linux". Ce système d'exploitation est devenu très populaire auprès des utilisateurs et des développeurs, car il était libre, facile à utiliser et très personnalisable.
+
+Aujourd'hui, GNU/Linux est utilisé dans de nombreux ordinateurs personnels, serveurs, téléphones mobiles, et dans beaucoup d'autres appareils, Il est devenu l'un des systèmes d'exploitation les plus utilisés dans le monde. Le projet GNU de Stallman et le noyau Linux de Torvalds ont réussi à réaliser l'objectif de créer un système d'exploitation libre et accessible pour tous.
+
+L'aboutissement de cette culture du collaboratif est probablement wikipédia, le site web personnel, aidé par google et l'IA qui aident à mettre en place des services aident les individus qui vivent au sein de ces noeuds décentralisés d'obtenir des informations pertinente pour sa culture personnelle et son apprentissage, afin qu'il puisse proposer une contribution aussi qualitative que possible.
+
+Cette culture transforme actuellement à une très grande vitesse le capitalisme bureaucratique de la performance ou de l'ennrichissement individuel. Elle propose un capitalisme 2.0 qui chamboule actuellement tous les secteurs (pas seulement donc les secteurs de l'informatique et du numérique).
