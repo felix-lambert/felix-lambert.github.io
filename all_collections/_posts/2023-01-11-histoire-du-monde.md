@@ -1543,7 +1543,7 @@ Publication du roman Cent Ans de solitude de Gabriel García Márquez.
 ## 1969 ans
 
 L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".
-
+ 
 Arpanet est le premier réseau de communication à large bande passante pour ordinateurs, et il est développé par le Département de la défense des États-Unis (DoD).
 
 Le projet ARPANET est lancé dans le but de mettre en place un réseau de communication fiable et sécurisé pour les chercheurs et les scientifiques travaillant sur des projets de recherche avancés.
