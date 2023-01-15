@@ -1543,14 +1543,18 @@ Publication du roman Cent Ans de solitude de Gabriel García Márquez.
 ## 1969 ans
 
 L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".
- 
+
 Arpanet est le premier réseau de communication à large bande passante pour ordinateurs, et il est développé par le Département de la défense des États-Unis (DoD).
 
 Le projet ARPANET est lancé dans le but de mettre en place un réseau de communication fiable et sécurisé pour les chercheurs et les scientifiques travaillant sur des projets de recherche avancés.
 
 L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/g3jOJfrOknA" frameborder="0" allowfullscreen></iframe></p>
+
 Ken Thompson et Dennis Ritchie inventent un système d'exploitation "Unix" (qui est un jeu de mots sur le mot "eunuchs", qui signifie "castré" en grec) au Bell Telephone Laboratories. L'objectif initial de Thompson et Ritchie est de développer un système d'exploitation qui peut être utilisé sur le matériel du laboratoire et qui est plus facile à utiliser que les systèmes d'exploitation existants de l'époque. Unix est basé sur le modèle client-serveur car même si la ligne de commande Unix s'exécute principalement sur un ordinateur local, sa conception et son utilisation a été imaginée pour communiquer sur des réseaux. Elle inclue un shell (un interpréteur de commandes) qui permet aux utilisateurs de taper des commandes pour lancer des programmes et accéder aux fichiers du système.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TifdpeYvv1k" frameborder="0" allowfullscreen></iframe></p>
 
 Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11 emportant Neil Armstrong et Buzz Aldrin. Selon les estimations, environ 500 millions de personnes regardent le décollage de la mission en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.
 
@@ -1576,21 +1580,23 @@ L'Organisation des pays exportateurs de pétrole (OPEP) souhaite réduire signif
 
 Il y a 4 milliards d'homo sapiens sur Terre.
 
-## 1977 ans
-
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/apple2.jpg)</span>
-
-L'Apple II est présenté pour la première fois par Steve Jobs et Steve Wozniak au West Coast Computer Faire, un salon professionnel de l'informatique qui se tient du 22 au 24 avril 1977 à San Francisco. Cet ordinateur est lancé sur le marché en avril 1977 et est l'un des premiers ordinateurs personnels de l'histoire. Il est également le premier ordinateur à être livré avec un kit de développement logiciel complet, ce qui permet aux utilisateurs de créer leurs propres programmes. Pour créer ces programmes, on utilise surtout le langage BASIC, le langage de programmation le plus couramment utilisé sur l'Apple II. Il est également possible de programmer en utilisant d'autres langages tels que le langage machine ou le langage assembleur. En utilisant ces langages de programmation, les utilisateurs peuvent créer des programmes simples, tels que des jeux vidéo, grâce à son écran couleur, ou des applications de base de données, ou des programmes plus complexes, tels que des outils de gestion de projets ou des applications de traitement de texte.
-
-Pour ouvrir un programme, la méthode la plus courante est de le charger à partir d'un disque de démarrage, qui est un disque de 5,25 pouces contenant un programme de démarrage et le programme qu'on souhaite exécuter. Pour charger le programme, on doit insérer le disque de démarrage dans le lecteur de disquettes de l'Apple II et redémarrer l'ordinateur. Le programme de démarrage chargé à partir du disque exécute alors le programme qu'on souhaite exécuter.
-
 ## 1976 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XImzZe5qUTk" frameborder="0" allowfullscreen></iframe></p>
 
 Le convertisseur catalytique est utilisé pour la première fois sur les véhicules à essence dans les années 1970. Il est maintenant utilisé sur la plupart des véhicules à essence et diesel dans le monde entier pour réduire les émissions de polluants. Il joue un rôle important dans la réduction de la pollution de l'air causée par les véhicules et contribue à protéger l'environnement et la santé humaine.
 
 Identification du virus Ebola, lors de deux épidémies simultanées en Afrique, une en République démocratique du Congo (alors Zaire) et l'autre en République du Soudan. Le virus Ebola est transmis par des animaux, notamment les chauves-souris, et peut être transmis de personne à personne par contact étroit avec les liquides corporels d'une personne infectée. Le virus Ebola peut causer une maladie grave et potentiellement mortelle appelée fièvre hémorragique à virus Ebola, qui se caractérise par de fortes fièvres, des maux de tête, de la fatigue et des saignements internes.
 
 ## 1977 ans
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/apple2.jpg)</span>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/EKrGqx8tB0Q" frameborder="0" allowfullscreen></iframe></p>
+
+L'Apple II est présenté pour la première fois par Steve Jobs et Steve Wozniak au West Coast Computer Faire, un salon professionnel de l'informatique qui se tient du 22 au 24 avril 1977 à San Francisco. Cet ordinateur est lancé sur le marché en avril 1977 et est l'un des premiers ordinateurs personnels de l'histoire. Il est également le premier ordinateur à être livré avec un kit de développement logiciel complet, ce qui permet aux utilisateurs de créer leurs propres programmes. Pour créer ces programmes, on utilise surtout le langage BASIC, le langage de programmation le plus couramment utilisé sur l'Apple II. Il est également possible de programmer en utilisant d'autres langages tels que le langage machine ou le langage assembleur. En utilisant ces langages de programmation, les utilisateurs peuvent créer des programmes simples, tels que des jeux vidéo, grâce à son écran couleur, ou des applications de base de données, ou des programmes plus complexes, tels que des outils de gestion de projets ou des applications de traitement de texte.
+
+Pour ouvrir un programme, la méthode la plus courante est de le charger à partir d'un disque de démarrage, qui est un disque de 5,25 pouces contenant un programme de démarrage et le programme qu'on souhaite exécuter. Pour charger le programme, on doit insérer le disque de démarrage dans le lecteur de disquettes de l'Apple II et redémarrer l'ordinateur. Le programme de démarrage chargé à partir du disque exécute alors le programme qu'on souhaite exécuter.
 
 Instauration de la loi sur la prohibition de l'alcool au Pakistan. Cette loi interdit la production, la vente et la consommation d'alcool dans le pays. La possession et la vente d'alcool sont des infractions punissables par la loi au Pakistan et peuvent entraîner des sanctions sévères, y compris des peines de prison.
 
