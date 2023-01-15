@@ -1128,9 +1128,9 @@ La croissance économique qui suit est énorme. Tandis que l'Europe continentale
 
 A Saint Domingue, il y a 30 000 esclaves qui produisent 3000 tonnes de sucre.
 
-## 1722 ans
+## 1720 ans
 
-Dernière épidémie de peste en Europe. Elle se situe à Marseille et on ne connaît toujours pas sa cause véritable.
+Dernière épidémie de peste en Europe. Elle se situe à Marseille et est introduite à Marseille par des navires venant d'Orient. Elle dure jusqu'en 1722, causant la mort de plus de 100 000 personnes.
 
 ## 1740 ans
 
@@ -1252,6 +1252,8 @@ Le télégraphe de Samuel Morse fonctionne de la manière suivante:
 
 ## 1839 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/amQ3OLsf1Hc" frameborder="0" allowfullscreen></iframe></p>
+
 En Chine, tout l'opium est détruit puis jeté à la mer. La destruction de l'opium est effectuée de manière spectaculaire, avec l'utilisation de navires et de bateaux pour jeter les réserves d'opium à la mer ou les brûler publiquement. Cette action est menée en présence de témoins et de journalistes étrangers, afin de montrer au monde la détermination de la Chine à mettre fin au trafic d'opium.
 
 Le Japon s'inquiète de la présence récurrente de navires étrangers autour de ses côtes et voit la menace se préciser après la première guerre de l'opium où le Royaume-Uni impose par la force un traité d'ouverture du commerce aux chinois (Traité de Nankin).
@@ -1333,6 +1335,8 @@ Une coallition bombarde Shimonoseki au Japon. Une flotte navale britannique, fra
 # 1865 ans
 
 La guerre de Sécession prend fin. Les états du sud sont ravagés. Il faut désormais reconstruire et réconcilier. Le défi est immense.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-GjrosEoZwc" frameborder="0" allowfullscreen></iframe></p>
 
 Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politiques de Lincoln concernant l'abolition de l'esclavage. L'assassinat de Lincoln est l'un des événements les plus marquants de l'histoire des États-Unis et a un impact profond sur le pays. Lincoln est considéré comme l'un des présidents les plus importants de l'histoire américaine et reste un symbole de l'unité et de l'égalité pour tous les Américains.
 
@@ -1687,7 +1691,13 @@ Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de ges
 
 ## 2002 ans
 
-Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui a causé une pandémie mondiale en 2020.
+Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Il est actuellement considéré que ce virus est originaire des chauves-souris, plus précisément d'une espèce de chauve-souris appelée Rhinolophus affinis.
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/chauvesouris.jpg)</span>
+
+Cependant, il est important de noter que les chauves-souris ne sont pas considérées comme étant responsables de la transmission directe du virus aux humains. Il est plutôt suggéré que l'interaction humaine avec les animaux infectés (tel que le pangolin) aurait conduit à la transmission du virus aux humains.
+
+Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui cause une pandémie mondiale en 2020.
 
 ## 2007 ans
 
