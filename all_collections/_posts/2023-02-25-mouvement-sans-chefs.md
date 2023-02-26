@@ -101,7 +101,7 @@ S'il y a quantativement assez de personnes qui cherchent à s'immerger dans le c
 
 # 7. Les technologies numériques (informationnelles)
 
-La culture du numérique propose à l'humain de revenir à ce qui a fait sa réussite, c'est-à-dire une culture du collaboratif. L'Homo Sapiens tient en fait de son adaptation grâce à sa communication et cette communication n'est pas verticale, d'obéissance, mais de connaissance, d'aide, pour trouver des solutions, ensemble.
+La culture numérique offre à l'être humain l'opportunité de renouer avec ce qui a contribué à son succès, à savoir une culture de l'entraide. L'Homo Sapiens tient en fait de son adaptation grâce à sa communication et cette communication n'est pas verticale, d'obéissance, mais de connaissance, d'aide, pour trouver des solutions, ensemble.
 
 Cette culture vise à promouvoir un capitalisme plus solidaire en encourageant les communications horizontales avec les clients, plutôt que des newsletters "no-reply" (non réponses).
 
