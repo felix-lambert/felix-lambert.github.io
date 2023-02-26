@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-01-11 10:18:00
+date: 2023-01-15 10:18:00
 tags: histoire
 ---
 
@@ -117,7 +117,13 @@ Ces étoiles explosent davantage et sont projetées de façon désordonnée et i
 
 La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (une petite galaxie de seulement 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VE0dyCLTLcQ" frameborder="0" allowfullscreen></iframe></p>
+
+L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est le résultat de l'énergie sombre, une forme d'énergie qui agit comme une force répulsive, repoussant les galaxies les unes des autres.
+
 # -11 000 000 000 d'années
+
+Les galaxies sont beaucoup plus proches les unes des autres qu'elles ne le sont aujourd'hui.
 
 Le taux net de formation d'étoiles a probablement atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu.
 
@@ -353,25 +359,25 @@ Rodinia se casse complètement. Les roches qui composent ce continent sont des r
 
 L'atmosphère ne contient pas suffisamment de dioxyde de carbone pour capter la chaleur solaire. Le méthane et le dioxyde de carbone sont deux des gaz présents dans le revêtement isolant qui réchauffe la Terre. Ils favorisent ce que nous appelons « l'effet de serre ». La température plonge à -60 degrés. La Terre devient alors une boule de neige (Terre boule de neige). Il s'agit de l'âge de glace le plus froid et le plus long de l'histoire de la planète.
 
-## - 660 000 000 d'années
+## -660 000 000 d'années
 
 Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone.
 
-## - 650 000 000 d'années
+## -650 000 000 d'années
 
 Mais un peu plus tard, la Terre est à nouveau pratiquement inhabitable. C'est une nouvelle époque de la Terre boule de neige.
 
-## - 635 000 000 d'années
+## -635 000 000 d'années
 
 Des plantes autres que les algues voient le jour dans les profondeurs des océans.
 
-## - 630 000 000 d'années
+## -630 000 000 d'années
 
 Les éponges marines permettent quand même aux bactéries qui produisent la photosynthèse de résister, d'évoluer et, par conséquent, de libérer davantage d'oxygène dans les océans. Les bactéries qui produisent la photosynthèse évoluent en plante et libèrent encore plus d'oxygène: les algues. Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
 
 Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui permet d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes autres que les algues voient le jour dans les profondeurs des océans.
 
-# - 600 000 000 d'années
+# -600 000 000 d'années
 
 La vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans est en constante augmentation.
 
@@ -379,7 +385,7 @@ Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur pr
 
 Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux.
 
-## - 540 000 000 d'années
+## -540 000 000 d'années
 
 Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.
 
@@ -387,7 +393,7 @@ Les arthropodes font leur apparition. Ils prospèrent rapidement et évoluent en
 
 L'embranchement des arthropodes est de très loin celui qui possède le plus d'espèces et le plus d'individus de tout le règne animal, tels les myriapodes, crustacés, arachnides, insectes, etc.
 
-## - 530 000 000 d'années
+## -530 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ojiuagLU5Gc" frameborder="0" allowfullscreen></iframe></p>
 
@@ -397,7 +403,7 @@ L'embranchement des arthropodes est de très loin celui qui possède le plus d'e
 
 Haikouichthys est l’un des plus anciens poissons connus. Cet animal a une tête et un tronc distinct. Il est charognard.
 
-## - 525 000 000 d'années
+## -525 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/trilobite.jpg)</span>
 
@@ -407,7 +413,7 @@ Les trilobites apparaissent. Certains trilobites ont des yeux énormes, tandis q
 
 Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier et atteignent une vaste gamme de tailles: la plus petitemesurant quelques millimètres de long, tandis que les plus grands mesuraient plus d'un demi-mètre de long.
 
-## - 505 000 000 d'années
+## -505 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/anomacolis.jpg)</span>
 
@@ -435,7 +441,7 @@ La caractéristique d'un vertébré est d'être en mouvement. Il n'existe pas vr
 
 Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globalité de grands animaux. De nombreux invertébrés, en revanche, sont à peine visibles sans loupe ou microscope. Les insectes sont les invertébrés les plus nombreux.
 
-# - 500 000 000 d'années
+# -500 000 000 d'années
 
 L'explosion cambrienne prend fin et subit une mystérieuse extinction massive. Il est vraisemblable que la cause de cette extinction est une diminution nette des niveaux d'oxygène. Les îles et les continents, toujours sans plantes ni animaux, se déplacent constamment et créent de nouveaux habitats, de nouvelles niches. Cela permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400.
 
@@ -475,7 +481,7 @@ Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la 
 
 Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de transformer les rochers en terre fertile, afin que les plantes de la prochaine génération puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres des continents sont encore des déserts massifs.
 
-# - 420 000 000 d'années
+# -420 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rp15Ue0gx2s" frameborder="0" allowfullscreen></iframe></p>
 
@@ -487,17 +493,17 @@ On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes
 
 Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites (l'ancètre des insectes, qui rampe dans le fond des océans et mange principalement des vers et mollusques qui se cachent sous le sable).
 
-# - 400 000 000 d'années
+# -400 000 000 d'années
 
 Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. On constate aussi un groupe de poissons qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.
 
 Ce sont les ancètres des tétrapodes (les mammifères, les oiseaux, les reptiles, et les amphibiens (grenouille par exemple) font partie de la lignée des tétrapodes), les premiers animaux vertébrés avec un poumon.
 
-## - 385 000 000 d'années
+## -385 000 000 d'années
 
 Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Terre. C'est peut-être la raison pour laquelle il est nécessaire que certains poissons se dotent de poumons, afin de respirer un oxygène plus abondant sur Terre que dans les océans. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres. Elle est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène. Pouvoir respirer de l'air en dehors des océans donne peut-être plus d'énergie à certains poissons afin de pouvoir aller chasser.
 
-## - 380 000 000 d'années
+## -380 000 000 d'années
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/panderichthys.jpg)</span>
 
@@ -577,19 +583,19 @@ La lave des volcans envahit les continents jusqu'au niveau de la taille des Etat
 
 La majorité des espèces terrestres ont péri à cause de la chaleur extrême, seules 5% d'entre elles ont survécu en se réfugiant sous terre.
 
-## - 252 000 000 d'années
+## -252 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LJ6ycSarzv4" frameborder="0" allowfullscreen></iframe></p>
 
 Le charbon, cette roche noire, se forme grâce à la décomposition des végétaux.
 
-# - 245 000 000 d'années
+# -245 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R7IaRQPJHf4" frameborder="0" allowfullscreen></iframe></p>
 
 Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux qui ont évolué des rares espèces qui ont survécu à la dernière énorme extinction.
 
-## - 240 000 000 d'années
+## -240 000 000 d'années
 
 Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent.
 
@@ -597,7 +603,7 @@ Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à 
 
 <span style="display:block;text-align:center">(Pangée)</span>
 
-## - 230 000 000 d'années
+## -230 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VKq0pr4rbRs" frameborder="0" allowfullscreen></iframe></p>
 
@@ -607,7 +613,7 @@ Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au somm
 
 <span style="display:block;text-align:center">(Rauisuhiens)</span>
 
-## - 218 000 000 d'années
+## -218 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R7IaRQPJHf4" frameborder="0" allowfullscreen></iframe></p>
 
@@ -617,11 +623,11 @@ Le premier vrai mammifère, fidèle à notre lignée, apparaît. Il est petit et
 2 Il a une mâchoire<br />
 3 Les femelles peuvent produire du lait<br />
 
-## - 201 000 000 d'années
+## -201 000 000 d'années
 
 La température se stabilise et la végétation revient.
 
-## - 205 000 000 d'années
+## -205 000 000 d'années
 
 Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.
 
@@ -653,11 +659,11 @@ Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan a
 
 On constate aussi l'existence des premiers dinosaures.
 
-## - 165 000 000 d'années
+## -165 000 000 d'années
 
 Un insecte (Chrysopidae) visite une plante pour un repas, afin de sucer les fluides sucrées de la plante. C'est le début de la pollinisation.
 
-## - 125 000 000 d'années
+## -125 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/13aUo5fEjNY" frameborder="0" allowfullscreen></iframe></p>
 
@@ -667,15 +673,19 @@ Les premières mouches pollinisent certaines plantes. Certaines plantes fleuriss
 
 Aujourd'hui, les plantes avec des fleurs représentent 80% des plantes terrestres.
 
-# - 100 000 000 d'années
+# -100 000 000 d'années
 
 On trouve les premiers serpents et on peut constater l'existences des premières abeilles.
 
-## - 95 000 000 d'années
+## -95 000 000 d'années
 
 On a les premiers crocodiles.
 
-# - 70 000 000 d'années
+## -80 000 000 d'années
+
+La Terre est chaude et humide, avec des mers peu profondes qui couvrent de vastes régions de terres. Les dinosaures dominent la vie terrestre.
+
+# -70 000 000 d'années
 
 Les dinausores sont répandus partout sur la planète, même en arctique.
 
@@ -747,7 +757,19 @@ Les glaciers commencent leur propagation à travers l'Antarctique.
 
 Les grands singes sont surtout répartis en Europe.
 
-## - 7 000 000 d'années
+## -30 000 000 d'années
+
+Le climat est chaud et humide. Les forêts tropicales couvrent de vastes régions de la Terre, abritent une grande variété d'animaux, notamment des chevaux et des éléphants primitifs.
+
+Les mammifères marins tels que les baleines, les phoques et les dauphins évolient et se diversifient. Les primates commencent à se développer et à évoluer en de nombreuses formes différentes, avec certains ancêtres communs de primates qui ont finalement évolué en hominidés, l'ancêtre de l'humanité.
+
+## -20 000 000 d'années
+
+Le climat est légèrement plus frais et sec que pendant les premières périodes de l'Éocène, avec des formations de savanes et des forêts tempérées qui s'étendent sur de vastes régions. Les mammifères sont abondants et variés, avec des espèces telles que les rhinocéros, les girafes et les félins qui commencent à évoluer pour devenir les formes que nous connaissons aujourd'hui.
+
+Dans les océans, la diversification des mammifères marins a continué, avec des baleines à fanons, des phoques et des dauphins qui évoluent à partir de leurs ancêtres terrestres pour s'adapter à la vie dans l'eau.
+
+## -7 000 000 d'années
 
 Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement
 transforme lentement les singes en hominidé. Les traits principaux qui distinguent les hominidés d'un grand singe sont les suivants:
@@ -827,6 +849,18 @@ L'usage du feu permet aussi à l'espèce humaine de se déplacer plus loin, dans
 
 Homo Erectus commence à coloniser l'Eurasie.
 
+# -900 000 années
+
+Le niveau de la mer est beaucoup plus bas qu'aujourd'hui, en raison de l'accumulation de glace sur les calottes glaciaires polaires. Le climat de la Terre est plus froid qu'aujourd'hui, avec des périodes de glaciation qui ont eu lieu à intervalles réguliers. Les mammouths, les tigres à dents de sabre et les autres animaux de l'âge de glace sont répandus dans le monde entier.
+
+# -600 000 ans
+
+Les homidités commencent à se déplacer sur de plus longues distances, atteignant des endroits éloignés tels que les îles de l'Indonésie.
+
+# -500 000 ans
+
+Les hominidés commencent à utiliser des abris et des grottes pour se protéger du froid et des prédateurs. La mer Méditerranée se forme à la suite de l'élargissement de la vallée du Rhin et du Danube.
+
 # - 450 000 ans
 
 Début des hommes de Néandertal. Ils peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).
@@ -863,25 +897,29 @@ L'Homo Sapiens se répand de nouveau en Afrique et est là cette fois pour reste
 
 La population humaine commence à décroître.
 
+# -90 000 ans
+
+Les hominidés commencent à utiliser des pigments colorés pour la décoration corporelle.
+
 # -70 000 ans
 
-Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique.
+Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique. Homo Sapiens atteint l'Asie de l'Est, traversant l'Indonésie jusqu'en Australie quelques millénaires plus tard.
+
+# -60 000 ans
+
+Les hominidés continuent à améliorer les outils en pierre, y compris la fabrication de pointes de projectile plus avancées pour la chasse. Les hominidés commencent à utiliser des matériaux tels que l'os et l'ivoire pour la fabrication d'outils et de bijoux. Les hominidés commencent à développer des techniques de cuisson plus avancées, y compris la cuisson dans des pots en argile. Les hominidés ont commencé à développer des techniques de cuisson plus avancées, y compris la cuisson dans des pots en argile.
+
+# -50 000 ans
+
+Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés. Les hominidés commencent à utiliser des techniques de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar. Les hominidés commencent à s'installer dans des zones géographiques plus variées, y compris les régions polaires et les déserts.
 
 ## -45 000 ans
 
 Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie (à l'Est) à l'Espagne et l'Italie (à l'Ouest).
 
-## -44000 ans
+## -44 000 ans
 
 Les plus anciennes peintures connues, d'Indonésie, ont été réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux.
-
-# -70 000 ans
-
-Homoe Sapiens atteint l'Asie de l'Est, traversant l'Indonésie jusqu'en Australie quelques millénaires plus tard.
-
-# -50 000 ans
-
-Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés.
 
 # -40 000 ans
 
@@ -894,6 +932,14 @@ Il est peut-être utile de mentionner que cette fin est violente car on retrouve
 Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui existe. Il commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
 
 Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PvyiZKc0Iew" frameborder="0" allowfullscreen></iframe></p>
+
+Les premières représentations connues de chevaux sont trouvées dans des grottes en Europe occidentale. Les peintures et les gravures représentent des chevaux réalistes et stylisés, mais il n'est pas clair si ces représentations ont une signification symbolique ou rituelle.
+
+## -20 000 ans
+
+La Terre est en plein cœur de la dernière période glaciaire, avec des calottes glaciaires recouvrant une grande partie de l'Amérique du Nord, de l'Europe et de l'Asie. Les hominidés commencent à utiliser des techniques de tissage pour fabriquer des vêtements chauds, ce qui leur permet de mieux s'adapter aux conditions glaciaires.
 
 ## -15 000 ans
 
@@ -939,15 +985,13 @@ Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on 
 
 Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
 
-## -4200 ans
-
-L'Egypte connaît une épisode de sécheresse très sévère. Les eaux du Nil ont baissé de façon dramatique. Cette première sécheresse a peut-être provoqué la chute de l'Ancien Empire.
-
-# -5000 ans
-
 La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils ont joué un rôle central dans la culture Botai.
 
 S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains ont été fasciné par eux depuis des milliers d'années, les peignant sur des rochers.
+
+## -4200 ans
+
+L'Egypte connaît une épisode de sécheresse très sévère. Les eaux du Nil ont baissé de façon dramatique. Cette première sécheresse a peut-être provoqué la chute de l'Ancien Empire.
 
 # -4000 ans
 
@@ -960,13 +1004,17 @@ les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord 
 
 # -3000 ans
 
-En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. C'est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représentée.
+En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. C'est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représenté.
 
 Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
-L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard.
+L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
-Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
+Début de l'âge du bronze. Le bronze est un alliage de cuivre et d'étain. Le bronze rend plus robuste les outils, les armes et les armures.
+
+## -2000 ans
+
+De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
 
 ## -1800 ans
 
@@ -998,6 +1046,8 @@ Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pha
 
 Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.
 
+### -1250 ans
+
 ## -1207 ans
 
 Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".
@@ -1011,6 +1061,8 @@ Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégi
 # -1000 ans
 
 Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
+
+Fin de l'âge du bronze.
 
 # -900 ans
 
@@ -1026,13 +1078,45 @@ La civilisation Maya en Amérique emploie aussi le principe du rébus (transform
 
 Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 
+# -680 ans
+
+Scission définitive entre Chiisme et Sunnisme en islam.
+
+## -563 ans
+
+Siddhartha Gautama né dans une famille royale dans la région de Lumbini, qui se trouve aujourd'hui au Népal. Il quitte son palais pour devenir un ascète et cherche la vérité sur la souffrance humaine.
+
 ## -509 ans
 
 Chute du régime monarchique de Rome. La République Romaine se met en place progressivement.
 
+## -300 ans
+
+Alexandre le Grand devient roi de Macédoine et commence sa conquête de l'Empire perse, marquant le début de l'ère hellénistique.
+
+## -200 ans
+
+La dynastie Han commencé en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois.
+
 ## 542 ans
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
+
+# 980 ans
+
+Début du règle de Vladimir le Grand.
+
+# 988 ans
+
+Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher le royaume russe à la grandeur de Constantinople.
+
+# 1040 ans
+
+Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité. Ce sont des caractères en argile et en bois qui sont utilisés.
+
+# 1204 ans
+
+La ville de Constantinople est pillée et occupée par les croisés.
 
 ## 1347 ans
 
@@ -1066,6 +1150,12 @@ Le Pape Nicolas V, dans son livre, Romanus Pontifex, légitimise le commerce des
 
 Cette bulle papale est utilisée par les Portugais pour justifier leur expansion coloniale en Afrique et leur commerce des Africains comme esclaves.
 
+## 1456 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VD9vwdkoUm0" frameborder="0" allowfullscreen></iframe></p>
+
+Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de Valachie (actuelle Roumanie).
+
 ## 1492 ans
 
 En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, le dernière bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista a également coïncidé avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.
@@ -1076,7 +1166,7 @@ Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles 
 
 Les Portugais s'implantent au Brésil avec Pedro Álvares Cabral. Il y a un manque de main-d'œuvre pour travailler sur les plantations et dans les mines, et les Portugais commencent donc à utiliser des esclaves africains pour remplir ces tâches.
 
-Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonie en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.
+Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonies en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.
 
 ## 1517 ans
 
@@ -1089,6 +1179,14 @@ Chute de l'Empire aztéque. Le dernier empereur, Cuauhtémoc, est fait prisonnie
 ## 1550 ans
 
 Bartolomé de Las Casas, prêtre catholique espagnol, prend la défense des amérindiens. Un grand débat religieux et politique, qui doit répondre à une question simple commence: doit-on convertir les indigènes par la force ? La réponse est non. Las Casas parvient désormais à préserver les indiens du travail forcé. Il propose toutefois l'utilisation de travailleurs esclaves africains plutôt que d'indigènes pour les plantations et les mines d'or.
+
+## 1572 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XXxFTsYdLpQ" frameborder="0" allowfullscreen></iframe></p>
+
+Massacre de la Saint-Barthélemy. Il s'agit d'un massacre de grande ampleur de la communauté protestante française (appelée également les Huguenots) par les catholiques.
+
+Le massacre commence après l'ordre donné par Catherine de Médicis, la mère du roi Charles IX, de tuer les chefs protestants qui se trouvent à Paris pour les célébrations du mariage de leur chef, Henri de Navarre (futur Henri IV), avec la sœur du roi, Marguerite de Valois. Les protestants sont traqués et tués par des groupes de catholiques pendant plusieurs jours, non seulement à Paris mais aussi dans d'autres villes de France.
 
 ## 1582 ans
 
@@ -1150,6 +1248,8 @@ Dans le nord de la France, première société charbonnière créée par une ass
 
 ## 1769 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LaYSECG6yIo" frameborder="0" allowfullscreen></iframe></p>
+
 Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction. Elles jouent un rôle important dans la révolution industrielle en fournissant une source d'énergie alternative aux moyens traditionnels tels que les chevaux et les eaux courantes.
 
 ## 1776 ans
@@ -1190,11 +1290,25 @@ Les esclaves sont divisés en deux catégories : les esclaves domestiques, qui t
 
 Toussaint Louverture inflige une série de revers aux colons français. Il réussi notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions en Haïti et réussi à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.
 
+## 1793 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FKnSmFTB4Cg" frameborder="0" allowfullscreen></iframe></p>
+
+Une guerre civile en France oppose les forces révolutionnaires françaises aux forces royalistes et catholiques de la région de Vendée, dans l'ouest de la France. Cette guerre est communément appelée la Guerre de Vendée.
+
+Les vendéens, majoritairement des paysans, s'opposent aux réformes et aux politiques de la Révolution française, qui ont provoqué des troubles économiques, sociaux et religieux dans la région. Les vendéens forment des armées et commencent à attaquer les forces républicaines.
+
+En réponse, les forces républicaines lancent une campagne de répression massive connue sous le nom de "colonnes infernales". Les colonnes infernales sont des groupes de soldats qui parcourent la région en brûlant des villages et des fermes et en massacrant des civils.
+
+Les historiens estiment que le nombre de morts peut atteindre 250 000 personnes.
+
 ## 1794 ans
 
 La France est le premier pays à abolir l'esclavage. Sauf en Martinique qui passe sous domination britannique.
 
 ## 1796 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cOSKe7JTavo" frameborder="0" allowfullscreen></iframe></p>
 
 Le premier vaccin contre la variole est inventé par Edward Jenner. Le vaccin de Jenner est basé sur l'observation que les personnes ayant été exposées à la variole bovine (une maladie similaire à la variole humaine mais moins grave) sont moins susceptibles de développer la variole humaine. Le vaccin de Jenner est le premier vaccin de l'histoire et joue un rôle crucial dans la lutte contre la variole et la réduction de sa mortalité.
 
@@ -1208,6 +1322,8 @@ Il y a 1 000 000 000 d'homo sapiens sur Terre.
 
 ## 1802 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jY9ug_p-B8g" frameborder="0" allowfullscreen></iframe></p>
+
 La Martinique redevient français, date à laquelle Napoléon rétablit l'esclavage. Napoléon rétabli également l'esclavage dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.
 
 ## 1808 ans
@@ -1216,13 +1332,19 @@ L'esclavage est supprimé au Royaume-Uni. Cette loi est adoptée en réponse aux
 
 ## 1810 ans
 
-Début de la guerre d'indépendance hispano-méricaine. Cette guerre est un conflit qui oppose les colonies espagnoles d'Amérique du Sud et d'Amérique centrale aux forces espagnoles, et qui abouti à l'indépendance de ces colonies.
+Début de la guerre d'indépendance hispano-américaine. Cette guerre est un conflit qui oppose les colonies espagnoles d'Amérique du Sud et d'Amérique centrale aux forces espagnoles, et qui abouti à l'indépendance de ces colonies.
 
 Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fustige la barbarie produite par tous conflits. Une de ses œuvres les plus célèbres qui dénonce la guerre est la série de gravures intitulée "Les Désastres de la Guerre", qui représente les horreurs de la guerre d'Indépendance espagnole et les souffrances infligées aux civils. Dans ces gravures, Goya utilise un style expressif et dramatique pour montrer les effets dévastateurs de la guerre sur les individus et sur la société.
 
 ## 1815 ans
 
 Fin des guerres napoléoniennes.
+
+## 1825 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4r9cIp9vwCY" frameborder="0" allowfullscreen></iframe></p>
+
+A Haïti, le président Boyer signe un accord avec la France qui permet à Haïti de devenir officiellement reconnu comme une nation indépendante par la France. Toutefois, cet accord impose à Haïti de payer une indemnité de 150 millions de francs-or à la France en échange de cette reconnaissance. Cette somme considérable est perçue comme une forme de chantage économique par Haïti, qui des emprunter de l'argent auprès de banques françaises pour la payer. Cette dette est un fardeau pour le pays pendant de nombreuses décennies et entrave son développement économique.
 
 ## 1826
 
@@ -1279,6 +1401,8 @@ Le trafic d'opium reprend en Chine, contournant tous les interdits.
 Les américains ont cette mission de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.
 
 ## 1848 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vGZGx7c5jl8" frameborder="0" allowfullscreen></iframe></p>
 
 Des mines d'or sont découvertes en Californie. Attiré par la fortune, c'est le début de la célèbre ruée vers l'or qui suscite l'intérêt de nombreuses personnes désireuses de s'enrichir rapidement. Cela entraîne un afflux massif de population vers ces régions, qui voient leur population augmenter de façon spectaculaire en peu de temps.
 
@@ -1370,6 +1494,10 @@ Envahissement des Black Hills territoire des amérindiens. Les Black Hills sont 
 
 Dernière pandémie de peste en Asie, également connue sous le nom de pandémie de peste de Hong Kong, qui fait 12 millions de morts.
 
+## 1876 ans
+
+Le premier téléphone de Alexander Graham Bell fonctionne grâce à un système électromécanique de transmission de la voix humaine. Il utilise un microphone pour convertir les sons en signaux électriques, puis un émetteur pour transmettre ces signaux par des fils téléphoniques jusqu'à un récepteur, où ils sont convertis en sons à nouveau. Le système est basé sur le principe de la transmission des signaux électriques à travers des fils métalliques.
+
 ## 1882 ans
 
 Première centrale hydroélectrique est construite en Suisse, par l'ingénieur suisse Francis Turbine.
@@ -1393,9 +1521,7 @@ La centrale électrique de Holborn Viaduct est une innovation importante dans l'
 
 ## 1886 ans
 
-Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets.
-
-La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.
+Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets. La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.
 
 ## 1887 ans
 
@@ -1464,7 +1590,11 @@ Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclet
 
 ## 1914 ans
 
-Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'bAllemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, les États-Unis et d'autres pays d'Europe et d'Amérique du Nord de l'autre.
+Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'Allemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, les États-Unis et d'autres pays d'Europe et d'Amérique du Nord de l'autre.
+
+Il est important de souligner que l'Allemagne commet des actes d'agression au début de la Première Guerre mondiale en envahissant le Luxembourg et la Belgique, ainsi qu'en déclarant la guerre à la France. Ces actes constituent une violation flagrante du droit international et de la souveraineté de ces États. Les pays agressés ne doivent pas être tenus responsables de leur propre agression, même s'ils ont décidé de s'armer pour se protéger. En effet, les États ont le droit souverain de se défendre, mais cela ne doit pas être considéré comme une justification ou une excuse pour l'agression initiale.
+
+En résumé, je conteste l'idée selon laquelle tous les pays sont en quelque sorte responsables de la Première Guerre mondiale et je pense que l'Allemagne commet des actes d'agression au début de la guerre qui en font un acteur clé dans le déclenchement de la guerre.
 
 Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne sont utilisés que pour collecter des informations sur les mouvements et les positions de l'ennemi. Ils sont équipés de caméras et de matériel de photographie pour capturer des images des positions ennemies et de leurs déplacements, qui sont ensuite utilisées pour établir des cartes et des plans de bataille. Les avions de chasse et de bombardement n'apparaissent que plus tard.
 
@@ -1490,9 +1620,21 @@ Premier avion commercial relativement fiable. C'est un avion entièrement constr
 
 Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.
 
+## 1921 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/V591sz3jdmY" frameborder="0" allowfullscreen></iframe></p>
+
+Les populations locales du Congo auraient été infectées par le virus similaire au VIH présent chez les singes, puis auraient transmis le virus à d'autres populations par le biais de relations sexuelles non protégées et d'autres pratiques qui favorisent la transmission du virus.
+
 ## 1922 ans
 
 Publication du Roman Ulysse de James Joyce. Il est considéré comme l'un des romans les plus importants de la littérature moderne.
+
+## 1923 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vwf0DafQLnI" frameborder="0" allowfullscreen></iframe></p>
+
+Période d'hyperinflation en Allemagne. Le gouvernement allemand commence à imprimer de l'argent en grandes quantités, ce qui entraîne une augmentation de la masse monétaire en circulation. L'augmentation de la masse monétaire entraîne une chute de la valeur de la monnaie allemande, le mark. Les prix commencent à augmenter de manière exponentielle, ce qui entraîne une spirale inflationniste.
 
 ## 1926 ans
 
@@ -1504,9 +1646,17 @@ La Turquie adopte un alphabet latin pour l'écriture de sa langue nationale, le 
 
 La réforme linguistique a également impliqué l'abandon de l'écriture en caractères arabes, qui est jusque-là utilisée pour écrire le turc, au profit de l'alphabet latin. Cette décision est prise en partie pour faciliter l'apprentissage de la langue et pour permettre à la Turquie de se rapprocher de l'Europe et de l'Occident.
 
+## 1929 ans
+
+Crise économique, également connue sous le nom de Grande Dépression. De nombreux clients ont demandé à retirer leur argent en même temps, ce qui est connu sous le nom de "panique bancaire". Les banques sont incapables de rembourser tous les clients qui demandent leur argent en même temps, ce qui a conduit à un effondrement de la confiance dans le système bancaire. En outre, il y at également une forte incertitude économique à l'époque, causée par la surproduction, la baisse des prix, la baisse des salaires et le chômage croissant. Les gens sont préoccupés par leur capacité à rembourser leurs dettes et ont donc retiré leur argent des banques pour éviter tout risque de perte.
+
 ## 1930 ans
 
 Il y a 2 milliards d'homo sapiens sur Terre.
+
+## 1934 ans
+
+La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.
 
 ## 1939 ans
 
@@ -1518,9 +1668,19 @@ L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Gue
 
 La Finlande est finalement forcée de céder certains territoires à l'Union soviétique, lorsque les deux pays signent un traité de paix.
 
+## 1945 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/aG8qV0cEtKo" frameborder="0" allowfullscreen></iframe></p>
+
+La première bombe atomique est larguée sur la ville japonaise d'Hiroshima. Cette bombe a été développée par les États-Unis pendant la Seconde Guerre mondiale dans le cadre du projet Manhattan, qui avait pour objectif de créer une arme nucléaire.
+
+On estime que la bombe tue environ 140 000 personnes au total, soit immédiatement dans l'explosion ou dans les semaines et les mois suivants en raison des blessures, des brûlures et des maladies liées à l'exposition à la radiation.
+
 ## 1947 ans
 
 L'Inde est partitionné en deux pays indépendants, l'Inde et le Pakistan.
+
+Le premier transistor est inventé par John Bardeen, Walter Brattain et William Shockley de Bell Labs.
 
 ## 1949 ans
 
@@ -1539,6 +1699,24 @@ Ce concept est adopté par de nombreuses entreprises dans le monde entier et dev
 L'uranium est utilisé pour produire de l'électricité dans une centrale électrique de l'Etat de Pennsylvanie aux États-Unis. Cette centrale, connue sous le nom de "Shippingport Atomic Power Station", est la première centrale nucléaire du monde à être construite pour produire de l'électricité à des fins commerciales. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.
 
 Il est important de noter que l'uranium est une source d'énergie potentiellement très propre, car il ne libère pas de gaz à effet de serre lorsqu'il est utilisé pour produire de l'électricité. Cependant, l'utilisation de l'uranium peut poser des problèmes de sécurité et de gestion des déchets radioactifs, et elle est souvent critiquée en raison de ses implications pour la santé humaine et l'environnement. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation de l'uranium et à se tourner vers d'autres sources d'énergie renouvelables.
+
+## 1954 ans
+
+Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.
+
+## 1960 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tYQrfPTEk6E" frameborder="0" allowfullscreen></iframe></p>
+
+Le chauffage central devient de plus en plus répandu dans les nouvelles constructions résidentielles, et de nombreux foyers commencent à installer des systèmes de chauffage central dans leurs maisons existantes.
+
+## 1962 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/gS6o_QNxc6k" frameborder="0" allowfullscreen></iframe></p>
+
+Rachel Carson publie "Printemps silencieux". Le livre dénonce les effets néfastes des pesticides et autres produits chimiques sur l'environnement et la vie sauvage, en particulier les oiseaux.
+
+Le livre a un impact majeur sur la prise de conscience du public concernant les dangers des produits chimiques et inspire des mouvements de protestation contre l'utilisation abusive de pesticides et d'autres produits chimiques dans l'agriculture et l'industrie.
 
 ## 1967 ans
 
@@ -1583,6 +1761,10 @@ L'Organisation des pays exportateurs de pétrole (OPEP) souhaite réduire signif
 ## 1975 ans
 
 Il y a 4 milliards d'homo sapiens sur Terre.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-i1DFU-7TMM" frameborder="0" allowfullscreen></iframe></p>
+
+L'avortement est dépénalisé en France. Cette loi est une étape majeure dans la reconnaissance du droit des femmes à disposer de leur corps et met fin à la criminalisation de l'avortement.
 
 ## 1976 ans
 
@@ -1660,6 +1842,10 @@ B ServerName: Cette option spécifie le nom de domaine du serveur Web. Elle est 
 
 Création au Rwanda de la radio des Mille Collines, une radio privée, juste avant le début du génocide rwandais. La radio diffuse des messages incitant au meurtre de Tutsis et de membres de l'ethnie Hutue modérée.
 
+## 1995 ans
+
+J.K. Rowling commence à écrire le premier livre, "Harry Potter à l'école des Sorciers", et a mis environ cinq ans pour le terminer. Elle a commencé à travailler sur l'histoire alors qu'elle prenait le train de Manchester à Londres pour se rendre à son travail. Selon ses propres mots, l'idée de Harry Potter lui est venue en tête alors qu'elle était assise sur un train, regardant par la fenêtre.
+
 ## 1996 ans
 
 Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.
@@ -1677,7 +1863,11 @@ Ce type d'architecture est conservé dans les datacenter à venir de Google. Un 
 
 Les fondateurs de Google regardent comment les résultats sont catégorisés quand ils cherchent des bases de données scientifiques. Ils ont conscience que la valeur d'une publication scientifique est en proportion du nombre de publications qui la citent.
 
-Le concept de PageRank est créé à partir de ce travail. Le PageRank fonctionne en attribuant une "note" à chaque page web, qui reflète sa pertinence et son importance. Les pages qui ont de nombreux liens entrants de haute qualité de la part d'autres pages web de confiance ont tendance à obtenir une note plus élevée. Les pages qui ont peu ou pas de liens entrants ou qui sont liées à partir de sites peu fiables ont tendance à obtenir une note plus faible.
+Le concept de PageRank est créé à partir de ce travail. Le PageRank fonctionne en attribuant une "note" à chaque page web, qui reflète sa pertinence et son importance. Les pages qui ont de nombreux liens entrants de haute qualité de la part d'autres pages web de confiance ont tendance à obtenir une note plus élevée. Les pages qui ont peu ou pas de liens entrants ou qui sont liées à partir de sites peu fiables ont tendance à obtenir une note plus faible. Ce système promeut une forme d'égalitarisme en ce sens qu'il permet aux pages de petits sites de se classer aussi haut que les pages de grands sites, tant que ces pages ont des liens de qualité pointant vers elles. Avec PageRank, les pages de sites de petite taille ont la possibilité de se classer aussi haut que les pages de sites plus importants, plutôt que d'être reléguées aux résultats de recherche inférieurs simplement parce qu'elles proviennent de sites moins connus. Cela a contribué à l'émergence de la diversité sur le web, permettant aux petits sites de se faire connaître auprès des utilisateurs.
+
+Avant l'arrivée de Google, la navigation sur le Web est beaucoup plus difficile pour les utilisateurs ordinaires. Il n'y a pas de moteur de recherche centralisé pour trouver facilement l'information souhaitée, et les utilisateurs doivent connaître l'adresse exacte d'un site Web pour y accéder. Les moteurs de recherche existants sont souvent peu efficaces.
+
+Les portails sont populaires à cette époque, ils regroupent des liens vers des sites Web pertinents sur un sujet donné, mais ils sont souvent encombrés et difficiles à naviguer. En raison de ces difficultés, la plupart des gens utilisent Internet principalement pour envoyer des courriers électroniques et pour lire des nouvelles en ligne.
 
 ## 1998 ans
 
@@ -1685,7 +1875,9 @@ Fondation de Google dans la Silicon Valley. Désormais, Google a une mission cla
 
 Le département de la Justice des États-Unis intente une action en justice contre Microsoft pour abus de sa position dominante sur le marché des systèmes d'exploitation pour ordinateurs personnels.
 
-## 2001
+## 2001 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/I8vsW6U8nnM" frameborder="0" allowfullscreen></iframe></p>
 
 Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de gestion de contenu en ligne qui permet à n'importe qui de créer et de modifier des articles encyclopédiques. Ils lancent le projet avec un petit nombre d'articles, et ils encouragent les bénévoles à contribuer au projet en ajoutant et en mettant à jour des articles.
 
@@ -1699,6 +1891,10 @@ Cependant, il est important de noter que les chauves-souris ne sont pas considé
 
 Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui cause une pandémie mondiale en 2020.
 
+## 2005 ans
+
+YouTube est lancé.
+
 ## 2007 ans
 
 Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvier 2007 lors d'une conférence de presse à San Francisco. L'événement, intitulé "Introducing iPhone", est diffusé en direct sur Internet et est suivi par des journalistes, des analystes et des fans d'Apple de partout dans le monde.
@@ -1706,6 +1902,10 @@ Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvie
 Lors de cette conférence de presse, Steve Jobs présente le premier iPhone comme étant un téléphone révolutionnaire qui combine un téléphone mobile, un iPod et un appareil de navigation Internet en un seul et même appareil. Il présenté également de nouvelles fonctionnalités telles que l'écran tactile, la reconnaissance vocale et l'accès à Internet à haut débit.
 
 Le premier iPhone est lancé aux États-Unis le 29 juin 2007 et connaît un succès immédiat, devenant rapidement l'un des téléphones mobiles les plus populaires au monde. Depuis, Apple lance de nombreux modèles d'iPhone, chacun avec des fonctionnalités améliorées et de nouvelles technologies.
+
+Tor (The Onion Router) est développé par la US Navy en 2002 pour permettre une navigation sur Internet anonyme et protégée contre les utilisations malveillantes. Il est basé sur un système de routage en oignon, qui utilise plusieurs couches de cryptage pour masquer l'origine des données et les protéger contre les attaques de surveillance.
+
+Tor est toujours utilisé aujourd'hui et est considéré comme l'un des moyens les plus efficaces pour naviguer anonymement sur Internet. Cependant, il est important de noter que même si Tor offre une certaine protection contre la surveillance, il n'est pas infaillible et il est important de prendre des mesures supplémentaires pour protéger son anonymat en ligne.
 
 ## 2008 ans
 
@@ -1756,6 +1956,8 @@ Donald Trump est élu président.
 Une étude hollandaise évoque une baisse de 75 % de la biomasse des insectes volants de 1992 à 2019.
 
 Le médecin chinois Li Wenliang signale aux autorités chinoises la maladie Covid 19, mais il n'est pas écouté. Ce médecin meurt des suites de cette maladie.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PeMlggyqz0Y" frameborder="0" allowfullscreen></iframe></p>
 
 DeepMind, la filiale de recherche en intelligence artificielle de la société mère de Google, Alphabet, oppose un agent IA nommé AlphaStar à certains des meilleurs joueurs de StarCraft II au monde. AlphaStar bat 99,8% des joueurs humains.
 
