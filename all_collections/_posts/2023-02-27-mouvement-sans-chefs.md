@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-01-13 10:18:00
+date: 2023-02-27 10:18:00
 tags: histoire
 ---
 
@@ -84,8 +84,6 @@ En adoptant des normes éthiques, le capitalisme peut contribuer à renverser le
 L'écologie est aussi un mouvement sans chef. Elle ne consiste pas à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire l'avenir et si elles s'avèrent correctes, elles n'aident aucunement à l'action, mais plutôt à une forme de sidération ou de militantisme spectacle.
 
 L'écologie à sa source, sans aucun dérivé marxiste, nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xLXq4rnccDM" frameborder="0" allowfullscreen></iframe></p>
 
 Mais croire en des valeurs n'est pas suffisant. Il faut plutôt les faire exister. Si on voyage en jet privé pour nous raconter l'histoire de l'écologie, on accorde en réalité plus d'importance à:
 
