@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-02-27 10:18:00
+date: 2023-03-03 10:18:00
 tags: histoire
 ---
 
@@ -103,32 +103,14 @@ La culture numérique offre à l'être humain l'opportunité de renouer avec ce 
 
 Cette culture vise à promouvoir un capitalisme plus solidaire en encourageant les communications horizontales avec les clients, plutôt que des newsletters "no-reply" (non réponses).
 
-Je pense que la culture de l'internet a commencé par une volonté de communication horizontalisée, entre individus, qui permet à l'information de facilement passer entre des noeuds décentralisés. Il est d'ailleurs possible que le fonctionnement du cerveau soit assez proche de cette description. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
+Je pense que la culture de l'internet commence par une volonté de communication horizontalisée, entre individus, qui permet à l'information de facilement passer entre des noeuds décentralisés. Il est d'ailleurs possible que le fonctionnement du cerveau soit assez proche de cette description. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
 
-Puis, un certain Richard Stallman a acheté une imprimante pour son bureau, mais il s'est vite rendu compte qu'il ne pouvait pas accéder aux codes sources. Il était perplexe et ne comprenait pas pourquoi il était si difficile d'obtenir ces informations. Il a donc décidé de mener sa propre enquête pour comprendre les raisons de cette restriction.
+L'aboutissement de cette culture est probablement wikipédia, le site web, aidé par google et l'IA qui aident à mettre en place des services qui aident à obtenir des informations pour sa culture personnelle et son apprentissage.
 
-Il a commencé à interroger les fabricants d'imprimantes, mais aucun d'entre eux ne voulait partager les codes sources de leurs produits. Ils prétendaient que ces informations étaient confidentielles et ne pouvaient pas être partagées avec le public.
+Cette culture transforme actuellement à une très grande vitesse le capitalisme de la performance ou de l'enrichissement individuel. Elle propose un capitalisme 2.0 qui chamboule actuellement tous les secteurs (pas seulement donc les secteurs de l'informatique et du numérique).
 
-Lui pensait plutôt que si un client achète un produit ou un service, il doit aussi acheter l'accès aux codes sources pour que les gens puissent les utiliser, les comprendre et les améliorer. Il a donc décidé de créer un projet appelé "GNU" (GNU is Not Unix) pour créer un système d'exploitation libre qui serait compatible avec Unix.
+Même durant la Covid 19, certaines institutions médicales et scientifiques internationales, qui, souvent ralenties par les processus administratifs et les protocoles rigides, comprennent qu'elles doivent travailler ensemble pour trouver un vaccin efficace contre le virus.
 
-Stallman a commencé à travailler sur le projet GNU en 1983, et il a rassemblé une équipe de développeurs pour l'aider à créer les différents composants du système d'exploitation. Ils ont travaillé dur pour créer un système de gestion de fichiers, un compilateur, un éditeur de textes et d'autres outils nécessaires pour un système d'exploitation complet.
+En quelques mois, les scientifiques réussissent à développer plusieurs vaccins contre le Covid-19 qui ont sont approuvés pour une utilisation d'urgence par les autorités sanitaires à travers le monde. Cette collaboration internationale est tout à fait exceptionnelle et inédite. Elle permet de produire des vaccins efficaces en un temps record et de sauver des milliers de vies.
 
-Malheureusement, il y avait un composant crucial qui manquait à GNU: un noyau, ou kernel. Stallman et son équipe ont cherché à en trouver un qui conviendrait à leur projet, mais ils ont été incapables de trouver un système de noyau librement disponible qui répondait à leurs besoins.
-
-C'est alors qu'un étudiant finlandais nommé Linus Torvalds a entendu parler du projet GNU et a décidé de créer son propre noyau de système d'exploitation, appelé Linux. Il l'a partagé avec la communauté en 1991, et il s'est avéré être le noyau parfait pour le projet GNU.
-
-Stallman et Torvalds ont travaillé ensemble pour intégrer le noyau Linux au système d'exploitation GNU, et ils ont réussi à créer un système d'exploitation complet et libre qui a été appelé "GNU/Linux". Ce système d'exploitation est devenu très populaire auprès des utilisateurs et des développeurs, car il était libre, facile à utiliser et très personnalisable.
-
-Aujourd'hui, GNU/Linux est utilisé dans de nombreux ordinateurs personnels, serveurs, téléphones mobiles, et dans beaucoup d'autres appareils, Il est devenu l'un des systèmes d'exploitation les plus utilisés dans le monde. Le projet GNU de Stallman et le noyau Linux de Torvalds ont réussi à réaliser l'objectif de créer un système d'exploitation libre et accessible pour tous.
-
-L'aboutissement de cette culture du collaboratif est probablement wikipédia, le site web personnel, aidé par google et l'IA qui aident à mettre en place des services qui aident d'obtenir des informations pertinente pour sa culture personnelle et son apprentissage, afin qu'ils puissent proposer en retour une contribution aussi qualitative que possible.
-
-Cette culture transforme actuellement à une très grande vitesse le capitalisme bureaucratique de la performance ou de l'ennrichissement individuel. Elle propose un capitalisme 2.0 qui chamboule actuellement tous les secteurs (pas seulement donc les secteurs de l'informatique et du numérique).
-
-Même durant la Covid 19, certaines institutions médicales et scientifique internationales, qui souvent ralenties par les processus administratifs et les protocoles rigides ont rapidement compris qu'ils devaient travailler ensemble pour trouver un vaccin efficace contre le virus.
-
-Ces scientifiques ont commencé à organiser des appels vidéo et des réunions en ligne pour discuter de leurs avancées et résoudre les problèmes ensemble. Grâce à cette culture de collaboration, les scientifiques et les médecins ont été en mesure de partager rapidement des informations sur les différents vaccins en développement, les protocoles d'essais cliniques et les résultats des études. Ils ont également été en mesure de travailler ensemble pour surmonter les obstacles techniques et réglementaires qui se dressaient sur leur chemin.
-
-En quelques mois, ils ont réussi à développer plusieurs vaccins contre le Covid-19 qui ont été approuvés pour une utilisation d'urgence par les autorités sanitaires à travers le monde. Cette collaboration internationale était tout à fait exceptionnelle et inédite, elle a permis de produire des vaccins efficaces en un temps record et de sauver des milliers de vies. Les institutions qui ont participé à cette entreprise ont réussi à briser leurs propres barrières bureaucratiques et à prouver que la culture de collaboration peut être efficace pour relever les défis les plus importants de notre temps.
-
-Donc le but de la culture du collaboratif n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt de l'exercer en donnant de la valeur à la qualité de la participation plutôt que la performance individuelle. Pour que cela fonctionne il faut un peu sortir de son ego, et ressentir que le sentiment d'être vivant peut être aussi à l'extérieur de soi, en interraction avec les autres autour. L'ancien capitalisme, qu'on adore tous critiquer, trouvera alors moins de sens d'exister.
+Donc le but de cette culture de l'information horizontale, numérisée, n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt de l'exercer en donnant de la valeur à la qualité de la participation plutôt que la performance individuelle.
