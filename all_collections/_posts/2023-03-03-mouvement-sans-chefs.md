@@ -9,8 +9,6 @@ Le plongeon dans ce nouveau monde proposé par la civilisation technologique nou
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination par un principe simple: faire le travail qui n'a pas encore été fait par un autre.
 
-Pour qu'un collectif puisse se dépasser, pour qu'il puisse vraiment aller loin, il ne doit en effet pas y avoir de chef, car on ne va que faire la compétition pour chercher à devenir ou remplacer le chef tout en négligeant la finalité, c'est-à-dire ce qu'on est en train de construire ensemble.
-
 Pour faire vivre un collectif, il faut procéder à une série de rites (dire bonjour, serrer la main, préparer un dîner...) qui a pour objectif une forme de célébration de la vie (montrant que l'on est uni par un certain nombre de valeurs communes). C'est un peu comme jouer, mais ce n'est pas nécessairement concurrentiel. Même si on se lave les mains seul par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apporté par notre civilisation technologique), on montre notre appartenance avec les personnes accomplissant ce rituel.
 
 Des individus peuvent également s'assembler autour de valeurs qui ne sont pas faciles à accepter. Quelles sont les valeurs qui rassemblent les gens autour de la télé-poubelle?
