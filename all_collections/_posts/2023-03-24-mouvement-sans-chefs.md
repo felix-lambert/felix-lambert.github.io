@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-03-03 10:18:00
+date: 2023-03-24 10:18:00
 tags: histoire
 ---
 
@@ -73,9 +73,9 @@ Traduction:
 
 # 9. Le capitalisme
 
-Le capitalisme permet aux individus de produire et de vendre des biens et des services sans entrave ni sanction de la part d'un chef autoritaire. Cela offre également la possibilité à chacun de gagner une somme d'argent en échange d'un travail accompli, apportant reconnaissance et fierté. Actuellement, c'est l'un des systèmes les plus efficaces pour exercer un soft power sur le monde. Ses rituels, centrés sur l'argent, l'investissement et le travail, sont devenus des traditions qui maintiennent un niveau élevé de confiance entre les individus.
+Le capitalisme permet aux individus de produire et d'échanger des biens et des services sans contrainte ni intervention d'une autorité dominante. Il offre également la possibilité à chacun de gagner de l'argent en contrepartie du travail accompli, apportant ainsi reconnaissance et fierté. De nos jours, il s'agit de l'un des systèmes les plus efficaces pour exercer une influence douce sur le monde. Ses rituels, axés sur l'argent, l'investissement et le travail, sont devenus des traditions qui favorisent un haut niveau de confiance entre les individus.
 
-En adoptant des normes éthiques, le capitalisme peut contribuer à renverser les régimes autoritaires, et promouvoir l'échange, l'écoute et la communication pour renforcer la confiance et éviter les conflits.
+En intégrant des principes éthiques, le capitalisme a le potentiel de renverser les régimes autoritaires et de favoriser l'échange, l'écoute et la communication, dans le but de renforcer la confiance et de prévenir les conflits.
 
 # 8. L'écologie
 
@@ -103,12 +103,12 @@ Cette culture vise à promouvoir un capitalisme plus solidaire en encourageant l
 
 Je pense que la culture de l'internet commence par une volonté de communication horizontalisée, entre individus, qui permet à l'information de facilement passer entre des noeuds décentralisés. Il est d'ailleurs possible que le fonctionnement du cerveau soit assez proche de cette description. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
 
-L'aboutissement de cette culture est probablement wikipédia, le site web, aidé par google et l'IA qui aident à mettre en place des services qui aident à obtenir des informations pour sa culture personnelle et son apprentissage.
+Le summum de cette culture est sans doute Wikipédia, le site web, soutenu par Google et l'intelligence artificielle, qui contribuent à développer des services permettant d'acquérir des informations pour enrichir sa culture personnelle et faciliter l'apprentissage.
 
-Cette culture transforme actuellement à une très grande vitesse le capitalisme de la performance ou de l'enrichissement individuel. Elle propose un capitalisme 2.0 qui chamboule actuellement tous les secteurs (pas seulement donc les secteurs de l'informatique et du numérique).
+Cette culture modifie actuellement à un rythme rapide le capitalisme axé sur l'enrichissement individuel. Elle introduit un capitalisme 2.0 qui bouleverse tous les domaines.
 
 Même durant la Covid 19, certaines institutions médicales et scientifiques internationales, qui, souvent ralenties par les processus administratifs et les protocoles rigides, comprennent qu'elles doivent travailler ensemble pour trouver un vaccin efficace contre le virus.
 
-En quelques mois, les scientifiques réussissent à développer plusieurs vaccins contre le Covid-19 qui ont sont approuvés pour une utilisation d'urgence par les autorités sanitaires à travers le monde. Cette collaboration internationale est tout à fait exceptionnelle et inédite. Elle permet de produire des vaccins efficaces en un temps record et de sauver des milliers de vies.
+En quelques mois, les scientifiques réussissent à développer plusieurs vaccins contre le Covid-19 qui sont approuvés pour une utilisation d'urgence par les autorités sanitaires à travers le monde. Cette collaboration internationale est tout à fait exceptionnelle et inédite. Elle permet de produire des vaccins efficaces en un temps record et de sauver des milliers de vies.
 
 Donc le but de cette culture de l'information horizontale, numérisée, n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt de l'exercer en donnant de la valeur à la qualité de la participation plutôt que la performance individuelle.
