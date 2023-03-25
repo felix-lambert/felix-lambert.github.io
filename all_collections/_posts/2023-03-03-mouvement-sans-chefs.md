@@ -9,7 +9,7 @@ Le plongeon dans ce nouveau monde proposé par la civilisation technologique nou
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination par un principe simple: faire le travail qui n'a pas encore été fait par un autre.
 
-Pour faire vivre un collectif, il faut procéder à une série de rites (dire bonjour, serrer la main, préparer un dîner...) qui a pour objectif une forme de célébration de la vie (montrant que l'on est uni par un certain nombre de valeurs communes). C'est un peu comme jouer, mais ce n'est pas nécessairement concurrentiel. Même si on se lave les mains seul par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apporté par notre civilisation technologique), on montre notre appartenance avec les personnes accomplissant ce rituel.
+Pour cultiver l'unité au sein d'un groupe, il est nécessaire de pratiquer divers rituels, tels que se dire bonjour, se serrer la main ou préparer un repas ensemble, qui ont pour but de célébrer la vie en soulignant les valeurs communes qui nous lient. C'est un peu comme jouer. Même si on se lave les mains seul par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apporté par notre civilisation), on témoigne de notre appartenance à un groupe partageant ces rituels.
 
 Des individus peuvent également s'assembler autour de valeurs qui ne sont pas faciles à accepter. Quelles sont les valeurs qui rassemblent les gens autour de la télé-poubelle?
 
@@ -19,7 +19,7 @@ Ce collectif parvient à attirer beaucoup de monde. Les individus, en regardant 
 
 Il est possible qu'il y ait concurrence culturelle, mais faisons peut-être comme les entreprises: ne parlons pas trop de nos concurrents.
 
-Pour résoudre les problèmes globaux, c'est assez simple en fait, il suffit d'avoir une quantité assez suffisante d'actions (oui ça peut-être quantifiable je pense), qui vont dans le sens de la résolution de ces problèmes.
+Pour résoudre les problèmes globaux, il suffit de mettre en œuvre un nombre suffisant d'actions (qui peuvent potentiellement être quantifiées) orientées vers la résolution de ces problèmes.
 
 Pourquoi nous n'agissons pas dans ce sens aujourd'hui ? Peut-être parce qu'il n'existe pas encore de collectifs assez soudés, qui permettent d'inclure autant de personnes que possible où chacun se sent utile et concerné. Un individu séparé des autres n'a peut-être pas la force qui lui offre un sens pour des actions cohérentes avec une finalité collective clairement définie.
 

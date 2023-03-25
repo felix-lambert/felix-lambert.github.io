@@ -1128,6 +1128,10 @@ Les médecins de cette époque ne vont pas que se contenter de regarder les éto
 
 Il y a un débat entre les médecins: le mal se propage par l'air ou par le contact. Même s'ils n'ont aucun moyen scientifique pour démontrer cette hypothèse, les médecins comprennent qu'il faut empêcher la circulation des marchandises et des humains.
 
+## 1348 ans
+
+La peste noire, également connue sous le nom de peste bubonique, arrive à Florence.
+
 ## 1353 ans
 
 La peste est à Moscou.
@@ -1158,15 +1162,19 @@ Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de V
 
 ## 1492 ans
 
-En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, le dernière bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista a également coïncidé avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.
+En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, le dernière bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista coïncide également avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.
 
-Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Collomb débarque aux Antilles pour le compte de l'Espagne.
+Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Collomb débarque aux Antilles pour le compte de l'Espagne. Il découvre aussi Cuba.
 
 ## 1500 ans
 
 Les Portugais s'implantent au Brésil avec Pedro Álvares Cabral. Il y a un manque de main-d'œuvre pour travailler sur les plantations et dans les mines, et les Portugais commencent donc à utiliser des esclaves africains pour remplir ces tâches.
 
 Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonies en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.
+
+## 1514 ans
+
+Santiago de Cuba est fondé par le conquistador espagnol Diego Velázquez de Cuéllar. Santiago de Cuba est la première capitale de l'île et sert de base pour l'expansion espagnole dans les Caraïbes. Et en raison de sa position stratégique et de son excellent port naturel, La Havane devient rapidement un centre majeur pour le commerce et la flotte espagnole.
 
 ## 1517 ans
 
@@ -1175,6 +1183,10 @@ Les colons espagnoles mettent en place une forme de travail forcé afin d'exploi
 ## 1521 ans
 
 Chute de l'Empire aztéque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures, de fusils, et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.
+
+## 1530 ans
+
+Un nombre croissant de colons espagnols commencent à se rendre au Pérou pour tenter leur chance et chercher fortune.
 
 ## 1550 ans
 
@@ -1309,6 +1321,8 @@ La France est le premier pays à abolir l'esclavage. Sauf en Martinique qui pass
 ## 1796 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cOSKe7JTavo" frameborder="0" allowfullscreen></iframe></p>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/h63CYPjgwK0" frameborder="0" allowfullscreen></iframe></p>
 
 Le premier vaccin contre la variole est inventé par Edward Jenner. Le vaccin de Jenner est basé sur l'observation que les personnes ayant été exposées à la variole bovine (une maladie similaire à la variole humaine mais moins grave) sont moins susceptibles de développer la variole humaine. Le vaccin de Jenner est le premier vaccin de l'histoire et joue un rôle crucial dans la lutte contre la variole et la réduction de sa mortalité.
 
@@ -1468,6 +1482,10 @@ Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politi
 
 Construction d'un chemin de fer aux Etats-Unis transcontinentales.
 
+# 1898 ans
+
+Les Etats-Unis déclarent la guerre à l'Espagne qui abouti à la défaite de l'Espagne et à la perte de ses dernières colonies, dont Cuba, Porto Rico, Guam et les Philippines.
+
 ## 1870 ans
 
 Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port d'arme des Samourai est interdit.
@@ -1610,7 +1628,7 @@ Fin de la première guerre mondiale. Un film qui dénonce l'horreur et la futili
 
 Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, prêt de la moitié de ces pilotes meurt ou disparait avec leur avion.
 
-La grippe espagnole est apparue pour la première fois en Espagne, d'où elle tire son nom, et se propage rapidement dans le reste de l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Les raisons exactes de son apparition restent inconnues.
+La grippe espagnole est apparue pour la première fois en Espagne, d'où elle tire son nom, et se propage rapidement dans le reste de l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Il n'y a pas eu de grand confinement. Les raisons exactes de son apparition restent inconnues.
 
 ## 1919 ans
 
@@ -1668,6 +1686,14 @@ L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Gue
 
 La Finlande est finalement forcée de céder certains territoires à l'Union soviétique, lorsque les deux pays signent un traité de paix.
 
+## 1941 ans
+
+Le 7 décembre 1941, l'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port.
+
+L'attaque est dévastatrice pour les États-Unis, qui subi de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués.
+
+Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.
+
 ## 1945 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/aG8qV0cEtKo" frameborder="0" allowfullscreen></iframe></p>
@@ -1700,9 +1726,31 @@ L'uranium est utilisé pour produire de l'électricité dans une centrale élect
 
 Il est important de noter que l'uranium est une source d'énergie potentiellement très propre, car il ne libère pas de gaz à effet de serre lorsqu'il est utilisé pour produire de l'électricité. Cependant, l'utilisation de l'uranium peut poser des problèmes de sécurité et de gestion des déchets radioactifs, et elle est souvent critiquée en raison de ses implications pour la santé humaine et l'environnement. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation de l'uranium et à se tourner vers d'autres sources d'énergie renouvelables.
 
+## 1952 ans
+
+Une période de smog intense s'installe dans la ville de Londres pendant plusieurs jours. Cette pollution est principalement causée par l'utilisation généralisée du charbon comme source d'énergie pour le chauffage et la production d'électricité. La visibilité est si faible que les gens ont du mal à se déplacer dans les rues et le trafic est presque complètement arrêté. La pollution a également des effets néfastes sur la santé, provoquant une augmentation considérable du nombre de décès dus à des problèmes respiratoires.
+
+L'événement pousse le gouvernement britannique à adopter des lois plus strictes sur la qualité de l'air et à encourager l'utilisation de sources d'énergie plus propres, comme le gaz naturel et l'électricité.
+
+## 1953 ans
+
+Fidel Castro et ses partisans attaquent la caserne Moncada à Santiago de Cuba dans le but de renverser le régime de Batista. L'attaque échoue, et de nombreux participants sont tués ou capturés.
+
 ## 1954 ans
 
 Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.
+
+## 1955 ans
+
+Castro est libéré grâce à une amnistie. Il part en exil au Mexique avec son frère Raúl et d'autres partisans. Là, ils rencontrent Ernesto "Che" Guevara, un médecin argentin et révolutionnaire marxiste qui devient un membre clé du mouvement. Ensemble, ils planifient leur retour à Cuba pour renverser Batista.
+
+## 1956 ans
+
+Castro, Guevara, Raúl Castro et environ 80 autres rebelles retournent à Cuba à bord d'un bateau. Leur objectif est de rejoindre des groupes de résistance sur place et de lancer une guérilla contre le régime de Batista. Cependant, les forces gouvernementales les attaquent rapidement et seuls 12 rebelles, dont les frères Castro et Guevara, réussissent à s'échapper dans les montagnes de la Sierra Maestra.
+
+## 1959 ans
+
+Batista fuit Cuba pour la République dominicaine, et les forces rebelles prennent le contrôle de La Havane. Le 8 janvier, Fidel Castro entre triomphalement dans la capitale cubaine. Après la prise de pouvoir, Castro met en place un gouvernement révolutionnaire et commence à mettre en œuvre des réformes sociales et économiques radicales, telles que la nationalisation des industries et la redistribution des terres.
 
 ## 1960 ans
 
@@ -1758,6 +1806,10 @@ Les derniers Homo Sapiens à marcher sur le sol lunaire sont Harrison Schmitt et
 
 L'Organisation des pays exportateurs de pétrole (OPEP) souhaite réduire significativement la production et de faire augmenter les prix du pétrole. Cette décision est prise en réaction à la décision de l'administration américaine de fournir une aide militaire à Israël pendant la guerre du Kippour, qui oppose Israël à l'Égypte et à la Syrie. L'OPEP veut utiliser son pouvoir de contrôle sur l'offre de pétrole pour faire pression sur les États-Unis et leur faire changer d'avis sur leur soutien à Israël. Le premier choc pétrolier a conduit à une augmentation de la demande pour les sources d'énergie alternatives, telles que l'énergie solaire et éolienne.
 
+## 1974 ans
+
+Des scientifiques de l'Université de Californie à Irvine publient une étude mettant en évidence une diminution significative de la concentration d'ozone dans la haute atmosphère au-dessus de l'Antarctique. Cette zone où l'ozone est considérablement réduit est appelée "trou de la couche d'ozone".
+
 ## 1975 ans
 
 Il y a 4 milliards d'homo sapiens sur Terre.
@@ -1795,6 +1847,10 @@ VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calc
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/compuserve.jpg)</span>
 
 Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.
+
+## 1985 ans
+
+Des scientifiques britanniques publient un rapport qui attire l'attention du public sur la gravité du problème de la couche d'ozone et son impact potentiel sur la santé humaine et l'environnement. Le rapport montre que la diminution de la couche d'ozone est causé par les émissions de produits chimiques tels que les chlorofluorocarbones (CFC) utilisés dans les réfrigérateurs, les climatiseurs, les aérosols, etc.
 
 ## 1989 ans
 
@@ -1901,6 +1957,8 @@ Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvie
 
 Lors de cette conférence de presse, Steve Jobs présente le premier iPhone comme étant un téléphone révolutionnaire qui combine un téléphone mobile, un iPod et un appareil de navigation Internet en un seul et même appareil. Il présenté également de nouvelles fonctionnalités telles que l'écran tactile, la reconnaissance vocale et l'accès à Internet à haut débit.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/3NR3RDedd5w" frameborder="0" allowfullscreen></iframe></p>
+
 Le premier iPhone est lancé aux États-Unis le 29 juin 2007 et connaît un succès immédiat, devenant rapidement l'un des téléphones mobiles les plus populaires au monde. Depuis, Apple lance de nombreux modèles d'iPhone, chacun avec des fonctionnalités améliorées et de nouvelles technologies.
 
 Tor (The Onion Router) est développé par la US Navy en 2002 pour permettre une navigation sur Internet anonyme et protégée contre les utilisations malveillantes. Il est basé sur un système de routage en oignon, qui utilise plusieurs couches de cryptage pour masquer l'origine des données et les protéger contre les attaques de surveillance.
@@ -1965,6 +2023,8 @@ DeepMind, la filiale de recherche en intelligence artificielle de la société m
 
 Le monde est confronté à une pandémie de COVID-19, une maladie causée par le coronavirus SARS-CoV-2. La pandémie entraîne des restrictions de voyage et de rassemblement dans de nombreux pays, ainsi que la fermeture de nombreuses entreprises et écoles. Plusieurs vaccins contre le COVID-19 sont développés et commencent à être administrés à des millions de personnes dans le monde. Ces vaccins sont développés en un temps record grâce à la collaboration internationale.
 
+Le virus est très contagieux et plus mortel que la grippe saisonnière. Les symptômes courants sont de la fièvre, une toux sèche, et une grande fatigue. La plupart des cas sont bénins, mais dans certains cas, une pneumonie sévère peut survenir et mettre la vie en danger.
+
 Les mammifères sauvages ne représentent plus aujourd’hui que 4% de la biomasse des mammifères terrestres, les humains et leurs animaux domestiques représentant les 96% restants.
 
 L'Australie est frappé par des feux de forêt dévastateurs qui brûlent pendant des mois et causent la mort de nombreux animaux et la destruction de nombreuses propriétés.
@@ -1973,8 +2033,7 @@ L'Australie est frappé par des feux de forêt dévastateurs qui brûlent pendan
 
 La Terre compte approximativement 7,97 milliards d'habitants.
 
-La Russie envahit l'Ukraine. Après les géants américains (Apple, Boeing, Disney, Ford, General Motors…), certaines entreprises françaises commencent à suspendre, voire retirer, leurs
-activités de Russie.
+La Russie envahit l'Ukraine. Après les géants américains (Apple, Boeing, Disney, Ford, General Motors…), certaines entreprises françaises commencent à suspendre, voire retirer, leurs activités de Russie.
 
 Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en Inde — qui représentent à eux seuls 35 % de la population mondiale. De plus, environ 56 % de la population mondiale vit dans des zones urbaines plutôt que rurales.
 
