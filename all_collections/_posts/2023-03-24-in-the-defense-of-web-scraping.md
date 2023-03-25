@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In defence of web scraping
-date: 2023-25-03 10:18:00
+date: 2023-03-24 10:18:00
 tags: philosophy
 ---
 
