@@ -16,12 +16,11 @@ SOURCE:
 - [https://opensource.com/business/15/10/jane-austen-on-python](https://opensource.com/business/15/10/jane-austen-on-python)
 - [https://eloquentjavascript.net/Eloquent_JavaScript.pdf](https://eloquentjavascript.net/Eloquent_JavaScript.pdf)
 
+At its core, the ultimate objective of code is to be comprehensible by both machines and humans alike. If you communicate ideas in a way that only you can understand, it becomes impractical for others to utilize or build upon your work. Therefore, when creating a variable or any other code, it is crucial to consider whether it will enhance the readability and predictability of the code for the next developer. This helps to ensure that the code is easily understood and maintainable, facilitating collaboration and progress.
 
-The end goal of code is to be understood by a machine and by another human being: if you speak and no one understands you, you're only speaking to yourself and others cannot make any use of it. Whenever you start to write a variable, you just need to ask yourself if this will make the code more readable and predictable for the next developer. 
+Metaphorically viewing code as a story can be an effective way to create clean and comprehensible code. Just as a poorly written story can be difficult for an audience to read and understand, code that is not easy to read can be a frustrating experience for developers. If the code is unclear or convoluted, it becomes challenging to work with, explain to others, and adapt in the future. Therefore, striving to write code that tells a clear and concise story can improve its readability and facilitate collaboration and progress.
 
-Envisioning code as a story can be a useful metaphor for helping to create clean code. If the audience has difficulty reading your story, it will not be a pleasant experience for them. They will not be able to work with it, explain the nuances to others, or adapt it in the future.
-
-So clean code is just simple code. Nothing else. If you repeat yourself, you don't abstract, if your code still stays simple, it doesn't matter.
+Clean code can be summed up as simple code, nothing more. Even if you find yourself repeating certain code segments without abstraction, as long as the code remains straightforward and uncomplicated, it doesn't matter.
 
 # Naming
 
@@ -525,4 +524,3 @@ class User extends Component {
   }
 }
 ```
-
