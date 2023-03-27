@@ -14,6 +14,6 @@ SOURCE:
 - [https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 - [What do we stand for? (Kind-hearted, Humble, Together)](https://www.youtube.com/watch?v=BsGXEiW7D3A)
 
-Software developers have to take empathy very seriously, because when companies want to hire them, they now focus on communication skills. If you’re an amazing programmer but you don’t know how to work in a group, with benevolence, you will not offer psychological safety.
+In today's world, software developers must place significant emphasis on empathy. This is because companies increasingly value strong communication skills when hiring developers. Even if you are an exceptional programmer, lacking the ability to work collaboratively with kindness will prevent you from creating a psychologically safe work environment. Therefore, it is crucial to cultivate communication skills and empathy alongside technical skills to become a well-rounded and valuable developer.
 
 For example, when we see a complicated code to read, to harmonize with this code, you can provide in return a clear and benevolent communication.
