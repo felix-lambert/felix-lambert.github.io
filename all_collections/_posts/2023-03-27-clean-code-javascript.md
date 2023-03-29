@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean code javascript
-date: 2022-28-03 10:18:00
+date: 2023-03-27 10:18:00
 tags: technology
 ---
 
