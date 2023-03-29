@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-02-25 10:18:00
+date: 2023-03-28 10:18:00
 tags: histoire
 ---
 
@@ -989,10 +989,6 @@ La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où
 
 S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains ont été fasciné par eux depuis des milliers d'années, les peignant sur des rochers.
 
-## -4200 ans
-
-L'Egypte connaît une épisode de sécheresse très sévère. Les eaux du Nil ont baissé de façon dramatique. Cette première sécheresse a peut-être provoqué la chute de l'Ancien Empire.
-
 # -4000 ans
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
@@ -1046,13 +1042,15 @@ Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pha
 
 Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.
 
-### -1250 ans
-
 ## -1207 ans
 
 Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".
 
 Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.
+
+## -1200 ans
+
+Fin de l'âge du bronze.
 
 ## -1155 ans
 
@@ -1061,8 +1059,6 @@ Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégi
 # -1000 ans
 
 Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
-
-Fin de l'âge du bronze.
 
 # -900 ans
 
