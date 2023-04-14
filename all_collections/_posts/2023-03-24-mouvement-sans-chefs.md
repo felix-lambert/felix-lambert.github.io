@@ -5,6 +5,8 @@ date: 2023-03-24 10:18:00
 tags: histoire
 ---
 
+
+
 Le plongeon dans ce nouveau monde proposé par la civilisation technologique nous impose de nouvelles histoires. Et ces histoires ne doivent pas avoir comme narration principale un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique en qui l'on doit se soumettre.
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination par un principe simple: faire le travail qui n'a pas encore été fait par un autre.

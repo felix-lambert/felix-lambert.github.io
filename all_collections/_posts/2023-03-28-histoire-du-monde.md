@@ -953,7 +953,19 @@ Fin du dernier âge glaciaire.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/croissantfertile.jpg)</span>
 
-Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture, apprenant à cultiver et à récolter des figues, de l'orge, des pois chiches et des lentilles. En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
+Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture. La domestication du blé est un élément clé de cette transition.
+
+Les premiers agriculteurs sélectionnent les graines des plantes de blé sauvage qui présentent des caractéristiques souhaitables, comme une plus grande taille de grain, une meilleure résistance aux maladies ou une plus grande facilité de récolte. Ils plantent ensuite ces graines pour cultiver de nouvelles plantes, commençant ainsi le processus de domestication. Au fil du temps, ce processus de sélection conduit à des changements génétiques dans les organismes domestiqués, les rendant différents de leurs ancêtres sauvages. Ces changements dans les caractéristiques du blé sont le résultat de la sélection artificielle exercée par les humains lors de la domestication.
+
+Les premiers agriculteurs labourent la terre à l'aide d'outils rudimentaires faits de bois, de pierre ou d'os. Ces outils sont utilisés pour creuser des trous ou des sillons dans le sol, dans lesquels les graines sont plantées. Le labour sert également à retourner et à aérer le sol, favorisant ainsi la croissance des plantes.
+
+Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer que les graines sont suffisamment espacées pour permettre à chaque plante de croître et de se développer.
+
+Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs.
+
+Les agriculteurs doivent désherber et protéger leurs cultures contre les animaux et les insectes nuisibles. Ils peuvent également utiliser des méthodes naturelles de lutte antiparasitaire, comme l'introduction d'insectes prédateurs pour contrôler les populations d'insectes nuisibles.
+
+En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
 
 # -10 000 ans
 
@@ -1086,6 +1098,14 @@ Siddhartha Gautama né dans une famille royale dans la région de Lumbini, qui s
 
 Chute du régime monarchique de Rome. La République Romaine se met en place progressivement.
 
+## -470 ans
+
+Naissance de Socrate.
+
+## -399 ans
+
+En Grèce, des citoyens mettent en accusation Socrate. On l'accuse d'introduire des divinités nouvelles et de corrompre la jeunesse. On le juge et on le condamne à mort.
+
 ## -300 ans
 
 Alexandre le Grand devient roi de Macédoine et commence sa conquête de l'Empire perse, marquant le début de l'ère hellénistique.
@@ -1093,6 +1113,18 @@ Alexandre le Grand devient roi de Macédoine et commence sa conquête de l'Empir
 ## -200 ans
 
 La dynastie Han commencé en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois.
+
+# 9 ans
+
+La bataille de Teutobourg oppose une alliance de tribus germaniques, dirigée par Arminius, à trois légions romaines commandées par Publius Quinctilius Varus. Elle se déroule dans la forêt de Teutobourg, située dans l'actuelle Allemagne.
+
+Arminius, un chef de guerre de la tribu des Chérusques, réussi à rassembler plusieurs tribus germaniques pour affronter les Romains. Il utilise sa connaissance des tactiques romaines et du terrain pour tendre une embuscade aux légions romaines. Les Romains, mal préparés pour cette attaque et les conditions de la forêt, subissent de lourdes pertes. En fin de compte, les trois légions romaines sont anéanties. Environ 20 000 soldats romains sont tués et Varus se suicide.
+
+# 16 ans
+
+Germanicus, un général romain et neveu de l'empereur Tibère, mène une campagne pour venger la défaite romaine lors de la bataille de la forêt de Teutobourg en 9 ap. J.-C. La bataille d'Idistaviso oppose les forces romaines aux tribus germaniques dirigées par Arminius. Les Romains remportent une victoire décisive lors de cette bataille, infligeant de lourdes pertes aux tribus germaniques.
+
+Malgré ce succès, les Romains ne réussissent pas à soumettre complètement les tribus germaniques, et l'empereur Tibère met fin aux campagnes de Germanicus en Germanie, préférant consolider les frontières existantes plutôt que de poursuivre une expansion coûteuse et risquée.
 
 ## 542 ans
 
@@ -1113,6 +1145,10 @@ Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande qu
 # 1204 ans
 
 La ville de Constantinople est pillée et occupée par les croisés.
+
+# 1270 ans
+
+Mort de Saint Louis (Louis IX).
 
 ## 1347 ans
 
@@ -1211,6 +1247,10 @@ La Hollande, la France, l'Angleterre et l'Espagne s'implantent en Amérique. La 
 ## 1602 ans
 
 La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la compagnie néerlandaise des indes occidentales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Elle emploie plus de 1 000 000 de travailleurs partout en Europe ainsi que 4785 navires qui font le commerce de marchandises. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bâteaux. Lorsque les bâteaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.
+
+## 1610 ans
+
+Assassinat d'Henri IV.
 
 ## 1637 ans
 
