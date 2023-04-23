@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-03-28 10:18:00
+date: 2023-04-23 10:18:00
 tags: histoire
 ---
 
@@ -1068,6 +1068,10 @@ Fin de l'âge du bronze.
 
 Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.
 
+## -1155 ans
+
+Mort de Ramsès III.
+
 # -1000 ans
 
 Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
@@ -1129,6 +1133,12 @@ Malgré ce succès, les Romains ne réussissent pas à soumettre complètement l
 ## 542 ans
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
+
+# 941 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VvGlw2HCxbU" frameborder="0" allowfullscreen></iframe></p>
+
+Constantinople, la capitale de l'Empire byzantin, est attaquée par les Rus' de Kiev dirigés par le prince Igor de Kiev.
 
 # 980 ans
 
@@ -1248,6 +1258,10 @@ La Hollande, la France, l'Angleterre et l'Espagne s'implantent en Amérique. La 
 
 La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la compagnie néerlandaise des indes occidentales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Elle emploie plus de 1 000 000 de travailleurs partout en Europe ainsi que 4785 navires qui font le commerce de marchandises. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bâteaux. Lorsque les bâteaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.
 
+## 1607 ans
+
+La colonie anglaise la plus ancienne et la plus célèbre en Amérique est fondée à Jamestown, en Virginie. 7 millions d'amérindiens s'étendent entre les grands lacs et la Floride.
+
 ## 1610 ans
 
 Assassinat d'Henri IV.
@@ -1288,6 +1302,10 @@ Les deux familles se sont mariées à plusieurs reprises au cours des années et
 
 L'Encyclopédie de Diderot et d'Alembert est publiée pour la première fois. Il s'agit d'un ouvrage encyclopédique qui comprend une collection de savoirs sur un large éventail de sujets, allant de la science et de la technique à la philosophie et aux arts. L'Encyclopédie est conçue comme un outil de diffusion du savoir et de la connaissance. Elle est perçue comme un symbole de la Révolution intellectuelle de l'époque.
 
+## 1756 ans
+
+Guerre de 7 ans qui oppose la France à l'Angleterre.
+
 ## 1757 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/mine.jpg)</span>
@@ -1299,6 +1317,14 @@ Dans le nord de la France, première société charbonnière créée par une ass
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LaYSECG6yIo" frameborder="0" allowfullscreen></iframe></p>
 
 Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction. Elles jouent un rôle important dans la révolution industrielle en fournissant une source d'énergie alternative aux moyens traditionnels tels que les chevaux et les eaux courantes.
+
+## 1770 ans
+
+Des soldats britanniques tirent sur une manifestation à Boston. On relève 7 morts.
+
+## 1775 ans
+
+Thomas Payne rédige un article exigeant l'abolition immédiate de l'esclavage dans les colonies.
 
 ## 1776 ans
 
@@ -1445,6 +1471,12 @@ Cession de Hong-Kong. Hong-Kong passe au Royaume-Uni.
 ## 1842 ans
 
 Le trafic d'opium reprend en Chine, contournant tous les interdits.
+
+## 1844 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/o53cy136jTs" frameborder="0" allowfullscreen></iframe></p>
+
+Alexandre Dumas, un écrivain et dramaturge français prolifique, publie deux de ses œuvres les plus célèbres : "Les Trois Mousquetaires" et "Le Comte de Monte-Cristo". Ces deux romans sont publiés sous forme de feuilletons dans des journaux français, ce qui était courant à l'époque.
 
 ## 1845 ans
 
@@ -1642,6 +1674,12 @@ Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 00
 
 Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.
 
+## 1912 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R3XcpqJ8Dbw" frameborder="0" allowfullscreen></iframe></p>
+
+Dans la nuit du 14 au 15 avril 1912, le Titanic heurte un iceberg dans l'Atlantique Nord, provoquant la rupture de sa coque et l'inondation de ses compartiments étanches. En moins de trois heures, le navire sombre, entraînant la mort de plus de 1 500 des 2 224 passagers et membres d'équipage à bord. Le naufrage du Titanic est l'une des plus grandes tragédies maritimes de l'histoire.
+
 ## 1914 ans
 
 Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'Allemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, les États-Unis et d'autres pays d'Europe et d'Amérique du Nord de l'autre.
@@ -1722,17 +1760,43 @@ L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Gue
 
 La Finlande est finalement forcée de céder certains territoires à l'Union soviétique, lorsque les deux pays signent un traité de paix.
 
+Les Brigades Spéciales sont créées par le régime de Vichy, peu après l'installation du gouvernement de Vichy. Sous la direction de la Direction Centrale des Renseignements Généraux (DCRG), elles ont pour mission de lutter contre la Résistance française et de traquer les opposants au régime de Vichy et à l'occupation allemande. Leur création est une conséquence directe de la mise en place du régime de Vichy et de la collaboration avec les forces d'occupation allemandes en France.
+
 ## 1941 ans
 
-Le 7 décembre 1941, l'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port.
+Le 7 décembre 1941, l'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port. L'attaque est dévastatrice pour les États-Unis, qui subi de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués. Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.
 
-L'attaque est dévastatrice pour les États-Unis, qui subi de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués.
+## 1942 ans
 
-Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-i1yoM_ky5E" frameborder="0" allowfullscreen></iframe></p>
+
+Paul Eluard écrit "Liberté", pendant l'occupation allemande de la France lors de la Seconde Guerre mondiale. Ce poème est un symbole de résistance et de défiance face à l'oppression et à la tyrannie. Il exprime l'espoir et la foi dans la liberté, malgré les circonstances sombres de l'époque.
+
+L'opération Barbarossa, nom de code de l'invasion allemande de l'Union soviétique, commence. L'opération Barbarossa est lancée avec environ 3,8 millions de soldats allemands, ce qui en fait la plus grande invasion de l'histoire. L'invasion allemande de l'Union soviétique brise le pacte de non-agression et conduit le PCF (Parti Communiste Français) à adopter une position plus combative envers l'occupant allemand et le gouvernement de Vichy.
+
+Campagne militaire lancée par les forces alliées, principalement les États-Unis et le Royaume-Uni, pour libérer l'Afrique du Nord du contrôle de l'Axe, composé de l'Allemagne nazie et de l'Italie fasciste. Les forces alliées débarquent en Afrique du Nord, notamment à Casablanca au Maroc, à Oran et à Alger en Algérie. Les forces françaises de Vichy en Afrique du Nord résistent initialement aux forces alliées débarquant en Afrique du Nord. Les combats entre les forces alliées et les troupes françaises de Vichy sont brefs mais parfois intenses. Cependant, les Alliés réussissent rapidement à établir des contacts avec des officiers français locaux et à entamer des négociations pour mettre fin aux hostilités. Les forces françaises d'Afrique du Nord cessent alors de résister et rejoignent finalement les Alliés dans la lutte contre l'Axe. Il est important de noter que le ralliement des forces françaises d'Afrique du Nord n'est pas unanime et que certains éléments continuent à soutenir le régime de Vichy. En réponse au débarquement allié en Afrique du Nord, les forces allemandes envahissent et occupent la zone libre française (la partie non occupée de la France).
+
+## 1943 ans
+
+Les allemands capitulent à Stalingrad. Cette capitulation met fin au mythe de l'invincibilité de l'armée allemande.
+
+Laval signe le travail du service obligatoire. Le STO a pour but d'envoyer des travailleurs français en Allemagne afin de combler les pénuries de main-d'œuvre dues à la mobilisation allemande de ses propres citoyens pour l'effort militaire. Beaucoup de jeunes Français refusent de participer au STO et rejoignent les maquis pour échapper à la conscription et lutter contre l'occupant allemand. Les maquis sont actifs dans toute la France, en particulier dans les zones rurales et montagneuses, où le terrain difficile offrent une protection naturelle contre les forces d'occupation. Ils mènent des actions de sabotage, des attaques contre les forces allemandes et de Vichy.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xokPRAHCx8s" frameborder="0" allowfullscreen></iframe></p>
+
+La Milice française est créée par le gouvernement de Vichy, dirigé par le maréchal Philippe Pétain et son Premier ministre, Pierre Laval. La Milice est une organisation paramilitaire destinée à aider les autorités de Vichy et les forces d'occupation allemandes à lutter contre la Résistance française et à maintenir l'ordre en France.
+
+## 1944 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ndQhTOgPpw4" frameborder="0" allowfullscreen></iframe></p>
+
+La première fusée V2 opérationnelle est lancée le 7 septembre 1944, lorsqu'elle est utilisée pour bombarder la région de Paris, en France. Les Alliés n'ont pas d'arme équivalente aux fusées V2 en termes de technologie de missiles balistiques à longue portée.
 
 ## 1945 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/aG8qV0cEtKo" frameborder="0" allowfullscreen></iframe></p>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/zkUbelhnb9o" frameborder="0" allowfullscreen></iframe></p>
 
 La première bombe atomique est larguée sur la ville japonaise d'Hiroshima. Cette bombe a été développée par les États-Unis pendant la Seconde Guerre mondiale dans le cadre du projet Manhattan, qui avait pour objectif de créer une arme nucléaire.
 
@@ -1749,6 +1813,10 @@ Le premier transistor est inventé par John Bardeen, Walter Brattain et William 
 Eugene Houdry invente le convertisseur catalytique. Houdry est un ingénieur chimiste français qui développe ce dispositif pour réduire les émissions de polluants causées par les véhicules à essence. Depuis, il devient un équipement standard sur la plupart des véhicules à essence et diesel dans le monde entier.
 
 Le convertisseur catalytique utilise un catalyseur, généralement du platine, du palladium ou du rhodium, pour convertir ces polluants en substances moins nocives, comme l'eau et le dioxyde de carbone.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/3raimObEqK8" frameborder="0" allowfullscreen></iframe></p>
+
+Adi Dassler fonde officiellement Adidas.
 
 ## 1950 ans
 
@@ -1940,6 +2008,8 @@ J.K. Rowling commence à écrire le premier livre, "Harry Potter à l'école des
 
 ## 1996 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2I0K6kQtx6A" frameborder="0" allowfullscreen></iframe></p>
+
 Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/premiere-machine-google.jpg)</span>
@@ -1960,6 +2030,12 @@ Le concept de PageRank est créé à partir de ce travail. Le PageRank fonctionn
 Avant l'arrivée de Google, la navigation sur le Web est beaucoup plus difficile pour les utilisateurs ordinaires. Il n'y a pas de moteur de recherche centralisé pour trouver facilement l'information souhaitée, et les utilisateurs doivent connaître l'adresse exacte d'un site Web pour y accéder. Les moteurs de recherche existants sont souvent peu efficaces.
 
 Les portails sont populaires à cette époque, ils regroupent des liens vers des sites Web pertinents sur un sujet donné, mais ils sont souvent encombrés et difficiles à naviguer. En raison de ces difficultés, la plupart des gens utilisent Internet principalement pour envoyer des courriers électroniques et pour lire des nouvelles en ligne.
+
+## 1997 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QRTN1i4iC2M" frameborder="0" allowfullscreen></iframe></p>
+
+Netflix est fondé par Reed Hastings et Marc Randolph. À l'origine, l'entreprise offre un service de location de DVD par correspondance. Au fil du temps, Netflix évolue pour devenir un service de streaming en ligne.
 
 ## 1998 ans
 
@@ -1986,6 +2062,12 @@ Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nou
 ## 2005 ans
 
 YouTube est lancé.
+
+## 2006 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/UR9Cc5g-F9c" frameborder="0" allowfullscreen></iframe></p>
+
+Twitter est créé par Jack Dorsey, Biz Stone, Evan Williams et Noah Glass.
 
 ## 2007 ans
 
@@ -2063,7 +2145,7 @@ Le virus est très contagieux et plus mortel que la grippe saisonnière. Les sym
 
 Les mammifères sauvages ne représentent plus aujourd’hui que 4% de la biomasse des mammifères terrestres, les humains et leurs animaux domestiques représentant les 96% restants.
 
-L'Australie est frappé par des feux de forêt dévastateurs qui brûlent pendant des mois et causent la mort de nombreux animaux et la destruction de nombreuses propriétés.
+L'Australie est frappé par des feux de forêt dévastateurs qui brûlent pendant des mois et causent la mort de nombreux animaux.
 
 ## 2022 ans
 
