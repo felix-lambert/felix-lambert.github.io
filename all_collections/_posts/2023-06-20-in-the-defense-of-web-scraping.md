@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In defence of web scraping
-date: 2023-03-24 10:18:00
+date: 2023-06-20 10:18:00
 tags: philosophy
 ---
 
@@ -28,11 +28,9 @@ Some companies might even take legal action against you (there have been numerou
 
 Naturally, if you follow the news, you might think of incidents involving Cambridge Analytica or similar organizations that scrape social media user data and manipulate public opinion through targeted advertisements and the dissemination of fake news.
 
-Today, it is evident that web scraping can be used to sell data to governments, industries, advertising companies, or even to influence election outcomes. Such practices are undoubtedly harmful, as the ultimate goal is control and manipulation, pushing people to buy or vote for someone who has paid for their support. If the sole objective is money, power, and control, the internet will become saturated with advertisements and surveillance. In this scenario, the web loses its meaning, and data is merely a tool for controlling people. Season 3 of Westworld and Episode 1 of Season 3 of Black Mirror provide fitting examples of the consequences we should strive to avoid.
+Today, it is evident that web scraping can be used to sell data to governments, industries, advertising companies, or even to influence election outcomes. Such practices are undoubtedly harmful, as the ultimate goal is control and manipulation, pushing people to buy or vote for someone who has paid for their support. If the sole objective is money and power, the internet will become saturated with advertisements and surveillance.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/YrpK90bHO2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-If the goal is to have a centralized system that monitors everything and data with a single owner, it requires an approach similar to Facebook's, where users provide their data through an authentication system. When the technological architecture is designed in this manner, the data belongs exclusively to the company. By choosing to place all user-collected data behind an authentication system, the decision is made to retain the data rather than share it with others.
+If the goal is to have a centralized system that monitors everything and data with a single owner, you just need to choose to place all user-collected data behind an authentication system.
 
 While these concerns are valid, it doesn't mean that web scraping should be entirely condemned. It might be worthwhile to reevaluate this practice and explore whether its direction can be changed for the better.
 
@@ -44,13 +42,13 @@ To achieve this, we must first revisit the fundamentals and appreciate the incre
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/_mNOXDbXr9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-Essentially, the web consists of interconnected documents (where clicking on a link directs you to another document from a specific computer). These linked documents can be displayed by requesting a specific computer to download them to your browser using an HTTP/HTTPS protocol.
+Essentially, the web consists of interconnected documents (with hyperlinks where clicking on a link directs you to another document from a specific computer). These linked documents can be displayed by requesting a specific computer to download them to your browser using an HTTP/HTTPS protocol.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/http.png)</span>
 
-These computers are referred to as 'servers' because they are set up to listen for and respond to our requests. 'Servers' run a program in the background, awaiting incoming messages, so they can provide the requested document or data.
+These computers are referred to as 'servers' because they are set up to listen for and respond to our requests. 'Servers' run a program in the background, awaiting incoming messages, so they can provide the requested document.
 
-This may be a fundamental definition of what we know as the web. Its tremendous value today lies in the fact that all these documents, originating from various computers, are interconnected (with hyperlinks). Similar to university papers or academic books, they often include source references.
+This may be a fundamental definition of what we know as the web. Its tremendous value today lies in the fact that all these documents, originating from various computers. Similar to university papers or academic books, they often include source references.
 
 It is crucial to emphasize that there is no central super-computer overseeing all these documents. Likewise, there are no super-computers managing all the individual computers. Instead, information is distributed horizontally in a decentralized manner across various computers.
 
@@ -76,9 +74,7 @@ Web scraping is an automated method of gathering data from the internet. When an
 
 One of the co-founders of Google had a vision of downloading all the HTML documents on the web and creating a massive network of nodes based on the links found within each document. To accomplish this, he would need to develop a rule that identifies links within web pages, converts them into nodes, and determines their position within the network.
 
-We can easily see here that Google is today’s most advanced web scraping company in existence. And, if we really want to access it, Google’s web scraping gives us the most amazing access to culture (with a big C) that there is.
-
-It's evident that Google is currently the most advanced web scraping company (using web crawling), and their web scraping technology provides unparalleled access to culture (with a capital C) on the internet.
+We can easily see here that Google is today’s most advanced web scraping company in existence. And, if we really want to access it, Google’s web scraping gives us the most amazing access to culture that there is.
 
 # No Web Scraping, no search engine
 
@@ -112,7 +108,5 @@ In particular, the web is uniquely suited to handle big data, which is essential
   ...
 
 Other suggestions?
-
-Web scraping is useful here because we need classified data to detect something. For example, we can scrap images of skin cancer everywhere on the web and classify to automatically detect it on a random photo. We can scrap images of forest fires so that cameras can recognize a danger automatically.
 
 In summary, Web scraping can give us better access to culture, science, and with better access to culture, science... humans can maybe act in the world with greater attention to important things and/or awareness.
