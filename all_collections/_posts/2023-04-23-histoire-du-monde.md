@@ -1130,6 +1130,10 @@ Germanicus, un général romain et neveu de l'empereur Tibère, mène une campag
 
 Malgré ce succès, les Romains ne réussissent pas à soumettre complètement les tribus germaniques, et l'empereur Tibère met fin aux campagnes de Germanicus en Germanie, préférant consolider les frontières existantes plutôt que de poursuivre une expansion coûteuse et risquée.
 
+## 330 ans
+
+Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de déplacer la capitale de l'Empire romain de Rome à Byzance, une ville déjà existante située à l'intersection de l'Europe et de l'Asie. Constantin Ier renomme la ville en son honneur et la transforme en une nouvelle capitale grandiose, qui devient rapidement le centre politique, économique et culturel de l'Empire romain d'Orient, également connu sous le nom d'Empire byzantin.
+
 ## 542 ans
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
@@ -1152,9 +1156,17 @@ Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher
 
 Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité. Ce sont des caractères en argile et en bois qui sont utilisés.
 
+# 1054 ans
+
+Un schisme religieux, connu sous le nom de "Grand Schisme", se produit entre les Églises d'Orient et d'Occident. Le Grand Schisme conduit à la séparation définitive de la chrétienté en deux branches : l'Église catholique romaine (en Occident) et l'Église orthodoxe (en Orient). Plusieurs facteurs ont contribué au Grand Schisme, notamment des différences culturelles et linguistiques notables. L'Occident parle principalement le latin, tandis que l'Orient parle le grec. Ces différences linguistiques conduisent à des divergences dans l'interprétation des textes religieux et des doctrines théologiques. Depuis le Grand Schisme, l'Église catholique romaine et l'Église orthodoxe évoluent indépendamment l'une de l'autre, bien qu'il y ait des tentatives de réconciliation au fil des siècles. Malgré certaines convergences théologiques et des efforts œcuméniques, le schisme entre les deux Églises persiste jusqu'à aujourd'hui.
+
+# 1202 ans
+
+La quatrième croisade est lancée par le pape Innocent III dans le but de reconquérir Jérusalem, qui est alors sous le contrôle musulman.
+
 # 1204 ans
 
-La ville de Constantinople est pillée et occupée par les croisés.
+La ville de Constantinople est pillée et occupée par les croisés. En raison de diverses circonstances politiques et financières, les croisés se détournent de leur objectif initial et finissent par attaquer Constantinople, une ville chrétienne. Pendant plusieurs jours, ils dévastent la ville, détruisant de nombreux monuments et œuvres d'art, et volant d'innombrables trésors. Beaucoup de ces trésors sont emportés en Occident, notamment à Venise, qui joue un rôle clé dans la direction et le financement de la quatrième croisade.
 
 # 1270 ans
 
@@ -1178,6 +1190,10 @@ La peste noire, également connue sous le nom de peste bubonique, arrive à Flor
 
 La peste est à Moscou.
 
+## 1392
+
+La période Joseon, également appelée dynastie Joseon ou Chosŏn, débute en Corée. Elle est fondée par le général Yi Seong-gye, qui renverse la dynastie Goryeo et devient le premier roi de Joseon sous le nom de Taejo.
+
 ## 1439 ans
 
 Johannes Gutenberg mis au point sa première imprimerie en Allemagne. Les étapes de l'invention sont les suivantes:
@@ -1189,6 +1205,16 @@ Johannes Gutenberg mis au point sa première imprimerie en Allemagne. Les étape
 5 le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier<br/>
 6 le levier est relié à des rouleaux qui pressent sur les caractères mobiles et sur le papier. Ces rouleaux sont ajustables et peuvent être réglés pour produire une pression uniforme sur toute la page<br/>
 7 un rouleau permet de répartir la pression de manière plus uniforme sur toute la page. Si on utilisait un levier seul, la pression serait concentrée sur un seul point, ce qui pourrait endommager les caractères mobiles et le papier.
+
+## 1453 ans
+
+Constantinople, la capitale de l'Empire byzantin, est assiégée et conquise par les forces ottomanes dirigées par le sultan Mehmed II. L'évolution technologique de l'artillerie joue un rôle crucial dans la prise de Constantinople. Les Ottomans, dirigés par le sultan Mehmed utilisent des canons de siège massifs et innovants pour percer les remparts autrefois impénétrables de la ville. Les canons sont capables de tirer sur de longues distances avec une précision étonnante pour l'époque. Ils sont utilisés pour pilonner les murs de la ville pendant plusieurs semaines, créant des brèches qui permettent aux forces ottomanes d'entrer et de capturer Constantinople.
+
+L'utilisation de ces canons massifs et innovants marquent un tournant dans l'histoire de la guerre de siège et démontrent le potentiel des armes à feu et de l'artillerie pour révolutionner les tactiques de combat.
+
+Une fois les remparts de la ville enfoncés et les défenseurs vaincus, les Ottomans entrent dans la ville et commencent à piller, tuer et capturer des habitants. Les soldats ottomans tuent un grand nombre de civils et de défenseurs byzantins lors du saccage, bien que les estimations exactes du nombre de morts varient. Les femmes et les enfants ont souvent été épargnés pour être vendus comme esclaves, tandis que d'autres sont forcés de se convertir à l'islam. De nombreuses églises et bâtiments sont pillés et profanés, y compris la célèbre église Sainte-Sophie, qui est transformée en mosquée.
+
+Cet événement historique marque la fin de l'Empire byzantin et le début de l'Empire ottoman. C'est aussi souvent considérée comme la fin de l'époque médiévale et le début de l'époque moderne en Europe. Elle entraîne également la fragmentation de la chrétienté orthodoxe et la montée en puissance de l'Empire ottoman, qui devient l'une des forces dominantes de la région pendant plusieurs siècles.
 
 ## 1455 ans
 
@@ -1249,6 +1275,10 @@ Il y a à cette époque au Japon une séparation nette entre le paysan et le sam
 Le statut de samouraï est aussi héréditaire et ne peut être acquis qu'en étant né dans une famille de samouraïs. Les paysans, qui n'appartiennent pas à cette classe, ne peuvent donc pas devenir samouraïs, même s'ils le souhaitent.
 
 Cette réforme va structurer la société japonaise pour les siècles à venir.
+
+## 1600 ans
+
+La East India Company, également connue sous le nom de Compagnie anglaise des Indes orientales, est fondée. Elle est créée en Angleterre par un groupe de marchands et d'investisseurs britanniques. L'objectif principal de la compagnie est de tirer profit du commerce lucratif des épices et d'autres marchandises entre l'Europe et les pays d'Asie, notamment l'Inde, la Chine et les régions voisines. Les marchands britanniques sont attirés par le commerce en Asie en raison de la demande croissante pour les épices, les textiles et d'autres marchandises exotiques en Europe.
 
 ## 1601 ans
 
@@ -1416,6 +1446,10 @@ Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fus
 
 Fin des guerres napoléoniennes.
 
+## 1821 ans
+
+Mort de Napoléon.
+
 ## 1825 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4r9cIp9vwCY" frameborder="0" allowfullscreen></iframe></p>
@@ -1435,6 +1469,8 @@ En France, on adopte une loi interdisant la traite négrière et prévoient des 
 ## 1830 ans
 
 Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres. L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.
+
+Les forces françaises prennent la ville d'Alger après quelques semaines de siège, marquant le début de la colonisation française en Algérie.
 
 ## 1837 ans
 
@@ -1668,11 +1704,19 @@ Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 00
 
 <em>"L'homme qui place une pièce ne la fixe pas. L'homme qui place un boulon, ne met pas l'écrou. Et l'homme qui place l'écrou, ne le visse pas!".</em>
 
+## 1904 ans
+
+La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.
+
 # 1909 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bleriotXI.jpg)</span>
 
 Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.
+
+## 1910 ans
+
+La Corée est annexée par l'Empire japonais. Suite à l'annexion, l'empereur Sunjong est contraint d'abdiquer, mettant ainsi fin à la dynastie Joseon. Pendant l'occupation japonaise, les Coréens subissent de nombreuses politiques répressives et discriminatoires de la part du gouvernement colonial japonais. Les Coréens sont forcés d'apprendre et de parler le japonais, leur culture et leurs traditions sont supprimées, et de nombreux Coréens sont exploités pour le travail forcé et les ressources naturelles du pays sont pillées.
 
 ## 1912 ans
 
@@ -1746,9 +1790,19 @@ Crise économique, également connue sous le nom de Grande Dépression. De nombr
 
 Il y a 2 milliards d'homo sapiens sur Terre.
 
+## 1931 ans
+
+Le gouvernement japonais envahi la Mandchourie, une région située dans le nord-est de la Chine. Le Japon, en tant qu'île avec des ressources limitées, cherche à étendre son territoire et à acquérir des ressources naturelles pour soutenir sa croissance économique et industrielle. La Mandchourie est riche en ressources, notamment en charbon, en fer et en terres arables, ce qui la rend très attractive pour le Japon.
+
+L'invasion est aussi déclenchée par une explosion le long de la voie ferrée appartenant au chemin de fer de la Mandchourie du Sud, une entreprise contrôlée par le Japon, près de Mukden (aujourd'hui Shenyang, en Chine). L'armée japonaise accuse rapidement les forces chinoises d'être responsables de l'explosion, bien qu'il soit maintenant largement reconnu que l'incident soit orchestré par des officiers japonais pour fournir un prétexte à l'invasion.
+
 ## 1934 ans
 
 La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.
+
+## 1937 ans
+
+Offensive japonaise contre Shanghai, également connue sous le nom de Bataille de Shanghai. Cette bataille est l'une des premières et des plus longues batailles urbaines de la Seconde Guerre sino-japonaise. Cette offensive s'arrête avec la prise de contrôle de Shanghai par les forces japonaises.
 
 ## 1939 ans
 
@@ -1792,7 +1846,13 @@ La Milice française est créée par le gouvernement de Vichy, dirigé par le ma
 
 La première fusée V2 opérationnelle est lancée le 7 septembre 1944, lorsqu'elle est utilisée pour bombarder la région de Paris, en France. Les Alliés n'ont pas d'arme équivalente aux fusées V2 en termes de technologie de missiles balistiques à longue portée.
 
+Friedrich Hayek, un économiste et philosophe autrichien, publie "La Route de la servitude" (The Road to Serfdom). La thèse principale de ce livre est que toute forme de planification centralisée et de contrôle gouvernemental de l'économie mène à une perte de liberté individuelle et conduit finalement à la tyrannie. Hayek soutient que le libre marché et la concurrence sont essentiels pour préserver la liberté et l'autonomie individuelle. Hayek met aussi en garde contre les dangers du socialisme et des économies planifiées, qui selon lui, entravent provoquent l'émergence de régimes totalitaires.
+
 ## 1945 ans
+
+L'Union soviétique déclare la guerre au Japon. Cette déclaration de guerre intervient après la conférence de Potsdam, au cours de laquelle les Alliés, y compris l'Union soviétique, les États-Unis et le Royaume-Uni, exigent la reddition inconditionnelle du Japon.
+
+L'Union soviétique lance l'opération August Storm, une invasion massive de la Mandchourie (alors sous contrôle japonais), de la Corée, de la Chine du Nord et des îles Kouriles. Les forces soviétiques progressent rapidement et défont les troupes japonaises, contribuant ainsi à la reddition finale du Japon.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/aG8qV0cEtKo" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1802,11 +1862,19 @@ La première bombe atomique est larguée sur la ville japonaise d'Hiroshima. Cet
 
 On estime que la bombe tue environ 140 000 personnes au total, soit immédiatement dans l'explosion ou dans les semaines et les mois suivants en raison des blessures, des brûlures et des maladies liées à l'exposition à la radiation.
 
+Les forces alliées décident de diviser temporairement la péninsule coréenne en deux zones d'occupation, séparées par le 38e parallèle. La zone au nord du 38e parallèle est occupée par l'Union soviétique, tandis que la zone au sud est occupée par les États-Unis.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=x9t9kLNbWJ4" frameborder="0" allowfullscreen></iframe></p>
+
+Invention de L'ENIAC. C'est l'un des premiers ordinateurs électroniques de grande échelle, capable d'être reprogrammé pour résoudre un large éventail de problèmes de calcul.
+
 ## 1947 ans
 
 L'Inde est partitionné en deux pays indépendants, l'Inde et le Pakistan.
 
-Le premier transistor est inventé par John Bardeen, Walter Brattain et William Shockley de Bell Labs.
+Le premier transistor est inventé par John Bardeen, Walter Brattain et William Shockley de Bell Labs. Leur invention marque une avancée majeure dans la technologie des semi-conducteurs et ouvre la voie à la miniaturisation et à l'amélioration des appareils électroniques.
+
+Le transistor remplace les tubes à vide (ou lampes électroniques) qui sont utilisés auparavant dans les appareils électroniques pour amplifier les signaux et effectuer des opérations de commutation. Les transistors offrent de nombreux avantages par rapport aux tubes à vide, tels que leur taille réduite, leur coût inférieur, leur consommation d'énergie plus faible et leur fiabilité accrue.
 
 ## 1949 ans
 
@@ -1824,6 +1892,8 @@ Le concept de flux tendu est développé par l'ingénieur japonais Taiichi Ohno,
 
 Ce concept est adopté par de nombreuses entreprises dans le monde entier et devient un élément clé de l'organisation du travail dans de nombreux secteurs industriels.
 
+La guerre de corée débute, lorsque l'armée nord-coréenne traverse le 38e parallèle et envahi la Corée du Sud.
+
 ## 1951 ans
 
 L'uranium est utilisé pour produire de l'électricité dans une centrale électrique de l'Etat de Pennsylvanie aux États-Unis. Cette centrale, connue sous le nom de "Shippingport Atomic Power Station", est la première centrale nucléaire du monde à être construite pour produire de l'électricité à des fins commerciales. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.
@@ -1837,6 +1907,10 @@ Une période de smog intense s'installe dans la ville de Londres pendant plusieu
 L'événement pousse le gouvernement britannique à adopter des lois plus strictes sur la qualité de l'air et à encourager l'utilisation de sources d'énergie plus propres, comme le gaz naturel et l'électricité.
 
 ## 1953 ans
+
+Mort de Staline.
+
+Fin de la guerre de corée. On estime que la guerre de Corée fait environ 3 millions de morts, dont environ la moitié sont des civils. Les forces militaires de la Corée du Nord, de la Corée du Sud, des États-Unis, de la Chine et d'autres pays des Nations Unies subissent également d'importantes pertes.
 
 Fidel Castro et ses partisans attaquent la caserne Moncada à Santiago de Cuba dans le but de renverser le régime de Batista. L'attaque échoue, et de nombreux participants sont tués ou capturés.
 
@@ -1899,6 +1973,12 @@ Le décollage de la mission Apollo 11 est diffusé en direct par plusieurs chaî
 L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde. En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa, c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.
 
 La financiarisation de l'économie, c'est-à-dire le fait que l'économie devient de plus en plus orientée vers les activités financières et les marchés financiers, est un phénomène qui commence à se développer dans les années 1970 et qui s'accélère au cours des décennies suivantes.
+
+Areva, un groupe industriel français spécialisé dans les énergies nucléaires (devenu Orano en 2018), commence à exploiter les mines d'uranium au Niger. Le Niger est l'un des principaux producteurs d'uranium dans le monde et l'uranium est une ressource stratégique pour la production d'énergie nucléaire.
+
+Areva exploite principalement deux grands gisements d'uranium au Niger : la mine d'Arlit, exploitée par la Société des Mines de l'Aïr (SOMAÏR), et la mine d'Akokan, exploitée par la Compagnie Minière d'Akouta (COMINAK). La SOMAÏR est créée en 1968 et commence l'exploitation en 1971, tandis que la COMINAK a été créée en 1974 et commence l'exploitation en 1978.
+
+Les activités d'extraction d'uranium d'Areva (maintenant Orano) au Niger soulèvent plusieurs questions et préoccupations, notamment en ce qui concerne l'environnement, la santé des travailleurs et des communautés locales, et le partage équitable des revenus entre le Niger et la société française. Au fil des années, des négociations et des révisions de contrats ont lieu pour tenter de répondre à ces préoccupations et de garantir un meilleur équilibre des avantages entre les parties prenantes.
 
 ## 1972 ans
 
@@ -2085,13 +2165,25 @@ Tor est toujours utilisé aujourd'hui et est considéré comme l'un des moyens l
 
 ## 2008 ans
 
+La crise des subprimes débute. Elle est le résultat d'une combinaison de facteurs, dont les principaux sont les suivants :
+
+1 Les banques et les institutions financières accordent des prêts hypothécaires à des emprunteurs présentant un risque de crédit élevé, souvent sans vérifier adéquatement leur capacité de remboursement. Ces prêts à haut risque étaient sont "subprimes".
+2 Les prix de l'immobilier augmentent fortement, alimentant ainsi la demande de prêts hypothécaires. Les investisseurs et les spéculateurs participent à l'augmentation des prix, anticipant des gains rapides grâce à la hausse continue des prix de l'immobilier.
+3 Les prêts hypothécaires subprimes sont regroupés et transformés en produits financiers complexes, appelés titres adossés à des créances hypothécaires (MBS) et obligations adossées à des créances (CDO). Ces produits sont vendus à des investisseurs du monde entier, répartissant ainsi le risque lié à ces prêts sur les marchés financiers internationaux.
+4 Les taux d'intérêt bas encouragent l'endettement et l'investissement dans des actifs risqués, comme les prêts subprimes.
+5 Le manque de régulation adéquate et de surveillance des institutions financières contribue à la prise de risques excessifs et à l'adoption de pratiques de prêt irresponsables.
+
 Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto. Satoshi Nakamoto publie un livre blanc en 2008 décrivant le fonctionnement du Bitcoin et comment il pourrait être utilisé pour créer une monnaie numérique sécurisée et décentralisée.
 
 Un nouveau navigateur, Chrome, très rapide pour l'époque, connaît un énorme succès en très peu de temps.
 
 ## 2009 ans
 
-Satoshi Nakamoto lance le logiciel Bitcoin et commence à émettre des Bitcoins.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-0JyEeH8rVU" frameborder="0" allowfullscreen></iframe></p>
+
+Satoshi Nakamoto lance le logiciel Bitcoin et commence à émettre des Bitcoins. La mise en œuvre initiale de la blockchain est lancée avec la création du premier bloc de la chaîne Bitcoin, appelé bloc de genèse. Ce bloc de genèse du Bitcoin contient une transaction unique qui attribue une récompense de 50 bitcoins à l'adresse de Satoshi Nakamoto. En outre, il contient un message encodé dans le champ "coinbase" de cette transaction. Ce message est un titre d'article du Times daté du 3 janvier 2009 : "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks". Le message fait référence à la crise financière de l'époque et est souvent interprété comme une critique du système financier traditionnel, ainsi qu'une justification de la création d'une monnaie décentralisée comme Bitcoin. Le minage implique la résolution d'un problème mathématique complexe qui nécessite une puissance de calcul considérable. Une fois le problème résolu, le bloc est ajouté à la chaîne et les transactions qu'il contient sont considérées comme validées.
+
+Pour établir le premier bloc de la chaîne Bitcoin, Satoshi Nakamoto effectue un processus appelé minage, tout comme les mineurs de Bitcoin le font aujourd'hui pour les nouveaux blocs.
 
 Identification d'un nouveau virus de la grippe de type H1N1. Le virus H1N1 est toujours présent et il est inclu dans les vaccins contre la grippe chaque année pour se protéger contre l'infection.
 
@@ -2111,6 +2203,10 @@ Identification du syndrome respiratoire du Moyen-Orient (MERS) en Arabie Saoudit
 
 Les manifestations de la révolution du 30 juin en Egypte conduisent à la destitution du président élu Mohamed Morsi.
 
+Effondrement du Rana Plaza au Bangladesh qui tue plus de 1 100 personnes, principalement des ouvriers de l'industrie du vêtement, et en blesse plus de 2 500 autres. Le bâtiment abrite cinq usines de confection qui produisent des vêtements pour plusieurs marques et détaillants internationaux.
+
+La veille de l'effondrement, des fissures dans les murs du bâtiment sont découvertes, et un ingénieur recommande son évacuation. Cependant, les propriétaires des usines et le propriétaire du bâtiment ignorent cet avertissement et contraint les travailleurs à continuer de travailler.
+
 ## 2014 ans
 
 Manifestations pro-démocratie en Hong Kong, connues sous le nom du mouvement Umbrella.
@@ -2126,6 +2222,10 @@ Dieselgate. L'entreprise Volkswagen (VW) installe un logiciel dans certains de s
 Brexit. Le Royaume-Uni vote de quitter l'Union Européenne.
 
 Donald Trump est élu président.
+
+## 2018 ans
+
+Le mouvement des Gilets Jaunes est déclenché par une augmentation prévue des taxes sur les carburants, en particulier le diesel, dans le cadre de la transition énergétique du gouvernement français pour lutter contre le changement climatique. Cependant, le mouvement évolue rapidement pour englober des revendications plus larges concernant les inégalités économiques, le pouvoir d'achat, la justice sociale et la démocratie participative. Le mouvement est aussi caractérisé par son organisation horizontale et décentralisée, sans leader unique ou structure formelle.
 
 ## 2019 ans
 

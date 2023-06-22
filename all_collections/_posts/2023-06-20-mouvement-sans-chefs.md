@@ -1,29 +1,21 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-03-24 10:18:00
+date: 2023-06-24 10:18:00
 tags: histoire
 ---
-
-
 
 Le plongeon dans ce nouveau monde proposé par la civilisation technologique nous impose de nouvelles histoires. Et ces histoires ne doivent pas avoir comme narration principale un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique en qui l'on doit se soumettre.
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination par un principe simple: faire le travail qui n'a pas encore été fait par un autre.
 
-Pour cultiver l'unité au sein d'un groupe, il est nécessaire de pratiquer divers rituels, tels que se dire bonjour, se serrer la main ou préparer un repas ensemble, qui ont pour but de célébrer la vie en soulignant les valeurs communes qui nous lient. C'est un peu comme jouer. Même si on se lave les mains seul par exemple, si on est assez conscient des valeurs qu'il y a autour cette action (les valeurs du confort et de l'hygiène apporté par notre civilisation), on témoigne de notre appartenance à un groupe partageant ces rituels.
+Pour cultiver une certaine coordination au sein d'un groupe, on peut pratiquer divers rituels, tels que se dire bonjour, se serrer la main ou préparer un repas ensemble. Ces méthodes de coordination représentent en réalité une forme d'empathie, une célébration de la vie, en mettant en exergue les valeurs qui nous unissent. C'est un peu comme jouer.
 
 Des individus peuvent également s'assembler autour de valeurs qui ne sont pas faciles à accepter. Quelles sont les valeurs qui rassemblent les gens autour de la télé-poubelle?
 
 "Soyons un peu bête c'est rigolo. Faisons des petites blagues méchantes entre-nous. Célébrons notre appartenance par des rites clairement identifiables (se moquer ou insulter les autres par exemple), par de la stupidité afin que les gens puissent se détendre sans trop se prendre la tête".
 
 Ce collectif parvient à attirer beaucoup de monde. Les individus, en regardant la télé, en en parlant, font vivre en profondeur cette coutume. Ils font perdurer la culture de la télé.
-
-Il est possible qu'il y ait concurrence culturelle, mais faisons peut-être comme les entreprises: ne parlons pas trop de nos concurrents.
-
-Pour résoudre les problèmes globaux, il suffit de mettre en œuvre un nombre suffisant d'actions (qui peuvent potentiellement être quantifiées) orientées vers la résolution de ces problèmes.
-
-Pourquoi nous n'agissons pas dans ce sens aujourd'hui ? Peut-être parce qu'il n'existe pas encore de collectifs assez soudés, qui permettent d'inclure autant de personnes que possible où chacun se sent utile et concerné. Un individu séparé des autres n'a peut-être pas la force qui lui offre un sens pour des actions cohérentes avec une finalité collective clairement définie.
 
 Donc voyons ce qu'on nous propose aujourd'hui comme exemples de collectifs sans chefs... J'énumère intentionnellement des mouvements non simplistes qui ne s'appuient pas sur l'identification claire d'ennemis.
 
@@ -81,19 +73,19 @@ En intégrant des principes éthiques, le capitalisme a le potentiel de renverse
 
 # 8. L'écologie
 
-L'écologie est aussi un mouvement sans chef. Elle ne consiste pas à écouter passivement les experts médiatiques qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire l'avenir et si elles s'avèrent correctes, elles n'aident aucunement à l'action, mais plutôt à une forme de sidération ou de militantisme spectacle.
+L'écologie est aussi un mouvement sans chef. Elle ne consiste pas à écouter passivement les certains experts qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire l'avenir et si elles s'avèrent correctes, elles n'aident aucunement à l'action, mais plutôt à une forme de militantisme spectacle.
 
 L'écologie à sa source, sans aucun dérivé marxiste, nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
 
-Mais croire en des valeurs n'est pas suffisant. Il faut plutôt les faire exister. Si on voyage en jet privé pour nous raconter l'histoire de l'écologie, on accorde en réalité plus d'importance à:
+Mais si on voyage en jet privé pour nous raconter l'histoire de l'écologie, on accorde en réalité plus d'importance à:
 
 l'argent et la réussite économique (prendre un jet privée coûte très cher)<br />
 l'exclusion (seule une extrême petite minorité peut prendre un jet privée)<br />
 un mépris du discours scientifique (ils nous disent que c'est le moyen de transport le plus polluant)<br />
 
-Même si cette personne semble agréable, elle entreprend en réalité une action de sabotage du discours de l'écologie.
+Même si cette personne semble agréable et souriante, une interprétation est de constater une action de sabotage du discours de l'écologie.
 
-Le but n'est pas nécessairement de persuader les gens de croire ces histoires, mais plutôt de les rendre plus concrètes et significatives pour eux en agissant de manière cohérente avec elles. La puissance de l'écologie ne peut que venir de là. Tout ce qui doit être dit sur la destruction des écosystèmes a déjà été dit. D'ailleurs, le but n'est pas forcément de "sauver la planète" mais de participer collectivement à une histoire qui rassemble et soude l'humanité entière à travers une prise de conscience de la vie qui est autour de nous.
+Le but n'est pas nécessairement de persuader les gens de croire ces histoires, mais plutôt de les rendre plus concrètes et significatives pour eux en agissant de manière cohérente avec elles. La puissance de l'écologie ne peut que venir de là. Tout ce qui doit être dit sur la destruction des écosystèmes a déjà été dit. D'ailleurs, le but n'est pas forcément de "sauver la planète" mais de participer collectivement à une histoire qui rassemble l'humanité entière à travers une prise de conscience de la vie qui est autour de nous.
 
 S'il y a quantativement assez de personnes qui cherchent à s'immerger dans le collectif de l'écologie, sans chercher à tout prix la compétition, il peut y avoir un basculement positif, nous menant vers un monde qui ne détruit plus les conditions de subsistance des êtres vivants et favoriser les conditions d'habitabilités de la planète pour tous les animaux.
 
@@ -113,4 +105,4 @@ Même durant la Covid 19, certaines institutions médicales et scientifiques int
 
 En quelques mois, les scientifiques réussissent à développer plusieurs vaccins contre le Covid-19 qui sont approuvés pour une utilisation d'urgence par les autorités sanitaires à travers le monde. Cette collaboration internationale est tout à fait exceptionnelle et inédite. Elle permet de produire des vaccins efficaces en un temps record et de sauver des milliers de vies.
 
-Donc le but de cette culture de l'information horizontale, numérisée, n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt de l'exercer en donnant de la valeur à la qualité de la participation plutôt que la performance individuelle.
+Donc le but de cette culture de l'information horizontale, numérisée, n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt d'apprécier la qualité des contributions plutôt que la performance individuelle.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building trust
-date: 2022-04-13 10:18:00
+date: 2023-06-20 10:18:00
 tags: application
 ---
 
@@ -13,4 +13,4 @@ Promising us something, being coherent with what we say, but not actually realiz
 
 The digital age gives us the possibility to share all our feelings and thoughts with humanity. I think we should celebrate this evolution: people are not insecure to share their ideas and photos or videos to the world, and often for free. So gathering billions of data is not really a problem if in return companies can provide constructive help to all of us.
 
-The problem comes when in exchange a company like facebook uses this data so that they receive money from private companies that try to model us and manipulate us with publicity or by rigging an election. These actions are lowering the global level of trust in the society.
+The problem comes when in exchange a company uses this data so that they receive money from private companies that try to model us and manipulate us with publicity or by rigging an election.
