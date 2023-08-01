@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valeurs et rituels
+title: Explain IA
 date: 2023-07-31 10:18:00
 tags: computer scient
 ---
