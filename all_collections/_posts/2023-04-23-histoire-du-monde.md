@@ -19,13 +19,13 @@ Depuis lors, il s'est étendu et refroidi.
 
 Dans cet univers, il y a 4 forces fondamentales:
 
-1 forces électromagnétiques > peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons dans notre univers, tels que la lumière, le courant électrique et les aimants.
+1 forces électromagnétiques > peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons dans notre univers, tels que la lumière, le courant électrique et les aimants. C'est cette force qui maintient les électrons en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier ensemble pour former des molécules.
 
-2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes que nous observons au quotidien, comme la chute des objets vers le sol et la marée.
+2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes comme la chute des objets vers le sol et la marée.
 
-3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome
+3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome. Permet à certaines particules de changer de type. Par exemple, un neutron (une des particules qui composent le noyau des atomes) peut se transformer en un proton, un électron et une particule appelée antineutrino, grâce à la force faible.
 
-4 forces nucléaires fortes > n'influence que les objets plus petits qu'un atome. Elle est très forte à une distance très courte, mais elle diminue rapidement avec la distance. S'exerce uniquement à l'intérieur des noyaux atomiques. Attire les quarks entre eux par exemple.
+4 forces nucléaires fortes > s'exerce uniquement à l'intérieur des noyaux atomiques. Elle est responsable de la liaison des particules subatomiques appelées quarks pour former des protons et des neutrons, qui sont les composants du noyau des atomes. Elle est également responsable de la liaison des protons et des neutrons ensemble pour former le noyau des atomes. C'est une tâche difficile, car les protons ont tous une charge positive et se repoussent donc mutuellement à cause de la force électromagnétique. C'est là que la force forte entre en jeu : elle est suffisamment puissante pour surmonter la répulsion électromagnétique et maintenir le noyau ensemble.
 
 Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.
 
