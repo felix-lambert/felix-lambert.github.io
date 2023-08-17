@@ -152,3 +152,7 @@ Cette pratique permet de se pacifier soi-même mais aussi, indirectement, les au
 Un chef d'entreprise en paix permet d'amener une bonne énergie pour l'ensemble de ses employés et inversement. Une bonne énergie aidera à être clairvoyant pour trouver les meilleurs actions dans le contexte de l'anthropocène par exemple.
 
 2 choix: est-ce que le bouddhisme doit s'isoler ou rentrer dans la société, avec les autres. Le bouddhisme est un travail collectif. -->
+
+<!-- Apprécier le présent en situant les potentiels de pacification du monde. Ressentir la paix autour de nous. N'est pas une paix intérieure mais dans les objets du monde, les personnes, la nature. Se sentir toujours connecté à cette paix. Cette connexion se fait par une forme d'appréciation profonde du monde extérieur. Si on est calme et en paix on peut transmettre une énergie qui permet de travailler collectivement pour la pacification du monde. Avoir un monde plus en paix donne plus de clairvoyance au niveau des actions.
+
+En aikido on parle d'art de la paix. Lorsqu'on est conscient de la paix autour de nous, on arrive à bien la diriger. -->

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-04-23 10:18:00
+date: 2023-08-15 10:18:00
 tags: histoire
 ---
 
-Une partie a été générée par Chat GPT (3)
+Une partie a été générée par ChatGPT (3 et 4)
 
 # -14 000 000 000 d'années
 
@@ -19,9 +19,9 @@ Depuis lors, il s'est étendu et refroidi.
 
 Dans cet univers, il y a 4 forces fondamentales:
 
-1 forces électromagnétiques > peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons dans notre univers, tels que la lumière, le courant électrique et les aimants. C'est cette force qui maintient les électrons en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier ensemble pour former des molécules.
+1 forces électromagnétiques > peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons, tels que la lumière, le courant électrique et les aimants. C'est cette force qui maintient les électrons en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier ensemble pour former des molécules.
 
-2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes comme la chute des objets vers le sol et la marée.
+2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes comme la chute des objets vers le sol.
 
 3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome. Permet à certaines particules de changer de type. Par exemple, un neutron (une des particules qui composent le noyau des atomes) peut se transformer en un proton, un électron et une particule appelée antineutrino, grâce à la force faible.
 
@@ -63,23 +63,21 @@ L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nua
 
 De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
-Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à dilater l'astre.
+Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.
 
-Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Elles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations ont montré que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.
+Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations montrent que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.
 
-A la fin de leur vie, ces étoiles ont généralement explosé en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.
+A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.
 
 ## -13 500 000 000 d'années
 
-Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III, des minuscules étoiles ultra pauvre en métaux composée presque entièrement de matériaux libérés par le Big Bang, donc avec très peu d'éléments plus lourds que l'hydrogène et l'hélium.
+Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif)</span>
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif)</span>
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif)</span>
-
-Lorsque l'approvisionnement en hydrogène disponible commence à s'épuiser, l'étoile commence à fusionner de l'hélium en atomes de carbone, d'oxygène (appelée communément « dioxygène » par les chimistes), du calcium (que nous avons dans nos os et dans nos dents), de l'azote, du soufre, qui à leur tour peuvent produire des atomes plus lourds, comme du zinc et ainsi de suite, jusqu'au fer (les étoiles ne peuvent pas créer des éléments plus lourds que le fer).
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
 
@@ -89,6 +87,8 @@ La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe l
 
 ## -13 100 000 000 d'années
 
+Au début, une étoile utilise de l'hydrogène pour produire de l'énergie. Quand elle manque d'hydrogène, elle commence à utiliser de l'hélium. En utilisant l'hélium, elle crée d'autres éléments comme le carbone, l'oxygène et le calcium (les mêmes éléments que l'on trouve dans nos corps). Avec le temps, l'étoile peut créer des éléments encore plus lourds jusqu'à ce qu'elle atteigne le fer. Après le fer, l'étoile ne peut plus créer d'autres éléments.
+
 Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. L'oxygène est, en masse, le troisième élément le plus abondant de l'Univers après l'hydrogène et l'hélium.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/supernova.jpg)</span>
@@ -97,7 +97,7 @@ Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premi�
 
 Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.
 
-Il existe en quantité aussi nombreuse que les supernovas, les trois noirs qui permettent de rassembler les étoiles. Les trous noirs sont des objets avec un champ gravitationnel tellement fort que même la lumière est incapable de s'y échapper. Ils peuvent fusionner entre eux et avaler des étoiles. Chaque galaxie gravite autour de trous noirs supermassifs, qui donne les physiognomies des galaxies.
+Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovas. Les trous noirs ont une force qui attire tout, même la lumière. Ils peuvent se combiner entre eux et "manger" des étoiles. Chaque groupe d'étoiles, appelé galaxie, tourne autour d'un gros trou noir, qui donne sa forme à la galaxie.
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif)</span>
 
@@ -113,13 +113,13 @@ Même si notre système solaire n'a pas encore été formé, la situation de l'u
 
 Les interactions entre galaxies sont plus nombreuses, mais les galaxies massives moins nombreuses. Ces dernières étant apparues plus tard des suites des phénomènes de fusion entre galaxies.
 
-Ces étoiles explosent davantage et sont projetées de façon désordonnée et irrégulière dans l'espace. Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers.
+Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers. Ces jets ne proviennent pas de l'intérieur du trou noir lui-même (rien ne peut s'échapper de l'intérieur d'un trou noir), mais plutôt des régions très proches du trou noir où des champs magnétiques intenses et d'autres processus propulsent la matière.
 
 La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (une petite galaxie de seulement 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VE0dyCLTLcQ" frameborder="0" allowfullscreen></iframe></p>
 
-L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est le résultat de l'énergie sombre, une forme d'énergie qui agit comme une force répulsive, repoussant les galaxies les unes des autres.
+L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est le résultat de l'énergie sombre, une forme d'énergie qui agit comme une force répulsive, repoussant les galaxies les unes des autres. Bien que l'effet de l'énergie noire sur l'expansion de l'Univers n'est devenu prédominant que plus tard, sa présence influence déjà la dynamique de l'expansion de l'Univers.
 
 # -11 000 000 000 d'années
 
@@ -145,11 +145,13 @@ Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa
 
 # - 7 000 000 000 d'années
 
-La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée fusionne avec la Voie Lactée et possède un milliard d'étoiles. C'est la plus grande fusion connue de notre galaxie.
+La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée fusionne avec la Voie Lactée et possède un milliard d'étoiles.
 
 # -6 000 000 000 d'années
 
 Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxième plus grande galaxie de notre cluster: le Groupe Local.
+
+L'influence de l'énergie noire sur l'expansion de l'Univers est de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers commence à s'accélérer à cause de l'énergie noire.
 
 # -5 000 000 000 d'années
 
@@ -175,7 +177,7 @@ Dans la zone chaude de notre système solaire, les éléments lourds, plus proch
 
 La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.
 
-Notre système solaire renferme sans doute plusieurs dizaines de planètes. Mais il n'y a pas suffisamment d'espace pour tous ces astres - leurs trajectoires orbitales sont tout sauf stables et il y a de nombreuses collisions. Ils exercent des forces gravitationnelles d'attraction les uns sur les autres, certaines planètes sont brulées par le Soleil, d'autres sont projetées hors du système solaire lors de quasi-collisions et errent maintenant, seuls et sans étoile, dans l'espace. Il n'est donc pas étonnant que tant de planètes errent dans l'espace sans tourner autour d'une étoile.
+Notre système solaire pourrait avoir beaucoup de planètes. Mais toutes ne peuvent pas rester car elles se bousculent et se heurtent. Parfois, elles se rapprochent trop du Soleil et se brûlent, ou elles sont poussées hors du système parce qu'elles sont trop proches d'une autre planète. C'est pourquoi certaines planètes se retrouvent à errer toutes seules dans l'espace, sans étoile autour de laquelle tourner.
 
 ## -4 510 000 000 d'années
 
@@ -197,7 +199,7 @@ La Lune, en rotation, présente toujours la même face à la Terre. Elle a une t
 
 ## -4 300 000 000 d'années
 
-La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. L'atmosphère se transforme en vapeur d'eau, puis en pluie torrentielle qui se prolonge sur des millions d'années. Cette pluie rend possible la création des premiers océans, avec beaucoup de CO2, très acide. C'est un océan d'eau très chaud, fait de CO2. La concentration de CO2 diminue et permet par extension de refroidir la Terre. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
+La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.
 
 Parallèlement, encore grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.
 
@@ -219,11 +221,9 @@ Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est r
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PFNp3hs-MdE" frameborder="0" allowfullscreen></iframe></p>
 
-Il est supposé qu'une activité chimique intense dans un milieu hautement énergétique a alors permis de produire une molécule capable de se reproduire. Ce sont les premières formes de vie qui sont des des organismes microscopiques (microbes).
+Il est supposé qu'une activité chimique intense dans un milieu hautement énergétique permet de produire une molécule capable de se reproduire. Ce sont les premières formes de vie qui sont des organismes microscopiques (microbes). Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau et n'ont pas besoin d'oxygène. Les procaryotes actuels sont les bactéries et les archées.
 
 Une entité est vivante si elle peut en effet se reproduire elle-même, si elle est basée sur l'eau, si elle produit des lipides et des protéines, si son métabolisme est basé sur le carbone, si elle se réplique grâce à des acides nucléiques et si elle possède un système permettant de « lire » des protéines.
-
-Grâce au carbone, une molécule aussi complexe qu'un organisme vivant se forme à l'aide d'une cellule unique. Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau, n'ont pas besoin d'oxygène et ont la capacité à se dupliquer. Les procaryotes actuels sont les bactéries et les archées.
 
 Une composante essentielle d'une entité vivante est de chercher de l'énergie en se nourissant. La vie sexuelle arrivera bien après. Un être qui ne mange pas n'est pas vivant.
 
@@ -237,11 +237,15 @@ Les êtres vivants commencent à se rassembler pour composer des filaments verd�
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
 
-Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse. Cette capacité magique permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène (un gaz sans odeur ni couleur).
+Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse.
+
+Le glucose produit par la photosynthèse peut être stocké sous forme de réserves énergétiques, comme le glycogène, que les cyanobactéries peuvent utiliser lorsqu'elles n'ont pas accès à la lumière ou lorsque les conditions environnementales sont défavorables.
+
+Cette capacité permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène (un gaz sans odeur ni couleur).
 
 ## -2 900 000 000 d'années
 
-L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 %, et le plus ancien âge de glace, avec une température moyenne de 10 degrés, que la Terre commence.
+L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 % avec une température moyenne de 10 degrés.
 
 ## -2 800 000 000 d'années
 
@@ -251,9 +255,7 @@ Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/c4Z3yt6ojHU" frameborder="0" allowfullscreen></iframe></p>
 
-La lave libérée par les volcans commence à refroidir et à créer de petites îles volcaniques. La première ère glaciaire s'achève après 120 millions d'années.
-
-Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
+La lave libérée par les volcans commence à créer de petites îles volcaniques. Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f5mkE_jm-g0" frameborder="0" allowfullscreen></iframe></p>
 
