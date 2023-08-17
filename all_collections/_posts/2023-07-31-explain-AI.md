@@ -2,7 +2,7 @@
 layout: post
 title: Explain IA
 date: 2023-07-31 10:18:00
-tags: computer scient
+tags: computer science
 ---
 
 Embedding > Way of converting something, like a word or an image, into a series of numbers that a computer can understand and work with. This is also called vector. Think of it like turning a word into a coordinate on a map. Each word gets its own unique position, and similar words are placed close together. This allows the computer to understand the relationships between words, like "cat" and "kitten" being similar, so they would be close together on the map. This numerical representation can capture complex relationships between words, such as their meaning, grammar, and context.
