@@ -259,7 +259,7 @@ La lave libérée par les volcans commence à créer de petites îles volcanique
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f5mkE_jm-g0" frameborder="0" allowfullscreen></iframe></p>
 
-Stimulés par l'oxygène, quelques organismes unicellulaires se réunissent et travaillent ensemble pour survivre (connu comme une relation symbiotique). Différentes cellules dans cette communauté décident de se spécialiser dans des tâches diverses. Les participants à ce qui a été une communauté de cellules en roue libre devinrent de plus en plus interdépendants. Chaque membre se concentre uniquement sur un aspect particulier de la vie. Cette communauté devient finalement une organisation unique. Il s'agit du commencement de la vie multicellulaire et des premiers eucaryotes : des organismes dont les chromosomes sont protégés dans un noyau. La plus grande partie des eucaryotes respirent à l'oxygène.
+Grâce à l'oxygène, de petits organismes décident de s'associer pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi que apparaissent les organismes "avancés" avec un noyau dans leurs cellules, appelés eucaryotes. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif)</span>
 
@@ -267,19 +267,15 @@ On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a
 
 ## -2 400 000 000 d'années
 
-Les bactéries (cyanobactéries) qui ont la capacité de produire la photosynthèse continuent à se multiplier et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte du méthane, qui a pour effet de refroidir considérablement la Terre et de tuer une bonne partie de la vie sur Terre. L'oxygène est donc responsable d'une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène) en transformant la Terre en grande boule de neige pendant 200 millions d'années avec une température moyenne de -27 degrés. L'oxygène à ce moment-là représente 1% du gaz dans l'atmosphère, ce qui est suffisant pour avoir tué pratiquement toutes les formes de vie sur Terre. L'oxygène actuel est présent à 21% dans l'atmosphère.
+Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane, refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci. L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie. En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.
 
-Ce gaz, l'oxygène, est très toxique pour la plupart des organismes unicellulaires vivants de la planète. C'est une arme de destruction massive. La vie est presque entièrement détruite par l'oxygène. Mais les microorganismes unicellulaires survivants réussissent à se servir de l'oxygène pour rediriger leur évolution.
-
-L'oxygène (dioxygène O2) est toxique pour les organismes anaérobies, dont font partie les premières formes de vie apparues sur Terre, mais est indispensable à la respiration des organismes aérobies, qui constituent la grande majorité des espèces vivantes actuelles.
+Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie par cet oxygène. Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.
 
 ## -2 100 000 000 d'années
 
-Les volcans réussissent finalement à éjecter suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes qui ont survécu peuvent évoluer très vite dans un monde à la fois chaud, oxygéné à 1 % et avec un tout nouveau gaz, l'ozone. Cette couche d'ozone permet de bloquer les rayons ultraviolets du soleil et donc de protéger la biosphère de ce rayonnement nocif.
+Les volcans éjectent suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes survivants évoluent rapidement dans un monde chaud, avec 1% d'oxygène et un nouveau gaz, l'ozone. Cette couche d'ozone bloque les rayons ultraviolets du soleil, protégeant ainsi la biosphère de ce rayonnement nocif.
 
-En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issue de la photosynthèse forme une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire.
-
-# -2 000 000 000 d'années
+En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issu de la photosynthèse forme une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire.
 
 ## -1 800 000 000 d'années
 
@@ -289,7 +285,7 @@ La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l
 
 ## -1 400 000 000 d'années
 
-Les algues sont les premières plantes à se développer dans les fonds marins.
+Les algues sont les les premiers organismes photosynthétiques à se développer dans les fonds marins.
 
 ## -1 300 000 000 d'années
 
@@ -297,11 +293,11 @@ Des champignons microscopiques sont présents en dehors de l'eau.
 
 ## -1 200 000 000 d'années
 
-Certains organismes eucaryotes peuvent se reproduire, en se mangeant en quelque sorte et donc, de manière un peu mystérieuse, permettant de faire un échange d'ADN ou une réplication d'ADN. Les gènes des deux parents sont mélangés pour créer le plan d'un nouvel individu distinct, différent de l'un ou l'autre des parents. Nous appelons cet échange élégant de matériel génétique "reproduction". La copie par reproduction permet de maintenir la complexité d'une cellule.
+Certains eucaryotes peuvent se reproduire en échangeant ou copiant leur ADN. Cela mélange les gènes de deux parents pour créer un nouvel individu unique. On appelle ça la "reproduction". Cette méthode aide à garder les cellules complexes.
 
-Les cellules eukaryotes commencent donc à se diversifier, sous des formes reconnaissables comme les premiers parents unicellulaires des algues et des champignons
+Les cellules eukaryotes se transforment en différentes formes, comme les ancêtres des algues et des champignons.
 
-Pour la première fois, ils s'aventurent loin de la mer et colonisent des étangs d'eau douce et des ruisseaux à l'intérieur des terres.
+Pour la première fois, ils se déplacent loin de la mer, explorant les étangs d'eau douce et les ruisseaux sur la terre.
 
 # -1 000 000 000 d'années
 
@@ -313,11 +309,9 @@ Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensembl
 
 Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus de 85 degrés.
 
-# -900 000 000 d'années
-
 ## -830 000 000 d'années
 
-Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela libère une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages). Avec une faible quantité de soufre dans l'atmosphère, la Terre peut se refroidir un peu, mais pas très longtemps, parce que ce gaz se transforme en pluies acides. Cependant, si le soufre atteint la stratosphère, il peut modifier de façon radicale le climat de la planète.
+Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela libère une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages).
 
 L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années.
 
@@ -345,15 +339,17 @@ Le début de l'éclatement de Rodinia a des conséquences importantes sur l'évo
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FT54kGWrbJA" frameborder="0" allowfullscreen></iframe></p>
 
-Naissance du premier animal: les éponges de mer. Les éponges sont les premiers organismes multicellulaires à avoir émergé sur Terre, et elles ont probablement été les premiers organismes à coloniser les fonds marins.
+Les éponges de mer apparaissent. Elles sont les premiers êtres multicellulaires et commencent à vivre au fond des mers.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/eponges.jpg)</span>
 
 <span style="display:block;text-align:center">(Eponges de mer)</span>
 
-Bien que les larves d'éponges soient petites et mobiles, les éponges adultes restent au même endroit toute leur vie. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Ils nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Ils se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).
+Bien que les larves d'éponges soient petites et mobiles, les éponges adultes restent au même endroit toute leur vie. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Elles nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Elles se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).
 
 ## -740 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ro-saMXwGww" frameborder="0" allowfullscreen></iframe></p>
 
 Rodinia se casse complètement. Les roches qui composent ce continent sont des roches volcaniques, le basalte, l'un des principaux constituants de la croûte océanique. Elles sont donc à ciel ouvert et sont excellentes pour l'absorption du CO2. En conséquence, une planète se refroidit de plus en plus car les volcans ne sont pas en mesure d'éjecter le CO2 plus rapidement que le basalte ne l'absorbe.
 
@@ -377,7 +373,7 @@ Des plantes autres que les algues voient le jour dans les profondeurs des océan
 
 Les éponges marines permettent quand même aux bactéries qui produisent la photosynthèse de résister, d'évoluer et, par conséquent, de libérer davantage d'oxygène dans les océans. Les bactéries qui produisent la photosynthèse évoluent en plante et libèrent encore plus d'oxygène: les algues. Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).
 
-Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui permet d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes autres que les algues voient le jour dans les profondeurs des océans.
+Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui permet d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes voient le jour dans les profondeurs des océans.
 
 # -600 000 000 d'années
 
@@ -413,7 +409,7 @@ Haikouichthys est l’un des plus anciens poissons connus. Cet animal a une têt
 
 Les trilobites apparaissent. Certains trilobites ont des yeux énormes, tandis que d'autres sont aveugles. Mais ils ont tous un système digestif sophistiqué, des jambes, avec un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et domine les mers cambriennes en se nourissant principalement de vers.
 
-Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier et atteignent une vaste gamme de tailles: la plus petitemesurant quelques millimètres de long, tandis que les plus grands mesuraient plus d'un demi-mètre de long.
+Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier et atteignent une vaste gamme de tailles: la plus petite mesurant quelques millimètres de long, tandis que les plus grands mesuraient plus d'un demi-mètre de long.
 
 ## -505 000 000 d'années
 
@@ -449,7 +445,7 @@ L'explosion cambrienne prend fin et subit une mystérieuse extinction massive. I
 
 Il y a donc trois grands types d'animaux qui peuplent les mers: les mollusques (un peu comme des petits animaux avec une coquille), les anthropodes (un peu comme des insectes), et les vertébrés (les premiers poissons).
 
-Les plantes se diversifient et habitent sur les rochers au bord de la mer. Ces premières plantes sont non-vasculaires, c'est-à-dire qu'elles n'ont, comme les algues, ni racine, ni tige, ni feuille. Elles ne peuvent vivre ailleurs qu'à côté d'une source d'eau.
+Les plantes se diversifient et habitent sur les rochers au bord de la mer. Ces premières plantes sont non-vasculaires, c'est-à-dire qu'elles n'ont ni racine, ni tige, ni feuille. Elles ne peuvent vivre ailleurs qu'à côté d'une source d'eau.
 
 Le niveau d'oxygène est proche du niveau d'aujourd'hui. L'oxygène, avec le mélange de rayonnement solaire, permet de mieux étendre la couche d'ozone, ce qui permet de donner les conditions possibles à la vie sur les continents. Sans couche d'ozone, une vie complexe sur les continents aurait été beaucoup plus compliquée.
 
@@ -499,8 +495,6 @@ Ces nouveaux poissons avec des dents posent d'énormes problèmes aux trilobites
 
 Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. On constate aussi un groupe de poissons qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.
 
-Ce sont les ancètres des tétrapodes (les mammifères, les oiseaux, les reptiles, et les amphibiens (grenouille par exemple) font partie de la lignée des tétrapodes), les premiers animaux vertébrés avec un poumon.
-
 ## -385 000 000 d'années
 
 Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Terre. C'est peut-être la raison pour laquelle il est nécessaire que certains poissons se dotent de poumons, afin de respirer un oxygène plus abondant sur Terre que dans les océans. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres. Elle est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène. Pouvoir respirer de l'air en dehors des océans donne peut-être plus d'énergie à certains poissons afin de pouvoir aller chasser.
@@ -543,7 +537,7 @@ Son milieu de vie est constitué de forêts tropicales, à proximité de rivièr
 
 ## -360 000 000 d'années
 
-On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobites ont traîné sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.
+On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobitent traînent sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.
 
 ## -350 000 000 d'années
 
@@ -583,7 +577,7 @@ Toutefois, une combinaison d'activités volcaniques, provoquant le réchauffemen
 
 La lave des volcans envahit les continents jusqu'au niveau de la taille des Etats-Unis, ce qui transforme l'air, avec de l'acide sulfurique, la couche d'ozone et le climat. La vie devient donc à nouveau très rare au sein des continents et les plus grands reptiles de cette époque disparaissent. La montée de la température fait baisser brutalement le taux d'oxygène dans les océans. Des bulles de gaz de méthane s'échappent de la mer et fait encore plus monter la température. Il fait alors plus de 105 degrés.
 
-La majorité des espèces terrestres ont péri à cause de la chaleur extrême, seules 5% d'entre elles ont survécu en se réfugiant sous terre.
+La majorité des espèces terrestres périssent à cause de la chaleur extrême, seules 5% d'entre elles survivent en se réfugiant sous terre.
 
 ## -252 000 000 d'années
 
@@ -645,13 +639,13 @@ Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui commence 
 
 <span style="display:block;text-align:center">(Pangée)</span>
 
-Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui. En bref, la Terre est tout ce que nous redoutons aujourd'hui.
+Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui.
 
 Au sein de cette fissure, cette division des continents, un nouvel océan apparaît. C'est l'ancètre de l'océan atlantique. Cet océan regorge de poissons, mais, encore une fois, la vie marine commence à diminuer. Des poissons morts et du plancton envahissent les fonds marins. Durant plusieurs millions d'années les rochers vont chauffer ces animaux morts pour les transformer en pétrole.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/h-F27s5Te6I" frameborder="0" allowfullscreen></iframe></p>
 
-Une bonne partie des produits que nous consommons aujourd'hui, sont produits et transformés à partir de ce pétrole.
+Une bonne partie des produits que nous consommons aujourd'hui sont produits et transformés à partir de ce pétrole.
 
 ## -175 000 000 d'années
 
@@ -693,9 +687,11 @@ Les dinausores sont répandus partout sur la planète, même en arctique.
 
 # -68 000 000 d'années
 
-C'est vraiment à la toute fin du règle des dinausores que l'on peut constater le Tyrannosaurus rex traverser les forêts. Cette espèce vit durant 2 millions d'années.
+C'est vraiment à la toute fin du règne des dinausores que l'on peut constater le Tyrannosaurus rex traverser les forêts. Cette espèce vit durant 2 millions d'années.
 
 ## -66 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vwEiiP_m3hM" frameborder="0" allowfullscreen></iframe></p>
 
 L'impact d'un astéroïde met fin brutalement au monde des dinosaures, ainsi qu'aux reptiles marins. Cet astéroide fait presque 10 km de long. Lorsqu'il tombe dans l'océan, crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel presque en feu, chauffant la surface de la planète à plus de 500 degrés. Même plusieurs mois après l'impact, la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts.
 
@@ -741,7 +737,7 @@ Les plus gros mammifères marins voient le jour: les premières baleines.
 
 ## -47 000 000 d'années
 
-Grâce aux mouvements des plaques tectoniques, l'Inde frappe violemment l'Eurasie, et l'himalaya se forme. Ces montagnes dégagent du CO2 de l'air, ce qui a sensiblement refroidi la planète.
+Grâce aux mouvements des plaques tectoniques, l'Inde frappe violemment l'Eurasie, et l'himalaya se forme. Ces montagnes dégagent du CO2 de l'air, ce qui refroidi sensiblement la planète.
 
 Les environnements tropicaux sont donc réduits à l'équateur, et ne sont donc plus répandus sur tous les continents. L'habitat par exemple en Amérique du Nord n'est donc plus propice pour les primates, car plus de forêt tropicale.
 
@@ -763,7 +759,7 @@ Les grands singes sont surtout répartis en Europe.
 
 Le climat est chaud et humide. Les forêts tropicales couvrent de vastes régions de la Terre, abritent une grande variété d'animaux, notamment des chevaux et des éléphants primitifs.
 
-Les mammifères marins tels que les baleines, les phoques et les dauphins évolient et se diversifient. Les primates commencent à se développer et à évoluer en de nombreuses formes différentes, avec certains ancêtres communs de primates qui ont finalement évolué en hominidés, l'ancêtre de l'humanité.
+Les mammifères marins tels que les baleines, les phoques et les dauphins évoluent et se diversifient. Les primates commencent à se développer et à évoluer en de nombreuses formes différentes, avec certains ancêtres communs de primates qui ont finalement évolué en hominidés, l'ancêtre de l'humanité.
 
 ## -20 000 000 d'années
 
@@ -772,6 +768,8 @@ Le climat est légèrement plus frais et sec que pendant les premières période
 Dans les océans, la diversification des mammifères marins a continué, avec des baleines à fanons, des phoques et des dauphins qui évoluent à partir de leurs ancêtres terrestres pour s'adapter à la vie dans l'eau.
 
 ## -7 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/REPkDlRMQNs" frameborder="0" allowfullscreen></iframe></p>
 
 Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement
 transforme lentement les singes en hominidé. Les traits principaux qui distinguent les hominidés d'un grand singe sont les suivants:
@@ -1302,6 +1300,12 @@ Assassinat d'Henri IV.
 
 Au Nord d'Amsterdam, la demande pour des tulipes augmente rapidement, entraînant une hausse des prix qui atteint des niveaux exorbitants. Cependant, cette hausse des prix est principalement due à la spéculation et à l'excitation autour de ces tulipes, et non à une valeur réelle. En effet, il n'y a pas de réelle utilisation pratique pour ces tulipes, qui ne sont cultivées que pour leur beauté ornementale. C'est peut-être la première bulle spéculative de l'histoire.
 
+## 1675 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ilWgr42sdjE" frameborder="0" allowfullscreen></iframe></p>
+
+Baruch Spinoza écrit son œuvre "Éthique". Bien qu'il l'achève en 1675, l'ouvrage ne sera publié qu'après sa mort en 1677, du fait de ses idées considérées comme controversées. Spinoza avance l'idée que Dieu et la Nature (ou l'univers) sont la même chose, ce qui s'oppose à la conception traditionnelle d'un Dieu transcendant. Cette idée est souvent qualifiée de panthéiste.
+
 ## 1685 ans
 
 Colbert, ministre des finances de Louis XIV rédige le Code Noir, réglementant le rapport entre maître et esclave dans les colonies. A l'origine, il a pour but de réaffirmer l'autorité royale face aux colons afin de limiter les exactions sur les esclaves dans un but précis: favoriser la production pour engranger un maximum de bénéfices. Ce Code Noir autorise de fouetter des esclaves avec des cordes et non des batons pour ne pas leur casser les os. Le propriétaire peut les mutiler en cas de fuite. On peut couper une oreille et marquer une épaule au fer rouge. En cas de récidive, on coupe une jambe et on marque l'autre épaule de la même manière. Enfin en cas d'une troisième tentative de fuite, le maître a le droit d'ôter la vie de son esclave.
@@ -1503,6 +1507,8 @@ Le développement de l'industrie ferroviaire nourrit encore plus la demande en c
 Les locomotives à vapeur fonctionnent en brûlant du charbon pour produire de la chaleur, qui est utilisée pour produire de la vapeur d'eau. La vapeur d'eau est envoyée dans les cylindres de la locomotive, où elle actionne les pistons qui entraînent les roues de la locomotive.
 
 ## 1841 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ybUbu-7l0Fc" frameborder="0" allowfullscreen></iframe></p>
 
 Cession de Hong-Kong. Hong-Kong passe au Royaume-Uni.
 
@@ -1792,6 +1798,12 @@ Crise économique, également connue sous le nom de Grande Dépression. De nombr
 
 Il y a 2 milliards d'homo sapiens sur Terre.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/YfG2ajbFknM" frameborder="0" allowfullscreen></iframe></p>
+
+Sous le régime colonial britannique en Inde, la production et la vente du sel sont strictement réglementées, et les Indiens doivent payer une taxe sur le sel. Or le sel est une nécessité de base et est également largement disponible sur les côtes du pays.
+
+Pour protester contre cette taxe injuste et symboliser la résistance à l'oppression britannique, Gandhi et un groupe de partisans entreprennent une marche de 240 miles (environ 390 km) de Sabarmati Ashram à Dandi, une côte sur la mer d'Oman. Cette marche dure du 12 mars au 6 avril 1930.
+
 ## 1931 ans
 
 Le gouvernement japonais envahi la Mandchourie, une région située dans le nord-est de la Chine. Le Japon, en tant qu'île avec des ressources limitées, cherche à étendre son territoire et à acquérir des ressources naturelles pour soutenir sa croissance économique et industrielle. La Mandchourie est riche en ressources, notamment en charbon, en fer et en terres arables, ce qui la rend très attractive pour le Japon.
@@ -1866,7 +1878,7 @@ On estime que la bombe tue environ 140 000 personnes au total, soit immédiateme
 
 Les forces alliées décident de diviser temporairement la péninsule coréenne en deux zones d'occupation, séparées par le 38e parallèle. La zone au nord du 38e parallèle est occupée par l'Union soviétique, tandis que la zone au sud est occupée par les États-Unis.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=x9t9kLNbWJ4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/x9t9kLNbWJ4" frameborder="0" allowfullscreen></iframe></p>
 
 Invention de L'ENIAC. C'est l'un des premiers ordinateurs électroniques de grande échelle, capable d'être reprogrammé pour résoudre un large éventail de problèmes de calcul.
 
