@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-07-31 10:18:00
+date: 2023-08-23 10:18:00
 tags: histoire
 ---
 
-Le plongeon dans ce nouveau monde proposé par la civilisation technologique nous impose de nouvelles histoires. Et ces histoires ne doivent pas avoir comme narration principale un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique en qui l'on doit se soumettre.
+Pour changer les dynamismes du monde actuel, il faut peut-être changer les histoires. Et ces histoires ne doivent pas avoir comme narration principale un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique en qui l'on doit se soumettre.
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination par un principe simple: faire le travail qui n'a pas encore été fait par un autre.
 
-Pour cultiver une certaine coordination au sein d'un groupe, on peut pratiquer divers rituels, tels que se dire bonjour, se serrer la main ou préparer un repas ensemble. Ces méthodes de coordination représentent en réalité une forme d'empathie, une célébration de la vie, en mettant en exergue les valeurs qui nous unissent. C'est un peu comme jouer.
+Pour cultiver une certaine coordination au sein d'un groupe, on peut pratiquer divers rituels, tels que se dire bonjour, se serrer la main ou préparer un repas ensemble. Ces méthodes de coordination représentent en réalité une forme d'empathie, en mettant en exergue les valeurs qui nous unissent. C'est un peu comme jouer.
 
 Des individus peuvent également s'assembler autour de valeurs qui ne sont pas faciles à accepter. Quelles sont les valeurs qui rassemblent les gens autour de la télé-poubelle?
 
@@ -71,13 +71,13 @@ Nouvelles mythologies du monde moderne. Expérimentations de nouveaux narratifs 
 
 # 8. Le capitalisme
 
-Le capitalisme permet aux individus de produire et d'échanger des biens et des services sans contrainte ni intervention d'une autorité dominante. Il offre également la possibilité à chacun de gagner de l'argent en contrepartie du travail accompli, apportant ainsi reconnaissance et fierté. De nos jours, il s'agit de l'un des systèmes les plus efficaces pour exercer une influence douce sur le monde. Ses rituels, axés sur l'argent, l'investissement et le travail, sont devenus des traditions qui favorisent un haut niveau de confiance entre les individus.
+Le capitalisme permet aux individus de produire et d'échanger des biens et des services. Il offre également la possibilité à chacun de gagner de l'argent en contrepartie du travail accompli, apportant ainsi reconnaissance et fierté. De nos jours, il s'agit de l'un des systèmes les plus efficaces pour exercer une influence douce sur le monde. Ses rituels, axés sur l'argent, l'investissement et le travail, sont devenus des traditions qui favorisent un haut niveau de confiance entre les individus.
 
-En intégrant des principes éthiques, le capitalisme a le potentiel de renverser les régimes autoritaires et de favoriser l'échange, l'écoute et la communication, dans le but de renforcer la confiance et de prévenir les conflits.
+Le capitalisme a aussi la possibilité de favoriser l'échange, l'écoute et la communication, dans le but de renforcer la confiance et de prévenir les conflits.
 
 # 7. L'écologie
 
-L'écologie est aussi un mouvement sans chef. Elle ne consiste pas à écouter passivement les certains experts qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire l'avenir et si elles s'avèrent correctes, elles n'aident aucunement à l'action, mais plutôt à une forme de militantisme spectacle.
+L'écologie est aussi un mouvement sans chef. Elle ne consiste pas à écouter passivement certains experts qui nous présentent des données alarmantes et nous donnent l'impression que tout va mal. Ces données sont probablement fausses car elles tentent de prédire l'avenir et si elles s'avèrent correctes, elles n'aident aucunement à l'action, mais plutôt à une forme de militantisme spectacle.
 
 L'écologie à sa source, sans aucun dérivé marxiste, nous propose plutôt de voir un monde entièrement vivant qui n'attend que d'être respecté. Donner de la valeur à la vie, c'est peut-être plus important qu'une attention exclusive du monde économique.
 
@@ -97,7 +97,7 @@ Le jour où tous les citadins d'une ville très concentrée parviendront à ente
 
 # 6. Les technologies numériques (informationnelles)
 
-La culture numérique offre à l'être humain l'opportunité de renouer avec ce qui a contribué à son succès, à savoir une culture de l'entraide. L'Homo Sapiens tient en fait de son adaptation grâce à sa communication et cette communication n'est pas verticale, d'obéissance, mais de connaissance, d'aide, pour trouver des solutions, ensemble.
+La culture numérique permet de renouer Homo Sapiens avec ce qui a contribué à son succès, à savoir une culture de l'entraide.
 
 Cette culture vise à promouvoir un capitalisme plus solidaire en encourageant les communications horizontales avec les clients, plutôt que des newsletters "no-reply" (non réponses).
 
