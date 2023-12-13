@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-08-15 10:18:00
+date: 2023-12-11 10:18:00
 tags: histoire
 ---
 
@@ -125,7 +125,7 @@ L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est l
 
 Les galaxies sont beaucoup plus proches les unes des autres qu'elles ne le sont aujourd'hui.
 
-Le taux net de formation d'étoiles a probablement atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu.
+Le taux net de formation d'étoiles a probablement atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu. C'est une période connue sous le nom d'"époque cosmique de formation maximale des étoiles". Selon certaines estimations basées sur des observations de galaxies lointaines, le taux de formation stellaire à cette époque est en effet jusqu'à 30 fois plus élevé qu'aujourd'hui.
 
 # -10 000 000 000 d'années
 
@@ -154,6 +154,8 @@ Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxi
 L'influence de l'énergie noire sur l'expansion de l'Univers est de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers commence à s'accélérer à cause de l'énergie noire.
 
 # -5 000 000 000 d'années
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Se8q3FYGMmM" frameborder="0" allowfullscreen></iframe></p>
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/groupelocal.png)</span>
 
@@ -863,11 +865,29 @@ Les hominidés commencent à utiliser des abris et des grottes pour se protéger
 
 # - 450 000 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
+
 Début des hommes de Néandertal. Ils peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).
 
 Le Néandertal court très vite mais est possiblement moins endurant que Homo Sapiens.
 
 # - 400 000 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f2abFC74BiE" frameborder="0" allowfullscreen></iframe></p>
+
+Les hommes de Néandertal fabriquent des pierres pointus en utilisant la méthode Levallois. La méthode Levallois est une technique de débitage spécifique, utilisée pour tailler des pierres (souvent du silex) afin de produire des éclats prévisibles avec des bords tranchants. Cette technique est nommée d'après le site de Levallois-Perret, près de Paris, où des exemples typiques ont été trouvés.
+
+Voici comment la méthode Levallois est généralement appliquée:
+
+    Préparation du noyau: Avant de pouvoir extraire un éclat, le noyau de pierre (la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé. Cela implique souvent d'enlever la croûte extérieure de la pierre et de former le noyau dans une forme convexe spécifique.
+
+    Création d'une plate-forme: Une fois le noyau préparé, une plate-forme de percussion est créée. C'est à partir de cette plate-forme que l'éclat sera retiré.
+
+    Extraction de l'éclat: En utilisant un percuteur (souvent un autre morceau de pierre), l'artisan frappe la plate-forme de percussion avec une force et un angle précis. Si tout est fait correctement, un éclat de forme prévisible est retiré du noyau.
+
+    Réutilisation: Le noyau peut ensuite être retaillé et préparé pour retirer d'autres éclats à l'avenir.
+
+Les éclats Levallois tranchants peuvent être utilisés comme couteaux pour découper la viande. Une arme ou un outil bien conçu et tranchant augmente les chances de réussite à la chasse et facilite le traitement des animaux abattus.
 
 Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec la cuisine en effet on peut plus facilement mastiquer et digérer. Cuisiner est en quelque sorte le démarrage du process de digestion, avant même de mettre la nourriture dans son corps. Cuisiner permet aussi de tuer les poisons et les pathogènes.
 
@@ -929,6 +949,10 @@ De plus, depuis l'arrivée d'Homo Sapiens il existe une concurrence plus forte p
 
 Il est peut-être utile de mentionner que cette fin est violente car on retrouve des traces de cannibalisme entre différentes tribus de Néandertaliens, probablement, encore une fois, à cause de ce manque de nourriture.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
+
+Création de la Vénus de Hohle Fels, l'une des plus anciennes œuvres d'art figuratif du monde. La figurine est sculptée dans de l'ivoire de mammouth et mesure environ 6 cm de haut. Elle représente une femme aux formes voluptueuses, avec de gros seins, des hanches proéminentes et une forte détermination des parties génitales.
+
 Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui existe. Il commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
 
 Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
@@ -936,6 +960,26 @@ Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PvyiZKc0Iew" frameborder="0" allowfullscreen></iframe></p>
 
 Les premières représentations connues de chevaux sont trouvées dans des grottes en Europe occidentale. Les peintures et les gravures représentent des chevaux réalistes et stylisés, mais il n'est pas clair si ces représentations ont une signification symbolique ou rituelle.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7lTJT8v4u90" frameborder="0" allowfullscreen></iframe></p>
+
+Invention de la technologie de la lame. La technologie de la lame implique le détachement de longs éclats fins et rectilignes à partir d'un noyau préparé. Ces lames sont ensuite souvent retouchées pour créer divers outils, tels que des couteaux, des pointes et des grattoirs. En raison de leur forme allongée, les lames offrent un tranchant plus long que les éclats typiques, ce qui est utile pour de nombreuses tâches.
+
+Voici un aperçu simplifié de la manière dont cela est généralement accompli:
+
+Sélection du noyau: Les artisans préhistoriques commencent par choisir une pierre de bonne qualité, souvent du silex ou d'autres matières similaires, qui se prêtent bien au débitage. Le but est d'obtenir un noyau dont la surface et la forme permet le détachement répété d'éclats longs et minces.
+
+Une zone spécifique, appelée plate-forme de percussion, est préparée sur le noyau. Cette plate-forme est le point d'impact où l'artisan frappe pour détacher la lame. Si la préparation est bien faite et que la frappe est correctement exécutée, cela résulte en un éclat long et mince, caractéristique d'une lame.
+
+Après le détachement d'une lame, le noyau est souvent retaillé ou préparé à nouveau pour permettre le détachement d'autres lames. Un bon artisan pout extraire plusieurs lames d'un seul noyau, maximisant ainsi l'utilisation de la matière première.
+
+## -21 000 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QKpcGQMin5M" frameborder="0" allowfullscreen></iframe></p>
+
+La grotte de Lascaux est le théâtre d'une intense activité artistique. Les parois de la grotte sont ornées de peintures et de gravures durant cette période, faisant de Lascaux l'un des exemples les plus extraordinaires d'art pariétal préhistorique au monde. Les œuvres d'art de Lascaux représentent principalement des animaux, tels que des taureaux, des chevaux, des cerfs et des ibex. Il existe également des signes abstraits et des motifs géométriques. Les techniques artistiques employées sont avancées pour l'époque, avec l'utilisation de pigments naturels, d'ombres et de perspectives pour donner du volume et du mouvement aux créatures représentées.
 
 ## -20 000 ans
 
@@ -1018,6 +1062,8 @@ Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
+## -2200
+
 Début de l'âge du bronze. Le bronze est un alliage de cuivre et d'étain. Le bronze rend plus robuste les outils, les armes et les armures.
 
 ## -2000 ans
@@ -1025,6 +1071,8 @@ Début de l'âge du bronze. Le bronze est un alliage de cuivre et d'étain. Le b
 De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
 
 ## -1800 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kfuY87Cfgyw" frameborder="0" allowfullscreen></iframe></p>
 
 Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
 
@@ -1114,9 +1162,17 @@ En Grèce, des citoyens mettent en accusation Socrate. On l'accuse d'introduire 
 
 Alexandre le Grand devient roi de Macédoine et commence sa conquête de l'Empire perse, marquant le début de l'ère hellénistique.
 
+## -218 ans
+
+Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée, y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes, un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes. Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté. Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles, remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes, où il inflige à Rome une de ses plus grandes défaites.
+
 ## -200 ans
 
-La dynastie Han commencé en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois.
+La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois.
+
+## -58 ans
+
+La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette série de campagnes militaires est conduite par les armées romaines contre plusieurs tribus gauloises. César, alors proconsul de la Gaule Transalpine et de l'Illyrie, étend son commandement à la Gaule Cisalpine et entreprend la conquête de la Gaule, qui couvre ce qui est aujourd'hui la France, la Belgique, la Suisse et des parties de l'Italie du Nord, des Pays-Bas, et de l'Allemagne à l'ouest du Rhin. La guerre se poursuit jusqu'en 50 av. J.-C., se terminant avec la victoire romaine et l'annexion complète de la région à la République romaine.
 
 # 9 ans
 
@@ -1160,6 +1216,18 @@ Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande qu
 
 Un schisme religieux, connu sous le nom de "Grand Schisme", se produit entre les Églises d'Orient et d'Occident. Le Grand Schisme conduit à la séparation définitive de la chrétienté en deux branches : l'Église catholique romaine (en Occident) et l'Église orthodoxe (en Orient). Plusieurs facteurs ont contribué au Grand Schisme, notamment des différences culturelles et linguistiques notables. L'Occident parle principalement le latin, tandis que l'Orient parle le grec. Ces différences linguistiques conduisent à des divergences dans l'interprétation des textes religieux et des doctrines théologiques. Depuis le Grand Schisme, l'Église catholique romaine et l'Église orthodoxe évoluent indépendamment l'une de l'autre, bien qu'il y ait des tentatives de réconciliation au fil des siècles. Malgré certaines convergences théologiques et des efforts œcuméniques, le schisme entre les deux Églises persiste jusqu'à aujourd'hui.
 
+# 1066 ans
+
+Joseph ibn Naghrela, le vizir juif de Grenade et fils de Samuel HaNagid, un célèbre poète et chef militaire, est une figure centrale de la communauté juive. Des rumeurs et des accusations contre Joseph et la communauté juive alimentent un climat de méfiance et de ressentiment parmi la population musulmane de la ville.
+
+Une foule en colère attaque le palais royal, tuant Joseph ibn Naghrela et crucifiant son corps. Le massacre s'étend à la ville, où des milliers de Juifs sont tués (les estimations varient, mais certains rapports parlent de plus de 4000 victimes). Cet événement est considéré comme l'un des premiers pogroms en Europe.
+
+# 1144 ans
+
+Après la mort mystérieuse d'un garçon chrétien nommé William, un moine local nommé Thomas de Monmouth écrit un récit détaillé accusant la communauté juive de Norwich d'avoir rituellement assassiné l'enfant. Bien qu'il n'y ait aucune preuve crédible pour étayer ces allégations, l'histoire de Thomas conduit à la propagation de l'accusation de meurtre rituel à travers l'Europe.
+
+Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans diverses parties de l'Europe, menant souvent à des persécutions et des violences contre les communautés juives. Ces accusations sont entièrement infondées et reflètent les préjugés et la méfiance profonds envers les Juifs qui prévalent dans la société médiévale chrétienne.
+
 # 1202 ans
 
 La quatrième croisade est lancée par le pape Innocent III dans le but de reconquérir Jérusalem, qui est alors sous le contrôle musulman.
@@ -1172,13 +1240,17 @@ La ville de Constantinople est pillée et occupée par les croisés. En raison d
 
 Mort de Saint Louis (Louis IX).
 
+# 1279 ans
+
+Les forces Song résistantes sont défaites par les Mongols à la bataille de Yamen. C'est à cette bataille que le dernier empereur Song, l'empereur Bing, péri, mettant fin à la dynastie Song.
+
 ## 1347 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/fbKCnLt1o-I" frameborder="0" allowfullscreen></iframe></p>
 
 La peste débarque une deuxième fois en Europe. Elle arrive d'Asie et va tuer presque 1/3 de la population européenne et presque la moitié de la population urbaine européenne.
 
 Les citadins terrifiés fuient les villes et vont contaminer les campagnes.
-
-Les médecins de cette époque ne vont pas que se contenter de regarder les étoiles. Ils vont observer les phénomènes et tenter de comprendre comment le mal se propage.
 
 Il y a un débat entre les médecins: le mal se propage par l'air ou par le contact. Même s'ils n'ont aucun moyen scientifique pour démontrer cette hypothèse, les médecins comprennent qu'il faut empêcher la circulation des marchandises et des humains.
 
@@ -1189,6 +1261,12 @@ La peste noire, également connue sous le nom de peste bubonique, arrive à Flor
 ## 1353 ans
 
 La peste est à Moscou.
+
+## 1388 ans
+
+Le vagabondage est considéré comme un délit en Angleterre. La première loi significative à cet égard est est introduite en réponse à la pénurie de main-d'œuvre et à l'inflation des salaires après la peste noire, qui a décimé la population.
+
+La loi vise à réguler le travail et à contrôler les déplacements des travailleurs. Elle exige des gens sans terre ou sans emploi qu'ils restent dans leur lieu de naissance ou là où ils ont vécu ces trois dernières années, sauf s'ils peuvent démontrer qu'ils sont en recherche active d'emploi. Ceux qui ne se conforment pas sont considérés comme des vagabonds et peuvent être punis.
 
 ## 1392
 
@@ -1231,6 +1309,8 @@ Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de V
 ## 1492 ans
 
 En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, le dernière bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista coïncide également avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cE0Khx9CgHQ" frameborder="0" allowfullscreen></iframe></p>
 
 Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Collomb débarque aux Antilles pour le compte de l'Espagne. Il découvre aussi Cuba.
 
@@ -1594,6 +1674,10 @@ Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politi
 
 Construction d'un chemin de fer aux Etats-Unis transcontinentales.
 
+# 1868 ans
+
+Ouverture du Japon à l'Occident, entraînant la dissolution progressive de la classe des samouraïs. Les réformes de l'ère Meiji abolissent les privilèges féodaux et conduisent à la modernisation de l'armée japonaise, rendant le rôle traditionnel des samouraïs obsolète.
+
 # 1898 ans
 
 Les Etats-Unis déclarent la guerre à l'Espagne qui abouti à la défaite de l'Espagne et à la perte de ses dernières colonies, dont Cuba, Porto Rico, Guam et les Philippines.
@@ -1607,6 +1691,12 @@ Début de la sidérurgie aux Etats-Unis. La sidérurgie est l'industrie qui prod
 La sidérurgie utilise des fours pour produire de l'acier à partir du minerai de fer. Le minerai de fer est extrait des mines et transporté aux aciéries pour être transformé en acier puis il est chauffé avec du coke, qui est un combustible obtenu à partir de charbon de bois, pour produire du fer fondu. Le fer fondu est alors versé dans des moules pour produire des lingots d'acier.
 
 Une fois que l'acier est produit, il peut être utilisé pour fabriquer divers produits tels que des barres, des tubes et des tôles.
+
+Guerre franco-prussienne. Cette guerre oppose le Second Empire français, sous Napoléon III, et les États de la Confédération de l'Allemagne du Nord dirigée par le royaume de Prusse sous la direction d'Otto von Bismarck.
+
+## 1871 ans
+
+Défaite significative de la France, marquée par la capture de Napoléon III et la chute de son empire. La défaite de la France dans cette guerre conduit à la proclamation de l'Empire allemand en janvier 1871 dans la Galerie des Glaces du château de Versailles, un acte symbolique marquant l'unification de l'Allemagne sous la Prusse. La France perd l'Alsace-Lorraine.
 
 ## 1873 ans
 
@@ -1810,6 +1900,10 @@ Le gouvernement japonais envahi la Mandchourie, une région située dans le nord
 
 L'invasion est aussi déclenchée par une explosion le long de la voie ferrée appartenant au chemin de fer de la Mandchourie du Sud, une entreprise contrôlée par le Japon, près de Mukden (aujourd'hui Shenyang, en Chine). L'armée japonaise accuse rapidement les forces chinoises d'être responsables de l'explosion, bien qu'il soit maintenant largement reconnu que l'incident soit orchestré par des officiers japonais pour fournir un prétexte à l'invasion.
 
+## 1933 ans
+
+Le gouvernement nazi met en place des politiques et des accords, tels que l'Accord Haavara de 1933, pour faciliter le départ des Juifs d'Allemagne, en particulier vers la région de la Palestine, sous mandat Britannique.
+
 ## 1934 ans
 
 La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.
@@ -1843,6 +1937,8 @@ Paul Eluard écrit "Liberté", pendant l'occupation allemande de la France lors 
 L'opération Barbarossa, nom de code de l'invasion allemande de l'Union soviétique, commence. L'opération Barbarossa est lancée avec environ 3,8 millions de soldats allemands, ce qui en fait la plus grande invasion de l'histoire. L'invasion allemande de l'Union soviétique brise le pacte de non-agression et conduit le PCF (Parti Communiste Français) à adopter une position plus combative envers l'occupant allemand et le gouvernement de Vichy.
 
 Campagne militaire lancée par les forces alliées, principalement les États-Unis et le Royaume-Uni, pour libérer l'Afrique du Nord du contrôle de l'Axe, composé de l'Allemagne nazie et de l'Italie fasciste. Les forces alliées débarquent en Afrique du Nord, notamment à Casablanca au Maroc, à Oran et à Alger en Algérie. Les forces françaises de Vichy en Afrique du Nord résistent initialement aux forces alliées débarquant en Afrique du Nord. Les combats entre les forces alliées et les troupes françaises de Vichy sont brefs mais parfois intenses. Cependant, les Alliés réussissent rapidement à établir des contacts avec des officiers français locaux et à entamer des négociations pour mettre fin aux hostilités. Les forces françaises d'Afrique du Nord cessent alors de résister et rejoignent finalement les Alliés dans la lutte contre l'Axe. Il est important de noter que le ralliement des forces françaises d'Afrique du Nord n'est pas unanime et que certains éléments continuent à soutenir le régime de Vichy. En réponse au débarquement allié en Afrique du Nord, les forces allemandes envahissent et occupent la zone libre française (la partie non occupée de la France).
+
+Rafle du Vélodrome d'Hiver, souvent abrégée en Rafle du Vel' d'Hiv. Orchestrée par les autorités françaises sous l'occupation allemande, cette rafle abouti à l'arrestation de plus de 13 000 Juifs, dont de nombreux enfants. Les personnes arrêtées sont détenues au Vélodrome d'Hiver, un stade de cyclisme à Paris, avant d'être déportées vers des camps de concentration et d'extermination nazis. La rafle du Vel' d'Hiv devient un symbole poignant de la collaboration du régime de Vichy avec les nazis et de la persécution des Juifs en France.
 
 ## 1943 ans
 
@@ -1890,6 +1986,10 @@ Le premier transistor est inventé par John Bardeen, Walter Brattain et William 
 
 Le transistor remplace les tubes à vide (ou lampes électroniques) qui sont utilisés auparavant dans les appareils électroniques pour amplifier les signaux et effectuer des opérations de commutation. Les transistors offrent de nombreux avantages par rapport aux tubes à vide, tels que leur taille réduite, leur coût inférieur, leur consommation d'énergie plus faible et leur fiabilité accrue.
 
+## 1948 ans
+
+Établissement de l'État d'Israël. L'hébreu moderne est déclaré l'une des langues officielles de l'État nouvellement formé d'Israël, consolidant ainsi sa renaissance en tant que langue vivante et en évolution.
+
 ## 1949 ans
 
 Eugene Houdry invente le convertisseur catalytique. Houdry est un ingénieur chimiste français qui développe ce dispositif pour réduire les émissions de polluants causées par les véhicules à essence. Depuis, il devient un équipement standard sur la plupart des véhicules à essence et diesel dans le monde entier.
@@ -1932,6 +2032,10 @@ Fidel Castro et ses partisans attaquent la caserne Moncada à Santiago de Cuba d
 
 Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/p4C6oBdW1kM" frameborder="0" allowfullscreen></iframe></p>
+
+Apparition de Godzilla à l'écran.
+
 ## 1955 ans
 
 Castro est libéré grâce à une amnistie. Il part en exil au Mexique avec son frère Raúl et d'autres partisans. Là, ils rencontrent Ernesto "Che" Guevara, un médecin argentin et révolutionnaire marxiste qui devient un membre clé du mouvement. Ensemble, ils planifient leur retour à Cuba pour renverser Batista.
@@ -1950,6 +2054,10 @@ Batista fuit Cuba pour la République dominicaine, et les forces rebelles prenne
 
 Le chauffage central devient de plus en plus répandu dans les nouvelles constructions résidentielles, et de nombreux foyers commencent à installer des systèmes de chauffage central dans leurs maisons existantes.
 
+## 1961 ans
+
+Conception de l'ordinateur B5000. Contrairement à beaucoup d'autres ordinateurs de l'époque, qui sont conçus principalement pour exécuter du code en langage machine ou en assembleur, le B5000 est conçu pour exécuter efficacement des langages de haut niveau. Il est particulièrement optimisé pour le langage ALGOL 60, un prédécesseur de nombreux langages de programmation modernes.
+
 ## 1962 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/gS6o_QNxc6k" frameborder="0" allowfullscreen></iframe></p>
@@ -1958,9 +2066,19 @@ Rachel Carson publie "Printemps silencieux". Le livre dénonce les effets néfas
 
 Le livre a un impact majeur sur la prise de conscience du public concernant les dangers des produits chimiques et inspire des mouvements de protestation contre l'utilisation abusive de pesticides et d'autres produits chimiques dans l'agriculture et l'industrie.
 
+## 1964 ans
+
+L'un des premiers systèmes qui peut être qualifié de base de données informatisée est le "Integrated Data Store" (IDS), développé par Charles Bachman chez General Electric. IDS est un système de gestion de base de données hiérarchique, ce qui signifie que les données sont organisées en une structure d'arbre avec des "parents" et des "enfants". Cette structure est assez rigide, mais elle représente une avancée significative dans la manière dont les données peuvent être stockées et récupérées de manière efficace.
+
+Les premières bases de données sont principalement utilisées par de grandes entreprises et institutions gouvernementales pour des applications telles que la gestion des comptes clients, les inventaires, ou les systèmes de réservation. Elles fonctionnent sur de grands ordinateurs centraux et sont souvent accessibles via des terminaux connectés à ces ordinateurs centraux.
+
 ## 1967 ans
 
 Publication du roman Cent Ans de solitude de Gabriel García Márquez.
+
+## 1968 ans
+
+Massacre de My Lai pendant la guerre du Vietnam. Des soldats américains tuent entre 347 et 504 civils vietnamiens non armés dans le village de My Lai. Les victimes sont majoritairement des femmes, des enfants et des personnes âgées. L'événement a mis en lumière les atrocités commises en temps de guerre.
 
 ## 1969 ans
 
@@ -2016,6 +2134,8 @@ Il y a 4 milliards d'homo sapiens sur Terre.
 
 L'avortement est dépénalisé en France. Cette loi est une étape majeure dans la reconnaissance du droit des femmes à disposer de leur corps et met fin à la criminalisation de l'avortement.
 
+Fondation de microsoft. Microsoft vise à exploiter le potentiel naissant des ordinateurs personnels en fournissant des logiciels essentiels pour les rendre plus accessibles et utiles à un public plus large.
+
 ## 1976 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XImzZe5qUTk" frameborder="0" allowfullscreen></iframe></p>
@@ -2046,6 +2166,8 @@ VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calc
 
 Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.
 
+Chute du régime du Shah Mohammad Reza Pahlavi et à l'établissement de la République islamique d'Iran sous la direction de l'Ayatollah Khomeini.
+
 ## 1985 ans
 
 Des scientifiques britanniques publient un rapport qui attire l'attention du public sur la gravité du problème de la couche d'ozone et son impact potentiel sur la santé humaine et l'environnement. Le rapport montre que la diminution de la couche d'ozone est causé par les émissions de produits chimiques tels que les chlorofluorocarbones (CFC) utilisés dans les réfrigérateurs, les climatiseurs, les aérosols, etc.
@@ -2070,6 +2192,8 @@ Elinor Ostrom publie "Governing the commons". Elle s'intéresse aux systèmes de
 8 Les règles de gestion de la ressource sont adaptées à des contextes locaux et historiques spécifiques
 
 Selon Ostrom, lorsque ces principes sont respectés, les communautés sont capables de gérer efficacement les ressources naturelles communes de manière durable.
+
+L'Irak, sous la direction de Saddam Hussein, envahit et annexe le Koweït voisin.
 
 ## 1991 ans
 
@@ -2143,6 +2267,8 @@ Le département de la Justice des États-Unis intente une action en justice cont
 
 Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de gestion de contenu en ligne qui permet à n'importe qui de créer et de modifier des articles encyclopédiques. Ils lancent le projet avec un petit nombre d'articles, et ils encouragent les bénévoles à contribuer au projet en ajoutant et en mettant à jour des articles.
 
+Les États-Unis sont attaqués dans un acte de terrorisme coordonné d'une ampleur sans précédent. Deux avions de ligne, détournés par des membres d'Al-Qaïda, s'écrasent dans les tours jumelles du World Trade Center à New York, causant leur effondrement. Un troisième avion s'écrase sur le Pentagone, près de Washington, D.C. Un quatrième avion, United Airlines Vol 93, s'écrase en Pennsylvanie après que les passagers et l'équipage tentent de reprendre le contrôle de l'appareil des terroristes. Ces attaques entraînent la mort de près de 3 000 personnes et marquent un tournant majeur dans l'histoire mondiale, déclenchant des guerres en Afghanistan et en Irak et menant à d'importantes modifications des politiques de sécurité nationale et internationale.
+
 ## 2002 ans
 
 Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Il est actuellement considéré que ce virus est originaire des chauves-souris, plus précisément d'une espèce de chauve-souris appelée Rhinolophus affinis.
@@ -2153,6 +2279,10 @@ Cependant, il est important de noter que les chauves-souris ne sont pas considé
 
 Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui cause une pandémie mondiale en 2020.
 
+## 2003 ans
+
+Les États-Unis, sous la présidence de George W. Bush, envahissent l'Irak. Cette action, officiellement nommée "Opération Liberté Irakienne", est lancée avec le soutien d'une "coalition des volontaires" incluant le Royaume-Uni et plusieurs autres alliés. L'invasion vise à destituer le président irakien Saddam Hussein, sous prétexte de la possession d'armes de destruction massive par l'Irak et de liens supposés avec le terrorisme, notamment Al-Qaïda. L'invasion suscite des controverses et des protestations à l'échelle internationale.
+
 ## 2005 ans
 
 YouTube est lancé.
@@ -2162,6 +2292,8 @@ YouTube est lancé.
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/UR9Cc5g-F9c" frameborder="0" allowfullscreen></iframe></p>
 
 Twitter est créé par Jack Dorsey, Biz Stone, Evan Williams et Noah Glass.
+
+Le slogan "Femme, Vie, Liberté" est scandé pour la première fois par des femmes kurdes en Turquie.
 
 ## 2007 ans
 
@@ -2231,6 +2363,8 @@ Les épidémies de fièvre Ebola en Afrique de l'Ouest, tuent plus de 11 000 per
 
 Dieselgate. L'entreprise Volkswagen (VW) installe un logiciel dans certains de ses véhicules diesel qui permettent de tricher sur les tests d'émission de gaz polluants. Le logiciel est conçu pour détecter lorsqu'un véhicule est soumis à des tests d'émission pour réduire temporairement les émissions de gaz polluants afin de passer les tests. En dehors de ces tests, cependant, les véhicules émettent des niveaux beaucoup plus élevés de gaz polluants, ce qui contreviennent aux réglementations environnementales en vigueur.
 
+Fondation de OpenAI. C'est une organisation de recherche en intelligence artificielle (IA) qui vise à promouvoir et développer une IA amicale de manière à ce que l'humanité dans son ensemble puisse en bénéficier.
+
 ## 2016 ans
 
 Brexit. Le Royaume-Uni vote de quitter l'Union Européenne.
@@ -2241,6 +2375,8 @@ Donald Trump est élu président.
 
 Le mouvement des Gilets Jaunes est déclenché par une augmentation prévue des taxes sur les carburants, en particulier le diesel, dans le cadre de la transition énergétique du gouvernement français pour lutter contre le changement climatique. Cependant, le mouvement évolue rapidement pour englober des revendications plus larges concernant les inégalités économiques, le pouvoir d'achat, la justice sociale et la démocratie participative. Le mouvement est aussi caractérisé par son organisation horizontale et décentralisée, sans leader unique ou structure formelle.
 
+GPT-1 (Generative Pre-trained Transformer 1) est développé par OpenAI. C'est le premier d'une série de modèles de traitement du langage naturel basés sur l'architecture des transformateurs. Il dispose de 117 millions de paramètres. Un paramètre est une composante du modèle qui est apprise à partir des données d'entraînement. Chaque paramètre représente un aspect de la connaissance que le modèle a acquis. Dans les réseaux de neurones, qui sont au cœur des modèles GPT, les paramètres sont typiquement les poids des connexions entre les neurones. Dans un réseau de neurones, chaque connexion entre deux neurones a un poids associé. Ce poids détermine l'importance et l'influence d'une entrée sur un neurone. Lors de l'apprentissage, ces poids sont ajustés pour que le modèle réponde de manière plus précise aux données d'entraînement.
+
 ## 2019 ans
 
 Une étude hollandaise évoque une baisse de 75 % de la biomasse des insectes volants de 1992 à 2019.
@@ -2250,6 +2386,8 @@ Le médecin chinois Li Wenliang signale aux autorités chinoises la maladie Covi
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PeMlggyqz0Y" frameborder="0" allowfullscreen></iframe></p>
 
 DeepMind, la filiale de recherche en intelligence artificielle de la société mère de Google, Alphabet, oppose un agent IA nommé AlphaStar à certains des meilleurs joueurs de StarCraft II au monde. AlphaStar bat 99,8% des joueurs humains.
+
+OpenAI lance GPT-2. GPT-2 dispose de 1,5 milliard de paramètres, ce qui lui permet d'acquérir une meilleure compréhension du langage et de générer des textes plus cohérents et contextuellement pertinents.
 
 ## 2020 ans
 
