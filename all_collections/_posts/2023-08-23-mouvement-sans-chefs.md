@@ -71,6 +71,8 @@ Nouvelles mythologies du monde moderne. Expérimentations de nouveaux narratifs 
 
 # 8. Le capitalisme
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/d_bl-1x2TSs" frameborder="0" allowfullscreen></iframe></p>
+
 Le capitalisme permet aux individus de produire et d'échanger des biens et des services. Il offre également la possibilité à chacun de gagner de l'argent en contrepartie du travail accompli, apportant ainsi reconnaissance et fierté. De nos jours, il s'agit de l'un des systèmes les plus efficaces pour exercer une influence douce sur le monde. Ses rituels, axés sur l'argent, l'investissement et le travail, sont devenus des traditions qui favorisent un haut niveau de confiance entre les individus.
 
 Le capitalisme a aussi la possibilité de favoriser l'échange, l'écoute et la communication, dans le but de renforcer la confiance et de prévenir les conflits.
@@ -113,13 +115,15 @@ En quelques mois, les scientifiques réussissent à développer plusieurs vaccin
 
 Donc le but de cette culture de l'information horizontale, numérisée, n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt d'apprécier la qualité des contributions plutôt que la performance individuelle.
 
-<!-- # 5. La science
+# 5. La science
 
 # 4. L'humanisme
 
 # 3. La philosophie
 
-# 2. Le stoïcisme
+Poser des bonnes questions.
+
+<!-- # 2. Le stoïcisme
 
 # 1. Le bouddhisme
 
