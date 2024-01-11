@@ -581,8 +581,6 @@ La lave des volcans envahit les continents jusqu'au niveau de la taille des Etat
 
 La majorité des espèces terrestres périssent à cause de la chaleur extrême, seules 5% d'entre elles survivent en se réfugiant sous terre.
 
-## -252 000 000 d'années
-
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LJ6ycSarzv4" frameborder="0" allowfullscreen></iframe></p>
 
 Le charbon, cette roche noire, se forme grâce à la décomposition des végétaux.
@@ -894,8 +892,6 @@ Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec 
 ## - 350 000 ans
 
 Alors que les premiers hommes de Néandertal s'adaptent au froid glacial de l'Europe – un nouvel hominidé, Homo Sapiens, apparaît en Afrique, réparti sur tout le continent.
-
-# - 300 000 ans
 
 ## - 250 000 ans
 
@@ -1232,6 +1228,12 @@ Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans d
 
 La quatrième croisade est lancée par le pape Innocent III dans le but de reconquérir Jérusalem, qui est alors sous le contrôle musulman.
 
+# 1206 ans
+
+Proclamation de l'Empire mongole.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/A9o_eh6qGOo" frameborder="0" allowfullscreen></iframe></p>
+
 # 1204 ans
 
 La ville de Constantinople est pillée et occupée par les croisés. En raison de diverses circonstances politiques et financières, les croisés se détournent de leur objectif initial et finissent par attaquer Constantinople, une ville chrétienne. Pendant plusieurs jours, ils dévastent la ville, détruisant de nombreux monuments et œuvres d'art, et volant d'innombrables trésors. Beaucoup de ces trésors sont emportés en Occident, notamment à Venise, qui joue un rôle clé dans la direction et le financement de la quatrième croisade.
@@ -1508,6 +1510,10 @@ Pour créer le vaccin, Jenner inocule du materiel infectieux prélevé sur des v
 
 Depuis, de nombreux autres vaccins sont développés pour lutter contre d'autres maladies infectieuses, utilisant des techniques similaires basées sur l'exposition à des virus affaiblis ou inoffensifs pour stimuler la production d'anticorps et offrir une protection contre ces maladies.
 
+## 1798 ans
+
+Le gouvernement britannique commence à élaborer des plans pour évaluer et renforcer les capacités de défense nationales. L'idée d'utiliser des questionnaires de masse pour évaluer la volonté des hommes à combattre en cas d'invasion est envisagée. Les questionnaires sont distribués à travers la Grande-Bretagne. Tous les hommes éligibles sont interrogés sur leur volonté et leur capacité à prendre les armes contre une potentielle invasion française.
+
 ## 1800 ans
 
 Il y a 1 000 000 000 d'homo sapiens sur Terre.
@@ -1542,7 +1548,7 @@ Mort de Napoléon.
 
 A Haïti, le président Boyer signe un accord avec la France qui permet à Haïti de devenir officiellement reconnu comme une nation indépendante par la France. Toutefois, cet accord impose à Haïti de payer une indemnité de 150 millions de francs-or à la France en échange de cette reconnaissance. Cette somme considérable est perçue comme une forme de chantage économique par Haïti, qui des emprunter de l'argent auprès de banques françaises pour la payer. Cette dette est un fardeau pour le pays pendant de nombreuses décennies et entrave son développement économique.
 
-## 1826
+## 1826 ans
 
 La plus ancienne photographie de l'histoire. Cette image, connue sous le nom de "View from the Window at Le Gras", est prise depuis la fenêtre d'une maison de campagne près de Chalon-sur-Saône, en France.
 
@@ -2406,6 +2412,10 @@ La Terre compte approximativement 7,97 milliards d'habitants.
 La Russie envahit l'Ukraine. Après les géants américains (Apple, Boeing, Disney, Ford, General Motors…), certaines entreprises françaises commencent à suspendre, voire retirer, leurs activités de Russie.
 
 Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en Inde — qui représentent à eux seuls 35 % de la population mondiale. De plus, environ 56 % de la population mondiale vit dans des zones urbaines plutôt que rurales.
+
+## 2023 ans
+
+Le 7 octobre, environ 3 000 militants du Hamas, avec l'intention de tuer, ont franchi la frontière vers le sud d'Israël. Ils ont ciblé un festival de musique et plusieurs kibboutz, causant la mort et la torture de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme l'attaque la plus meurtrière dans les 75 ans d'histoire d'Israël et la plus grande perte de vie juive depuis l'Holocauste.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
