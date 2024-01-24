@@ -55,7 +55,7 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/e9GuJUaX0UM" frameborder="0" allowfullscreen></iframe></p>
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple).
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).
 
 L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).
 
@@ -224,6 +224,8 @@ Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est r
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PFNp3hs-MdE" frameborder="0" allowfullscreen></iframe></p>
 
 Il est supposé qu'une activité chimique intense dans un milieu hautement énergétique permet de produire une molécule capable de se reproduire. Ce sont les premières formes de vie qui sont des organismes microscopiques (microbes). Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau et n'ont pas besoin d'oxygène. Les procaryotes actuels sont les bactéries et les archées.
+
+Ces organismes simples ont donc la capacité de détecter des substances chimiques dans leur environnement, ce qui est une forme rudimentaire de l'odorat. Cette capacité leur permet de localiser des nutriments et d'éviter des substances nocives, ce qui est crucial pour leur survie.
 
 Une entité est vivante si elle peut en effet se reproduire elle-même, si elle est basée sur l'eau, si elle produit des lipides et des protéines, si son métabolisme est basé sur le carbone, si elle se réplique grâce à des acides nucléiques et si elle possède un système permettant de « lire » des protéines.
 
@@ -1015,6 +1017,20 @@ Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amé
 
 Homo Sapiens commence à domestiquer le chat.
 
+## -8 000 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ESLQKERs7bU" frameborder="0" allowfullscreen></iframe></p>
+
+En Mésopotamie, considérée comme l'un des berceaux de la civilisation, les premières villes commencent à se former. Çatalhöyük en Anatolie (Turquie moderne) est un exemple de ces premiers établissements urbains. Çatalhöyük est remarquable par son absence apparente de rues. Les maisons sont construites très près les unes des autres, et les habitants se déplacent probablement en marchant sur les toits de ces maisons, entrant par des ouvertures dans le toit qui servent également de portes et de fenêtres.
+
+Les maisons à Çatalhöyük sont principalement en briques crues (adobe) et ont des formes rectangulaires. Elles sont souvent reconstruites sur les ruines des anciennes, créant ainsi une série de couches archéologiques superposées.
+
+Les habitants de Çatalhöyük sont principalement des agriculteurs et des éleveurs, mais ils pratiquent également la chasse et la cueillette. Ils cultivent des céréales comme le blé et l'orge et élevent des animaux comme les moutons et les chèvres.
+
+Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles. Des représentations de déesses-mères, d'animaux et de scènes de chasse sont courantes.
+
+Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes telles que des perles ou des outils.
+
 ## -7 000 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/briquecrue.jpg)</span>
@@ -1041,6 +1057,18 @@ La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où
 
 S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains ont été fasciné par eux depuis des milliers d'années, les peignant sur des rochers.
 
+# -5000 ans
+
+Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao, centrée sur le fleuve Jaune en Chine, devient proéminente. Elle est connue pour sa poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période marque une étape importante dans le développement de l'agriculture et des sociétés sédentaires en Chine.
+
+En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures ont probablement des significations culturelles ou religieuses.
+
+# -4500 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/boQ6i8j8EUk" frameborder="0" allowfullscreen></iframe></p>
+
+Les Sumériens établissent l'une des premières civilisations de l'histoire dans la région du sud de la Mésopotamie (l'actuel Irak).
+
 # -4000 ans
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
@@ -1054,11 +1082,15 @@ les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord 
 
 En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. C'est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représenté.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bV4geih91f8" frameborder="0" allowfullscreen></iframe></p>
+
 Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
 ## -2200
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/8vWzmge6nMU" frameborder="0" allowfullscreen></iframe></p>
 
 Début de l'âge du bronze. Le bronze est un alliage de cuivre et d'étain. Le bronze rend plus robuste les outils, les armes et les armures.
 
@@ -1081,6 +1113,12 @@ La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nom
 Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
 
 Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.
+
+## -1600 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Z397d32MHeM" frameborder="0" allowfullscreen></iframe></p>
+
+L'Empire hittite commence à émerger. Cette période marque le début de ce qu'on appelle l'ancien royaume hittite, qui est établi en Anatolie (l'actuelle Turquie).
 
 ## -1500 ans
 
@@ -1124,7 +1162,15 @@ Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe 
 
 Un royaume, l'Assyrie, commence à étendre son territoire et conquérir d'autres régions de la Mésopotamie. Les Assyriens se sont rapidement imposés comme une puissance militaire dominante dans la région et créent un vaste empire qui s'étend de l'Irak à la Palestine et à la Syrie.
 
+# -800 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cVsQB4wpRBc" frameborder="0" allowfullscreen></iframe></p>
+
+Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils ont développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet de commencer à enregistrer leur histoire et leur littérature.
+
 ## -753 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/u2AdfEHfV_U" frameborder="0" allowfullscreen></iframe></p>
 
 Il y a d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands.
 
@@ -1133,10 +1179,6 @@ Il y a d'énormes fermes agricoles autour de Rome, exploitant des céréales, de
 La civilisation Maya en Amérique emploie aussi le principe du rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguïtés (lire une image comme une image ou comme un son ?).
 
 Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
-
-# -680 ans
-
-Scission définitive entre Chiisme et Sunnisme en islam.
 
 ## -563 ans
 
@@ -1149,6 +1191,12 @@ Chute du régime monarchique de Rome. La République Romaine se met en place pro
 ## -470 ans
 
 Naissance de Socrate.
+
+## -460 ans
+
+Existence d'Hippocrate, souvent considéré comme le "père de la médecine". Hippocrate est surtout célèbre pour avoir établi la médecine comme une profession distincte et respectée, basée sur des observations systématiques et une méthode d'analyse rationnelle des maladies.
+
+Hippocrate croit fortement en l'utilisation de tous les sens pour le diagnostic médical, y compris l'odorat. Pour lui, chaque sens peut fournir des indices essentiels sur l'état de santé d'un patient.
 
 ## -399 ans
 
@@ -1182,6 +1230,10 @@ Germanicus, un général romain et neveu de l'empereur Tibère, mène une campag
 
 Malgré ce succès, les Romains ne réussissent pas à soumettre complètement les tribus germaniques, et l'empereur Tibère met fin aux campagnes de Germanicus en Germanie, préférant consolider les frontières existantes plutôt que de poursuivre une expansion coûteuse et risquée.
 
+## 300 ans
+
+Règne de l'Empereur romain Constantin. C'est le premier empereur romain à s'être converti au christianisme.
+
 ## 330 ans
 
 Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de déplacer la capitale de l'Empire romain de Rome à Byzance, une ville déjà existante située à l'intersection de l'Europe et de l'Asie. Constantin Ier renomme la ville en son honneur et la transforme en une nouvelle capitale grandiose, qui devient rapidement le centre politique, économique et culturel de l'Empire romain d'Orient, également connu sous le nom d'Empire byzantin.
@@ -1190,15 +1242,15 @@ Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de 
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
 
+# 680 ans
+
+Scission définitive entre Chiisme et Sunnisme en islam.
+
 # 941 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VvGlw2HCxbU" frameborder="0" allowfullscreen></iframe></p>
 
 Constantinople, la capitale de l'Empire byzantin, est attaquée par les Rus' de Kiev dirigés par le prince Igor de Kiev.
-
-# 980 ans
-
-Début du règle de Vladimir le Grand.
 
 # 988 ans
 
@@ -1230,11 +1282,13 @@ La quatrième croisade est lancée par le pape Innocent III dans le but de recon
 
 # 1206 ans
 
-Proclamation de l'Empire mongole.
-
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/A9o_eh6qGOo" frameborder="0" allowfullscreen></iframe></p>
 
+Proclamation de l'Empire mongole. Temüjin se révèle être un leader charismatique et un stratège habile. Au fil des années, il réussi à unifier les tribus mongoles dissidentes, souvent par la force, mais aussi par la diplomatie et l'alliance. Lors d'un kurultai (une assemblée de chefs de clans), il est proclamé "Genghis Khan", signifiant "empereur universel".
+
 # 1204 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4qOVh4R8lys" frameborder="0" allowfullscreen></iframe></p>
 
 La ville de Constantinople est pillée et occupée par les croisés. En raison de diverses circonstances politiques et financières, les croisés se détournent de leur objectif initial et finissent par attaquer Constantinople, une ville chrétienne. Pendant plusieurs jours, ils dévastent la ville, détruisant de nombreux monuments et œuvres d'art, et volant d'innombrables trésors. Beaucoup de ces trésors sont emportés en Occident, notamment à Venise, qui joue un rôle clé dans la direction et le financement de la quatrième croisade.
 
@@ -1341,6 +1395,12 @@ Un nombre croissant de colons espagnols commencent à se rendre au Pérou pour t
 ## 1550 ans
 
 Bartolomé de Las Casas, prêtre catholique espagnol, prend la défense des amérindiens. Un grand débat religieux et politique, qui doit répondre à une question simple commence: doit-on convertir les indigènes par la force ? La réponse est non. Las Casas parvient désormais à préserver les indiens du travail forcé. Il propose toutefois l'utilisation de travailleurs esclaves africains plutôt que d'indigènes pour les plantations et les mines d'or.
+
+## 1553 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Df5MLgLrL1w" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance d'Henry IV.
 
 ## 1572 ans
 
@@ -1812,6 +1872,12 @@ Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 00
 
 La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.
 
+# 1905 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Qw5vKINE7WE" frameborder="0" allowfullscreen></iframe></p>
+
+Einstein travaille sur sa théorie de la relativité restreinte, qui remet en question les notions classiques de l'espace et du temps. Cette théorie explique comment l'espace et le temps sont reliés et comment ils affectent la perception de la vitesse et de l'énergie. Il découvre aussi qu'une petite quantité de matière peut être convertie en une énorme quantité d'énergie.
+
 # 1909 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bleriotXI.jpg)</span>
@@ -2087,6 +2153,8 @@ Publication du roman Cent Ans de solitude de Gabriel García Márquez.
 Massacre de My Lai pendant la guerre du Vietnam. Des soldats américains tuent entre 347 et 504 civils vietnamiens non armés dans le village de My Lai. Les victimes sont majoritairement des femmes, des enfants et des personnes âgées. L'événement a mis en lumière les atrocités commises en temps de guerre.
 
 ## 1969 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/CqJ711E51tQ" frameborder="0" allowfullscreen></iframe></p>
 
 L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".
 
