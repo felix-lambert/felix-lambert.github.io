@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Une nouvelle architecture technique peut-elle changer le monde ?
-date: 2023-06-20 10:18:00
+date: 2024-01-23 10:18:00
 tags: technologie
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Top 10 des mouvements sans chefs
-date: 2023-08-23 10:18:00
+date: 2024-01-23 10:18:00
 tags: histoire
 ---
 
-Pour changer les dynamismes du monde actuel, il faut peut-être changer les histoires. Et ces histoires ne doivent pas avoir comme narration principale un chef (mystique illuminé ou pas), une hiérarchie, ou à un pouvoir magique en qui l'on doit se soumettre.
+Pour changer les dynamismes du monde actuel, il faut changer les actions. Ces actions ne doivent pas avoir comme repère principal un chef (mystique illuminé ou pas), une hiérarchie en qui l'on doit se soumettre.
 
 Un ou plusieurs mouvements sans leaders sont peut-être aujourd'hui nécessaires. Il paraît que les fourmis n'ont pas de chefs. Ils travaillent ensemble et assurent une coordination par un principe simple: faire le travail qui n'a pas encore été fait par un autre.
 
@@ -27,7 +27,7 @@ Il est peut-être important de ne pas prendre à la lettre certaines règles de 
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lying-flat.jpg)</span>
 
-En 2016, Luo Huazhong, 26 ans, quitte son emploi à l'usine parce qu'il se sent vide. Il parcourt ensuite 2 100 km du Sichuan au Tibet. Puis, de retour dans sa ville natale de Jiande, dans l'est de la province du Zhejiang, il passe son temps à lire de la philosophie, et se débrouille en faisant quelques petits boulots et en prenant 60 $US par mois de ses économies. Il ne mange que deux repas par jour, généralement des œufs, du riz et des nouilles, ne dépensant qu'environ 200 yuans (31 dollars) par mois.
+En 2016, Luo Huazhong, 26 ans, quitte son emploi à l'usine parce qu'il se sent vide. Il parcourt ensuite 2 100 km du Sichuan au Tibet. Puis, de retour dans sa ville natale de Jiande, dans l'est de la province du Zhejiang, il passe son temps à lire de la philosophie, et se débrouille en faisant quelques petits boulots et en prenant 60 $US par mois de ses économies. Il mange deux repas par jour, généralement des œufs, du riz et des nouilles, ne dépensant qu'environ 200 yuans (31 dollars) par mois.
 
 Luo, sous le pseudo, "Kind-Hearted Traveler", partage un article sur le moteur de recherche chinois Baidu expliquant pourquoi il mène une vie minimaliste.
 
@@ -39,35 +39,9 @@ Dans une interview, il déclare qu'il passe la plupart de son temps à nager et 
 
 Les internautes se sont identifiés comme des "lying flatism", publiant des photos de chats et de phoques allongés sur le dos.
 
-Le mouvement "S'allonger sur le dos" propose de:
-
-Ne pas acheter d'appartement.<br />
-Ne pas acheter de voiture.<br />
-Ne pas se marrier.<br />
-Ne pas avoir d'enfants.<br />
-Ne pas devenir un consommateur.<br />
-Maintenir un niveau de vie le plus bas possible.<br />
-
-Musique provenant du mouvement Tang ping:
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/corZx0a1yRU" frameborder="0" allowfullscreen></iframe></p>
-
-Traduction:
-
-<em>Travailler de neuf à neuf, six fois par semaine</em><br />
-<em>Tes cheveux tombent</em><br />
-<em>S'allonger sur le dos est l'antidote</em><br />
-<em>C'est vraiment bien de s'allonger sur le dos</em><br />
-<em>S'allonger sur le dos c'est vraiment merveilleux</em><br />
-<em>S'allonger sur le dos est la voie royale</em><br />
-<em>Allongé sur le dos, vous ne pouvez pas être abattu…</em><br />
-<em>Allongé sur le dos, vous ne pouvez vraiment pas être abattu.</em><br />
-<em>La spirale de la concurrence est un gaspillage d'énergie, que les esclaves salariés se font eux-mêmes</em><br />
-<em>Allongé sur le dos, tu ne peux pas tomber</em>
-
 # 9. La culture geek
 
-Nouvelles mythologies du monde moderne. Expérimentations de nouveaux narratifs au sein du monde moderne. Recherche de gamification du monde. Le geek semble savoir habiter ce nouveau monde des technologies. Refuse de grandir.
+Nouvelles mythologies du monde moderne. Expérimentations de nouveaux narratifs au sein du monde moderne. Recherche de gamification du monde. Le geek semble savoir habiter ce nouveau monde des technologies et refuse de grandir.
 
 # 8. Le capitalisme
 
@@ -99,21 +73,11 @@ Le jour où tous les citadins d'une ville très concentrée parviendront à ente
 
 # 6. Les technologies numériques (informationnelles)
 
-La culture numérique permet de renouer Homo Sapiens avec ce qui a contribué à son succès, à savoir une culture de l'entraide.
-
-Cette culture vise à promouvoir un capitalisme plus solidaire en encourageant les communications horizontales avec les clients, plutôt que des newsletters "no-reply" (non réponses).
-
-Je pense que la culture de l'internet commence par une volonté de communication horizontalisée, entre individus, qui permet à l'information de facilement passer entre des noeuds décentralisés. Il est d'ailleurs possible que le fonctionnement du cerveau soit assez proche de cette description. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
+La culture numérique permet de renouer Homo Sapiens avec ce qui a contribué à son succès, à savoir une culture de l'entraide. Elle commence par une volonté de communication horizontalisée, entre individus, qui permet à l'information de facilement passer entre des noeuds décentralisés. Il est d'ailleurs possible que le fonctionnement du cerveau soit assez proche de cette description. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.
 
 Le summum de cette culture est sans doute Wikipédia, le site web, soutenu par Google et l'intelligence artificielle, qui contribuent à développer des services permettant d'acquérir des informations pour enrichir sa culture personnelle et faciliter l'apprentissage.
 
-Cette culture modifie actuellement à un rythme rapide le capitalisme axé sur l'enrichissement individuel. Elle introduit un capitalisme 2.0 qui bouleverse tous les domaines.
-
-Même durant la Covid 19, certaines institutions médicales et scientifiques internationales, qui, souvent ralenties par les processus administratifs et les protocoles rigides, comprennent qu'elles doivent travailler ensemble pour trouver un vaccin efficace contre le virus.
-
-En quelques mois, les scientifiques réussissent à développer plusieurs vaccins contre le Covid-19 qui sont approuvés pour une utilisation d'urgence par les autorités sanitaires à travers le monde. Cette collaboration internationale est tout à fait exceptionnelle et inédite. Elle permet de produire des vaccins efficaces en un temps record et de sauver des milliers de vies.
-
-Donc le but de cette culture de l'information horizontale, numérisée, n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt d'apprécier la qualité des contributions plutôt que la performance individuelle.
+Le but ici n'est pas forcément d'attaquer un secteur qui choisit de valoriser les normes juridiques, le secret et la sécurité. Il s'agit plutôt d'apprécier la qualité des contributions plutôt que la performance individuelle.
 
 # 5. La science
 
