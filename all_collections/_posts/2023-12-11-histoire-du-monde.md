@@ -71,6 +71,8 @@ A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjecta
 
 ## -13 500 000 000 d'années
 
+Correction: après les découvertes de James Webb. On découvre que des galaxies existent déjà à cette époque.
+
 Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif)</span>
@@ -807,6 +809,10 @@ Le climat de la planète change, transformant les forêts africaines en savanes.
 
 Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.
 
+## - 2 600 000 années
+
+Découverte des plus anciens outils de pierre taillée en Afrique (Éthiopie, Kenya).
+
 ## - 2 400 000 années
 
 Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il soit plus un charognard (qui consomme les cadavres d'autres animaux) qu'un chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer et est la première espèce à pouvoir utiliser des pierres pour fabriquer des outils simples.
@@ -833,7 +839,7 @@ Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pie
 
 L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution des hominidés.
 
-## - 1 800 000 années
+## - 1 600 000 années
 
 De nouvelles méthodes de taille de la pierre apparaissent, se traduisant par la production d'outils plus complexes comme le biface.
 
@@ -841,9 +847,9 @@ De nouvelles méthodes de taille de la pierre apparaissent, se traduisant par la
 
 Avec ces outils, les premiers Homo exécutent différentes tâches, dont la découpe de la viande, la fracture des os pour accéder à la moelle osseuse, la coupe du bois, l'ouverture des noix, le dépouillement des carcasses animales pour récupérer la peau.
 
-## - 1 600 000 années
+## - 1 400 000 années
 
-Homo Erectus est capable de maîtriser le feu. Avec cette maîtrise l'avantage principal est de se chauffer.
+Traces d'utilisation du feu. Homo Erectus est capable de maîtriser le feu. Avec cette maîtrise l'avantage principal est de se chauffer.
 
 L'usage du feu permet aussi à l'espèce humaine de se déplacer plus loin, dans des climats différents. Contrairement à tous les hominidés antérieurs, Homo Erectus a prospéré non seulement en Afrique mais également dans toute l'Eurasie. Très probablement, ces ancêtres ont partagé leur proie, un peu comme les chasseurs-cueilleurs le font aujourd'hui, favorisant la cohésion sociale au sein du groupe.
 
@@ -919,6 +925,14 @@ La population humaine commence à décroître.
 
 Les hominidés commencent à utiliser des pigments colorés pour la décoration corporelle.
 
+# -74 000 ans
+
+En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.
+
+L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud, du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui auraient duré des années, voire des décennies.
+
+Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer une éruption.
+
 # -70 000 ans
 
 Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique. Homo Sapiens atteint l'Asie de l'Est, traversant l'Indonésie jusqu'en Australie quelques millénaires plus tard.
@@ -951,9 +965,7 @@ Il est peut-être utile de mentionner que cette fin est violente car on retrouve
 
 Création de la Vénus de Hohle Fels, l'une des plus anciennes œuvres d'art figuratif du monde. La figurine est sculptée dans de l'ivoire de mammouth et mesure environ 6 cm de haut. Elle représente une femme aux formes voluptueuses, avec de gros seins, des hanches proéminentes et une forte détermination des parties génitales.
 
-Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui existe. Il commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
-
-Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
+Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui existe.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PvyiZKc0Iew" frameborder="0" allowfullscreen></iframe></p>
 
@@ -971,6 +983,12 @@ Une zone spécifique, appelée plate-forme de percussion, est préparée sur le 
 
 Après le détachement d'une lame, le noyau est souvent retaillé ou préparé à nouveau pour permettre le détachement d'autres lames. Un bon artisan pout extraire plusieurs lames d'un seul noyau, maximisant ainsi l'utilisation de la matière première.
 
+## -26 000 ans
+
+Homo Sapiens commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
+
+Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
+
 ## -21 000 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
@@ -983,13 +1001,23 @@ La grotte de Lascaux est le théâtre d'une intense activité artistique. Les pa
 
 La Terre est en plein cœur de la dernière période glaciaire, avec des calottes glaciaires recouvrant une grande partie de l'Amérique du Nord, de l'Europe et de l'Asie. Les hominidés commencent à utiliser des techniques de tissage pour fabriquer des vêtements chauds, ce qui leur permet de mieux s'adapter aux conditions glaciaires.
 
+Invention de la poterie dans plusieurs sites en Asie de l'Est, notamment en Chine et au Japon, facilitant le stockage, la cuisson et le transport des aliments de manière plus efficace. Les premiers potiers sélectionnent des types d'argile locaux adaptés à la fabrication de poterie et peuvent également expérimenter avec différents additifs (comme du sable, des coquilles broyées ou des fibres organiques) pour améliorer les caractéristiques de l'argile, comme sa résistance au feu et sa capacité à minimiser le retrait et la fissuration lors du séchage et de la cuisson. L'argile est plastique lorsqu'elle est mouillée, ce qui permet de la modeler, mais elle devient dure et durable une fois cuite.
+
+Les premières poteries sont probablement façonnées à la main par des méthodes simples, telles que le modelage à la main, où l'argile est directement modelée pour former la forme souhaitée, ou la technique du colombin, qui implique de rouler l'argile en longs cordons qui sont ensuite empilés et lissés pour former les parois du récipient. Ces techniques ne nécessitent pas d'équipement complexe et sont adaptées à la production de petites quantités d'objets.
+
+Après le façonnage, les poteries sont laissées à sécher pour enlever l'excès d'humidité. Ce processus doit être géré soigneusement pour éviter que les objets ne se déforment ou ne fissurent.
+
+Puis il y a la cuisson qui est une étape cruciale et qui transforme l'argile modelée en une poterie dure et durable. Les premières poteries en Chine auraient pu être cuites dans des feux ouverts ou dans des fosses simples. La température doit être suffisamment élevée pour permettre la transformation chimique de l'argile, mais pas trop élevée au risque de faire fondre ou déformer les objets. Les températures de cuisson pour les poteries primitives varient généralement entre 600 et 800 degrés Celsius.
+
 ## -15 000 ans
 
 La glace commence à fondre.
 
 ## -12 000 ans
 
-Fin du dernier âge glaciaire.
+Fin du dernier âge glaciaire. Trace des premiers villages.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/OU4-UFTKQ80" frameborder="0" allowfullscreen></iframe></p>
 
 ## -11 000 ans
 
@@ -1016,6 +1044,20 @@ Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amé
 ## -9 000 ans
 
 Homo Sapiens commence à domestiquer le chat.
+
+En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine ne représente pas seulement un tournant dans l'histoire de l'agriculture et de l'alimentation humaine, mais elle a également un impact profond sur le développement social, économique et culturel des sociétés néolithiques et des civilisations ultérieures en Asie.
+
+Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz, souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides, où l'eau peut être facilement dirigée vers les champs de riz. La préparation du terrain inclue le défrichement de la végétation et la création de petits champs inondés ou de rizières, qui peuvent être irrigués et drainés selon les besoins. Le riz peut être semé directement dans les champs inondés.
+
+La gestion de l'eau est cruciale pour la réussite de la culture du riz. Les agriculteurs doivent contrôler le niveau d'eau dans les champs pour favoriser la croissance du riz tout en prévenant la stagnation de l'eau et la pourriture des racines.
+
+Après la récolte, le riz est battu pour séparer les grains de la balle, puis vanné pour enlever la balle et les impuretés. Ce processus peut être réalisé à l'aide de paniers ou de tamis.
+
+Les grains de riz sont stockés dans des greniers ou d'autres structures élevées pour les protéger de l'humidité et des rongeurs. Le stockage adéquat est essentiel pour assurer la disponibilité de nourriture tout au long de l'année et pour préserver les semences pour la prochaine saison de plantation.
+
+La culture du riz dans les époques anciennes est donc un processus qui nécessite une connaissance approfondie de l'environnement, des compétences en gestion de l'eau et un travail communautaire organisé. Ces pratiques agricoles permettent non seulement de soutenir les populations croissantes, mais jouent également un rôle dans le développement des sociétés agraires et la formation de civilisations complexes.
+
+Dans le sud du Mexique, début de la domestication du maïs à partir d'une plante sauvage appelée téosinte (Zea mays ssp. parviglumis), qui est considérablement différente de notre maïs moderne en termes de taille et de structure du fruit. Les peuples autochtones de la région de la Basse Vallée de Balsas, au Mexique, sont parmi les premiers à cultiver et à modifier génétiquement la téosinte pour développer le maïs. La raison principale de cette domestication est de produire une source de nourriture plus abondante et plus facile à récolter. Au fil du temps, grâce à la sélection naturelle et artificielle, les épis de maïs sont devenus plus grands et les grains plus nombreux, rendant le maïs un aliment de base vital pour les civilisations précolombiennes.
 
 ## -8 000 ans
 
@@ -1057,8 +1099,6 @@ La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où
 
 S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains ont été fasciné par eux depuis des milliers d'années, les peignant sur des rochers.
 
-# -5000 ans
-
 Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao, centrée sur le fleuve Jaune en Chine, devient proéminente. Elle est connue pour sa poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période marque une étape importante dans le développement de l'agriculture et des sociétés sédentaires en Chine.
 
 En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures ont probablement des significations culturelles ou religieuses.
@@ -1071,12 +1111,16 @@ Les Sumériens établissent l'une des premières civilisations de l'histoire dan
 
 # -4000 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vCad77_c-LU" frameborder="0" allowfullscreen></iframe></p>
+
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
 
 Les villes et les villages du long du Nil (grand fleuve d'Afrique du Nord) s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
 
 Homo Sapiens commence à utiliser des chevaux pour tirer des chars. Après cela, domestiqué
 les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord et la Chine, étant montés et tirant des véhicules pour la guerre, l'agriculture et la construction.
+
+Les Egyptions utilisent des produits tels que des poudres pour blanchir la peau, des fards pour les yeux à base de malachite et de galène (kohl) pour réduire l'éblouissement du soleil et diminuer les risques d'infection oculaire, ainsi que des baumes et des huiles pour protéger et hydrater la peau dans un climat désertique.
 
 # -3000 ans
 
@@ -1097,6 +1141,10 @@ Début de l'âge du bronze. Le bronze est un alliage de cuivre et d'étain. Le b
 ## -2000 ans
 
 De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
+
+Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes et à étendre son territoire. Cette période est caractérisée par l'expansion territoriale et la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
+
+Les Assyriens sont réputés pour leur brutalité envers les peuples conquis, utilisant la terreur comme un instrument de gouvernement pour dissuader les rébellions.
 
 ## -1800 ans
 
@@ -1180,19 +1228,27 @@ La civilisation Maya en Amérique emploie aussi le principe du rébus (transform
 
 Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 
+Fin de l'Empire assyrien, en raison de révoltes internes, de problèmes économiques et de l'émergence de puissances rivales, notamment les Babyloniens et les Mèdes. L'empire prend fin avec la chute de sa capitale, Ninive.
+
 ## -563 ans
 
 Siddhartha Gautama né dans une famille royale dans la région de Lumbini, qui se trouve aujourd'hui au Népal. Il quitte son palais pour devenir un ascète et cherche la vérité sur la souffrance humaine.
 
 ## -509 ans
 
-Chute du régime monarchique de Rome. La République Romaine se met en place progressivement.
+Chute du régime monarchique de Rome. Il y a un désir croissant parmi l'élite et le peuple romain pour un système de gouvernance qui limite le pouvoir d'un seul individu et offre une forme de contrôle démocratique ou oligarchique. La République est fondée sur le principe de séparation des pouvoirs, avec deux consuls élus annuellement pour gouverner conjointement, le Sénat comme organe de conseil, et les assemblées populaires pour les décisions importantes.
+
+La chute de la monarchie romaine et l'établissement de la République marquent le début d'une période de grande expansion et de transformation pour Rome, qui a finalement dominé la Méditerranée.
 
 ## -470 ans
 
-Naissance de Socrate.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/AzcZiQswnVI" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance de Socrate. Il est l'une des figures fondatrices de la pensée occidentale. Socrate n'a jamais écrit ses idées ; ainsi, notre connaissance de ses enseignements provient principalement de ses disciples, notamment Platon et Xénophon.
 
 ## -460 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/CMvnB8Wda0M" frameborder="0" allowfullscreen></iframe></p>
 
 Existence d'Hippocrate, souvent considéré comme le "père de la médecine". Hippocrate est surtout célèbre pour avoir établi la médecine comme une profession distincte et respectée, basée sur des observations systématiques et une méthode d'analyse rationnelle des maladies.
 
@@ -1218,6 +1274,12 @@ La dynastie Han commence en Chine, marquant une période de stabilité et de pro
 
 La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette série de campagnes militaires est conduite par les armées romaines contre plusieurs tribus gauloises. César, alors proconsul de la Gaule Transalpine et de l'Illyrie, étend son commandement à la Gaule Cisalpine et entreprend la conquête de la Gaule, qui couvre ce qui est aujourd'hui la France, la Belgique, la Suisse et des parties de l'Italie du Nord, des Pays-Bas, et de l'Allemagne à l'ouest du Rhin. La guerre se poursuit jusqu'en 50 av. J.-C., se terminant avec la victoire romaine et l'annexion complète de la région à la République romaine.
 
+## -40
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dzarpnLffHY" frameborder="0" allowfullscreen></iframe></p>
+
+Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques (pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau, permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité remarquable. Cette invention révolutionne l'architecture et le génie civil romains, permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.
+
 # 9 ans
 
 La bataille de Teutobourg oppose une alliance de tribus germaniques, dirigée par Arminius, à trois légions romaines commandées par Publius Quinctilius Varus. Elle se déroule dans la forêt de Teutobourg, située dans l'actuelle Allemagne.
@@ -1229,6 +1291,10 @@ Arminius, un chef de guerre de la tribu des Chérusques, réussi à rassembler p
 Germanicus, un général romain et neveu de l'empereur Tibère, mène une campagne pour venger la défaite romaine lors de la bataille de la forêt de Teutobourg en 9 ap. J.-C. La bataille d'Idistaviso oppose les forces romaines aux tribus germaniques dirigées par Arminius. Les Romains remportent une victoire décisive lors de cette bataille, infligeant de lourdes pertes aux tribus germaniques.
 
 Malgré ce succès, les Romains ne réussissent pas à soumettre complètement les tribus germaniques, et l'empereur Tibère met fin aux campagnes de Germanicus en Germanie, préférant consolider les frontières existantes plutôt que de poursuivre une expansion coûteuse et risquée.
+
+## 100 ans
+
+Invention de la charrue gauloise. La grande nouveauté de cette charrue est son soc en fer, par opposition aux précédentes charrues qui ont un soc en bois ou en pierre. Cela permet l'expansion de l'agriculture dans des régions auparavant inadaptées à la culture intensive.
 
 ## 300 ans
 
