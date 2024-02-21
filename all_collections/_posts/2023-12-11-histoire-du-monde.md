@@ -805,13 +805,11 @@ Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquem
 
 Le climat de la planète change, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.
 
-## - 3 300 000 d'années
-
-Aucun des premiers hominidés n'avait les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.
-
 ## - 2 600 000 années
 
-Découverte des plus anciens outils de pierre taillée en Afrique (Éthiopie, Kenya).
+Aucun des premiers hominidés n'ont les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.
+
+Découverte des plus anciens outils de pierre taillée en Afrique (Éthiopie, Kenya) par Homo Habilis.
 
 ## - 2 400 000 années
 
@@ -899,7 +897,7 @@ Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec 
 
 ## - 350 000 ans
 
-Alors que les premiers hommes de Néandertal s'adaptent au froid glacial de l'Europe – un nouvel hominidé, Homo Sapiens, apparaît en Afrique, réparti sur tout le continent.
+Homo Erectus parvient à dépecer les animaux principalement à l'aide d'outils en pierre. Ces outils sont fabriqués par taille directe ou indirecte de pierres pour créer des arêtes vives capables de couper la chair et d'autres matériaux mous. Cela leur permet d'accéder à une source riche en protéines, ce qui aurait pu influencer le développement du cerveau et favoriser des changements sociaux et technologiques.
 
 ## - 250 000 ans
 
@@ -989,6 +987,14 @@ Homo Sapiens commence à domestiquer le loup. Et quelques années plus tard, une
 
 Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
 
+## -23 000 ans
+
+Le site d'Ohalo II, situé au bord du lac de Tibériade dans l'actuel Israël, offre l'une des plus anciennes preuves de la collecte et de la consommation de graines d'herbes sauvages. Cette découverte est significative car elle fournit des indices sur les prémices de l'agriculture, bien avant l'émergence des premières sociétés agricoles connues.
+
+Les outils de broyage et de mouture trouvés à Ohalo II témoignent des méthodes sophistiquées utilisées pour traiter ces graines, indiquant une compréhension approfondie de la préparation des aliments et une certaine forme de gestion des ressources végétales.
+
+La collecte de graines d'herbes sauvages à Ohalo II est significative car cela remet en question les théories selon lesquelles l'agriculture a commencé comme une invention soudaine ou une révolution rapide.
+
 ## -21 000 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
@@ -1009,15 +1015,37 @@ Après le façonnage, les poteries sont laissées à sécher pour enlever l'exc�
 
 Puis il y a la cuisson qui est une étape cruciale et qui transforme l'argile modelée en une poterie dure et durable. Les premières poteries en Chine auraient pu être cuites dans des feux ouverts ou dans des fosses simples. La température doit être suffisamment élevée pour permettre la transformation chimique de l'argile, mais pas trop élevée au risque de faire fondre ou déformer les objets. Les températures de cuisson pour les poteries primitives varient généralement entre 600 et 800 degrés Celsius.
 
+## -18 000 ans
+
+Début des techniques de filage. Cette période, située vers la fin du Paléolithique supérieur, témoigne d'une innovation significative dans la fabrication des vêtements et d'autres biens textiles. Le filage des fibres pour créer des fils est une avancée majeure par rapport à l'utilisation exclusive de peaux d'animaux et de matériaux végétaux non filés pour l'habillement et les abris. Le filage permet de produire des vêtements plus souples, plus ajustés et potentiellement plus chauds que les peaux d'animaux brutes. Cela est crucial pour la survie dans des environnements froids, offrant une meilleure protection contre les éléments.
+
+Au début, le filage est probablement effectué à la main, en tordant des fibres pour former un fil continu. Les premières fibres utilisées incluent probablement des matériaux facilement disponibles tels que le lin, la laine, ou les poils d'animaux, ainsi que des fibres végétales. Les premières techniques impliquent de joindre et de tordre les fibres à la main pour former un fil. Cela nécessite une grande habileté pour maintenir une épaisseur constante.
+
 ## -15 000 ans
 
 La glace commence à fondre.
+
+Les personnes vivant pendant le Magdalénien commencent à utiliser des matériaux comme les os et l'ivoire (principalement provenant des animaux qu'ils chassent) pour fabriquer des outils. Ces matériaux sont plus souples que la pierre et peuvent être taillés en formes plus complexes. Et malgré leur facilité de travail, l'os et l'ivoire sont solides et durables, ce qui les rend efficaces pour la fabrication d'outils et d'armes. Ils sont aussi plus légers que la pierre, ce qui rend les armes et les outils plus faciles à manier et à transporter.
+
+Ils sont utilisés pour créer des aiguilles (pour coudre des vêtements en peau), des pointes de flèches, des harpons, et bien d'autres outils.
+
+Au même moment que les innovations en outils et armes, les gens du Magdalénien développent des récipients et des lampes. Ils commencent à fabriquer des bols, des coupes et d'autres types de récipients à partir de pierre, d'os, ou même de bois. Ces récipients permettent de stocker, transporter et consommer plus facilement leurs aliments et leur eau.
+
+Les lampes sont fabriquées à partir de pierre ou d'os et utilisent de la graisse animale comme combustible. Ces lampes fournissent une source de lumière dans les grottes sombres, permettant aux gens de voir après le coucher du soleil ou dans les parties profondes des grottes. Elles sont essentielles pour la vie quotidienne et les activités nocturnes.
+
+Pendant cette période, de nombreux lieux sont transformés en sanctuaires, c'est-à-dire des endroits utilisés pour des rituels ou comme centres artistiques. Ces œuvres d'art représentent des animaux, des signes et des scènes de la vie quotidienne, montrant l'importance de l'art et des croyances spirituelles pour ces communautés.
 
 ## -12 000 ans
 
 Fin du dernier âge glaciaire. Trace des premiers villages.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/OU4-UFTKQ80" frameborder="0" allowfullscreen></iframe></p>
+
+Les Natoufiens, un peuple préhistorique qui vit dans le Levant, une région qui englobe aujourd'hui Israël, la Palestine, le Liban, et la Syrie occidentale sont les premiers peuples connus à établir des habitats semi-permanents ou permanents, ce qui représente un changement majeur par rapport au mode de vie nomade de chasseurs-cueilleurs.
+
+Les Natoufiens fabriquent des lames de faucille tranchantes pour couper les tiges des plantes sauvages, ce qui indique qu'ils récoltent activement des plantes. Ils utilisent aussi des outils pour broyer des grains et des pierres pour polir des outils. Cela montre une diversification de leurs activités et une certaine spécialisation dans la fabrication d'outils.
+
+En Iran, dans la région du Zagros, les gens commencent à pratiquer la protoagriculture, c'est-à-dire les premières formes d'agriculture, en cultivant des herbes sauvages et peut-être en commençant à domestiquer des plantes.
 
 ## -11 000 ans
 
@@ -1031,15 +1059,13 @@ Les premiers agriculteurs labourent la terre à l'aide d'outils rudimentaires fa
 
 Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer que les graines sont suffisamment espacées pour permettre à chaque plante de croître et de se développer.
 
-Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs.
-
 Les agriculteurs doivent désherber et protéger leurs cultures contre les animaux et les insectes nuisibles. Ils peuvent également utiliser des méthodes naturelles de lutte antiparasitaire, comme l'introduction d'insectes prédateurs pour contrôler les populations d'insectes nuisibles.
-
-En moins de mille ans, les moutons, les chèvres, les porcs et les bovins sont domestiqués.
 
 # -10 000 ans
 
 Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.
+
+Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela représente l'un des premiers exemples connus d'élevage domestique de chèvres. Les chèvres sont domestiquées pour leur viande et leur pelage.
 
 ## -9 000 ans
 
@@ -1047,7 +1073,7 @@ Homo Sapiens commence à domestiquer le chat.
 
 En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine ne représente pas seulement un tournant dans l'histoire de l'agriculture et de l'alimentation humaine, mais elle a également un impact profond sur le développement social, économique et culturel des sociétés néolithiques et des civilisations ultérieures en Asie.
 
-Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz, souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides, où l'eau peut être facilement dirigée vers les champs de riz. La préparation du terrain inclue le défrichement de la végétation et la création de petits champs inondés ou de rizières, qui peuvent être irrigués et drainés selon les besoins. Le riz peut être semé directement dans les champs inondés.
+Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz, souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides, où l'eau peut être facilement dirigée vers les champs de riz. Le riz peut être semé directement dans les champs inondés.
 
 La gestion de l'eau est cruciale pour la réussite de la culture du riz. Les agriculteurs doivent contrôler le niveau d'eau dans les champs pour favoriser la croissance du riz tout en prévenant la stagnation de l'eau et la pourriture des racines.
 
@@ -1085,15 +1111,13 @@ Homo Sapiens commence à faire usage de la brique pour construire des maisons. E
 
 En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.
 
+Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité. Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid ou à chaud en divers outils, armes, et ornements.
+
+En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.
+
 # -5000 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hieroglyphe.jpg)</span>
-
-Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui: le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
-
-Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.
-
-Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
 
 La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils ont joué un rôle central dans la culture Botai.
 
@@ -1109,7 +1133,17 @@ En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la c
 
 Les Sumériens établissent l'une des premières civilisations de l'histoire dans la région du sud de la Mésopotamie (l'actuel Irak).
 
+Les villes de la Mésopotamie ancienne sont organisées en cités-États, chacune gouvernée par un roi ou un dirigeant puissant. Ces dirigeants sont souvent considérés comme des intermédiaires entre les dieux et les peuples. Le système politique inclue également des prêtres qui jouent un rôle crucial dans la gestion des temples et des affaires religieuses, influençant fortement la vie sociale et économique. La société est stratifiée, avec des marchands, des artisans, et des agriculteurs jouant des rôles importants dans l'économie urbaine, tandis que les esclaves effectuent les travaux les plus durs.
+
+L'exploitation et l'esclavage sont courants en Mésopotamie. Les esclaves peuvent être des prisonniers de guerre, des personnes endettées, ou des individus vendus par leur famille. Ils sont utilisés dans l'agriculture, la construction, et les services domestiques. Les textes et les lois de l'époque, comme le Code de Hammurabi, fournissent des détails sur leur statut et leurs droits, qui sont limités comparés à ceux des personnes libres.
+
 # -4000 ans
+
+La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément la civilisation mésopotamienne.
+
+La Mésopotamie, riche en argile mais pauvre en autres ressources naturelles, échangent ses produits agricoles et artisanaux contre des matériaux et des biens de luxe d'autres régions.
+
+Les Sumériens développent la voile pour améliorer le transport fluvial et maritime. L'utilisation de la voile leur permet d'exploiter la force du vent pour naviguer plus efficacement sur les rivières et les mers, facilitant ainsi le commerce et les échanges entre différentes régions, ainsi que la pêche et l'exploration de nouvelles terres.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vCad77_c-LU" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1117,10 +1151,35 @@ Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chu
 
 Les villes et les villages du long du Nil (grand fleuve d'Afrique du Nord) s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
 
-Homo Sapiens commence à utiliser des chevaux pour tirer des chars. Après cela, domestiqué
-les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord et la Chine, étant montés et tirant des véhicules pour la guerre, l'agriculture et la construction.
-
 Les Egyptions utilisent des produits tels que des poudres pour blanchir la peau, des fards pour les yeux à base de malachite et de galène (kohl) pour réduire l'éblouissement du soleil et diminuer les risques d'infection oculaire, ainsi que des baumes et des huiles pour protéger et hydrater la peau dans un climat désertique.
+
+# -3500 ans
+
+Les Sumériens inventent la roue, principalement pour améliorer le transport et la logistique. Initialement, la roue est probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.
+
+Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue. L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole. En retournant le sol, la charrue permet une meilleure aération et préparation du terrain pour la plantation, contribuant significativement à l'augmentation de la production agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.
+
+Homo Sapiens commence à utiliser des chevaux pour tirer des charrues. Domestiquer les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord et la Chine.
+
+## -3300 ans
+
+Les Sumériens utilisent massivement le bronze, principalement pour ses avantages dans la fabrication d'armes et d'outils plus résistants que ceux en cuivre. Le bronze est fabriqué par l'alliage de cuivre avec un peu d'étain, ce qui lui confère une plus grande dureté et une meilleure capacité à retenir un tranchant affûté.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/8vWzmge6nMU" frameborder="0" allowfullscreen></iframe></p>
+
+# -3200 ans
+
+Naissance de la civilisation de la vallée de l'Indus, qui est aujourd'hui le Pakistan et l'ouest de l'Inde.
+
+Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui: le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.
+
+Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.
+
+Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
+
+# -3100 ans
+
+Première dynastie en Egypte.
 
 # -3000 ans
 
@@ -1132,21 +1191,19 @@ Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
-## -2200
+## -2500 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/8vWzmge6nMU" frameborder="0" allowfullscreen></iframe></p>
-
-Début de l'âge du bronze. Le bronze est un alliage de cuivre et d'étain. Le bronze rend plus robuste les outils, les armes et les armures.
+Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.
 
 ## -2000 ans
 
 De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
 
-Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes et à étendre son territoire. Cette période est caractérisée par l'expansion territoriale et la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
-
-Les Assyriens sont réputés pour leur brutalité envers les peuples conquis, utilisant la terreur comme un instrument de gouvernement pour dissuader les rébellions.
+Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
 
 ## -1800 ans
+
+L'Épopée de Gilgamesh, un des plus anciens récits littéraires de l'humanité, est rédigée en Sumérien. Elle raconte les aventures de Gilgamesh, roi semi-divin d'Uruk, et de son ami Enkidu, un homme sauvage civilisé par sa rencontre avec Gilgamesh. Ensemble, ils affrontent des monstres et défient les dieux, avant qu'Enkidu ne meure, poussant Gilgamesh à chercher l'immortalité. Le récit explore des thèmes universels comme l'amitié, la quête de gloire, la peur de la mort, et la recherche de sens dans la vie.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kfuY87Cfgyw" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1161,6 +1218,10 @@ La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nom
 Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
 
 Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.
+
+## -1700 ans
+
+Hammurabi, roi de Babylone de 1792 à 1750 av. J.-C., est célèbre pour son code de lois, l'un des premiers ensembles législatifs écrits de l'histoire. Ce code comprend des lois couvrant la justice, le commerce, le mariage et la propriété, établissant des standards pour les comportements sociaux et les punitions. Son originalité réside dans la tentative de standardiser les lois à travers un vaste empire, influençant les principes juridiques pour les siècles à venir.
 
 ## -1600 ans
 
@@ -1202,13 +1263,21 @@ Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégi
 
 Mort de Ramsès III.
 
+# -1200 ans
+
+Début de l'âge du fer. Le passage du bronze au fer est motivé par plusieurs facteurs, notamment la rareté de l'étain nécessaire à la fabrication du bronze, rendant le fer plus attractif en raison de sa disponibilité plus large. De plus, le fer, une fois correctement traité, offre une meilleure dureté et durabilité comparé au bronze, ce qui le rend plus efficace pour la fabrication d'outils, d'armes et d'autres objets.
+
+L'adoption du fer à grande échelle est observée principalement chez les peuples de la Mer Égée, notamment les Mycéniens et d'autres peuples grecs, ainsi que chez les peuples de la Mer Baltique et de l'Europe centrale. Ils commencent à utiliser le fer pour fabriquer des armes, des outils agricoles et des objets domestiques.
+
 # -1000 ans
 
 Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
 
 # -900 ans
 
-Un royaume, l'Assyrie, commence à étendre son territoire et conquérir d'autres régions de la Mésopotamie. Les Assyriens se sont rapidement imposés comme une puissance militaire dominante dans la région et créent un vaste empire qui s'étend de l'Irak à la Palestine et à la Syrie.
+L'Assyrie commence à étendre son territoire et conquérir d'autres régions de la Mésopotamie. Les Assyriens se sont rapidement imposés comme une puissance militaire dominante dans la région et créent un vaste empire qui s'étend de l'Irak à la Palestine et à la Syrie.
+
+Les Assyriens sont réputés pour leur brutalité envers les peuples conquis, utilisant la terreur comme un instrument de gouvernement pour dissuader les rébellions.
 
 # -800 ans
 
@@ -1312,11 +1381,19 @@ La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
 
 Scission définitive entre Chiisme et Sunnisme en islam.
 
+# 850
+
+Invention de la poudre à canon en Chine. Les Chinois inventent la poudre à canon pour diverses utilisations, notamment pour des feux d'artifice, des célébrations festives, et des pratiques alchimiques. La poudre à canon est un élément clé dans l'histoire de l'armement, marquant le début de l'ère des armes à feu.
+
 # 941 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VvGlw2HCxbU" frameborder="0" allowfullscreen></iframe></p>
 
 Constantinople, la capitale de l'Empire byzantin, est attaquée par les Rus' de Kiev dirigés par le prince Igor de Kiev.
+
+# 950 ans
+
+Invention des premiers moulins à vent en Perse (Iran). Ces premiers moulins à vent sont des structures simples dotées de voiles ou de toiles légères, utilisées pour pomper l'eau ou moudre des céréales. Ils sont principalement utilisés pour faciliter les tâches agricoles, notamment l'irrigation des terres et le broyage du grain. L'invention du moulin à vent est motivée par la nécessité de trouver des moyens plus efficaces et économes en énergie pour accomplir ces tâches essentielles à l'agriculture et à la vie quotidienne.
 
 # 988 ans
 
@@ -1325,6 +1402,12 @@ Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher
 # 1040 ans
 
 Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité. Ce sont des caractères en argile et en bois qui sont utilisés.
+
+# 1044 ans
+
+Invention de la boussole en Chine. Ce dispositif est utilisé initialement comme outil de navigation. Il se compose d'une aiguille aimantée flottant sur une rose des vents, pointant généralement vers le nord magnétique. Cette invention révolutionne la navigation en permettant aux marins de s'orienter plus précisément sur les océans, ouvrant ainsi de nouvelles routes commerciales et favorisant les explorations maritimes.
+
+L'aiguille de la boussole est magnétisée, ce qui signifie qu'elle est capable de s'aligner avec les lignes de force du champ magnétique terrestre. Le champ magnétique de la Terre est disposé d'une manière spécifique, avec une extrémité près du pôle nord géographique de la Terre.
 
 # 1054 ans
 
@@ -1361,6 +1444,12 @@ La ville de Constantinople est pillée et occupée par les croisés. En raison d
 # 1270 ans
 
 Mort de Saint Louis (Louis IX).
+
+# 1275 ans
+
+La première horloge mécanique est inventée par les moines bénédictins du monastère de St. Albans en Angleterre. Cette horloge a un cadran pour afficher l'heure et son mécanisme est basé sur un système de poids et de rouages pour réguler le mouvement des aiguilles. Ces poids descendent lentement, fournissant l'énergie nécessaire pour faire tourner les roues. Un échappement, qui est un dispositif mécanique, est utilisé pour contrôler la vitesse à laquelle les roues tournent, régulant ainsi la vitesse de l'horloge. L'horloge a un cadran avec des aiguilles pour indiquer l'heure, généralement sur un cadran de 12 heures.
+
+Les horloges mécaniques de cette époque sont souvent installées dans les églises et les monastères, où elles servent à marquer les heures pour les prières et les offices religieux. Elles ont également été utilisées pour réguler les activités quotidiennes dans les communautés locales.
 
 # 1279 ans
 
@@ -1405,6 +1494,8 @@ Johannes Gutenberg mis au point sa première imprimerie en Allemagne. Les étape
 5 le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier<br/>
 6 le levier est relié à des rouleaux qui pressent sur les caractères mobiles et sur le papier. Ces rouleaux sont ajustables et peuvent être réglés pour produire une pression uniforme sur toute la page<br/>
 7 un rouleau permet de répartir la pression de manière plus uniforme sur toute la page. Si on utilisait un levier seul, la pression serait concentrée sur un seul point, ce qui pourrait endommager les caractères mobiles et le papier.
+
+Johannes Gutenberg imprime la Bible à l'aide de sa presse à imprimer. Cette Bible, connue sous le nom de la "Bible de Gutenberg" ou la "Bible à quarante-deux lignes", est le premier livre majeur imprimé en Europe à l'aide de la technologie de l'imprimerie. La Bible est un ouvrage largement demandé à l'époque, ce qui garantit un marché potentiel pour les exemplaires imprimés.
 
 ## 1453 ans
 
@@ -1598,6 +1689,10 @@ Les Lumières refusent que la religion demande aux humains d'obéir à Dieu. On 
 
 En résumé, le message principal du mouvement des Lumières est de promouvoir la liberté, l'égalité et la démocratie en mettant l'accent sur la raison et la science comme moyens de progrès humain.
 
+## 1788 ans
+
+Symington construit le "Charlotte Dundas", un bateau à vapeur expérimental propulsé par une machine à vapeur.
+
 ## 1790 ans
 
 A Saint-Domingue 500 000 esclaves produisent 100 000 tonnes de sucre. Les esclaves sont principalement originaires d'Afrique subsaharienne et sont utilisés pour travailler dans les plantations de canne à sucre, de café, de coton et de tabac.
@@ -1650,6 +1745,12 @@ Il y a 1 000 000 000 d'homo sapiens sur Terre.
 
 La Martinique redevient français, date à laquelle Napoléon rétablit l'esclavage. Napoléon rétabli également l'esclavage dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.
 
+## 1807 ans
+
+Fulton lance le "Clermont", le premier bateau à vapeur commercial réussi. Le "Clermont" navigue le long de la rivière Hudson, reliant New York à Albany.
+
+Le fonctionnement d'un bateau à vapeur repose sur l'utilisation de la vapeur d'eau pour actionner une turbine ou un piston, qui à son tour fait tourner une hélice ou des roues à aubes, propulsant ainsi le bateau à travers l'eau.
+
 ## 1808 ans
 
 L'esclavage est supprimé au Royaume-Uni. Cette loi est adoptée en réponse aux pressions exercées par les mouvements abolitionnistes et est l'une des premières lois de ce type adoptées en Europe.
@@ -1689,6 +1790,12 @@ En France, on adopte une loi interdisant la traite négrière et prévoient des 
 Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres. L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.
 
 Les forces françaises prennent la ville d'Alger après quelques semaines de siège, marquant le début de la colonisation française en Algérie.
+
+## 1831 ans
+
+Invention de la moissonneuse-batteuse par Cyrus McCormick, un inventeur américain. Cette invention révolutionnaire transforme le processus de récolte des cultures céréalières telles que le blé, l'orge et l'avoine.
+
+La moissonneuse-batteuse est une machine tirée par des chevaux ou des bœufs, équipée d'une barre de coupe pour couper les tiges de céréales, et d'un mécanisme de battage pour séparer les grains de la paille. Avant l'invention du "Reaper", la récolte des céréales se fait à la main, ce qui est une tâche laborieuse et fastidieuse nécessitant de nombreuses mains-d'œuvre.
 
 ## 1837 ans
 
@@ -1836,6 +1943,10 @@ Les japonais veulent mener une nouvelle guerre à la Corée dans un but impéria
 
 Début de jean Levi's à San Fransisco.
 
+## 1876 ans
+
+Invention du moteur à combustion interne à quatre temps, breveté par l'ingénieur allemand Nikolaus Otto. Le moteur à combustion interne fonctionne en brûlant un mélange d'essence et d'air à l'intérieur d'une chambre de combustion, ce qui produit de l'énergie sous forme de mouvement rotatif. Ce mouvement est ensuite converti en mouvement linéaire, fournissant la force nécessaire pour faire fonctionner les véhicules à moteur.
+
 ## 1877 ans
 
 Les révoltes des anciens fiefs guerriers (qui veulent envahir la corée) du Japon sont matées par cette nouvelle armée impériale, bien entraînée et bien équipée. Cette défaite sonne la fin de l'ère des samourais.
@@ -1870,6 +1981,10 @@ Première centrale électrique alimentée au charbon à Holborn Viaduct à Londr
 4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local
 
 La centrale électrique de Holborn Viaduct est une innovation importante dans l'histoire de l'énergie, car elle permet de produire de l'électricité de manière plus efficace et à un coût inférieur à celui de la production d'électricité par d'autres moyens. Depuis lors, les centrales électriques alimentées au charbon continuent à être développées et améliorées, et elles sont utilisées de manière intensive comme source d'énergie pour la production d'électricité. Cependant, le charbon est une source d'énergie très polluante, car il libère de grandes quantités de dioxyde de carbone (CO2) et d'autres gaz à effet de serre lorsqu'il est brûlé. En outre, l'extraction du charbon peut avoir des impacts négatifs sur l'environnement, notamment la déforestation, la pollution de l'air et de l'eau, et la perturbation des écosystèmes. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation du charbon et à se tourner vers des sources d'énergie renouvelables moins polluantes.
+
+## 1885 ans
+
+L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps qu'il a développé en collaboration avec Gottlieb Daimler.
 
 ## 1886 ans
 
