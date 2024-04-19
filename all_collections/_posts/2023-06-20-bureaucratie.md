@@ -13,11 +13,9 @@ tags: philosophy
 l’Agence nationale de sécurité du médicament et des produits de santé, le Conseil scientifique de la présidence de la République, le Haut Conseil de la santé publique,
 l’Agence nationale de sécurité de logistique médicale ont le plaisir de vous annoncer la naissance du petit dernier: le Haut Conseil d’orientation pour la stratégie vaccinale!»
 
-La bureaucratie est une violence. Comme le soutient David Graeber, quand il y a communication bureaucratique, souvent, si on ignore ce message, ou on s'y oppose, on court un danger. Après quelques mois, quelques années, on risque de subir une intervention énergique des policiers ou/et une humiliation...
+Un excès de formalisme peut entraver considérablement le travail au sein d'une entreprise. Il est tentant de croire que l'on progresse dans son travail en accomplissant des tâches formelles. Toutefois, ces tâches sont en réalité des rituels qui mettent en avant les valeurs de soumission, de hiérarchie et d'ordre, autour de personnes qui édictent des normes. Ces rituels n'accélèrent pas le processus de lancement d'un nouveau produit ou service sur le marché, qui constitue justement l'objectif final, ou la "raison d'être", d'une organisation professionnelle.
 
-On constate également qu'un excès de formalisme peut entraver considérablement le travail au sein d'une entreprise. Il est tentant de croire que l'on progresse dans son travail en accomplissant des tâches formelles. Toutefois, ces tâches sont en réalité des rituels qui mettent en avant les valeurs de soumission, de hiérarchie et d'ordre, autour d'un leader qui édicte des normes. Ces rituels n'accélèrent pas le processus de lancement d'un nouveau produit ou service sur le marché, qui constitue justement l'objectif final, ou la "raison d'être", d'une organisation professionnelle.
-
-Si vous avez une personne qui tente de communiquer avec vous dans une langue obscure, en invoquant sans cesse la loi, en utilisant un langage ultra-technique, la relation ne commence pas très bien (d'après quelques expériences personnelles). Il s'agit d'une forme de relation qui devrait être évitée ou qui devrait être rejetée, dans la mesure du possible.
+Si vous avez une personne qui tente de communiquer avec vous dans une langue obscure, en utilisant un langage ultra-technique, la relation ne commence pas très bien (d'après quelques expériences personnelles).
 
 Ainsi comment agir pour se protéger contre l'invasion bureaucratique, que ce soit en réalité financière, fiscale, immobilière, étatique.... ?
 
