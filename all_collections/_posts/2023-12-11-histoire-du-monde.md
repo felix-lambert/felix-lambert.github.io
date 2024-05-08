@@ -2087,6 +2087,10 @@ Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas e
 
 ## 1915 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PumBUVxrhW8" frameborder="0" allowfullscreen></iframe></p>
+
+Les autorités ottomanes se livrent à un crime de masse contre la communauté assyro-chaldéenne, cet épisode historique reste relativement méconnu.
+
 Après la confection des premiers avions de chasse, la première guerre mondiale se déplace progressivement dans les airs. Le taux de mortalité pour un aviateur est de 25%.
 
 ## 1918 ans
@@ -2231,6 +2235,10 @@ Les forces alliées décident de diviser temporairement la péninsule coréenne 
 
 Invention de L'ENIAC. C'est l'un des premiers ordinateurs électroniques de grande échelle, capable d'être reprogrammé pour résoudre un large éventail de problèmes de calcul.
 
+## 1946 ans
+
+Les forces françaises et les indépendantistes vietnamiens se font la guerre. C'est le début de la guerre d'Indochine.
+
 ## 1947 ans
 
 L'Inde est partitionné en deux pays indépendants, l'Inde et le Pakistan.
@@ -2288,6 +2296,10 @@ Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puis
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/p4C6oBdW1kM" frameborder="0" allowfullscreen></iframe></p>
 
 Apparition de Godzilla à l'écran.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Wo5ja19QCJc" frameborder="0" allowfullscreen></iframe></p>
+
+Au Nord du Vietnam, deux armées s'affrontent: l'armée française et l'armée populaire vietnamienne. C'est la bataille de Dien Bien Phu. Cette bataille fait plus de 10000 morts. Le Vietnam, le Laos et le Cambodge deviennent indépendants. C'est la fin de la guerre d'Indochine.
 
 ## 1955 ans
 
@@ -2477,11 +2489,13 @@ Création au Rwanda de la radio des Mille Collines, une radio privée, juste ava
 
 ## 1995 ans
 
-J.K. Rowling commence à écrire le premier livre, "Harry Potter à l'école des Sorciers", et a mis environ cinq ans pour le terminer. Elle a commencé à travailler sur l'histoire alors qu'elle prenait le train de Manchester à Londres pour se rendre à son travail. Selon ses propres mots, l'idée de Harry Potter lui est venue en tête alors qu'elle était assise sur un train, regardant par la fenêtre.
+J.K. Rowling commence à écrire le premier livre, "Harry Potter à l'école des Sorciers", et met environ cinq ans pour le terminer. Elle commence à travailler sur l'histoire alors qu'elle prend le train de Manchester à Londres pour se rendre à son travail. Selon ses propres mots, l'idée de Harry Potter lui est venue en tête alors qu'elle est assise dans un train, regardant par la fenêtre.
 
 ## 1996 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2I0K6kQtx6A" frameborder="0" allowfullscreen></iframe></p>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QdoU2tZYJbQ" frameborder="0" allowfullscreen></iframe></p>
 
 Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.
 
@@ -2522,6 +2536,8 @@ Le département de la Justice des États-Unis intente une action en justice cont
 
 Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de gestion de contenu en ligne qui permet à n'importe qui de créer et de modifier des articles encyclopédiques. Ils lancent le projet avec un petit nombre d'articles, et ils encouragent les bénévoles à contribuer au projet en ajoutant et en mettant à jour des articles.
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/JJ70vt3FQb4" frameborder="0" allowfullscreen></iframe></p>
+
 Les États-Unis sont attaqués dans un acte de terrorisme coordonné d'une ampleur sans précédent. Deux avions de ligne, détournés par des membres d'Al-Qaïda, s'écrasent dans les tours jumelles du World Trade Center à New York, causant leur effondrement. Un troisième avion s'écrase sur le Pentagone, près de Washington, D.C. Un quatrième avion, United Airlines Vol 93, s'écrase en Pennsylvanie après que les passagers et l'équipage tentent de reprendre le contrôle de l'appareil des terroristes. Ces attaques entraînent la mort de près de 3 000 personnes et marquent un tournant majeur dans l'histoire mondiale, déclenchant des guerres en Afghanistan et en Irak et menant à d'importantes modifications des politiques de sécurité nationale et internationale.
 
 ## 2002 ans
@@ -2535,6 +2551,8 @@ Cependant, il est important de noter que les chauves-souris ne sont pas considé
 Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui cause une pandémie mondiale en 2020.
 
 ## 2003 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/wdZiNyiPTPM" frameborder="0" allowfullscreen></iframe></p>
 
 Les États-Unis, sous la présidence de George W. Bush, envahissent l'Irak. Cette action, officiellement nommée "Opération Liberté Irakienne", est lancée avec le soutien d'une "coalition des volontaires" incluant le Royaume-Uni et plusieurs autres alliés. L'invasion vise à destituer le président irakien Saddam Hussein, sous prétexte de la possession d'armes de destruction massive par l'Irak et de liens supposés avec le terrorisme, notamment Al-Qaïda. L'invasion suscite des controverses et des protestations à l'échelle internationale.
 
@@ -2565,6 +2583,8 @@ Tor (The Onion Router) est développé par la US Navy en 2002 pour permettre une
 Tor est toujours utilisé aujourd'hui et est considéré comme l'un des moyens les plus efficaces pour naviguer anonymement sur Internet. Cependant, il est important de noter que même si Tor offre une certaine protection contre la surveillance, il n'est pas infaillible et il est important de prendre des mesures supplémentaires pour protéger son anonymat en ligne.
 
 ## 2008 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/eGGy2ocOLHE" frameborder="0" allowfullscreen></iframe></p>
 
 La crise des subprimes débute. Elle est le résultat d'une combinaison de facteurs, dont les principaux sont les suivants :
 
@@ -2628,6 +2648,8 @@ Donald Trump est élu président.
 
 ## 2018 ans
 
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6rCtJugNkfI" frameborder="0" allowfullscreen></iframe></p>
+
 Le mouvement des Gilets Jaunes est déclenché par une augmentation prévue des taxes sur les carburants, en particulier le diesel, dans le cadre de la transition énergétique du gouvernement français pour lutter contre le changement climatique. Cependant, le mouvement évolue rapidement pour englober des revendications plus larges concernant les inégalités économiques, le pouvoir d'achat, la justice sociale et la démocratie participative. Le mouvement est aussi caractérisé par son organisation horizontale et décentralisée, sans leader unique ou structure formelle.
 
 GPT-1 (Generative Pre-trained Transformer 1) est développé par OpenAI. C'est le premier d'une série de modèles de traitement du langage naturel basés sur l'architecture des transformateurs. Il dispose de 117 millions de paramètres. Un paramètre est une composante du modèle qui est apprise à partir des données d'entraînement. Chaque paramètre représente un aspect de la connaissance que le modèle a acquis. Dans les réseaux de neurones, qui sont au cœur des modèles GPT, les paramètres sont typiquement les poids des connexions entre les neurones. Dans un réseau de neurones, chaque connexion entre deux neurones a un poids associé. Ce poids détermine l'importance et l'influence d'une entrée sur un neurone. Lors de l'apprentissage, ces poids sont ajustés pour que le modèle réponde de manière plus précise aux données d'entraînement.
@@ -2645,6 +2667,8 @@ DeepMind, la filiale de recherche en intelligence artificielle de la société m
 OpenAI lance GPT-2. GPT-2 dispose de 1,5 milliard de paramètres, ce qui lui permet d'acquérir une meilleure compréhension du langage et de générer des textes plus cohérents et contextuellement pertinents.
 
 ## 2020 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LHSSYoavZFg" frameborder="0" allowfullscreen></iframe></p>
 
 Le monde est confronté à une pandémie de COVID-19, une maladie causée par le coronavirus SARS-CoV-2. La pandémie entraîne des restrictions de voyage et de rassemblement dans de nombreux pays, ainsi que la fermeture de nombreuses entreprises et écoles. Plusieurs vaccins contre le COVID-19 sont développés et commencent à être administrés à des millions de personnes dans le monde. Ces vaccins sont développés en un temps record grâce à la collaboration internationale.
 
@@ -2664,7 +2688,7 @@ Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en In
 
 ## 2023 ans
 
-Le 7 octobre, environ 3 000 militants du Hamas, avec l'intention de tuer, ont franchi la frontière vers le sud d'Israël. Ils ont ciblé un festival de musique et plusieurs kibboutz, causant la mort et la torture de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme l'attaque la plus meurtrière dans les 75 ans d'histoire d'Israël et la plus grande perte de vie juive depuis l'Holocauste.
+Le 7 octobre, environ 3 000 militants du Hamas franchissent la frontière vers le sud d'Israël. Ils ciblent un festival de musique et plusieurs kibboutz, causant la mort de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme la plus grande perte de vie juive depuis l'Holocauste.
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
