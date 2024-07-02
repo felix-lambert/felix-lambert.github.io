@@ -41,7 +41,7 @@ Les internautes se sont identifiés comme des "lying flatism", publiant des phot
 
 # 9. La culture geek
 
-Nouvelles mythologies du monde moderne. Expérimentations de nouveaux narratifs au sein du monde moderne. Recherche de gamification du monde. Le geek semble savoir habiter ce nouveau monde des technologies et refuse de grandir.
+Nouvelles mythologies du monde moderne. Expérimentations de nouveaux narratifs au sein du monde moderne. Recherche de gamification du monde. Le geek semble savoir habiter ce nouveau monde des technologies.
 
 # 8. Le capitalisme
 
