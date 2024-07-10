@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire du monde
-date: 2023-12-11 10:18:00
+date: 2025-07-06 10:18:00
 tags: histoire
 ---
 
@@ -19,13 +19,23 @@ Depuis lors, il s'est étendu et refroidi.
 
 Dans cet univers, il y a 4 forces fondamentales:
 
-1 forces électromagnétiques > peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons, tels que la lumière, le courant électrique et les aimants. C'est cette force qui maintient les électrons en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier ensemble pour former des molécules.
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
 
-2 forces gravitationnelles > peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes comme la chute des objets vers le sol.
+#### 1. Forces électromagnétiques
 
-3 forces nucléaires faibles > n'influence que les objets plus petits qu'un atome. Permet à certaines particules de changer de type. Par exemple, un neutron (une des particules qui composent le noyau des atomes) peut se transformer en un proton, un électron et une particule appelée antineutrino, grâce à la force faible.
+Peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons, tels que la lumière, le courant électrique et les aimants. C'est cette force qui maintient les électrons en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier ensemble pour former des molécules.
 
-4 forces nucléaires fortes > s'exerce uniquement à l'intérieur des noyaux atomiques. Elle est responsable de la liaison des particules subatomiques appelées quarks pour former des protons et des neutrons, qui sont les composants du noyau des atomes. Elle est également responsable de la liaison des protons et des neutrons ensemble pour former le noyau des atomes. C'est une tâche difficile, car les protons ont tous une charge positive et se repoussent donc mutuellement à cause de la force électromagnétique. C'est là que la force forte entre en jeu : elle est suffisamment puissante pour surmonter la répulsion électromagnétique et maintenir le noyau ensemble.
+#### 2. Forces gravitationnelles
+
+Peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes comme la chute des objets vers le sol.
+
+#### 3. Forces nucléaires faibles
+
+N'influence que les objets plus petits qu'un atome. Permet à certaines particules de changer de type. Par exemple, un neutron (une des particules qui composent le noyau des atomes) peut se transformer en un proton, un électron et une particule appelée antineutrino, grâce à la force faible.
+
+#### 4. Forces nucléaires fortes
+
+S'exerce uniquement à l'intérieur des noyaux atomiques. Elle est responsable de la liaison des particules subatomiques appelées quarks pour former des protons et des neutrons, qui sont les composants du noyau des atomes. Elle est également responsable de la liaison des protons et des neutrons ensemble pour former le noyau des atomes. C'est une tâche difficile, car les protons ont tous une charge positive et se repoussent donc mutuellement à cause de la force électromagnétique. C'est là que la force forte entre en jeu : elle est suffisamment puissante pour surmonter la répulsion électromagnétique et maintenir le noyau ensemble.
 
 Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.
 
@@ -35,27 +45,25 @@ Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarr
 
 Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/force.jpg)</span>
-
 Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons. Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont électriquement neutres), et donc les premiers éléments chimiques apparaissent. Cette force agit entre les quarks de manière à les maintenir ensemble dans les noyaux atomiques, malgré la tendance des quarks à se disperser en raison de leur charge électrique. Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
 
 Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).
 
 À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.
 
-Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température a alors chuté à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
+Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/helium.png)</span>
 
 ## -13 699 620 000 d'années
 
-<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif)</span>
-
-<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif)</span>
-
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/e9GuJUaX0UM" frameborder="0" allowfullscreen></iframe></p>
 
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).
+
+<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif)</span>
+
+<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif)</span>
 
 L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).
 
@@ -70,8 +78,6 @@ Cette fusion permet de donner naissance aux premières étoiles de l’Univers. 
 A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.
 
 ## -13 500 000 000 d'années
-
-Correction: après les découvertes de James Webb. On découvre que des galaxies existent déjà à cette époque.
 
 Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.
 
@@ -1191,17 +1197,21 @@ Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
-## -2500 ans
+# -2500 ans
 
 Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.
 
-## -2000 ans
+# -2100 ans
+
+L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues. Cette épopée sumérienne raconte les aventures du roi Gilgamesh et aborde des thèmes universels tels que l'amitié, la quête de l'immortalité et la confrontation avec la mort.
+
+# -2000 ans
 
 De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
 
 Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
 
-## -1800 ans
+# -1800 ans
 
 L'Épopée de Gilgamesh, un des plus anciens récits littéraires de l'humanité, est rédigée en Sumérien. Elle raconte les aventures de Gilgamesh, roi semi-divin d'Uruk, et de son ami Enkidu, un homme sauvage civilisé par sa rencontre avec Gilgamesh. Ensemble, ils affrontent des monstres et défient les dieux, avant qu'Enkidu ne meure, poussant Gilgamesh à chercher l'immortalité. Le récit explore des thèmes universels comme l'amitié, la quête de gloire, la peur de la mort, et la recherche de sens dans la vie.
 
@@ -1219,17 +1229,17 @@ Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d
 
 Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.
 
-## -1700 ans
+# -1700 ans
 
 Hammurabi, roi de Babylone de 1792 à 1750 av. J.-C., est célèbre pour son code de lois, l'un des premiers ensembles législatifs écrits de l'histoire. Ce code comprend des lois couvrant la justice, le commerce, le mariage et la propriété, établissant des standards pour les comportements sociaux et les punitions. Son originalité réside dans la tentative de standardiser les lois à travers un vaste empire, influençant les principes juridiques pour les siècles à venir.
 
-## -1600 ans
+# -1600 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Z397d32MHeM" frameborder="0" allowfullscreen></iframe></p>
 
 L'Empire hittite commence à émerger. Cette période marque le début de ce qu'on appelle l'ancien royaume hittite, qui est établi en Anatolie (l'actuelle Turquie).
 
-## -1500 ans
+# -1500 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ossecaille.png)</span>
 
@@ -1241,25 +1251,23 @@ Ces signes classificateurs sont très fréquents en chinois, d'où son importanc
 
 Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.
 
-### -1258 ans
+## -1258 ans
 
 Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.
 
-## -1207 ans
+# -1207 ans
 
 Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".
 
 Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.
 
-## -1200 ans
+# -1200 ans
 
 Fin de l'âge du bronze.
 
 ## -1155 ans
 
 Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.
-
-## -1155 ans
 
 Mort de Ramsès III.
 
@@ -1284,6 +1292,8 @@ Les Assyriens sont réputés pour leur brutalité envers les peuples conquis, ut
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cVsQB4wpRBc" frameborder="0" allowfullscreen></iframe></p>
 
 Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils ont développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet de commencer à enregistrer leur histoire et leur littérature.
+
+L'Iliade et l'Odyssée, attribuées à Homère, sont parmi les œuvres fondatrices de la littérature occidentale. Elles racontent respectivement la guerre de Troie et les aventures d'Ulysse.
 
 ## -753 ans
 
@@ -1349,17 +1359,23 @@ La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette s�
 
 Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques (pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau, permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité remarquable. Cette invention révolutionne l'architecture et le génie civil romains, permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.
 
-# 9 ans
+## 9 ans
 
 La bataille de Teutobourg oppose une alliance de tribus germaniques, dirigée par Arminius, à trois légions romaines commandées par Publius Quinctilius Varus. Elle se déroule dans la forêt de Teutobourg, située dans l'actuelle Allemagne.
 
 Arminius, un chef de guerre de la tribu des Chérusques, réussi à rassembler plusieurs tribus germaniques pour affronter les Romains. Il utilise sa connaissance des tactiques romaines et du terrain pour tendre une embuscade aux légions romaines. Les Romains, mal préparés pour cette attaque et les conditions de la forêt, subissent de lourdes pertes. En fin de compte, les trois légions romaines sont anéanties. Environ 20 000 soldats romains sont tués et Varus se suicide.
 
-# 16 ans
+## 16 ans
 
 Germanicus, un général romain et neveu de l'empereur Tibère, mène une campagne pour venger la défaite romaine lors de la bataille de la forêt de Teutobourg en 9 ap. J.-C. La bataille d'Idistaviso oppose les forces romaines aux tribus germaniques dirigées par Arminius. Les Romains remportent une victoire décisive lors de cette bataille, infligeant de lourdes pertes aux tribus germaniques.
 
 Malgré ce succès, les Romains ne réussissent pas à soumettre complètement les tribus germaniques, et l'empereur Tibère met fin aux campagnes de Germanicus en Germanie, préférant consolider les frontières existantes plutôt que de poursuivre une expansion coûteuse et risquée.
+
+## 43 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dZwBb0tVktA" frameborder="0" allowfullscreen></iframe></p>
+
+Les Romains commencent leur conquête de la Grande-Bretagne, sous l'empereur Claude. Ils établissent leur contrôle sur la majeure partie de l'île, mais ils n'ont jamais conquis entièrement les régions les plus septentrionales, notamment l'actuelle Écosse.
 
 ## 100 ans
 
@@ -1377,81 +1393,81 @@ Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de 
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
 
-# 680 ans
+## 680 ans
 
 Scission définitive entre Chiisme et Sunnisme en islam.
 
-# 850
+## 850
 
 Invention de la poudre à canon en Chine. Les Chinois inventent la poudre à canon pour diverses utilisations, notamment pour des feux d'artifice, des célébrations festives, et des pratiques alchimiques. La poudre à canon est un élément clé dans l'histoire de l'armement, marquant le début de l'ère des armes à feu.
 
-# 941 ans
+## 941 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VvGlw2HCxbU" frameborder="0" allowfullscreen></iframe></p>
 
 Constantinople, la capitale de l'Empire byzantin, est attaquée par les Rus' de Kiev dirigés par le prince Igor de Kiev.
 
-# 950 ans
+## 950 ans
 
 Invention des premiers moulins à vent en Perse (Iran). Ces premiers moulins à vent sont des structures simples dotées de voiles ou de toiles légères, utilisées pour pomper l'eau ou moudre des céréales. Ils sont principalement utilisés pour faciliter les tâches agricoles, notamment l'irrigation des terres et le broyage du grain. L'invention du moulin à vent est motivée par la nécessité de trouver des moyens plus efficaces et économes en énergie pour accomplir ces tâches essentielles à l'agriculture et à la vie quotidienne.
 
-# 988 ans
+## 988 ans
 
 Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher le royaume russe à la grandeur de Constantinople.
 
-# 1040 ans
+## 1040 ans
 
 Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité. Ce sont des caractères en argile et en bois qui sont utilisés.
 
-# 1044 ans
+## 1044 ans
 
 Invention de la boussole en Chine. Ce dispositif est utilisé initialement comme outil de navigation. Il se compose d'une aiguille aimantée flottant sur une rose des vents, pointant généralement vers le nord magnétique. Cette invention révolutionne la navigation en permettant aux marins de s'orienter plus précisément sur les océans, ouvrant ainsi de nouvelles routes commerciales et favorisant les explorations maritimes.
 
 L'aiguille de la boussole est magnétisée, ce qui signifie qu'elle est capable de s'aligner avec les lignes de force du champ magnétique terrestre. Le champ magnétique de la Terre est disposé d'une manière spécifique, avec une extrémité près du pôle nord géographique de la Terre.
 
-# 1054 ans
+## 1054 ans
 
 Un schisme religieux, connu sous le nom de "Grand Schisme", se produit entre les Églises d'Orient et d'Occident. Le Grand Schisme conduit à la séparation définitive de la chrétienté en deux branches : l'Église catholique romaine (en Occident) et l'Église orthodoxe (en Orient). Plusieurs facteurs ont contribué au Grand Schisme, notamment des différences culturelles et linguistiques notables. L'Occident parle principalement le latin, tandis que l'Orient parle le grec. Ces différences linguistiques conduisent à des divergences dans l'interprétation des textes religieux et des doctrines théologiques. Depuis le Grand Schisme, l'Église catholique romaine et l'Église orthodoxe évoluent indépendamment l'une de l'autre, bien qu'il y ait des tentatives de réconciliation au fil des siècles. Malgré certaines convergences théologiques et des efforts œcuméniques, le schisme entre les deux Églises persiste jusqu'à aujourd'hui.
 
-# 1066 ans
+## 1066 ans
 
 Joseph ibn Naghrela, le vizir juif de Grenade et fils de Samuel HaNagid, un célèbre poète et chef militaire, est une figure centrale de la communauté juive. Des rumeurs et des accusations contre Joseph et la communauté juive alimentent un climat de méfiance et de ressentiment parmi la population musulmane de la ville.
 
 Une foule en colère attaque le palais royal, tuant Joseph ibn Naghrela et crucifiant son corps. Le massacre s'étend à la ville, où des milliers de Juifs sont tués (les estimations varient, mais certains rapports parlent de plus de 4000 victimes). Cet événement est considéré comme l'un des premiers pogroms en Europe.
 
-# 1144 ans
+## 1144 ans
 
 Après la mort mystérieuse d'un garçon chrétien nommé William, un moine local nommé Thomas de Monmouth écrit un récit détaillé accusant la communauté juive de Norwich d'avoir rituellement assassiné l'enfant. Bien qu'il n'y ait aucune preuve crédible pour étayer ces allégations, l'histoire de Thomas conduit à la propagation de l'accusation de meurtre rituel à travers l'Europe.
 
 Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans diverses parties de l'Europe, menant souvent à des persécutions et des violences contre les communautés juives. Ces accusations sont entièrement infondées et reflètent les préjugés et la méfiance profonds envers les Juifs qui prévalent dans la société médiévale chrétienne.
 
-# 1202 ans
+## 1202 ans
 
 La quatrième croisade est lancée par le pape Innocent III dans le but de reconquérir Jérusalem, qui est alors sous le contrôle musulman.
 
-# 1206 ans
+## 1206 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/A9o_eh6qGOo" frameborder="0" allowfullscreen></iframe></p>
 
 Proclamation de l'Empire mongole. Temüjin se révèle être un leader charismatique et un stratège habile. Au fil des années, il réussi à unifier les tribus mongoles dissidentes, souvent par la force, mais aussi par la diplomatie et l'alliance. Lors d'un kurultai (une assemblée de chefs de clans), il est proclamé "Genghis Khan", signifiant "empereur universel".
 
-# 1204 ans
+## 1204 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4qOVh4R8lys" frameborder="0" allowfullscreen></iframe></p>
 
 La ville de Constantinople est pillée et occupée par les croisés. En raison de diverses circonstances politiques et financières, les croisés se détournent de leur objectif initial et finissent par attaquer Constantinople, une ville chrétienne. Pendant plusieurs jours, ils dévastent la ville, détruisant de nombreux monuments et œuvres d'art, et volant d'innombrables trésors. Beaucoup de ces trésors sont emportés en Occident, notamment à Venise, qui joue un rôle clé dans la direction et le financement de la quatrième croisade.
 
-# 1270 ans
+## 1270 ans
 
 Mort de Saint Louis (Louis IX).
 
-# 1275 ans
+## 1275 ans
 
 La première horloge mécanique est inventée par les moines bénédictins du monastère de St. Albans en Angleterre. Cette horloge a un cadran pour afficher l'heure et son mécanisme est basé sur un système de poids et de rouages pour réguler le mouvement des aiguilles. Ces poids descendent lentement, fournissant l'énergie nécessaire pour faire tourner les roues. Un échappement, qui est un dispositif mécanique, est utilisé pour contrôler la vitesse à laquelle les roues tournent, régulant ainsi la vitesse de l'horloge. L'horloge a un cadran avec des aiguilles pour indiquer l'heure, généralement sur un cadran de 12 heures.
 
 Les horloges mécaniques de cette époque sont souvent installées dans les églises et les monastères, où elles servent à marquer les heures pour les prières et les offices religieux. Elles ont également été utilisées pour réguler les activités quotidiennes dans les communautés locales.
 
-# 1279 ans
+## 1279 ans
 
 Les forces Song résistantes sont défaites par les Mongols à la bataille de Yamen. C'est à cette bataille que le dernier empereur Song, l'empereur Bing, péri, mettant fin à la dynastie Song.
 
@@ -1590,6 +1606,18 @@ La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financi
 ## 1607 ans
 
 La colonie anglaise la plus ancienne et la plus célèbre en Amérique est fondée à Jamestown, en Virginie. 7 millions d'amérindiens s'étendent entre les grands lacs et la Floride.
+
+## 1609 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hvw1dFM_zqs" frameborder="0" allowfullscreen></iframe></p>
+
+Galilée perfectionne le télescope et commencée à l'utiliser pour observer le ciel. Grâce à ses observations, il fait plusieurs découvertes révolutionnaires :
+
+    Les cratères et montagnes de la Lune : Contrairement à la croyance populaire de l'époque, qui voyait la Lune comme un corps céleste parfaitement lisse et sphérique, Galilée observe des cratères et des montagnes, démontrant que la surface de la Lune était irrégulière.
+
+    Les quatre plus grands satellites de Jupiter : Galilée découvre les quatre plus grands satellites de Jupiter, aujourd'hui connus sous le nom de lunes galiléennes : Io, Europe, Ganymède et Callisto. Ces découvertes sont particulièrement importantes car elles montrent que des corps célestes peuvaient orbiter autour d'autres planètes, remettant en cause la vision géocentrique (la Terre comme centre de l'univers) dominante à l'époque.
+
+    Les phases de Vénus : Galilée observe que Vénus passe par des phases similaires à celles de la Lune, ce qui ne peut être expliqué que si Vénus tourne autour du Soleil, et non de la Terre. Cela fourni une preuve solide en faveur du modèle héliocentrique de Copernic, selon lequel le Soleil est au centre du système solaire.
 
 ## 1610 ans
 
