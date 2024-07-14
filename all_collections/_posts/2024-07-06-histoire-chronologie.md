@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Histoire du monde
-date: 2025-07-06 10:18:00
-tags: histoire
+title: Histoire / chronologie
+date: 2024-02-20 10:18:00
+tags: technology
 ---
 
 Une partie a été générée par ChatGPT (3 et 4)
