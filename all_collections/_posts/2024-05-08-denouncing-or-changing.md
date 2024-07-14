@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Denouncing or changing
-date: 2024-02-20 10:18:00
+date: 2024-05-07 10:18:00
 tags: technology
 ---
 
