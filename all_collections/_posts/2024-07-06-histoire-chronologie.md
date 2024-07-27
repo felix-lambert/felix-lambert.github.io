@@ -297,7 +297,7 @@ La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l
 
 ## -1 400 000 000 d'années
 
-Les algues sont les les premiers organismes photosynthétiques à se développer dans les fonds marins.
+Les algues sont les premiers organismes photosynthétiques à se développer dans les fonds marins.
 
 ## -1 300 000 000 d'années
 
@@ -305,7 +305,7 @@ Des champignons microscopiques sont présents en dehors de l'eau.
 
 ## -1 200 000 000 d'années
 
-Certains eucaryotes peuvent se reproduire en échangeant ou copiant leur ADN. Cela mélange les gènes de deux parents pour créer un nouvel individu unique. On appelle ça la "reproduction". Cette méthode aide à garder les cellules complexes.
+Certains eucaryotes peuvent se reproduire en échangeant ou copiant leur ADN. Cela mélange les gènes de deux parents pour créer un nouvel individu unique. On appelle ça la "reproduction". Cette méthode aide à garder les cellules complexes car elle aide à maintenir la complexité des cellules eucaryotes en augmentant la diversité génétique, en facilitant la réparation de l'ADN, en éliminant les mutations délétères, en permettant une adaptation rapide aux menaces biotiques et en favorisant l'évolution de nouvelles caractéristiques fonctionnelles.
 
 Les cellules eukaryotes se transforment en différentes formes, comme les ancêtres des algues et des champignons.
 
@@ -1071,7 +1071,7 @@ Les agriculteurs doivent désherber et protéger leurs cultures contre les anima
 
 Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.
 
-Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela représente l'un des premiers exemples connus d'élevage domestique de chèvres. Les chèvres sont domestiquées pour leur viande et leur pelage.
+Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela représente l'un des premiers exemples connus d'élevage domestique de chèvres. Les chèvres sont domestiquées pour leur viande et leur pelage. Cette domestication des chèvres marque une étape importante dans le développement de l'agriculture et de l'élevage, car elle représente une transition vers des modes de vie sédentaires et une production alimentaire plus contrôlée et durable.
 
 ## -9 000 ans
 
@@ -1161,9 +1161,13 @@ Les Egyptions utilisent des produits tels que des poudres pour blanchir la peau,
 
 # -3500 ans
 
+Les Sumériens sont considérés comme la première civilisation urbaine de Mésopotamie.
+
 Les Sumériens inventent la roue, principalement pour améliorer le transport et la logistique. Initialement, la roue est probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.
 
 Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue. L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole. En retournant le sol, la charrue permet une meilleure aération et préparation du terrain pour la plantation, contribuant significativement à l'augmentation de la production agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.
+
+Leur civilisation prospère principalement dans le sud de la Mésopotamie, dans une région connue sous le nom de Sumer (incluant des villes comme Ur, Uruk, et Eridu).
 
 Homo Sapiens commence à utiliser des chevaux pour tirer des charrues. Domestiquer les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord et la Chine.
 
@@ -1199,13 +1203,37 @@ L'écriture sert désormais à clarifier le sens des images et aider le lecteur 
 
 # -2500 ans
 
+Les Akkadiens apparaissent peu après les Sumériens. Ils utilisent également l'écriture cunéiforme, adaptant les signes sumériens à leur propre langue sémitique. La langue sumérienne est utilisée par les Akkadiens pour des fins religieuses et littéraires même après que l'akkadien soit devenu la langue dominante.
+
 Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.
+
+# -2334 ans
+
+La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient.
 
 # -2100 ans
 
-L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues. Cette épopée sumérienne raconte les aventures du roi Gilgamesh et aborde des thèmes universels tels que l'amitié, la quête de l'immortalité et la confrontation avec la mort.
+Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur.
+
+L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues, originaire de la Mésopotamie ancienne, une région correspondant principalement à l'Irak moderne.
+
+Cette épopée sumérienne est écrite en sumérien et en akkadien sur des tablettes d'argile, un matériau abondant et durable. Les Mésopotamiens utilisent des roseaux pour écrire en cunéiforme sur les tablettes d'argile humide, qui sont ensuite séchées ou cuites pour durcir. Ces tablettes, lorsqu'elles sont enfouies, peuvent survivre des millénaires.
+
+Elle raconte les aventures du roi Gilgamesh, roi semi-divin d'Uruk, et de son ami Enkidu, un homme sauvage civilisé par sa rencontre avec Gilgamesh. Ensemble, ils affrontent des monstres et défient les dieux, avant qu'Enkidu ne meure, poussant Gilgamesh à chercher l'immortalité. Les différentes versions et fragments trouvés sur des tablettes montrent que l'histoire a été enrichie et modifiée au fil du temps.
+
+Dans la tradition mésopotamienne, les rois sont souvent vus comme des représentants des dieux sur terre. Gilgamesh, qui est à la fois un personnage historique et mythologique, est considéré comme deux tiers divin et un tiers humain, selon l'épopée.
+
+L'épopée de Gilgamesh est découverte au XIXème siècle grâce aux fouilles archéologiques, et ses tablettes sont trouvées principalement dans les ruines de la bibliothèque d'Assurbanipal à Ninive. Cette bibliothèque contient une vaste collection de textes cunéiformes, dont l'épopée de Gilgamesh.
+
+Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIXème siècle en les comparant à d'autres langues anciennes.
+
+L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur et à la complexité de l'histoire.
+
+Les premiers récits de Gilgamesh étaient des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.
 
 # -2000 ans
+
+Le sumérien cesse d'être une langue parlée courante, mais il continue à être utilisé comme langue liturgique, littéraire et administrative jusqu'au début de notre ère.
 
 De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
 
@@ -1213,7 +1241,7 @@ Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-éta
 
 # -1800 ans
 
-L'Épopée de Gilgamesh, un des plus anciens récits littéraires de l'humanité, est rédigée en Sumérien. Elle raconte les aventures de Gilgamesh, roi semi-divin d'Uruk, et de son ami Enkidu, un homme sauvage civilisé par sa rencontre avec Gilgamesh. Ensemble, ils affrontent des monstres et défient les dieux, avant qu'Enkidu ne meure, poussant Gilgamesh à chercher l'immortalité. Le récit explore des thèmes universels comme l'amitié, la quête de gloire, la peur de la mort, et la recherche de sens dans la vie.
+Avec le temps, les histoires de Gilgamesh ont été compilées et traduites en akkadien. La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente et structurée. Cette version introduit des thèmes plus profonds sur l'humanité, la mortalité, et la quête de l'immortalité.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kfuY87Cfgyw" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1825,6 +1853,10 @@ Invention de la moissonneuse-batteuse par Cyrus McCormick, un inventeur américa
 
 La moissonneuse-batteuse est une machine tirée par des chevaux ou des bœufs, équipée d'une barre de coupe pour couper les tiges de céréales, et d'un mécanisme de battage pour séparer les grains de la paille. Avant l'invention du "Reaper", la récolte des céréales se fait à la main, ce qui est une tâche laborieuse et fastidieuse nécessitant de nombreuses mains-d'œuvre.
 
+## 1835 ans
+
+L'ascenseur à vapeur est inventé par le britannique Sir William Armstrong pour les mines et les usines.
+
 ## 1837 ans
 
 Samuel Morse invente le télégraphe électrique, un appareil qui permet de transmettre des messages codés à l'aide d'impulsions électriques le long d'un fil.
@@ -1883,6 +1915,12 @@ Des troupeaux de bison sont massacrés par les américains pour de la fourrure, 
 
 L'esclavage est définitivement aboli en France.
 
+## 1852 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/UtkAJscxbZU" frameborder="0" allowfullscreen></iframe></p>
+
+Elisha Otis invente un système de sécurité pour les ascenseurs à câble, empêchant la cabine de tomber si le câble principal se casse.
+
 ## 1853 ans
 
 Début de la guerre de Crimée. Première guerre qui utilise la technique de la photographie. C'est le quotidien des soldats qui est saisi.
@@ -1908,6 +1946,10 @@ Un émissaire américain revient au Japon et parvient à négocier un nouveau tr
 Les autres grandes puissances en profitent: la France, la Russie, le Royaume-Uni, les Pays-Bas obtiennent des drois similaires au Japon.
 
 C'est une époque compliquée pour le Japon d'autant plus que les étrangers apportent le choléra.
+
+## 1860 ans
+
+Les premières bicyclettes, appelées vélocipèdes, commencent à être populaires en Europe et aux États-Unis.
 
 ## 1861 ans
 
@@ -1944,6 +1986,20 @@ Construction d'un chemin de fer aux Etats-Unis transcontinentales.
 # 1868 ans
 
 Ouverture du Japon à l'Occident, entraînant la dissolution progressive de la classe des samouraïs. Les réformes de l'ère Meiji abolissent les privilèges féodaux et conduisent à la modernisation de l'armée japonaise, rendant le rôle traditionnel des samouraïs obsolète.
+
+# 1880 ans
+
+Introduction de la bicyclette de sécurité, qui est plus stable et plus facile à utiliser que les modèles précédents.
+
+# 1888 ans
+
+L'invention du pneu gonflable par John Boyd Dunlop rend la bicyclette plus confortable.
+
+# 1890 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/V-Qv9TfG6dw" frameborder="0" allowfullscreen></iframe></p>
+
+La bicyclette devient extrêmement populaire parmi les femmes. Cette période est souvent appelée le "bicycle craze" ou la "bicyclette folie".
 
 # 1898 ans
 
