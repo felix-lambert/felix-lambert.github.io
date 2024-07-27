@@ -16,8 +16,6 @@ SOURCE:
 - [Internet was not predicted](https://www.youtube.com/watch?v=F4o3StI_NXo)
 - [The Internet](https://www.youtube.com/watch?v=82m2du-zgmY)
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/8GhFmQPZAlo" frameborder="0" allowfullscreen></iframe></p>
-
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/service.png)</span>
 
 When I mention to others that I'm working on "web scraping" for my personal project, they either don't understand what I'm referring to or react with apprehension. The term "web scraping" carries a negative connotation these days, often being perceived as unethical or even illegal.
