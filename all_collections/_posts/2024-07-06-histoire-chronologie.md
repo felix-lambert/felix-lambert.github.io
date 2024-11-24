@@ -231,57 +231,59 @@ Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est r
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PFNp3hs-MdE" frameborder="0" allowfullscreen></iframe></p>
 
-Il est supposé qu'une activité chimique intense dans un milieu hautement énergétique permet de produire une molécule capable de se reproduire. Ce sont les premières formes de vie qui sont des organismes microscopiques (microbes). Ce sont des procaryotes. Ces petites cellules vivent dans les zones chaudes et profondes de l'océan et se nourrissent de particules chimiques. Elles ne possèdent aucun noyau et n'ont pas besoin d'oxygène. Les procaryotes actuels sont les bactéries et les archées.
+Les premiers microbes, des organismes microscopiques, apparaissent. Ils sont les premières formes de vie sur Terre. Ce sont des procaryotes, de petites cellules sans noyau qui vivent dans les zones chaudes et profondes de l'océan. Ils se nourrissent de particules chimiques et n'ont pas besoin d'oxygène pour survivre. Aujourd'hui, les procaryotes incluent les bactéries et les archées.
 
-Ces organismes simples ont donc la capacité de détecter des substances chimiques dans leur environnement, ce qui est une forme rudimentaire de l'odorat. Cette capacité leur permet de localiser des nutriments et d'éviter des substances nocives, ce qui est crucial pour leur survie.
+Bien qu'il n'existe pas de description précise, on pense que ces microbes possèdent les caractéristiques fondamentales communes à tous les êtres vivants modernes, telles que l'utilisation de l'ADN pour stocker l'information génétique, l'ARN pour la transcription et la traduction, et les protéines pour la structure et le métabolisme.
 
-Une entité est vivante si elle peut en effet se reproduire elle-même, si elle est basée sur l'eau, si elle produit des lipides et des protéines, si son métabolisme est basé sur le carbone, si elle se réplique grâce à des acides nucléiques et si elle possède un système permettant de « lire » des protéines.
+Ces organismes simples ont la capacité de détecter des substances chimiques dans leur environnement, ce qui est une forme rudimentaire de l'odorat. Cette capacité leur permet de localiser des nutriments et d'éviter des substances nocives, ce qui est crucial pour leur survie.
 
 Une composante essentielle d'une entité vivante est de chercher de l'énergie en se nourissant. La vie sexuelle arrivera bien après. Un être qui ne mange pas n'est pas vivant.
 
-La mer regorge à présent de ces organismes microscopiques. Ces cellules se rapprochent de la surface.
-
 ## -3 500 000 000 d'années
+
+La mer regorge désormais de ces organismes microscopiques. Ces cellules se rapprochent de la surface.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/oUAEBmvToFc" frameborder="0" allowfullscreen></iframe></p>
 
-Les êtres vivants commencent à se rassembler pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
+Les êtres vivants se rassemblent pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
 
 Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse.
 
-Le glucose produit par la photosynthèse peut être stocké sous forme de réserves énergétiques, comme le glycogène, que les cyanobactéries peuvent utiliser lorsqu'elles n'ont pas accès à la lumière ou lorsque les conditions environnementales sont défavorables.
+Parfois, les cyanobactéries fabriquent plus de glucose qu'elles n'en ont besoin immédiatement. Alors, elles transforment ce glucose en une autre substance appelée glycogène. Le glycogène est comme une réserve d'énergie, un peu comme une batterie que l'on peut utiliser plus tard. Quand il fait nuit ou quand les conditions ne sont pas bonnes (comme quand il n'y a pas de soleil), les cyanobactéries ne peuvent pas faire de photosynthèse. C'est alors qu'elles utilisent le glycogène qu'elles ont stocké. C'est un peu comme si elles mangeaient leur réserve de nourriture pour obtenir de l'énergie.
 
-Cette capacité permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Cette transformation génère un déchet: l'oxygène (un gaz sans odeur ni couleur).
+Cette capacité permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Pendant ce processus, l'oxygène (un gaz sans odeur ni couleur) de l'eau n'est pas utilisé pour faire du glucose. Il est alors libéré dans l'air comme un déchet.
 
 ## -2 900 000 000 d'années
 
-L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. Le taux d'oxygène dans l'atmosphère est de 0,2 % avec une température moyenne de 10 degrés.
+L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. L'eau (H₂O) contient des atomes d'oxygène, mais cet oxygène est lié chimiquement à des atomes d'hydrogène pour former des molécules d'eau. Avant l'apparition des cyanobactéries, il y a très peu d'oxygène libre (O₂) dans l'atmosphère terrestre. Mais après l'apparition, les cyanobactéries utilisent l'énergie solaire pour séparer les molécules d'eau (H₂O) en hydrogène (H) et en oxygène (O₂).
 
 ## -2 800 000 000 d'années
 
-Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère.
+Le taux d'oxygène dans l'atmosphère est de 0,2 % avec une température moyenne de 10 degrés. Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère.
 
 ## -2 700 000 000 d'années
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/c4Z3yt6ojHU" frameborder="0" allowfullscreen></iframe></p>
 
+Pendant cette période, l'activité volcanique est très intense, en grande partie à cause du manteau terrestre chaud et de la croûte terrestre encore en formation.
+
 La lave libérée par les volcans commence à créer de petites îles volcaniques. Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f5mkE_jm-g0" frameborder="0" allowfullscreen></iframe></p>
 
-Grâce à l'oxygène, de petits organismes décident de s'associer pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi que apparaissent les organismes "avancés" avec un noyau dans leurs cellules, appelés eucaryotes. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.
+Grâce à l'oxygène, de petits organismes s'associent pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi que apparaissent les organismes "avancés" avec un noyau dans leurs cellules, appelés eucaryotes. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif)</span>
 
-On comprend donc que tout ce qui est vivant est constitué de cellules. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions. Toute la vie sur Terre a un ADN, même les cellules procaryotes.
+On comprend donc que toute la vie sur Terre a un ADN, même les cellules procaryotes. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions.
 
 ## -2 400 000 000 d'années
 
 Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane, refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci. L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie. En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.
 
-Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie par cet oxygène. Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.
+Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie. Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.
 
 ## -2 100 000 000 d'années
 
@@ -323,7 +325,7 @@ Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus
 
 ## -830 000 000 d'années
 
-Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Et ces éruptions sont si énormes que cela libère une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages).
+Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Cela libère une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages).
 
 L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années.
 
@@ -375,7 +377,7 @@ Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en
 
 ## -650 000 000 d'années
 
-Mais un peu plus tard, la Terre est à nouveau pratiquement inhabitable. C'est une nouvelle époque de la Terre boule de neige.
+La Terre est à nouveau pratiquement inhabitable. C'est une nouvelle époque de la Terre boule de neige.
 
 ## -635 000 000 d'années
 
@@ -618,6 +620,10 @@ Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au somm
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/rauisuhiens.jpg)</span>
 
 <span style="display:block;text-align:center">(Rauisuhiens)</span>
+
+Le supercontinent de la Pangée commencé à se fracturer très lentement. C'est le début de la séparation entre l'Amérique du nord et l'Afrique. La chaleur sous le supercontinent de la Pangée joue un rôle crucial dans le processus de séparation.
+
+Cette accumulation de chaleur et de tension crée des forces tectoniques qui peuvent fissurer la croûte terrestre, formant des rifts ou des crevasses. Ces rifts peuvent éventuellement s'élargir et permettre la montée du magma, formant ainsi de nouvelles croûtes océaniques et séparant les plaques continentales. Ce processus est ce qui a conduit à la fragmentation de la Pangée en plusieurs continents.
 
 ## -218 000 000 d'années
 
@@ -987,6 +993,10 @@ Une zone spécifique, appelée plate-forme de percussion, est préparée sur le 
 
 Après le détachement d'une lame, le noyau est souvent retaillé ou préparé à nouveau pour permettre le détachement d'autres lames. Un bon artisan pout extraire plusieurs lames d'un seul noyau, maximisant ainsi l'utilisation de la matière première.
 
+## -31 000 ans
+
+Dans une grotte située à Bornéo, en Indonésie, une communauté humaine pratique une opération chirurgicale avancée : l'amputation de la jambe gauche d'un jeune individu. Cette intervention est réalisée avec une grande précision, et l'individu survit à l'opération.
+
 ## -26 000 ans
 
 Homo Sapiens commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
@@ -1075,7 +1085,10 @@ Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela r
 
 ## -9 000 ans
 
-Homo Sapiens commence à domestiquer le chat.
+Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.
+
+Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme l'une des plus anciennes villes habitées en continu.
+Les habitants vivaient dans des huttes circulaires en terre et en chaume. C'est l'une des premières preuves de sédentarisation, où les chasseurs-cueilleurs commencent à adopter un mode de vie agricole. Les premières traces d'habitat à Jéricho sont attribuées aux Natoufiens, une culture de chasseurs-cueilleurs qui adoptent progressivement l'agriculture.
 
 En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine ne représente pas seulement un tournant dans l'histoire de l'agriculture et de l'alimentation humaine, mais elle a également un impact profond sur le développement social, économique et culturel des sociétés néolithiques et des civilisations ultérieures en Asie.
 
@@ -1121,9 +1134,13 @@ Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'h
 
 En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.
 
+Premières traces de production découvertes de vin dans les régions qui correspondent aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des poteries contenant des résidus de vin.
+
 # -5000 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hieroglyphe.jpg)</span>
+
+Les premières traces de bière sont présentes dans l'ancienne Mésopotamie, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.
 
 La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils ont joué un rôle central dans la culture Botai.
 
@@ -1163,13 +1180,15 @@ Les Egyptions utilisent des produits tels que des poudres pour blanchir la peau,
 
 Les Sumériens sont considérés comme la première civilisation urbaine de Mésopotamie.
 
-Les Sumériens inventent la roue, principalement pour améliorer le transport et la logistique. Initialement, la roue est probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/77fYAVBAshs" frameborder="0" allowfullscreen></iframe></p>
+
+Les Sumériens inventent la roue, probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.
 
 Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue. L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole. En retournant le sol, la charrue permet une meilleure aération et préparation du terrain pour la plantation, contribuant significativement à l'augmentation de la production agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.
 
 Leur civilisation prospère principalement dans le sud de la Mésopotamie, dans une région connue sous le nom de Sumer (incluant des villes comme Ur, Uruk, et Eridu).
 
-Homo Sapiens commence à utiliser des chevaux pour tirer des charrues. Domestiquer les chevaux se sont rapidement répandus à travers l'Europe, l'Afrique du Nord et la Chine.
+Homo Sapiens commence à utiliser des chevaux pour tirer des charrues à travers l'Europe, l'Afrique du Nord et la Chine.
 
 ## -3300 ans
 
@@ -1201,6 +1220,12 @@ Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
+Les premières traces d'occupation à Babylone. La ville commence comme une petite ville-État sumérienne, mais elle n'a pas eu d'importance majeure pendant cette période.
+
+# -2900 ans
+
+Apparaissent chez les sumériens des textes juridiques (actes de vente).
+
 # -2500 ans
 
 Les Akkadiens apparaissent peu après les Sumériens. Ils utilisent également l'écriture cunéiforme, adaptant les signes sumériens à leur propre langue sémitique. La langue sumérienne est utilisée par les Akkadiens pour des fins religieuses et littéraires même après que l'akkadien soit devenu la langue dominante.
@@ -1209,11 +1234,11 @@ Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égy
 
 # -2334 ans
 
-La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient.
+La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important, mais le sumérien reste très pratiqué dans les cités de Sumer.
 
 # -2100 ans
 
-Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur.
+Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur. On parle parfois de période néo-sumérienne pour désigner cette phase succédant à l'empire d'Akkad, qui voit un essor de la littérature en sumérien (hymnes, prières, mythes, épopées).
 
 L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues, originaire de la Mésopotamie ancienne, une région correspondant principalement à l'Irak moderne.
 
@@ -1229,7 +1254,7 @@ Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIX�
 
 L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur et à la complexité de l'histoire.
 
-Les premiers récits de Gilgamesh étaient des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.
+Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.
 
 # -2000 ans
 
@@ -1237,11 +1262,9 @@ Le sumérien cesse d'être une langue parlée courante, mais il continue à êtr
 
 De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
 
-Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
-
 # -1800 ans
 
-Avec le temps, les histoires de Gilgamesh ont été compilées et traduites en akkadien. La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente et structurée. Cette version introduit des thèmes plus profonds sur l'humanité, la mortalité, et la quête de l'immortalité.
+Avec le temps, les histoires de Gilgamesh ont été compilées et traduites en akkadien. La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente et structurée. Cette version introduit des thèmes plus profonds sur l'humanité, la mortalité, et la quête de l'immortalité. La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi, décrit en détail le processus de brassage de la bière.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kfuY87Cfgyw" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1256,6 +1279,8 @@ La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nom
 Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
 
 Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.
+
+Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
 
 # -1700 ans
 
@@ -1375,7 +1400,7 @@ Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une
 
 ## -200 ans
 
-La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois.
+La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois. Le thé est utilisé pour la première fois comme plante médicinale.
 
 ## -58 ans
 
@@ -1421,9 +1446,17 @@ Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de 
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
 
+## 618 ans
+
+Début de la dynastie Tang en Chine. Le thé est une boisson populaire, consommée quotidiennement par toutes les classes sociales.
+
 ## 680 ans
 
 Scission définitive entre Chiisme et Sunnisme en islam.
+
+## 760 ans
+
+Le célèbre ouvrage "Le Classique du Thé" (Cha Jing), écrit par le moine chinois Lu Yu est le premier traité complet sur la culture, la préparation et les bienfaits du thé. Cet ouvrage marque une étape clé dans la diffusion de la culture du thé en Chine.
 
 ## 850
 
@@ -1527,6 +1560,12 @@ La loi vise à réguler le travail et à contrôler les déplacements des travai
 
 La période Joseon, également appelée dynastie Joseon ou Chosŏn, débute en Corée. Elle est fondée par le général Yi Seong-gye, qui renverse la dynastie Goryeo et devient le premier roi de Joseon sous le nom de Taejo.
 
+## 1400 ans
+
+Le café commence à être cultivé et consommé sous forme de boisson au Yémen,
+principalement par des soufis, des religieux qui utilisent la boisson pour rester
+éveillés pendant les longues heures de prière et de méditation nocturnes.
+
 ## 1439 ans
 
 Johannes Gutenberg mis au point sa première imprimerie en Allemagne. Les étapes de l'invention sont les suivantes:
@@ -1563,6 +1602,13 @@ Cette bulle papale est utilisée par les Portugais pour justifier leur expansion
 
 Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de Valachie (actuelle Roumanie).
 
+## 1475 ans
+
+Ouverture de la première maison de café (appelée qahveh khaneh) à Constantinople
+(aujourd'hui Istanbul), marquant l’apparition des premiers lieux publics consacrés
+à la consommation de café. Ces établissements sont des lieux de rencontre pour les
+intellectuels, les artistes et les religieux.
+
 ## 1492 ans
 
 En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, le dernière bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista coïncide également avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.
@@ -1576,6 +1622,13 @@ Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles 
 Les Portugais s'implantent au Brésil avec Pedro Álvares Cabral. Il y a un manque de main-d'œuvre pour travailler sur les plantations et dans les mines, et les Portugais commencent donc à utiliser des esclaves africains pour remplir ces tâches.
 
 Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonies en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.
+
+## 1510 ans
+
+Le café se diffuse à La Mecque et au Caire, où il gagne rapidement en popularité.
+C'est aussi à cette époque que certaines autorités religieuses tentent de bannir le café,
+le comparant à l'alcool en raison de ses effets stimulants. Toutefois, ces interdictions
+sont souvent révoquées.
 
 ## 1514 ans
 
