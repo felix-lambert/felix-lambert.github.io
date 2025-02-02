@@ -170,7 +170,8 @@ qui sont formées par les étoiles de la population III.
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif)</span>
 
-Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).
+Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de
+galaxies (des clusters et des superclusters).
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ACzR8l9X3-k" frameborder="0" allowfullscreen></iframe></p>
 
@@ -196,7 +197,8 @@ Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se for
 
 ## -12 700 000 000 d'années
 
-Les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.
+Les premières exoplanètes se forment grâce aux disques de matières qui orbitent
+les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.
 
 # -12 000 000 000 d'années
 
@@ -364,9 +366,19 @@ On comprend donc que toute la vie sur Terre a un ADN, même les cellules procary
 
 ## -2 400 000 000 d'années
 
-Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane, refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci. L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie. En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.
+Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et
+libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane,
+refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci.
+L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de
+l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années
+avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz
+dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie.
+En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.
 
-Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie. Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.
+Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires
+de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie.
+Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser
+cet oxygène pour influencer leur évolution.
 
 ## -2 100 000 000 d'années
 
@@ -892,9 +904,10 @@ La marche humaine est l'une des grandes merveilles sous-estimées du monde moder
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tF4DML7FIWk" frameborder="0" allowfullscreen></iframe></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hLvfq51RkxM" frameborder="0" allowfullscreen></iframe></p>
-
-Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.
+Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le
+centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire
+à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel
+le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.
 
 # - 4 000 000 d'années
 
@@ -925,17 +938,35 @@ qui s'achève avec le développement de l'agriculture il y a environ 12000 ans.
 
 L'homo australopithèque utilise surtout la marche comme moyen de se déplacer et arrête définitivement de grimper dans les arbres, sauf s'il y a une menace imminente.
 
-## - 1 900 000 ans
+## - 1 800 000 ans
 
-Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds afin notamment de chasser et d'épuiser ses proies, comme des gazelles ou des antilopes. Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tH0Kt23_51M" frameborder="0" allowfullscreen></iframe></p>
 
-C'est probablement cette pratique de la course à pied qui permet à Homo Erectus (et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des autres mammifères.
+Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds
+afin notamment de chasser et d'épuiser ses proies, comme des gazelles ou des antilopes.
+Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
 
-Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration. Après un effort intense, Homo Erectus, comme, plus tard Homo Sapiens, est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
+C'est probablement cette pratique de la course à pied qui permet à Homo Erectus
+(et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps,
+afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de
+rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des
+autres mammifères.
 
-Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
+Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capacité de
+refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration.
+Après un effort intense, Homo Erectus, comme, plus tard Homo Sapiens, est capable de
+produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes.
+Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
 
-L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution des hominidés.
+Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre.
+L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain
+et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution
+entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
+
+L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains.
+Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce
+qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre
+lors d'un impact est en effet décisif pour l'évolution des hominidés.
 
 ## - 1 600 000 années
 
@@ -1003,18 +1034,6 @@ Homo Erectus parvient à dépecer les animaux principalement à l'aide d'outils 
 
 Fin de Homo Erectus. Il a vécu plus de 1.5 millions d'années.
 
-# - 200 000 ans
-
-Quelques homos sapiens arrivent en Europe.
-
-# - 180 000 ans
-
-Des Homo Sapiens arrivent au Levant. Les hommes modernes rencontrent les hommes de Néandertal au Levant et se reproduisent avec eux. En conséquence, tous les humains modernes avec des ancêtres qui ne sont pas exclusivement africains contiennent de l'ADN néandertalien.
-
-## -110 000 ans
-
-L'Homo Sapiens se répand de nouveau en Afrique et est là cette fois pour rester.
-
 # -100 000 ans
 
 La population humaine commence à décroître.
@@ -1025,11 +1044,25 @@ Les hominidés commencent à utiliser des pigments colorés pour la décoration 
 
 # -74 000 ans
 
-En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-Y4jLQBnz2M" frameborder="0" allowfullscreen></iframe></p>
 
-L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud, du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui auraient duré des années, voire des décennies.
+En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba,
+dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et
+des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.
 
-Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer une éruption.
+L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes
+de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection
+massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques
+globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud,
+du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de
+dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de
+la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui
+auraient duré des années, voire des décennies.
+
+Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles
+d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre
+jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer
+une éruption.
 
 # -70 000 ans
 
