@@ -14,4 +14,3 @@ Perceiving new technologies as solely threatening might serve as an excuse to tu
 
 A washing machine grants women independence, freeing them from the task of laundering their family's clothes by the river. A refrigerator empowers households to store food and prepare a wide variety of meals at home. A smartphone enables individuals to access any information they need within seconds, without relying on "experts".
 
-Technology has become an integral part of our lives, shaping our humanity and enabling us to act in the world.
