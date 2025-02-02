@@ -11,9 +11,15 @@ Une partie a été générée par ChatGPT (3 et 4)
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bigbang.png)</span>
 
-Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
+Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle
+standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards
+d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une
+gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.
 
-L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est rempli d'une sorte de plasma constitué de quarks et de gluons.
+L'univers est à son commencement des milliards de fois plus chaud que le centre de
+notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui
+dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est
+rempli d'une sorte de plasma constitué de quarks et de gluons.
 
 Depuis lors, il s'est étendu et refroidi.
 
@@ -23,35 +29,79 @@ Dans cet univers, il y a 4 forces fondamentales:
 
 #### 1. Forces électromagnétiques
 
-Peut influer des objets plus grands que des atomes. Cette force est à l'origine des phénomènes électriques et magnétiques que nous observons, tels que la lumière, le courant électrique et les aimants. C'est cette force qui maintient les électrons en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier ensemble pour former des molécules.
+Peut influer des objets plus grands que des atomes. Cette force est à l'origine des
+phénomènes électriques et magnétiques que nous observons, tels que la lumière,
+le courant électrique et les aimants. C'est cette force qui maintient les électrons
+en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier
+ensemble pour former des molécules.
 
 #### 2. Forces gravitationnelles
 
-Peut influer des objets plus grands que des atomes. Plus les objets sont massifs et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte. La force gravitationnelle est responsable de la plupart des phénomènes comme la chute des objets vers le sol.
+Peut influer des objets plus grands que des atomes. Plus les objets sont massifs
+et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte.
+La force gravitationnelle est responsable de la plupart des phénomènes comme la
+chute des objets vers le sol.
 
 #### 3. Forces nucléaires faibles
 
-N'influence que les objets plus petits qu'un atome. Permet à certaines particules de changer de type. Par exemple, un neutron (une des particules qui composent le noyau des atomes) peut se transformer en un proton, un électron et une particule appelée antineutrino, grâce à la force faible.
+N'influence que les objets plus petits qu'un atome. Permet à certaines particules de
+changer de type. Par exemple, un neutron (une des particules qui composent le noyau
+des atomes) peut se transformer en un proton, un électron et une particule appelée
+antineutrino, grâce à la force faible.
 
 #### 4. Forces nucléaires fortes
 
-S'exerce uniquement à l'intérieur des noyaux atomiques. Elle est responsable de la liaison des particules subatomiques appelées quarks pour former des protons et des neutrons, qui sont les composants du noyau des atomes. Elle est également responsable de la liaison des protons et des neutrons ensemble pour former le noyau des atomes. C'est une tâche difficile, car les protons ont tous une charge positive et se repoussent donc mutuellement à cause de la force électromagnétique. C'est là que la force forte entre en jeu : elle est suffisamment puissante pour surmonter la répulsion électromagnétique et maintenir le noyau ensemble.
+S'exerce uniquement à l'intérieur des noyaux atomiques. Elle est responsable de la
+liaison des particules subatomiques appelées quarks pour former des protons et des
+neutrons, qui sont les composants du noyau des atomes. Elle est également responsable
+de la liaison des protons et des neutrons ensemble pour former le noyau des atomes.
+C'est une tâche difficile, car les protons ont tous une charge positive et se
+repoussent donc mutuellement à cause de la force électromagnétique. C'est là que
+la force forte entre en jeu : elle est suffisamment puissante pour surmonter
+la répulsion électromagnétique et maintenir le noyau ensemble.
 
-Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.
+Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers,
+du mouvement des planètes à la radioactivité en passant par la chimie et la structure
+des atomes.
 
-Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à 100000000000000000000000000000 (10^27) de fois plus grand.
+Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une
+phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours
+de laquelle l'espace fait passer l'univers de la taille d'un proton à
+100000000000000000000000000000 (10^27) de fois plus grand.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
-Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
+Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de
+particules élémentaires (on ne sait pas si elles sont constituées d'autres particules
+plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons,
+neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière.
+Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent
+complètement. C’est au cours de la première seconde de l’Univers que la matière dont
+nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la
+force électromagnétique et gravitationnelle agit très faiblement sur ces objets car
+ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui
+commencent à façonner notre univers.
 
-Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons. Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont électriquement neutres), et donc les premiers éléments chimiques apparaissent. Cette force agit entre les quarks de manière à les maintenir ensemble dans les noyaux atomiques, malgré la tendance des quarks à se disperser en raison de leur charge électrique. Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
+Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons.
+Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force
+nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les
+combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont
+électriquement neutres), et donc les premiers éléments chimiques apparaissent. Cette
+force agit entre les quarks de manière à les maintenir ensemble dans les noyaux atomiques,
+malgré la tendance des quarks à se disperser en raison de leur charge électrique.
+Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
 
-Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).
+Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est
+constitué d’un proton) et d'hélium se forment dans les trois premières minutes
+(il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron
+qui gravite autour).
 
-À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.
+À 20 minutes après le Big Bang, nous avons un univers contenant principalement
+75% d'hydrogène et 25% d'hélium.
 
-Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
+Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que
+l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors
+à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/helium.png)</span>
 
@@ -59,27 +109,60 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/e9GuJUaX0UM" frameborder="0" allowfullscreen></iframe></p>
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron
+d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons
+et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus
+complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés
+chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
+oxygène, azote… par exemple)).
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif)</span>
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif)</span>
 
-L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).
+L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très
+léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement
+composée de ce gaz) grâce à la gravité (force gravitationnelle).
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cRYu8pMg9zQ" frameborder="0" allowfullscreen></iframe></p>
 
-De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
+De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent
+jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire
+faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail
+dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
+température est élevée, plus les atomes qui composent l'astre se déplacent rapidement;
+et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène
+se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent
+en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire
+libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
-Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.
+Pendant une grande partie de son existence, une étoile est en équilibre sous l'action
+de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et
+la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.
 
-Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations montrent que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.
+Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première
+génération stellaire est appelée « population III » par les astronomes (le Soleil est
+une étoile de la population I et la quasi-totalité des étoiles actuellement observées
+sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions
+d'années). N'ayant jamais été directement observé, les simulations montrent que les
+étoiles primitives sont assez différentes de celles qui sont nées par la suite:
+il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil),
+essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes
+dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles
+exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter
+l’hydrogène en hélium.
 
-A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.
+A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une
+grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles
+suivante, et laissant des trous noirs stellaires énormes.
 
 ## -13 500 000 000 d'années
 
-Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.
+Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et
+peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies
+sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus
+chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II
+qui sont formées par les étoiles de la population III.
 
 <span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif)</span>
 
@@ -829,9 +912,14 @@ Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient 
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/DN1bUmqUgK4" frameborder="0" allowfullscreen></iframe></p>
 
-Pour fabriquer les plus simples outils en pierre, un bloc de roche dure aux propriétés mécaniques particulières, comme le silex, doit être frappé avec un percuteur également en pierre de façon à en détacher un éclat. Cette action produit un bord tranchant à la fois sur le bloc taillé et sur l'éclat qui en est détaché, tous deux pouvant être utilisés comme outils.
+Pour fabriquer les plus simples outils en pierre, un bloc de roche dure aux propriétés mécaniques particulières, comme le silex, doit être frappé avec un percuteur également en pierre de façon à en détacher un éclat.
+Cette action produit un bord tranchant à la fois sur le bloc taillé et sur
+l'éclat qui en est détaché, tous deux pouvant être utilisés comme outils.
 
-Ces premières utilisations de la pierre marquent le début du Paléolithique, qui s'achève avec le développement de l'agriculture il y a environ 12 000 ans.
+Le silex est peut-être le tout premier objet fabriqué par l'homme.
+
+Ces premières utilisations de la pierre marquent le début du Paléolithique,
+qui s'achève avec le développement de l'agriculture il y a environ 12000 ans.
 
 # - 2 000 000 d'années
 
@@ -954,6 +1042,10 @@ Les hominidés continuent à améliorer les outils en pierre, y compris la fabri
 # -50 000 ans
 
 Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés. Les hominidés commencent à utiliser des techniques de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar. Les hominidés commencent à s'installer dans des zones géographiques plus variées, y compris les régions polaires et les déserts.
+
+## -48 000 ans
+
+Les Néandertaliens chassent les lions des cavernes pour leur viande, leur fourrure et peut-être des usages symboliques. Des marques sur des ossements montrent l'utilisation d'outils pour les dépecer, reflétant leurs capacités organisationnelles et leur adaptation au climat glaciaire.
 
 ## -45 000 ans
 
@@ -1078,6 +1170,8 @@ Les graines de blé sont plantées à la main, généralement en les enfonçant 
 Les agriculteurs doivent désherber et protéger leurs cultures contre les animaux et les insectes nuisibles. Ils peuvent également utiliser des méthodes naturelles de lutte antiparasitaire, comme l'introduction d'insectes prédateurs pour contrôler les populations d'insectes nuisibles.
 
 # -10 000 ans
+
+La Terre sort de l'environnement glaciaire et entre dans une phase de réchauffement climatique propice au développement de la végétation: c'est ce qu'on appelle l'Holocène, l'ère géologique dans laquelle nous vivons encore. On dit alors que les humains du Mésolithique sont des chasseurs-cueilleurs, tant ils consomment de végétaux: glands, prunelles, noisettes, raisins, olives et merises - une version sauvage du cerisier. Tout n'était pas cultivé mais bien cueilli dans un milieu sauvage. Et c'est la même chose pour les champignons, non seulement comme aliments mais aussi comme plantes médicinales ou hallucinogènes.
 
 Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.
 
@@ -1220,7 +1314,7 @@ Ce pas de géant se concrétise aussi en Egypte, à la même époque.
 
 L'écriture sert désormais à clarifier le sens des images et aider le lecteur à bien lire les images. Donc lorsqu'on voit un canard dans un hiéroglyphe par exemple, il ne représente pas forcément le canard, mais le son du canard. Grâce à ce nouvel emploi des images, les dirigeants écrivent l'histoire de leur règne et rédigent des codes juridiques.
 
-Les premières traces d'occupation à Babylone. La ville commence comme une petite ville-État sumérienne, mais elle n'a pas eu d'importance majeure pendant cette période.
+Les premières traces d'occupation à Babylone, dans l'Irak actuel. La ville commence comme une petite ville-État sumérienne, mais elle n'a pas eu d'importance majeure pendant cette période.
 
 # -2900 ans
 
@@ -1394,6 +1488,10 @@ En Grèce, des citoyens mettent en accusation Socrate. On l'accuse d'introduire 
 
 Alexandre le Grand devient roi de Macédoine et commence sa conquête de l'Empire perse, marquant le début de l'ère hellénistique.
 
+## -230 ans
+
+Pour un citoyen romain, le chou est très apprécié aussi bien cru que cuit. Il fait partie des cultures que tout bon citoyen romain doit avoir dans son jardin.
+
 ## -218 ans
 
 Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée, y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes, un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes. Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté. Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles, remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes, où il inflige à Rome une de ses plus grandes défaites.
@@ -1434,9 +1532,22 @@ Les Romains commencent leur conquête de la Grande-Bretagne, sous l'empereur Cla
 
 Invention de la charrue gauloise. La grande nouveauté de cette charrue est son soc en fer, par opposition aux précédentes charrues qui ont un soc en bois ou en pierre. Cela permet l'expansion de l'agriculture dans des régions auparavant inadaptées à la culture intensive.
 
+## 200 ans
+
+Pour régler les problèmes d'apports et d'évacuation des eaux en ville,
+on retrouve des édifices très perfectionnés dans la zone de la conquête romaine.
+L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le territoire.
+Il existe donc des puits, des citernes, des bains publics, de fontaines,
+mais aussi de latrines ou d'égouts. Ce mode de vie, très gourmand en eau,
+nécessite la création d'ouvrages massifs, les aqueducs, des conduites qui s'adaptent
+au relief, quitte à passer sous la terre, au ras du sol ou à plusieurs dizaines de
+mètres de hauteur. On parle ici déjà d'un service de déchetterie, de triage et de
+recyclage.
+
 ## 300 ans
 
-Règne de l'Empereur romain Constantin. C'est le premier empereur romain à s'être converti au christianisme.
+Règne de l'Empereur romain Constantin. C'est le premier empereur romain
+à s'être converti au christianisme.
 
 ## 330 ans
 
@@ -1446,9 +1557,15 @@ Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de 
 
 La peste, initialement venue d'Asie, sévit pour la première fois en Europe.
 
+## 581 ans
+
+La dynastie des Sui dirige la Chine, unifiant différents royaumes.
+
 ## 618 ans
 
 Début de la dynastie Tang en Chine. Le thé est une boisson populaire, consommée quotidiennement par toutes les classes sociales.
+
+Chang'an atteint son apogée et devient l'une des plus grandes métropoles du monde médiéval. La capitale des Tang est un immense quadrilatère de 9,7 km sur 8,7 km, considérée comme la première ville entièrement planifiée de l'histoire de la Chine. Son plan a inspiré d'autres capitales extrême-orientales, notamment Nara et Kyōto au Japon.
 
 ## 680 ans
 
@@ -1461,6 +1578,16 @@ Le célèbre ouvrage "Le Classique du Thé" (Cha Jing), écrit par le moine chin
 ## 850
 
 Invention de la poudre à canon en Chine. Les Chinois inventent la poudre à canon pour diverses utilisations, notamment pour des feux d'artifice, des célébrations festives, et des pratiques alchimiques. La poudre à canon est un élément clé dans l'histoire de l'armement, marquant le début de l'ère des armes à feu.
+
+## 890
+
+Réforme d'Alfred le Grand qui vise à revitaliser l'éducation et la culture en Angleterre
+face au déclin provoqué par les invasions vikings. Il promeut l'apprentissage du vieil
+anglais pour tous les hommes libres et traduit d'importants textes latins, comme
+La Consolation de la Philosophie et le Pastoral Care, dans cette langue. Alfred
+encourage également la rédaction de la Chronique anglo-saxonne, une histoire de son peuple
+en vieil anglais, et standardise le dialecte du Wessex comme langue écrite prestigieuse.
+Ces efforts renforcent l'identité culturelle anglo-saxonne et rend le savoir plus accessible.
 
 ## 941 ans
 
@@ -1906,6 +2033,10 @@ Invention de la moissonneuse-batteuse par Cyrus McCormick, un inventeur américa
 
 La moissonneuse-batteuse est une machine tirée par des chevaux ou des bœufs, équipée d'une barre de coupe pour couper les tiges de céréales, et d'un mécanisme de battage pour séparer les grains de la paille. Avant l'invention du "Reaper", la récolte des céréales se fait à la main, ce qui est une tâche laborieuse et fastidieuse nécessitant de nombreuses mains-d'œuvre.
 
+## 1832
+
+Epidémie de choléra qui a tué 130 000 français dont prêt d'un quart à Paris.
+
 ## 1835 ans
 
 L'ascenseur à vapeur est inventé par le britannique Sir William Armstrong pour les mines et les usines.
@@ -1970,19 +2101,40 @@ L'esclavage est définitivement aboli en France.
 
 ## 1852 ans
 
+John Snow réalise que l'eau permet la propagation du choléra, via des bactéries qu'on peut
+identifier. Le problème, finalement, ce n'est pas l'air et la puanteur mais l'eau polluée
+et ses microbes. L'eau ne doit plus seulement être acheminée, elle doit être traitée.
+On veut de l'eau partout, on en veut beaucoup et qui soit propre.
+
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/UtkAJscxbZU" frameborder="0" allowfullscreen></iframe></p>
 
 Elisha Otis invente un système de sécurité pour les ascenseurs à câble, empêchant la cabine de tomber si le câble principal se casse.
 
+Un décret ordonne que les maisons se connectent aux égouts existants.
+
 ## 1853 ans
 
-Début de la guerre de Crimée. Première guerre qui utilise la technique de la photographie. C'est le quotidien des soldats qui est saisi.
+Début de la guerre de Crimée. Première guerre qui utilise la technique de la
+photographie. C'est le quotidien des soldats qui est saisi.
 
-Un navire américain arrive sur les côtes japonaises avec Matthew Perry à son bord afin d'obliger les japonais à ouvrir leur port aux américains. De plus en plus de navires arrive et menace de bombarder le port en cas de refus. Paniqué le Shogun réforme l'armée et l'installation de hauts fourneaux pour se moderniser.
+Un navire américain arrive sur les côtes japonaises avec Matthew Perry à son bord
+afin d'obliger les japonais à ouvrir leur port aux américains. De plus en plus de
+navires arrive et menace de bombarder le port en cas de refus. Paniqué le Shogun
+réforme l'armée et l'installation de hauts fourneaux pour se moderniser.
+
+La Compagnie Générale des Eaux (CGE) est actée par Napoléon III. Avec un grand
+investissement au départ, cette compagnie va pouvoir s'agrandie et assainir de
+nombreuses villes de France les unes après les autres. Cette entreprise privée
+met en pratique des idéaux en vogue à l'époque dans les milieux industriels:
+les idéaux saint-simoniens.
 
 ## 1854 ans
 
-Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante. Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir trois ports aux américains.
+Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante.
+Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir trois
+ports aux américains.
+
+Epidémie de choléra à Londres. C'est la concentration urbaine qui pose problème.
 
 ## 1856 ans
 
@@ -2119,6 +2271,13 @@ Première centrale électrique alimentée au charbon à Holborn Viaduct à Londr
 
 La centrale électrique de Holborn Viaduct est une innovation importante dans l'histoire de l'énergie, car elle permet de produire de l'électricité de manière plus efficace et à un coût inférieur à celui de la production d'électricité par d'autres moyens. Depuis lors, les centrales électriques alimentées au charbon continuent à être développées et améliorées, et elles sont utilisées de manière intensive comme source d'énergie pour la production d'électricité. Cependant, le charbon est une source d'énergie très polluante, car il libère de grandes quantités de dioxyde de carbone (CO2) et d'autres gaz à effet de serre lorsqu'il est brûlé. En outre, l'extraction du charbon peut avoir des impacts négatifs sur l'environnement, notamment la déforestation, la pollution de l'air et de l'eau, et la perturbation des écosystèmes. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation du charbon et à se tourner vers des sources d'énergie renouvelables moins polluantes.
 
+## 1883 ans
+
+Eugène Poubelle, le préfet de la Seine, impose aux propriétaires de fournir à ses
+locataires des contenants en bois, garnis de fer blanc, et munis de couvercle.
+Ces seaux hermétiques devront contenir tous les déchets ménagers, qui seront
+récupérés par les services municipaux.
+
 ## 1885 ans
 
 L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps qu'il a développé en collaboration avec Gottlieb Daimler.
@@ -2174,6 +2333,10 @@ Simond mène une série d'expériences sur des rongeurs infectés et sur des puc
 
 Les responsables de la peste ne sont donc ni les étoiles, ni Dieu, ni les juifs.
 
+## 1900 ans
+
+30% des habitations sont reliés aux égouts.
+
 ## 1901 ans
 
 Marconi réussi à envoyer un signal radio transatlantique de l'Angleterre aux États-Unis. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.
@@ -2191,6 +2354,10 @@ Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 00
 La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.
 
 # 1905 ans
+
+On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà
+connu pour ses propriétés désinfectantes, et les ingénieurs français développent
+un procédé pour l’utiliser à grande échelle dans le traitement de l’eau potable.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Qw5vKINE7WE" frameborder="0" allowfullscreen></iframe></p>
 
@@ -2247,6 +2414,8 @@ Premier avion commercial relativement fiable. C'est un avion entièrement constr
 ## 1920 ans
 
 Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.
+
+70% des habitations sont reliés aux égouts.
 
 ## 1921 ans
 
@@ -2456,6 +2625,8 @@ Batista fuit Cuba pour la République dominicaine, et les forces rebelles prenne
 
 Le chauffage central devient de plus en plus répandu dans les nouvelles constructions résidentielles, et de nombreux foyers commencent à installer des systèmes de chauffage central dans leurs maisons existantes.
 
+L'eau rejetée est traitée avant d'être envoyée en milieu naturel.
+
 ## 1961 ans
 
 Conception de l'ordinateur B5000. Contrairement à beaucoup d'autres ordinateurs de l'époque, qui sont conçus principalement pour exécuter du code en langage machine ou en assembleur, le B5000 est conçu pour exécuter efficacement des langages de haut niveau. Il est particulièrement optimisé pour le langage ALGOL 60, un prédécesseur de nombreux langages de programmation modernes.
@@ -2506,15 +2677,36 @@ Le décollage de la mission Apollo 11 est diffusé en direct par plusieurs chaî
 
 ## 1970 ans
 
-L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde. En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa, c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.
+L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues
+au niveau international, notamment en finançant la construction de mosquées, d'écoles
+coraniques et d'universités dans de nombreux pays à travers le monde. En outre,
+l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa,
+c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des
+médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.
 
-La financiarisation de l'économie, c'est-à-dire le fait que l'économie devient de plus en plus orientée vers les activités financières et les marchés financiers, est un phénomène qui commence à se développer dans les années 1970 et qui s'accélère au cours des décennies suivantes.
+La financiarisation de l'économie, c'est-à-dire le fait que l'économie devient de
+plus en plus orientée vers les activités financières et les marchés financiers, est
+un phénomène qui commence à se développer dans les années 1970 et qui s'accélère au
+cours des décennies suivantes.
 
-Areva, un groupe industriel français spécialisé dans les énergies nucléaires (devenu Orano en 2018), commence à exploiter les mines d'uranium au Niger. Le Niger est l'un des principaux producteurs d'uranium dans le monde et l'uranium est une ressource stratégique pour la production d'énergie nucléaire.
+Areva, un groupe industriel français spécialisé dans les énergies nucléaires
+(devenu Orano en 2018), commence à exploiter les mines d'uranium au Niger. Le Niger
+est l'un des principaux producteurs d'uranium dans le monde et l'uranium est une
+ressource stratégique pour la production d'énergie nucléaire. Areva exploite
+principalement deux grands gisements d'uranium au Niger : la mine d'Arlit, exploitée
+par la Société des Mines de l'Aïr (SOMAÏR), et la mine d'Akokan, exploitée par la
+Compagnie Minière d'Akouta (COMINAK).
+La SOMAÏR est créée en 1968 et commence l'exploitation en 1971, tandis que la
+COMINAK a été créée en 1974 et commence l'exploitation en 1978. Les activités
+d'extraction d'uranium d'Areva (maintenant Orano) au Niger soulèvent plusieurs
+questions et préoccupations, notamment en ce qui concerne l'environnement, la santé
+des travailleurs et des communautés locales, et le partage équitable des revenus
+entre le Niger et la société française. Au fil des années, des négociations et des
+révisions de contrats ont lieu pour tenter de répondre à ces préoccupations et de
+garantir un meilleur équilibre des avantages entre les parties prenantes.
 
-Areva exploite principalement deux grands gisements d'uranium au Niger : la mine d'Arlit, exploitée par la Société des Mines de l'Aïr (SOMAÏR), et la mine d'Akokan, exploitée par la Compagnie Minière d'Akouta (COMINAK). La SOMAÏR est créée en 1968 et commence l'exploitation en 1971, tandis que la COMINAK a été créée en 1974 et commence l'exploitation en 1978.
-
-Les activités d'extraction d'uranium d'Areva (maintenant Orano) au Niger soulèvent plusieurs questions et préoccupations, notamment en ce qui concerne l'environnement, la santé des travailleurs et des communautés locales, et le partage équitable des revenus entre le Niger et la société française. Au fil des années, des négociations et des révisions de contrats ont lieu pour tenter de répondre à ces préoccupations et de garantir un meilleur équilibre des avantages entre les parties prenantes.
+On commence à réaliser que l'augmentation des pollutions chimiques est une menace
+pour l'eau potable.
 
 ## 1972 ans
 
@@ -2571,6 +2763,13 @@ VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calc
 Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.
 
 Chute du régime du Shah Mohammad Reza Pahlavi et à l'établissement de la République islamique d'Iran sous la direction de l'Ayatollah Khomeini.
+
+## 1980 ans
+
+Des lois visent à améliorer le tri, le recyclage et la valorisation des déchets. On cherche
+de plus en plus à adopter une approche énergétique plus responsable, à réduire l'impact
+carbone à optimiser la consommation énergétique, à améliorer le recyclage des
+matériaux, et à développer des systèmes locaux d'énergie verte.
 
 ## 1985 ans
 
@@ -2822,6 +3021,10 @@ La Terre compte approximativement 7,97 milliards d'habitants.
 La Russie envahit l'Ukraine. Après les géants américains (Apple, Boeing, Disney, Ford, General Motors…), certaines entreprises françaises commencent à suspendre, voire retirer, leurs activités de Russie.
 
 Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en Inde — qui représentent à eux seuls 35 % de la population mondiale. De plus, environ 56 % de la population mondiale vit dans des zones urbaines plutôt que rurales.
+
+Une autoroute de la chaleur permet à travers 40 km de canalisations, de chauffer les
+logements de Lille et de Roubaix à partir de l'énergie créée par le traitement
+des déchets, en remplacement d'une ancienne centrale à charbon.
 
 ## 2023 ans
 
