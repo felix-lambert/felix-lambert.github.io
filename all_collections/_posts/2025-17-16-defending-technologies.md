@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technophilia and technophobia
-date: 2023-03-26 10:18:00
+date: 2025-17-06 10:18:00
 tags: technologie
 ---
 
@@ -14,3 +14,4 @@ Perceiving new technologies as solely threatening might serve as an excuse to tu
 
 A washing machine grants women independence, freeing them from the task of laundering their family's clothes by the river. A refrigerator empowers households to store food and prepare a wide variety of meals at home. A smartphone enables individuals to access any information they need within seconds, without relying on "experts".
 
+As people embrace these tools, they increasingly act in ways that support individual agency and refuse centralized control. The more society aligns with the ideals of a technological civilization, the harder it becomes for authoritarian systems to maintain dominance.

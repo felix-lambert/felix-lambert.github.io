@@ -96,12 +96,9 @@ constitué d’un proton) et d'hélium se forment dans les trois premières minu
 (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron
 qui gravite autour).
 
-À 20 minutes après le Big Bang, nous avons un univers contenant principalement
-75% d'hydrogène et 25% d'hélium.
+À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.
 
-Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que
-l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors
-à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
+Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/helium.png)</span>
 
@@ -109,11 +106,7 @@ l'Univers soit suffisamment refroidi par sa propre extension. La température ch
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/e9GuJUaX0UM" frameborder="0" allowfullscreen></iframe></p>
 
-Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron
-d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons
-et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus
-complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés
-chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
+Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 oxygène, azote… par exemple)).
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif)</span>
@@ -126,13 +119,8 @@ composée de ce gaz) grâce à la gravité (force gravitationnelle).
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cRYu8pMg9zQ" frameborder="0" allowfullscreen></iframe></p>
 
-De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent
-jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire
-faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail
-dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
-température est élevée, plus les atomes qui composent l'astre se déplacent rapidement;
-et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène
-se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent
+De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
+température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent
 en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire
 libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".
 
@@ -317,6 +305,38 @@ Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est r
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PFNp3hs-MdE" frameborder="0" allowfullscreen></iframe></p>
 
 Les premiers microbes, des organismes microscopiques, apparaissent. Ils sont les premières formes de vie sur Terre. Ce sont des procaryotes, de petites cellules sans noyau qui vivent dans les zones chaudes et profondes de l'océan. Ils se nourrissent de particules chimiques et n'ont pas besoin d'oxygène pour survivre. Aujourd'hui, les procaryotes incluent les bactéries et les archées.
+
+Les 3 éléments biologiques essentiels à la vie :
+
+1 Une cellule
+
+➡️ C’est l’unité de base de la vie
+
+Elle crée une barrière (membrane) entre l’intérieur et l’extérieur
+
+Elle permet de contenir les réactions chimiques
+
+Toutes les formes de vie connues sont composées de cellules (au moins une)
+
+2 De l’information
+
+➡️ C’est le code génétique, souvent sous forme d’ADN ou d’ARN
+
+Permet de stocker les instructions nécessaires à la vie
+
+Permet à la cellule de se reproduire, de fabriquer des protéines, de s’adapter, etc.
+
+3 Un métabolisme
+
+➡️ Ce sont toutes les réactions chimiques qui permettent à la cellule de :
+
+Utiliser l’énergie
+
+Se nourrir
+
+Se réparer
+
+Se reproduire
 
 Bien qu'il n'existe pas de description précise, on pense que ces microbes possèdent les caractéristiques fondamentales communes à tous les êtres vivants modernes, telles que l'utilisation de l'ADN pour stocker l'information génétique, l'ARN pour la transcription et la traduction, et les protéines pour la structure et le métabolisme.
 
@@ -578,15 +598,34 @@ Mais il y a aussi les scorpions des mers de plus de 2 mètres de long qui posent
 
 ## -425 000 000 d'années
 
-Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent, grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil. On comprend que les plantes ont besoin de trois choses pour prospérer:
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cooksonia.png)</span>
 
-1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)</br>
-2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)</br>
-3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner la photosynthèse).
+<span style="display:block;text-align:center">(Cooksonia)</span>
 
-Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante hydratée le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones océaniques.
+Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper
+l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des
+premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes
+peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est
+l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent,
+grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil.
+On comprend que les plantes ont besoin de trois choses pour prospérer:
 
-Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de transformer les rochers en terre fertile, afin que les plantes de la prochaine génération puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres des continents sont encore des déserts massifs.
+1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)
+
+2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation
+de la lumière en nourriture et rejet d'oxygène)
+
+3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner
+la photosynthèse).
+
+Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante
+hydratée le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones
+océaniques.
+
+Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de
+transformer les rochers en terre fertile, afin que les plantes de la prochaine génération
+puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres
+des continents sont encore des déserts massifs.
 
 # -420 000 000 d'années
 
@@ -826,11 +865,16 @@ Le primate le plus ancien est probablement Purgatorius.
 
 Ce petit animal se nourrit d'insectes et de fruits.
 
-Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.
+Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale
+ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents
+sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.
 
-Les fourmis deviennent des fermiers. Ils déplacent les feuilles pas pour les manger mais pour préserver et assurer un environnement dans lequel les petits champignons peuvent prospérer. Ces fourmis se nourissent de ces petits champignons.
+Les fourmis deviennent des fermiers. Ils déplacent les feuilles pas pour les manger mais
+pour préserver et assurer un environnement dans lequel les petits champignons peuvent
+prospérer. Ces fourmis se nourissent de ces petits champignons.
 
-Avec l'évolution, certains de ces petits champignons ne peuvent plus survivre sans l'intervention fermière des fourmis. Ils sont, en quelque sorte, domestiques.
+Avec l'évolution, certains de ces petits champignons ne peuvent plus survivre sans
+l'intervention fermière des fourmis. Ils sont, en quelque sorte, domestiques.
 
 L'agriculture fait donc partie du savoir-faire des fourmis.
 
@@ -946,27 +990,15 @@ Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses
 afin notamment de chasser et d'épuiser ses proies, comme des gazelles ou des antilopes.
 Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.
 
-C'est probablement cette pratique de la course à pied qui permet à Homo Erectus
-(et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps,
-afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de
-rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des
+C'est probablement cette pratique de la course à pied qui permet à Homo Erectus (et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des
 autres mammifères.
 
-Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capacité de
-refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration.
-Après un effort intense, Homo Erectus, comme, plus tard Homo Sapiens, est capable de
-produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes.
-Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
+Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration.
+Après un effort intense, Homo Erectus, comme, plus tard Homo Sapiens, est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.
 
-Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre.
-L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain
-et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution
-entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
+Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.
 
-L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains.
-Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce
-qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre
-lors d'un impact est en effet décisif pour l'évolution des hominidés.
+L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution des hominidés.
 
 ## - 1 600 000 années
 
@@ -1014,13 +1046,20 @@ Les hommes de Néandertal fabriquent des pierres pointus en utilisant la méthod
 
 Voici comment la méthode Levallois est généralement appliquée:
 
-    Préparation du noyau: Avant de pouvoir extraire un éclat, le noyau de pierre (la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé. Cela implique souvent d'enlever la croûte extérieure de la pierre et de former le noyau dans une forme convexe spécifique.
+Préparation du noyau: Avant de pouvoir extraire un éclat, le noyau de pierre
+(la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé.
+Cela implique souvent d'enlever la croûte extérieure de la pierre et de former le noyau
+dans une forme convexe spécifique.
 
-    Création d'une plate-forme: Une fois le noyau préparé, une plate-forme de percussion est créée. C'est à partir de cette plate-forme que l'éclat sera retiré.
+Création d'une plate-forme: Une fois le noyau préparé, une plate-forme de percussion est
+créée. C'est à partir de cette plate-forme que l'éclat sera retiré.
 
-    Extraction de l'éclat: En utilisant un percuteur (souvent un autre morceau de pierre), l'artisan frappe la plate-forme de percussion avec une force et un angle précis. Si tout est fait correctement, un éclat de forme prévisible est retiré du noyau.
+Extraction de l'éclat: En utilisant un percuteur (souvent un autre morceau de pierre),
+l'artisan frappe la plate-forme de percussion avec une force et un angle précis. Si tout
+est fait correctement, un éclat de forme prévisible est retiré du noyau.
 
-    Réutilisation: Le noyau peut ensuite être retaillé et préparé pour retirer d'autres éclats à l'avenir.
+Réutilisation: Le noyau peut ensuite être retaillé et préparé pour retirer d'autres
+éclats à l'avenir.
 
 Les éclats Levallois tranchants peuvent être utilisés comme couteaux pour découper la viande. Une arme ou un outil bien conçu et tranchant augmente les chances de réussite à la chasse et facilite le traitement des animaux abattus.
 
@@ -1029,6 +1068,10 @@ Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec 
 ## - 350 000 ans
 
 Homo Erectus parvient à dépecer les animaux principalement à l'aide d'outils en pierre. Ces outils sont fabriqués par taille directe ou indirecte de pierres pour créer des arêtes vives capables de couper la chair et d'autres matériaux mous. Cela leur permet d'accéder à une source riche en protéines, ce qui aurait pu influencer le développement du cerveau et favoriser des changements sociaux et technologiques.
+
+## - 300 000 ans
+
+Apparition d'Homo sapiens en Afrique (Maroc, Éthiopie).
 
 ## - 250 000 ans
 
@@ -1042,26 +1085,24 @@ La population humaine commence à décroître.
 
 Les hominidés commencent à utiliser des pigments colorés pour la décoration corporelle.
 
+# -80 000 ans
+
+Présence d'homo Sapiens en Asie du Sud-Est.
+
+Premières traces d’enterrements néandertaliens en Israël (site de Qafzeh).
+
 # -74 000 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-Y4jLQBnz2M" frameborder="0" allowfullscreen></iframe></p>
 
-En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba,
-dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et
+En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et
 des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.
 
-L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes
-de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection
-massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques
-globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud,
-du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de
-dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de
-la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui
+L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud,
+du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui
 auraient duré des années, voire des décennies.
 
-Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles
-d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre
-jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer
+Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer
 une éruption.
 
 # -70 000 ans
@@ -1070,11 +1111,15 @@ Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique. Homo
 
 # -60 000 ans
 
-Les hominidés continuent à améliorer les outils en pierre, y compris la fabrication de pointes de projectile plus avancées pour la chasse. Les hominidés commencent à utiliser des matériaux tels que l'os et l'ivoire pour la fabrication d'outils et de bijoux. Les hominidés commencent à développer des techniques de cuisson plus avancées, y compris la cuisson dans des pots en argile. Les hominidés ont commencé à développer des techniques de cuisson plus avancées, y compris la cuisson dans des pots en argile.
+Les hominidés continuent à améliorer les outils en pierre, y compris la fabrication de pointes de projectile plus avancées pour la chasse. Les hominidés commencent à utiliser des matériaux tels que l'os et l'ivoire pour la fabrication d'outils et de bijoux.
+
+Les hominidés commencent à développer des techniques de cuisson plus avancées, y compris la cuisson dans des pots en argile.
 
 # -50 000 ans
 
-Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés. Les hominidés commencent à utiliser des techniques de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar. Les hominidés commencent à s'installer dans des zones géographiques plus variées, y compris les régions polaires et les déserts.
+Début de l'art figuratif tel que les peintures rupestres (sur les rochers)
+et les objets sculptés. Les hominidés commencent à utiliser des techniques
+de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar et s'installent dans des zones géographiques plus variées, y compris les régions polaires et les déserts.
 
 ## -48 000 ans
 
@@ -1086,7 +1131,14 @@ Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, 
 
 ## -44 000 ans
 
-Les plus anciennes peintures connues, d'Indonésie, ont été réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux.
+Les plus anciennes peintures connues, d'Indonésie, sont réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux.
+
+## -42 000 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/L5W7Ge_ZvJs" frameborder="0" allowfullscreen></iframe></p>
+
+Un groupe de Néandertaliens, les thorins, vit en Europe juste avant l’arrivée massive des Homo sapiens modernes. À cette époque, les Néandertaliens sont encore largement présents, mais ils vont bientôt disparaître. La population de Thorin est l’une des
+dernières générations néandertaliennes avant leur extinction.
 
 # -40 000 ans
 
@@ -1106,8 +1158,6 @@ Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui exis
 
 Les premières représentations connues de chevaux sont trouvées dans des grottes en Europe occidentale. Les peintures et les gravures représentent des chevaux réalistes et stylisés, mais il n'est pas clair si ces représentations ont une signification symbolique ou rituelle.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7lTJT8v4u90" frameborder="0" allowfullscreen></iframe></p>
-
 Invention de la technologie de la lame. La technologie de la lame implique le détachement de longs éclats fins et rectilignes à partir d'un noyau préparé. Ces lames sont ensuite souvent retouchées pour créer divers outils, tels que des couteaux, des pointes et des grattoirs. En raison de leur forme allongée, les lames offrent un tranchant plus long que les éclats typiques, ce qui est utile pour de nombreuses tâches.
 
 Voici un aperçu simplifié de la manière dont cela est généralement accompli:
@@ -1120,11 +1170,12 @@ Après le détachement d'une lame, le noyau est souvent retaillé ou préparé �
 
 ## -31 000 ans
 
-Dans une grotte située à Bornéo, en Indonésie, une communauté humaine pratique une opération chirurgicale avancée : l'amputation de la jambe gauche d'un jeune individu. Cette intervention est réalisée avec une grande précision, et l'individu survit à l'opération.
+Dans une grotte située à Bornéo, en Indonésie, une communauté humaine pratique une opération chirurgicale avancée: l'amputation de la jambe gauche d'un jeune individu. Cette intervention est réalisée avec une grande précision, et l'individu survit à l'opération.
 
 ## -26 000 ans
 
-Homo Sapiens commence à domestiquer le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.
+Homo Sapiens domestique le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire
+domestiquer.
 
 Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.
 
@@ -1148,13 +1199,26 @@ La grotte de Lascaux est le théâtre d'une intense activité artistique. Les pa
 
 La Terre est en plein cœur de la dernière période glaciaire, avec des calottes glaciaires recouvrant une grande partie de l'Amérique du Nord, de l'Europe et de l'Asie. Les hominidés commencent à utiliser des techniques de tissage pour fabriquer des vêtements chauds, ce qui leur permet de mieux s'adapter aux conditions glaciaires.
 
-Invention de la poterie dans plusieurs sites en Asie de l'Est, notamment en Chine et au Japon, facilitant le stockage, la cuisson et le transport des aliments de manière plus efficace. Les premiers potiers sélectionnent des types d'argile locaux adaptés à la fabrication de poterie et peuvent également expérimenter avec différents additifs (comme du sable, des coquilles broyées ou des fibres organiques) pour améliorer les caractéristiques de l'argile, comme sa résistance au feu et sa capacité à minimiser le retrait et la fissuration lors du séchage et de la cuisson. L'argile est plastique lorsqu'elle est mouillée, ce qui permet de la modeler, mais elle devient dure et durable une fois cuite.
-
-Les premières poteries sont probablement façonnées à la main par des méthodes simples, telles que le modelage à la main, où l'argile est directement modelée pour former la forme souhaitée, ou la technique du colombin, qui implique de rouler l'argile en longs cordons qui sont ensuite empilés et lissés pour former les parois du récipient. Ces techniques ne nécessitent pas d'équipement complexe et sont adaptées à la production de petites quantités d'objets.
-
-Après le façonnage, les poteries sont laissées à sécher pour enlever l'excès d'humidité. Ce processus doit être géré soigneusement pour éviter que les objets ne se déforment ou ne fissurent.
-
-Puis il y a la cuisson qui est une étape cruciale et qui transforme l'argile modelée en une poterie dure et durable. Les premières poteries en Chine auraient pu être cuites dans des feux ouverts ou dans des fosses simples. La température doit être suffisamment élevée pour permettre la transformation chimique de l'argile, mais pas trop élevée au risque de faire fondre ou déformer les objets. Les températures de cuisson pour les poteries primitives varient généralement entre 600 et 800 degrés Celsius.
+Invention de la poterie dans plusieurs sites en Asie de l'Est, notamment en Chine et au Japon, facilitant le stockage, la cuisson et le transport des aliments de manière plus efficace. Les premiers potiers sélectionnent des types d'argile locaux adaptés
+à la fabrication de poterie et peuvent également expérimenter avec différents
+additifs (comme du sable, des coquilles broyées ou des fibres organiques) pour
+améliorer les caractéristiques de l'argile, comme sa résistance au feu et sa capacité
+à minimiser le retrait et la fissuration lors du séchage et de la cuisson. L'argile
+est plastique lorsqu'elle est mouillée, ce qui permet de la modeler, mais elle devient
+dure et durable une fois cuite. Les premières poteries sont probablement façonnées à la
+main par des méthodes simples, telles que le modelage à la main, où l'argile est
+directement modelée pour former la forme souhaitée, ou la technique du colombin,
+qui implique de rouler l'argile en longs cordons qui sont ensuite empilés et lissés
+pour former les parois du récipient. Ces techniques ne nécessitent pas d'équipement
+complexe et sont adaptées à la production de petites quantités d'objets. Après le façonnage,
+les poteries sont laissées à sécher pour enlever l'excès d'humidité. Ce processus doit
+être géré soigneusement pour éviter que les objets ne se déforment ou ne fissurent. Puis
+il y a la cuisson qui est une étape cruciale et qui transforme l'argile modelée en une
+poterie dure et durable. Les premières poteries en Chine auraient pu être cuites dans
+des feux ouverts ou dans des fosses simples. La température doit être suffisamment élevée
+pour permettre la transformation chimique de l'argile, mais pas trop élevée au risque de
+faire fondre ou déformer les objets. Les températures de cuisson pour les poteries
+primitives varient généralement entre 600 et 800 degrés Celsius.
 
 ## -18 000 ans
 
@@ -1178,7 +1242,10 @@ Pendant cette période, de nombreux lieux sont transformés en sanctuaires, c'es
 
 ## -12 000 ans
 
-Fin du dernier âge glaciaire. Trace des premiers villages.
+Fin du dernier âge glaciaire. La Terre sort de l'environnement glaciaire et entre dans une phase de réchauffement climatique propice au développement de la végétation: c'est ce qu'on appelle l'Holocène, l'ère géologique dans laquelle nous vivons encore. On dit alors que les humains du Mésolithique sont des chasseurs-cueilleurs, tant ils
+consomment de végétaux: glands, prunelles, noisettes, raisins, olives et merises - une version sauvage du cerisier. Tout n'était pas cultivé mais bien cueilli dans un milieu sauvage. Et c'est la même chose pour les champignons, non seulement comme aliments mais aussi comme plantes médicinales ou hallucinogènes.
+
+Trace des premiers villages.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/OU4-UFTKQ80" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1186,25 +1253,41 @@ Les Natoufiens, un peuple préhistorique qui vit dans le Levant, une région qui
 
 Les Natoufiens fabriquent des lames de faucille tranchantes pour couper les tiges des plantes sauvages, ce qui indique qu'ils récoltent activement des plantes. Ils utilisent aussi des outils pour broyer des grains et des pierres pour polir des outils. Cela montre une diversification de leurs activités et une certaine spécialisation dans la fabrication d'outils.
 
-En Iran, dans la région du Zagros, les gens commencent à pratiquer la protoagriculture, c'est-à-dire les premières formes d'agriculture, en cultivant des herbes sauvages et peut-être en commençant à domestiquer des plantes.
+En Iran, dans la région du Zagros, les gens commencent à pratiquer la protoagriculture,
+c'est-à-dire les premières formes d'agriculture, en cultivant des herbes sauvages et
+peut-être en commençant à domestiquer des plantes.
 
 ## -11 000 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/croissantfertile.jpg)</span>
 
-Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture. La domestication du blé est un élément clé de cette transition.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/brAf_1Q5-44" frameborder="0" allowfullscreen></iframe></p>
 
-Les premiers agriculteurs sélectionnent les graines des plantes de blé sauvage qui présentent des caractéristiques souhaitables, comme une plus grande taille de grain, une meilleure résistance aux maladies ou une plus grande facilité de récolte. Ils plantent ensuite ces graines pour cultiver de nouvelles plantes, commençant ainsi le processus de domestication. Au fil du temps, ce processus de sélection conduit à des changements génétiques dans les organismes domestiqués, les rendant différents de leurs ancêtres sauvages. Ces changements dans les caractéristiques du blé sont le résultat de la sélection artificielle exercée par les humains lors de la domestication.
+Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie,
+la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture. La domestication
+du blé est un élément clé de cette transition.
 
-Les premiers agriculteurs labourent la terre à l'aide d'outils rudimentaires faits de bois, de pierre ou d'os. Ces outils sont utilisés pour creuser des trous ou des sillons dans le sol, dans lesquels les graines sont plantées. Le labour sert également à retourner et à aérer le sol, favorisant ainsi la croissance des plantes.
+Les premiers agriculteurs sélectionnent les graines des plantes de blé sauvage qui
+présentent des caractéristiques souhaitables, comme une plus grande taille de grain,
+une meilleure résistance aux maladies ou une plus grande facilité de récolte.
+Ils plantent ensuite ces graines pour cultiver de nouvelles plantes, commençant
+ainsi le processus de domestication. Au fil du temps, ce processus de sélection
+conduit à des changements génétiques dans les organismes domestiqués, les rendant
+différents de leurs ancêtres sauvages. Ces changements dans les caractéristiques du
+blé sont le résultat de la sélection artificielle exercée par les humains lors de la
+domestication.
 
-Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer que les graines sont suffisamment espacées pour permettre à chaque plante de croître et de se développer.
+Les premiers agriculteurs labourent la terre à l'aide d'outils rudimentaires faits de
+bois, de pierre ou d'os. Ces outils sont utilisés pour creuser des trous ou des sillons
+dans le sol, dans lesquels les graines sont plantées. Le labour sert également à retourner
+et à aérer le sol, favorisant ainsi la croissance des plantes.
 
-Les agriculteurs doivent désherber et protéger leurs cultures contre les animaux et les insectes nuisibles. Ils peuvent également utiliser des méthodes naturelles de lutte antiparasitaire, comme l'introduction d'insectes prédateurs pour contrôler les populations d'insectes nuisibles.
+Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou
+en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer
+que les graines sont suffisamment espacées pour permettre à chaque plante de croître et
+de se développer.
 
 # -10 000 ans
-
-La Terre sort de l'environnement glaciaire et entre dans une phase de réchauffement climatique propice au développement de la végétation: c'est ce qu'on appelle l'Holocène, l'ère géologique dans laquelle nous vivons encore. On dit alors que les humains du Mésolithique sont des chasseurs-cueilleurs, tant ils consomment de végétaux: glands, prunelles, noisettes, raisins, olives et merises - une version sauvage du cerisier. Tout n'était pas cultivé mais bien cueilli dans un milieu sauvage. Et c'est la même chose pour les champignons, non seulement comme aliments mais aussi comme plantes médicinales ou hallucinogènes.
 
 Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.
 
@@ -1212,20 +1295,42 @@ Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela r
 
 ## -9 000 ans
 
-Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.
+Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le
+lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.
 
-Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme l'une des plus anciennes villes habitées en continu.
-Les habitants vivaient dans des huttes circulaires en terre et en chaume. C'est l'une des premières preuves de sédentarisation, où les chasseurs-cueilleurs commencent à adopter un mode de vie agricole. Les premières traces d'habitat à Jéricho sont attribuées aux Natoufiens, une culture de chasseurs-cueilleurs qui adoptent progressivement l'agriculture.
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jericho.jpg)</span>
 
-En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine ne représente pas seulement un tournant dans l'histoire de l'agriculture et de l'alimentation humaine, mais elle a également un impact profond sur le développement social, économique et culturel des sociétés néolithiques et des civilisations ultérieures en Asie.
+Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme
+l'une des plus anciennes villes habitées en continu. Les habitants vivent dans des
+huttes circulaires en terre et en chaume. C'est l'une des premières preuves de
+sédentarisation, où les chasseurs-cueilleurs commencent à adopter un mode de vie
+agricole. Les premières traces d'habitat à Jéricho sont attribuées aux Natoufiens,
+une culture de chasseurs-cueilleurs qui adoptent progressivement l'agriculture.
 
-Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz, souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides, où l'eau peut être facilement dirigée vers les champs de riz. Le riz peut être semé directement dans les champs inondés.
+En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant
+la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine
+ne représente pas seulement un tournant dans l'histoire de l'agriculture et de
+l'alimentation humaine, mais elle a également un impact profond sur le développement
+social, économique et culturel des sociétés néolithiques et des civilisations ultérieures
+en Asie.
 
-La gestion de l'eau est cruciale pour la réussite de la culture du riz. Les agriculteurs doivent contrôler le niveau d'eau dans les champs pour favoriser la croissance du riz tout en prévenant la stagnation de l'eau et la pourriture des racines.
+Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz,
+souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides,
+où l'eau peut être facilement dirigée vers les champs de riz. Le riz peut être semé
+directement dans les champs inondés.
 
-Après la récolte, le riz est battu pour séparer les grains de la balle, puis vanné pour enlever la balle et les impuretés. Ce processus peut être réalisé à l'aide de paniers ou de tamis.
+La gestion de l'eau est cruciale pour la réussite de la culture du riz. Les agriculteurs
+doivent contrôler le niveau d'eau dans les champs pour favoriser la croissance du riz
+tout en prévenant la stagnation de l'eau et la pourriture des racines.
 
-Les grains de riz sont stockés dans des greniers ou d'autres structures élevées pour les protéger de l'humidité et des rongeurs. Le stockage adéquat est essentiel pour assurer la disponibilité de nourriture tout au long de l'année et pour préserver les semences pour la prochaine saison de plantation.
+Après la récolte, le riz est battu pour séparer les grains de la balle, puis vanné pour
+enlever la balle et les impuretés. Ce processus peut être réalisé à l'aide de paniers
+ou de tamis.
+
+Les grains de riz sont stockés dans des greniers ou d'autres structures élevées pour
+les protéger de l'humidité et des rongeurs. Le stockage adéquat est essentiel pour
+assurer la disponibilité de nourriture tout au long de l'année et pour préserver les
+semences pour la prochaine saison de plantation.
 
 La culture du riz dans les époques anciennes est donc un processus qui nécessite une connaissance approfondie de l'environnement, des compétences en gestion de l'eau et un travail communautaire organisé. Ces pratiques agricoles permettent non seulement de soutenir les populations croissantes, mais jouent également un rôle dans le développement des sociétés agraires et la formation de civilisations complexes.
 
@@ -1235,15 +1340,29 @@ Dans le sud du Mexique, début de la domestication du maïs à partir d'une plan
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ESLQKERs7bU" frameborder="0" allowfullscreen></iframe></p>
 
-En Mésopotamie, considérée comme l'un des berceaux de la civilisation, les premières villes commencent à se former. Çatalhöyük en Anatolie (Turquie moderne) est un exemple de ces premiers établissements urbains. Çatalhöyük est remarquable par son absence apparente de rues. Les maisons sont construites très près les unes des autres, et les habitants se déplacent probablement en marchant sur les toits de ces maisons, entrant par des ouvertures dans le toit qui servent également de portes et de fenêtres.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/5zUB4BXA6Q4" frameborder="0" allowfullscreen></iframe></p>
 
-Les maisons à Çatalhöyük sont principalement en briques crues (adobe) et ont des formes rectangulaires. Elles sont souvent reconstruites sur les ruines des anciennes, créant ainsi une série de couches archéologiques superposées.
+En Mésopotamie, considérée comme l'un des berceaux de la civilisation, les premières
+villes commencent à se former. Çatalhöyük en Anatolie (Turquie moderne) est un exemple
+de ces premiers établissements urbains. Çatalhöyük est remarquable par son absence
+apparente de rues. Les maisons sont construites très près les unes des autres, et les
+habitants se déplacent probablement en marchant sur les toits de ces maisons, entrant
+par des ouvertures dans le toit qui servent également de portes et de fenêtres.
 
-Les habitants de Çatalhöyük sont principalement des agriculteurs et des éleveurs, mais ils pratiquent également la chasse et la cueillette. Ils cultivent des céréales comme le blé et l'orge et élevent des animaux comme les moutons et les chèvres.
+Les maisons à Çatalhöyük sont principalement en briques crues (adobe) et ont des formes
+rectangulaires. Elles sont souvent reconstruites sur les ruines des anciennes, créant
+ainsi une série de couches archéologiques superposées.
 
-Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles. Des représentations de déesses-mères, d'animaux et de scènes de chasse sont courantes.
+Les habitants de Çatalhöyük sont principalement des agriculteurs et des éleveurs, mais
+ils pratiquent également la chasse et la cueillette. Ils cultivent des céréales comme
+le blé et l'orge et élevent des animaux comme les moutons et les chèvres.
 
-Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes telles que des perles ou des outils.
+Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures
+et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles.
+Des représentations de déesses-mères, d'animaux et de scènes de chasse sont courantes.
+
+Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes
+telles que des perles ou des outils.
 
 ## -7 000 ans
 
@@ -1251,31 +1370,73 @@ Les morts sont souvent enterrés sous les planchers des maisons, parfois avec de
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/briquecuite.jpg)</span>
 
-Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui), l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).
+Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui),
+l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de
+construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre
+crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).
 
 ## -6 000 ans
 
-En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.
+En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la
+plante la plus ancienne à avoir été domestiquée.
 
-Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité. Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid ou à chaud en divers outils, armes, et ornements.
+Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité.
+Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid ou
+à chaud en divers outils, armes, et ornements.
 
-En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.
+En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant
+une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont
+simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources
+vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans
+une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation
+soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la
+productivité agricole et soutenant le développement des premières civilisations sédentaires.
 
-Premières traces de production découvertes de vin dans les régions qui correspondent aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des poteries contenant des résidus de vin.
+Premières traces de production découvertes de vin dans les régions qui correspondent
+aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de
+vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des
+poteries contenant des résidus de vin.
 
 # -5000 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hieroglyphe.jpg)</span>
 
-Les premières traces de bière sont présentes dans l'ancienne Mésopotamie, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.
+## Mésopotamie
 
-La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils ont joué un rôle central dans la culture Botai.
+Les premières traces de bière sont présentes dans l'ancienne Mésopotamie, située dans
+l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont
+souvent considérés comme les pionniers de la bière.
 
-S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains ont été fasciné par eux depuis des milliers d'années, les peignant sur des rochers.
+Première fusion du métal : le Cuivre. La métallurgie du cuivre apparaît d’abord au
+Proche-Orient, notamment en Anatolie (Turquie actuelle), en Iran et en Mésopotamie.
 
-Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao, centrée sur le fleuve Jaune en Chine, devient proéminente. Elle est connue pour sa poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période marque une étape importante dans le développement de l'agriculture et des sociétés sédentaires en Chine.
+## Kazakhstan
 
-En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures ont probablement des significations culturelles ou religieuses.
+La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils jouent un rôle central dans la culture Botai. S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains sont fascinés par eux depuis des milliers d'années, les peignant sur des rochers.
+
+### Chine
+
+Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao,
+centrée sur le fleuve Jaune devient proéminente. Elle est connue pour sa
+poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période
+marque une étape importante dans le développement de l'agriculture et des sociétés
+sédentaires.
+
+### Europe
+
+En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction
+de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures
+ont probablement des significations culturelles ou religieuses.
+
+### Egypte
+
+Les premiers signes d’une organisation tribale en Égypte apparaissent durant la période prédynastique.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/oK4Y3jmmL_Y" frameborder="0" allowfullscreen></iframe></p>
+
+La houe, un des premiers outils agricoles de l’histoire, est utilisée en Égypte. Les premières houes étaient entièrement en bois. Les premiers agriculteurs utilisent des houes en bois courbées, une sorte de bâton recourbé pour ameublir le sol. Ce type de houe nécessite beaucoup d’efforts et sont utilisés pour les cultures de blé et d’orge.
+
+Premières traces de culture du blé et de l'orge et développement des premiers villages agricoles, notamment en Haute-Égypte. Les Égyptiens commencent donc à consommer du pain et de la bière, soit à la même période que le début de l’agriculture du blé et de l’orge. La bière est fabriquée en laissant tremper du pain dans de l’eau, où les levures naturelles déclenchent la fermentation. C'est une bière primitive, non filtrée, ressemblant à une bouillie alcoolisée.
 
 # -4500 ans
 
@@ -1287,41 +1448,106 @@ Les villes de la Mésopotamie ancienne sont organisées en cités-États, chacun
 
 L'exploitation et l'esclavage sont courants en Mésopotamie. Les esclaves peuvent être des prisonniers de guerre, des personnes endettées, ou des individus vendus par leur famille. Ils sont utilisés dans l'agriculture, la construction, et les services domestiques. Les textes et les lois de l'époque, comme le Code de Hammurabi, fournissent des détails sur leur statut et leurs droits, qui sont limités comparés à ceux des personnes libres.
 
+# -4300 ans
+
+Invention du calendrier égyptien. Il est considéré comme l'un des plus anciens calendriers connus et sert de modèle pour le calendrier julien et grégorien. Il est conçu pour prédire les crues du Nil, un phénomène vital pour l’agriculture. En effet, cette inondation est vitale pour fertiliser les terres agricoles grâce aux limons déposés sur les champs. Ce phénomène est si régulier que les Égyptiens l’utilisent pour fixer leur nouvel an. Mais
+cette inondation n’est pas seulement un phénomène naturel, mais un véritable « renouveau », garantissant prospérité et fertilité pour l’année à venir.
+
 # -4000 ans
 
-La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément la civilisation mésopotamienne.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/lC1a-kGeDRQ" frameborder="0" allowfullscreen></iframe></p>
 
-La Mésopotamie, riche en argile mais pauvre en autres ressources naturelles, échangent ses produits agricoles et artisanaux contre des matériaux et des biens de luxe d'autres régions.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XUUH13_cZSE" frameborder="0" allowfullscreen></iframe></p>
 
-Les Sumériens développent la voile pour améliorer le transport fluvial et maritime. L'utilisation de la voile leur permet d'exploiter la force du vent pour naviguer plus efficacement sur les rivières et les mers, facilitant ainsi le commerce et les échanges entre différentes régions, ainsi que la pêche et l'exploration de nouvelles terres.
+La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de
+l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et
+pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon
+mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément
+la civilisation mésopotamienne.
+
+La Mésopotamie, riche en argile mais pauvre en autres ressources naturelles, échangent
+ses produits agricoles et artisanaux contre des matériaux et des biens de luxe d'autres
+régions.
+
+Les Sumériens développent la voile pour améliorer le transport fluvial et maritime.
+L'utilisation de la voile leur permet d'exploiter la force du vent pour naviguer plus
+efficacement sur les rivières et les mers, facilitant ainsi le commerce et les échanges
+entre différentes régions, ainsi que la pêche et l'exploration de nouvelles terres.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vCad77_c-LU" frameborder="0" allowfullscreen></iframe></p>
 
 Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.
 
+### Egypte
+
 Les villes et les villages du long du Nil (grand fleuve d'Afrique du Nord) s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.
 
 Les Egyptions utilisent des produits tels que des poudres pour blanchir la peau, des fards pour les yeux à base de malachite et de galène (kohl) pour réduire l'éblouissement du soleil et diminuer les risques d'infection oculaire, ainsi que des baumes et des huiles pour protéger et hydrater la peau dans un climat désertique.
 
+Les Égyptiens domestiquent des chiens. Les chiens sont à la fois des compagnons, des chasseurs et des protecteurs. Ils sont si appréciés que certains ont des sépultures individuelles et des noms gravés sur des stèles funéraires.
+
+Les sacrifices aux dieux existent et ces pratiques sont un moyen d’honorer les dieux, d’assurer leur bienveillance et de maintenir l’équilibre du Maât (l’ordre cosmique). Des traces archéologiques montrent des offrandes animales et alimentaires dans des tombes et sanctuaires. Les tombes royales de Nagada et Abydos contiennent des vestiges de sacrifices humains (rares et limités à la période prédynastique) et animaux, suggérant une forme d'offrande aux divinités et aux rois déifiés.
+
+# -3800 ans
+
+### Mésopotamie
+
+Fondation d'Ur, l'une des plus anciennes villes de la Sumérie.
+
+### Egypte
+
+Des analyses biochimiques sur des poteries provenant de Hiérakonpolis, datant de la période de Nagada I-C/II-A, révèle la présence d'acides gras caractéristiques du beurre, attestant de sa fabrication à cette époque. Bien que moins courant que le fromage, le beurre est consommé, notamment par les classes aisées. Il est utilisé pour ses propriétés apaisantes, par exemple pour soulager les douleurs des gencives chez les nourrissons. Des mélanges de beurre et d'huiles végétales sont aussi appliqués pour hydrater et protéger la peau.
+
 # -3500 ans
+
+Homo Sapiens commence à utiliser des chevaux pour tirer des charrues à travers l'Europe, l'Afrique du Nord et la Chine.
+
+### Mésopotamie
 
 Les Sumériens sont considérés comme la première civilisation urbaine de Mésopotamie.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/77fYAVBAshs" frameborder="0" allowfullscreen></iframe></p>
 
-Les Sumériens inventent la roue, probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.
+Les Sumériens inventent la roue, probablement utilisée dans la poterie pour créer des
+objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et
+aux véhicules pour faciliter le déplacement des biens et des personnes.
 
-Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue. L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole. En retournant le sol, la charrue permet une meilleure aération et préparation du terrain pour la plantation, contribuant significativement à l'augmentation de la production agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.
+Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue.
+L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole.
+En retournant le sol, la charrue permet une meilleure aération et préparation du terrain
+pour la plantation, contribuant significativement à l'augmentation de la production
+agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.
 
-Leur civilisation prospère principalement dans le sud de la Mésopotamie, dans une région connue sous le nom de Sumer (incluant des villes comme Ur, Uruk, et Eridu).
+Leur civilisation prospère principalement dans le sud de la Mésopotamie, dans une région
+connue sous le nom de Sumer (incluant des villes comme Ur, Uruk, et Eridu).
 
-Homo Sapiens commence à utiliser des chevaux pour tirer des charrues à travers l'Europe, l'Afrique du Nord et la Chine.
+## Egypte
+
+Invention des houes en bois avec renforts. Durant la Période prédynastique, des améliorations apparaissent avec l’ajout de lanières en cuir pour fixer la lame
+en bois. Ce modèle est mieux adapté aux terres inondées par le Nil.
+
+Des découvertes archéologiques, notamment dans la tombe du roi Scorpion Ier à Abydos, révèlent des jarres contenant des résidus de vin, attestant de l'importation de vin depuis le Levant.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FA7G1bagOFY" frameborder="0" allowfullscreen></iframe></p>
+
+La momification commence, pendant la période prédynastique, avec les premières tentatives de conservation des corps. Les premiers corps, enterrés directement dans le sable du désert, sont naturellement préservés par la chaleur et la sécheresse.
+
+Les Égyptiens croient en une vie après la mort et pensent que l'âme (ba) doit reconnaître le corps pour survivre dans l'au-delà. Si le corps se décompose, l’âme ne peut pas revenir et l’individu disparait définitivement. La momification vise donc à préserver le corps pour garantir l’immortalité.
 
 ## -3300 ans
 
-Les Sumériens utilisent massivement le bronze, principalement pour ses avantages dans la fabrication d'armes et d'outils plus résistants que ceux en cuivre. Le bronze est fabriqué par l'alliage de cuivre avec un peu d'étain, ce qui lui confère une plus grande dureté et une meilleure capacité à retenir un tranchant affûté.
+### Mésopotamie
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/8vWzmge6nMU" frameborder="0" allowfullscreen></iframe></p>
+Les Sumériens utilisent massivement le bronze, principalement pour ses avantages dans
+la fabrication d'armes et d'outils plus résistants que ceux en cuivre. Le bronze est
+fabriqué par l'alliage de cuivre avec un peu d'étain, ce qui lui confère une plus
+grande dureté et une meilleure capacité à retenir un tranchant affûté.
+
+### Inde
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/SYOHDnwRA3M" frameborder="0" allowfullscreen></iframe></p>
+
+Début de la civilisation de l'Indus (ou civilisation harappéenne). Les premières villes apparaissent : Harappa, Mohenjo-Daro et d’autres sites commencent à prendre forme. Développement de l’urbanisme, des échanges commerciaux et d’une écriture encore non déchiffrée.
 
 # -3200 ans
 
@@ -1333,9 +1559,15 @@ Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on 
 
 Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.
 
+## -3150 ans
+
+### Egypte
+
+Les premières embarcations sont principalement construites en papyrus et utilisées pour la navigation sur le Nil. Ces bateaux servent au transport de personnes et de marchandises, facilitant les échanges entre les différentes régions le long du fleuve.
+
 # -3100 ans
 
-Première dynastie en Egypte.
+Première dynastie en Egypte. Le roi Narmer (ou Ménès) unifie la Haute et la Basse-Égypte, mettant fin à l’organisation tribale et centralisant le pouvoir sous un pharaon divinisé. Les tribus locales perdent leur autonomie et sont intégrées dans une structure bureaucratique plus rigide.
 
 # -3000 ans
 
@@ -1349,65 +1581,206 @@ L'écriture sert désormais à clarifier le sens des images et aider le lecteur 
 
 Les premières traces d'occupation à Babylone, dans l'Irak actuel. La ville commence comme une petite ville-État sumérienne, mais elle n'a pas eu d'importance majeure pendant cette période.
 
-# -2900 ans
+## -2900 ans
 
 Apparaissent chez les sumériens des textes juridiques (actes de vente).
+
+# -2800 ans
+
+L'utilisation des bœufs pour labourer les champs en Égypte antique commence pendant la Période thinite.
+
+# -2700 ans
+
+### Egypte
+
+Invention des houes en cuivre (~-2700 av. J.-C.) pendant l'Ancien Empire. Avec l’essor de la métallurgie du cuivre, les Égyptiens commencent à fabriquer des houes à lame de cuivre, fixées sur un manche en bois. Cette innovation facilite le travail du sol sec.
+
+La culture de la vigne et la production locale de vin se développent. Des scènes de vendanges et de vinification sont représentées dans les tombes de cette période, indiquant que le vin est produit dans les vignobles du delta du Nil. Le vin est principalement consommé par l'élite égyptienne en raison de sa rareté et de son coût élevé. Il est présent lors des banquets, des cérémonies religieuses et utilisé comme offrande aux dieux.
+
+Le miel est récolté. Une des plus anciennes représentations d’apiculture date de la Ve dynastie, sur les murs du temple du pharaon Nyuserre à Abousir. Les Égyptiens élèvent des abeilles domestiques dans des ruches en argile cylindriques, empilées horizontalement, une technique encore utilisée en Égypte aujourd’hui. C’est un produit rare et cher, souvent réservé aux pharaons, prêtres et nobles. Il sert comme monnaie d’échange et est utilisé pour payer des impôts. Il est souvent inclus dans les offrandes aux dieux et aux morts, notamment pour nourrir les défunts dans l’au-delà. Le miel est aussi un antiseptique naturel, utilisé pour soigner les plaies et infections. Il entre dans la composition de nombreux remèdes médicinaux, comme ceux décrits dans le papyrus Ebers. Les classes populaires utilisent plutôt du sirop de dattes ou de figues comme alternative sucrante, car le miel est trop cher.
+
+Les Égyptiens élèvent et chassent des volailles. Des fresques funéraires de la tombe de Ti à Saqqarah (Ve dynastie) montrent des scènes de capture et de plumage de volailles. Les Égyptiens font rôtir la volaille sur des broches ou en la faisant cuire dans des fours en terre. Les Égyptiens utilisent des foyers en argile pour cuire la volaille à la broche. Des graisses animales, du miel et des épices peuvent être utilisés pour rehausser le goût. Les volailles peuvent être assaisonnées avec du sel, de la coriandre, du cumin et de l’ail. Elles sont souvent servies avec des légumes, des figues, du pain ou du miel pour les festins. La volaille rôtie est un mets réservé aux classes aisées et aux banquets royaux. Elle figure aussi parmi les offrandes aux dieux et aux pharaons. Les paysans consomment plutôt du poisson séché ou du pain, la volaille étant plus coûteuse. Cependant, la chasse aux oiseaux sauvages est une alternative pour certains Égyptiens modestes.
+
+# -2600 ans
+
+### Egypte
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PMrxiQgDoJ0" frameborder="0" allowfullscreen></iframe></p>
+
+Snéfrou, premier pharaon de la IVᵉ dynastie apporte des innovations majeures dans la conception et la construction des pyramides, qui influencent l’architecture funéraire pour les siècles suivants. Il passe progressivement des petites pierres de maçonnerie à des blocs de calcaire taillés et ajustés.
+
+Snéfrou jete donc les bases des grandes pyramides de Gizeh, notamment celle de Khéops, testant et optimisant les méthodes qui conduisent à la construction des plus grandes pyramides d’Égypte.
+
+Le culte solaire prend une importance centrale, avec Rê, le dieu soleil, vénéré comme créateur et source de vie. Héliopolis devient le principal centre religieux dédié à Rê.
 
 # -2500 ans
 
 Les Akkadiens apparaissent peu après les Sumériens. Ils utilisent également l'écriture cunéiforme, adaptant les signes sumériens à leur propre langue sémitique. La langue sumérienne est utilisée par les Akkadiens pour des fins religieuses et littéraires même après que l'akkadien soit devenu la langue dominante.
 
-Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.
+### Egypte
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ITYFvAP98qs" frameborder="0" allowfullscreen></iframe></p>
+
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/pyramide.jpg)</span>
+
+Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes
+et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops.
+Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà,
+selon les croyances égyptiennes. Sa construction reflète les avancées techniques et
+l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables
+et démontrant l'importance de la vie après la mort dans la culture égyptienne.
+
+Les premières traces d'olives en Égypte remontent à la IVᵉ dynastie (vers 2551-2523 av. J.-C.), où des branches d'olivier sont importées, probablement du Levant, et utilisées lors de cérémonies religieuses et comme offrandes funéraires. En raison de la rareté de la production locale et de la nécessité d'importer, l'huile d'olive est considérée comme un produit de luxe, principalement réservé aux élites et aux cérémonies religieuses.
+
+# -2400 ans
+
+Une fresque dans la tombe de Ti (Saqqarah) montre la récolte de légumes, dont des concombres. Les concombres sont cultivés le long du Nil grâce aux techniques d'irrigation des Égyptiens. Ils sont consommés crus, parfois assaisonnés avec du sel ou du vinaigre. On les retrouve dans les offrandes funéraires et les inscriptions murales des tombes. C'est un aliment commun, apprécié pour son goût rafraîchissant et ses propriétés hydratantes.
 
 # -2334 ans
 
-La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important, mais le sumérien reste très pratiqué dans les cités de Sumer.
+La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par
+Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire,
+unifiant les cités-états sumériennes sous son règne et étend son influence à travers
+une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important,
+mais le sumérien reste très pratiqué dans les cités de Sumer.
 
 # -2100 ans
 
-Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur. On parle parfois de période néo-sumérienne pour désigner cette phase succédant à l'empire d'Akkad, qui voit un essor de la littérature en sumérien (hymnes, prières, mythes, épopées).
+### Mésopotamie
 
-L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues, originaire de la Mésopotamie ancienne, une région correspondant principalement à l'Irak moderne.
+Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur. On parle parfois de période néo-sumérienne pour désigner cette phase succédant à l'empire d'Akkad, qui voit un essor de la littérature en sumérien (hymnes, prières, mythes, épopées). C'est la IIIᵉ dynastie d’Ur, fondée par le roi Ur-Nammu.
+Elle devient un centre religieux, commercial et administratif majeur.
 
-Cette épopée sumérienne est écrite en sumérien et en akkadien sur des tablettes d'argile, un matériau abondant et durable. Les Mésopotamiens utilisent des roseaux pour écrire en cunéiforme sur les tablettes d'argile humide, qui sont ensuite séchées ou cuites pour durcir. Ces tablettes, lorsqu'elles sont enfouies, peuvent survivre des millénaires.
+Selon la Bible (Genèse 11:31), Abraham serait né à "Ur des Chaldéens", et aurait quitté la ville sur ordre de Dieu pour se rendre en Canaan (Palestine actuelle), mais son lien historique reste débattu. C'est le premier qui commence à croire en un seul Dieu.
 
-Elle raconte les aventures du roi Gilgamesh, roi semi-divin d'Uruk, et de son ami Enkidu, un homme sauvage civilisé par sa rencontre avec Gilgamesh. Ensemble, ils affrontent des monstres et défient les dieux, avant qu'Enkidu ne meure, poussant Gilgamesh à chercher l'immortalité. Les différentes versions et fragments trouvés sur des tablettes montrent que l'histoire a été enrichie et modifiée au fil du temps.
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/gilgamesh.jpg)</span>
 
-Dans la tradition mésopotamienne, les rois sont souvent vus comme des représentants des dieux sur terre. Gilgamesh, qui est à la fois un personnage historique et mythologique, est considéré comme deux tiers divin et un tiers humain, selon l'épopée.
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/pYkdudibadY" frameborder="0" allowfullscreen></iframe></p>
 
-L'épopée de Gilgamesh est découverte au XIXème siècle grâce aux fouilles archéologiques, et ses tablettes sont trouvées principalement dans les ruines de la bibliothèque d'Assurbanipal à Ninive. Cette bibliothèque contient une vaste collection de textes cunéiformes, dont l'épopée de Gilgamesh.
+L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues,
+originaire de la Mésopotamie ancienne, une région correspondant principalement à
+l'Irak moderne.
 
-Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIXème siècle en les comparant à d'autres langues anciennes.
+Cette épopée sumérienne est écrite en sumérien et en akkadien sur des tablettes d'argile,
+un matériau abondant et durable. Les Mésopotamiens utilisent des roseaux pour écrire en
+cunéiforme sur les tablettes d'argile humide, qui sont ensuite séchées ou cuites pour
+durcir. Ces tablettes, lorsqu'elles sont enfouies, peuvent survivre des millénaires. Les
+différentes versions et fragments trouvés sur des tablettes montrent que l'histoire est
+enrichie et modifiée au fil du temps.
 
-L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur et à la complexité de l'histoire.
+Dans la tradition mésopotamienne, les rois sont souvent vus comme des représentants des
+dieux sur terre. Gilgamesh, qui est à la fois un personnage historique et mythologique,
+est considéré comme deux tiers divin et un tiers humain, selon l'épopée.
 
-Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.
+Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIXème siècle en
+les comparant à d'autres langues anciennes.
+
+L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs
+ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur
+et à la complexité de l'histoire.
+
+Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun
+relatant différentes aventures du roi Gilgamesh.
 
 # -2000 ans
 
+Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
+
+### Mésopotamie
+
 Le sumérien cesse d'être une langue parlée courante, mais il continue à être utilisé comme langue liturgique, littéraire et administrative jusqu'au début de notre ère.
 
-De grandes civilisations apparaissent le long de fleuves en Egypte en Mésopotamie ou dans la vallée de l'Indus. Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.
+### Egypte
+
+Le Moyen Empire en Égypte ancienne débute avec la XIᵉ dynastie, plus précisément sous le règne de Mentouhotep II, qui parvient à réunifier l'Égypte après une période de troubles connue sous le nom de Première Période intermédiaire. Le Moyen Empire est souvent considéré comme une période de renaissance culturelle et politique avant une nouvelle période d’instabilité qui mènera à la Deuxième Période intermédiaire et à l’arrivée des Hyksôs.
+
+Invention des houes en bronze. Le bronze remplace progressivement le cuivre, rendant l’outil plus solide et efficace.
+
+### Inde
+
+Les Aryens commencent à migrer vers le sous-continent indien, s'installant principalement dans la vallée de l'Indus et la plaine du Gange. Les Aryens sont des éleveurs de bétail, vivant de manière semi-nomade. Ils parlaient le sanskrit védique et composent les Védas, des textes sacrés formant la base de l'hindouisme. Ils introduisent un système de classes sociales, précurseur du système de castes en Inde. Les migrations aryennes coïncident avec le déclin de la civilisation de la vallée de l'Indus. Leur interaction avec les populations locales conduisent à une fusion culturelle, posant les bases de la civilisation védique.
+
+Il est important de noter que le terme "aryen" a été détourné au XIXᵉ siècle pour promouvoir des idéologies raciales erronées, sans lien avec les réalités historiques des peuples indo-européens.
+
+# -1900 ans
+
+Ecriture du Conte de Sinouhé, une des œuvres littéraires les plus célèbres de l'Égypte antique. Il s'agit d'un récit semi-autobiographique, rédigé sous forme de prose poétique. Il est écrit pendant la XIIᵉ dynastie, sous le règne du pharaon Sésostris Iᵉʳ (1919 - 1875 av. J.-C.).
+
+# -1890 ans
+
+### Mésopotamie
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rxG6jJrSFl0" frameborder="0" allowfullscreen></iframe></p>
+
+Babylone, située au centre de la Basse Mésopotamie, est initialement une cité mineure
+sous domination des Sumériens et des Akkadiens.
 
 # -1800 ans
 
-Avec le temps, les histoires de Gilgamesh ont été compilées et traduites en akkadien. La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente et structurée. Cette version introduit des thèmes plus profonds sur l'humanité, la mortalité, et la quête de l'immortalité. La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi, décrit en détail le processus de brassage de la bière.
+### Mésopotamie
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kfuY87Cfgyw" frameborder="0" allowfullscreen></iframe></p>
+Avec le temps, les histoires de Gilgamesh sont compilées et traduites en akkadien.
+La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente
+et structurée.
 
-Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens.
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ninkasi.jpg)</span>
 
-La maison en hiéroglyphe représente la lettre "B". L'eau en hiéroglyphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
+La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur
+de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi,
+décrit en détail le processus de brassage de la bière.
 
-A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī, le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.
+### Egypte
 
-La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens, on n'a pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une énorme invention.
+Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à
+cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système
+d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue.
+Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre
+le son entier d'une image mais le début du son d'une image. Par exemple, en voyant
+l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple
+migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf"
+ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier
+son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis
+avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire.
+"A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les
+lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens. La maison en hiéroglyphe
+représente la lettre "B". L'eau en hiéroglyphe est devenue "M". Le serpent est devenu "N"
+en latin. On comprend que l'alphabet oublie un peu les images pour principalement se
+concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant
+pour dire si une image peut être lisible comme un simple son ou comme une image. Certains
+peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens,
+d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours
+besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.
 
-Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
+A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il
+existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī,
+le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux
+mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.
 
-Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.
+La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre
+d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose
+à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens,
+on n'a pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire
+ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une
+énorme invention.
 
-Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
+Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre
+d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.
+
+Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens,
+peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer
+et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il
+fut adopté par les Grecs, puis les Romains.
+
+Ecriture du Conte du Naufragé. C'est l'histoire d'un marin qui échappe à un naufrage et découvre une île mystérieuse où un serpent géant lui raconte une histoire avant de le laisser rentrer en Égypte.
+
+Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états
+assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de
+la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.
+
+Apparition des premières tablettes de présages astrologiques, appelées Enuma Anu Enlil.
+Ce texte compile plus de 7 000 présages reliant les phénomènes célestes aux événements
+terrestres. L’astrologie est encore très liée à la divination et aux rois : elle sert
+principalement à prédire l’avenir des souverains et des États.
 
 # -1700 ans
 
@@ -1419,47 +1792,167 @@ Hammurabi, roi de Babylone de 1792 à 1750 av. J.-C., est célèbre pour son cod
 
 L'Empire hittite commence à émerger. Cette période marque le début de ce qu'on appelle l'ancien royaume hittite, qui est établi en Anatolie (l'actuelle Turquie).
 
+### Grèce
+
+Dans le sud de la Grèce (le Péloponnèse), des chefferies locales évoluent progressivement vers des structures plus hiérarchisées.
+
+# -1550 ans
+
+### Egypte
+
+Le Livre des Morts apparaît sous sa forme complète. C'est un recueil de formules magiques, de prières, et d’incantations destinées à aider le défunt à réussir son voyage dans l’au-delà et atteindre le Royaume d’Osiris. Le défunt peut se métamorphoser en différentes formes (hirondelle, lotus, serpent) pour voyager librement dans l’au-delà. Si le défunt réussit son voyage, il devient un esprit bienheureux et vit dans les champs d’Ialou, une version idéale de l’Égypte, où il peut cultiver sans peine et être en paix éternellement.
+
+Les chiens sont très courants dans les foyers aristocratiques et royaux. Les Égyptiens élèvent plusieurs types de chiens, souvent représentés dans l’art et parfois identifiés par leurs noms :
+
+1 Le Tesem (𓃙) → Un chien fin à longues pattes, ressemblant au lévrier (type Sloughi ou Saluki), utilisé pour la chasse. Ces chiens aident à capturer le gibier, notamment les gazelles et les oiseaux.
+
+2 Des chiens de garde → Plus trapus et musclés, proches des mastiffs ou des molosses. Ils gardent les maisons et les temples contre les voleurs.
+
+3 Des chiens de compagnie → Souvent représentés dans les tombes des nobles, parfois couchés aux pieds de leurs maîtres.
+
+Certains chiens sont associés aux dieux, notamment Anubis, dieu des morts, souvent représenté sous forme de chacal ou de chien noir.
+
+Et certains chiens sont momifiés et enterrés avec leurs maîtres ou dans des cimetières spécifiques, notamment à Saqqarah, où des milliers de momies de chiens sont retrouvées. Les chiens ont parfois des noms inscrits sur des stèles, comme "Brave", "Bon Gardien" ou "Fidèle".
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/lfgeXNzNDhs" frameborder="0" allowfullscreen></iframe></p>
+
+Les premiers grands prêtres d'Amon apparaissent, période durant laquelle le sacerdoce d'Amon gagne en influence grâce aux hommages rendus par des pharaons tels qu'Hatchepsout et Thoutmôsis III. La hiérarchie sacerdotale comprend également des prêtres de rang inférieur, tels que les prêtres lecteurs (hery-heb), chargés de réciter les textes sacrés et d'instruire les autres membres du clergé. Ces prêtres jouent un rôle essentiel dans les rituels quotidiens et les cérémonies religieuses, contribuant ainsi au maintien de l'ordre cosmique (Maât) cher aux Égyptiens.
+
 # -1500 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ossecaille.png)</span>
 
-On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues. L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture chinoise devient encore plus précise car elle utilise le déterminant pour dire si une image peut être lisible comme un simple son ou comme une image.
+On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues.
+L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture
+chinoise devient encore plus précise car elle utilise le déterminant pour dire si une
+image peut être lisible comme un simple son ou comme une image.
 
-Un déterminant est un nouveau symbole qui permet de classifier une image et de dire dans quelle catégorie elle doit se situer, et donne donc un indice sur la bonne façon de lire un caractère.
+Un déterminant est un nouveau symbole qui permet de classifier une image et de dire dans
+quelle catégorie elle doit se situer, et donne donc un indice sur la bonne façon de lire
+un caractère.
 
 Ces signes classificateurs sont très fréquents en chinois, d'où son importance.
 
-Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.
+### Egypte
+
+Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique
+Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants
+que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme
+le plus important sans pour autant nier les autres Dieux.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Uvr5U5Su9xU" frameborder="0" allowfullscreen></iframe></p>
+
+Hatchepsout est l'une des plus grandes figures de l'histoire de l'Égypte antique et l'une des rares femmes à avoir régné en tant que pharaon. Malgré cette tentative d'effacement, son règne est aujourd’hui reconnu comme une ère de prospérité et de paix, avec un immense impact sur l’architecture et le commerce égyptien.
+
+### Babylone
+
+Les astronomes babyloniens développent les premières tables d’éphémérides pour prédire
+les positions des planètes.
+
+## -1450 ans
+
+### Grèce
+
+Les Mycéniens s’imposent sur Cnossos (Crète) et prennent le contrôle des routes commerciales crétoises. Ils adoptent et transforment l’écriture minoenne linéaire A pour créer le linéaire B, une forme de grec ancien simplifié utilisé pour l’administration. C’est la plus ancienne trace écrite de la langue grecque. Les tablettes retrouvées parlent de troupeaux, offrandes aux dieux, inventaires, etc.
+
+# -1400 ans
+
+### Grèce
+
+À Mycènes, Pylos, Tirynthe, Thèbes, de vastes palais fortifiés sont construits. C’est une société très hiérarchisée et profondément militaire. L’idéologie du pouvoir passe par la guerre, la richesse, la religion.
+
+Mycènes domine largement d'autres villes grecques (comme Tirynthe, Pylos, Thèbes).
+
+## -1345 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Ps-EIy0jxGA" frameborder="0" allowfullscreen></iframe></p>
+
+Le pharaon Ounas (également orthographié Unas) est le dernier souverain de la Ve dynastie de l'Égypte antique.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/90xa34S_lOg" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance de Toutânkhamon. Toutânkhamon est l’un des pharaons les plus célèbres, mais son règne fut court et peu marquant. Il est surtout connu grâce à la découverte de sa tombe intacte en 1922 par Howard Carter. Sa tombe est l’une des seules découvertes intactes, contrairement aux autres pharaons dont les sépultures ont été pillées. Son masque funéraire en or est devenu l’icône de l’Égypte antique. Le mystère de sa mort intrigue encore les chercheurs aujourd’hui.
+
+## -1300 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xV1pM88GNk8" frameborder="0" allowfullscreen></iframe></p>
+
+Enuma Elish est écrit sous la dynastie kassite de Babylone. L’Enuma Elish est un mythe cosmogonique (récit de la création du monde) qui set notamment à exalter le rôle de la cité de Babylone et de son dieu tutélaire Marduk. Il est récité chaque année lors de la fête du Nouvel An babylonien (Akītu), au printemps, pour célébrer la victoire de Marduk sur le chaos. Il s'inscrit dans un contexte où les cités-États mésopotamiennes sont en compétition, et où Babylone cherche à asseoir sa suprématie en plaçant son dieu au centre du panthéon.
+
+### Egypte
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/3nnTE_xcBL4" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance de Néfertari pendant la XIXᵉ dynastie du Nouvel Empire. Néfertari est l'épouse principale de Ramsès II, l’un des plus grands pharaons d’Égypte. Son nom signifie "La plus belle, celle pour qui brille le soleil".
 
 ## -1258 ans
 
-Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.
+Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des
+marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens,
+la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.
 
 # -1207 ans
 
-Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".
+Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici
+c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".
 
-Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.
-
-# -1200 ans
-
-Fin de l'âge du bronze.
-
-## -1155 ans
-
-Les grands royaumes de l'âge du bronze s'effondrent. Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.
-
-Mort de Ramsès III.
+Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète
+du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui
+perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans
+l'histoire de l'humanité, qui place tous les compteurs à zéro.
 
 # -1200 ans
 
-Début de l'âge du fer. Le passage du bronze au fer est motivé par plusieurs facteurs, notamment la rareté de l'étain nécessaire à la fabrication du bronze, rendant le fer plus attractif en raison de sa disponibilité plus large. De plus, le fer, une fois correctement traité, offre une meilleure dureté et durabilité comparé au bronze, ce qui le rend plus efficace pour la fabrication d'outils, d'armes et d'autres objets.
+Fin de l'âge du bronze et début de l'âge du fer. Le passage du bronze au fer est motivé par plusieurs facteurs, notamment la rareté de l'étain nécessaire à la fabrication du bronze, rendant le fer plus attractif en raison de sa disponibilité plus large. De plus, le fer, une fois correctement traité, offre une meilleure dureté et durabilité comparé au bronze, ce qui le rend plus efficace pour la
+fabrication d'outils, d'armes et d'autres objets.
 
 L'adoption du fer à grande échelle est observée principalement chez les peuples de la Mer Égée, notamment les Mycéniens et d'autres peuples grecs, ainsi que chez les peuples de la Mer Baltique et de l'Europe centrale. Ils commencent à utiliser le fer pour fabriquer des armes, des outils agricoles et des objets domestiques.
 
+### Grèce
+
+En une ou deux générations, toute la structure centralisée mycénienne s’effondre. Les villes se vident, les scribes disparaissent, les élites aussi.
+
+## -1155 ans
+
+Les grands royaumes de l'âge du bronze s'effondrent.
+
+### Rome
+
+Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.
+
+### Egypte
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QxMoQeGEOf0" frameborder="0" allowfullscreen></iframe></p>
+
+Mort de Ramsès III.
+
+## -1100 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vC5Jij13tnk" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance des Araméens en tant que peuple. Ils apparaissent dans les sources
+assyriennes sous le nom d’« Araméens » (Aḫlamû-Aramâyû) et s’installent progressivement en Syrie et en Mésopotamie.
+
+### Grèce
+
+Les palais ne sont plus reconstruits. L’écriture linéaire B est définitivement oubliée. La Grèce entre dans une période appelée “les âges obscurs”, où l’on perd toute trace écrite pendant environ 300 ans. C’est dans cette obscurité que survivent oralement les grandes histoires des rois, des héros, des guerres et des dieux... qui seront ensuite transmises à Homère.
+
+### Afghanistan, Turkménistan, Iran (Perse)
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TSr_BcS8N3g" frameborder="0" allowfullscreen></iframe></p>
+
+Début du zoroastrisme, également appelé mazdéisme, qui est l'une des plus anciennes religions monothéistes connues, fondée par le prophète Zoroastre (ou Zarathoustra). Cette religion vénère le dieu Ahura Mazda et enseigne une dualité entre le bien et le mal. Les fidèles sont encouragés à suivre le chemin de la vérité et de la justice, résumé par la maxime : "Bonnes pensées, bonnes paroles, bonnes actions".
+
+Les enseignements de Zoroastre sont principalement contenus dans l'Avesta, le livre sacré du zoroastrisme. Parmi ses sections les plus anciennes et les plus sacrées figurent les Gathas, des hymnes poétiques attribués directement au prophète. Le zoroastrisme est la religion dominante de plusieurs empires perses, notamment sous les dynasties achéménide et sassanide. Son influence s'est étendue bien au-delà de la Perse, impactant des religions telles que le judaïsme et le christianisme.
+
 # -1000 ans
 
-Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.
+Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement:
+vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres
+protourbains (un peu plus petit qu'une ville) se forment.
+
+Les Babyloniens commencent à diviser le ciel en sections régulières correspondant aux
+signes zodiacaux.
 
 # -900 ans
 
@@ -1471,7 +1964,8 @@ Les Assyriens sont réputés pour leur brutalité envers les peuples conquis, ut
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cVsQB4wpRBc" frameborder="0" allowfullscreen></iframe></p>
 
-Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils ont développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet de commencer à enregistrer leur histoire et leur littérature.
+Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet
+de commencer à enregistrer leur histoire et leur littérature.
 
 L'Iliade et l'Odyssée, attribuées à Homère, sont parmi les œuvres fondatrices de la littérature occidentale. Elles racontent respectivement la guerre de Troie et les aventures d'Ulysse.
 
@@ -1489,6 +1983,23 @@ Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.
 
 Fin de l'Empire assyrien, en raison de révoltes internes, de problèmes économiques et de l'émergence de puissances rivales, notamment les Babyloniens et les Mèdes. L'empire prend fin avec la chute de sa capitale, Ninive.
 
+## -580 ans
+
+### Athènes
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2pf05bejNKs" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance de Pythagore. Il fonde une école dans le sud de l'Italie qui est à la
+fois une communauté philosophique, scientifique et religieuse. Elle combine mathématiques,
+musique, astronomie et spiritualité, et ses membres suivent des règles de vie strictes,
+incluant le végétarisme, l’interdiction de manger des fèves, et des règles de silence et
+de méditation.
+
+Les pythagoriciens croient que tout dans l’univers peut être expliqué par les nombres et
+leurs rapports et que l’âme est immortelle et subit des réincarnations successives
+(métensomatose). Une vie pure et harmonieuse permet de se rapprocher du divin. Et
+une grande importance est donnée à l’harmonie dans la nature et dans la société.
+
 ## -563 ans
 
 Siddhartha Gautama né dans une famille royale dans la région de Lumbini, qui se trouve aujourd'hui au Népal. Il quitte son palais pour devenir un ascète et cherche la vérité sur la souffrance humaine.
@@ -1503,7 +2014,9 @@ La chute de la monarchie romaine et l'établissement de la République marquent 
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/AzcZiQswnVI" frameborder="0" allowfullscreen></iframe></p>
 
-Naissance de Socrate. Il est l'une des figures fondatrices de la pensée occidentale. Socrate n'a jamais écrit ses idées ; ainsi, notre connaissance de ses enseignements provient principalement de ses disciples, notamment Platon et Xénophon.
+Naissance de Socrate. Il est l'une des figures fondatrices de la pensée occidentale.
+Socrate n'a jamais écrit ses idées ; ainsi, notre connaissance de ses enseignements
+provient principalement de ses disciples, notamment Platon et Xénophon.
 
 ## -460 ans
 
@@ -1513,13 +2026,36 @@ Existence d'Hippocrate, souvent considéré comme le "père de la médecine". Hi
 
 Hippocrate croit fortement en l'utilisation de tous les sens pour le diagnostic médical, y compris l'odorat. Pour lui, chaque sens peut fournir des indices essentiels sur l'état de santé d'un patient.
 
+## -428 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/RvbRSdjf9t4" frameborder="0" allowfullscreen></iframe></p>
+
+Naissance de Platon. Il est marqué par la guerre du Péloponnèse (431-404 av. J.-C.), qui
+oppose Athènes à Sparte, et par l’exécution de Socrate en -399, événement qui bouleverse
+sa vision du monde et l’incite à se consacrer à la philosophie. Après la mort de Socrate,
+il voyage en Égypte, en Italie et en Sicile, où il tente de mettre en place une cité
+philosophique inspirée de ses idéaux politiques. À son retour à Athènes, il fonde
+l’Académie, un lieu dédié à la recherche philosophique et scientifique.
+
+L’Académie continue à exister après la mort de Platon en -348 av. J.-C., mais elle évolue
+au fil des siècles. Elle reste une référence intellectuelle majeure jusqu'à sa fermeture
+en 529 apr. J.-C., lorsque l'empereur byzantin Justinien Ier supprime les écoles
+philosophiques païennes.
+
 ## -399 ans
 
 En Grèce, des citoyens mettent en accusation Socrate. On l'accuse d'introduire des divinités nouvelles et de corrompre la jeunesse. On le juge et on le condamne à mort.
 
-## -300 ans
+## -332 ans
 
-Alexandre le Grand devient roi de Macédoine et commence sa conquête de l'Empire perse, marquant le début de l'ère hellénistique.
+Alexandre le Grand conquiert l'Égypte. Début de la domination grecque (dynastie des Ptolémées).
+
+## -250 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/wZ23CpSjDkI" frameborder="0" allowfullscreen></iframe></p>
+
+Pendant le règne du roi Hiéron II de Syracuse, Archimède, mathématicien et ingénieur grec,
+conçoit un appareil pour pomper l’eau hors des cales de navires.
 
 ## -230 ans
 
@@ -1527,21 +2063,80 @@ Pour un citoyen romain, le chou est très apprécié aussi bien cru que cuit. Il
 
 ## -218 ans
 
-Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée, y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes, un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes. Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté. Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles, remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes, où il inflige à Rome une de ses plus grandes défaites.
+Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne
+militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée,
+y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes,
+un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes.
+Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté.
+Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles,
+remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes,
+où il inflige à Rome une de ses plus grandes défaites.
 
 ## -200 ans
 
-La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois. Le thé est utilisé pour la première fois comme plante médicinale.
+La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour
+l'empire chinois. Le thé est utilisé pour la première fois comme plante médicinale.
+
+## -196 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/otxP2DzHbbM" frameborder="0" allowfullscreen></iframe></p>
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/18eY-P2rCUE" frameborder="0" allowfullscreen></iframe></p>
+
+La Pierre de Rosette est rédigée sous le règne du pharaon Ptolémée V (de la dynastie lagide). Ce texte est un décret royal, inscrit sur la pierre pour commémorer le couronnement de Ptolémée V et renforcer son autorité sur l'Égypte. Le décret exprime la loyauté des prêtres envers le pharaon en échange de privilèges. Le texte annonce des exemptions fiscales et des dons aux prêtres. En échange, les prêtres doivent organiser des célébrations en l'honneur du roi. Le texte est gravé en trois écritures :
+
+1 Hiéroglyphes (langue sacrée des prêtres)
+
+2 Démotique (écriture courante des Égyptiens)
+
+3 Grec ancien (langue administrative des Ptolémées)
+
+Cela permettait à toutes les classes sociales de comprendre le décret. C'est devenu
+la clé du déchiffrement des hiéroglyphes par Jean-François Champollion en 1822, grâce à la comparaison avec le grec.
+
+## -100 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/GFln1pn9Mhg" frameborder="0" allowfullscreen></iframe></p>
+
+Création de la machine d’Anticythère, un mécanisme antique incroyablement sophistiqué,
+souvent considéré comme le premier ordinateur analogique connu. Il sert à calculer
+et prévoir des événements astronomiques et calendaires. La machine d’Anticythère
+est une révolution technologique antique, prouvant que les Grecs ont une
+compréhension avancée de la mécanique et de l’astronomie.
+
+## -69 ans
+
+### Egypte
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/O_YGEILkdfI" frameborder="0" allowfullscreen></iframe></p>
+
+Cléopâtre VII Théa Philopator, plus connue sous le nom de Cléopâtre, est née. à Alexandrie. Elle est la dernière reine de la dynastie ptolémaïque, d'origine macédonienne, qui règne sur l'Égypte depuis la mort d'Alexandre le Grand. Cléopâtre est souvent dépeinte comme une figure emblématique de la séduction et de la politique, ayant joué un rôle crucial dans les affaires romaines de son époque. Son intelligence, son charisme et ses alliances avec des figures majeures de Rome laissent une empreinte durable dans l'histoire.
 
 ## -58 ans
 
-La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette série de campagnes militaires est conduite par les armées romaines contre plusieurs tribus gauloises. César, alors proconsul de la Gaule Transalpine et de l'Illyrie, étend son commandement à la Gaule Cisalpine et entreprend la conquête de la Gaule, qui couvre ce qui est aujourd'hui la France, la Belgique, la Suisse et des parties de l'Italie du Nord, des Pays-Bas, et de l'Allemagne à l'ouest du Rhin. La guerre se poursuit jusqu'en 50 av. J.-C., se terminant avec la victoire romaine et l'annexion complète de la région à la République romaine.
+La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette série de
+campagnes militaires est conduite par les armées romaines contre plusieurs tribus
+gauloises. César, alors proconsul de la Gaule Transalpine et de l'Illyrie, étend son
+commandement à la Gaule Cisalpine et entreprend la conquête de la Gaule, qui couvre
+ce qui est aujourd'hui la France, la Belgique, la Suisse et des parties de l'Italie du
+Nord, des Pays-Bas, et de l'Allemagne à l'ouest du Rhin. La guerre se poursuit
+jusqu'en 50 av. J.-C., se terminant avec la victoire romaine et l'annexion complète
+de la région à la République romaine.
 
-## -40
+## -40 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dzarpnLffHY" frameborder="0" allowfullscreen></iframe></p>
 
-Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques (pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau, permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité remarquable. Cette invention révolutionne l'architecture et le génie civil romains, permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.
+Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant
+souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques
+(pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau,
+permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité
+remarquable. Cette invention révolutionne l'architecture et le génie civil romains,
+permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.
+
+## -30 ans
+
+Mort de Cléopâtre VII – fin de l'Égypte indépendante. L'Égypte devient une province romaine.
 
 ## 9 ans
 
@@ -1560,6 +2155,12 @@ Malgré ce succès, les Romains ne réussissent pas à soumettre complètement l
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dZwBb0tVktA" frameborder="0" allowfullscreen></iframe></p>
 
 Les Romains commencent leur conquête de la Grande-Bretagne, sous l'empereur Claude. Ils établissent leur contrôle sur la majeure partie de l'île, mais ils n'ont jamais conquis entièrement les régions les plus septentrionales, notamment l'actuelle Écosse.
+
+## 79 ans
+
+Pompéi est détruite par une éruption volcanique catastrophique. Le Vésuve, un volcan situé
+près de la baie de Naples en Italie, entre en éruption de manière soudaine et extrêmement
+violente.
 
 ## 100 ans
 
@@ -1585,6 +2186,14 @@ Règne de l'Empereur romain Constantin. C'est le premier empereur romain
 ## 330 ans
 
 Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de déplacer la capitale de l'Empire romain de Rome à Byzance, une ville déjà existante située à l'intersection de l'Europe et de l'Asie. Constantin Ier renomme la ville en son honneur et la transforme en une nouvelle capitale grandiose, qui devient rapidement le centre politique, économique et culturel de l'Empire romain d'Orient, également connu sous le nom d'Empire byzantin.
+
+## 391 ans
+
+L’empereur Théodose Ier interdit les cultes païens. Fermeture officielle des temples égyptiens.
+
+## 394 ans
+
+Dernière inscription hiéroglyphique connue, sur la porte de l’empereur Hadrien au temple de Philae (sud de l’Égypte). C’est la date symbolique de la "mort" des hiéroglyphes.
 
 ## 542 ans
 
@@ -1622,6 +2231,12 @@ encourage également la rédaction de la Chronique anglo-saxonne, une histoire d
 en vieil anglais, et standardise le dialecte du Wessex comme langue écrite prestigieuse.
 Ces efforts renforcent l'identité culturelle anglo-saxonne et rend le savoir plus accessible.
 
+## 939 ans
+
+Au Japon, Taira no Masakado, un puissant chef de clan dans la région du Kantō, entre en rébellion contre le gouvernement impérial de Kyoto. C’est l’un des premiers exemples d’une révolte armée menée par un samouraï provincial contre le pouvoir central.
+
+À cette époque, le Japon est en pleine période Heian (794–1185), une ère marquée par l’influence culturelle de la cour impériale à Kyoto, mais aussi par l’essor du pouvoir des clans provinciaux, notamment les Taira et les Minamoto, ancêtres des futurs samouraïs.
+
 ## 941 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VvGlw2HCxbU" frameborder="0" allowfullscreen></iframe></p>
@@ -1632,13 +2247,20 @@ Constantinople, la capitale de l'Empire byzantin, est attaquée par les Rus' de 
 
 Invention des premiers moulins à vent en Perse (Iran). Ces premiers moulins à vent sont des structures simples dotées de voiles ou de toiles légères, utilisées pour pomper l'eau ou moudre des céréales. Ils sont principalement utilisés pour faciliter les tâches agricoles, notamment l'irrigation des terres et le broyage du grain. L'invention du moulin à vent est motivée par la nécessité de trouver des moyens plus efficaces et économes en énergie pour accomplir ces tâches essentielles à l'agriculture et à la vie quotidienne.
 
+## 987 ans
+
+Les forgerons japonais commencent à produire des sabres courbés avec une lame unique, conçue pour être portée tranchant vers le haut et dégainée rapidement pour couper d’un seul geste. Ces sabres sont les ancêtres directs du katana.
+
+A cette époque, les combats se font de plus en plus à cheval, et les armes droites comme les chokutō (sabre droit d’influence chinoise) deviennent moins pratiques.
+
 ## 988 ans
 
 Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher le royaume russe à la grandeur de Constantinople.
 
 ## 1040 ans
 
-Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité. Ce sont des caractères en argile et en bois qui sont utilisés.
+Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité.
+Ce sont des caractères en argile et en bois qui sont utilisés.
 
 ## 1044 ans
 
@@ -1661,6 +2283,10 @@ Une foule en colère attaque le palais royal, tuant Joseph ibn Naghrela et cruci
 Après la mort mystérieuse d'un garçon chrétien nommé William, un moine local nommé Thomas de Monmouth écrit un récit détaillé accusant la communauté juive de Norwich d'avoir rituellement assassiné l'enfant. Bien qu'il n'y ait aucune preuve crédible pour étayer ces allégations, l'histoire de Thomas conduit à la propagation de l'accusation de meurtre rituel à travers l'Europe.
 
 Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans diverses parties de l'Europe, menant souvent à des persécutions et des violences contre les communautés juives. Ces accusations sont entièrement infondées et reflètent les préjugés et la méfiance profonds envers les Juifs qui prévalent dans la société médiévale chrétienne.
+
+## 1180 ans
+
+Au Japoon, à la fin de la période Heian, le pouvoir impérial est affaibli. Le clan Taira, mené par Taira no Kiyomori, domine la cour impériale. Il installe même son petit-fils, l’empereur Antoku, sur le trône, ce qui suscite un fort mécontentement chez les autres nobles et clans guerriers, notamment les Minamoto. Le prince Mochihito, soutenu par Minamoto no Yorimasa, lance un appel à la révolte contre les Taira, marquant le début du conflit. La guerre de Genpei aboutit à la chute du clan Taira et à la montée en puissance des Minamoto, menant à la création du premier shogunat en 1192. Cela marque le début du règne militaire des samouraïs et la fin du pouvoir central de la cour impériale.
 
 ## 1202 ans
 
@@ -1762,6 +2388,10 @@ Cette bulle papale est utilisée par les Portugais pour justifier leur expansion
 
 Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de Valachie (actuelle Roumanie).
 
+## 1467 ans
+
+Guerre civile entre familles de samouraïs à Kyoto.
+
 ## 1475 ans
 
 Ouverture de la première maison de café (appelée qahveh khaneh) à Constantinople
@@ -1843,6 +2473,10 @@ La Hollande, la France, l'Angleterre et l'Espagne s'implantent en Amérique. La 
 ## 1602 ans
 
 La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la compagnie néerlandaise des indes occidentales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Elle emploie plus de 1 000 000 de travailleurs partout en Europe ainsi que 4785 navires qui font le commerce de marchandises. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bâteaux. Lorsque les bâteaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.
+
+## 1603 ans
+
+Au Japon, la période Edo, aussi appelée période Tokugawa, commence. C’est cette année-là que Tokugawa Ieyasu est nommé shogun par l'empereur, marquant officiellement le début de son gouvernement militaire, ou bakufu, basé à Edo (l’actuelle Tokyo).
 
 ## 1607 ans
 
@@ -2224,6 +2858,8 @@ Construction d'un chemin de fer aux Etats-Unis transcontinentales.
 # 1868 ans
 
 Ouverture du Japon à l'Occident, entraînant la dissolution progressive de la classe des samouraïs. Les réformes de l'ère Meiji abolissent les privilèges féodaux et conduisent à la modernisation de l'armée japonaise, rendant le rôle traditionnel des samouraïs obsolète.
+
+C’est la fin de la période Edo et le début de la période Meiji.
 
 # 1880 ans
 
