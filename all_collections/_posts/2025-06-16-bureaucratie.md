@@ -5,8 +5,6 @@ date: 2025-06-16 10:18:00
 tags: philosophy
 ---
 
-- [Bureaucratie](https://www.amazon.com/Bureaucratie/dp/2330076142)
-
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bureaucratie.jpg)</span>
 
 «Le ministère de la Santé, la Direction générale de la santé, Santé publique France, la Haute Autorité de santé, les agences régionales de santé, l’Agence épidémiologie France,
