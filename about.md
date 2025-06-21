@@ -8,8 +8,6 @@ short_bio: Hi this is Felix, a web, software, and mobile developer.
 
 English [CV](https://github.com/felix-lambert/felix-lambert.github.io/blob/master/download/CV.pdf).
 
-| Email                         |
-| :---------------------------- |
 | [lambertfelixpro@gmail.com]() |
 
 [My Github](http://github.com/felix-lambert)
