@@ -1172,6 +1172,22 @@ Après le détachement d'une lame, le noyau est souvent retaillé ou préparé �
 
 Dans une grotte située à Bornéo, en Indonésie, une communauté humaine pratique une opération chirurgicale avancée: l'amputation de la jambe gauche d'un jeune individu. Cette intervention est réalisée avec une grande précision, et l'individu survit à l'opération.
 
+Début de la civilisation gravettienne. Elle tire son nom du site de La Gravette, en Dordogne (France). Le Gravettien est une phase particulièrement riche du Paléolithique supérieur, témoignant d’une complexité sociale croissante, d’un symbolisme plus développé et d’adaptations écologiques fines, en particulier dans des environnements froids et périglaciaires.
+
+La civilisation gravettienne s’est développée à l’échelle de l’Europe entière, surtout dans les zones tempérées et steppiques pendant le Paléolithique supérieur. Elle ne forme pas un « empire » ou un État, mais plutôt une culture matérielle et symbolique partagée par différents groupes humains.
+
+À l’époque de la civilisation gravettienne, le climat en Europe était froid, sec et instable, marqué par l’un des épisodes les plus rigoureux de la dernière période glaciaire : la glaciation de Würm.
+
+Les Gravettiens étaient des chasseurs-cueilleurs dont le mode de vie reposait sur une mobilité importante, dictée à la fois par les nécessités de survie et par des choix culturels. Dans un environnement marqué par le froid intense du Paléolithique supérieur, leur subsistance dépendait essentiellement de la chasse de grands mammifères comme le renne ou le mammouth laineux. Ces animaux migraient selon des routes saisonnières, si bien que les groupes humains devaient les suivre pour assurer un approvisionnement constant en viande, en os, en peaux et en graisse.
+
+Le climat rigoureux de cette époque — froid, sec et instable — imposait une adaptation constante. Les ressources naturelles n’étaient pas également réparties dans l’espace ni disponibles toute l’année. Certaines zones devenaient temporairement inhabitables à cause du vent, du gel ou de la raréfaction du gibier. Dans ces conditions, les Gravettiens devaient sans cesse se déplacer à la recherche de milieux plus favorables, où l’eau était plus accessible, où la chasse était possible, ou simplement où l’abri contre les éléments était meilleur.
+
+Ces déplacements n’étaient pas nécessairement désorganisés. De nombreux indices suggèrent une occupation saisonnière de certains sites, auxquels les groupes revenaient régulièrement au fil des années. Ils mettaient ainsi en place un réseau de campements, parfois distants de plusieurs centaines de kilomètres les uns des autres, suivant les rythmes de la nature et de la faune.
+
+Cette mobilité ne servait pas uniquement à la survie. Elle jouait aussi un rôle dans la diffusion culturelle. On retrouve, d’un bout à l’autre de l’Europe, des objets très similaires : outils en silex, parures en ivoire, et surtout les célèbres statuettes féminines, appelées « Vénus gravettiennes ». Ces ressemblances laissent penser que des contacts existaient entre groupes très éloignés, que ce soit par des déplacements directs ou via des réseaux d’échange. Des objets comme des coquillages marins retrouvés loin des côtes, ou des blocs de silex provenant de régions éloignées, prouvent l’existence de circulations sur des distances pouvant dépasser les 800 kilomètres.
+
+Enfin, bien que les Gravettiens soient globalement nomades, certains sites archéologiques témoignent d’une forme de sédentarité relative. À Dolní Věstonice (Moravie) ou Kostenki (Russie), on a mis au jour des habitats élaborés, avec des foyers, des outils, des statuettes et des restes de structures parfois semi-enterrées. Ces lieux semblent avoir été occupés pendant plusieurs mois d'affilée, voire chaque année à la même période, suggérant un semi-nomadisme organisé et adapté aux conditions du monde glaciaire.
+
 ## -26 000 ans
 
 Homo Sapiens domestique le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire
@@ -1447,6 +1463,12 @@ Les Sumériens établissent l'une des premières civilisations de l'histoire dan
 Les villes de la Mésopotamie ancienne sont organisées en cités-États, chacune gouvernée par un roi ou un dirigeant puissant. Ces dirigeants sont souvent considérés comme des intermédiaires entre les dieux et les peuples. Le système politique inclue également des prêtres qui jouent un rôle crucial dans la gestion des temples et des affaires religieuses, influençant fortement la vie sociale et économique. La société est stratifiée, avec des marchands, des artisans, et des agriculteurs jouant des rôles importants dans l'économie urbaine, tandis que les esclaves effectuent les travaux les plus durs.
 
 L'exploitation et l'esclavage sont courants en Mésopotamie. Les esclaves peuvent être des prisonniers de guerre, des personnes endettées, ou des individus vendus par leur famille. Ils sont utilisés dans l'agriculture, la construction, et les services domestiques. Les textes et les lois de l'époque, comme le Code de Hammurabi, fournissent des détails sur leur statut et leurs droits, qui sont limités comparés à ceux des personnes libres.
+
+Sur les steppes pontiques et caspiennes, les Aryens ne sont pas encore installés en Inde ou en Iran. Ils vivent sur les steppes pontiques et caspiennes, au nord de la mer Noire et de la mer Caspienne, qui correspondent aujourd’hui au sud de la Russie européenne, à l’Ukraine orientale et à l’ouest du Kazakhstan là où les grandes plaines herbeuses favorisaient l’élevage. Leur vie est surtout tournée vers le pastoralisme : ils élèvent des moutons, des bovins et commencent à utiliser le cheval, ce qui leur donne une mobilité nouvelle par rapport aux autres peuples de leur temps.
+
+Socialement, ils n’avaient pas encore de royaumes ni d’États, mais plutôt des tribus organisées en clans, où l’autorité revenait aux chefs guerriers et aux anciens. Leur société était déjà hiérarchisée : on distinguait les guerriers, les religieux (chargés des rites et croyances), et la masse des éleveurs.
+
+Par rapport à d’autres groupes contemporains qui pratiquaient déjà une agriculture plus sédentaire (par exemple en Mésopotamie ou en Égypte), les Aryens étaient encore des nomades. Leur richesse n’était pas la terre mais le troupeau, et leur identité commune venait surtout de leur langue (le proto-indo-européen) et de leurs mythes transmis oralement.
 
 # -4300 ans
 
@@ -1947,6 +1969,14 @@ Les enseignements de Zoroastre sont principalement contenus dans l'Avesta, le li
 
 # -1000 ans
 
+### Chine
+
+La dynastie Zhou renverse les Shang vers 1045 av. J.-C., sous le roi Wu Wang, fondateur de la dynastie.
+
+Les inscriptions sur bronze révèlent l’existence de vrais "bureaux" (gong 宮), avec des fonctions clairement spécialisées : trois grandes divisions sont repérées — maison royale, administration civile, militaire.
+
+### Rome
+
 Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement:
 vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres
 protourbains (un peu plus petit qu'une ville) se forment.
@@ -2004,6 +2034,16 @@ une grande importance est donnée à l’harmonie dans la nature et dans la soci
 
 Siddhartha Gautama né dans une famille royale dans la région de Lumbini, qui se trouve aujourd'hui au Népal. Il quitte son palais pour devenir un ascète et cherche la vérité sur la souffrance humaine.
 
+## -560 ans
+
+### Turquie
+
+Le roi Crésus introduit la monnaie métallique standardisée en or et argent, ce qui en a fait un jalon majeur dans l’histoire économique.
+
+## -515 ans
+
+L’Empire perse achéménide adopte officiellement la monnaie sous le règne de Darius Ier. Darius Ier va centraliser et standardiser la monnaie pour faciliter l’administration et le commerce dans un empire immense allant de l’Indus à la Méditerranée.
+
 ## -509 ans
 
 Chute du régime monarchique de Rome. Il y a un désir croissant parmi l'élite et le peuple romain pour un système de gouvernance qui limite le pouvoir d'un seul individu et offre une forme de contrôle démocratique ou oligarchique. La République est fondée sur le principe de séparation des pouvoirs, avec deux consuls élus annuellement pour gouverner conjointement, le Sénat comme organe de conseil, et les assemblées populaires pour les décisions importantes.
@@ -2041,6 +2081,24 @@ L’Académie continue à exister après la mort de Platon en -348 av. J.-C., ma
 au fil des siècles. Elle reste une référence intellectuelle majeure jusqu'à sa fermeture
 en 529 apr. J.-C., lorsque l'empereur byzantin Justinien Ier supprime les écoles
 philosophiques païennes.
+
+## -400 ans
+
+### Chine
+
+On commence à faire fermenter du poisson avec du riz cuit salé. Le riz n’est pas mangé : il sert uniquement à déclencher et contrôler la fermentation. Le sel, combiné à l’humidité du riz cuit, crée un environnement où certaines bactéries lactiques peuvent se développer, permettant de préserver le poisson pendant plusieurs mois.
+
+Étapes typiques de conservation :
+
+- Poisson vidé et salé abondamment.
+
+- Intercalé dans du riz cuit.
+
+- Pressé avec des poids.
+
+- Laisser fermenter pendant plusieurs semaines à mois
+
+Cette pratique évolue pour donner naissance au sushi moderne, où le riz vinaigré remplace la fermentation lente (au XVIe siècle, notamment à Osaka et Edo/Tokyo).
 
 ## -399 ans
 
@@ -2247,6 +2305,10 @@ Constantinople, la capitale de l'Empire byzantin, est attaquée par les Rus' de 
 
 Invention des premiers moulins à vent en Perse (Iran). Ces premiers moulins à vent sont des structures simples dotées de voiles ou de toiles légères, utilisées pour pomper l'eau ou moudre des céréales. Ils sont principalement utilisés pour faciliter les tâches agricoles, notamment l'irrigation des terres et le broyage du grain. L'invention du moulin à vent est motivée par la nécessité de trouver des moyens plus efficaces et économes en énergie pour accomplir ces tâches essentielles à l'agriculture et à la vie quotidienne.
 
+## 960 ans
+
+Début de la dynastie Song en Chine.
+
 ## 987 ans
 
 Les forgerons japonais commencent à produire des sabres courbés avec une lame unique, conçue pour être portée tranchant vers le haut et dégainée rapidement pour couper d’un seul geste. Ces sabres sont les ancêtres directs du katana.
@@ -2256,6 +2318,14 @@ A cette époque, les combats se font de plus en plus à cheval, et les armes dro
 ## 988 ans
 
 Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher le royaume russe à la grandeur de Constantinople.
+
+## 1024 ans
+
+Sous la dynastie Song, l’économie connait une forte croissance, avec un commerce très dynamique et des taxes complexes. Le cuivre, utilisé pour fabriquer les pièces, commence à manquer et transporter de grandes quantités de métal devient lourd et risqué.
+
+Pour résoudre ce problème, les marchands de la région du Sichuan ont déjà commencé à utiliser des reçus en papier appelés "jiaozi" (交子), qui servent à certifier des dépôts de pièces métalliques auprès d’un commerçant ou d’une maison de change.
+
+L’État Song institutionnalise ce système : c’est la première émission officielle de billets de banque par un gouvernement. Ces billets sont émis par des bureaux contrôlés par l’État, imprimés avec des sceaux et des marques de sécurité pour éviter la contrefaçon.
 
 ## 1040 ans
 
@@ -2286,7 +2356,9 @@ Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans d
 
 ## 1180 ans
 
-Au Japoon, à la fin de la période Heian, le pouvoir impérial est affaibli. Le clan Taira, mené par Taira no Kiyomori, domine la cour impériale. Il installe même son petit-fils, l’empereur Antoku, sur le trône, ce qui suscite un fort mécontentement chez les autres nobles et clans guerriers, notamment les Minamoto. Le prince Mochihito, soutenu par Minamoto no Yorimasa, lance un appel à la révolte contre les Taira, marquant le début du conflit. La guerre de Genpei aboutit à la chute du clan Taira et à la montée en puissance des Minamoto, menant à la création du premier shogunat en 1192. Cela marque le début du règne militaire des samouraïs et la fin du pouvoir central de la cour impériale.
+Au Japon, à la fin de la période Heian, le pouvoir impérial est affaibli. Le clan Taira, mené par Taira no Kiyomori, domine la cour impériale. Il installe même son petit-fils, l’empereur Antoku, sur le trône, ce qui suscite un fort mécontentement chez les autres nobles et clans guerriers, notamment les Minamoto. Le prince Mochihito, soutenu par Minamoto no Yorimasa, lance un appel à la révolte contre les Taira, marquant le début du conflit. La guerre de Genpei aboutit à la chute du clan Taira et à la montée en puissance des Minamoto, menant à la création du premier shogunat en 1192. Cela marque le début du règne militaire des samouraïs et la fin du pouvoir central de la cour impériale.
+
+Dans le sud de la Chine, Zhu Xi enseigne à ses disciples à pratiquer le quiet sitting (méditation) chaque jour, notamment avant l’étude des Classiques, pour calmer les émotions, se recentrer, et se rendre disponible à l’apprentissage moral.
 
 ## 1202 ans
 
@@ -3006,6 +3078,8 @@ Les responsables de la peste ne sont donc ni les étoiles, ni Dieu, ni les juifs
 
 30% des habitations sont reliés aux égouts.
 
+Paris inaugure un métro entièrement électrique, ce qui était une révolution technologique et urbaine pour l’époque.
+
 ## 1901 ans
 
 Marconi réussi à envoyer un signal radio transatlantique de l'Angleterre aux États-Unis. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.
@@ -3022,7 +3096,7 @@ Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 00
 
 La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.
 
-# 1905 ans
+## 1905 ans
 
 On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà
 connu pour ses propriétés désinfectantes, et les ingénieurs français développent
@@ -3032,7 +3106,7 @@ un procédé pour l’utiliser à grande échelle dans le traitement de l’eau 
 
 Einstein travaille sur sa théorie de la relativité restreinte, qui remet en question les notions classiques de l'espace et du temps. Cette théorie explique comment l'espace et le temps sont reliés et comment ils affectent la perception de la vitesse et de l'énergie. Il découvre aussi qu'une petite quantité de matière peut être convertie en une énorme quantité d'énergie.
 
-# 1909 ans
+## 1909 ans
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bleriotXI.jpg)</span>
 
