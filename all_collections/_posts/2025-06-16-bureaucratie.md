@@ -18,3 +18,5 @@ Comment agir pour se protéger contre l'invasion bureaucratique, que ce soit en 
 1 Nous devons d'abord changer notre façon de communiquer. Évitons l'obscurcissement délibéré du langage de la bureaucratie, ou de toute autre forme de fausse expertise. Cherchons à créer avec d'autres humains un langage non-bureaucratique, non-idéologique qui rentre en profondeur dans le registre de l'amicalité. Il s'agit ici de recréer de la communication sincère avec les autres, de la gentillesse et de l'amitié.
 
 2 Il est essentiel de ne pas idéaliser certaines règles et de toujours considérer le contexte. Des règles considérées comme bonnes peuvent s'avérer inadaptées si elles sont appliquées sans tenir compte du contexte spécifique dans lequel elles sont utilisées.
+
+3 Il nous faut aussi protéger notre intimité. Nous pouvons lui résister en cultivant une part de retrait. Cela signifie limiter ce que nous dévoilons et partager seulement ce qui est vraiment contraint.
