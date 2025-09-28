@@ -5,7 +5,7 @@ date: 2024-06-06 10:18:00
 tags: technology
 ---
 
-Une partie a été générée par ChatGPT (3 et 4)
+Une partie a été générée par ChatGPT (3, 4 et 5)
 
 # -14 000 000 000 d'années
 
@@ -29,72 +29,36 @@ Dans cet univers, il y a 4 forces fondamentales:
 
 #### 1. Forces électromagnétiques
 
-Peut influer des objets plus grands que des atomes. Cette force est à l'origine des
-phénomènes électriques et magnétiques que nous observons, tels que la lumière,
-le courant électrique et les aimants. C'est cette force qui maintient les électrons
-en orbite autour du noyau dans les atomes, et qui permet aux atomes de se lier
-ensemble pour former des molécules.
+C’est la force qui agit entre les charges électriques. Elle explique la lumière, le courant et les aimants. Elle maintient aussi les électrons autour du noyau et permet aux atomes de s’unir en molécules.
 
 #### 2. Forces gravitationnelles
 
-Peut influer des objets plus grands que des atomes. Plus les objets sont massifs
-et plus ils sont proches l'un de l'autre, plus la force gravitationnelle est forte.
-La force gravitationnelle est responsable de la plupart des phénomènes comme la
-chute des objets vers le sol.
+C’est la force d’attraction entre les objets. Plus ils sont lourds et proches, plus elle est forte. C’est elle qui fait tomber les objets au sol.
 
 #### 3. Forces nucléaires faibles
 
-N'influence que les objets plus petits qu'un atome. Permet à certaines particules de
-changer de type. Par exemple, un neutron (une des particules qui composent le noyau
-des atomes) peut se transformer en un proton, un électron et une particule appelée
-antineutrino, grâce à la force faible.
+Elle agit seulement à l’intérieur des particules de l’atome. Elle permet à une particule de se transformer en une autre, par exemple quand un neutron se change en proton, électron et antineutrino.
 
 #### 4. Forces nucléaires fortes
 
-S'exerce uniquement à l'intérieur des noyaux atomiques. Elle est responsable de la
-liaison des particules subatomiques appelées quarks pour former des protons et des
-neutrons, qui sont les composants du noyau des atomes. Elle est également responsable
-de la liaison des protons et des neutrons ensemble pour former le noyau des atomes.
-C'est une tâche difficile, car les protons ont tous une charge positive et se
-repoussent donc mutuellement à cause de la force électromagnétique. C'est là que
-la force forte entre en jeu : elle est suffisamment puissante pour surmonter
-la répulsion électromagnétique et maintenir le noyau ensemble.
+C’est une force qui agit seulement à l’intérieur du noyau des atomes. Elle colle les quarks entre eux pour former les protons et les neutrons, puis elle colle aussi les protons et neutrons ensemble pour maintenir le noyau. Sans elle, les protons, qui ont tous une charge positive, se repousseraient et le noyau éclaterait. La force forte est donc ce qui empêche le noyau de se désagréger.
 
-Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers,
-du mouvement des planètes à la radioactivité en passant par la chimie et la structure
-des atomes.
+Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.
 
 Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une
-phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours
-de laquelle l'espace fait passer l'univers de la taille d'un proton à
+phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à
 100000000000000000000000000000 (10^27) de fois plus grand.
 
 <span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/quark.jpg)</span>
 
 Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de
-particules élémentaires (on ne sait pas si elles sont constituées d'autres particules
-plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons,
-neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière.
-Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent
-complètement. C’est au cours de la première seconde de l’Univers que la matière dont
-nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la
-force électromagnétique et gravitationnelle agit très faiblement sur ces objets car
-ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui
-commencent à façonner notre univers.
+particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
 
-Avant 3 minutes, la chaleur empêche la force nucléaire forte d’associer protons et neutrons.
-Après 3 minutes, la température tombe très rapidement à un milliard de degrés. La force
-nucléaire forte peut désormais rassembler les quarks par trois pour former, selon les
-combinaisons, des protons ou des neutrons (qui, comme leur nom l’indique, sont
-électriquement neutres), et donc les premiers éléments chimiques apparaissent. Cette
-force agit entre les quarks de manière à les maintenir ensemble dans les noyaux atomiques,
-malgré la tendance des quarks à se disperser en raison de leur charge électrique.
-Avec le neutron, le proton fait partie des particules qui constituent le noyau atomique.
+Pendant les 3 premières minutes, la chaleur est trop forte pour que protons et neutrons se forment.
+Après 3 minutes, la température descend à environ un milliard de degrés : la force nucléaire forte peut alors unir les quarks en protons et neutrons. Ces particules s’assemblent ensuite pour donner les premiers noyaux atomiques, donc les premiers éléments chimiques.
 
-Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est
-constitué d’un proton) et d'hélium se forment dans les trois premières minutes
-(il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron
-qui gravite autour).
+Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes
+(il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).
 
 À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.
 
@@ -104,7 +68,10 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 ## -13 699 620 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/e9GuJUaX0UM" frameborder="0" allowfullscreen></iframe></p>
+<video controls preload="metadata" width="640" height="360" poster="thumb.jpg">
+  <source src={{site.baseurl}}/assets/atom.mp4 type="video/mp4" />
+  Votre navigateur ne supporte pas la balise <video>.
+</video>
 
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 oxygène, azote… par exemple)).
@@ -2279,6 +2246,10 @@ Le célèbre ouvrage "Le Classique du Thé" (Cha Jing), écrit par le moine chin
 
 Invention de la poudre à canon en Chine. Les Chinois inventent la poudre à canon pour diverses utilisations, notamment pour des feux d'artifice, des célébrations festives, et des pratiques alchimiques. La poudre à canon est un élément clé dans l'histoire de l'armement, marquant le début de l'ère des armes à feu.
 
+## 877
+
+Capitulaire de Quierzy (promulgué par Charles le Chauve, roi de Francie occidentale). Les comtes, marquis, ducs cessent d’être de simples fonctionnaires royaux amovibles et deviennent une noblesse féodale héréditaire. À partir de là, les liens de vassalité, la possession de fiefs et la transmission héréditaire structurent la société médiévale.
+
 ## 890
 
 Réforme d'Alfred le Grand qui vise à revitaliser l'éducation et la culture en Angleterre
@@ -2318,6 +2289,12 @@ A cette époque, les combats se font de plus en plus à cheval, et les armes dro
 ## 988 ans
 
 Vladimir le Grand se convertit au christianisme orthodoxe. Il souhaite rattacher le royaume russe à la grandeur de Constantinople.
+
+## 998 ans
+
+### France
+
+A l’abbaye de Cluny en France, l’abbé Odilon instaure une journée spéciale, pour prier pour tous les morts. Ce jour-là, les moines chantent une Missa pro Defunctis (messe des défunts), qu’on appelle aussi Requiem à cause de son premier chant, Requiem aeternam. Le chant grégorien y a pris une fonction particulière : avec ses mélodies graves et simples, il sert à accompagner la prière pour le repos des âmes, et non plus seulement à célébrer une fête ou une louange. Autrement dit, le chant grégorien devient ici un chant de compassion et de mémoire, pas seulement un chant de louange. C’est la première fois qu’on crée un cycle complet de musique spécialement pour accompagner la prière des défunts.
 
 ## 1024 ans
 
@@ -2408,6 +2385,14 @@ La peste noire, également connue sous le nom de peste bubonique, arrive à Flor
 
 La peste est à Moscou.
 
+## 1364 ans
+
+### France
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/mvIEA2dBKGA" frameborder="0" allowfullscreen></iframe></p>
+
+A Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut a été composée probablement pour son installation comme chanoine à la cathédrale de Reims. Elle est donc chantée pour la première fois dans le cadre d’une célébration liturgique solennelle, sans doute en l’honneur de la Vierge Marie.
+
 ## 1388 ans
 
 Le vagabondage est considéré comme un délit en Angleterre. La première loi significative à cet égard est est introduite en réponse à la pénurie de main-d'œuvre et à l'inflation des salaires après la peste noire, qui a décimé la population.
@@ -2464,6 +2449,12 @@ Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de V
 
 Guerre civile entre familles de samouraïs à Kyoto.
 
+## 1470 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/_t-rAsC9IWc" frameborder="0" allowfullscreen></iframe></p>
+
+Ecriture de la messe polyphonique Missa Prolationum qui est une innovation majeure parce qu’elle est entièrement construite sur des canons complexes, chaque voix imitant les autres à différentes vitesses et proportions (c’est-à-dire que la musique joue sur les durées relatives et les imitations croisées).
+
 ## 1475 ans
 
 Ouverture de la première maison de café (appelée qahveh khaneh) à Constantinople
@@ -2496,6 +2487,14 @@ sont souvent révoquées.
 
 Santiago de Cuba est fondé par le conquistador espagnol Diego Velázquez de Cuéllar. Santiago de Cuba est la première capitale de l'île et sert de base pour l'expansion espagnole dans les Caraïbes. Et en raison de sa position stratégique et de son excellent port naturel, La Havane devient rapidement un centre majeur pour le commerce et la flotte espagnole.
 
+## 1515 ans
+
+Messe de Josquin des Prez.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/watch?v=vlB1HR4BgUg" frameborder="0" allowfullscreen></iframe></p>
+
+Cette messe est composée dans les dernières années de la vie de Josquin. Elle prend pour base l’hymne grégorien Pange lingua de Thomas d’Aquin, qu’il réinterprète librement dans chaque partie. L’innovation de cette œuvre est que Josquin ne se contente pas de citer simplement le chant original : il le transforme, le migre d’une voix à l’autre, l’intègre dans des imitations serrées et des textures polyphoniques très élaborées.
+
 ## 1517 ans
 
 Les colons espagnoles mettent en place une forme de travail forcé afin d'exploiter les immenses richesses amérindiennes comme l'or et l'argent. On regroupe sur un territoire donné les indigènes qu'on oblige à travailler dans les champs, les mines et les chantiers de construction, sous l'autorité d'un colon. Les populations des antilles, d'amérique central et du sud sont ainsi réduites en esclavage.
@@ -2518,6 +2517,18 @@ Bartolomé de Las Casas, prêtre catholique espagnol, prend la défense des amé
 
 Naissance d'Henry IV.
 
+## 1562 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Df5MLgLrL1w" frameborder="0" allowfullscreen></iframe></p>
+
+### Rome
+
+Missa Papae Marcelli.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/BRfF7W4El60" frameborder="0" allowfullscreen></iframe></p>
+
+Cette messe est l’une des plus célèbres de la Renaissance. Elle est écrite dans le contexte des débats du concile de Trente, où certains craignent que la polyphonie rende les paroles incompréhensibles dans la liturgie. Palestrina montre ici qu’il est possible de composer une polyphonie riche mais claire : les voix se déploient harmonieusement, les textes restent audibles, et la musique sert la beauté — ce qui lui vaut de devenir un modèle incontournable de la musique sacrée catholique.
+
 ## 1572 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XXxFTsYdLpQ" frameborder="0" allowfullscreen></iframe></p>
@@ -2533,6 +2544,14 @@ Il y a à cette époque au Japon une séparation nette entre le paysan et le sam
 Le statut de samouraï est aussi héréditaire et ne peut être acquis qu'en étant né dans une famille de samouraïs. Les paysans, qui n'appartiennent pas à cette classe, ne peuvent donc pas devenir samouraïs, même s'ils le souhaitent.
 
 Cette réforme va structurer la société japonaise pour les siècles à venir.
+
+## 1589 ans
+
+Les Intermèdes de La Pellegrina.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/RDMeIG80r4yqM" frameborder="0" allowfullscreen></iframe></p>
+
+On célèbre le mariage de Ferdinando de Médicis, grand-duc de Toscane, avec Christine de Lorraine, petite-fille de Catherine de Médicis. Les Médicis, mécènes puissants, veulent impressionner les invités venus de toute l’Europe. La cérémonie religieuse a lieu à la basilique San Lorenzo, mais le véritable clou des festivités est donné au théâtre des Uffizi : une représentation de la comédie La Pellegrina de Girolamo Bargagli, entrecoupée de six somptueux intermèdes musicaux et scéniques.
 
 ## 1600 ans
 
@@ -2554,6 +2573,12 @@ Au Japon, la période Edo, aussi appelée période Tokugawa, commence. C’est c
 
 La colonie anglaise la plus ancienne et la plus célèbre en Amérique est fondée à Jamestown, en Virginie. 7 millions d'amérindiens s'étendent entre les grands lacs et la Floride.
 
+### Italie
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jUep3sqe35os" frameborder="0" allowfullscreen></iframe></p>
+
+L’Orfeo est créé en 1607 à Mantoue, une petite cité du nord de l’Italie (en Lombardie actuelle). Mantoue n’est pas une capitale comme Rome ou Venise, mais une cour prestigieuse dirigée par les Gonzague, une famille princière très influente à la Renaissance. Le duc Vincenzo Gonzague veut rivaliser en éclat culturel avec Florence, qui a vu naître les premiers opéras (Peri, Caccini). Nous sommes ici en plein début du Baroque. Les intellectuels italiens, influencés par la Renaissance et l’Antiquité redécouverte, cherchent à réinventer la tragédie grecque en musique. C’est donc à Mantoue, dans une petite cour italienne mais très cultivée, que naît le premier opéra pleinement accompli de l’histoire.
+
 ## 1609 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hvw1dFM_zqs" frameborder="0" allowfullscreen></iframe></p>
@@ -2570,6 +2595,12 @@ Galilée perfectionne le télescope et commencée à l'utiliser pour observer le
 
 Assassinat d'Henri IV.
 
+Claudio Monteverdi – Vespro della Beata Vergine.
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/0FXECUmqBxQ" frameborder="0" allowfullscreen></iframe></p>
+
+Probablement chanté à Mantoue, dans le cadre de la chapelle ducale des Gonzague. Monteverdi combine l’héritage polyphonique de Palestrina avec de nouveaux styles (solistes, instruments, contrastes) qui annoncent l’opéra et la musique baroque. C’est considéré comme la première grande œuvre sacrée baroque, un chef-d’œuvre qui ouvre un monde nouveau
+
 ## 1637 ans
 
 Au Nord d'Amsterdam, la demande pour des tulipes augmente rapidement, entraînant une hausse des prix qui atteint des niveaux exorbitants. Cependant, cette hausse des prix est principalement due à la spéculation et à l'excitation autour de ces tulipes, et non à une valeur réelle. En effet, il n'y a pas de réelle utilisation pratique pour ces tulipes, qui ne sont cultivées que pour leur beauté ornementale. C'est peut-être la première bulle spéculative de l'histoire.
@@ -2583,6 +2614,10 @@ Baruch Spinoza écrit son œuvre "Éthique". Bien qu'il l'achève en 1675, l'ouv
 ## 1685 ans
 
 Colbert, ministre des finances de Louis XIV rédige le Code Noir, réglementant le rapport entre maître et esclave dans les colonies. A l'origine, il a pour but de réaffirmer l'autorité royale face aux colons afin de limiter les exactions sur les esclaves dans un but précis: favoriser la production pour engranger un maximum de bénéfices. Ce Code Noir autorise de fouetter des esclaves avec des cordes et non des batons pour ne pas leur casser les os. Le propriétaire peut les mutiler en cas de fuite. On peut couper une oreille et marquer une épaule au fer rouge. En cas de récidive, on coupe une jambe et on marque l'autre épaule de la même manière. Enfin en cas d'une troisième tentative de fuite, le maître a le droit d'ôter la vie de son esclave.
+
+### Allemagne
+
+Naissance à Eisenach, dans une grande famille de musiciens allemands (plusieurs générations d’organistes, violonistes et compositeurs) de Johann Sebastian Bach. Orphelin très jeune (à 10 ans), il est recueilli par son frère aîné Johann Christoph, organiste, qui lui transmet une partie de son savoir.
 
 ## 1689 ans
 
@@ -2602,11 +2637,31 @@ A Saint Domingue, il y a 30 000 esclaves qui produisent 3000 tonnes de sucre.
 
 Dernière épidémie de peste en Europe. Elle se situe à Marseille et est introduite à Marseille par des navires venant d'Orient. Elle dure jusqu'en 1722, causant la mort de plus de 100 000 personnes.
 
+### 1721 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/HTm2kEAfo8o" frameborder="0" allowfullscreen></iframe></p>
+
+Bach offre Les Concertos Brandebourgeois au margrave de Brandebourg, d’où leur nom. Ce sont six concertos pour orchestre, chacun avec une instrumentation différente (clavecin soliste, violon, flûte, cors, trompettes, etc.). Bach traite chaque concerto comme une expérience unique, explorant toutes les couleurs possibles d’un orchestre baroque. C’est presque une démonstration de ce que pouvait faire la musique instrumentale de son temps. Jusqu’alors, le concerto était surtout italien (Vivaldi). Bach reprend la forme et la pousse à son extrême, en créant une variété inégalée. C’est l’équivalent d’un “album complet” de musique instrumentale baroque.
+
+### 1723 ans
+
+Bach s’installe à Leipzig comme cantor de l’église Saint-Thomas (poste qu’il occupera jusqu’à sa mort). Là, il compose chaque semaine de nouvelles cantates pour la liturgie, mais aussi ses grandes œuvres sacrées : Passion selon saint Matthieu, Messe en si mineur, etc. Il a l'obligation de produire une grande quantité de musique religieuse chaque semaine.
+
+### 1725 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/GRxofEmo3HA" frameborder="0" allowfullscreen></iframe></p>
+
+Publication des 4 saisons de Vivaldi. Ce recueil est publié avec une dédicace à un noble italien (le comte Wenzel von Morzin), ce qui renforce sa diffusion dans les cercles aristocratiques européens.
+
 ## 1740 ans
 
 Mohammed ben Abdelwahhab s'allie avec Mohammed Ibn Saoud pour donner une légitimité religieuse à la famille Al Saoud sur les autres tribus arabes. Sa doctrine religieuse, appelée wahhabisme, met l'accent sur la pureté de l'islam et la nécessité de retourner aux pratiques et croyances originales de l'islam, telles qu'elles sont décrites dans le Coran et la tradition prophétique (sunna). Il prône également l'obéissance absolue aux commandements de Dieu et à la loi islamique (sharia), ainsi que l'importance de l'enseignement de l'islam et de la diffusion de la doctrine islamique à travers le monde.
 
 Les deux familles se sont mariées à plusieurs reprises au cours des années et dans l'actuelle Arabie saoudite, le ministre du culte est toujours un membre de la famille de l'Al ash-Sheikh (c'est-à-dire un descendant de Mohammed ben Abdelwahhab).
+
+## 1750 ans
+
+Mort de Bach à Leipzig. Sa musique tombe un peu dans l’oubli après sa mort, avant d’être redécouverte au XIXᵉ siècle, notamment grâce à Mendelssohn. Bach n’a jamais écrit d’opéra (contrairement à Händel ou Vivaldi). Son univers est davantage lié à l’orgue, à l’église et aux formes instrumentales savantes.
 
 ## 1751 ans
 
@@ -3210,9 +3265,21 @@ L'invasion est aussi déclenchée par une explosion le long de la voie ferrée a
 
 Le gouvernement nazi met en place des politiques et des accords, tels que l'Accord Haavara de 1933, pour faciliter le départ des Juifs d'Allemagne, en particulier vers la région de la Palestine, sous mandat Britannique.
 
+Adoption aussi de la Loi pour la restauration de la fonction publique. Cette loi permet d’exclure les « non-aryens » (principalement les juifs) et les opposants politiques de la fonction publique, ce qui inclut les professeurs d’université. Cela toucha de grandes figures comme Albert Einstein (qui avait déjà quitté l’Allemagne), ou encore le philosophe Edmund Husserl (forcé à prendre sa retraite).
+
+SA et SS mènent des actions violentes contre les opposants politiques (communistes, sociaux-démocrates, syndicalistes). Les premières "expéditions punitives nazies" (1933) visent surtout les opposants politiques (communistes, sociaux-démocrates, syndicalistes), puis très vite les juifs et les violences contre leurs commerces.
+
 ## 1934 ans
 
 La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.
+
+## 1935 ans
+
+### Allemagne
+
+### 15 septembre
+
+Adoption des lois de Nuremberg. Elles codifient la ségrégation : les juifs perdent la citoyenneté allemande et voient leur accès à la vie publique restreint. Dans ces années, les juifs sont progressivement exclus des associations culturelles, théâtres, concerts, piscines, parcs et bibliothèques municipales. Ces mesures donnent lieu à des affichages publics dans les écoles, piscines, parcs : « Juden unerwünscht » (« Juifs non admis »).
 
 ## 1937 ans
 
@@ -3232,7 +3299,19 @@ Les Brigades Spéciales sont créées par le régime de Vichy, peu après l'inst
 
 ## 1941 ans
 
-Le 7 décembre 1941, l'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port. L'attaque est dévastatrice pour les États-Unis, qui subi de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués. Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.
+### 22 juin
+
+L'opération Barbarossa, nom de code de l'invasion allemande de l'Union soviétique, commence. L'opération Barbarossa est lancée avec environ 3,8 millions de soldats allemands, ce qui en fait la plus grande invasion de l'histoire. L'invasion allemande de l'Union soviétique brise le pacte de non-agression et conduit le PCF (Parti Communiste Français) à adopter une position plus combative envers l'occupant allemand et le gouvernement de Vichy.
+
+L’invasion de l’URSS déclenche une nouvelle étape. Les Einsatzgruppen (unités mobiles de tuerie) massacrent massivement les juifs dans les territoires conquis.
+
+### 19 septembre
+
+En Allemagne et dans le Protectorat de Bohême-Moravie (actuelle Tchéquie), un décret de la police impose à tous les juifs de plus de 6 ans de porter une étoile jaune avec le mot « Jude ».
+
+### 7 décembre
+
+L'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port. L'attaque est dévastatrice pour les États-Unis, qui subi de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués. Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.
 
 ## 1942 ans
 
@@ -3240,11 +3319,13 @@ Le 7 décembre 1941, l'Empire du Japon lance une attaque surprise contre la base
 
 Paul Eluard écrit "Liberté", pendant l'occupation allemande de la France lors de la Seconde Guerre mondiale. Ce poème est un symbole de résistance et de défiance face à l'oppression et à la tyrannie. Il exprime l'espoir et la foi dans la liberté, malgré les circonstances sombres de l'époque.
 
-L'opération Barbarossa, nom de code de l'invasion allemande de l'Union soviétique, commence. L'opération Barbarossa est lancée avec environ 3,8 millions de soldats allemands, ce qui en fait la plus grande invasion de l'histoire. L'invasion allemande de l'Union soviétique brise le pacte de non-agression et conduit le PCF (Parti Communiste Français) à adopter une position plus combative envers l'occupant allemand et le gouvernement de Vichy.
-
 Campagne militaire lancée par les forces alliées, principalement les États-Unis et le Royaume-Uni, pour libérer l'Afrique du Nord du contrôle de l'Axe, composé de l'Allemagne nazie et de l'Italie fasciste. Les forces alliées débarquent en Afrique du Nord, notamment à Casablanca au Maroc, à Oran et à Alger en Algérie. Les forces françaises de Vichy en Afrique du Nord résistent initialement aux forces alliées débarquant en Afrique du Nord. Les combats entre les forces alliées et les troupes françaises de Vichy sont brefs mais parfois intenses. Cependant, les Alliés réussissent rapidement à établir des contacts avec des officiers français locaux et à entamer des négociations pour mettre fin aux hostilités. Les forces françaises d'Afrique du Nord cessent alors de résister et rejoignent finalement les Alliés dans la lutte contre l'Axe. Il est important de noter que le ralliement des forces françaises d'Afrique du Nord n'est pas unanime et que certains éléments continuent à soutenir le régime de Vichy. En réponse au débarquement allié en Afrique du Nord, les forces allemandes envahissent et occupent la zone libre française (la partie non occupée de la France).
 
 Rafle du Vélodrome d'Hiver, souvent abrégée en Rafle du Vel' d'Hiv. Orchestrée par les autorités françaises sous l'occupation allemande, cette rafle abouti à l'arrestation de plus de 13 000 Juifs, dont de nombreux enfants. Les personnes arrêtées sont détenues au Vélodrome d'Hiver, un stade de cyclisme à Paris, avant d'être déportées vers des camps de concentration et d'extermination nazis. La rafle du Vel' d'Hiv devient un symbole poignant de la collaboration du régime de Vichy avec les nazis et de la persécution des Juifs en France.
+
+### Allemagne
+
+La conférence de Wannsee, près de Berlin, officialise la « solution finale ». On y planifie la déportation de tous les juifs d’Europe vers des centres d’extermination.
 
 ## 1943 ans
 
