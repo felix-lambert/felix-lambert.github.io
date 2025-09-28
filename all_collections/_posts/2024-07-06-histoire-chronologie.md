@@ -69,7 +69,7 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 ## -13 699 620 000 d'années
 
 <video controls preload="metadata" width="640" height="360" poster="thumb.jpg">
-  <source src={{site.baseurl}}/assets/atom.mp4 type="video/mp4" />
+  <source src={{site.baseurl}}/atom.mp4 type="video/mp4" />
   Votre navigateur ne supporte pas la balise <video>.
 </video>
 
