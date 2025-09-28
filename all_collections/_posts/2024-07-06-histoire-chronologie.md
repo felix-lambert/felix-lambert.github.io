@@ -72,7 +72,7 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
   <source src="{{ '/assets/video/atom.mp4' | relative_url }}" type="video/mp4">
   Votre navigateur ne supporte pas la balise <video>.
-</video>s
+</video>
 
 Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 oxygène, azote… par exemple)).
@@ -81,11 +81,14 @@ oxygène, azote… par exemple)).
 
 <span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif)</span>
 
-L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très
-léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement
+L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement
 composée de ce gaz) grâce à la gravité (force gravitationnelle).
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cRYu8pMg9zQ" frameborder="0" allowfullscreen></iframe></p>
+<video controls preload="metadata" width="640" height="360">
+
+  <source src="{{ '/assets/video/stars.mp4' | relative_url }}" type="video/mp4">
+  Votre navigateur ne supporte pas la balise <video>.
+</video>
 
 De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
 température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent
