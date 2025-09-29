@@ -68,10 +68,12 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 
 ## -13 699 620 000 d'années
 
-<video controls preload="metadata" width="640" height="360">
-  <source src="{{ '/assets/video/atom.mp4' | relative_url }}" type="video/mp4">
-  Votre navigateur ne supporte pas la balise <video>.
-</video>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+         src="{{ '/assets/video/atom.mp4' | relative_url }}">
+    Votre navigateur ne supporte pas la balise <video>.
+  </video>
+</p>
 
 <p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 oxygène, azote… par exemple)).</p>
