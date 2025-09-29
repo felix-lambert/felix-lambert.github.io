@@ -9,7 +9,7 @@ Une partie a été générée par ChatGPT (3, 4 et 5)
 
 # -14 000 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/bigbang' | relative_url }" alt="Big Bang" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/bigbang' | relative_url }}" alt="Big Bang" /></p>
 
 Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle
 standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards
@@ -25,7 +25,7 @@ Depuis lors, il s'est étendu et refroidi.
 
 Dans cet univers, il y a 4 forces fondamentales:
 
-<p style="text-align:center"><img src="{{ '/assets/img/force' | relative_url }" alt="Force" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/force' | relative_url }}" alt="Force" /></p>
 
 #### 1. Forces électromagnétiques
 
@@ -49,7 +49,7 @@ Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarr
 phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à
 100000000000000000000000000000 (10^27) de fois plus grand.
 
-<p style="text-align:center"><img src="{{ '/assets/img/quark' | relative_url }" alt="Quark" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/quark' | relative_url }}" alt="Quark" /></p>
 
 Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de
 particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
@@ -64,7 +64,7 @@ Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la n
 
 Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.
 
-<p style="text-align:center"><img src="{{ '/assets/img/helium.png' | relative_url }" alt="Big Bang" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Big Bang" /></p>
 
 ## -13 699 620 000 d'années
 
@@ -78,13 +78,13 @@ Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce qu
 <p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 oxygène, azote… par exemple)).</p>
 
-<!-- <p style="text-align:center">
+<p style="text-align:center">
   <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400">
 </p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Gif 2" width="400">
-</p> -->
+</p>
 
 L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).
 
