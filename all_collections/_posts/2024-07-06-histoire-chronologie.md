@@ -9,7 +9,7 @@ Une partie a été générée par ChatGPT (3, 4 et 5)
 
 # -14 000 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/bigbang' | relative_url }}" alt="Big Bang" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/bigbang.png' | relative_url }}" alt="Big Bang" /></p>
 
 Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle
 standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards
@@ -25,7 +25,7 @@ Depuis lors, il s'est étendu et refroidi.
 
 Dans cet univers, il y a 4 forces fondamentales:
 
-<p style="text-align:center"><img src="{{ '/assets/img/force' | relative_url }}" alt="Force" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/force.jpg' | relative_url }}" alt="Force" /></p>
 
 #### 1. Forces électromagnétiques
 
@@ -49,7 +49,7 @@ Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarr
 phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à
 100000000000000000000000000000 (10^27) de fois plus grand.
 
-<p style="text-align:center"><img src="{{ '/assets/img/quark' | relative_url }}" alt="Quark" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/quark.jpg' | relative_url }}" alt="Quark" /></p>
 
 Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de
 particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.
