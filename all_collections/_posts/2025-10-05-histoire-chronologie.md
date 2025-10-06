@@ -68,6 +68,11 @@ tags: technology
 
 ## -13 699 620 000 d'années
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/atom.mp4' | relative_url }}"/>
+</p>
+
 <p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 <p>oxygène, azote… par exemple)).</p></p>
 
@@ -83,9 +88,7 @@ tags: technology
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-<p>         src="{{ '/assets/video/stars.mp4' | relative_url }}"></p>
-<p>    Votre navigateur ne supporte pas la balise <video>.</p>
-  </video>
+      src="{{ '/assets/video/stars.mp4' | relative_url }}"/>
 </p>
 
 <p>De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
