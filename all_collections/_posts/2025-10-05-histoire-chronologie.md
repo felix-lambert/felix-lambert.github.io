@@ -138,7 +138,7 @@ tags: technology
 </p>
 
 <p>Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de
-<p>galaxies (des clusters et des superclusters).</p></p>
+galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ACzR8l9X3-k" frameborder="0" allowfullscreen></iframe></p>
 
