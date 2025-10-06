@@ -58,7 +58,7 @@ tags: technology
 <p>Après 3 minutes, la température descend à environ un milliard de degrés : la force nucléaire forte peut alors unir les quarks en protons et neutrons. Ces particules s’assemblent ensuite pour donner les premiers noyaux atomiques, donc les premiers éléments chimiques.</p>
 
 <p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes</p>
-(il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).
+<p>(il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
 
 <p>À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.</p>
 
@@ -67,13 +67,6 @@ tags: technology
 <p style="text-align:center"><img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Big Bang" /></p>
 
 ## -13 699 620 000 d'années
-
-<p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
-<p>         src="{{ '/assets/video/atom.mp4' | relative_url }}"></p>
-<p>    Votre navigateur ne supporte pas la balise <video>.</p>
-  </video>
-</p>
 
 <p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
 <p>oxygène, azote… par exemple)).</p></p>
@@ -303,9 +296,9 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>Les 3 éléments biologiques essentiels à la vie :</p>
 
-1 Une cellule
+<p>1 Une cellule</p>
 
-➡️ C’est l’unité de base de la vie
+<p>➡️ C'est l'unité de base de la vie</p>
 
 <p>Elle crée une barrière (membrane) entre l’intérieur et l’extérieur</p>
 
@@ -313,17 +306,17 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>Toutes les formes de vie connues sont composées de cellules (au moins une)</p>
 
-2 De l’information
+<p>2 De l'information</p>
 
-➡️ C’est le code génétique, souvent sous forme d’ADN ou d’ARN
+<p>➡️ C'est le code génétique, souvent sous forme d'ADN ou d'ARN</p>
 
 <p>Permet de stocker les instructions nécessaires à la vie</p>
 
 <p>Permet à la cellule de se reproduire, de fabriquer des protéines, de s’adapter, etc.</p>
 
-3 Un métabolisme
+<p>3 Un métabolisme</p>
 
-➡️ Ce sont toutes les réactions chimiques qui permettent à la cellule de :
+<p>➡️ Ce sont toutes les réactions chimiques qui permettent à la cellule de :</p>
 
 <p>Utiliser l’énergie</p>
 
@@ -613,13 +606,13 @@ galaxies (des clusters et des superclusters).</p>
 <p>grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil.</p>
 <p>On comprend que les plantes ont besoin de trois choses pour prospérer:</p>
 
-1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)
+<p>1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)</p>
 
-2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation
+<p>2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation</p>
 
 <p>de la lumière en nourriture et rejet d'oxygène)</p>
 
-3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner
+<p>3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner</p>
 
 <p>la photosynthèse).</p>
 
@@ -934,8 +927,8 @@ galaxies (des clusters et des superclusters).</p>
 <p>Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement</p>
 <p>transforme lentement les singes en hominidé. Les traits principaux qui distinguent les hominidés d'un grand singe sont les suivants:</p>
 
-1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)
-2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)
+<p>1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)</p>
+<p>2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/chimpanze.jpg)</p>
 
@@ -1052,7 +1045,7 @@ galaxies (des clusters et des superclusters).</p>
 <p>Voici comment la méthode Levallois est généralement appliquée:</p>
 
 <p>Préparation du noyau: Avant de pouvoir extraire un éclat, le noyau de pierre</p>
-(la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé.
+<p>(la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé.</p>
 <p>Cela implique souvent d'enlever la croûte extérieure de la pierre et de former le noyau</p>
 <p>dans une forme convexe spécifique.</p>
 
@@ -2148,11 +2141,11 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>La Pierre de Rosette est rédigée sous le règne du pharaon Ptolémée V (de la dynastie lagide). Ce texte est un décret royal, inscrit sur la pierre pour commémorer le couronnement de Ptolémée V et renforcer son autorité sur l'Égypte. Le décret exprime la loyauté des prêtres envers le pharaon en échange de privilèges. Le texte annonce des exemptions fiscales et des dons aux prêtres. En échange, les prêtres doivent organiser des célébrations en l'honneur du roi. Le texte est gravé en trois écritures :</p>
 
-1 Hiéroglyphes (langue sacrée des prêtres)
+<p>1 Hiéroglyphes (langue sacrée des prêtres)</p>
 
-2 Démotique (écriture courante des Égyptiens)
+<p>2 Démotique (écriture courante des Égyptiens)</p>
 
-3 Grec ancien (langue administrative des Ptolémées)
+<p>3 Grec ancien (langue administrative des Ptolémées)</p>
 
 <p>Cela permettait à toutes les classes sociales de comprendre le décret. C'est devenu</p>
 <p>la clé du déchiffrement des hiéroglyphes par Jean-François Champollion en 1822, grâce à la comparaison avec le grec.</p>
@@ -2192,7 +2185,7 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant</p>
 <p>souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques</p>
-(pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau,
+<p>(pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau,</p>
 <p>permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité</p>
 <p>remarquable. Cette invention révolutionne l'architecture et le génie civil romains,</p>
 <p>permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.</p>
@@ -2457,7 +2450,8 @@ galaxies (des clusters et des superclusters).</p>
 4 utiliser un mécanisme de levier pour actionner la presse et appliquer la pression nécessaire sur les caractères et le papier<br/>
 5 le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier<br/>
 6 le levier est relié à des rouleaux qui pressent sur les caractères mobiles et sur le papier. Ces rouleaux sont ajustables et peuvent être réglés pour produire une pression uniforme sur toute la page<br/>
-7 un rouleau permet de répartir la pression de manière plus uniforme sur toute la page. Si on utilisait un levier seul, la pression serait concentrée sur un seul point, ce qui pourrait endommager les caractères mobiles et le papier.
+
+<p>7 un rouleau permet de répartir la pression de manière plus uniforme sur toute la page. Si on utilisait un levier seul, la pression serait concentrée sur un seul point, ce qui pourrait endommager les caractères mobiles et le papier.</p>
 
 <p>Johannes Gutenberg imprime la Bible à l'aide de sa presse à imprimer. Cette Bible, connue sous le nom de la "Bible de Gutenberg" ou la "Bible à quarante-deux lignes", est le premier livre majeur imprimé en Europe à l'aide de la technologie de l'imprimerie. La Bible est un ouvrage largement demandé à l'époque, ce qui garantit un marché potentiel pour les exemplaires imprimés.</p>
 
@@ -3104,10 +3098,10 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>Première centrale électrique alimentée au charbon à Holborn Viaduct à Londres, en Angleterre. Voici comment elle fonctionne:</p>
 
-1 Le charbon est brûlé dans un fourneau pour produire de la chaleur et de la vapeur d'eau
-2 La vapeur d'eau est dirigée vers une turbine, qui est entraînée par la pression de la vapeur
-3 La turbine actionne un générateur, qui transformait l'énergie mécanique en électricité
-4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local
+<p>1 Le charbon est brûlé dans un fourneau pour produire de la chaleur et de la vapeur d'eau</p>
+<p>2 La vapeur d'eau est dirigée vers une turbine, qui est entraînée par la pression de la vapeur</p>
+<p>3 La turbine actionne un générateur, qui transformait l'énergie mécanique en électricité</p>
+<p>4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local</p>
 
 <p>La centrale électrique de Holborn Viaduct est une innovation importante dans l'histoire de l'énergie, car elle permet de produire de l'électricité de manière plus efficace et à un coût inférieur à celui de la production d'électricité par d'autres moyens. Depuis lors, les centrales électriques alimentées au charbon continuent à être développées et améliorées, et elles sont utilisées de manière intensive comme source d'énergie pour la production d'électricité. Cependant, le charbon est une source d'énergie très polluante, car il libère de grandes quantités de dioxyde de carbone (CO2) et d'autres gaz à effet de serre lorsqu'il est brûlé. En outre, l'extraction du charbon peut avoir des impacts négatifs sur l'environnement, notamment la déforestation, la pollution de l'air et de l'eau, et la perturbation des écosystèmes. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation du charbon et à se tourner vers des sources d'énergie renouvelables moins polluantes.</p>
 
