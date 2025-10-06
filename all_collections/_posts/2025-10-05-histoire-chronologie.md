@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire / chronologie
-date: 2024-06-06 10:18:00
+date: 2025-10-04 10:18:00
 tags: technology
 ---
 
@@ -101,7 +101,7 @@ en collision, mais se lient à la place en atomes d'hélium. Ce processus de fus
 
 <p>Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.</p>
 
-Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première
+<p>Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première
 génération stellaire est appelée « population III » par les astronomes (le Soleil est
 une étoile de la population I et la quasi-totalité des étoiles actuellement observées
 sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions
@@ -111,25 +111,31 @@ il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la mas
 essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes
 dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles
 exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter
-l’hydrogène en hélium.
+l’hydrogène en hélium.</p>
 
-A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une
+<p>A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une
 grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles
-suivante, et laissant des trous noirs stellaires énormes.
+suivante, et laissant des trous noirs stellaires énormes.</p>
 
 ## -13 500 000 000 d'années
 
-Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et
+<p>Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et
 peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies
 sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus
 chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II
-qui sont formées par les étoiles de la population III.
+qui sont formées par les étoiles de la population III.</p>
 
-<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif)</span>
+<p style="text-align:center">
+  <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif)</span>
+<p style="text-align:center">
+  <img src="https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif)</span>
+<p style="text-align:center">
+  <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Gif 2" width="400">
+</p>
 
 Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de
 galaxies (des clusters et des superclusters).
@@ -144,7 +150,9 @@ Au début, une étoile utilise de l'hydrogène pour produire de l'énergie. Quan
 
 Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. L'oxygène est, en masse, le troisième élément le plus abondant de l'Univers après l'hydrogène et l'hélium.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/supernova.jpg)</span>
+<p style="text-align:center">
+  <img src="/assets/img/supernova.jpg" alt="Gif 2" width="400">
+</p>
 
 # -13 000 000 000 d'années
 
@@ -152,7 +160,9 @@ Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoil
 
 Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovas. Les trous noirs ont une force qui attire tout, même la lumière. Ils peuvent se combiner entre eux et "manger" des étoiles. Chaque groupe d'étoiles, appelé galaxie, tourne autour d'un gros trou noir, qui donne sa forme à la galaxie.
 
-<span style="display:block;text-align:center">![Alt Text](https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif)</span>
+<p style="text-align:center">
+  <img src="https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif" alt="Gif 2" width="400">
+</p>
 
 Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.
 
@@ -211,9 +221,13 @@ L'influence de l'énergie noire sur l'expansion de l'Univers est de plus en plus
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Se8q3FYGMmM" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/groupelocal.png)</span>
+<p style="text-align:center">
+  <img src="/assets/img/groupelocal.png" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/voielactee.jpg)</span>
+<p style="text-align:center">
+  <img src="/assets/img/voielactee.jpg" alt="Gif 2" width="400">
+</p>
 
 L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'hélium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. Il s'agit du commencement de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage gazeux attire 99,9 % de la matière à proximité. Ce nuage devient plus dense et plus chaud de sorte qu'au final, une fusion nucléaire marque la naissance de notre soleil. Ce processus a duré à peu près 100 000 ans.
 
@@ -227,7 +241,9 @@ Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont d
 
 Dans la zone chaude de notre système solaire, les éléments lourds, plus proches du soleil, se mettent à former de plus en plus de corps rocheux. La gravité permet à ces roches de s'assembler ensemble pour finalement former des planètes. Ces types de planètes, qui se forment par la roche, sont appelés des planètes rocheuses ou telluriques. Ce sont Mercure, Vénus, la Terre, et Mars.
 
-<span style="display:block;text-align:center">![Alt Text]({{site.baseurl}}/assets/img/Solarsystem3DJupiter.gif)</span>
+<p style="text-align:center">
+  <img src="/assets/img/Solarsystem3DJupiter.gif" alt="Gif 2" width="400">
+</p>
 
 ## -4 540 000 000 d'années
 
@@ -241,17 +257,23 @@ Notre système solaire pourrait avoir beaucoup de planètes. Mais toutes ne peuv
 
 L'orbite d'une planète similaire à la Terre mais beaucoup plus petite, appelée Theia, l'emmène directement sur la planète Terre et crée une immense collision. Cette collision projette une grande quantité de matière terrestre et de matière de Théia dans l'espace, qui se condense pour former la Lune. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune, l'unique satellite naturel permanent de la planète Terre.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/impactgeant.png)</span>
+<p style="text-align:center">
+  <img src="/assets/img/impactgeant.png" alt="Gif 2" width="400">
+</p>
 
 La Lune, en rotation, présente toujours la même face à la Terre. Elle a une taille apparente environ 60 fois plus petite que celle du Soleil dans le ciel, mais elle est également beaucoup plus proche de la Terre que le Soleil. Ainsi, lorsqu'elle se trouve entre la Terre et le Soleil, la Lune peut masquer complètement le Soleil, ce qui donne lieu à une éclipse totale.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cachée_lune.jpg)</span>
+<p style="text-align:center">
+  <img src="/assets/img/cachée_lune.jpg" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">(Face cachée de la Lune)</span>
+<p>Caché</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/visible_lune.png)</span>
+<p style="text-align:center">
+  <img src="/assets/img/visible_lune.png" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">(Face visible de la Lune)</span>
+<p>Visible</p>
 
 ## -4 300 000 000 d'années
 
@@ -325,7 +347,9 @@ La mer regorge désormais de ces organismes microscopiques. Ces cellules se rapp
 
 Les êtres vivants se rassemblent pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cyanobacterie.jpg)</span>
+<p style="text-align:center">
+  <img src="/assets/img/cyanobacterie.jpg" alt="Gif 2" width="400">
+</p>
 
 Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse.
 
@@ -353,7 +377,9 @@ La lave libérée par les volcans commence à créer de petites îles volcanique
 
 Grâce à l'oxygène, de petits organismes s'associent pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi que apparaissent les organismes "avancés" avec un noyau dans leurs cellules, appelés eucaryotes. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.
 
-<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif)</span>
+<p style="text-align:center">
+  <img src="https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif" alt="Gif 2" width="400">
+</p>
 
 On comprend donc que toute la vie sur Terre a un ADN, même les cellules procaryotes. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions.
 
@@ -405,9 +431,9 @@ Pour la première fois, ils se déplacent loin de la mer, explorant les étangs 
 
 Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensemble du Globe. Ces fissures se referment et créent un nouveau supercontinent bien plus vaste que Nuna: Rodinia.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/Rodinia.jpg)</span>
-
-<span style="display:block;text-align:center">(Rodinia)</span>
+<p style="text-align:center">
+  <img src="/assets/img/Rodinia.jpg" alt="Gif 2" width="400">
+</p>
 
 Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus de 85 degrés.
 
@@ -419,21 +445,25 @@ L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions 
 
 La rupture s'accompagne d'énormes éruptions volcaniques qui apportent de grandes quantités de roche volcanique à la surface, dont une grande partie de la roche ignée appelée basalte.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalte.jpg)</span>
+<p style="text-align:center">
+  <img src="/assets/img/basalte.jpg" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">(Basalte)</span>
+<p style="text-align:center">(Basalte)</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/basalteocean.jpg)</span>
+<p style="text-align:center">
+  <img src="/assets/img/basalteocean.jpg" alt="Gif 2" width="400">
+</p>
 
-<span style="display:block;text-align:center">(Basalte vu au fond de l'océan)<span style="display:block;text-align:center">
+<p style="display:block;text-align:center">(Basalte vu au fond de l'océan)</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lavebasaltique.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/lavebasaltique.jpg)</p>
 
-<span style="display:block;text-align:center">(Coulée de lave basaltique refroidie)</span>
+<p style="display:block;text-align:center">(Coulée de lave basaltique refroidie)</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cathedralebasalte.JPG)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/cathedralebasalte.JPG)</p>
 
-<span style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</span>
+<p style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</p>
 
 Le début de l'éclatement de Rodinia a des conséquences importantes sur l'évolution de la vie sur Terre, car il entraîne des changements climatiques importants et favorise la diversification des espèces animales et végétales. Il contribue également à la formation de nouvelles ressources minérales et à l'apparition de nouvelles terres émergées.
 
@@ -443,9 +473,9 @@ Le début de l'éclatement de Rodinia a des conséquences importantes sur l'évo
 
 Les éponges de mer apparaissent. Elles sont les premiers êtres multicellulaires et commencent à vivre au fond des mers.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/eponges.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/eponges.jpg)</p>
 
-<span style="display:block;text-align:center">(Eponges de mer)</span>
+<p style="display:block;text-align:center">(Eponges de mer)</p>
 
 Bien que les larves d'éponges soient petites et mobiles, les éponges adultes restent au même endroit toute leur vie. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Elles nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Elles se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).
 
@@ -497,17 +527,17 @@ L'embranchement des arthropodes est de très loin celui qui possède le plus d'e
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ojiuagLU5Gc" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/Haikouichthys_NT.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/Haikouichthys_NT.jpg)</p>
 
-<span style="display:block;text-align:center">(Haikouichthys)</span>
+<p style="display:block;text-align:center">(Haikouichthys)</p>
 
 Haikouichthys est l’un des plus anciens poissons connus. Cet animal a une tête et un tronc distinct. Il est charognard.
 
 ## -525 000 000 d'années
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/trilobite.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/trilobite.jpg)</p>
 
-<span style="display:block;text-align:center">(Trilobite)</span>
+<p style="display:block;text-align:center">(Trilobite)</p>
 
 Les trilobites apparaissent. Certains trilobites ont des yeux énormes, tandis que d'autres sont aveugles. Mais ils ont tous un système digestif sophistiqué, des jambes, avec un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et domine les mers cambriennes en se nourissant principalement de vers.
 
@@ -515,9 +545,9 @@ Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier
 
 ## -505 000 000 d'années
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/anomacolis.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/anomacolis.jpg)</p>
 
-<span style="display:block;text-align:center">(Anomacolis)</span>
+<p style="display:block;text-align:center">(Anomacolis)</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/0AqvGa5ATH0" frameborder="0" allowfullscreen></iframe></p>
 
@@ -525,17 +555,17 @@ L'Anomalocaris le premier prédateur des mers cambriennes, et aussi le premier �
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/zGtOUcl_cCo" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/metaspriggina.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/metaspriggina.jpg)</p>
 
-<span style="display:block;text-align:center">(Le plus ancien poisson et un des premiers vertébrés: Metaspriggina)</span>
+<p style="display:block;text-align:center">(Le plus ancien poisson et un des premiers vertébrés: Metaspriggina)</p>
 
 Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris. Contrairement à la plupart des poissons, qui ont des mâchoires et des dents pour capturer et dévorer leur nourriture, les poissons sans machoires n'ont pas de mâchoires et se nourrissent en suçant la chair de leurs proies.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/lamprey.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/lamprey.jpg)</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/myxine.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/myxine.jpg)</p>
 
-<span style="display:block;text-align:center">(Les vertébrés les plus primitifs vivants aujourd'hui sont les lamproies et les myxine: ils n'ont, comme les premiers poissons, pas de mâchoires)</span>
+<p style="display:block;text-align:center">(Les vertébrés les plus primitifs vivants aujourd'hui sont les lamproies et les myxine: ils n'ont, comme les premiers poissons, pas de mâchoires)</p>
 
 La caractéristique d'un vertébré est d'être en mouvement. Il n'existe pas vraiment de vertébré qui passe toute sa vie fixé au même endroit. Etant constamment à l'affût le vertébré a besoin de beaucoup d'oxygène, d'une batterie de sens complète avec des yeux, un odorat raffiné; et un système élaboré de détection des courants d'eau. Ce système sensoriel nécessite un cerveau complexe et centralisé. Le cerveau des vertébrés dépasse la cerveau d'autres animaux très mobiles comme les crustacés.
 
@@ -563,17 +593,17 @@ Avec une augmentation de la température, les plantes et les champignons colonis
 
 Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons élaborent une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jaekelopterus.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/jaekelopterus.jpg)</p>
 
-<span style="display:block;text-align:center">(Jaekelopterus)</span>
+<p style="display:block;text-align:center">(Jaekelopterus)</p>
 
 Mais il y a aussi les scorpions des mers de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains arthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.
 
 ## -425 000 000 d'années
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/cooksonia.png)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/cooksonia.png)</p>
 
-<span style="display:block;text-align:center">(Cooksonia)</span>
+<p style="display:block;text-align:center">(Cooksonia)</p>
 
 Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper
 l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des
@@ -604,9 +634,9 @@ des continents sont encore des déserts massifs.
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rp15Ue0gx2s" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/placoderme.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/placoderme.jpg)</p>
 
-<span style="display:block;text-align:center">(Placoderme)</span>
+<p style="display:block;text-align:center">(Placoderme)</p>
 
 On peut aussi rencontrer les premiers vertébrés à mâchoires: les placodermes. Ces premiers requins n'ont pas de vraies dents mais seulement des mâchoires se terminant par des excroissances osseuses (un peu à la manière des tortues modernes), mais qui peuvent broyer les poissons les plus coriaces. Les placodermes sont considérés comme des ancêtres des poissons osseux.
 
@@ -622,7 +652,7 @@ Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Te
 
 ## -380 000 000 d'années
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/panderichthys.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/panderichthys.jpg)</p>
 
 On constate l'existence d'un poisson (Panderichthys) utilisant ses nageoires comme des pagaies, car il vit dans des eaux peu profondes, dans des eaux saumâtres (estuaires, marais côtiers) envahies de plantes et de détritus. Il est possible qu'il utilise ses nageoires pour s'accrocher aux plantes ou à autre chose pendant qu'il se tienne en embuscade attendant ses proies. Dans la mesure où certains poissons vivent entre l'eau et la Terre, on voit apparaître un trou au niveau du haut de la tête de certains poissons (un peu comme les dauphins) qui est relié à des poumons chez certains poissons, de pattes/nageoires chez les premiers tétrapodes aquatiques.
 
@@ -630,7 +660,7 @@ Cette capacité à occuper des milieux très diversifiés auraient facilité leu
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/g8nm-FSgP4g" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ichthyostegalia.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/ichthyostegalia.jpg)</p>
 
 Ichthyostega, le premier tétrapode qui sort de l'eau et qui s'adapte à la fois à la nage et à une forme de locomotion terrestre, a trois adaptations majeures :
 
@@ -650,9 +680,9 @@ Il y a une remontée du niveau d'oxygène, avec des araignées, des scorpions et
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/9kzorrSbaUA" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/meganeura.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/meganeura.jpg)</p>
 
-<span style="display:block;text-align:center">(Meganeura)</span>
+<p style="display:block;text-align:center">(Meganeura)</p>
 
 Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.
 
@@ -668,9 +698,9 @@ On trouve les premières plantes avec des feuilles, c'est-à-dire que certaines 
 
 Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents, là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hylonomus.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/hylonomus.jpg)</p>
 
-<span style="display:block;text-align:center">(Hylomonus)</span>
+<p style="display:block;text-align:center">(Hylomonus)</p>
 
 ## -335 000 000 d'années
 
@@ -714,9 +744,9 @@ Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux q
 
 Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/thetis.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/thetis.jpg)</p>
 
-<span style="display:block;text-align:center">(Pangée)</span>
+<p style="display:block;text-align:center">(Pangée)</p>
 
 ## -230 000 000 d'années
 
@@ -724,9 +754,9 @@ Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à 
 
 Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au sommet, se tient les Rauisuhiens, les ancètres des crocodiles. Ce sont des énormes prédateurs atteignant des tailles de plus de 7m de long.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/rauisuhiens.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/rauisuhiens.jpg)</p>
 
-<span style="display:block;text-align:center">(Rauisuhiens)</span>
+<p style="display:block;text-align:center">(Rauisuhiens)</p>
 
 Le supercontinent de la Pangée commencé à se fracturer très lentement. C'est le début de la séparation entre l'Amérique du nord et l'Afrique. La chaleur sous le supercontinent de la Pangée joue un rôle crucial dans le processus de séparation.
 
@@ -750,17 +780,17 @@ La température se stabilise et la végétation revient.
 
 Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/morganucodon.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/morganucodon.jpg)</p>
 
-<span style="display:block;text-align:center">(Morganucodon)</span>
+<p style="display:block;text-align:center">(Morganucodon)</p>
 
 ## -190 000 000 d'années
 
 Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui commence à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/pangee.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/pangee.jpg)</p>
 
-<span style="display:block;text-align:center">(Pangée)</span>
+<p style="display:block;text-align:center">(Pangée)</p>
 
 Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui.
 
@@ -772,7 +802,7 @@ Une bonne partie des produits que nous consommons aujourd'hui sont produits et t
 
 ## -175 000 000 d'années
 
-<span style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/JEjyLjbuOjjYA/giphy.gif)</span>
+<p style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/JEjyLjbuOjjYA/giphy.gif)</p>
 
 Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle. On peut trouver les forêts de pins et des abeilles.
 
@@ -832,9 +862,9 @@ Cette évolution rapide permet de faire évoluer à partir des mammifères une n
 
 Le primate le plus ancien est probablement Purgatorius.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/purgatorius.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/purgatorius.jpg)</p>
 
-<span style="display:block;text-align:center">(Purgatorius)</span>
+<p style="display:block;text-align:center">(Purgatorius)</p>
 
 Ce petit animal se nourrit d'insectes et de fruits.
 
@@ -905,13 +935,13 @@ transforme lentement les singes en hominidé. Les traits principaux qui distingu
 1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)
 2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/chimpanze.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/chimpanze.jpg)</p>
 
-<span style="display:block;text-align:center">(Chimpanzé)</span>
+<p style="display:block;text-align:center">(Chimpanzé)</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bonobo.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/bonobo.jpg)</p>
 
-<span style="display:block;text-align:center">(Bonobo)</span>
+<p style="display:block;text-align:center">(Bonobo)</p>
 
 Les ancètres le plus proche des hominidés sont le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.
 
@@ -1248,7 +1278,7 @@ peut-être en commençant à domestiquer des plantes.
 
 ## -11 000 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/croissantfertile.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/croissantfertile.jpg)</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/brAf_1Q5-44" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1287,7 +1317,7 @@ Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela r
 Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le
 lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/jericho.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/jericho.jpg)</p>
 
 Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme
 l'une des plus anciennes villes habitées en continu. Les habitants vivent dans des
@@ -1355,9 +1385,9 @@ telles que des perles ou des outils.
 
 ## -7 000 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/briquecrue.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/briquecrue.jpg)</p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/briquecuite.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/briquecuite.jpg)</p>
 
 Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui),
 l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de
@@ -1388,7 +1418,7 @@ poteries contenant des résidus de vin.
 
 # -5000 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/hieroglyphe.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/hieroglyphe.jpg)</p>
 
 ## Mésopotamie
 
@@ -1616,7 +1646,7 @@ Les Akkadiens apparaissent peu après les Sumériens. Ils utilisent également l
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ITYFvAP98qs" frameborder="0" allowfullscreen></iframe></p>
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/pyramide.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/pyramide.jpg)</p>
 
 Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes
 et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops.
@@ -1648,7 +1678,7 @@ Elle devient un centre religieux, commercial et administratif majeur.
 
 Selon la Bible (Genèse 11:31), Abraham serait né à "Ur des Chaldéens", et aurait quitté la ville sur ordre de Dieu pour se rendre en Canaan (Palestine actuelle), mais son lien historique reste débattu. C'est le premier qui commence à croire en un seul Dieu.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/gilgamesh.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/gilgamesh.jpg)</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/pYkdudibadY" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1718,7 +1748,7 @@ Avec le temps, les histoires de Gilgamesh sont compilées et traduites en akkadi
 La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente
 et structurée.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ninkasi.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/ninkasi.jpg)</p>
 
 La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur
 de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi,
@@ -1815,7 +1845,7 @@ Les premiers grands prêtres d'Amon apparaissent, période durant laquelle le sa
 
 # -1500 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/ossecaille.png)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/ossecaille.png)</p>
 
 On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues.
 L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture
@@ -2679,7 +2709,7 @@ Guerre de 7 ans qui oppose la France à l'Angleterre.
 
 ## 1757 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/mine.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/mine.jpg)</p>
 
 Dans le nord de la France, première société charbonnière créée par une association de nobles de la région. Cette société s'appelle: "Compagnie des mines d'Anzin".
 
@@ -2801,6 +2831,12 @@ Fransisco de Goya, en protestant contre la guerre d'indépendance espagnole, fus
 
 Fin des guerres napoléoniennes.
 
+## 1820 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2jHtTpLGn-4" frameborder="0" allowfullscreen></iframe></p>
+
+Trois dernières sonates pour piano de Beethoven, les Opus 109, 110 et 111, souvent considérées comme le sommet de son œuvre pianistique. Ces trois sonates ont été composées, alors que Beethoven avait environ 50 à 52 ans, presque totalement sourd. Elles marquent la dernière période créatrice du compositeur, dite période tardive, où son style devient à la fois introspectif, spirituel et expérimental. Son univers musical se détache des conventions classiques pour explorer de nouvelles formes, une liberté rythmique et harmonique.
+
 ## 1821 ans
 
 Mort de Napoléon.
@@ -2815,7 +2851,7 @@ A Haïti, le président Boyer signe un accord avec la France qui permet à Haït
 
 La plus ancienne photographie de l'histoire. Cette image, connue sous le nom de "View from the Window at Le Gras", est prise depuis la fenêtre d'une maison de campagne près de Chalon-sur-Saône, en France.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/viewfromwindow.png)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/viewfromwindow.png)</p>
 
 ## 1827 ans
 
@@ -3169,7 +3205,7 @@ Einstein travaille sur sa théorie de la relativité restreinte, qui remet en qu
 
 ## 1909 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bleriotXI.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/bleriotXI.jpg)</p>
 
 Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.
 
@@ -3572,7 +3608,7 @@ Identification du virus Ebola, lors de deux épidémies simultanées en Afrique,
 
 ## 1977 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/apple2.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/apple2.jpg)</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/EKrGqx8tB0Q" frameborder="0" allowfullscreen></iframe></p>
 
@@ -3584,11 +3620,11 @@ Instauration de la loi sur la prohibition de l'alcool au Pakistan. Cette loi int
 
 ## 1979 ans
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/visicalc.png)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/visicalc.png)</p>
 
 VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calculs de manière simple et rapide, sans avoir à utiliser des feuilles de calcul papier. Pour démarrer VisiCalc sur un ordinateur Apple II, il faut d'abord insérer le disque contenant le logiciel dans le lecteur de disque de l'ordinateur. Ensuite, il faut appuyer sur la touche "reset" pour redémarrer l'ordinateur et charger le logiciel à partir du disque. Une fois que l'ordinateur a redémarré, le programme VisiCalc devrait s'ouvrir automatiquement. Si ce n'est pas le cas, vous pouvez essayer de le démarrer manuellement en tapant "VISICALC" sur la ligne de commande et en appuyant sur la touche "entrée".
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/compuserve.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/compuserve.jpg)</p>
 
 Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.
 
@@ -3665,7 +3701,7 @@ J.K. Rowling commence à écrire le premier livre, "Harry Potter à l'école des
 
 Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/premiere-machine-google.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/premiere-machine-google.jpg)</p>
 
 Pour faire ceci, il faut procéder en 3 étapes:
 
@@ -3710,7 +3746,7 @@ Les États-Unis sont attaqués dans un acte de terrorisme coordonné d'une ample
 
 Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Il est actuellement considéré que ce virus est originaire des chauves-souris, plus précisément d'une espèce de chauve-souris appelée Rhinolophus affinis.
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/chauvesouris.jpg)</span>
+<p style="display:block;text-align:center">![Octocat](/assets/img/chauvesouris.jpg)</p>
 
 Cependant, il est important de noter que les chauves-souris ne sont pas considérées comme étant responsables de la transmission directe du virus aux humains. Il est plutôt suggéré que l'interaction humaine avec les animaux infectés (tel que le pangolin) aurait conduit à la transmission du virus aux humains.
 
