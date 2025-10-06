@@ -12,4 +12,4 @@ SOURCE:
 
 Seeing new technologies, like AI or smartphone,s only as threats often drives people back to old ideologies, religious or political. Thinkers on television even call these tools as proof of social decline or disaster.Why is this the only story we keep hearing?
 
-History shows that technology increases freedom. The washing machine freed women from endless laundry, the refrigerator gave families control over their food, and the smartphone gives instant access to knowledge without relying on “experts.” Each step gives people more independence and weakens centralized control. The more society builds on technology, the harder it is for authoritarian systems to survive.
+History shows that technology increases freedom. The washing machine freed women from endless laundry, the refrigerator gave families control over their food, and the smartphone gives instant access to knowledge without relying on “experts.”
