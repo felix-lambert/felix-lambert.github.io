@@ -304,7 +304,7 @@ galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/innondée.mp4' | relative_url }}"/>
+      src="{{ '/assets/video/innondee.mp4' | relative_url }}"/>
 </p>
 
 <p>Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.</p>
