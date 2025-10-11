@@ -180,7 +180,10 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (une petite galaxie de seulement 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VE0dyCLTLcQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/energieSombre.mp4' | relative_url }}"/>
+</p>
 
 <p>L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est le résultat de l'énergie sombre, une forme d'énergie qui agit comme une force répulsive, repoussant les galaxies les unes des autres. Bien que l'effet de l'énergie noire sur l'expansion de l'Univers n'est devenu prédominant que plus tard, sa présence influence déjà la dynamique de l'expansion de l'Univers.</p>
 
@@ -202,7 +205,10 @@ galaxies (des clusters et des superclusters).</p>
 
 # -8 000 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/kA1bUI7xdY8" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/trouNoir.mp4' | relative_url }}"/>
+</p>
 
 <p>Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.</p>
 
