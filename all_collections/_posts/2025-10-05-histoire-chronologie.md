@@ -239,9 +239,15 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'hélium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. Il s'agit du commencement de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage gazeux attire 99,9 % de la matière à proximité. Ce nuage devient plus dense et plus chaud de sorte qu'au final, une fusion nucléaire marque la naissance de notre soleil. Ce processus a duré à peu près 100 000 ans.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TOYGhaf8c24" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/soleil.mp4' | relative_url }}"/>
+</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/NIyjtgvRcnQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/systemeSolaire.mp4' | relative_url }}"/>
+</p>
 
 <p>Ce très jeune soleil est entouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.</p>
 
@@ -261,7 +267,10 @@ galaxies (des clusters et des superclusters).</p>
 
 ## -4 510 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bcF28_8zB_c" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/lune.mp4' | relative_url }}"/>
+</p>
 
 <p>L'orbite d'une planète similaire à la Terre mais beaucoup plus petite, appelée Theia, l'emmène directement sur la planète Terre et crée une immense collision. Cette collision projette une grande quantité de matière terrestre et de matière de Théia dans l'espace, qui se condense pour former la Lune. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune, l'unique satellite naturel permanent de la planète Terre.</p>
 
@@ -293,7 +302,10 @@ galaxies (des clusters et des superclusters).</p>
 
 ## -4 100 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tVIXXehEIok" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/innondée.mp4' | relative_url }}"/>
+</p>
 
 <p>Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.</p>
 
