@@ -224,7 +224,10 @@ galaxies (des clusters et des superclusters).</p>
 
 # -5 000 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Se8q3FYGMmM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/terreFormation.mp4' | relative_url }}"/>
+</p>
 
 <p style="text-align:center">
   <img src="/assets/img/groupelocal.png" alt="Gif 2" width="400">
