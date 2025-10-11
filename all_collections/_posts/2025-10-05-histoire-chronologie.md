@@ -136,7 +136,10 @@ tags: technology
 <p>Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de
 galaxies (des clusters et des superclusters).</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ACzR8l9X3-k" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="{{ '/assets/video/tailleUnivers.mp4' | relative_url }}"/>
+</p>
 
 <p>La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.</p>
 
