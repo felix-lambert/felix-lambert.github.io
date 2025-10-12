@@ -107,29 +107,14 @@ tags: technology
 
 <p>Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.</p>
 
-<p>Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première
-<p>génération stellaire est appelée « population III » par les astronomes (le Soleil est</p>
-<p>une étoile de la population I et la quasi-totalité des étoiles actuellement observées</p>
-<p>sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions</p>
-<p>d'années). N'ayant jamais été directement observé, les simulations montrent que les</p>
-<p>étoiles primitives sont assez différentes de celles qui sont nées par la suite:</p>
-<p>il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil),</p>
-<p>essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes</p>
-<p>dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles</p>
-<p>exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter</p>
-<p>l’hydrogène en hélium.</p></p>
+<p>Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations montrent que les étoiles primitives sont assez différentes de celles qui sont nées par la suite:</p>
+<p>il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.</p>
 
-<p>A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une
-<p>grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles</p>
-<p>suivante, et laissant des trous noirs stellaires énormes.</p></p>
+<p>A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.</p>
 
 ## -13 500 000 000 d'années
 
-<p>Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et
-<p>peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies</p>
-<p>sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus</p>
-<p>chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II</p>
-<p>qui sont formées par les étoiles de la population III.</p></p>
+<p>Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.</p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Gif 2" width="400">
@@ -143,12 +128,11 @@ tags: technology
   <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Gif 2" width="400">
 </p>
 
-<p>Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de
-galaxies (des clusters et des superclusters).</p>
+<p>Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/tailleUnivers.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/tailleUnivers.mp4"/>
 </p>
 
 <p>La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.</p>
@@ -167,6 +151,11 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.</p>
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/trouNoir.mp4"/>
+</p>
+
 <p>Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovas. Les trous noirs ont une force qui attire tout, même la lumière. Ils peuvent se combiner entre eux et "manger" des étoiles. Chaque groupe d'étoiles, appelé galaxie, tourne autour d'un gros trou noir, qui donne sa forme à la galaxie.</p>
 
 <p style="text-align:center">
@@ -177,8 +166,12 @@ galaxies (des clusters et des superclusters).</p>
 
 ## -12 700 000 000 d'années
 
-<p>Les premières exoplanètes se forment grâce aux disques de matières qui orbitent</p>
-<p>les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.</p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/exoplanete.mp4"/>
+</p>
+
+<p>Les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.</p>
 
 # -12 000 000 000 d'années
 
@@ -192,7 +185,7 @@ galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/energieSombre.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/energieSombre.mp4"/>
 </p>
 
 <p>L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est le résultat de l'énergie sombre, une forme d'énergie qui agit comme une force répulsive, repoussant les galaxies les unes des autres. Bien que l'effet de l'énergie noire sur l'expansion de l'Univers n'est devenu prédominant que plus tard, sa présence influence déjà la dynamique de l'expansion de l'Univers.</p>
@@ -207,6 +200,11 @@ galaxies (des clusters et des superclusters).</p>
 
 <p>Le diamètre de l'univers est environ trois fois inférieur à ce qu'il est maintenant. La plupart des étoiles du monde sont formées. La moitié des galaxies les plus massives présentes ont déjà cessé définitivement de former des étoiles. En revanche, la formation de la galaxie voisine de notre Voie lactée, la galaxie d'Andromède, l'une des rares galaxies qui peut être observée à l'oeil nu à partir de la Terre, commence.</p>
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/voieLactee.mp4"/>
+</p>
+
 <p>La Voie lactée, faisant presque la moitié de la taille actuelle, fusionne avec Gaïa-Encelade: une galaxie naine. Beaucoup des étoiles natives de notre galaxie se dirigent dans le disque épais au milieu de la galaxie tandis que celles capturées à partir de Gaia-Encelade se trouvent dans la partie extérieure de la galaxie. En fonction du pourcentage d'étoiles capturées c'est la deuxième plus grande fusion de l'histoire de notre galaxie.</p>
 
 # -9 000 000 000 d'années
@@ -217,7 +215,7 @@ galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/trouNoir.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"/>
 </p>
 
 <p>Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.</p>
@@ -236,7 +234,7 @@ galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/terreFormation.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/terreFormation.mp4"/>
 </p>
 
 <p style="text-align:center">
@@ -251,12 +249,12 @@ galaxies (des clusters et des superclusters).</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/soleil.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/soleil.mp4"/>
 </p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/systemeSolaire.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/systemeSolaire.mp4"/>
 </p>
 
 <p>Ce très jeune soleil est entouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.</p>
@@ -269,17 +267,22 @@ galaxies (des clusters et des superclusters).</p>
   <img src="/assets/img/Solarsystem3DJupiter.gif" alt="Gif 2" width="400">
 </p>
 
+<p>Notre système solaire pourrait avoir beaucoup de planètes. Mais toutes ne peuvent pas rester car elles se bousculent et se heurtent. Parfois, elles se rapprochent trop du Soleil et se brûlent, ou elles sont poussées hors du système parce qu'elles sont trop proches d'une autre planète. C'est pourquoi certaines planètes se retrouvent à errer toutes seules dans l'espace, sans étoile autour de laquelle tourner.</p>
+
 ## -4 540 000 000 d'années
 
-<p>La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.</p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutTerre.mp4"/>
+</p>
 
-<p>Notre système solaire pourrait avoir beaucoup de planètes. Mais toutes ne peuvent pas rester car elles se bousculent et se heurtent. Parfois, elles se rapprochent trop du Soleil et se brûlent, ou elles sont poussées hors du système parce qu'elles sont trop proches d'une autre planète. C'est pourquoi certaines planètes se retrouvent à errer toutes seules dans l'espace, sans étoile autour de laquelle tourner.</p>
+<p>La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.</p>
 
 ## -4 510 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/lune.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutLune.mp4"/>
 </p>
 
 <p>L'orbite d'une planète similaire à la Terre mais beaucoup plus petite, appelée Theia, l'emmène directement sur la planète Terre et crée une immense collision. Cette collision projette une grande quantité de matière terrestre et de matière de Théia dans l'espace, qui se condense pour former la Lune. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune, l'unique satellite naturel permanent de la planète Terre.</p>
@@ -305,6 +308,11 @@ galaxies (des clusters et des superclusters).</p>
 ## -4 300 000 000 d'années
 
 <p>La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/refroidissement.mp4"/>
+</p>
 
 <p>Parallèlement, encore grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.</p>
 
