@@ -56,14 +56,13 @@ tags: technology
 
 <p style="text-align:center"><img src="{{ '/assets/img/quark.jpg' | relative_url }}" alt="Quark" /></p>
 
-<p>Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de</p>
-<p>particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.</p>
+<p>Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.</p>
 
 <p>Pendant les 3 premières minutes, la chaleur est trop forte pour que protons et neutrons se forment.</p>
+
 <p>Après 3 minutes, la température descend à environ un milliard de degrés : la force nucléaire forte peut alors unir les quarks en protons et neutrons. Ces particules s’assemblent ensuite pour donner les premiers noyaux atomiques, donc les premiers éléments chimiques.</p>
 
-<p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes</p>
-<p>(il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
+<p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
 
 <p>À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.</p>
 
@@ -78,8 +77,7 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4"/>
 </p>
 
-<p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone,
-<p>oxygène, azote… par exemple)).</p></p>
+<p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).</p></p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400">
@@ -91,9 +89,16 @@ tags: technology
 
 <p>L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).</p>
 
-<p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/stars.mp4' | relative_url }}"/>
+<p style="text-align: center;">
+  <video
+    controls
+    preload="metadata"
+    width="640"
+    height="360"
+  >
+    <source src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/stars.mp4" type="video/mp4">
+    Votre navigateur ne prend pas en charge la lecture de vidéo.
+  </video>
 </p>
 
 <p>De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
