@@ -16,15 +16,9 @@ tags: technology
 
 <p style="text-align:center"><img src="{{ '/assets/img/bigbang.png' | relative_url }}" alt="Big Bang" /></p>
 
-<p>Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle</p>
-<p>standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards</p>
-<p>d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une</p>
-<p>gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.</p>
+<p>Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.</p>
 
-<p>L'univers est à son commencement des milliards de fois plus chaud que le centre de</p>
-<p>notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui</p>
-<p>dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est</p>
-<p>rempli d'une sorte de plasma constitué de quarks et de gluons.</p>
+<p>L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est rempli d'une sorte de plasma constitué de quarks et de gluons.</p>
 
 <p>Depuis lors, il s'est étendu et refroidi.</p>
 
@@ -1114,6 +1108,14 @@ tags: technology
 
 <p>Le niveau de la mer est beaucoup plus bas qu'aujourd'hui, en raison de l'accumulation de glace sur les calottes glaciaires polaires. Le climat de la Terre est plus froid qu'aujourd'hui, avec des périodes de glaciation qui ont lieu à intervalles réguliers. Les mammouths, les tigres à dents de sabre et les autres animaux de l'âge de glace sont répandus dans le monde entier.</p>
 
+# -780 000 années
+
+## Site de Gesher Benot Ya’aqov (Israël)
+
+<p>On y trouve des restes de foyers avec des os et des plantes brûlés, montrant une utilisation répétée du feu pour la cuisson.</p>
+
+<p>Avec la cuisine en effet on peut plus facilement mastiquer et digérer. Cuisiner est en quelque sorte le démarrage du processus de digestion, avant même de mettre la nourriture dans son corps. Cuisiner permet aussi de tuer les poisons et les pathogènes.</p>
+
 # -600 000 ans
 
 <p>Les homidités commencent à se déplacer sur de plus longues distances, atteignant des endroits éloignés tels que les îles de l'Indonésie.</p>
@@ -1135,7 +1137,10 @@ tags: technology
 
 # - 400 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f2abFC74BiE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neanderthal.mp4"/>
+</p>
 
 <p>Les hommes de Néandertal fabriquent des pierres pointus en utilisant la méthode Levallois. La méthode Levallois est une technique de débitage spécifique, utilisée pour tailler des pierres (souvent du silex) afin de produire des éclats prévisibles avec des bords tranchants. Cette technique est nommée d'après le site de Levallois-Perret, près de Paris, où des exemples typiques ont été trouvés.</p>
 
@@ -1152,8 +1157,6 @@ tags: technology
 <p>Réutilisation: Le noyau peut ensuite être retaillé et préparé pour retirer d'autres éclats à l'avenir.</p>
 
 <p>Les éclats Levallois tranchants peuvent être utilisés comme couteaux pour découper la viande. Une arme ou un outil bien conçu et tranchant augmente les chances de réussite à la chasse et facilite le traitement des animaux abattus.</p>
-
-<p>Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec la cuisine en effet on peut plus facilement mastiquer et digérer. Cuisiner est en quelque sorte le démarrage du processus de digestion, avant même de mettre la nourriture dans son corps. Cuisiner permet aussi de tuer les poisons et les pathogènes.</p>
 
 ## - 350 000 ans
 
