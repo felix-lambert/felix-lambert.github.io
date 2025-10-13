@@ -322,7 +322,7 @@ tags: technology
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="{{ '/assets/video/innondee.mp4' | relative_url }}"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/innondation.mp4"/>
 </p>
 
 <p>Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.</p>
@@ -335,7 +335,10 @@ tags: technology
 
 # -3 800 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PFNp3hs-MdE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutVie.mp4"/>
+</p>
 
 <p>Les premiers microbes, des organismes microscopiques, apparaissent. Ils sont les premières formes de vie sur Terre. Ce sont des procaryotes, de petites cellules sans noyau qui vivent dans les zones chaudes et profondes de l'océan. Ils se nourrissent de particules chimiques et n'ont pas besoin d'oxygène pour survivre. Aujourd'hui, les procaryotes incluent les bactéries et les archées.</p>
 
@@ -345,19 +348,11 @@ tags: technology
 
 <p>➡️ C'est l'unité de base de la vie</p>
 
-<p>Elle crée une barrière (membrane) entre l’intérieur et l’extérieur</p>
-
-<p>Elle permet de contenir les réactions chimiques</p>
-
-<p>Toutes les formes de vie connues sont composées de cellules (au moins une)</p>
+<p>Elle crée une barrière (membrane) entre l’intérieur et l’extérieur. Elle permet de contenir les réactions chimiques. Toutes les formes de vie connues sont composées de cellules (au moins une).</p>
 
 <p>2 De l'information</p>
 
-<p>➡️ C'est le code génétique, souvent sous forme d'ADN ou d'ARN</p>
-
-<p>Permet de stocker les instructions nécessaires à la vie</p>
-
-<p>Permet à la cellule de se reproduire, de fabriquer des protéines, de s’adapter, etc.</p>
+<p>➡️ C'est le code génétique, souvent sous forme d'ADN ou d'ARN. Permet de stocker les instructions nécessaires à la vie. Permet à la cellule de se reproduire, de fabriquer des protéines, de s’adapter, etc.</p>
 
 <p>3 Un métabolisme</p>
 
@@ -381,7 +376,10 @@ tags: technology
 
 <p>La mer regorge désormais de ces organismes microscopiques. Ces cellules se rapprochent de la surface.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/oUAEBmvToFc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/cyanobacterie.mp4"/>
+</p>
 
 <p>Les êtres vivants se rassemblent pour composer des filaments verdâtres, fins comme des cheveux, et d'écailles de vase fabriquées à partir d'organismes microscopiques appelés cyanobactéries - les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.</p>
 
@@ -397,6 +395,11 @@ tags: technology
 
 ## -2 900 000 000 d'années
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/oxygene.mp4"/>
+</p>
+
 <p>L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. L'eau (H₂O) contient des atomes d'oxygène, mais cet oxygène est lié chimiquement à des atomes d'hydrogène pour former des molécules d'eau. Avant l'apparition des cyanobactéries, il y a très peu d'oxygène libre (O₂) dans l'atmosphère terrestre. Mais après l'apparition, les cyanobactéries utilisent l'énergie solaire pour séparer les molécules d'eau (H₂O) en hydrogène (H) et en oxygène (O₂).</p>
 
 ## -2 800 000 000 d'années
@@ -405,13 +408,19 @@ tags: technology
 
 ## -2 700 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/c4Z3yt6ojHU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ileVolcanique.mp4"/>
+</p>
 
 <p>Pendant cette période, l'activité volcanique est très intense, en grande partie à cause du manteau terrestre chaud et de la croûte terrestre encore en formation.</p>
 
 <p>La lave libérée par les volcans commence à créer de petites îles volcaniques. Les îles volcaniques s'unissent et constituent un supercontinent appelé Kenorland, un continent de la taille de l'Australie.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/f5mkE_jm-g0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mitochondrie.mp4"/>
+</p>
 
 <p>Grâce à l'oxygène, de petits organismes s'associent pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi que apparaissent les organismes "avancés" avec un noyau dans leurs cellules, appelés eucaryotes. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.</p>
 
@@ -423,19 +432,15 @@ tags: technology
 
 ## -2 400 000 000 d'années
 
-<p>Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et</p>
-<p>libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane,</p>
-<p>refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci.</p>
-<p>L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de</p>
-<p>l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années</p>
-<p>avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz</p>
-<p>dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie.</p>
+<p>Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane, refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci.</p>
+
+<p>L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie.</p>
+
 <p>En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.</p>
 
-<p>Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires</p>
-<p>de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie.</p>
-<p>Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser</p>
-<p>cet oxygène pour influencer leur évolution.</p>
+<p>Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie.</p>
+
+<p>Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.</p>
 
 ## -2 100 000 000 d'années
 
@@ -466,6 +471,11 @@ tags: technology
 <p>Pour la première fois, ils se déplacent loin de la mer, explorant les étangs d'eau douce et les ruisseaux sur la terre.</p>
 
 # -1 000 000 000 d'années
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/rodynia.mp4"/>
+</p>
 
 <p>Le centre de la Terre est tellement chaud qu'il crée des fissures sur l'ensemble du Globe. Ces fissures se referment et créent un nouveau supercontinent bien plus vaste que Nuna: Rodinia.</p>
 
@@ -507,7 +517,10 @@ tags: technology
 
 ## -780 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FT54kGWrbJA" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/eponge.mp4"/>
+</p>
 
 <p>Les éponges de mer apparaissent. Elles sont les premiers êtres multicellulaires et commencent à vivre au fond des mers.</p>
 
@@ -518,8 +531,6 @@ tags: technology
 <p>Bien que les larves d'éponges soient petites et mobiles, les éponges adultes restent au même endroit toute leur vie. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Elles nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Elles se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).</p>
 
 ## -740 000 000 d'années
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ro-saMXwGww" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Rodinia se casse complètement. Les roches qui composent ce continent sont des roches volcaniques, le basalte, l'un des principaux constituants de la croûte océanique. Elles sont donc à ciel ouvert et sont excellentes pour l'absorption du CO2. En conséquence, une planète se refroidit de plus en plus car les volcans ne sont pas en mesure d'éjecter le CO2 plus rapidement que le basalte ne l'absorbe.</p>
 
@@ -532,6 +543,16 @@ tags: technology
 <p>Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone.</p>
 
 ## -650 000 000 d'années
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/boulleDeGlace.mp4"/>
+</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/bouleDeNeige.mp4"/>
+</p>
 
 <p>La Terre est à nouveau pratiquement inhabitable. C'est une nouvelle époque de la Terre boule de neige.</p>
 
@@ -563,8 +584,6 @@ tags: technology
 
 ## -530 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ojiuagLU5Gc" frameborder="0" allowfullscreen></iframe></p>
-
 <p style="display:block;text-align:center">![Octocat](/assets/img/Haikouichthys_NT.jpg)</p>
 
 <p style="display:block;text-align:center">(Haikouichthys)</p>
@@ -587,11 +606,12 @@ tags: technology
 
 <p style="display:block;text-align:center">(Anomacolis)</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/0AqvGa5ATH0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/anomalocaris.mp4"/>
+</p>
 
 <p>L'Anomalocaris le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne. Le corps long et étroit, recouvert d'un exosquelette, est doté d'une bouche avec des dents, de pattes flexibles, de 28 nageoires latérales réparties par paires et d'une longue queue en V constituée, assurant probablement à l'animal une propulsion rapide dans l'eau.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/zGtOUcl_cCo" frameborder="0" allowfullscreen></iframe></p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/metaspriggina.jpg)</p>
 
@@ -611,17 +631,27 @@ tags: technology
 
 # -500 000 000 d'années
 
-<p>L'explosion cambrienne prend fin et subit une mystérieuse extinction massive. Il est vraisemblable que la cause de cette extinction est une diminution nette des niveaux d'oxygène. Les îles et les continents, toujours sans plantes ni animaux, se déplacent constamment et créent de nouveaux habitats, de nouvelles niches. Cela permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400.</p>
+<p>Les îles et les continents, toujours sans plantes ni animaux, se déplacent constamment et créent de nouveaux habitats, de nouvelles niches. Cela permet d'augmenter le nombre de familles d'animaux marins recensés, passant d'une centaine à plus de 400.</p>
 
 <p>Il y a donc trois grands types d'animaux qui peuplent les mers: les mollusques (un peu comme des petits animaux avec une coquille), les anthropodes (un peu comme des insectes), et les vertébrés (les premiers poissons).</p>
 
 <p>Les plantes se diversifient et habitent sur les rochers au bord de la mer. Ces premières plantes sont non-vasculaires, c'est-à-dire qu'elles n'ont ni racine, ni tige, ni feuille. Elles ne peuvent vivre ailleurs qu'à côté d'une source d'eau.</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ozone.mp4"/>
+</p>
 
 <p>Le niveau d'oxygène est proche du niveau d'aujourd'hui. L'oxygène, avec le mélange de rayonnement solaire, permet de mieux étendre la couche d'ozone, ce qui permet de donner les conditions possibles à la vie sur les continents. Sans couche d'ozone, une vie complexe sur les continents aurait été beaucoup plus compliquée.</p>
 
 <p>Cette colonisation des terres par les plantes aspire beaucoup de carbone, ce qui fait chuter la température.</p>
 
 ## -444 000 000 d'années
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ordovicien.mp4"/>
+</p>
 
 <p>On arrive à un nouvel âge de glace de 2 millions d'années. Ce n'est certes pas la même température qu'à l'époque de la Terre boule de neige mais ce froid cause quand même une des plus grandes extinctions de masse que la Terre a connues avec la disparition de 86% des espèces marines. Le niveau de l'oxygène retombe et les océans sont de nouveau dorénavant majoritairement peuplés que de cyanobactéries.</p>
 
@@ -643,36 +673,26 @@ tags: technology
 
 <p style="display:block;text-align:center">(Cooksonia)</p>
 
-<p>Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper</p>
-<p>l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des</p>
-<p>premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes</p>
-<p>peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est</p>
-<p>l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent,</p>
-<p>grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil.</p>
+<p>Les plantes terrestres commencent à développer un tissu vasculaire, qui permet de pomper l'eau du bas vers le haut des plantes et de libérer du sucre (Cooksonia est une des premières plantes à avoir développé ce type de tissu). Grâce à ces tissus les plantes peuvent pousser mais n'ont pas encore de feuille. Ce type de tissu vasculaire est l'ancêtre du bois, qui effectue à peu près la même tache. Ces tissus permettent, grâce à ce mécanisme, aux plantes de grandir et d'accéder à plus d'énergie du soleil.</p>
+
 <p>On comprend que les plantes ont besoin de trois choses pour prospérer:</p>
 
 <p>1 de l'eau (grâce à ses tissus vasculaires qui permettent de boire l'eau des sols)</p>
 
-<p>2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation</p>
+<p>2 de la lumière du soleil (pour produire ce travail de la photosynthèse: transformation de la lumière en nourriture et rejet d'oxygène)</p>
 
-<p>de la lumière en nourriture et rejet d'oxygène)</p>
+<p>3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner la photosynthèse).</p>
 
-<p>3 du CO2 (la plante a besoin d'absorber du CO2 pour permettre de faire fonctionner</p>
+<p>Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante hydratée le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones océaniques.</p>
 
-<p>la photosynthèse).</p>
-
-<p>Le bois est donc une évolution du simple tissu vasculaire afin de maintenir la plante</p>
-<p>hydratée le plus longtemps possible. Ce bois permet d'éloigner les plantes des zones</p>
-<p>océaniques.</p>
-
-<p>Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de</p>
-<p>transformer les rochers en terre fertile, afin que les plantes de la prochaine génération</p>
-<p>puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres</p>
-<p>des continents sont encore des déserts massifs.</p>
+<p>Les champignons sur Terre peuvent atteindre plus de 8 mètres de haut et ont la capacité de transformer les rochers en terre fertile, afin que les plantes de la prochaine génération puissent prospérer. Cette nouvelle forme de vie est située près des océans, les centres des continents sont encore des déserts massifs.</p>
 
 # -420 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rp15Ue0gx2s" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/placoderm.mp4"/>
+</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/placoderme.jpg)</p>
 
@@ -698,8 +718,6 @@ tags: technology
 
 <p>Cette capacité à occuper des milieux très diversifiés auraient facilité leur rapide dispersion sur tous les continents, prélude à la terrestrialisation de certaines lignées.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/g8nm-FSgP4g" frameborder="0" allowfullscreen></iframe></p>
-
 <p style="display:block;text-align:center">![Octocat](/assets/img/ichthyostegalia.jpg)</p>
 
 <p>Ichthyostega, le premier tétrapode qui sort de l'eau et qui s'adapte à la fois à la nage et à une forme de locomotion terrestre, a trois adaptations majeures :</p>
@@ -716,9 +734,12 @@ tags: technology
 
 ## -365 000 000 d'années
 
-<p>Il y a une remontée du niveau d'oxygène, avec des araignées, des scorpions et des libellules (Meganeura) géants. Ces dernières sont les premiers groupes d'animaux à s'envoler. Les forêts s'agrandissent et se multiplient sur les continents.</p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/meganeura.mp4"/>
+</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/9kzorrSbaUA" frameborder="0" allowfullscreen></iframe></p>
+<p>Il y a une remontée du niveau d'oxygène, avec des araignées, des scorpions et des libellules (Meganeura) géants. Ces dernières sont les premiers groupes d'animaux à s'envoler. Les forêts s'agrandissent et se multiplient sur les continents.</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/meganeura.jpg)</p>
 
@@ -728,6 +749,11 @@ tags: technology
 
 ## -360 000 000 d'années
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/devonian.mp4"/>
+</p>
+
 <p>On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobitent traînent sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.</p>
 
 ## -350 000 000 d'années
@@ -735,6 +761,11 @@ tags: technology
 <p>On trouve les premières plantes avec des feuilles, c'est-à-dire que certaines plantes développent les capacités de photosynthèse à un autre niveau. Elles jouent un rôle important dans l'évolution de la vie sur Terre en fournissant une grande quantité de nourriture et d'oxygène pour les animaux et en permettant la colonisation de nouveaux milieux par les plantes. Les feuilles permettent de beaucoup mieux répartir l'eau qu'un simple tissu vasculaire à travers ses veines. Et plus la circulation d'eau est aisée, plus la plante pousse vite.</p>
 
 ## -340 000 000 d'années
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/reptile.mp4"/>
+</p>
 
 <p>Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents, là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.</p>
 
@@ -764,21 +795,32 @@ tags: technology
 
 <p>L'évolution progresse vite et les petits lézards deviennent des reptiles géants. Ces premiers types de reptiles géants connus sont assez proches des tortues mais ce ne sont pas des dinosaures.</p>
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/charbon.mp4"/>
+</p>
+
+<p>Le charbon, cette roche noire, se forme grâce à la décomposition des végétaux.</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/scutosaure.mp4"/>
+</p>
+
+<p>Les Scutosaures (nom scientifique Scutosaurus) étaient de grands reptiles terrestres herbivores vivent à la fin du Permien.</p>
+
+## -250 000 000 d'années
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/permian.mp4"/>
+</p>
+
 <p>Toutefois, une combinaison d'activités volcaniques, provoquant le réchauffement climatique et l'acidification des océans, est responsable d'une nouvelle extinction (l'extinction Permien-Trias). Cette extinction est marquée par la disparition de 95 % des espèces marines (requins, poissons et tous les trilobites) et de 70 % des vertébrés terrestres (mammifère et reptile), ce qui en fait la plus grande extinction massive (sur les 5 connus) ayant affecté la biosphère.</p>
 
 <p>La lave des volcans envahit les continents jusqu'au niveau de la taille des Etats-Unis, ce qui transforme l'air, avec de l'acide sulfurique, la couche d'ozone et le climat. La vie devient donc à nouveau très rare au sein des continents et les plus grands reptiles de cette époque disparaissent. La montée de la température fait baisser brutalement le taux d'oxygène dans les océans. Des bulles de gaz de méthane s'échappent de la mer et fait encore plus monter la température. Il fait alors plus de 105 degrés.</p>
 
 <p>La majorité des espèces terrestres périssent à cause de la chaleur extrême, seules 5% d'entre elles survivent en se réfugiant sous terre.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LJ6ycSarzv4" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Le charbon, cette roche noire, se forme grâce à la décomposition des végétaux.</p>
-
-# -245 000 000 d'années
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R7IaRQPJHf4" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Une nouvelle espèce commence à émerger: les dinosaures. Ce sont des animaux qui ont évolué des rares espèces qui ont survécu à la dernière énorme extinction.</p>
 
 ## -240 000 000 d'années
 
@@ -790,31 +832,17 @@ tags: technology
 
 ## -230 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VKq0pr4rbRs" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Les dinosaures ne sont pas encore tout en haut de la chaine alimentaire. Au sommet, se tient les Rauisuhiens, les ancètres des crocodiles. Ce sont des énormes prédateurs atteignant des tailles de plus de 7m de long.</p>
-
-<p style="display:block;text-align:center">![Octocat](/assets/img/rauisuhiens.jpg)</p>
-
-<p style="display:block;text-align:center">(Rauisuhiens)</p>
-
-<p>Le supercontinent de la Pangée commencé à se fracturer très lentement. C'est le début de la séparation entre l'Amérique du nord et l'Afrique. La chaleur sous le supercontinent de la Pangée joue un rôle crucial dans le processus de séparation.</p>
+<p>Le supercontinent de la Pangée commence à se fracturer très lentement. C'est le début de la séparation entre l'Amérique du nord et l'Afrique. La chaleur sous le supercontinent de la Pangée joue un rôle crucial dans le processus de séparation.</p>
 
 <p>Cette accumulation de chaleur et de tension crée des forces tectoniques qui peuvent fissurer la croûte terrestre, formant des rifts ou des crevasses. Ces rifts peuvent éventuellement s'élargir et permettre la montée du magma, formant ainsi de nouvelles croûtes océaniques et séparant les plaques continentales. Ce processus est ce qui a conduit à la fragmentation de la Pangée en plusieurs continents.</p>
 
 ## -218 000 000 d'années
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R7IaRQPJHf4" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Le premier vrai mammifère, fidèle à notre lignée, apparaît. Il est petit et fait peut-être moins d'un kilo. On n'a pour le moment pas trouvé de fossiles de ce premier mammifère. Mais il a probablement les caractéristiques qui permet de dire que c'est un mammifère. Ces caractéristiques sont les suivantes:</p>
 
 1 Il a des poils<br />
 2 Il a une mâchoire<br />
 3 Les femelles peuvent produire du lait<br />
-
-## -201 000 000 d'années
-
-<p>La température se stabilise et la végétation revient.</p>
 
 ## -205 000 000 d'années
 
@@ -824,7 +852,16 @@ tags: technology
 
 <p style="display:block;text-align:center">(Morganucodon)</p>
 
+## -201 000 000 d'années
+
+<p>La température se stabilise et la végétation revient.</p>
+
 ## -190 000 000 d'années
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pangeeBrisure.mp4"/>
+</p>
 
 <p>Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui commence à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.</p>
 
@@ -834,17 +871,30 @@ tags: technology
 
 <p>Il y a donc 2 nouveaux continents: la Laurassie et la Gondwana. Le climat est chaud, le taux d'oxygène est plus faible que de nos jours (environ 80% par rapport à aujourd'hui), et le taux de CO2 est environ six fois plus chaud qu'aujourd'hui.</p>
 
-<p>Au sein de cette fissure, cette division des continents, un nouvel océan apparaît. C'est l'ancètre de l'océan atlantique. Cet océan regorge de poissons, mais, encore une fois, la vie marine commence à diminuer. Des poissons morts et du plancton envahissent les fonds marins. Durant plusieurs millions d'années les rochers vont chauffer ces animaux morts pour les transformer en pétrole.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/h-F27s5Te6I" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Une bonne partie des produits que nous consommons aujourd'hui sont produits et transformés à partir de ce pétrole.</p>
-
 ## -175 000 000 d'années
 
 <p style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/JEjyLjbuOjjYA/giphy.gif)</p>
 
-<p>Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle. On peut trouver les forêts de pins et des abeilles.</p>
+<p>Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle.</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atlantique.mp4"/>
+</p>
+
+<p>Au sein de cette fissure, cette division des continents, un nouvel océan apparaît. C'est l'ancètre de l'océan atlantique. Cet océan regorge de poissons, mais, encore une fois, la vie marine commence à diminuer. Des poissons morts et du plancton envahissent les fonds marins. Durant plusieurs millions d'années les rochers vont chauffer ces animaux morts pour les transformer en pétrole.</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petroleDebut.mp4"/>
+</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petrole.mp4"/>
+</p>
+
+<p>Une bonne partie des produits que nous consommons aujourd'hui sont produits et transformés à partir de ce pétrole.</p>
 
 <p>On constate aussi l'existence des premiers dinosaures.</p>
 
@@ -853,8 +903,6 @@ tags: technology
 <p>Un insecte (Chrysopidae) visite une plante pour un repas, afin de sucer les fluides sucrées de la plante. C'est le début de la pollinisation.</p>
 
 ## -125 000 000 d'années
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/13aUo5fEjNY" frameborder="0" allowfullscreen></iframe></p>
 
 <p>On constate l'existence des premières plantes avec des fleurs. Les fleurs constituent les organes sexuels des plantes vivantes. Les plantes à fleurs primitives penvent se reproduire en prenant soit le rôle du mâle, soit celui de la femelle.</p>
 
@@ -872,7 +920,7 @@ tags: technology
 
 ## -80 000 000 d'années
 
-<p>La Terre est chaude et humide, avec des mers peu profondes qui couvrent de vastes régions de terres. Les dinosaures dominent la vie terrestre.</p>
+<p>La Terre est chaude et humide, avec des mers peu profondes qui couvrent de vastes régions de terres.</p>
 
 # -70 000 000 d'années
 
@@ -884,7 +932,10 @@ tags: technology
 
 ## -66 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vwEiiP_m3hM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/extinctionDynosaure.mp4"/>
+</p>
 
 <p>L'impact d'un astéroïde met fin brutalement au monde des dinosaures, ainsi qu'aux reptiles marins. Cet astéroide fait presque 10 km de long. Lorsqu'il tombe dans l'océan, crée des tremblements de terre et des tsunamis géants. Mais ce n'est que le début. Les poussières de cet astéroïde après l'impact envahissent la planète créant un ciel presque en feu, chauffant la surface de la planète à plus de 500 degrés. Même plusieurs mois après l'impact, la poussière de l'impact bloque la lumière du soleil. Et sans lumière, les plantes meurts.</p>
 
@@ -908,16 +959,11 @@ tags: technology
 
 <p>Ce petit animal se nourrit d'insectes et de fruits.</p>
 
-<p>Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale</p>
-<p>ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents</p>
-<p>sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.</p>
+<p>Le milieu de vie idéal d'un ancien primate est la forêt, chaude et humide (forêt tropicale ou jungle), un peu comme l'amazonie. Or on est à une époque où justement les continents sont remplis par ces forêts, ce qui permet facilement aux primates d'évoluer.</p>
 
-<p>Les fourmis deviennent des fermiers. Ils déplacent les feuilles pas pour les manger mais</p>
-<p>pour préserver et assurer un environnement dans lequel les petits champignons peuvent</p>
-<p>prospérer. Ces fourmis se nourissent de ces petits champignons.</p>
+<p>Les fourmis deviennent des fermiers. Ils déplacent les feuilles pas pour les manger mais pour préserver et assurer un environnement dans lequel les petits champignons peuvent prospérer. Ces fourmis se nourissent de ces petits champignons.</p>
 
-<p>Avec l'évolution, certains de ces petits champignons ne peuvent plus survivre sans</p>
-<p>l'intervention fermière des fourmis. Ils sont, en quelque sorte, domestiques.</p>
+<p>Avec l'évolution, certains de ces petits champignons ne peuvent plus survivre sans l'intervention fermière des fourmis. Ils sont, en quelque sorte, domestiques.</p>
 
 <p>L'agriculture fait donc partie du savoir-faire des fourmis.</p>
 
@@ -967,10 +1013,12 @@ tags: technology
 
 ## -7 000 000 d'années
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/REPkDlRMQNs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/origineHomme.mp4"/>
+</p>
 
-<p>Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement</p>
-<p>transforme lentement les singes en hominidé. Les traits principaux qui distinguent les hominidés d'un grand singe sont les suivants:</p>
+<p>Certains singes préfèrent marcher plutôt que grimper. Le climat de refroidissement transforme lentement les singes en hominidé. Les traits principaux qui distinguent les hominidés d'un grand singe sont les suivants:</p>
 
 <p>1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)</p>
 <p>2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)</p>
@@ -989,12 +1037,7 @@ tags: technology
 
 <p>La marche humaine est l'une des grandes merveilles sous-estimées du monde moderne. Aujourd'hui, les scientifiques sont capables de connaître la structure des particules subatomiques, détecter le grondement et le grincement des trous noirs, et même scruter les tout débuts de l'univers. Cependant, il n'existe aucun robot capable d'imiter la grâce naturelle d'un être humain ordinaire se promenant.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tF4DML7FIWk" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le</p>
-<p>centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire</p>
-<p>à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel</p>
-<p>le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.</p>
+<p>Un hominidé doit se déplacer en levant un pied du sol, en déplaçant brusquement le centre de masse, puis en corrigeant ceci avant qu'il ne tombe - et il doit le faire à chaque pas. Cela nécessite un degré tout à fait remarquable de contrôle, dans lequel le cerveau, les nerfs et les muscles fonctionnent parfaitement ensemble.</p>
 
 # - 4 000 000 d'années
 
@@ -1010,16 +1053,17 @@ tags: technology
 
 <p>Homo Habilis apparaît sur Terre. Comme Australopithecus, Homo Habilis provient de l'Est de l'Afrique. Sa taille est à peu prêt celle d'un humain de 10 ans (1m20 à 1m50). Homo Habilis est omnivore (il mange à la fois des végétaux et des animaux). Il est probable qu'il soit plus un charognard (qui consomme les cadavres d'autres animaux) qu'un chasseur. Homo Habilis peut utiliser un langage articulé pour s'exprimer et est la première espèce à pouvoir utiliser des pierres pour fabriquer des outils simples.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/DN1bUmqUgK4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/lameSilex.mp4"/>
+</p>
 
 <p>Pour fabriquer les plus simples outils en pierre, un bloc de roche dure aux propriétés mécaniques particulières, comme le silex, doit être frappé avec un percuteur également en pierre de façon à en détacher un éclat.</p>
-<p>Cette action produit un bord tranchant à la fois sur le bloc taillé et sur</p>
-<p>l'éclat qui en est détaché, tous deux pouvant être utilisés comme outils.</p>
+<p>Cette action produit un bord tranchant à la fois sur le bloc taillé et sur l'éclat qui en est détaché, tous deux pouvant être utilisés comme outils.</p>
 
 <p>Le silex est peut-être le tout premier objet fabriqué par l'homme.</p>
 
-<p>Ces premières utilisations de la pierre marquent le début du Paléolithique,</p>
-<p>qui s'achève avec le développement de l'agriculture il y a environ 12000 ans.</p>
+<p>Ces premières utilisations de la pierre marquent le début du Paléolithique, qui s'achève avec le développement de l'agriculture il y a environ 12000 ans.</p>
 
 # - 2 000 000 d'années
 
@@ -1027,16 +1071,18 @@ tags: technology
 
 ## - 1 800 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tH0Kt23_51M" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuHomoErectus.mp4"/>
+</p>
 
-<p>Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds</p>
-<p>afin notamment de chasser et d'épuiser ses proies, comme des gazelles ou des antilopes.</p>
+<p>Homo Erectus a la capacité de courir plus de 5 heures sans boire d'eau avec ses deux pieds afin notamment de chasser et d'épuiser ses proies, comme des gazelles ou des antilopes.</p>
 <p>Il n'a pas nécessairement besoin de courir à une vitesse fulgurante comme les guépards.</p>
 
-<p>C'est probablement cette pratique de la course à pied qui permet à Homo Erectus (et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des</p>
-<p>autres mammifères.</p>
+<p>C'est probablement cette pratique de la course à pied qui permet à Homo Erectus (et plus tard Homo Sapiens) de se débarrasser d'une bonne partie des poils de son corps, afin qu'il puisse transpirer plus facilement. Transpirer, sans poils, permet en effet de rafraichir son corps sans s'arrêter à l'ombre, comme peut le faire une bonne partie des autres mammifères.</p>
 
 <p>Grâce à cette pratique de la course à pied, Homo Erectus inaugure cette capacité de refroidir son corps incroyablement vite après un effort physique, grâce à la transpiration.</p>
+
 <p>Après un effort intense, Homo Erectus, comme, plus tard Homo Sapiens, est capable de produire plus de 3.7 litres d'eau de transpiration par heure dans des conditions extrêmes. Dans des conditions normales, on évacue plus d'1 litre d'eau de transpiration par heure.</p>
 
 <p>Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.</p>
@@ -1047,7 +1093,10 @@ tags: technology
 
 <p>De nouvelles méthodes de taille de la pierre apparaissent, se traduisant par la production d'outils plus complexes comme le biface.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/WE6P7aIIf3E" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/biface.mp4"/>
+</p>
 
 <p>Avec ces outils, les premiers Homo exécutent différentes tâches, dont la découpe de la viande, la fracture des os pour accéder à la moelle osseuse, la coupe du bois, l'ouverture des noix, le dépouillement des carcasses animales pour récupérer la peau.</p>
 
@@ -1063,7 +1112,7 @@ tags: technology
 
 # -900 000 années
 
-<p>Le niveau de la mer est beaucoup plus bas qu'aujourd'hui, en raison de l'accumulation de glace sur les calottes glaciaires polaires. Le climat de la Terre est plus froid qu'aujourd'hui, avec des périodes de glaciation qui ont eu lieu à intervalles réguliers. Les mammouths, les tigres à dents de sabre et les autres animaux de l'âge de glace sont répandus dans le monde entier.</p>
+<p>Le niveau de la mer est beaucoup plus bas qu'aujourd'hui, en raison de l'accumulation de glace sur les calottes glaciaires polaires. Le climat de la Terre est plus froid qu'aujourd'hui, avec des périodes de glaciation qui ont lieu à intervalles réguliers. Les mammouths, les tigres à dents de sabre et les autres animaux de l'âge de glace sont répandus dans le monde entier.</p>
 
 # -600 000 ans
 
@@ -1075,7 +1124,10 @@ tags: technology
 
 # - 450 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neandertal.mp4"/>
+</p>
 
 <p>Début des hommes de Néandertal. Ils peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).</p>
 
@@ -1089,24 +1141,19 @@ tags: technology
 
 <p>Voici comment la méthode Levallois est généralement appliquée:</p>
 
-<p>Préparation du noyau: Avant de pouvoir extraire un éclat, le noyau de pierre</p>
-<p>(la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé.</p>
-<p>Cela implique souvent d'enlever la croûte extérieure de la pierre et de former le noyau</p>
-<p>dans une forme convexe spécifique.</p>
+<p>Préparation du noyau: Avant de pouvoir extraire un éclat, le noyau de pierre (la pièce à partir de laquelle les éclats sont retirés) doit être soigneusement préparé.</p>
 
-<p>Création d'une plate-forme: Une fois le noyau préparé, une plate-forme de percussion est</p>
-<p>créée. C'est à partir de cette plate-forme que l'éclat sera retiré.</p>
+<p>Cela implique souvent d'enlever la croûte extérieure de la pierre et de former le noyau dans une forme convexe spécifique.</p>
 
-<p>Extraction de l'éclat: En utilisant un percuteur (souvent un autre morceau de pierre),</p>
-<p>l'artisan frappe la plate-forme de percussion avec une force et un angle précis. Si tout</p>
-<p>est fait correctement, un éclat de forme prévisible est retiré du noyau.</p>
+<p>Création d'une plate-forme: Une fois le noyau préparé, une plate-forme de percussion est créée. C'est à partir de cette plate-forme que l'éclat sera retiré.</p>
 
-<p>Réutilisation: Le noyau peut ensuite être retaillé et préparé pour retirer d'autres</p>
-<p>éclats à l'avenir.</p>
+<p>Extraction de l'éclat: En utilisant un percuteur (souvent un autre morceau de pierre), l'artisan frappe la plate-forme de percussion avec une force et un angle précis. Si tout est fait correctement, un éclat de forme prévisible est retiré du noyau.</p>
+
+<p>Réutilisation: Le noyau peut ensuite être retaillé et préparé pour retirer d'autres éclats à l'avenir.</p>
 
 <p>Les éclats Levallois tranchants peuvent être utilisés comme couteaux pour découper la viande. Une arme ou un outil bien conçu et tranchant augmente les chances de réussite à la chasse et facilite le traitement des animaux abattus.</p>
 
-<p>Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec la cuisine en effet on peut plus facilement mastiquer et digérer. Cuisiner est en quelque sorte le démarrage du process de digestion, avant même de mettre la nourriture dans son corps. Cuisiner permet aussi de tuer les poisons et les pathogènes.</p>
+<p>Avec le feu, les hommes de Néandertal ont l'idée de cuire la nourriture. Avec la cuisine en effet on peut plus facilement mastiquer et digérer. Cuisiner est en quelque sorte le démarrage du processus de digestion, avant même de mettre la nourriture dans son corps. Cuisiner permet aussi de tuer les poisons et les pathogènes.</p>
 
 ## - 350 000 ans
 
@@ -1138,15 +1185,11 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-Y4jLQBnz2M" frameborder="0" allowfullscreen></iframe></p>
 
-<p>En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et</p>
-<p>des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.</p>
+<p>En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.</p>
 
-<p>L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud,</p>
-<p>du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui</p>
-<p>auraient duré des années, voire des décennies.</p>
+<p>L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud, du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui auraient duré des années, voire des décennies.</p>
 
-<p>Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer</p>
-<p>une éruption.</p>
+<p>Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer une éruption.</p>
 
 # -70 000 ans
 
@@ -1160,9 +1203,7 @@ tags: technology
 
 # -50 000 ans
 
-<p>Début de l'art figuratif tel que les peintures rupestres (sur les rochers)</p>
-<p>et les objets sculptés. Les hominidés commencent à utiliser des techniques</p>
-<p>de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar et s'installent dans des zones géographiques plus variées, y compris les régions polaires et les déserts.</p>
+<p>Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés. Les hominidés commencent à utiliser des techniques de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar et s'installent dans des zones géographiques plus variées, y compris les régions polaires et les déserts.</p>
 
 ## -48 000 ans
 
@@ -1180,8 +1221,7 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/L5W7Ge_ZvJs" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Un groupe de Néandertaliens, les thorins, vit en Europe juste avant l’arrivée massive des Homo sapiens modernes. À cette époque, les Néandertaliens sont encore largement présents, mais ils vont bientôt disparaître. La population de Thorin est l’une des</p>
-<p>dernières générations néandertaliennes avant leur extinction.</p>
+<p>Un groupe de Néandertaliens, les thorins, vit en Europe juste avant l’arrivée massive des Homo sapiens modernes. La population de Thorin est l’une des dernières générations néandertaliennes avant leur extinction.</p>
 
 # -40 000 ans
 
@@ -1217,26 +1257,25 @@ tags: technology
 
 <p>Début de la civilisation gravettienne. Elle tire son nom du site de La Gravette, en Dordogne (France). Le Gravettien est une phase particulièrement riche du Paléolithique supérieur, témoignant d’une complexité sociale croissante, d’un symbolisme plus développé et d’adaptations écologiques fines, en particulier dans des environnements froids et périglaciaires.</p>
 
-<p>La civilisation gravettienne s’est développée à l’échelle de l’Europe entière, surtout dans les zones tempérées et steppiques pendant le Paléolithique supérieur. Elle ne forme pas un « empire » ou un État, mais plutôt une culture matérielle et symbolique partagée par différents groupes humains.</p>
+<p>La civilisation gravettienne se développe à l’échelle de l’Europe entière, surtout dans les zones tempérées et steppiques pendant le Paléolithique supérieur. Elle ne forme pas un « empire » ou un État, mais plutôt une culture matérielle et symbolique partagée par différents groupes humains.</p>
 
-<p>À l’époque de la civilisation gravettienne, le climat en Europe était froid, sec et instable, marqué par l’un des épisodes les plus rigoureux de la dernière période glaciaire : la glaciation de Würm.</p>
+<p>À l’époque de la civilisation gravettienne, le climat en Europe est froid, sec et instable, marqué par l’un des épisodes les plus rigoureux de la dernière période glaciaire : la glaciation de Würm.</p>
 
-<p>Les Gravettiens étaient des chasseurs-cueilleurs dont le mode de vie reposait sur une mobilité importante, dictée à la fois par les nécessités de survie et par des choix culturels. Dans un environnement marqué par le froid intense du Paléolithique supérieur, leur subsistance dépendait essentiellement de la chasse de grands mammifères comme le renne ou le mammouth laineux. Ces animaux migraient selon des routes saisonnières, si bien que les groupes humains devaient les suivre pour assurer un approvisionnement constant en viande, en os, en peaux et en graisse.</p>
+<p>Les Gravettiens sont des chasseurs-cueilleurs dont le mode de vie repose sur une mobilité importante, dictée à la fois par les nécessités de survie et par des choix culturels. Dans un environnement marqué par le froid intense du Paléolithique supérieur, leur subsistance dépend essentiellement de la chasse de grands mammifères comme le renne ou le mammouth laineux. Ces animaux migrent selon des routes saisonnières, si bien que les groupes humains doivent les suivre pour assurer un approvisionnement constant en viande, en os, en peaux et en graisse.</p>
 
-<p>Le climat rigoureux de cette époque — froid, sec et instable — imposait une adaptation constante. Les ressources naturelles n’étaient pas également réparties dans l’espace ni disponibles toute l’année. Certaines zones devenaient temporairement inhabitables à cause du vent, du gel ou de la raréfaction du gibier. Dans ces conditions, les Gravettiens devaient sans cesse se déplacer à la recherche de milieux plus favorables, où l’eau était plus accessible, où la chasse était possible, ou simplement où l’abri contre les éléments était meilleur.</p>
+<p>Le climat rigoureux de cette époque — froid, sec et instable — impose une adaptation constante. Les ressources naturelles ne sont pas également réparties dans l’espace ni disponibles toute l’année. Certaines zones deviennet temporairement inhabitables à cause du vent, du gel ou de la raréfaction du gibier. Dans ces conditions, les Gravettiens doivent sans cesse se déplacer à la recherche de milieux plus favorables, où l’eau est plus accessible, où la chasse est possible, ou simplement où l’abri contre les éléments est meilleur.</p>
 
-<p>Ces déplacements n’étaient pas nécessairement désorganisés. De nombreux indices suggèrent une occupation saisonnière de certains sites, auxquels les groupes revenaient régulièrement au fil des années. Ils mettaient ainsi en place un réseau de campements, parfois distants de plusieurs centaines de kilomètres les uns des autres, suivant les rythmes de la nature et de la faune.</p>
+<p>Ces déplacements ne sont pas nécessairement désorganisés. De nombreux indices suggèrent une occupation saisonnière de certains sites, auxquels les groupes reviennent régulièrement au fil des années. Ils mettent ainsi en place un réseau de campements, parfois distants de plusieurs centaines de kilomètres les uns des autres, suivant les rythmes de la nature et de la faune.</p>
 
-<p>Cette mobilité ne servait pas uniquement à la survie. Elle jouait aussi un rôle dans la diffusion culturelle. On retrouve, d’un bout à l’autre de l’Europe, des objets très similaires : outils en silex, parures en ivoire, et surtout les célèbres statuettes féminines, appelées « Vénus gravettiennes ». Ces ressemblances laissent penser que des contacts existaient entre groupes très éloignés, que ce soit par des déplacements directs ou via des réseaux d’échange. Des objets comme des coquillages marins retrouvés loin des côtes, ou des blocs de silex provenant de régions éloignées, prouvent l’existence de circulations sur des distances pouvant dépasser les 800 kilomètres.</p>
+<p>Cette mobilité ne sert pas uniquement à la survie. Elle joue aussi un rôle dans la diffusion culturelle. On retrouve, d’un bout à l’autre de l’Europe, des objets très similaires : outils en silex, parures en ivoire, et surtout les célèbres statuettes féminines, appelées « Vénus gravettiennes ». Ces ressemblances laissent penser que des contacts existent entre groupes très éloignés, que ce soit par des déplacements directs ou via des réseaux d’échange. Des objets comme des coquillages marins retrouvés loin des côtes, ou des blocs de silex provenant de régions éloignées, prouvent l’existence de circulations sur des distances pouvant dépasser les 800 kilomètres.</p>
 
-<p>Enfin, bien que les Gravettiens soient globalement nomades, certains sites archéologiques témoignent d’une forme de sédentarité relative. À Dolní Věstonice (Moravie) ou Kostenki (Russie), on a mis au jour des habitats élaborés, avec des foyers, des outils, des statuettes et des restes de structures parfois semi-enterrées. Ces lieux semblent avoir été occupés pendant plusieurs mois d'affilée, voire chaque année à la même période, suggérant un semi-nomadisme organisé et adapté aux conditions du monde glaciaire.</p>
+<p>Enfin, bien que les Gravettiens soient globalement nomades, certains sites archéologiques témoignent d’une forme de sédentarité relative. À Dolní Věstonice (Moravie) ou Kostenki (Russie), on met au jour des habitats élaborés, avec des foyers, des outils, des statuettes et des restes de structures parfois semi-enterrées. Ces lieux semblent occupés pendant plusieurs mois d'affilée, voire chaque année à la même période, suggérant un semi-nomadisme organisé et adapté aux conditions du monde glaciaire.</p>
 
 ## -26 000 ans
 
-<p>Homo Sapiens domestique le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire</p>
-<p>domestiquer.</p>
+<p>Homo Sapiens domestique le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.</p>
 
-<p>Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accordait autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.</p>
+<p>Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accorde autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.</p>
 
 ## -23 000 ans
 
@@ -1244,7 +1283,7 @@ tags: technology
 
 <p>Les outils de broyage et de mouture trouvés à Ohalo II témoignent des méthodes sophistiquées utilisées pour traiter ces graines, indiquant une compréhension approfondie de la préparation des aliments et une certaine forme de gestion des ressources végétales.</p>
 
-<p>La collecte de graines d'herbes sauvages à Ohalo II est significative car cela remet en question les théories selon lesquelles l'agriculture a commencé comme une invention soudaine ou une révolution rapide.</p>
+<p>La collecte de graines d'herbes sauvages à Ohalo II est significative car cela remet en question les théories selon lesquelles l'agriculture commence comme une invention soudaine ou une révolution rapide.</p>
 
 ## -21 000 ans
 
@@ -1258,26 +1297,7 @@ tags: technology
 
 <p>La Terre est en plein cœur de la dernière période glaciaire, avec des calottes glaciaires recouvrant une grande partie de l'Amérique du Nord, de l'Europe et de l'Asie. Les hominidés commencent à utiliser des techniques de tissage pour fabriquer des vêtements chauds, ce qui leur permet de mieux s'adapter aux conditions glaciaires.</p>
 
-<p>Invention de la poterie dans plusieurs sites en Asie de l'Est, notamment en Chine et au Japon, facilitant le stockage, la cuisson et le transport des aliments de manière plus efficace. Les premiers potiers sélectionnent des types d'argile locaux adaptés</p>
-<p>à la fabrication de poterie et peuvent également expérimenter avec différents</p>
-<p>additifs (comme du sable, des coquilles broyées ou des fibres organiques) pour</p>
-<p>améliorer les caractéristiques de l'argile, comme sa résistance au feu et sa capacité</p>
-<p>à minimiser le retrait et la fissuration lors du séchage et de la cuisson. L'argile</p>
-<p>est plastique lorsqu'elle est mouillée, ce qui permet de la modeler, mais elle devient</p>
-<p>dure et durable une fois cuite. Les premières poteries sont probablement façonnées à la</p>
-<p>main par des méthodes simples, telles que le modelage à la main, où l'argile est</p>
-<p>directement modelée pour former la forme souhaitée, ou la technique du colombin,</p>
-<p>qui implique de rouler l'argile en longs cordons qui sont ensuite empilés et lissés</p>
-<p>pour former les parois du récipient. Ces techniques ne nécessitent pas d'équipement</p>
-<p>complexe et sont adaptées à la production de petites quantités d'objets. Après le façonnage,</p>
-<p>les poteries sont laissées à sécher pour enlever l'excès d'humidité. Ce processus doit</p>
-<p>être géré soigneusement pour éviter que les objets ne se déforment ou ne fissurent. Puis</p>
-<p>il y a la cuisson qui est une étape cruciale et qui transforme l'argile modelée en une</p>
-<p>poterie dure et durable. Les premières poteries en Chine auraient pu être cuites dans</p>
-<p>des feux ouverts ou dans des fosses simples. La température doit être suffisamment élevée</p>
-<p>pour permettre la transformation chimique de l'argile, mais pas trop élevée au risque de</p>
-<p>faire fondre ou déformer les objets. Les températures de cuisson pour les poteries</p>
-<p>primitives varient généralement entre 600 et 800 degrés Celsius.</p>
+<p>Invention de la poterie dans plusieurs sites en Asie de l'Est, notamment en Chine et au Japon, facilitant le stockage, la cuisson et le transport des aliments de manière plus efficace. Les premiers potiers sélectionnent des types d'argile locaux adaptés à la fabrication de poterie et peuvent également expérimenter avec différents additifs (comme du sable, des coquilles broyées ou des fibres organiques) pour améliorer les caractéristiques de l'argile, comme sa résistance au feu et sa capacité à minimiser le retrait et la fissuration lors du séchage et de la cuisson. L'argile est plastique lorsqu'elle est mouillée, ce qui permet de la modeler, mais elle devient dure et durable une fois cuite. Les premières poteries sont probablement façonnées à la main par des méthodes simples, telles que le modelage à la main, où l'argile est directement modelée pour former la forme souhaitée, ou la technique du colombin, qui implique de rouler l'argile en longs cordons qui sont ensuite empilés et lissés pour former les parois du récipient. Ces techniques ne nécessitent pas d'équipement complexe et sont adaptées à la production de petites quantités d'objets. Après le façonnage, les poteries sont laissées à sécher pour enlever l'excès d'humidité. Ce processus doit être géré soigneusement pour éviter que les objets ne se déforment ou ne fissurent. Puis il y a la cuisson qui est une étape cruciale et qui transforme l'argile modelée en une poterie dure et durable. Les premières poteries en Chine auraient pu être cuites dans des feux ouverts ou dans des fosses simples. La température doit être suffisamment élevée pour permettre la transformation chimique de l'argile, mais pas trop élevée au risque de faire fondre ou déformer les objets. Les températures de cuisson pour les poteries primitives varient généralement entre 600 et 800 degrés Celsius.</p>
 
 ## -18 000 ans
 
@@ -1301,8 +1321,7 @@ tags: technology
 
 ## -12 000 ans
 
-<p>Fin du dernier âge glaciaire. La Terre sort de l'environnement glaciaire et entre dans une phase de réchauffement climatique propice au développement de la végétation: c'est ce qu'on appelle l'Holocène, l'ère géologique dans laquelle nous vivons encore. On dit alors que les humains du Mésolithique sont des chasseurs-cueilleurs, tant ils</p>
-<p>consomment de végétaux: glands, prunelles, noisettes, raisins, olives et merises - une version sauvage du cerisier. Tout n'était pas cultivé mais bien cueilli dans un milieu sauvage. Et c'est la même chose pour les champignons, non seulement comme aliments mais aussi comme plantes médicinales ou hallucinogènes.</p>
+<p>Fin du dernier âge glaciaire. La Terre sort de l'environnement glaciaire et entre dans une phase de réchauffement climatique propice au développement de la végétation: c'est ce qu'on appelle l'Holocène, l'ère géologique dans laquelle nous vivons encore. On dit alors que les humains du Mésolithique sont des chasseurs-cueilleurs, tant ils consomment de végétaux: glands, prunelles, noisettes, raisins, olives et merises - une version sauvage du cerisier. Tout n'était pas cultivé mais bien cueilli dans un milieu sauvage. Et c'est la même chose pour les champignons, non seulement comme aliments mais aussi comme plantes médicinales ou hallucinogènes.</p>
 
 <p>Trace des premiers villages.</p>
 
@@ -1312,9 +1331,7 @@ tags: technology
 
 <p>Les Natoufiens fabriquent des lames de faucille tranchantes pour couper les tiges des plantes sauvages, ce qui indique qu'ils récoltent activement des plantes. Ils utilisent aussi des outils pour broyer des grains et des pierres pour polir des outils. Cela montre une diversification de leurs activités et une certaine spécialisation dans la fabrication d'outils.</p>
 
-<p>En Iran, dans la région du Zagros, les gens commencent à pratiquer la protoagriculture,</p>
-<p>c'est-à-dire les premières formes d'agriculture, en cultivant des herbes sauvages et</p>
-<p>peut-être en commençant à domestiquer des plantes.</p>
+<p>En Iran, dans la région du Zagros, les gens commencent à pratiquer la protoagriculture, c'est-à-dire les premières formes d'agriculture, en cultivant des herbes sauvages et peut-être en commençant à domestiquer des plantes.</p>
 
 ## -11 000 ans
 
@@ -1322,74 +1339,38 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/brAf_1Q5-44" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie,</p>
-<p>la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture. La domestication</p>
-<p>du blé est un élément clé de cette transition.</p>
+<p>Dans un croissant qui s'incurve vers le nord d'Israël, de la Jordanie jusqu'à la Syrie, la Turquie et l'Irak, certains Homo Sapiens développent l'agriculture. La domestication du blé est un élément clé de cette transition.</p>
 
-<p>Les premiers agriculteurs sélectionnent les graines des plantes de blé sauvage qui</p>
-<p>présentent des caractéristiques souhaitables, comme une plus grande taille de grain,</p>
-<p>une meilleure résistance aux maladies ou une plus grande facilité de récolte.</p>
-<p>Ils plantent ensuite ces graines pour cultiver de nouvelles plantes, commençant</p>
-<p>ainsi le processus de domestication. Au fil du temps, ce processus de sélection</p>
-<p>conduit à des changements génétiques dans les organismes domestiqués, les rendant</p>
-<p>différents de leurs ancêtres sauvages. Ces changements dans les caractéristiques du</p>
-<p>blé sont le résultat de la sélection artificielle exercée par les humains lors de la</p>
-<p>domestication.</p>
+<p>Les premiers agriculteurs sélectionnent les graines des plantes de blé sauvage qui présentent des caractéristiques souhaitables, comme une plus grande taille de grain, une meilleure résistance aux maladies ou une plus grande facilité de récolte.</p>
+<p>Ils plantent ensuite ces graines pour cultiver de nouvelles plantes, commençant ainsi le processus de domestication. Au fil du temps, ce processus de sélection conduit à des changements génétiques dans les organismes domestiqués, les rendant différents de leurs ancêtres sauvages. Ces changements dans les caractéristiques du blé sont le résultat de la sélection artificielle exercée par les humains lors de la domestication.</p>
 
-<p>Les premiers agriculteurs labourent la terre à l'aide d'outils rudimentaires faits de</p>
-<p>bois, de pierre ou d'os. Ces outils sont utilisés pour creuser des trous ou des sillons</p>
-<p>dans le sol, dans lesquels les graines sont plantées. Le labour sert également à retourner</p>
-<p>et à aérer le sol, favorisant ainsi la croissance des plantes.</p>
+<p>Les premiers agriculteurs labourent la terre à l'aide d'outils rudimentaires faits de bois, de pierre ou d'os. Ces outils sont utilisés pour creuser des trous ou des sillons dans le sol, dans lesquels les graines sont plantées. Le labour sert également à retourner et à aérer le sol, favorisant ainsi la croissance des plantes.</p>
 
-<p>Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou</p>
-<p>en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer</p>
-<p>que les graines sont suffisamment espacées pour permettre à chaque plante de croître et</p>
-<p>de se développer.</p>
+<p>Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer que les graines sont suffisamment espacées pour permettre à chaque plante de croître et de se développer.</p>
 
 # -10 000 ans
 
-<p>Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité rapace. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.</p>
+<p>Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.</p>
 
 <p>Les habitants de Ganj-i Dareh en Iran commencent à élever des chèvres. Cela représente l'un des premiers exemples connus d'élevage domestique de chèvres. Les chèvres sont domestiquées pour leur viande et leur pelage. Cette domestication des chèvres marque une étape importante dans le développement de l'agriculture et de l'élevage, car elle représente une transition vers des modes de vie sédentaires et une production alimentaire plus contrôlée et durable.</p>
 
 ## -9 000 ans
 
-<p>Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le</p>
-<p>lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.</p>
+<p>Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/jericho.jpg)</p>
 
-<p>Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme</p>
-<p>l'une des plus anciennes villes habitées en continu. Les habitants vivent dans des</p>
-<p>huttes circulaires en terre et en chaume. C'est l'une des premières preuves de</p>
-<p>sédentarisation, où les chasseurs-cueilleurs commencent à adopter un mode de vie</p>
-<p>agricole. Les premières traces d'habitat à Jéricho sont attribuées aux Natoufiens,</p>
-<p>une culture de chasseurs-cueilleurs qui adoptent progressivement l'agriculture.</p>
+<p>Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme l'une des plus anciennes villes habitées en continu. Les habitants vivent dans des huttes circulaires en terre et en chaume. C'est l'une des premières preuves de sédentarisation, où les chasseurs-cueilleurs commencent à adopter un mode de vie agricole. Les premières traces d'habitat à Jéricho sont attribuées aux Natoufiens, une culture de chasseurs-cueilleurs qui adoptent progressivement l'agriculture.</p>
 
-<p>En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant</p>
-<p>la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine</p>
-<p>ne représente pas seulement un tournant dans l'histoire de l'agriculture et de</p>
-<p>l'alimentation humaine, mais elle a également un impact profond sur le développement</p>
-<p>social, économique et culturel des sociétés néolithiques et des civilisations ultérieures</p>
-<p>en Asie.</p>
+<p>En Chine, des communautés néolithiques pratiquent une agriculture mixte, combinant la culture du riz avec d'autres formes de subsistance. La domestication du riz en Chine ne représente pas seulement un tournant dans l'histoire de l'agriculture et de l'alimentation humaine, mais elle a également un impact profond sur le développement social, économique et culturel des sociétés néolithiques et des civilisations ultérieures en Asie.</p>
 
-<p>Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz,</p>
-<p>souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides,</p>
-<p>où l'eau peut être facilement dirigée vers les champs de riz. Le riz peut être semé</p>
-<p>directement dans les champs inondés.</p>
+<p>Les premiers agriculteurs sélectionnent des terrains propices à la culture du riz, souvent près de sources d'eau douce comme les rivières, les lacs ou les zones humides, où l'eau peut être facilement dirigée vers les champs de riz. Le riz peut être semé directement dans les champs inondés.</p>
 
-<p>La gestion de l'eau est cruciale pour la réussite de la culture du riz. Les agriculteurs</p>
-<p>doivent contrôler le niveau d'eau dans les champs pour favoriser la croissance du riz</p>
-<p>tout en prévenant la stagnation de l'eau et la pourriture des racines.</p>
+<p>La gestion de l'eau est cruciale pour la réussite de la culture du riz. Les agriculteurs doivent contrôler le niveau d'eau dans les champs pour favoriser la croissance du riz tout en prévenant la stagnation de l'eau et la pourriture des racines.</p>
 
-<p>Après la récolte, le riz est battu pour séparer les grains de la balle, puis vanné pour</p>
-<p>enlever la balle et les impuretés. Ce processus peut être réalisé à l'aide de paniers</p>
-<p>ou de tamis.</p>
+<p>Après la récolte, le riz est battu pour séparer les grains de la balle, puis vanné pour enlever la balle et les impuretés. Ce processus peut être réalisé à l'aide de paniers ou de tamis.</p>
 
-<p>Les grains de riz sont stockés dans des greniers ou d'autres structures élevées pour</p>
-<p>les protéger de l'humidité et des rongeurs. Le stockage adéquat est essentiel pour</p>
-<p>assurer la disponibilité de nourriture tout au long de l'année et pour préserver les</p>
-<p>semences pour la prochaine saison de plantation.</p>
+<p>Les grains de riz sont stockés dans des greniers ou d'autres structures élevées pour les protéger de l'humidité et des rongeurs. Le stockage adéquat est essentiel pour assurer la disponibilité de nourriture tout au long de l'année et pour préserver les semences pour la prochaine saison de plantation.</p>
 
 <p>La culture du riz dans les époques anciennes est donc un processus qui nécessite une connaissance approfondie de l'environnement, des compétences en gestion de l'eau et un travail communautaire organisé. Ces pratiques agricoles permettent non seulement de soutenir les populations croissantes, mais jouent également un rôle dans le développement des sociétés agraires et la formation de civilisations complexes.</p>
 
@@ -1401,27 +1382,16 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/5zUB4BXA6Q4" frameborder="0" allowfullscreen></iframe></p>
 
-<p>En Mésopotamie, considérée comme l'un des berceaux de la civilisation, les premières</p>
-<p>villes commencent à se former. Çatalhöyük en Anatolie (Turquie moderne) est un exemple</p>
-<p>de ces premiers établissements urbains. Çatalhöyük est remarquable par son absence</p>
-<p>apparente de rues. Les maisons sont construites très près les unes des autres, et les</p>
-<p>habitants se déplacent probablement en marchant sur les toits de ces maisons, entrant</p>
-<p>par des ouvertures dans le toit qui servent également de portes et de fenêtres.</p>
+<p>En Mésopotamie, considérée comme l'un des berceaux de la civilisation, les premières villes commencent à se former. Çatalhöyük en Anatolie (Turquie moderne) est un exemple de ces premiers établissements urbains. Çatalhöyük est remarquable par son absence apparente de rues. Les maisons sont construites très près les unes des autres, et les habitants se déplacent probablement en marchant sur les toits de ces maisons, entrant par des ouvertures dans le toit qui servent également de portes et de fenêtres.</p>
 
-<p>Les maisons à Çatalhöyük sont principalement en briques crues (adobe) et ont des formes</p>
-<p>rectangulaires. Elles sont souvent reconstruites sur les ruines des anciennes, créant</p>
-<p>ainsi une série de couches archéologiques superposées.</p>
+<p>Les maisons à Çatalhöyük sont principalement en briques crues (adobe) et ont des formes rectangulaires. Elles sont souvent reconstruites sur les ruines des anciennes, créant ainsi une série de couches archéologiques superposées.</p>
 
-<p>Les habitants de Çatalhöyük sont principalement des agriculteurs et des éleveurs, mais</p>
-<p>ils pratiquent également la chasse et la cueillette. Ils cultivent des céréales comme</p>
-<p>le blé et l'orge et élevent des animaux comme les moutons et les chèvres.</p>
+<p>Les habitants de Çatalhöyük sont principalement des agriculteurs et des éleveurs, mais ils pratiquent également la chasse et la cueillette. Ils cultivent des céréales comme le blé et l'orge et élevent des animaux comme les moutons et les chèvres.</p>
 
-<p>Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures</p>
-<p>et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles.</p>
+<p>Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles.</p>
 <p>Des représentations de déesses-mères, d'animaux et de scènes de chasse sont courantes.</p>
 
-<p>Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes</p>
-<p>telles que des perles ou des outils.</p>
+<p>Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes telles que des perles ou des outils.</p>
 
 ## -7 000 ans
 
@@ -1429,32 +1399,18 @@ tags: technology
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/briquecuite.jpg)</p>
 
-<p>Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui),</p>
-<p>l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de</p>
-<p>construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre</p>
-<p>crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).</p>
+<p>Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui), l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre  crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).</p>
 
 ## -6 000 ans
 
-<p>En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la</p>
-<p>plante la plus ancienne à avoir été domestiquée.</p>
+<p>En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.</p>
 
 <p>Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité.</p>
-<p>Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid ou</p>
-<p>à chaud en divers outils, armes, et ornements.</p>
+<p>Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid ou à chaud en divers outils, armes, et ornements.</p>
 
-<p>En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant</p>
-<p>une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont</p>
-<p>simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources</p>
-<p>vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans</p>
-<p>une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation</p>
-<p>soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la</p>
-<p>productivité agricole et soutenant le développement des premières civilisations sédentaires.</p>
+<p>En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.</p>
 
-<p>Premières traces de production découvertes de vin dans les régions qui correspondent</p>
-<p>aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de</p>
-<p>vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des</p>
-<p>poteries contenant des résidus de vin.</p>
+<p>Premières traces de production découvertes de vin dans les régions qui correspondent aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des poteries contenant des résidus de vin.</p>
 
 # -5000 ans
 
@@ -1462,12 +1418,9 @@ tags: technology
 
 ## Mésopotamie
 
-<p>Les premières traces de bière sont présentes dans l'ancienne Mésopotamie, située dans</p>
-<p>l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont</p>
-<p>souvent considérés comme les pionniers de la bière.</p>
+<p>Les premières traces de bière sont présentes dans l'ancienne Mésopotamie, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.</p>
 
-<p>Première fusion du métal : le Cuivre. La métallurgie du cuivre apparaît d’abord au</p>
-<p>Proche-Orient, notamment en Anatolie (Turquie actuelle), en Iran et en Mésopotamie.</p>
+<p>Première fusion du métal : le Cuivre. La métallurgie du cuivre apparaît d’abord au Proche-Orient, notamment en Anatolie (Turquie actuelle), en Iran et en Mésopotamie.</p>
 
 ## Kazakhstan
 
@@ -1475,17 +1428,11 @@ tags: technology
 
 ### Chine
 
-<p>Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao,</p>
-<p>centrée sur le fleuve Jaune devient proéminente. Elle est connue pour sa</p>
-<p>poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période</p>
-<p>marque une étape importante dans le développement de l'agriculture et des sociétés</p>
-<p>sédentaires.</p>
+<p>Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao, centrée sur le fleuve Jaune devient proéminente. Elle est connue pour sa poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période marque une étape importante dans le développement de l'agriculture et des sociétés sédentaires.</p>
 
 ### Europe
 
-<p>En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction</p>
-<p>de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures</p>
-<p>ont probablement des significations culturelles ou religieuses.</p>
+<p>En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures ont probablement des significations culturelles ou religieuses.</p>
 
 ### Egypte
 
@@ -1515,8 +1462,7 @@ tags: technology
 
 # -4300 ans
 
-<p>Invention du calendrier égyptien. Il est considéré comme l'un des plus anciens calendriers connus et sert de modèle pour le calendrier julien et grégorien. Il est conçu pour prédire les crues du Nil, un phénomène vital pour l’agriculture. En effet, cette inondation est vitale pour fertiliser les terres agricoles grâce aux limons déposés sur les champs. Ce phénomène est si régulier que les Égyptiens l’utilisent pour fixer leur nouvel an. Mais</p>
-<p>cette inondation n’est pas seulement un phénomène naturel, mais un véritable « renouveau », garantissant prospérité et fertilité pour l’année à venir.</p>
+<p>Invention du calendrier égyptien. Il est considéré comme l'un des plus anciens calendriers connus et sert de modèle pour le calendrier julien et grégorien. Il est conçu pour prédire les crues du Nil, un phénomène vital pour l’agriculture. En effet, cette inondation est vitale pour fertiliser les terres agricoles grâce aux limons déposés sur les champs. Ce phénomène est si régulier que les Égyptiens l’utilisent pour fixer leur nouvel an. Mais cette inondation n’est pas seulement un phénomène naturel, mais un véritable « renouveau », garantissant prospérité et fertilité pour l’année à venir.</p>
 
 # -4000 ans
 
@@ -1524,20 +1470,11 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XUUH13_cZSE" frameborder="0" allowfullscreen></iframe></p>
 
-<p>La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de</p>
-<p>l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et</p>
-<p>pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon</p>
-<p>mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément</p>
-<p>la civilisation mésopotamienne.</p>
+<p>La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément la civilisation mésopotamienne.</p>
 
-<p>La Mésopotamie, riche en argile mais pauvre en autres ressources naturelles, échangent</p>
-<p>ses produits agricoles et artisanaux contre des matériaux et des biens de luxe d'autres</p>
-<p>régions.</p>
+<p>La Mésopotamie, riche en argile mais pauvre en autres ressources naturelles, échangent ses produits agricoles et artisanaux contre des matériaux et des biens de luxe d'autres régions.</p>
 
-<p>Les Sumériens développent la voile pour améliorer le transport fluvial et maritime.</p>
-<p>L'utilisation de la voile leur permet d'exploiter la force du vent pour naviguer plus</p>
-<p>efficacement sur les rivières et les mers, facilitant ainsi le commerce et les échanges</p>
-<p>entre différentes régions, ainsi que la pêche et l'exploration de nouvelles terres.</p>
+<p>Les Sumériens développent la voile pour améliorer le transport fluvial et maritime. L'utilisation de la voile leur permet d'exploiter la force du vent pour naviguer plus efficacement sur les rivières et les mers, facilitant ainsi le commerce et les échanges entre différentes régions, ainsi que la pêche et l'exploration de nouvelles terres.</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vCad77_c-LU" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1573,23 +1510,15 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/77fYAVBAshs" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Les Sumériens inventent la roue, probablement utilisée dans la poterie pour créer des</p>
-<p>objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et</p>
-<p>aux véhicules pour faciliter le déplacement des biens et des personnes.</p>
+<p>Les Sumériens inventent la roue, probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.</p>
 
-<p>Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue.</p>
-<p>L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole.</p>
-<p>En retournant le sol, la charrue permet une meilleure aération et préparation du terrain</p>
-<p>pour la plantation, contribuant significativement à l'augmentation de la production</p>
-<p>agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.</p>
+<p>Les Sumériens sont aussi considérés comme les premiers à avoir utilisé la charrue. L'invention de la charrue est motivée par le besoin d'augmenter l'efficacité agricole. En retournant le sol, la charrue permet une meilleure aération et préparation du terrain pour la plantation, contribuant significativement à l'augmentation de la production agricole et à la soutenabilité des communautés sédentaires en Mésopotamie.</p>
 
-<p>Leur civilisation prospère principalement dans le sud de la Mésopotamie, dans une région</p>
-<p>connue sous le nom de Sumer (incluant des villes comme Ur, Uruk, et Eridu).</p>
+<p>Leur civilisation prospère principalement dans le sud de la Mésopotamie, dans une région connue sous le nom de Sumer (incluant des villes comme Ur, Uruk, et Eridu).</p>
 
 ## Egypte
 
-<p>Invention des houes en bois avec renforts. Durant la Période prédynastique, des améliorations apparaissent avec l’ajout de lanières en cuir pour fixer la lame</p>
-<p>en bois. Ce modèle est mieux adapté aux terres inondées par le Nil.</p>
+<p>Invention des houes en bois avec renforts. Durant la Période prédynastique, des améliorations apparaissent avec l’ajout de lanières en cuir pour fixer la lame en bois. Ce modèle est mieux adapté aux terres inondées par le Nil.</p>
 
 <p>Des découvertes archéologiques, notamment dans la tombe du roi Scorpion Ier à Abydos, révèlent des jarres contenant des résidus de vin, attestant de l'importation de vin depuis le Levant.</p>
 
@@ -1603,10 +1532,7 @@ tags: technology
 
 ### Mésopotamie
 
-<p>Les Sumériens utilisent massivement le bronze, principalement pour ses avantages dans</p>
-<p>la fabrication d'armes et d'outils plus résistants que ceux en cuivre. Le bronze est</p>
-<p>fabriqué par l'alliage de cuivre avec un peu d'étain, ce qui lui confère une plus</p>
-<p>grande dureté et une meilleure capacité à retenir un tranchant affûté.</p>
+<p>Les Sumériens utilisent massivement le bronze, principalement pour ses avantages dans la fabrication d'armes et d'outils plus résistants que ceux en cuivre. Le bronze est fabriqué par l'alliage de cuivre avec un peu d'étain, ce qui lui confère une plus grande dureté et une meilleure capacité à retenir un tranchant affûté.</p>
 
 ### Inde
 
@@ -1688,12 +1614,7 @@ tags: technology
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/pyramide.jpg)</p>
 
-<p>Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes</p>
-<p>et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops.</p>
-<p>Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà,</p>
-<p>selon les croyances égyptiennes. Sa construction reflète les avancées techniques et</p>
-<p>l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables</p>
-<p>et démontrant l'importance de la vie après la mort dans la culture égyptienne.</p>
+<p>Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.</p>
 
 <p>Les premières traces d'olives en Égypte remontent à la IVᵉ dynastie (vers 2551-2523 av. J.-C.), où des branches d'olivier sont importées, probablement du Levant, et utilisées lors de cérémonies religieuses et comme offrandes funéraires. En raison de la rareté de la production locale et de la nécessité d'importer, l'huile d'olive est considérée comme un produit de luxe, principalement réservé aux élites et aux cérémonies religieuses.</p>
 
@@ -1703,18 +1624,13 @@ tags: technology
 
 # -2334 ans
 
-<p>La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par</p>
-<p>Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire,</p>
-<p>unifiant les cités-états sumériennes sous son règne et étend son influence à travers</p>
-<p>une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important,</p>
-<p>mais le sumérien reste très pratiqué dans les cités de Sumer.</p>
+<p>La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important, mais le sumérien reste très pratiqué dans les cités de Sumer.</p>
 
 # -2100 ans
 
 ### Mésopotamie
 
-<p>Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur. On parle parfois de période néo-sumérienne pour désigner cette phase succédant à l'empire d'Akkad, qui voit un essor de la littérature en sumérien (hymnes, prières, mythes, épopées). C'est la IIIᵉ dynastie d’Ur, fondée par le roi Ur-Nammu.</p>
-<p>Elle devient un centre religieux, commercial et administratif majeur.</p>
+<p>Les Sumériens connaissent une renaissance culturelle et politique avec la troisième dynastie d'Ur. On parle parfois de période néo-sumérienne pour désigner cette phase succédant à l'empire d'Akkad, qui voit un essor de la littérature en sumérien (hymnes, prières, mythes, épopées). C'est la IIIᵉ dynastie d’Ur, fondée par le roi Ur-Nammu. Elle devient un centre religieux, commercial et administratif majeur.</p>
 
 <p>Selon la Bible (Genèse 11:31), Abraham serait né à "Ur des Chaldéens", et aurait quitté la ville sur ordre de Dieu pour se rendre en Canaan (Palestine actuelle), mais son lien historique reste débattu. C'est le premier qui commence à croire en un seul Dieu.</p>
 
@@ -1722,30 +1638,17 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/pYkdudibadY" frameborder="0" allowfullscreen></iframe></p>
 
-<p>L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues,</p>
-<p>originaire de la Mésopotamie ancienne, une région correspondant principalement à</p>
-<p>l'Irak moderne.</p>
+<p>L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues, originaire de la Mésopotamie ancienne, une région correspondant principalement à l'Irak moderne.</p>
 
-<p>Cette épopée sumérienne est écrite en sumérien et en akkadien sur des tablettes d'argile,</p>
-<p>un matériau abondant et durable. Les Mésopotamiens utilisent des roseaux pour écrire en</p>
-<p>cunéiforme sur les tablettes d'argile humide, qui sont ensuite séchées ou cuites pour</p>
-<p>durcir. Ces tablettes, lorsqu'elles sont enfouies, peuvent survivre des millénaires. Les</p>
-<p>différentes versions et fragments trouvés sur des tablettes montrent que l'histoire est</p>
-<p>enrichie et modifiée au fil du temps.</p>
+<p>Cette épopée sumérienne est écrite en sumérien et en akkadien sur des tablettes d'argile, un matériau abondant et durable. Les Mésopotamiens utilisent des roseaux pour écrire en cunéiforme sur les tablettes d'argile humide, qui sont ensuite séchées ou cuites pour durcir. Ces tablettes, lorsqu'elles sont enfouies, peuvent survivre des millénaires. Les différentes versions et fragments trouvés sur des tablettes montrent que l'histoire est enrichie et modifiée au fil du temps.</p>
 
-<p>Dans la tradition mésopotamienne, les rois sont souvent vus comme des représentants des</p>
-<p>dieux sur terre. Gilgamesh, qui est à la fois un personnage historique et mythologique,</p>
-<p>est considéré comme deux tiers divin et un tiers humain, selon l'épopée.</p>
+<p>Dans la tradition mésopotamienne, les rois sont souvent vus comme des représentants des dieux sur terre. Gilgamesh, qui est à la fois un personnage historique et mythologique, est considéré comme deux tiers divin et un tiers humain, selon l'épopée.</p>
 
-<p>Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIXème siècle en</p>
-<p>les comparant à d'autres langues anciennes.</p>
+<p>Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIXème siècle en les comparant à d'autres langues anciennes.</p>
 
-<p>L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs</p>
-<p>ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur</p>
-<p>et à la complexité de l'histoire.</p>
+<p>L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur et à la complexité de l'histoire.</p>
 
-<p>Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun</p>
-<p>relatant différentes aventures du roi Gilgamesh.</p>
+<p>Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.</p>
 
 # -2000 ans
 
@@ -1777,75 +1680,35 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rxG6jJrSFl0" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Babylone, située au centre de la Basse Mésopotamie, est initialement une cité mineure</p>
-<p>sous domination des Sumériens et des Akkadiens.</p>
+<p>Babylone, située au centre de la Basse Mésopotamie, est initialement une cité mineure sous domination des Sumériens et des Akkadiens.</p>
 
 # -1800 ans
 
 ### Mésopotamie
 
-<p>Avec le temps, les histoires de Gilgamesh sont compilées et traduites en akkadien.</p>
-<p>La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente</p>
-<p>et structurée.</p>
+<p>Avec le temps, les histoires de Gilgamesh sont compilées et traduites en akkadien. La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente et structurée.</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/ninkasi.jpg)</p>
 
-<p>La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur</p>
-<p>de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi,</p>
-<p>décrit en détail le processus de brassage de la bière.</p>
+<p>La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi, décrit en détail le processus de brassage de la bière.</p>
 
 ### Egypte
 
-<p>Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à</p>
-<p>cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système</p>
-<p>d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue.</p>
-<p>Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre</p>
-<p>le son entier d'une image mais le début du son d'une image. Par exemple, en voyant</p>
-<p>l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple</p>
-<p>migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf"</p>
-<p>ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier</p>
-<p>son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis</p>
-<p>avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire.</p>
-"A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les
-<p>lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens. La maison en hiéroglyphe</p>
-<p>représente la lettre "B". L'eau en hiéroglyphe est devenue "M". Le serpent est devenu "N"</p>
-<p>en latin. On comprend que l'alphabet oublie un peu les images pour principalement se</p>
-<p>concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant</p>
-<p>pour dire si une image peut être lisible comme un simple son ou comme une image. Certains</p>
-<p>peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens,</p>
-<p>d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours</p>
-<p>besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.</p>
+<p>Des travailleurs migrants du monde asiatique cohabitent avec les Egyptiens. C'est à cette occasion que ces travailleurs ont l'idée de mettre au point un nouveau système d'écriture en imitant l'écriture Egyptienne, mais en adaptant à leur propre langue. Ce nouveau système d'écriture s'appelle "Alphabet". L'alphabet n'est pas de prendre le son entier d'une image mais le début du son d'une image. Par exemple, en voyant l'image du hiéroglyphe d'un taureau (qui représente le Dieu de leur tribu), ce peuple migrant travailleur traduit cette image dans leur propre langage, c'est-à-dire "Alouf" ou "Alif". Puis ce petit groupe d'Homo Sapiens coupe cette image en utilisant le premier son, c'est-à-dire "A". Le son "A" est au début très proche de l'image du taureau, puis avec le temps, on arrive au "A" latin, c'est-à-dire celui que je suis en train d'écrire. "A" dort toujours dans le hiérogriphe Egyptien du taureau. Au final, presque toutes les lettres de l'alphabet sont dérivées des hiéroglyphes Egyptiens. La maison en hiéroglyphe représente la lettre "B". L'eau en hiéroglyphe est devenue "M". Le serpent est devenu "N" en latin. On comprend que l'alphabet oublie un peu les images pour principalement se concentrer sur les sons. Il n'y a donc pas besoin, contrairement au chinois, de déterminant pour dire si une image peut être lisible comme un simple son ou comme une image. Certains peuvent dire que c'est un avantage pour simplifier la communication entre Homo Sapiens, d'autres peuvent soutenir qu'on néglige l'imaginaire humain, qui a peut-être toujours besoin d'images afin de pouvoir exprimer plus clairement certaines pensées.</p>
 
-<p>A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il</p>
-<p>existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī,</p>
-<p>le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux</p>
-<p>mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.</p>
+<p>A noter que l'Alphabet latin n'est qu'un seul alphabet mais n'est pas l'Alphabet. Il existe l'hébreu, l'arménien, le cyrillique, le tibétain, le devanagari, le gujarātī, le koréen, l'arabe... La connexion entre ces alphabets ne saute peut-être pas aux yeux mais elle est bien réelle. Cette nouvelle façon d'écrire va se globaliser très vite.</p>
 
-<p>La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre</p>
-<p>d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose</p>
-<p>à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens,</p>
-<p>on n'a pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire</p>
-<p>ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une</p>
-<p>énorme invention.</p>
+<p>La grande invention de l'alphabet, c'est qu'on peut en réalité réduire le nombre d'images, parce qu'on a les sons simples dont on a besoin. Pour écrire quelque chose à l'aide du langage des migrants asiatiques qui travaillent avec les Egyptiens, on n'a pas besoin de plus de 30 images des hiéroglyphes Egyptiens. On peut écrire ce qu'on veut qu'à l'aide de 30 sons, voir même 25 sons. L'alphabet est aussi une énorme invention.</p>
 
-<p>Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre</p>
-<p>d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.</p>
+<p>Cet alphabet rend cette écriture bien plus accessible à un plus grand nombre d'Homo Sapiens. On arrive ici au tout début de la démocratisation de l'écriture.</p>
 
-<p>Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens,</p>
-<p>peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer</p>
-<p>et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il</p>
-<p>fut adopté par les Grecs, puis les Romains.</p>
+<p>Cette troupe de travailleurs rapporte leur invention avec eux. Les Phéniciens, peuple se constituant essentiellement de commerçants et de marins, vont s'en emparer et diffusent l'Alphabet à travers tout le Moyen-Orient et la méditerranée, là où il fut adopté par les Grecs, puis les Romains.</p>
 
 <p>Ecriture du Conte du Naufragé. C'est l'histoire d'un marin qui échappe à un naufrage et découvre une île mystérieuse où un serpent géant lui raconte une histoire avant de le laisser rentrer en Égypte.</p>
 
-<p>Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états</p>
-<p>assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de</p>
-<p>la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.</p>
+<p>Empire assyrien ancien. Shamshi-Adad I, réussi à unifier plusieurs cités-états assyriennes. Cette période est caractérisée par la consolidation du pouvoir autour de la ville d'Assur et d'autres centres importants comme Nimrud (Kalhu) et Nineveh.</p>
 
-<p>Apparition des premières tablettes de présages astrologiques, appelées Enuma Anu Enlil.</p>
-<p>Ce texte compile plus de 7 000 présages reliant les phénomènes célestes aux événements</p>
-<p>terrestres. L’astrologie est encore très liée à la divination et aux rois : elle sert</p>
-<p>principalement à prédire l’avenir des souverains et des États.</p>
+<p>Apparition des premières tablettes de présages astrologiques, appelées Enuma Anu Enlil. Ce texte compile plus de 7 000 présages reliant les phénomènes célestes aux événements terrestres. L’astrologie est encore très liée à la divination et aux rois : elle sert principalement à prédire l’avenir des souverains et des États.</p>
 
 # -1700 ans
 
