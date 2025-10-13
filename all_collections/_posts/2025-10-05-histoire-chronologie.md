@@ -9,11 +9,6 @@ tags: technology
 
 # -14 000 000 000 d'années
 
-<p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/bigBang.mp4"/>
-</p>
-
 <p style="text-align:center"><img src="{{ '/assets/img/bigbang.png' | relative_url }}" alt="Big Bang" /></p>
 
 <p>Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.</p>
