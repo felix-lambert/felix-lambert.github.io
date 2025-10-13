@@ -64,7 +64,7 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4"/>
 </p>
 
-<p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).</p></p>
+<p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).</p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400">
@@ -73,8 +73,6 @@ tags: technology
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Gif 2" width="400">
 </p>
-
-<p>L'hydrogène, l'hélium et un peu de lithium permettent de former un gaz, un nuage, très léger dans l'univers (notre galaxie la voie lactée par exemple est essentiellement composée de ce gaz) grâce à la gravité (force gravitationnelle).</p>
 
 <p style="text-align: center;">
   <video
@@ -88,9 +86,7 @@ tags: technology
   </video>
 </p>
 
-<p>De temps à autre, l'hydrogène et l'hélium se compriment tellement, qu'ils chauffent jusqu'à atteindre 10 millions de degrés. Ils déclenchent alors, grâce à la force nucléaire faible, ce qu'on appelle une fusion nucléaire (thermonucléaire) c'est-à-dire un travail dans lequel deux noyaux atomiques s’assemblent pour former un noyau plus lourd. Plus la
-<p>température est élevée, plus les atomes qui composent l'astre se déplacent rapidement; et quand la température monte à plus de cinq millions de degrés, les atomes d'hydrogène se déplacent si vite qu'ils ne rebondissent plus les uns sur les autres lorsqu'ils entrent</p>
-<p>en collision, mais se lient à la place en atomes d'hélium. Ce processus de fusion nucléaire libère de l'énergie et l'objet brille - et c'est ce que nous appelons une "étoile".</p></p>
+<p>Quand un grand nuage d’hydrogène se contracte sous son propre poids, il devient de plus en plus chaud. À environ dix millions de degrés, les atomes d’hydrogène se heurtent si fort qu’ils s’assemblent pour former de l’hélium.Cette réaction s’appelle la fusion nucléaire. Elle libère énormément d’énergie : c’est cette énergie qui fait briller l’étoile.</p>
 
 <p>Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.</p>
 
@@ -213,7 +209,7 @@ tags: technology
 
 # -6 000 000 000 d'années
 
-<p>Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxième plus grande galaxie de notre cluster: le Groupe Local.</p>
+<p>Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxième plus grande galaxie de notre cluster: le Groupe Local. La plus grande galaxie de notre groupe local s’appelle Andromède. C’est une immense galaxie spirale, un peu comme la Voie lactée, mais environ deux fois plus grande.</p>
 
 <p>L'influence de l'énergie noire sur l'expansion de l'Univers est de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers commence à s'accélérer à cause de l'énergie noire.</p>
 
@@ -357,7 +353,9 @@ tags: technology
 
 <p>Ces organismes simples ont la capacité de détecter des substances chimiques dans leur environnement, ce qui est une forme rudimentaire de l'odorat. Cette capacité leur permet de localiser des nutriments et d'éviter des substances nocives, ce qui est crucial pour leur survie.</p>
 
-<p>Une composante essentielle d'une entité vivante est de chercher de l'énergie en se nourissant. La vie sexuelle arrivera bien après. Un être qui ne mange pas n'est pas vivant.</p>
+<p>Une composante essentielle d'une entité vivante est de chercher de l'énergie en se nourissant. La vie sexuelle arrivera bien après. Un être qui ne mange pas n'est pas vivant. Les nutriments (comme des petites molécules dans l’eau) rentrent directement à travers leur membrane. La membrane est un peu comme une fine peau qui laisse passer certaines substances. Les molécules utiles entrent, et les déchets sortent.</p>
+
+<p>Les cellules utilisent des réactions chimiques pour produire de l’énergie. Elles captaient de l’énergie à partir du soufre, du fer ou du méthane — c’est ce qu’on appelle la chimiosynthèse.</p>
 
 ## -3 500 000 000 d'années
 
