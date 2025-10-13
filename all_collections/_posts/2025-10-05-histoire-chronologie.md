@@ -1750,23 +1750,15 @@ tags: technology
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/ossecaille.png)</p>
 
-<p>On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues.</p>
-<p>L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture</p>
-<p>chinoise devient encore plus précise car elle utilise le déterminant pour dire si une</p>
-<p>image peut être lisible comme un simple son ou comme une image.</p>
+<p>On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues. L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture chinoise devient encore plus précise car elle utilise le déterminant pour dire si une image peut être lisible comme un simple son ou comme une image.</p>
 
-<p>Un déterminant est un nouveau symbole qui permet de classifier une image et de dire dans</p>
-<p>quelle catégorie elle doit se situer, et donne donc un indice sur la bonne façon de lire</p>
-<p>un caractère.</p>
+<p>Un déterminant est un nouveau symbole qui permet de classifier une image et de dire dans quelle catégorie elle doit se situer, et donne donc un indice sur la bonne façon de lire un caractère.</p>
 
 <p>Ces signes classificateurs sont très fréquents en chinois, d'où son importance.</p>
 
 ### Egypte
 
-<p>Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique</p>
-<p>Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants</p>
-<p>que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme</p>
-<p>le plus important sans pour autant nier les autres Dieux.</p>
+<p>Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Uvr5U5Su9xU" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1774,8 +1766,7 @@ tags: technology
 
 ### Babylone
 
-<p>Les astronomes babyloniens développent les premières tables d’éphémérides pour prédire</p>
-<p>les positions des planètes.</p>
+<p>Les astronomes babyloniens développent les premières tables d’éphémérides pour prédire les positions des planètes.</p>
 
 ## -1450 ans
 
@@ -1815,24 +1806,17 @@ tags: technology
 
 ## -1258 ans
 
-<p>Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des</p>
-<p>marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens,</p>
-<p>la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.</p>
+<p>Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.</p>
 
 # -1207 ans
 
-<p>Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici</p>
-<p>c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".</p>
+<p>Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".</p>
 
-<p>Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète</p>
-<p>du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui</p>
-<p>perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans</p>
-<p>l'histoire de l'humanité, qui place tous les compteurs à zéro.</p>
+<p>Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.</p>
 
 # -1200 ans
 
-<p>Fin de l'âge du bronze et début de l'âge du fer. Le passage du bronze au fer est motivé par plusieurs facteurs, notamment la rareté de l'étain nécessaire à la fabrication du bronze, rendant le fer plus attractif en raison de sa disponibilité plus large. De plus, le fer, une fois correctement traité, offre une meilleure dureté et durabilité comparé au bronze, ce qui le rend plus efficace pour la</p>
-<p>fabrication d'outils, d'armes et d'autres objets.</p>
+<p>Fin de l'âge du bronze et début de l'âge du fer. Le passage du bronze au fer est motivé par plusieurs facteurs, notamment la rareté de l'étain nécessaire à la fabrication du bronze, rendant le fer plus attractif en raison de sa disponibilité plus large. De plus, le fer, une fois correctement traité, offre une meilleure dureté et durabilité comparé au bronze, ce qui le rend plus efficace pour la fabrication d'outils, d'armes et d'autres objets.</p>
 
 <p>L'adoption du fer à grande échelle est observée principalement chez les peuples de la Mer Égée, notamment les Mycéniens et d'autres peuples grecs, ainsi que chez les peuples de la Mer Baltique et de l'Europe centrale. Ils commencent à utiliser le fer pour fabriquer des armes, des outils agricoles et des objets domestiques.</p>
 
@@ -1858,8 +1842,7 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vC5Jij13tnk" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Naissance des Araméens en tant que peuple. Ils apparaissent dans les sources</p>
-<p>assyriennes sous le nom d’« Araméens » (Aḫlamû-Aramâyû) et s’installent progressivement en Syrie et en Mésopotamie.</p>
+<p>Naissance des Araméens en tant que peuple. Ils apparaissent dans les sources assyriennes sous le nom d’« Araméens » (Aḫlamû-Aramâyû) et s’installent progressivement en Syrie et en Mésopotamie.</p>
 
 ### Grèce
 
@@ -1883,12 +1866,9 @@ tags: technology
 
 ### Rome
 
-<p>Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement:</p>
-<p>vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres</p>
-<p>protourbains (un peu plus petit qu'une ville) se forment.</p>
+<p>Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.</p>
 
-<p>Les Babyloniens commencent à diviser le ciel en sections régulières correspondant aux</p>
-<p>signes zodiacaux.</p>
+<p>Les Babyloniens commencent à diviser le ciel en sections régulières correspondant aux signes zodiacaux.</p>
 
 # -900 ans
 
@@ -1900,8 +1880,7 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cVsQB4wpRBc" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet</p>
-<p>de commencer à enregistrer leur histoire et leur littérature.</p>
+<p>Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet de commencer à enregistrer leur histoire et leur littérature.</p>
 
 <p>L'Iliade et l'Odyssée, attribuées à Homère, sont parmi les œuvres fondatrices de la littérature occidentale. Elles racontent respectivement la guerre de Troie et les aventures d'Ulysse.</p>
 
@@ -1925,16 +1904,9 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2pf05bejNKs" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Naissance de Pythagore. Il fonde une école dans le sud de l'Italie qui est à la</p>
-<p>fois une communauté philosophique, scientifique et religieuse. Elle combine mathématiques,</p>
-<p>musique, astronomie et spiritualité, et ses membres suivent des règles de vie strictes,</p>
-<p>incluant le végétarisme, l’interdiction de manger des fèves, et des règles de silence et</p>
-<p>de méditation.</p>
+<p>Naissance de Pythagore. Il fonde une école dans le sud de l'Italie qui est à la fois une communauté philosophique, scientifique et religieuse. Elle combine mathématiques, musique, astronomie et spiritualité, et ses membres suivent des règles de vie strictes, incluant le végétarisme, l’interdiction de manger des fèves, et des règles de silence et de méditation.</p>
 
-<p>Les pythagoriciens croient que tout dans l’univers peut être expliqué par les nombres et</p>
-<p>leurs rapports et que l’âme est immortelle et subit des réincarnations successives</p>
-(métensomatose). Une vie pure et harmonieuse permet de se rapprocher du divin. Et
-<p>une grande importance est donnée à l’harmonie dans la nature et dans la société.</p>
+<p>Les pythagoriciens croient que tout dans l’univers peut être expliqué par les nombres et leurs rapports et que l’âme est immortelle et subit des réincarnations successives (métensomatose). Une vie pure et harmonieuse permet de se rapprocher du divin. Et une grande importance est donnée à l’harmonie dans la nature et dans la société.</p>
 
 ## -563 ans
 
@@ -1961,8 +1933,7 @@ tags: technology
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/AzcZiQswnVI" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Naissance de Socrate. Il est l'une des figures fondatrices de la pensée occidentale.</p>
-<p>Socrate n'a jamais écrit ses idées ; ainsi, notre connaissance de ses enseignements</p>
-<p>provient principalement de ses disciples, notamment Platon et Xénophon.</p>
+<p>Socrate n'a jamais écrit ses idées ; ainsi, notre connaissance de ses enseignements provient principalement de ses disciples, notamment Platon et Xénophon.</p>
 
 ## -460 ans
 
@@ -1976,17 +1947,9 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/RvbRSdjf9t4" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Naissance de Platon. Il est marqué par la guerre du Péloponnèse (431-404 av. J.-C.), qui</p>
-<p>oppose Athènes à Sparte, et par l’exécution de Socrate en -399, événement qui bouleverse</p>
-<p>sa vision du monde et l’incite à se consacrer à la philosophie. Après la mort de Socrate,</p>
-<p>il voyage en Égypte, en Italie et en Sicile, où il tente de mettre en place une cité</p>
-<p>philosophique inspirée de ses idéaux politiques. À son retour à Athènes, il fonde</p>
-<p>l’Académie, un lieu dédié à la recherche philosophique et scientifique.</p>
+<p>Naissance de Platon. Il est marqué par la guerre du Péloponnèse (431-404 av. J.-C.), qui oppose Athènes à Sparte, et par l’exécution de Socrate en -399, événement qui bouleverse sa vision du monde et l’incite à se consacrer à la philosophie. Après la mort de Socrate, il voyage en Égypte, en Italie et en Sicile, où il tente de mettre en place une cité philosophique inspirée de ses idéaux politiques. À son retour à Athènes, il fonde l’Académie, un lieu dédié à la recherche philosophique et scientifique.</p>
 
-<p>L’Académie continue à exister après la mort de Platon en -348 av. J.-C., mais elle évolue</p>
-<p>au fil des siècles. Elle reste une référence intellectuelle majeure jusqu'à sa fermeture</p>
-<p>en 529 apr. J.-C., lorsque l'empereur byzantin Justinien Ier supprime les écoles</p>
-<p>philosophiques païennes.</p>
+<p>L’Académie continue à exister après la mort de Platon en -348 av. J.-C., mais elle évolue au fil des siècles. Elle reste une référence intellectuelle majeure jusqu'à sa fermeture en 529 apr. J.-C., lorsque l'empereur byzantin Justinien Ier supprime les écoles philosophiques païennes.</p>
 
 ## -400 ans
 
@@ -2018,8 +1981,7 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/wZ23CpSjDkI" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Pendant le règne du roi Hiéron II de Syracuse, Archimède, mathématicien et ingénieur grec,</p>
-<p>conçoit un appareil pour pomper l’eau hors des cales de navires.</p>
+<p>Pendant le règne du roi Hiéron II de Syracuse, Archimède, mathématicien et ingénieur grec, conçoit un appareil pour pomper l’eau hors des cales de navires.</p>
 
 ## -230 ans
 
@@ -2027,19 +1989,13 @@ tags: technology
 
 ## -218 ans
 
-<p>Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne</p>
-<p>militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée,</p>
-<p>y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes,</p>
-<p>un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes.</p>
-<p>Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté.</p>
-<p>Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles,</p>
-<p>remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes,</p>
-<p>où il inflige à Rome une de ses plus grandes défaites.</p>
+<p>Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée, y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes, un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes.</p>
+
+<p>Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté. Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles, remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes, où il inflige à Rome une de ses plus grandes défaites.</p>
 
 ## -200 ans
 
-<p>La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour</p>
-<p>l'empire chinois. Le thé est utilisé pour la première fois comme plante médicinale.</p>
+<p>La dynastie Han commence en Chine, marquant une période de stabilité et de prospérité pour l'empire chinois. Le thé est utilisé pour la première fois comme plante médicinale.</p>
 
 ## -196 ans
 
@@ -2055,18 +2011,13 @@ tags: technology
 
 <p>3 Grec ancien (langue administrative des Ptolémées)</p>
 
-<p>Cela permettait à toutes les classes sociales de comprendre le décret. C'est devenu</p>
-<p>la clé du déchiffrement des hiéroglyphes par Jean-François Champollion en 1822, grâce à la comparaison avec le grec.</p>
+<p>Cela permettait à toutes les classes sociales de comprendre le décret. C'est devenu la clé du déchiffrement des hiéroglyphes par Jean-François Champollion en 1822, grâce à la comparaison avec le grec.</p>
 
 ## -100 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/GFln1pn9Mhg" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Création de la machine d’Anticythère, un mécanisme antique incroyablement sophistiqué,</p>
-<p>souvent considéré comme le premier ordinateur analogique connu. Il sert à calculer</p>
-<p>et prévoir des événements astronomiques et calendaires. La machine d’Anticythère</p>
-<p>est une révolution technologique antique, prouvant que les Grecs ont une</p>
-<p>compréhension avancée de la mécanique et de l’astronomie.</p>
+<p>Création de la machine d’Anticythère, un mécanisme antique incroyablement sophistiqué, souvent considéré comme le premier ordinateur analogique connu. Il sert à calculer et prévoir des événements astronomiques et calendaires. La machine d’Anticythère est une révolution technologique antique, prouvant que les Grecs ont une compréhension avancée de la mécanique et de l’astronomie.</p>
 
 ## -69 ans
 
@@ -2078,14 +2029,7 @@ tags: technology
 
 ## -58 ans
 
-<p>La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette série de</p>
-<p>campagnes militaires est conduite par les armées romaines contre plusieurs tribus</p>
-<p>gauloises. César, alors proconsul de la Gaule Transalpine et de l'Illyrie, étend son</p>
-<p>commandement à la Gaule Cisalpine et entreprend la conquête de la Gaule, qui couvre</p>
-<p>ce qui est aujourd'hui la France, la Belgique, la Suisse et des parties de l'Italie du</p>
-<p>Nord, des Pays-Bas, et de l'Allemagne à l'ouest du Rhin. La guerre se poursuit</p>
-<p>jusqu'en 50 av. J.-C., se terminant avec la victoire romaine et l'annexion complète</p>
-<p>de la région à la République romaine.</p>
+<p>La Guerre des Gaules, menée par Jules César, commence en 58 av. J.-C. Cette série de campagnes militaires est conduite par les armées romaines contre plusieurs tribus gauloises. César, alors proconsul de la Gaule Transalpine et de l'Illyrie, étend son commandement à la Gaule Cisalpine et entreprend la conquête de la Gaule, qui couvre ce qui est aujourd'hui la France, la Belgique, la Suisse et des parties de l'Italie du Nord, des Pays-Bas, et de l'Allemagne à l'ouest du Rhin. La guerre se poursuit jusqu'en 50 av. J.-C., se terminant avec la victoire romaine et l'annexion complète de la région à la République romaine.</p>
 
 ## -40 ans
 
