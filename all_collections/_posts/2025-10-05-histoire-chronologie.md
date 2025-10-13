@@ -39,9 +39,7 @@ tags: technology
 
 <p>Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.</p>
 
-<p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une</p>
-<p>phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à</p>
-100000000000000000000000000000 (10^27) de fois plus grand.
+<p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à 100000000000000000000000000000 (10^27) de fois plus grand.
 
 <p style="text-align:center"><img src="{{ '/assets/img/quark.jpg' | relative_url }}" alt="Quark" /></p>
 
@@ -51,7 +49,7 @@ tags: technology
 
 <p>Après 3 minutes, la température descend à environ un milliard de degrés : la force nucléaire forte peut alors unir les quarks en protons et neutrons. Ces particules s’assemblent ensuite pour donner les premiers noyaux atomiques, donc les premiers éléments chimiques.</p>
 
-<p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, est constitué d’un proton) et d'hélium se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
+<p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, constitué d’un proton et d'hélium) se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
 
 <p>À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.</p>
 
