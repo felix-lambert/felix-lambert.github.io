@@ -2035,12 +2035,7 @@ tags: technology
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dzarpnLffHY" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant</p>
-<p>souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques</p>
-<p>(pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau,</p>
-<p>permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité</p>
-<p>remarquable. Cette invention révolutionne l'architecture et le génie civil romains,</p>
-<p>permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.</p>
+<p>Invention du béton romain. Il est célèbre pour sa durabilité exceptionnelle, surpassant souvent celle du béton moderne. Sa composition unique, incluant des cendres volcaniques (pouzzolane) qui réagissent avec la chaux pour former un mortier résistant à l'eau, permet la construction d'ouvrages maritimes, de voûtes et de dômes d'une longévité remarquable. Cette invention révolutionne l'architecture et le génie civil romains, permettant la réalisation de structures comme le Panthéon, avec sa célèbre coupole.</p>
 
 ## -30 ans
 
@@ -2066,9 +2061,7 @@ tags: technology
 
 ## 79 ans
 
-<p>Pompéi est détruite par une éruption volcanique catastrophique. Le Vésuve, un volcan situé</p>
-<p>près de la baie de Naples en Italie, entre en éruption de manière soudaine et extrêmement</p>
-<p>violente.</p>
+<p>Pompéi est détruite par une éruption volcanique catastrophique. Le Vésuve, un volcan situé près de la baie de Naples en Italie, entre en éruption de manière soudaine et extrêmement violente.</p>
 
 ## 100 ans
 
@@ -2076,20 +2069,12 @@ tags: technology
 
 ## 200 ans
 
-<p>Pour régler les problèmes d'apports et d'évacuation des eaux en ville,</p>
-<p>on retrouve des édifices très perfectionnés dans la zone de la conquête romaine.</p>
-<p>L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le territoire.</p>
-<p>Il existe donc des puits, des citernes, des bains publics, de fontaines,</p>
-<p>mais aussi de latrines ou d'égouts. Ce mode de vie, très gourmand en eau,</p>
-<p>nécessite la création d'ouvrages massifs, les aqueducs, des conduites qui s'adaptent</p>
-<p>au relief, quitte à passer sous la terre, au ras du sol ou à plusieurs dizaines de</p>
-<p>mètres de hauteur. On parle ici déjà d'un service de déchetterie, de triage et de</p>
-<p>recyclage.</p>
+<p>Pour régler les problèmes d'apports et d'évacuation des eaux en ville, on retrouve des édifices très perfectionnés dans la zone de la conquête romaine.
+L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le territoire. Il existe donc des puits, des citernes, des bains publics, de fontaines, mais aussi de latrines ou d'égouts. Ce mode de vie, très gourmand en eau, nécessite la création d'ouvrages massifs, les aqueducs, des conduites qui s'adaptent au relief, quitte à passer sous la terre, au ras du sol ou à plusieurs dizaines de mètres de hauteur. On parle ici déjà d'un service de déchetterie, de triage et de recyclage.</p>
 
 ## 300 ans
 
-<p>Règne de l'Empereur romain Constantin. C'est le premier empereur romain</p>
-<p>à s'être converti au christianisme.</p>
+<p>Règne de l'Empereur romain Constantin. C'est le premier empereur romain à s'être converti au christianisme.</p>
 
 ## 330 ans
 
@@ -2117,10 +2102,6 @@ tags: technology
 
 <p>Chang'an atteint son apogée et devient l'une des plus grandes métropoles du monde médiéval. La capitale des Tang est un immense quadrilatère de 9,7 km sur 8,7 km, considérée comme la première ville entièrement planifiée de l'histoire de la Chine. Son plan a inspiré d'autres capitales extrême-orientales, notamment Nara et Kyōto au Japon.</p>
 
-## 680 ans
-
-<p>Scission définitive entre Chiisme et Sunnisme en islam.</p>
-
 ## 760 ans
 
 <p>Le célèbre ouvrage "Le Classique du Thé" (Cha Jing), écrit par le moine chinois Lu Yu est le premier traité complet sur la culture, la préparation et les bienfaits du thé. Cet ouvrage marque une étape clé dans la diffusion de la culture du thé en Chine.</p>
@@ -2135,12 +2116,8 @@ tags: technology
 
 ## 890
 
-<p>Réforme d'Alfred le Grand qui vise à revitaliser l'éducation et la culture en Angleterre</p>
-<p>face au déclin provoqué par les invasions vikings. Il promeut l'apprentissage du vieil</p>
-<p>anglais pour tous les hommes libres et traduit d'importants textes latins, comme</p>
-<p>La Consolation de la Philosophie et le Pastoral Care, dans cette langue. Alfred</p>
-<p>encourage également la rédaction de la Chronique anglo-saxonne, une histoire de son peuple</p>
-<p>en vieil anglais, et standardise le dialecte du Wessex comme langue écrite prestigieuse.</p>
+<p>Réforme d'Alfred le Grand qui vise à revitaliser l'éducation et la culture en Angleterre face au déclin provoqué par les invasions vikings. Il promeut l'apprentissage du vieil anglais pour tous les hommes libres et traduit d'importants textes latins, comme La Consolation de la Philosophie et le Pastoral Care, dans cette langue. Alfred encourage également la rédaction de la Chronique anglo-saxonne, une histoire de son peuple en vieil anglais, et standardise le dialecte du Wessex comme langue écrite prestigieuse.</p>
+
 <p>Ces efforts renforcent l'identité culturelle anglo-saxonne et rend le savoir plus accessible.</p>
 
 ## 939 ans
@@ -2189,8 +2166,7 @@ tags: technology
 
 ## 1040 ans
 
-<p>Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité.</p>
-<p>Ce sont des caractères en argile et en bois qui sont utilisés.</p>
+<p>Bi Sheng invente les caractères mobiles afin d'imprimer des textes en grande quantité. Ce sont des caractères en argile et en bois qui sont utilisés.</p>
 
 ## 1044 ans
 
@@ -2278,7 +2254,7 @@ tags: technology
 
 ## 1388 ans
 
-<p>Le vagabondage est considéré comme un délit en Angleterre. La première loi significative à cet égard est est introduite en réponse à la pénurie de main-d'œuvre et à l'inflation des salaires après la peste noire, qui a décimé la population.</p>
+<p>Le vagabondage est considéré comme un délit en Angleterre. La première loi significative à cet égard est introduite en réponse à la pénurie de main-d'œuvre et à l'inflation des salaires après la peste noire, qui a décimé la population.</p>
 
 <p>La loi vise à réguler le travail et à contrôler les déplacements des travailleurs. Elle exige des gens sans terre ou sans emploi qu'ils restent dans leur lieu de naissance ou là où ils ont vécu ces trois dernières années, sauf s'ils peuvent démontrer qu'ils sont en recherche active d'emploi. Ceux qui ne se conforment pas sont considérés comme des vagabonds et peuvent être punis.</p>
 
