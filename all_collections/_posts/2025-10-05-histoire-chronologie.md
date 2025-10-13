@@ -1558,7 +1558,23 @@ tags: technology
 
 # -3100 ans
 
+### Egypte
+
 <p>Première dynastie en Egypte. Le roi Narmer (ou Ménès) unifie la Haute et la Basse-Égypte, mettant fin à l’organisation tribale et centralisant le pouvoir sous un pharaon divinisé. Les tribus locales perdent leur autonomie et sont intégrées dans une structure bureaucratique plus rigide.</p>
+
+### Iran
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/elamite.mp4"/>
+</p>
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/phonetique.mp4"/>
+</p>
+
+<p>L’écriture proto-élamite apparaît en Iran, dans la région de Suse — c’est la plus ancienne forme d’écriture connue en Iran. Ils développent une forme d’écriture propre, inspiré des pictogrammes sumériens, mais avec une structure différente et indépendante. Cette écriture est utilisée surtout pour la comptabilité et l’administration (inventaires de grains, bétail, etc.). Elle est encore non déchiffrée complètement aujourd’hui.</p>
 
 # -3000 ans
 
@@ -1977,9 +1993,16 @@ tags: technology
 
 <p>Alexandre le Grand conquiert l'Égypte. Début de la domination grecque (dynastie des Ptolémées).</p>
 
+## –331 ans
+
+Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des plus grands centres intellectuels et scientifiques du monde antique.
+
 ## -250 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/wZ23CpSjDkI" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/archimede.mp4"/>
+</p>
 
 <p>Pendant le règne du roi Hiéron II de Syracuse, Archimède, mathématicien et ingénieur grec, conçoit un appareil pour pomper l’eau hors des cales de navires.</p>
 
@@ -2264,9 +2287,7 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 ## 1400 ans
 
-<p>Le café commence à être cultivé et consommé sous forme de boisson au Yémen,</p>
-<p>principalement par des soufis, des religieux qui utilisent la boisson pour rester</p>
-<p>éveillés pendant les longues heures de prière et de méditation nocturnes.</p>
+<p>Le café commence à être cultivé et consommé sous forme de boisson au Yémen, principalement par des soufis, des religieux qui utilisent la boisson pour rester éveillés pendant les longues heures de prière et de méditation nocturnes.</p>
 
 ## 1439 ans
 
@@ -2288,8 +2309,6 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 <p>Constantinople, la capitale de l'Empire byzantin, est assiégée et conquise par les forces ottomanes dirigées par le sultan Mehmed II. L'évolution technologique de l'artillerie joue un rôle crucial dans la prise de Constantinople. Les Ottomans, dirigés par le sultan Mehmed utilisent des canons de siège massifs et innovants pour percer les remparts autrefois impénétrables de la ville. Les canons sont capables de tirer sur de longues distances avec une précision étonnante pour l'époque. Ils sont utilisés pour pilonner les murs de la ville pendant plusieurs semaines, créant des brèches qui permettent aux forces ottomanes d'entrer et de capturer Constantinople.</p>
 
 <p>L'utilisation de ces canons massifs et innovants marquent un tournant dans l'histoire de la guerre de siège et démontrent le potentiel des armes à feu et de l'artillerie pour révolutionner les tactiques de combat.</p>
-
-<p>Une fois les remparts de la ville enfoncés et les défenseurs vaincus, les Ottomans entrent dans la ville et commencent à piller, tuer et capturer des habitants. Les soldats ottomans tuent un grand nombre de civils et de défenseurs byzantins lors du saccage, bien que les estimations exactes du nombre de morts varient. Les femmes et les enfants ont souvent été épargnés pour être vendus comme esclaves, tandis que d'autres sont forcés de se convertir à l'islam. De nombreuses églises et bâtiments sont pillés et profanés, y compris la célèbre église Sainte-Sophie, qui est transformée en mosquée.</p>
 
 <p>Cet événement historique marque la fin de l'Empire byzantin et le début de l'Empire ottoman. C'est aussi souvent considérée comme la fin de l'époque médiévale et le début de l'époque moderne en Europe. Elle entraîne également la fragmentation de la chrétienté orthodoxe et la montée en puissance de l'Empire ottoman, qui devient l'une des forces dominantes de la région pendant plusieurs siècles.</p>
 
