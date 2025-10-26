@@ -61,17 +61,17 @@ tags: technology
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4">
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
 </p>
 
 <p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400">
+  <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400" />
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Gif 2" width="400">
+  <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Gif 2" width="400" />
 </p>
 
 <p style="text-align: center;">
@@ -81,8 +81,7 @@ tags: technology
     width="640"
     height="360"
   >
-    <source src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/stars.mp4" type="video/mp4">
-    Votre navigateur ne prend pas en charge la lecture de vidéo.
+    <source src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/stars.mp4" type="video/mp4" />
   </video>
 </p>
 
