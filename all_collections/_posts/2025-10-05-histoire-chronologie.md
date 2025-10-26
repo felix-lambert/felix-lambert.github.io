@@ -57,7 +57,7 @@ tags: technology
 
 <p style="text-align:center"><img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Big Bang" /></p>
 
-## -13 699 620 000 d'années
+# -13 699 620 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -95,7 +95,7 @@ tags: technology
 
 <p>A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.</p>
 
-## -13 500 000 000 d'années
+# -13 500 000 000 d'années
 
 <p>Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.</p>
 
@@ -120,7 +120,7 @@ tags: technology
 
 <p>La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.</p>
 
-## -13 100 000 000 d'années
+# -13 100 000 000 d'années
 
 <p>Au début, une étoile utilise de l'hydrogène pour produire de l'énergie. Quand elle manque d'hydrogène, elle commence à utiliser de l'hélium. En utilisant l'hélium, elle crée d'autres éléments comme le carbone, l'oxygène et le calcium (les mêmes éléments que l'on trouve dans nos corps). Avec le temps, l'étoile peut créer des éléments encore plus lourds jusqu'à ce qu'elle atteigne le fer. Après le fer, l'étoile ne peut plus créer d'autres éléments.</p>
 
@@ -147,7 +147,7 @@ tags: technology
 
 <p>Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.</p>
 
-## -12 700 000 000 d'années
+# -12 700 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -252,7 +252,7 @@ tags: technology
 
 <p>Notre système solaire pourrait avoir beaucoup de planètes. Mais toutes ne peuvent pas rester car elles se bousculent et se heurtent. Parfois, elles se rapprochent trop du Soleil et se brûlent, ou elles sont poussées hors du système parce qu'elles sont trop proches d'une autre planète. C'est pourquoi certaines planètes se retrouvent à errer toutes seules dans l'espace, sans étoile autour de laquelle tourner.</p>
 
-## -4 540 000 000 d'années
+# -4 540 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -261,7 +261,7 @@ tags: technology
 
 <p>La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.</p>
 
-## -4 510 000 000 d'années
+# -4 510 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -288,7 +288,7 @@ tags: technology
 
 <p>Visible</p>
 
-## -4 300 000 000 d'années
+# -4 300 000 000 d'années
 
 <p>La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.</p>
 
@@ -301,7 +301,7 @@ tags: technology
 
 <p>Saturne fini de se former et se rapproche à son tour du soleil. Mais après un certain temps, le flux de gaz autour de Saturne et Jupiter disparait. En son absence, la force qui entraîne ces deux planètes en direction du Soleil s'affaiblit. Ces planètes reviennent finalement vers l'extérieur du système solaire et entrent de nouveau en collision avec des astéroïdes riches en eau et en carbone.</p>
 
-## -4 100 000 000 d'années
+# -4 100 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -357,7 +357,7 @@ tags: technology
 
 <p>Les cellules utilisent des réactions chimiques pour produire de l’énergie. Elles captaient de l’énergie à partir du soufre, du fer ou du méthane — c’est ce qu’on appelle la chimiosynthèse.</p>
 
-## -3 500 000 000 d'années
+# -3 500 000 000 d'années
 
 <p>La mer regorge désormais de ces organismes microscopiques. Ces cellules se rapprochent de la surface.</p>
 
@@ -372,13 +372,13 @@ tags: technology
   <img src="/assets/img/cyanobacterie.jpg" alt="Gif 2" width="400">
 </p>
 
-<p>Ces bactéries (procaryotes donc) (cyanobactéries) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse.</p>
+<p>Ces bactéries (procaryotes donc) permettent d'utiliser la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en nourriture glucose, une forme simple de sucre. C'est ce qu'on appelle la photosynthèse.</p>
 
 <p>Parfois, les cyanobactéries fabriquent plus de glucose qu'elles n'en ont besoin immédiatement. Alors, elles transforment ce glucose en une autre substance appelée glycogène. Le glycogène est comme une réserve d'énergie, un peu comme une batterie que l'on peut utiliser plus tard. Quand il fait nuit ou quand les conditions ne sont pas bonnes (comme quand il n'y a pas de soleil), les cyanobactéries ne peuvent pas faire de photosynthèse. C'est alors qu'elles utilisent le glycogène qu'elles ont stocké. C'est un peu comme si elles mangeaient leur réserve de nourriture pour obtenir de l'énergie.</p>
 
 <p>Cette capacité permet à ses organismes de se multiplier partout sur Terre, tant que la lumière du soleil, de l'eau et du carbone existent à proximité. Pendant ce processus, l'oxygène (un gaz sans odeur ni couleur) de l'eau n'est pas utilisé pour faire du glucose. Il est alors libéré dans l'air comme un déchet.</p>
 
-## -2 900 000 000 d'années
+# -2 900 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -387,11 +387,11 @@ tags: technology
 
 <p>L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. L'eau (H₂O) contient des atomes d'oxygène, mais cet oxygène est lié chimiquement à des atomes d'hydrogène pour former des molécules d'eau. Avant l'apparition des cyanobactéries, il y a très peu d'oxygène libre (O₂) dans l'atmosphère terrestre. Mais après l'apparition, les cyanobactéries utilisent l'énergie solaire pour séparer les molécules d'eau (H₂O) en hydrogène (H) et en oxygène (O₂).</p>
 
-## -2 800 000 000 d'années
+# -2 800 000 000 d'années
 
 <p>Le taux d'oxygène dans l'atmosphère est de 0,2 % avec une température moyenne de 10 degrés. Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère.</p>
 
-## -2 700 000 000 d'années
+# -2 700 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -407,51 +407,46 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mitochondrie.mp4"/>
 </p>
 
-<p>Grâce à l'oxygène, de petits organismes s'associent pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi que apparaissent les organismes "avancés" avec un noyau dans leurs cellules, appelés eucaryotes. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.</p>
+<p>Grâce à l'oxygène, de petits organismes s'associent pour mieux vivre. Au sein de ce groupe, chaque organisme choisit une "mission" spécifique pour aider tout le monde. </p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif" alt="Gif 2" width="400">
 </p>
 
-<p>On comprend donc que toute la vie sur Terre a un ADN, même les cellules procaryotes. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions.</p>
-
-## -2 400 000 000 d'années
+# -2 400 000 000 d'années
 
 <p>Les bactéries (cyanobactéries) capables de réaliser la photosynthèse se multiplient et libèrent de plus en plus d'oxygène dans l'atmosphère. Cet oxygène éjecte le méthane, refroidissant considérablement la Terre et tuant une grande partie de la vie sur celle-ci.</p>
 
-<p>L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie.</p>
+<p>L'oxygène provoque alors une extinction massive (La Grande Oxydation, ou catastrophe de l'oxygène), transformant la Terre en une immense boule de neige pour 200 millions d'années avec une température moyenne de -27 degrés. À ce moment-là, l'oxygène représente 1% du gaz dans l'atmosphère, suffisant pour éliminer presque toutes les formes de vie. En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.</p>
 
-<p>En comparaison, l'oxygène est maintenant présent à 21% dans l'atmosphère.</p>
+<p>Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie. Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.</p>
 
-<p>Ce gaz, l'oxygène, est extrêmement toxique pour la plupart des organismes unicellulaires de la planète. Il agit comme une arme de destruction massive. La vie est quasiment anéantie.</p>
-
-<p>Cependant, les microorganismes unicellulaires qui survivent trouvent un moyen d'utiliser cet oxygène pour influencer leur évolution.</p>
-
-## -2 100 000 000 d'années
+# -2 100 000 000 d'années
 
 <p>Les volcans éjectent suffisamment de gaz à effet de serre pour rééquilibrer le climat. Les organismes survivants évoluent rapidement dans un monde chaud, avec 1% d'oxygène et un nouveau gaz, l'ozone. Cette couche d'ozone bloque les rayons ultraviolets du soleil, protégeant ainsi la biosphère de ce rayonnement nocif.</p>
 
 <p>En s'accumulant dans l'atmosphère terrestre, le dioxygène O2 issu de la photosynthèse forme une couche d'ozone à la base de la stratosphère sous l'effet du rayonnement solaire.</p>
 
-## -1 800 000 000 d'années
+# -1 800 000 000 d'années
 
-<p>Nuna, un nouveau supercontinent, se forme. Le reste se limite à de la mer des îles volcaniques.</p>
+<p>Nuna, un nouveau supercontinent, se forme. Le reste se limite à de la mer et des îles volcaniques.</p>
 
-<p>La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l'oxygène est toujours plus rare qu'aujourd'hui mais on constate certains types de cyanobactéries (les bactéries qui arrivent à faire la photosynthèse) à se transformer en cellules eucaryotes. Ces eucaryotes sont l'ancêtre de toutes les plantes et algues. Elles possèdent le même mécanisme photosynthétique.</p>
+<p>La plupart de la vie qu'on trouve à cette époque est procaryotique parce que l'oxygène est toujours plus rare qu'aujourd'hui mais on constate certains types de cyanobactéries à se transformer en cellules eucaryotes. Ces eucaryotes sont l'ancêtre de toutes les plantes et algues. Elles possèdent le même mécanisme photosynthétique. Avec le temps, ces organismes deviennent si proches qu'ils forment un seul grand organisme. C'est ainsi qu'apparaissent les organismes "avancés" avec un noyau dans leurs cellules. La plupart de ces eucaryotes utilisent l'oxygène pour respirer.</p>
 
-## -1 400 000 000 d'années
+<p>On comprend donc que toute la vie sur Terre a un ADN, même les cellules procaryotes. Il n'y a que deux grands types de cellules. Des cellules prokaryotes ou des cellules eukariotes. Les cellules procaryotes ont un ADN très simple qui flotte librement autour de la cellule alors que les cellules eucaryotes ont un ADN gardé dans un noyau. L'ADN (acide désoxyribonucléique) est une série d'instructions qui expliquent comment l'organisme doit être construit et l'ARN (acide ribonucléique) lit ces instructions et fournit les protéines nécessaires à la réalisation de ces instructions.</p>
+
+# -1 400 000 000 d'années
 
 <p>Les algues sont les premiers organismes photosynthétiques à se développer dans les fonds marins.</p>
 
-## -1 300 000 000 d'années
+# -1 300 000 000 d'années
 
-<p>Des champignons microscopiques sont présents en dehors de l'eau.</p>
+<p>Certains êtres vivants de la mer sortent un peu sur la terre humide (comme les rochers du bord) et deviennent des champignons microscopiques. Ils ne font pas de photosynthèse comme les algues : ils mangent ce qui existe déjà. C’est l’un des premiers signes de vie sur la terre ferme, avant les plantes.</p>
 
-## -1 200 000 000 d'années
+# -1 200 000 000 d'années
 
-<p>Certains eucaryotes peuvent se reproduire en échangeant ou copiant leur ADN. Cela mélange les gènes de deux parents pour créer un nouvel individu unique. On appelle ça la "reproduction". Cette méthode aide à garder les cellules complexes car elle aide à maintenir la complexité des cellules eucaryotes en augmentant la diversité génétique, en facilitant la réparation de l'ADN, en éliminant les mutations délétères, en permettant une adaptation rapide aux menaces biotiques et en favorisant l'évolution de nouvelles caractéristiques fonctionnelles.</p>
-
-<p>Les cellules eukaryotes se transforment en différentes formes, comme les ancêtres des algues et des champignons.</p>
+<p>Certains eucaryotes commencent à échanger un peu de leur “code” (leur ADN) entre eux pour faire un individu unique. On appelle ça la "reproduction". Avant, ils se copiaient tout seuls, comme un clone.
+Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel individu unique. Grâce à ça, les êtres vivants deviennent plus variés, plus solides et peuvent mieux s’adapter au monde qui change.</p>
 
 <p>Pour la première fois, ils se déplacent loin de la mer, explorant les étangs d'eau douce et les ruisseaux sur la terre.</p>
 
@@ -470,9 +465,9 @@ tags: technology
 
 <p>Sur ce continent, il n'y a bien sûr pas de vie et la température est au-dessus de 85 degrés.</p>
 
-## -830 000 000 d'années
+# -830 000 000 d'années
 
-<p>Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. Cela libère une énorme quantité de soufres dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages).</p>
+<p>Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages).</p>
 
 <p>L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années.</p>
 
@@ -500,7 +495,7 @@ tags: technology
 
 <p>Le début de l'éclatement de Rodinia a des conséquences importantes sur l'évolution de la vie sur Terre, car il entraîne des changements climatiques importants et favorise la diversification des espèces animales et végétales. Il contribue également à la formation de nouvelles ressources minérales et à l'apparition de nouvelles terres émergées.</p>
 
-## -780 000 000 d'années
+# -780 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -515,19 +510,19 @@ tags: technology
 
 <p>Bien que les larves d'éponges soient petites et mobiles, les éponges adultes restent au même endroit toute leur vie. Il s'agit d'animaux qui réussissent à survivre dans des conditions extrêmes à très basse (-80 degrés) ou très haute température. Elles nécessitent très peu d'oxygène et ont une durée de vie de plus de 20000 ans. Ces animaux peuvent se reproduire sexuellement. Mais ils peuvent aussi se dupliquer en libérant une branche d'eux-mêmes. Elles se nourrissent de bactéries qui permettent la photosynthèse (cyanobactéries).</p>
 
-## -740 000 000 d'années
+# -740 000 000 d'années
 
 <p>Rodinia se casse complètement. Les roches qui composent ce continent sont des roches volcaniques, le basalte, l'un des principaux constituants de la croûte océanique. Elles sont donc à ciel ouvert et sont excellentes pour l'absorption du CO2. En conséquence, une planète se refroidit de plus en plus car les volcans ne sont pas en mesure d'éjecter le CO2 plus rapidement que le basalte ne l'absorbe.</p>
 
-## -710 000 000 d'années
+# -710 000 000 d'années
 
-<p>L'atmosphère ne contient pas suffisamment de dioxyde de carbone pour capter la chaleur solaire. Le méthane et le dioxyde de carbone sont deux des gaz présents dans le revêtement isolant qui réchauffe la Terre. Ils favorisent ce que nous appelons « l'effet de serre ». La température plonge à -60 degrés. La Terre devient alors une boule de neige (Terre boule de neige). Il s'agit de l'âge de glace le plus froid et le plus long de l'histoire de la planète.</p>
+<p>L'atmosphère ne contient pas suffisamment de dioxyde de carbone pour capter la chaleur solaire. Le méthane et le dioxyde de carbone sont deux des gaz présents dans le revêtement isolant qui réchauffe la Terre. Ils favorisent ce que nous appelons « l'effet de serre ». La température plonge à -60 degrés. La Terre devient alors une boule de neige. Il s'agit de l'âge de glace le plus froid et le plus long de l'histoire de la planète.</p>
 
-## -660 000 000 d'années
+# -660 000 000 d'années
 
 <p>Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone.</p>
 
-## -650 000 000 d'années
+# -650 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -539,43 +534,44 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/bouleDeNeige.mp4"/>
 </p>
 
-<p>La Terre est à nouveau pratiquement inhabitable. C'est une nouvelle époque de la Terre boule de neige.</p>
+# -630 000 000 d'années
 
-## -635 000 000 d'années
+<p>Les éponges marines abritent des bactéries qui font la photosynthèse.
+Ces bactéries profitent de la protection offerte par les éponges pour survivre et se multiplier. Grâce à elles, de plus en plus d’oxygène est libéré dans l’eau. Plus tard, certaines de ces bactéries évoluent en algues, capables de produire encore plus d’oxygène. Grâce aux algues, l’oxygène atteint aussi les profondeurs des océans, et sa quantité dans l’atmosphère augmente fortement — passant d’environ 1 % à plus de 10 %.</p>
 
-<p>Des plantes autres que les algues voient le jour dans les profondeurs des océans.</p>
-
-## -630 000 000 d'années
-
-<p>Les éponges marines permettent quand même aux bactéries qui produisent la photosynthèse de résister, d'évoluer et, par conséquent, de libérer davantage d'oxygène dans les océans. Les bactéries qui produisent la photosynthèse évoluent en plante et libèrent encore plus d'oxygène: les algues. Grâce aux algues, l'oxygène ne se limite pas à la surface, mais bien dans les profondeurs des océans et monte à plus de 10% dans l'atmosphère (avant on était rarement à plus de 1%).</p>
-
-<p>Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui permet d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige et des plantes voient le jour dans les profondeurs des océans.</p>
+<p>Dans le même temps, les activités volcaniques se déroulent de plus en plus sur les continents, ce qui permet d'augmenter le taux de CO2 et donc d'augmenter la température. Ceci signe la fin de l'époque de la Terre boule de neige.</p>
 
 # -600 000 000 d'années
 
 <p>La vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans est en constante augmentation.</p>
 
-<p>Ceci crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques).</p>
+## -560 000 000 d'années
 
-<p>Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent, développent des squelettes externes et commencent à se manger entre eux.</p>
+<p>Cette hausse d’oxygène crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques).</p>
 
-## -540 000 000 d'années
+<p>Avec une augmentation constante du niveau de l'oxygène, les animaux grandissent et commencent à se manger entre eux. Certains vers ou petits animaux rampants mangent d’autres organismes mous. Les animaux développent aussi leurs premiers organes sensoriels (yeux simples, antennes). </p>
 
-<p>Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.</p>
+# -550 000 000 d'années
+
+<p>Certaines animaux développent des squelettes externes. Ceci correspond à l’apparition des premiers prédateurs : la défense devient nécessaire donc les animaux s’endurcissent.</p>
+
+# -540 000 000 d'années
+
+<p>Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Autrement dit, manger en continu pendant que le reste du repas est digéré. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.</p>
 
 <p>Les arthropodes font leur apparition. Ils prospèrent rapidement et évoluent en un grand nombre de formes différentes. Aujourd'hui, ils sont l'un des groupes d'animaux les plus diversifiés et les plus répandus sur Terre, avec des centaines de milliers d'espèces connues. Les arthropodes sont présents dans presque tous les écosystèmes terrestres et aquatiques et jouent un rôle important dans les équilibres écologiques et les cycles naturels.</p>
 
 <p>L'embranchement des arthropodes est de très loin celui qui possède le plus d'espèces et le plus d'individus de tout le règne animal, tels les myriapodes, crustacés, arachnides, insectes, etc.</p>
 
-## -530 000 000 d'années
+# -530 000 000 d'années
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/Haikouichthys_NT.jpg)</p>
 
 <p style="display:block;text-align:center">(Haikouichthys)</p>
 
-<p>Haikouichthys est l’un des plus anciens poissons connus. Cet animal a une tête et un tronc distinct. Il est charognard.</p>
+<p>Haikouichthys est l’un des plus anciens poissons connus. Cet animal a une tête et un tronc distinct. Il se nourrit probablement de matière organique morte, de débris ou de petits organismes mous déposés sur le fond marin. C'est donc un charognard.</p>
 
-## -525 000 000 d'années
+# -525 000 000 d'années
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/trilobite.jpg)</p>
 
@@ -583,9 +579,9 @@ tags: technology
 
 <p>Les trilobites apparaissent. Certains trilobites ont des yeux énormes, tandis que d'autres sont aveugles. Mais ils ont tous un système digestif sophistiqué, des jambes, avec un squelette externe. On peut considérer cet animal comme un des premiers insectes (les anthropodes) et domine les mers cambriennes en se nourissant principalement de vers.</p>
 
-<p>Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier et atteignent une vaste gamme de tailles: la plus petite mesurant quelques millimètres de long, tandis que les plus grands mesuraient plus d'un demi-mètre de long.</p>
+<p>Ils habitent à la fois dans les eaux peu profondes et profondes du monde entier et atteignent une vaste gamme de tailles: la plus petite mesurant quelques millimètres de long, tandis que les plus grands mesurent plus d'un demi-mètre de long.</p>
 
-## -505 000 000 d'années
+# -505 000 000 d'années
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/anomacolis.jpg)</p>
 
@@ -596,13 +592,18 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/anomalocaris.mp4"/>
 </p>
 
-<p>L'Anomalocaris le premier prédateur des mers cambriennes, et aussi le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne. Le corps long et étroit, recouvert d'un exosquelette, est doté d'une bouche avec des dents, de pattes flexibles, de 28 nageoires latérales réparties par paires et d'une longue queue en V constituée, assurant probablement à l'animal une propulsion rapide dans l'eau.</p>
+<p>L'Anomalocaris est le premier à disposer d'organes visuels complets et des sortes de pattes avec des dents est comme une crevette géante et est tout en haut de la chaîne alimentaire de la période cambrienne. C’est la première fois qu’on voit un prédateur actif, c’est-à-dire : </p>
+<p>qui repère une proie,</p>
+<p>qui se déplace rapidement pour l’attraper,</p>
+<p>et qui la capture avec des organes spécialisés (pinces, bouche, yeux).</p>
+
+<p>Le corps long et étroit, recouvert d'un exosquelette, est doté d'une bouche avec des dents, de pattes flexibles, de 28 nageoires latérales réparties par paires et d'une longue queue en V constituée, assurant probablement à l'animal une propulsion rapide dans l'eau.</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/metaspriggina.jpg)</p>
 
 <p style="display:block;text-align:center">(Le plus ancien poisson et un des premiers vertébrés: Metaspriggina)</p>
 
-<p>Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris. Contrairement à la plupart des poissons, qui ont des mâchoires et des dents pour capturer et dévorer leur nourriture, les poissons sans machoires n'ont pas de mâchoires et se nourrissent en suçant la chair de leurs proies.</p>
+<p>Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris. Les poissons sans machoires se nourrissent en suçant la chair de leurs proies.</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/lamprey.jpg)</p>
 
@@ -612,7 +613,7 @@ tags: technology
 
 <p>La caractéristique d'un vertébré est d'être en mouvement. Il n'existe pas vraiment de vertébré qui passe toute sa vie fixé au même endroit. Etant constamment à l'affût le vertébré a besoin de beaucoup d'oxygène, d'une batterie de sens complète avec des yeux, un odorat raffiné; et un système élaboré de détection des courants d'eau. Ce système sensoriel nécessite un cerveau complexe et centralisé. Le cerveau des vertébrés dépasse la cerveau d'autres animaux très mobiles comme les crustacés.</p>
 
-<p>Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globalité de grands animaux. De nombreux invertébrés, en revanche, sont à peine visibles sans loupe ou microscope. Les insectes sont les invertébrés les plus nombreux.</p>
+<p>Aussi, tous les vertébrés sont visibles à l'œil nu donc sont dans leur globalité de grands animaux. </p>
 
 # -500 000 000 d'années
 
@@ -631,7 +632,7 @@ tags: technology
 
 <p>Cette colonisation des terres par les plantes aspire beaucoup de carbone, ce qui fait chuter la température.</p>
 
-## -444 000 000 d'années
+# -444 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -640,7 +641,7 @@ tags: technology
 
 <p>On arrive à un nouvel âge de glace de 2 millions d'années. Ce n'est certes pas la même température qu'à l'époque de la Terre boule de neige mais ce froid cause quand même une des plus grandes extinctions de masse que la Terre a connues avec la disparition de 86% des espèces marines. Le niveau de l'oxygène retombe et les océans sont de nouveau dorénavant majoritairement peuplés que de cyanobactéries.</p>
 
-## -443 000 000 d'années
+# -443 000 000 d'années
 
 <p>Avec une augmentation de la température, les plantes et les champignons colonisent de plus en plus les terres. Les plantes terrestres évoluent à partir d'algues vertes aquatiques, et ont initialement festonné les bords des lacs et des rivières, près de l'eau. Elles vivent en étroite association avec les champignons.</p>
 
@@ -652,7 +653,7 @@ tags: technology
 
 <p>Mais il y a aussi les scorpions des mers de plus de 2 mètres de long qui posent un véritable problème à ces premiers poissons. Ces scorpions sont de véritables prédateurs. Bref, la compétition dans les mers est féroce entre les différentes espèces. C'est peut-être la raison pour laquelle certains arthropodes commencent à de plus en plus s'intéresser aux zones en dehors des océans, là où il y a des champignons géants et des plantes. Probablement, ça a commencé par un scorpion des mers qui décide de protéger ses oeufs sur Terre.</p>
 
-## -425 000 000 d'années
+# -425 000 000 d'années
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/cooksonia.png)</p>
 
@@ -691,11 +692,11 @@ tags: technology
 
 <p>Les animaux proches des araignés sont probablement les premiers animaux à avoir colonisé la Terre. Pour les plantes, il existe une véritable compétition pour la lumière du soleil. Ce qui les fait grandir et les transformer en arbre (Archaeopteris est le nom d'un des premiers arbres). Cette colonisation des continents par les plantes résultent, grâce à la photosynthèse, d'une augmentation du taux d'oxygène dans l'atmosphère. On constate aussi un groupe de poissons qui annonce déjà les tétrapodes par certaines de leurs évolutions osseuses, en particulier au niveau des nageoires, dont certaines caractéristiques commencent à annoncer les pattes des premiers tétrapodes. Les premières pattes fossiles apparaissent ainsi comme des sortes de pagaies, bien adaptées au déplacement (écarter, agripper) dans l'encombrement végétal des rives immergées et des marécages.</p>
 
-## -385 000 000 d'années
+# -385 000 000 d'années
 
 <p>Le niveau d'oxygène commence à tomber, encore plus dans les océans que sur Terre. C'est peut-être la raison pour laquelle il est nécessaire que certains poissons se dotent de poumons, afin de respirer un oxygène plus abondant sur Terre que dans les océans. La respiration pulmonaire, c'est-à-dire la capacité à respirer directement l'oxygène de l'air grâce à un poumon (à l'origine plutôt un sac pulmonaire), est une caractéristique importante des tétrapodes, une de celle qui leur a permis de coloniser les milieux terrestres. Elle est au départ non pas une adaptation à la vie hors de l'eau, mais à une vie dans des milieux aquatiques pauvres en oxygène. Pouvoir respirer de l'air en dehors des océans donne peut-être plus d'énergie à certains poissons afin de pouvoir aller chasser.</p>
 
-## -380 000 000 d'années
+# -380 000 000 d'années
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/panderichthys.jpg)</p>
 
@@ -717,7 +718,7 @@ tags: technology
 
 <p>Ichthyostega est un prédateur qui chasse des proies terrestres et est un carnivore.</p>
 
-## -365 000 000 d'années
+# -365 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -732,7 +733,7 @@ tags: technology
 
 <p>Son milieu de vie est constitué de forêts tropicales, à proximité de rivières ou d’autres points d'eau. Meganeura peut voler avec une taille aussi importante du fait qu'à cette époque il y a davantage d'oxygène dans l'atmosphère que les 21 % actuels. Ceci donne la possibilité pour les insectes d'être plus efficient qu'aujourd'hui.</p>
 
-## -360 000 000 d'années
+# -360 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -741,11 +742,11 @@ tags: technology
 
 <p>On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobitent traînent sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.</p>
 
-## -350 000 000 d'années
+# -350 000 000 d'années
 
 <p>On trouve les premières plantes avec des feuilles, c'est-à-dire que certaines plantes développent les capacités de photosynthèse à un autre niveau. Elles jouent un rôle important dans l'évolution de la vie sur Terre en fournissant une grande quantité de nourriture et d'oxygène pour les animaux et en permettant la colonisation de nouveaux milieux par les plantes. Les feuilles permettent de beaucoup mieux répartir l'eau qu'un simple tissu vasculaire à travers ses veines. Et plus la circulation d'eau est aisée, plus la plante pousse vite.</p>
 
-## -340 000 000 d'années
+# -340 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -758,25 +759,25 @@ tags: technology
 
 <p style="display:block;text-align:center">(Hylomonus)</p>
 
-## -335 000 000 d'années
+# -335 000 000 d'années
 
 <p>Tous les continents fusionnent en un seul super-continent, Pangée, qui renferme en son sein une mer intéreure: Thétis.</p>
 
 <p>La formation du supercontinent Pangée a des conséquences importantes sur la vie: la longueur des côtes, et donc la superficie des eaux côtières qui abritent la majorité des espèces marines sont considérablement réduites. Il s'ensuit une importante extinction marine.</p>
 
-## -305 000 000 d'années
+# -305 000 000 d'années
 
 <p>Enfin, sur terre, l'éloignement des terres de la Pangée centrale (Amérique du Nord, Amérique du Sud et Afrique) par rapport à la mer conduit à une forte baisse des précipitations dans ces régions et, donc, à l'expansion de gigantesques déserts.</p>
 
 # - 300 000 000 d'années
 
-<p>Les continents sont occupés par des marres.</p>
+<p>Les continents sont occupés par des marres. Le climat, chaud et humide, favorise la formation de gigantesques marécages et forêts luxuriantes qui recouvrent d’immenses plaines continentales. Les continents ressemblent moins à nos forêts modernes qu’à une immense jungle marécageuse, traversée de deltas et de lagunes intérieures.</p>
 
-## - 290 000 000 d'années
+# - 290 000 000 d'années
 
-<p>La plupart des forêts sont remplacées par du désert au coeur du continent de Pangée.</p>
+<p>La plupart des forêts sont remplacées par du désert au coeur du continent de Pangée. En effet, le climat devient extrêmement sec et continental au centre de la Pangée : étés brûlants, hivers glacials, pluies rares. Ce sont des paysages semblables aux grands déserts modernes (Sahara, Australie centrale), mais s’étendant sur des millions de kilomètres carrés.</p>
 
-## -252 000 000 d'années
+# -252 000 000 d'années
 
 <p>L'évolution progresse vite et les petits lézards deviennent des reptiles géants. Ces premiers types de reptiles géants connus sont assez proches des tortues mais ce ne sont pas des dinosaures.</p>
 
@@ -792,9 +793,9 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/scutosaure.mp4"/>
 </p>
 
-<p>Les Scutosaures (nom scientifique Scutosaurus) étaient de grands reptiles terrestres herbivores vivent à la fin du Permien.</p>
+<p>Les Scutosaures (nom scientifique Scutosaurus) sont de grands reptiles terrestres herbivores vivent à la fin du Permien. Sa cuirasse et sa taille imposante le protège contre les prédateurs du Permien, notamment les gorgonopsiens, de grands carnivores à dents de sabre (précurseurs lointains des mammifères).</p>
 
-## -250 000 000 d'années
+# -250 000 000 d'années
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -807,21 +808,23 @@ tags: technology
 
 <p>La majorité des espèces terrestres périssent à cause de la chaleur extrême, seules 5% d'entre elles survivent en se réfugiant sous terre.</p>
 
-## -240 000 000 d'années
+# -240 000 000 d'années
 
-<p>Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent.</p>
+<p>La Terre se remet difficilement de la plus grande crise biologique de son histoire : les océans sont appauvris, les terres sont nues, mais la vie commence à renaître.</p>
+
+<p>Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent. C’est le début de la lente dislocation du supercontinent qui donnera naissance à nos continents actuels.</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/thetis.jpg)</p>
 
 <p style="display:block;text-align:center">(Pangée)</p>
 
-## -230 000 000 d'années
+# -230 000 000 d'années
 
 <p>Le supercontinent de la Pangée commence à se fracturer très lentement. C'est le début de la séparation entre l'Amérique du nord et l'Afrique. La chaleur sous le supercontinent de la Pangée joue un rôle crucial dans le processus de séparation.</p>
 
 <p>Cette accumulation de chaleur et de tension crée des forces tectoniques qui peuvent fissurer la croûte terrestre, formant des rifts ou des crevasses. Ces rifts peuvent éventuellement s'élargir et permettre la montée du magma, formant ainsi de nouvelles croûtes océaniques et séparant les plaques continentales. Ce processus est ce qui a conduit à la fragmentation de la Pangée en plusieurs continents.</p>
 
-## -218 000 000 d'années
+# -218 000 000 d'années
 
 <p>Le premier vrai mammifère, fidèle à notre lignée, apparaît. Il est petit et fait peut-être moins d'un kilo. On n'a pour le moment pas trouvé de fossiles de ce premier mammifère. Mais il a probablement les caractéristiques qui permet de dire que c'est un mammifère. Ces caractéristiques sont les suivantes:</p>
 
@@ -829,7 +832,7 @@ tags: technology
 2 Il a une mâchoire<br />
 3 Les femelles peuvent produire du lait<br />
 
-## -205 000 000 d'années
+# -205 000 000 d'années
 
 <p>Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.</p>
 
@@ -1892,13 +1895,15 @@ tags: technology
 
 <p>Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet de commencer à enregistrer leur histoire et leur littérature.</p>
 
-<p>L'Iliade et l'Odyssée, attribuées à Homère, sont parmi les œuvres fondatrices de la littérature occidentale. Elles racontent respectivement la guerre de Troie et les aventures d'Ulysse.</p>
-
-## -753 ans
+# -753 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/u2AdfEHfV_U" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Il y a d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands.</p>
+
+# - 750 ans
+
+Composée de l'Iliade à l’époque archaïque grecque. Elle est attribuée à Homère, un poète (ou groupe de poètes) vivant probablement en Ionie (côte d’Asie Mineure, actuelle Turquie). Mais cette date ne correspond pas à l’écriture au sens strict : au départ, l’Iliade est orale — transmise par chant et mémoire pendant plusieurs siècles. L’Iliade ne raconte ni toute la guerre de Troie, ni la chute de la ville, ni le cheval de Troie. Elle se concentre uniquement sur quelques semaines de la dixième et dernière année de la guerre et surtout sur la colère d’Achille. L’Iliade est donc un poème sur la colère, la mort et la compassion, pas sur la victoire ni sur le cheval de Troie.
 
 # -600 ans
 
@@ -1908,7 +1913,7 @@ tags: technology
 
 <p>Fin de l'Empire assyrien, en raison de révoltes internes, de problèmes économiques et de l'émergence de puissances rivales, notamment les Babyloniens et les Mèdes. L'empire prend fin avec la chute de sa capitale, Ninive.</p>
 
-## -580 ans
+# -580 ans
 
 ### Athènes
 
