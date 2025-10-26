@@ -189,7 +189,7 @@ tags: technology
 
 # -9 000 000 000 d'années
 
-<p>La création de nouvelles étoiles et de supernovas ralentit lentement.</p>
+<p>Le gaz interstellaire commence à s’appauvrir et la création de nouvelles étoiles et de supernovas ralentit lentement. Les réservoirs de gaz froid (hydrogène et hélium) qui alimentaient les naissances d’étoiles sont peu à peu consommés. Les supernovas et les vents stellaires chassent une partie de ce gaz hors des galaxies. Résultat : le taux de formation stellaire chute progressivement dans la plupart des galaxies. Autrement dit, de moins en moins d’étoiles naissent à mesure que le temps avance.</p>
 
 # -8 000 000 000 d'années
 
@@ -198,11 +198,11 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"/>
 </p>
 
-<p>Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le disque de notre galaxie vient de se former.</p>
+<p>Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le gaz interstellaire s’organise en un disque mince et en rotation rapide autour du centre galactique. Le disque de notre galaxie vient de se former. Les étoiles formées à ce moment-là sont déjà plus riches en métaux (car le milieu interstellaire est enrichi par des générations précédentes de supernovas).</p>
 
 # - 7 000 000 000 d'années
 
-<p>La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée fusionne avec la Voie Lactée et possède un milliard d'étoiles.</p>
+<p>La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée fusionne avec la Voie Lactée et possède un milliard d'étoiles. C’est la première grande collision identifiable entre la Voie lactée et une galaxie satellite massive. Les étoiles issues du Sagittaire sont identifiées aujourd’hui grâce à leurs signatures chimiques distinctes (elles contiennent moins d’éléments lourds et plus d’éléments α comme l’oxygène ou le magnésium).</p>
 
 # -6 000 000 000 d'années
 
