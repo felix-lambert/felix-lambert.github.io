@@ -39,7 +39,7 @@ tags: technology
 
 <p>Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.</p>
 
-<p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à 100000000000000000000000000000 (10^27) de fois plus grand.
+<p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à 100000000000000000000000000000 (10^27) de fois plus grand.</p>
 
 <p style="text-align:center"><img src="{{ '/assets/img/quark.jpg' | relative_url }}" alt="Quark" /></p>
 
@@ -60,8 +60,7 @@ tags: technology
 # -13 699 620 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
+  <video controls preload="metadata" width="640" height="360" src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
 </p>
 
 <p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).</p>
@@ -89,8 +88,7 @@ tags: technology
 
 <p>Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.</p>
 
-<p>Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations montrent que les étoiles primitives sont assez différentes de celles qui sont nées par la suite:</p>
-<p>il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.</p>
+<p>Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations montrent que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.</p>
 
 <p>A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.</p>
 
