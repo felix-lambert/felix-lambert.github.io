@@ -771,7 +771,7 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/devonian.mp4"/>
 </p>
 
-<p>On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction de presque tous les trilobites et des poissons sans machoire par exemple. Bien que maintenant éteints, les trilobitent traînent sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.</p>
+<p>On connait une nouvelle extinction massive (extinction du dévonien tardif) causée par une baisse rapide du niveau d'oxygène dans les océans. C'est l'extinction des poissons sans machoire par exemple. </p>
 
 # -350 000 000 d'années
 
@@ -839,7 +839,7 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>La lave des volcans envahit les continents jusqu'au niveau de la taille des Etats-Unis, ce qui transforme l'air, avec de l'acide sulfurique, la couche d'ozone et le climat. La vie devient donc à nouveau très rare au sein des continents et les plus grands reptiles de cette époque disparaissent. La montée de la température fait baisser brutalement le taux d'oxygène dans les océans. Des bulles de gaz de méthane s'échappent de la mer et fait encore plus monter la température. Il fait alors plus de 105 degrés.</p>
 
-<p>La majorité des espèces terrestres périssent à cause de la chaleur extrême, seules 5% d'entre elles survivent en se réfugiant sous terre.</p>
+<p>La majorité des espèces terrestres périssent à cause de la chaleur extrême, seules 5% d'entre elles survivent en se réfugiant sous terre. C'est aussi l'extinction de tous les trilobites. Bien que maintenant éteints, les trilobitent traînent sur notre planète pendant près de 300 millions d'années, ce qui en fait l'un des animaux avec une durée de vie la plus longue de tous les temps.</p>
 
 # -240 000 000 d'années
 
@@ -847,9 +847,11 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Au sein du supercontinent, Pangée, une grande fissure apparaît et commence à morceller le continent. C’est le début de la lente dislocation du supercontinent qui donnera naissance à nos continents actuels.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/thetis.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/thetis.jpg" alt="Gif 2" width="400">
+</p>
 
-<p style="display:block;text-align:center">(Pangée)</p>
+<p style="display:block;text-align:center">(Thetis)</p>
 
 # -230 000 000 d'années
 
@@ -869,7 +871,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/morganucodon.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/morganucodon.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Morganucodon)</p>
 
