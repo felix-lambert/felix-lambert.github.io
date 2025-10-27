@@ -386,7 +386,9 @@ tags: technology
 
 # -2 800 000 000 d'années
 
-<p>Le taux d'oxygène dans l'atmosphère est de 0,2 % avec une température moyenne de 10 degrés. Ce froid empêche les cyanobactéries de produire de l'oxygène, ainsi le niveau d'oxygène tombe à zéro dans l'atmosphère.</p>
+<p>Les cyanobactéries produisent déjà de l’oxygène, mais il est immédiatement absorbé par les océans et les roches, le climat reste chaud, bien que sujet à des refroidissements passagers, et l’atmosphère ne contient pas encore d’oxygène libre significatif.</p>
+
+<p>Les océans sont riches en fer dissous (Fe²⁺), donnant une couleur verdâtre ou brunâtre.</p>
 
 # -2 700 000 000 d'années
 
@@ -434,7 +436,9 @@ tags: technology
 
 # -1 400 000 000 d'années
 
-<p>Les algues sont les premiers organismes photosynthétiques à se développer dans les fonds marins.</p>
+<p>Les algues sont les premiers organismes photosynthétiques à se développer dans les fonds marins, dans des environnements peu profonds. Ces algues complètent le travail des cyanobactéries, contribuant à enrichir les océans et l’atmosphère. Elles transforment les fonds marins en véritables “poumons bleus” de la Terre, amorçant l’oxygénation durable de la planète et ouvrant la voie à la vie multicellulaire.</p>
+
+<p>L’atmosphère contient désormais environ 1 à 2 % d’oxygène, grâce aux cyanobactéries qui œuvrent pendant plus d’un milliard d’années.</p>
 
 # -1 300 000 000 d'années
 
@@ -482,11 +486,15 @@ Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel i
 
 <p style="display:block;text-align:center">(Basalte vu au fond de l'océan)</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/lavebasaltique.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/lavebasaltique.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Coulée de lave basaltique refroidie)</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/cathedralebasalte.JPG)</p>
+<p style="text-align:center">
+  <img src="/assets/img/cathedralebasalte.JPG" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</p>
 
@@ -501,7 +509,9 @@ Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel i
 
 <p>Les éponges de mer apparaissent. Elles sont les premiers êtres multicellulaires et commencent à vivre au fond des mers.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/eponges.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/eponges.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Eponges de mer)</p>
 
@@ -517,7 +527,7 @@ Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel i
 
 # -660 000 000 d'années
 
-<p>Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone.</p>
+<p>Les volcans, encore une fois, libèrent la Terre de cette banquise englobante en libérant des milliards de tonnes de carbone. Cet excès de CO₂ déclenche un effet de serre massif avec un réchauffement brutal, une fonte des glaces continentales et marines et la libération de vapeur d’eau (autre gaz à effet de serre), amplifiant encore le réchauffement.</p>
 
 # -650 000 000 d'années
 
@@ -542,6 +552,8 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>La vie animale est toujours une exception. Elle est toujours très simple et pas très dynamique. Mais le niveau d'oxygène dans les océans est en constante augmentation.</p>
 
+<p>Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Autrement dit, manger en continu pendant que le reste du repas est digéré. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.</p>
+
 ## -560 000 000 d'années
 
 <p>Cette hausse d’oxygène crée une explosion d'animaux complexes qui parviennent à utiliser leur propre force pour se mouvoir. On appelle ce moment, l'explosion cambrienne. En plus des plantes placées au niveau des fonds des océans, certaines cellules eucaryotes se développent et pleins de petits animaux existent désormais dans les océans, avec principalement des vers, des éponges marines et des animaux avec des coquilles (mollusques).</p>
@@ -554,15 +566,15 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -540 000 000 d'années
 
-<p>Apparition d'animaux avec une bouche et un anus. L’anus est en effet considéré comme l’une des innovations les plus importantes, car une bouche et un anus séparés permettent d’excréter tout en mangeant ou digérant. Autrement dit, manger en continu pendant que le reste du repas est digéré. Cela évite aussi de faire remonter d’éventuels contaminants ou biocontaminants fécaux (une bactérie pathogène par exemple) vers la bouche.</p>
-
 <p>Les arthropodes font leur apparition. Ils prospèrent rapidement et évoluent en un grand nombre de formes différentes. Aujourd'hui, ils sont l'un des groupes d'animaux les plus diversifiés et les plus répandus sur Terre, avec des centaines de milliers d'espèces connues. Les arthropodes sont présents dans presque tous les écosystèmes terrestres et aquatiques et jouent un rôle important dans les équilibres écologiques et les cycles naturels.</p>
 
 <p>L'embranchement des arthropodes est de très loin celui qui possède le plus d'espèces et le plus d'individus de tout le règne animal, tels les myriapodes, crustacés, arachnides, insectes, etc.</p>
 
 # -530 000 000 d'années
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/Haikouichthys_NT.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/Haikouichthys_NT.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Haikouichthys)</p>
 
