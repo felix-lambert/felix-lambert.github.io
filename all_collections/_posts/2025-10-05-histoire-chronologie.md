@@ -1266,17 +1266,23 @@ Il devient un sujet, pas seulement un organisme vivant.</p>
 
 ## -45 000 ans
 
-<p>Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie (à l'Est) à l'Espagne et l'Italie (à l'Ouest).</p>
+<p>Les humains modernes font à nouveau irruption en Europe, sur plusieurs fronts, de la Bulgarie (à l'Est) à l'Espagne et l'Italie (à l'Ouest). Les Homo sapiens (venus d’Afrique via le Proche-Orient) s’y installent définitivement pour la première fois. Le climat est froid mais encore instable, à l’approche du dernier maximum glaciaire. Des périodes plus tempérées permettent la migration d’humains et d’animaux.</p>
 
 ## -44 000 ans
 
-<p>Les plus anciennes peintures connues, d'Indonésie, sont réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux.</p>
+<p>Les plus anciennes peintures connues, d'Indonésie, sont réalisées; les chasseurs représentés sur les murs semblent être mi-humains, mi-animaux. Les chasseurs ont des caractéristiques animales : museaux, queues, parfois ailes.
+C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et l’animal se confondent. La scène principale est en effet une chasse narrative, la plus ancienne connue de l’humanité. Elles bouleversent notre vision de l’origine de l’art : on pensait autrefois que l’art figuratif était né en Europe (Lascaux, Chauvet…), mais ces fresques montrent qu’il est apparu plus tôt en Asie du Sud-Est. Les artistes sont des Homo sapiens modernes, pas des Néandertaliens ni des Denisoviens.</p>
+
+<p>Jusqu’ici, les œuvres d’art pariétal représentaient surtout des animaux isolés. Ici, pour la première fois, on a une scène complète, avec plusieurs acteurs, une interaction, une intention narrative — autrement dit : le début de la fiction.</p>
 
 ## -42 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/L5W7Ge_ZvJs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/thorin.mp4"/>
+</p>
 
-<p>Un groupe de Néandertaliens, les thorins, vit en Europe juste avant l’arrivée massive des Homo sapiens modernes. La population de Thorin est l’une des dernières générations néandertaliennes avant leur extinction.</p>
+<p>La population de Thorin est l’une des dernières générations néandertaliennes avant leur extinction. 1 à 4 % de notre ADN vient d’eux.</p>
 
 # -40 000 ans
 
@@ -1286,7 +1292,10 @@ Il devient un sujet, pas seulement un organisme vivant.</p>
 
 <p>Il est peut-être utile de mentionner que cette fin est violente car on retrouve des traces de cannibalisme entre différentes tribus de Néandertaliens, probablement, encore une fois, à cause de ce manque de nourriture.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/styleprehistoire.mp4"/>
+</p>
 
 <p>Création de la Vénus de Hohle Fels, l'une des plus anciennes œuvres d'art figuratif du monde. La figurine est sculptée dans de l'ivoire de mammouth et mesure environ 6 cm de haut. Elle représente une femme aux formes voluptueuses, avec de gros seins, des hanches proéminentes et une forte détermination des parties génitales.</p>
 
