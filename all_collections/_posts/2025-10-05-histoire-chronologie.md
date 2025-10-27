@@ -890,7 +890,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Les eaux de la mer s'engoufrent dans la grande fissure de Pangée, qui commence à se diviser il y a 50 millions d'années. Cette faille divise le supercontinent Pangée.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/pangee.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/pangee.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Pangée)</p>
 
@@ -898,8 +900,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 ## -175 000 000 d'années
 
-<p style="display:block;text-align:center">![Octocat](https://media.giphy.com/media/JEjyLjbuOjjYA/giphy.gif)</p>
-
+<p style="text-align:center">
+  <img src="https://media.giphy.com/media/JEjyLjbuOjjYA/giphy.gif" alt="Gif 2" width="400">
+</p>
 <p>Le continent, Pangée, commence à se fissurer de tous les côtés et l'océan atlantique apparaît. La structure des continents commencent à ressembler à la structure actuelle.</p>
 
 <p style="text-align:center">
