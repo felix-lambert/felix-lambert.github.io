@@ -1154,22 +1154,20 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -500 000 ans
 
-<p>Les hominidés commencent à utiliser des abris et des grottes pour se protéger du froid et des prédateurs. La mer Méditerranée se forme à la suite de l'élargissement de la vallée du Rhin et du Danube.</p>
-
-<p>Les Dénisoviens apparaissent en Asie. Ce sont en quelque sorte les cousins asiatiques des Néandertaliens. Mais les fossiles sont très rares : un fragment de phalange, une mâchoire, et quelques dents.</p>
-
-<p>Aujourd’hui, les populations de Papouasie-Nouvelle-Guinée, d’Australie aborigène et de certaines régions d’Asie du Sud-Est possèdent 3 à 5 % de gènes dénisoviens. Ces gènes sont liés à une meilleure adaptation à l’altitude (gène EPAS1 chez les Tibétains), et à certaines réponses immunitaires contre les pathogènes locaux.</p>
-
-# - 450 000 ans
-
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neandertal.mp4"/>
 </p>
 
-<p>Début des hommes de Néandertal. Ils peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).</p>
+<p>Plusieurs espèces humaines coexistent : Homo heidelbergensis, Homo erectus tardif, et les premiers représentants des Néandertaliens en Europe. Ces hominidés possèdent déjà une morphologie proche de la nôtre : un grand corps robuste, une posture parfaitement droite et un cerveau de plus en plus volumineux. Ils vivent à une époque où le climat devient plus instable, alternant entre périodes glaciaires et interglaciaires. Cette variabilité climatique pousse les groupes humains à s’adapter en développant des stratégies de survie plus élaborées. C’est à cette période que les hominidés commencent à utiliser systématiquement des abris naturels, notamment les grottes et les abris sous roche. Ces refuges leur servent à se protéger du froid, du vent, et des prédateurs (hyènes, lions, ours des cavernes). Les foyers maîtrisés — traces de feux entretenus retrouvées en Europe (notamment à Terra Amata, en France, et à Zhoukoudian, en Chine) — témoignent d’une organisation de l’espace de vie : zones de couchage, foyers centraux, restes de nourriture. Ce n’est pas encore de l’“habitat construit”, mais c’est une étape décisive vers la sédentarisation symbolique : les hominidés choisissent désormais où s’abriter, plutôt que de se déplacer au hasard.</p>
+
+<p>Les hommes de Néandertal peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).</p>
 
 <p>Le Néandertal court très vite mais est possiblement moins endurant que Homo Sapiens.</p>
+
+<p>Les Dénisoviens apparaissent en Asie. Ce sont en quelque sorte les cousins asiatiques des Néandertaliens. Mais les fossiles sont très rares : un fragment de phalange, une mâchoire, et quelques dents.</p>
+
+<p>Aujourd’hui, les populations de Papouasie-Nouvelle-Guinée, d’Australie aborigène et de certaines régions d’Asie du Sud-Est possèdent 3 à 5 % de gènes dénisoviens. Ces gènes sont liés à une meilleure adaptation à l’altitude (gène EPAS1 chez les Tibétains), et à certaines réponses immunitaires contre les pathogènes locaux.</p>
 
 # - 400 000 ans
 
@@ -1202,27 +1200,45 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Apparition d'Homo sapiens en Afrique (Maroc, Éthiopie).</p>
 
+<p>Par rapport à ses prédécesseurs (comme Homo erectus ou Homo heidelbergensis), Homo sapiens se distingue par plusieurs innovations clés :</p>
+
+<p>Crâne plus arrondi, front vertical.</p>
+<p>Mentons bien marqués (une nouveauté anatomique).</p>
+<p>Cerveau d’environ 1350 cm³, comparable au nôtre.</p>
+
+<p>Les données génétiques modernes montrent que Homo sapiens ne vient pas d’un seul “berceau”, mais de plusieurs populations africaines interconnectées. Il ne faut donc plus imaginer une “naissance unique” dans un seul lieu, mais plutôt un réseau de populations africaines qui ont échangé leurs gènes et leurs innovations pendant des centaines de milliers d’années.</p>
+
 ## - 250 000 ans
 
-<p>Fin de Homo Erectus. Il a vécu plus de 1.5 millions d'années.</p>
+<p>Fin de Homo Erectus. Il a vécu plus de 1.5 millions d'années. C'est une espèce qui a marqué l’histoire par sa longévité exceptionnelle et son rôle de pont évolutif entre les premiers hominidés et les humains modernes. La fin d’Homo erectus ne résulte pas d’une extinction brutale, mais d’un remplacement graduel par ses descendants plus récents. Homo erectus disparaît donc lentement, emporté par la sélection naturelle et les changements climatiques, mais son héritage génétique et technologique perdure à travers toutes ces nouvelles lignées.</p>
 
 # -100 000 ans
 
-<p>La population humaine commence à décroître.</p>
+<p>La population humaine commence à décroître. C'est une phase difficile dans l’histoire des premiers humains modernes (Homo sapiens) et de leurs cousins. La planète entre dans la dernière grande période glaciaire du Quaternaire, appelée glaciation de Würm (ou glaciation de Wisconsin en Amérique du Nord). Ce refroidissement global provoque des crises écologiques : la nourriture se raréfie, les migrations animales changent, et les groupes humains doivent s’adapter à des environnements hostiles.</p>
+
+<p>Premières traces d’enterrements néandertaliens en Israël (site de Qafzeh). Enterrer ses morts, c’est comprendre qu’un corps ne bouge plus mais mérite un traitement particulier. </p>
 
 # -90 000 ans
 
-<p>Les hominidés commencent à utiliser des pigments colorés pour la décoration corporelle.</p>
+<p>On voit les premières preuves de pensée symbolique : les humains ne se contentent plus de survivre, ils cherchent à signifier, à exprimer et à représenter.</p>
+
+<p>Les hominidés commencent à utiliser des pigments colorés pour la décoration corporelle. Le pigment le plus utilisé est l’ocre, une roche riche en oxyde de fer qu’on broie pour obtenir une poudre rouge, orangée ou brunâtre. Elle est non toxique, facile à trouver, et produit une couleur vive et durable. C’est peut-être un signe de statut, de clan, de séduction ou de rituel (initiation, chasse, funérailles). C’est la première fois qu’on voit une recherche esthétique et identitaire dans la préhistoire.</p>
+
+<p>L’être humain ne se contente plus de vivre, il se perçoit lui-même dans le regard des autres et cherche à manifester son existence. Se peindre ou se parer suppose une conscience du regard d’autrui : on veut plaire, impressionner, marquer son rôle dans le groupe. Autrement dit, l’homme commence à exister pour lui-même à travers le regard des autres. C’est le début de la représentation sociale de soi.</p>
+
+<p>En se décorant, l’homme ne se contente pas de survivre : il affirme son identité, il réfléchit à ce qu’il est et à ce qu’il veut montrer.
+Il devient un sujet, pas seulement un organisme vivant.</p>
 
 # -80 000 ans
 
-<p>Présence d'homo Sapiens en Asie du Sud-Est.</p>
-
-<p>Premières traces d’enterrements néandertaliens en Israël (site de Qafzeh).</p>
+<p>Présence d'homo Sapiens en Asie du Sud-Est. C’est le premier grand voyage de l’humanité moderne. Les humains franchissent des montagnes, des déserts et même des bras de mer pour atteindre l’Asie du Sud-Est et l’Océanie. Ce</p>
 
 # -74 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-Y4jLQBnz2M" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/supervolcan.mp4"/>
+</p>
 
 <p>En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.</p>
 
