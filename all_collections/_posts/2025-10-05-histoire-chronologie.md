@@ -1007,7 +1007,7 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # - 50 000 000 d'années
 
-<p>Les plus gros mammifères marins voient le jour: les premières baleines.</p>
+<p>Les plus gros mammifères marins voient le jour: les premières baleines. C’est l’un des exemples les plus spectaculaires d’évolution adaptative, car des mammifères terrestres retournent vivre en mer.</p>
 
 ## -47 000 000 d'années
 
@@ -1024,10 +1024,6 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 ## -35 000 000 d'années
 
 <p>Les glaciers commencent leur propagation à travers l'Antarctique.</p>
-
-## -33 000 000 d'années
-
-<p>Les grands singes sont surtout répartis en Europe.</p>
 
 ## -30 000 000 d'années
 
@@ -1053,15 +1049,19 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 <p>1 Ils sont bipèdes (marche avec deux pieds une bonne partie de son temps)</p>
 <p>2 Les canines des males et des femelles se ressemblent (chez les grands singes les canines des males sont plus grandes que les canines des femelles)</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/chimpanze.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/chimpanze.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Chimpanzé)</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/bonobo.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/bonobo.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Bonobo)</p>
 
-<p>Les ancètres le plus proche des hominidés sont le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.</p>
+<p>Les ancètres les plus proches des hominidés sont le chimpanzé et le bonobo. Pour un homididé, marcher debout est le moyen standard de locomotion. L'adoption de la bipédie, par une lignée de singes vivant en marge des rivières de l'Afrique est l'un des plus remarquables, improbables et déroutants événements de toute l'histoire de la vie.</p>
 
 <p>Les suggestions selon lesquelles la bipédie a libéré les mains pour, par exemple, fabriquer des outils ou tenir des nourrissons, ne sont pas très convaincants, étant donné que de nombreux animaux gèrent les deux sans le changement en profondeur de la bipédie des hominidés.</p>
 
@@ -1094,10 +1094,6 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 <p>Le silex est peut-être le tout premier objet fabriqué par l'homme.</p>
 
 <p>Ces premières utilisations de la pierre marquent le début du Paléolithique, qui s'achève avec le développement de l'agriculture il y a environ 12000 ans.</p>
-
-# - 2 000 000 d'années
-
-<p>L'homo australopithèque utilise surtout la marche comme moyen de se déplacer et arrête définitivement de grimper dans les arbres, sauf s'il y a une menace imminente.</p>
 
 ## - 1 800 000 ans
 
