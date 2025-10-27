@@ -582,7 +582,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -525 000 000 d'années
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/trilobite.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/trilobite.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Trilobite)</p>
 
@@ -592,7 +594,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -505 000 000 d'années
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/anomacolis.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/anomacolis.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Anomacolis)</p>
 
@@ -608,15 +612,21 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Le corps long et étroit, recouvert d'un exosquelette, est doté d'une bouche avec des dents, de pattes flexibles, de 28 nageoires latérales réparties par paires et d'une longue queue en V constituée, assurant probablement à l'animal une propulsion rapide dans l'eau.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/metaspriggina.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/metaspriggina.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Le plus ancien poisson et un des premiers vertébrés: Metaspriggina)</p>
 
 <p>Ce premier poisson, a une bouche, mais pas de mâchoires. Il sait nager – et vite, pour éviter la poursuite cauchemardesque d'arthropodes géants tels que Anomalocaris. Les poissons sans machoires se nourrissent en suçant la chair de leurs proies.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/lamprey.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/lamprey.jpg" alt="Gif 2" width="400">
+</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/myxine.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/myxine.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Les vertébrés les plus primitifs vivants aujourd'hui sont les lamproies et les myxine: ils n'ont, comme les premiers poissons, pas de mâchoires)</p>
 
@@ -656,7 +666,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Les poissons, les vertébrés, commencent à peupler les mers et à se diversifier. On commence par constater l'existence de poissons avec des machoires, d'autres qui peuvent respirer en dehors de l'eau, puis certains poissons élaborent une peau construite à partir de dents externes pour se protéger des prédateurs. Ces dents externes sont rentrés dans la machoire chez certains poissons.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/jaekelopterus.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/jaekelopterus.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Jaekelopterus)</p>
 
@@ -664,7 +676,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -425 000 000 d'années
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/cooksonia.png)</p>
+<p style="text-align:center">
+  <img src="/assets/img/cooksonia.png" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Cooksonia)</p>
 
@@ -689,7 +703,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/placoderm.mp4"/>
 </p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/placoderme.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/placoderme.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Placoderme)</p>
 
@@ -707,13 +723,17 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -380 000 000 d'années
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/panderichthys.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/panderichthys.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>On constate l'existence d'un poisson (Panderichthys) utilisant ses nageoires comme des pagaies, car il vit dans des eaux peu profondes, dans des eaux saumâtres (estuaires, marais côtiers) envahies de plantes et de détritus. Il est possible qu'il utilise ses nageoires pour s'accrocher aux plantes ou à autre chose pendant qu'il se tienne en embuscade attendant ses proies. Dans la mesure où certains poissons vivent entre l'eau et la Terre, on voit apparaître un trou au niveau du haut de la tête de certains poissons (un peu comme les dauphins) qui est relié à des poumons chez certains poissons, de pattes/nageoires chez les premiers tétrapodes aquatiques.</p>
 
 <p>Cette capacité à occuper des milieux très diversifiés auraient facilité leur rapide dispersion sur tous les continents, prélude à la terrestrialisation de certaines lignées.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/ichthyostegalia.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/ichthyostegalia.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>Ichthyostega, le premier tétrapode qui sort de l'eau et qui s'adapte à la fois à la nage et à une forme de locomotion terrestre, a trois adaptations majeures :</p>
 
@@ -736,7 +756,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Il y a une remontée du niveau d'oxygène, avec des araignées, des scorpions et des libellules (Meganeura) géants. Ces dernières sont les premiers groupes d'animaux à s'envoler. Les forêts s'agrandissent et se multiplient sur les continents.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/meganeura.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/meganeura.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Meganeura)</p>
 
@@ -764,7 +786,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Un premier groupe de tétrapodes commencent à protéger leurs oeufs au niveau des continents, là où la vie des plantes explose, plutôt que dans les océans. Ces oeufs ont des coquilles afin d'éviter qu'ils ne sèchent pas et ils ont tous l'eau et les ingrédients nécessaires pour le développement du futur animal. C'est le début des animaux cent pour cent terrestre en dehors des insectes et le début des reptiles (Hylonomus est un exemple de première espèce de reptile). Ce dernier se nourrit d'escargots et d'insectes.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/hylonomus.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/hylonomus.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Hylomonus)</p>
 
