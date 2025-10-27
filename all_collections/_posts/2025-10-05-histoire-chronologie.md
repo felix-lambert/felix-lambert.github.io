@@ -981,7 +981,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Le primate le plus ancien est probablement Purgatorius.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/purgatorius.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/purgatorius.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="display:block;text-align:center">(Purgatorius)</p>
 
