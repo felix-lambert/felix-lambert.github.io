@@ -1130,11 +1130,11 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Traces d'utilisation du feu. Homo Erectus est capable de maîtriser le feu. Avec cette maîtrise l'avantage principal est de se chauffer.</p>
 
-<p>L'usage du feu permet aussi à l'espèce humaine de se déplacer plus loin, dans des climats différents. Contrairement à tous les hominidés antérieurs, Homo Erectus a prospéré non seulement en Afrique mais également dans toute l'Eurasie. Très probablement, ces ancêtres ont partagé leur proie, un peu comme les chasseurs-cueilleurs le font aujourd'hui, favorisant la cohésion sociale au sein du groupe.</p>
+<p>L'usage du feu permet aussi à l'espèce humaine de se déplacer plus loin, dans des climats différents. Très probablement, ces ancêtres partagent leur proie, un peu comme les chasseurs-cueilleurs le font aujourd'hui, favorisant la cohésion sociale au sein du groupe.</p>
 
 # - 1 000 000 d'années
 
-<p>Homo Erectus commence à coloniser l'Eurasie.</p>
+<p>Homo Erectus commence à coloniser l'Eurasie. Contrairement à tous les hominidés antérieurs, Homo Erectus prospère non seulement en Afrique mais également dans toute l'Eurasie. </p>
 
 # -900 000 années
 
@@ -1150,11 +1150,15 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # -600 000 ans
 
-<p>Les homidités commencent à se déplacer sur de plus longues distances, atteignant des endroits éloignés tels que les îles de l'Indonésie.</p>
+<p>En Asie du Sud-Est, Homo erectus atteint des zones très éloignées, notamment les îles de l’Indonésie comme Java. Ce franchissement de bras de mer suggère qu’ils possèdent déjà une intelligence technique et une organisation sociale suffisantes pour traverser ou contourner des obstacles naturels. En s’étendant ainsi, les hominidés posent les bases de la diversification régionale qui donnera plus tard naissance à différentes espèces humaines, comme les Néandertaliens en Europe et les Dénisoviens en Asie.</p>
 
 # -500 000 ans
 
 <p>Les hominidés commencent à utiliser des abris et des grottes pour se protéger du froid et des prédateurs. La mer Méditerranée se forme à la suite de l'élargissement de la vallée du Rhin et du Danube.</p>
+
+<p>Les Dénisoviens apparaissent en Asie. Ce sont en quelque sorte les cousins asiatiques des Néandertaliens. Mais les fossiles sont très rares : un fragment de phalange, une mâchoire, et quelques dents.</p>
+
+<p>Aujourd’hui, les populations de Papouasie-Nouvelle-Guinée, d’Australie aborigène et de certaines régions d’Asie du Sud-Est possèdent 3 à 5 % de gènes dénisoviens. Ces gènes sont liés à une meilleure adaptation à l’altitude (gène EPAS1 chez les Tibétains), et à certaines réponses immunitaires contre les pathogènes locaux.</p>
 
 # - 450 000 ans
 
