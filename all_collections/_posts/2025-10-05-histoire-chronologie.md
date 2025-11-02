@@ -1159,6 +1159,11 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neandertal.mp4"/>
 </p>
 
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuneanderthal.mp4"/>
+</p>
+
 <p>Plusieurs espèces humaines coexistent : Homo heidelbergensis, Homo erectus tardif, et les premiers représentants des Néandertaliens en Europe. Ces hominidés possèdent déjà une morphologie proche de la nôtre : un grand corps robuste, une posture parfaitement droite et un cerveau de plus en plus volumineux. Ils vivent à une époque où le climat devient plus instable, alternant entre périodes glaciaires et interglaciaires. Cette variabilité climatique pousse les groupes humains à s’adapter en développant des stratégies de survie plus élaborées. C’est à cette période que les hominidés commencent à utiliser systématiquement des abris naturels, notamment les grottes et les abris sous roche. Ces refuges leur servent à se protéger du froid, du vent, et des prédateurs (hyènes, lions, ours des cavernes). Les foyers maîtrisés — traces de feux entretenus retrouvées en Europe (notamment à Terra Amata, en France, et à Zhoukoudian, en Chine) — témoignent d’une organisation de l’espace de vie : zones de couchage, foyers centraux, restes de nourriture. Ce n’est pas encore de l’“habitat construit”, mais c’est une étape décisive vers la sédentarisation symbolique : les hominidés choisissent désormais où s’abriter, plutôt que de se déplacer au hasard.</p>
 
 <p>Les hommes de Néandertal peuvent bien sûr fabriquer des outils, faire du feu, mais aussi faire des objets de décoration comme des bijoux. Ils sont un peu plus petit que Homo Sapiens avec une plus grande masse musculaire (plus musclé que Homo Sapiens). Cette masse musculaire requiert à l'homme de Néandertal de manger plus de calorie qu'Homo Sapiens (il doit manger en moyenne l'équivalent d'un hamburger de plus par jour qu'un humain).</p>
@@ -1299,10 +1304,6 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Création de la Vénus de Hohle Fels, l'une des plus anciennes œuvres d'art figuratif du monde. La figurine est sculptée dans de l'ivoire de mammouth et mesure environ 6 cm de haut. Elle représente une femme aux formes voluptueuses, avec de gros seins, des hanches proéminentes et une forte détermination des parties génitales.</p>
 
-<p>Homo Sapiens, quant à lui, survit, et est désormais le seul hominidé qui existe.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PvyiZKc0Iew" frameborder="0" allowfullscreen></iframe></p>
-
 <p>Les premières représentations connues de chevaux sont trouvées dans des grottes en Europe occidentale. Les peintures et les gravures représentent des chevaux réalistes et stylisés, mais il n'est pas clair si ces représentations ont une signification symbolique ou rituelle.</p>
 
 <p>Invention de la technologie de la lame. La technologie de la lame implique le détachement de longs éclats fins et rectilignes à partir d'un noyau préparé. Ces lames sont ensuite souvent retouchées pour créer divers outils, tels que des couteaux, des pointes et des grattoirs. En raison de leur forme allongée, les lames offrent un tranchant plus long que les éclats typiques, ce qui est utile pour de nombreuses tâches.</p>
@@ -1351,8 +1352,6 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ## -21 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6HrhkXkYPAk" frameborder="0" allowfullscreen></iframe></p>
-
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QKpcGQMin5M" frameborder="0" allowfullscreen></iframe></p>
 
 <p>La grotte de Lascaux est le théâtre d'une intense activité artistique. Les parois de la grotte sont ornées de peintures et de gravures durant cette période, faisant de Lascaux l'un des exemples les plus extraordinaires d'art pariétal préhistorique au monde. Les œuvres d'art de Lascaux représentent principalement des animaux, tels que des taureaux, des chevaux, des cerfs et des ibex. Il existe également des signes abstraits et des motifs géométriques. Les techniques artistiques employées sont avancées pour l'époque, avec l'utilisation de pigments naturels, d'ombres et de perspectives pour donner du volume et du mouvement aux créatures représentées.</p>
@@ -1371,11 +1370,15 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ## -15 000 ans
 
-<p>La glace commence à fondre.</p>
+<p>La glace commence à fondre parce que la dernière grande période glaciaire touche à sa fin. Les humains peuvent migrer vers le Nord, car les zones auparavant glacées deviennent habitables.</p>
 
 <p>Les personnes vivant pendant le Magdalénien commencent à utiliser des matériaux comme les os et l'ivoire (principalement provenant des animaux qu'ils chassent) pour fabriquer des outils. Ces matériaux sont plus souples que la pierre et peuvent être taillés en formes plus complexes. Et malgré leur facilité de travail, l'os et l'ivoire sont solides et durables, ce qui les rend efficaces pour la fabrication d'outils et d'armes. Ils sont aussi plus légers que la pierre, ce qui rend les armes et les outils plus faciles à manier et à transporter.</p>
 
 <p>Ils sont utilisés pour créer des aiguilles (pour coudre des vêtements en peau), des pointes de flèches, des harpons, et bien d'autres outils.</p>
+
+<p style="text-align:center">
+  <img src="/assets/img/lampe.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>Au même moment que les innovations en outils et armes, les gens du Magdalénien développent des récipients et des lampes. Ils commencent à fabriquer des bols, des coupes et d'autres types de récipients à partir de pierre, d'os, ou même de bois. Ces récipients permettent de stocker, transporter et consommer plus facilement leurs aliments et leur eau.</p>
 
@@ -1702,6 +1705,17 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Une fresque dans la tombe de Ti (Saqqarah) montre la récolte de légumes, dont des concombres. Les concombres sont cultivés le long du Nil grâce aux techniques d'irrigation des Égyptiens. Ils sont consommés crus, parfois assaisonnés avec du sel ou du vinaigre. On les retrouve dans les offrandes funéraires et les inscriptions murales des tombes. C'est un aliment commun, apprécié pour son goût rafraîchissant et ses propriétés hydratantes.</p>
 
+## -2375 ans
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ounas.mp4"/>
+</p>
+
+<p style="text-align:center"><img src="{{ '/assets/img/ounas.jpg' | relative_url }}" alt="Force" /></p>
+
+<p>Le pharaon Ounas (également orthographié Unas) est le dernier souverain de la Ve dynastie de l'Égypte antique. Son règne marque une période de ralentissement de l’autorité royale et de dispersion croissante de l’administration, ce qui contribue, à long terme, à la fragilisation de l’Ancien Royaume. Son œuvre la plus marquante est la construction de sa pyramide à Saqqara, appelée « Nfr swt Wnjs » (« Les lieux de Ounas sont parfaits/achevés »). C’est dans cette pyramide que firent leur apparition pour la première fois les célèbres « Pyramid Texts », textes funéraires gravés sur les parois internes destinés à accompagner le roi dans l’au-delà. Les Pyramid Texts de la pyramide d’Ounas sont considérés comme l’un des premiers corpus religieux écrits en Égypte, reflétant les croyances sur l’au-delà, la résurrection, l’union du roi avec les dieux (notamment ­Osiris).</p>
+
 # -2334 ans
 
 <p>La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important, mais le sumérien reste très pratiqué dans les cités de Sumer.</p>
@@ -1714,9 +1728,12 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Selon la Bible (Genèse 11:31), Abraham serait né à "Ur des Chaldéens", et aurait quitté la ville sur ordre de Dieu pour se rendre en Canaan (Palestine actuelle), mais son lien historique reste débattu. C'est le premier qui commence à croire en un seul Dieu.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/gilgamesh.jpg)</p>
+<p style="text-align:center"><img src="{{ '/assets/img/gilgamesh.jpg' | relative_url }}" alt="Force" /></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/pYkdudibadY" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/L'e%CC%81pope%CC%81e%20de%20Gilgamesh%20-%20Mythologie%20Me%CC%81sopotamienne%20%5BpYkdudibadY%5D.mp4"/>
+</p>
 
 <p>L'Épopée de Gilgamesh : c'est l'une des œuvres littéraires les plus anciennes connues, originaire de la Mésopotamie ancienne, une région correspondant principalement à l'Irak moderne.</p>
 
@@ -1724,15 +1741,15 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Dans la tradition mésopotamienne, les rois sont souvent vus comme des représentants des dieux sur terre. Gilgamesh, qui est à la fois un personnage historique et mythologique, est considéré comme deux tiers divin et un tiers humain, selon l'épopée.</p>
 
-<p>Le cunéiforme, l'un des premiers systèmes d'écriture, est déchiffré au XIXème siècle en les comparant à d'autres langues anciennes.</p>
-
 <p>L'épopée de Gilgamesh fait probablement partie d'une riche tradition orale. Les conteurs ajoutent des détails et des épisodes au fil du temps, ce qui contribue à la longueur et à la complexité de l'histoire.</p>
 
 <p>Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.</p>
 
 # -2000 ans
 
-<p>Les métaux sont importés afin d'être travaillés et revendus. Il est donc nécessaire de nouer des relations commerciales avec d'autres peuples.</p>
+<p>Les peuples entrent dans l’âge du Bronze et commencent à échanger sur de longues distances pour obtenir les métaux rares nécessaires à la fabrication d’armes, d’outils et d’objets de prestige.</p>
+
+<p>Ces échanges, notamment entre l’Europe, la Méditerranée et le Proche-Orient, entraînent la naissance de réseaux commerciaux.</p>
 
 ### Mésopotamie
 
@@ -1854,6 +1871,8 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Mycéniens s’imposent sur Cnossos (Crète) et prennent le contrôle des routes commerciales crétoises. Ils adoptent et transforment l’écriture minoenne linéaire A pour créer le linéaire B, une forme de grec ancien simplifié utilisé pour l’administration. C’est la plus ancienne trace écrite de la langue grecque. Les tablettes retrouvées parlent de troupeaux, offrandes aux dieux, inventaires, etc.</p>
 
+<p>Les Mycéniens sont des descendants probables des peuples indo-européens arrivés dans la péninsule grecque et les ancêtres directs de la civilisation grecque classique.</p>
+
 # -1400 ans
 
 ### Grèce
@@ -1862,11 +1881,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Mycènes domine largement d'autres villes grecques (comme Tirynthe, Pylos, Thèbes).</p>
 
-## -1345 ans
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Ps-EIy0jxGA" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Le pharaon Ounas (également orthographié Unas) est le dernier souverain de la Ve dynastie de l'Égypte antique.</p>
+# -1375 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/90xa34S_lOg" frameborder="0" allowfullscreen></iframe></p>
 
