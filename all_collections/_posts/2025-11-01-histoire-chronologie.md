@@ -1457,7 +1457,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/templetepe.mp4"/>
 </p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/5zUB4BXA6Q4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/argile.mp4"/>
+</p>
 
 <p>En Mésopotamie, considérée comme l'un des berceaux de la civilisation, les premières villes commencent à se former. Çatalhöyük en Anatolie (Turquie moderne) est un exemple de ces premiers établissements urbains. Çatalhöyük est remarquable par son absence apparente de rues. Les maisons sont construites très près les unes des autres, et les habitants se déplacent probablement en marchant sur les toits de ces maisons, entrant par des ouvertures dans le toit qui servent également de portes et de fenêtres.</p>
 
@@ -1472,32 +1475,43 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ## -7 000 ans
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/briquecrue.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/briquecrue.jpg" alt="Gif 2" width="400">
+</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/briquecuite.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/briquecuite.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui), l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre  crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).</p>
 
 ## -6 000 ans
 
-<p>En Amérique du Sud, Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.</p>
+### Amérique du Sud
 
-<p>Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité.</p>
-<p>Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid ou à chaud en divers outils, armes, et ornements.</p>
+<p>Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.</p>
 
-<p>En mésopotamie, les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.</p>
+### Turquie
+
+<p>Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité. Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid en divers outils, armes, et ornements.</p>
+
+### Mésopotamie
+
+<p>Les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.</p>
 
 <p>Premières traces de production découvertes de vin dans les régions qui correspondent aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des poteries contenant des résidus de vin.</p>
 
 # -5000 ans
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/hieroglyphe.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/hieroglyphe.jpg" alt="Gif 2" width="400">
+</p>
 
 ## Mésopotamie
 
-<p>Les premières traces de bière sont présentes dans l'ancienne Mésopotamie, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.</p>
+<p>Les premières traces de bière sont présentes, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.</p>
 
-<p>Première fusion du métal : le Cuivre. La métallurgie du cuivre apparaît d’abord au Proche-Orient, notamment en Anatolie (Turquie actuelle), en Iran et en Mésopotamie.</p>
+<p>Les humains apprennent à fondre le minerai pour obtenir du métal pur ; c’est la véritable naissance de la métallurgie du cuivre.</p>
 
 ## Kazakhstan
 
@@ -1515,17 +1529,13 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les premiers signes d’une organisation tribale en Égypte apparaissent durant la période prédynastique.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/oK4Y3jmmL_Y" frameborder="0" allowfullscreen></iframe></p>
-
 <p>La houe, un des premiers outils agricoles de l’histoire, est utilisée en Égypte. Les premières houes étaient entièrement en bois. Les premiers agriculteurs utilisent des houes en bois courbées, une sorte de bâton recourbé pour ameublir le sol. Ce type de houe nécessite beaucoup d’efforts et sont utilisés pour les cultures de blé et d’orge.</p>
 
 <p>Premières traces de culture du blé et de l'orge et développement des premiers villages agricoles, notamment en Haute-Égypte. Les Égyptiens commencent donc à consommer du pain et de la bière, soit à la même période que le début de l’agriculture du blé et de l’orge. La bière est fabriquée en laissant tremper du pain dans de l’eau, où les levures naturelles déclenchent la fermentation. C'est une bière primitive, non filtrée, ressemblant à une bouillie alcoolisée.</p>
 
 # -4500 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/boQ6i8j8EUk" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Les Sumériens établissent l'une des premières civilisations de l'histoire dans la région du sud de la Mésopotamie (l'actuel Irak).</p>
+<p>Les Sumériens établissent l'une des premières civilisations de l'histoire dans la région du sud de la Mésopotamie (l'actuel Irak). Mais à cette époque, ce ne sont pas encore des « Sumériens » au sens politique ou culturel bien défini : on parle plutôt des cultures proto-urbaines d’Uruk ou de la période d’Obeid.</p>
 
 <p>Les villes de la Mésopotamie ancienne sont organisées en cités-États, chacune gouvernée par un roi ou un dirigeant puissant. Ces dirigeants sont souvent considérés comme des intermédiaires entre les dieux et les peuples. Le système politique inclue également des prêtres qui jouent un rôle crucial dans la gestion des temples et des affaires religieuses, influençant fortement la vie sociale et économique. La société est stratifiée, avec des marchands, des artisans, et des agriculteurs jouant des rôles importants dans l'économie urbaine, tandis que les esclaves effectuent les travaux les plus durs.</p>
 
@@ -1535,7 +1545,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Socialement, ils n’avaient pas encore de royaumes ni d’États, mais plutôt des tribus organisées en clans, où l’autorité revenait aux chefs guerriers et aux anciens. Leur société était déjà hiérarchisée : on distinguait les guerriers, les religieux (chargés des rites et croyances), et la masse des éleveurs.</p>
 
-<p>Par rapport à d’autres groupes contemporains qui pratiquaient déjà une agriculture plus sédentaire (par exemple en Mésopotamie ou en Égypte), les Aryens étaient encore des nomades. Leur richesse n’était pas la terre mais le troupeau, et leur identité commune venait surtout de leur langue (le proto-indo-européen) et de leurs mythes transmis oralement.</p>
+<p>Par rapport à d’autres groupes contemporains qui pratiquent déjà une agriculture plus sédentaire (par exemple en Mésopotamie ou en Égypte), les Aryens sont encore des nomades. Leur richesse n’était pas la terre mais le troupeau, et leur identité commune venait surtout de leur langue (le proto-indo-européen) et de leurs mythes transmis oralement.</p>
 
 # -4300 ans
 
@@ -1543,7 +1553,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 # -4000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/lC1a-kGeDRQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/uruk.mp4"/>
+</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XUUH13_cZSE" frameborder="0" allowfullscreen></iframe></p>
 
