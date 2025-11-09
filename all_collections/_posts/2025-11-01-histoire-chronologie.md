@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Histoire / chronologie
-date: 2025-10-04 10:18:00
+date: 2025-11-01 10:18:00
 tags: technology
 ---
 
@@ -1392,7 +1392,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Trace des premiers villages.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/OU4-UFTKQ80" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/village.mp4"/>
+</p>
 
 <p>Les Natoufiens, un peuple préhistorique qui vit dans le Levant, une région qui englobe aujourd'hui Israël, la Palestine, le Liban, et la Syrie occidentale sont les premiers peuples connus à établir des habitats semi-permanents ou permanents, ce qui représente un changement majeur par rapport au mode de vie nomade de chasseurs-cueilleurs.</p>
 
@@ -1402,7 +1405,9 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ## -11 000 ans
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/croissantfertile.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/croissantfertile.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/brAf_1Q5-44" frameborder="0" allowfullscreen></iframe></p>
 
@@ -1425,7 +1430,9 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Homo Sapiens commence à domestiquer le chat. Les humains commencent à consommer le lait des animaux qu'ils domestiquent comme les vaches, les moutons et les chèvres.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/jericho.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/jericho.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>Situé dans la vallée du Jourdain en Cisjordanie, Jéricho est souvent considérée comme l'une des plus anciennes villes habitées en continu. Les habitants vivent dans des huttes circulaires en terre et en chaume. C'est l'une des premières preuves de sédentarisation, où les chasseurs-cueilleurs commencent à adopter un mode de vie agricole. Les premières traces d'habitat à Jéricho sont attribuées aux Natoufiens, une culture de chasseurs-cueilleurs qui adoptent progressivement l'agriculture.</p>
 
@@ -1445,7 +1452,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ## -8 000 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ESLQKERs7bU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/templetepe.mp4"/>
+</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/5zUB4BXA6Q4" frameborder="0" allowfullscreen></iframe></p>
 
