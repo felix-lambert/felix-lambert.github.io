@@ -1558,7 +1558,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/uruk.mp4"/>
 </p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XUUH13_cZSE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mesopotamie.mp4"/>
+</p>
 
 <p>La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément la civilisation mésopotamienne.</p>
 
@@ -1566,7 +1569,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Sumériens développent la voile pour améliorer le transport fluvial et maritime. L'utilisation de la voile leur permet d'exploiter la force du vent pour naviguer plus efficacement sur les rivières et les mers, facilitant ainsi le commerce et les échanges entre différentes régions, ainsi que la pêche et l'exploration de nouvelles terres.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vCad77_c-LU" frameborder="0" allowfullscreen></iframe></p>
+## Sibérie
 
 <p>Sur l'île inhabitée de Wrangell, un morceau de terre isolé dans la mer de Chukchi au nord de la Sibérie, les derniers mammouths sont morts.</p>
 
@@ -1574,7 +1577,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les villes et les villages du long du Nil (grand fleuve d'Afrique du Nord) s'unissent pour la première fois en un seul et même royaume. C'est le début du royaume d'Egypte.</p>
 
-<p>Les Egyptions utilisent des produits tels que des poudres pour blanchir la peau, des fards pour les yeux à base de malachite et de galène (kohl) pour réduire l'éblouissement du soleil et diminuer les risques d'infection oculaire, ainsi que des baumes et des huiles pour protéger et hydrater la peau dans un climat désertique.</p>
+<p>Les Egyptiens utilisent des produits tels que des poudres pour blanchir la peau, des fards pour les yeux à base de malachite et de galène (kohl) pour réduire l'éblouissement du soleil et diminuer les risques d'infection oculaire, ainsi que des baumes et des huiles pour protéger et hydrater la peau dans un climat désertique.</p>
 
 <p>Les Égyptiens domestiquent des chiens. Les chiens sont à la fois des compagnons, des chasseurs et des protecteurs. Ils sont si appréciés que certains ont des sépultures individuelles et des noms gravés sur des stèles funéraires.</p>
 
@@ -1598,7 +1601,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Sumériens sont considérés comme la première civilisation urbaine de Mésopotamie.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/77fYAVBAshs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/roue.mp4"/>
+</p>
 
 <p>Les Sumériens inventent la roue, probablement utilisée dans la poterie pour créer des objets en argile plus uniformes et efficacement, avant son adaptation aux chariots et aux véhicules pour faciliter le déplacement des biens et des personnes.</p>
 
