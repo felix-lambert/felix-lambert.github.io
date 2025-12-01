@@ -1618,8 +1618,6 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Des découvertes archéologiques, notamment dans la tombe du roi Scorpion Ier à Abydos, révèlent des jarres contenant des résidus de vin, attestant de l'importation de vin depuis le Levant.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FA7G1bagOFY" frameborder="0" allowfullscreen></iframe></p>
-
 <p>La momification commence, pendant la période prédynastique, avec les premières tentatives de conservation des corps. Les premiers corps, enterrés directement dans le sable du désert, sont naturellement préservés par la chaleur et la sécheresse.</p>
 
 <p>Les Égyptiens croient en une vie après la mort et pensent que l'âme (ba) doit reconnaître le corps pour survivre dans l'au-delà. Si le corps se décompose, l’âme ne peut pas revenir et l’individu disparait définitivement. La momification vise donc à préserver le corps pour garantir l’immortalité.</p>
@@ -1632,7 +1630,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ### Inde
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/SYOHDnwRA3M" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/indus.mp4"/>
+</p>
 
 <p>Début de la civilisation de l'Indus (ou civilisation harappéenne). Les premières villes apparaissent : Harappa, Mohenjo-Daro et d’autres sites commencent à prendre forme. Développement de l’urbanisme, des échanges commerciaux et d’une écriture encore non déchiffrée.</p>
 
@@ -1644,8 +1645,6 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.</p>
 
-<p>Avant ce moment crucial pour l'humanité, les connaissances se transmettent sans écriture et donc sans lecture.</p>
-
 ## -3150 ans
 
 ### Egypte
@@ -1655,6 +1654,11 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 # -3100 ans
 
 ### Egypte
+
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/egypteancienne.mp4"/>
+</p>
 
 <p>Première dynastie en Egypte. Le roi Narmer (ou Ménès) unifie la Haute et la Basse-Égypte, mettant fin à l’organisation tribale et centralisant le pouvoir sous un pharaon divinisé. Les tribus locales perdent leur autonomie et sont intégrées dans une structure bureaucratique plus rigide.</p>
 
@@ -1675,8 +1679,6 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 # -3000 ans
 
 <p>En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. C'est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représenté.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/bV4geih91f8" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Ce pas de géant se concrétise aussi en Egypte, à la même époque.</p>
 
@@ -1708,7 +1710,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ### Egypte
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PMrxiQgDoJ0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/egypteancienne.mp4"/>
+</p>
 
 <p>Snéfrou, premier pharaon de la IVᵉ dynastie apporte des innovations majeures dans la conception et la construction des pyramides, qui influencent l’architecture funéraire pour les siècles suivants. Il passe progressivement des petites pierres de maçonnerie à des blocs de calcaire taillés et ajustés.</p>
 
@@ -1722,7 +1727,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ### Egypte
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ITYFvAP98qs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/kheops.mp4"/>
+</p>
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/pyramide.jpg)</p>
 
