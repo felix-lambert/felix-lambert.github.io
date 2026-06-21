@@ -1506,7 +1506,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes telles que des perles ou des outils.</p>
 
-<p>On trouve aussi des jetons: de petits objets d'argile pleins, de formes variées (cônes, sphères, disques, cylindres…), utilisés pour compter des biens — têtes de bétail, mesures de grain, jarres d'huile, etc. Ils apparaissent avec la révolution néolithique et l'agriculture, et on les retrouve sur tout le Croissant fertile, pas seulement en Mésopotamie au sens strict : Tepe Asiab et Ganj Dareh en Iran, Jarmo en Irak, Mureybet et Tell Aswad en Syrie.
+<p>On trouve aussi des jetons: de petits objets d'argile pleins, de formes variées (cônes, sphères, disques, cylindres…), utilisés pour compter des biens — têtes de bétail, mesures de grain, jarres d'huile, etc. Ils apparaissent avec la révolution néolithique et l'agriculture, et on les retrouve sur tout le Croissant fertile, pas seulement en Mésopotamie au sens strict : Tepe Asiab et Ganj Dareh en Iran, Jarmo en Irak, Mureybet et Tell Aswad en Syrie.</p>
 
 ## -7 000 ans
 
