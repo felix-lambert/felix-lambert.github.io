@@ -2115,13 +2115,13 @@ La civilisation mycénienne vient de s'effondrer. L'écriture (le linéaire B) d
 
 ## - 750 ans
 
-Composée de l'Iliade à l’époque archaïque grecque. C’est l’époque où :
+C’est l’époque où :
 
 l’alphabet grec apparaît (inspiré des Phéniciens)
 
 des poèmes sont écrits
 
-Elle est attribuée à Homère, un poète (ou groupe de poètes) vivant probablement en Ionie (côte d’Asie Mineure, actuelle Turquie). Homère n’invente pas tout : il organise une tradition ancienne. Cette date ne correspond pas à l’écriture au sens strict : au départ, l’Iliade est orale — transmise par chant et mémoire pendant plusieurs siècles. L’Iliade ne raconte ni toute la guerre de Troie, ni la chute de la ville, ni le cheval de Troie. Elle se concentre uniquement sur quelques semaines de la dixième et dernière année de la guerre et surtout sur la colère d’Achille. L’Iliade est donc un poème sur la colère, la mort et la compassion, pas sur la victoire ni sur le cheval de Troie.
+<p>Composition de l'Iliade à l’époque archaïque grecque. Elle est attribuée à Homère, un poète (ou groupe de poètes) vivant probablement en Ionie (côte d’Asie Mineure, actuelle Turquie). Homère n’invente pas tout : il organise une tradition ancienne. Au départ, l’Iliade est orale — transmise par chant et mémoire pendant plusieurs siècles. L’Iliade ne raconte ni toute la guerre de Troie, ni la chute de la ville, ni le cheval de Troie. Elle se concentre uniquement sur quelques semaines de la dixième et dernière année de la guerre et surtout sur la colère d’Achille. L’Iliade est donc un poème sur la colère, la mort et la compassion, pas sur la victoire ni sur le cheval de Troie.</p>
 
 ## -600 ans
 
