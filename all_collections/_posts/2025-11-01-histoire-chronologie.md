@@ -146,12 +146,12 @@ tags: technology
 
 # -12 700 000 000 d'années
 
+<p>Les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.</p>
+
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/exoplanete.mp4"/>
 </p>
-
-<p>Les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.</p>
 
 # -12 000 000 000 d'années
 
@@ -1073,6 +1073,10 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Le climat de la planète change, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.</p>
 
+## - 2 800 000 années
+
+<p>Le genre humain (Homo) est apparu en Afrique de l'Est, issu d'une lignée d'homininés bipèdes du groupe des australopithèques — Australopithecus, « singe du sud », ainsi nommé d'après le premier fossile découvert en Afrique australe. L'espèce ancestrale exacte reste toutefois inconnue, et les premiers Homo ont coexisté un temps avec des australopithèques plutôt que de leur succéder nettement.</p>
+
 ## - 2 600 000 années
 
 <p>Aucun des premiers hominidés n'ont les dents ou les griffes d'un lion ou d'un léopard - mais ils commencent à faire des outils tranchants à partir de pierres et développent l'art de la boucherie pour goûter la viande. Ces premiers hominidés deviennent des carnivores.</p>
@@ -1114,6 +1118,8 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 <p>Homo Erectus parvient à utiliser des outils tranchants, comme des haches en pierre. L'hypothèse actuelle est qu'il y a une cohérence entre l'agrandissement du cerveau humain et l'utilisation d'outils de plus en plus complexe. Il y a probablement une coévolution entre l'utilisation des outils, de plus en plus sophistiqués, et le cerveau humain.</p>
 
 <p>L'action répétitive de fabrication des outils a aussi un effet sur la forme de nos mains. Les activités de fabrication d'outils ont été déterminantes pour nos mains et pour ce qu'elles sont aujourd'hui: avoir un pouce costaud par exemple, qui stabilise la pierre lors d'un impact est en effet décisif pour l'évolution des hominidés.</p>
+
+<p>Des populations de Homo erectus quittent l'Afrique et gagnent peu à peu l'Afrique du Nord puis l'Asie, jusqu'à Java et la Chine — les plus anciens vestiges hors d'Afrique, à Dmanisi en Géorgie.</p>
 
 ## - 1 600 000 années
 
@@ -1203,7 +1209,7 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 ## - 300 000 ans
 
-<p>Apparition d'Homo sapiens en Afrique (Maroc, Éthiopie).</p>
+<p>Apparition d'Homo sapiens en Afrique (Maroc, Éthiopie). </p>
 
 <p>Par rapport à ses prédécesseurs (comme Homo erectus ou Homo heidelbergensis), Homo sapiens se distingue par plusieurs innovations clés :</p>
 
@@ -1213,17 +1219,29 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 <p>Les données génétiques modernes montrent que Homo sapiens ne vient pas d’un seul “berceau”, mais de plusieurs populations africaines interconnectées. Il ne faut donc plus imaginer une “naissance unique” dans un seul lieu, mais plutôt un réseau de populations africaines qui ont échangé leurs gènes et leurs innovations pendant des centaines de milliers d’années.</p>
 
+<p>Après un usage longtemps occasionnel — les premières traces remontent à près d'un million d'années —, le feu devient quotidien vers 300 000 ans. Homo Erectus, les Néandertaliens et les ancêtres d'Homo Sapiens l'entretiennent désormais en permanence : un savoir qui se transmet enfin de génération en génération.</p>
+
+<p>Le feu ne sert pas qu'à se chauffer : il transforme la nourriture. La cuisson tue les germes et les parasites, neutralise certains poisons, et rend bien plus faciles à mâcher et à digérer des aliments jusque-là coriaces — fruits, noix, insectes, charogne. Surtout, elle libère beaucoup plus d'énergie : un amidon cru ne livre que la moitié de ses calories, près de la totalité une fois cuit.</p>
+
 ## - 250 000 ans
 
 <p>Fin de Homo Erectus. Il a vécu plus de 1.5 millions d'années. C'est une espèce qui a marqué l’histoire par sa longévité exceptionnelle et son rôle de pont évolutif entre les premiers hominidés et les humains modernes. La fin d’Homo erectus ne résulte pas d’une extinction brutale, mais d’un remplacement graduel par ses descendants plus récents. Homo erectus disparaît donc lentement, emporté par la sélection naturelle et les changements climatiques, mais son héritage génétique et technologique perdure à travers toutes ces nouvelles lignées.</p>
 
-# -100 000 ans
+## -110 000 ans
+
+<p>Une population isolée d'Homo Erectus s'éteint sur l'île de Java. C'est la dernière trace connue de « l'homme dressé ».</p>
+
+<p>Homo Erectus disparaît du continent vers 500 000 ans, mais survit à Java jusque vers 110 000 ans : au total, près de 1,8 million d'années d'existence. Aucune autre espèce humaine n'a duré aussi longtemps — près du triple de la présence d'Homo Sapiens sur Terre à ce jour.</p>
+
+## -100 000 ans
 
 <p>La population humaine commence à décroître. C'est une phase difficile dans l’histoire des premiers humains modernes (Homo sapiens) et de leurs cousins. La planète entre dans la dernière grande période glaciaire du Quaternaire, appelée glaciation de Würm (ou glaciation de Wisconsin en Amérique du Nord). Ce refroidissement global provoque des crises écologiques : la nourriture se raréfie, les migrations animales changent, et les groupes humains doivent s’adapter à des environnements hostiles.</p>
 
 <p>Premières traces d’enterrements néandertaliens en Israël (site de Qafzeh). Enterrer ses morts, c’est comprendre qu’un corps ne bouge plus mais mérite un traitement particulier. </p>
 
-# -90 000 ans
+<p>Une première fois, des groupes de Homo Sapiens quittent l'Afrique et remontent vers le Levant — l'actuel Proche-Orient —, alors occupé par les Néandertaliens. Mais cette tête de pont échoue. Ces premiers Sapiens du Levant ne laissent aucune descendance directe : ils s'éteignent ou refluent, sans doute au gré d'un climat qui fait osciller la frontière entre les deux espèces. Le Proche-Orient reste pour longtemps un territoire partagé, où Sapiens et Néandertaliens se succèdent. Il faudra attendre une seconde sortie, des dizaines de milliers d'années plus tard, pour que Sapiens s'installe enfin durablement hors d'Afrique.</p>
+
+## -90 000 ans
 
 <p>On voit les premières preuves de pensée symbolique : les humains ne se contentent plus de survivre, ils cherchent à signifier, à exprimer et à représenter.</p>
 
@@ -1234,11 +1252,11 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 <p>En se décorant, l’homme ne se contente pas de survivre : il affirme son identité, il réfléchit à ce qu’il est et à ce qu’il veut montrer.
 Il devient un sujet, pas seulement un organisme vivant.</p>
 
-# -80 000 ans
+## -80 000 ans
 
 <p>Présence d'homo Sapiens en Asie du Sud-Est. C’est le premier grand voyage de l’humanité moderne. Les humains franchissent des montagnes, des déserts et même des bras de mer pour atteindre l’Asie du Sud-Est et l’Océanie. Ce</p>
 
-# -74 000 ans
+## -74 000 ans
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -1247,23 +1265,35 @@ Il devient un sujet, pas seulement un organisme vivant.</p>
 
 <p>En Indonésie, une éruption massive d'un super-volcan situé à l'emplacement du lac Toba, dans l'actuelle Sumatra, en Indonésie est considérée comme l'une des plus grandes et des plus puissantes éruptions volcaniques de l'histoire récente de la Terre.</p>
 
-<p>L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud, du Sud-Est et même certaines parties de l'Océan Indien. L'éjection de grandes quantités de dioxyde de soufre dans l'atmosphère conduit probablement à une diminution significative de la température mondiale (un "hiver volcanique") et à des perturbations climatiques qui auraient duré des années, voire des décennies.</p>
+<p>L'éruption de Toba projete dans l'atmosphère une quantité estimée à 2 800 kilomètres cubes de matière volcanique, incluant des cendres, du magma, et des gaz sulfureux. Cette éjection massive a des effets dévastateurs à l'échelle locale et des conséquences climatiques globales. La dispersion des cendres volcaniques couvre de vastes régions de l'Asie du Sud, du Sud-Est et même certaines parties de l'Océan Indien. </p>
 
 <p>Les raisons exactes de cette éruption massive ne diffèrent pas fondamentalement de celles d'autres éruptions volcaniques, impliquant la montée du magma dans la croûte terrestre jusqu'à ce que la pression soit suffisamment forte pour fracturer la surface et provoquer une éruption.</p>
 
-# -70 000 ans
+## -70 000 ans
 
-<p>Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique. Homo Sapiens atteint l'Asie de l'Est, traversant l'Indonésie jusqu'en Australie quelques millénaires plus tard.</p>
+<p>Les humains développent des capacités symboliques plus complexes, des mythes partagés, des normes sociales et des traditions transmises entre générations. Ces éléments constituent les fondements de la culture.</p>
 
-# -60 000 ans
+<p>Le niveau de la mer chute et permet à l'Homo Sapiens de quitter l'Afrique. Homo Sapiens atteint l'Asie de l'Est, traversant l'Indonésie jusqu'en Australie quelques millénaires plus tard. La conquête de l'Eurasie n'a rien d'un déferlement éclair : elle s'étire sur des dizaines de milliers d'années, au gré des « corridors verts » qui s'ouvrent quand le climat se réchauffe. </p>
+
+## -65 000 ans
+
+<p>Sapiens prend la mer : pour atteindre l'Australie, il a fallu franchir des bras de mer en embarcation — la première navigation intentionnelle de l'histoire. À cela s'ajoutent les lampes à graisse, qui repoussent la nuit et permettront plus tard d'orner le fond des grottes.</p>
+
+## -60 000 ans
 
 <p>Les hominidés continuent à améliorer les outils en pierre, y compris la fabrication de pointes de projectile plus avancées pour la chasse. Les hominidés commencent à utiliser des matériaux tels que l'os et l'ivoire pour la fabrication d'outils et de bijoux.</p>
 
 <p>Les hominidés commencent à développer des techniques de cuisson plus avancées, y compris la cuisson dans des pots en argile.</p>
 
-# -50 000 ans
+## -50 000 ans
 
 <p>Début de l'art figuratif tel que les peintures rupestres (sur les rochers) et les objets sculptés. Les hominidés commencent à utiliser des techniques de navigation en haute mer pour atteindre des îles éloignées, telles que l'île de Madagascar et s'installent dans des zones géographiques plus variées, y compris les régions polaires et les déserts.</p>
+
+<p>Au Proche-Orient et en Europe, Sapiens rencontre les Néandertaliens et a des enfants avec eux. La trace en est gravée dans notre ADN : aujourd'hui encore, les populations non africaines portent en moyenne environ 2 % de gènes néandertaliens.</p>
+
+<p>Plus à l'est, en Asie, Sapiens se croise avec un autre humain : les Dénisoviens, connus presque uniquement par leur ADN, extrait d'un os de doigt découvert dans une grotte de Sibérie. Leur héritage génétique se retrouve surtout chez les peuples d'Asie et d'Océanie — jusqu'à 4 à 6 % du génome chez les Papous et les Aborigènes d'Australie.</p>
+
+<p>En revanche, Sapiens n'a jamais croisé Homo Erectus : quand il atteint l'Asie de l'Est. L'« homme dressé » avait disparu depuis des dizaines de milliers d'années.</p>
 
 ## -48 000 ans
 
@@ -1289,7 +1319,9 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>La population de Thorin est l’une des dernières générations néandertaliennes avant leur extinction. 1 à 4 % de notre ADN vient d’eux.</p>
 
-# -40 000 ans
+<p>Là où la mer et les rivières regorgent de poissons et d'oiseaux d'eau, des groupes humains commencent à se fixer durablement — bien avant d'inventer l'agriculture. Quand une ressource est aussi abondante et stable que le poisson, plus besoin de se déplacer sans cesse : c'est peut-être là qu'apparaissent les premiers établissements permanents de l'histoire.</p>
+
+## -40 000 ans
 
 <p>Fin des hommes de Néandertal probablement à cause d'un refroidissement brutal du climat et du manque de nourriture. En effet, le Neanderthal a besoin de plus de calorie qu'Homo Sapiens pour survivre et pour se reproduire notamment à cause de sa plus grande masse musculaire.</p>
 
@@ -1339,6 +1371,8 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 ## -26 000 ans
 
 <p>Homo Sapiens domestique le loup. Et quelques années plus tard, une nouvelle espèce apparaît: le chien. Le loup est en effet un animal très sociable, même quand il s'agit d'interragir avec d'autres mammifères. Dans les temps dures, on peut imaginer qu'il peut être intéressant pour le loup de se rapprocher d'Homo Sapiens pour se faire domestiquer.</p>
+
+<p>La nuit, il devient une sentinelle qui ne dort jamais, aboyant à l'approche des bêtes sauvages comme des intrus humains. Plus tard, on s'en servira aussi au combat. Ces usages reposent sur une chose unique : entre l'homme et le chien s'installe une compréhension mutuelle qu'aucun autre animal ne partage. Au fil des générations, les chiens les plus habiles à lire les intentions humaines survivent le mieux. Le résultat est étonnant : le chien est sans doute le seul animal capable de comprendre spontanément un doigt pointé — ce que même un chimpanzé ne sait pas faire.</p>
 
 <p>Le lien d'attachement entre le loup (ou le chien) et Homo Sapiens est donc très ancien. On retrouve en effet beaucoup de tombes d'Homo Sapiens avec un squelette de chien à côté. Il y a même de très anciennes tombes de chiens. Comme si on accorde autant de respect envers la mort d'un chien que la mort d'un Homo Sapiens.</p>
 
@@ -1420,7 +1454,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les graines de blé sont plantées à la main, généralement en les enfonçant dans le sol ou en les jetant dans des trous ou des sillons préparés. Les agriculteurs doivent s'assurer que les graines sont suffisamment espacées pour permettre à chaque plante de croître et de se développer.</p>
 
-# -10 000 ans
+## -10 000 ans
 
 <p>Presque tous les animaux plus grands qu'un chien disparaissent d'Eurasie, d'Amérique et d'Australie. La cause ultime de cette extinction est peut-être l'expansion de l'humanité. L'agriculture commence à peu près simultanément dans plusieurs régions du monde. Depuis lors, l'augmentation de la population humaine devient spectaculaire.</p>
 
@@ -1468,10 +1502,11 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les habitants de Çatalhöyük sont principalement des agriculteurs et des éleveurs, mais ils pratiquent également la chasse et la cueillette. Ils cultivent des céréales comme le blé et l'orge et élevent des animaux comme les moutons et les chèvres.</p>
 
-<p>Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles.</p>
-<p>Des représentations de déesses-mères, d'animaux et de scènes de chasse sont courantes.</p>
+<p>Le site est célèbre pour ses œuvres d'art, notamment des peintures murales, des sculptures et des figurines. Ces œuvres semblent avoir des significations religieuses ou spirituelles. Des représentations de déesses-mères, d'animaux et de scènes de chasse sont courantes.</p>
 
 <p>Les morts sont souvent enterrés sous les planchers des maisons, parfois avec des offrandes telles que des perles ou des outils.</p>
+
+<p>On trouve aussi des jetons: de petits objets d'argile pleins, de formes variées (cônes, sphères, disques, cylindres…), utilisés pour compter des biens — têtes de bétail, mesures de grain, jarres d'huile, etc. Ils apparaissent avec la révolution néolithique et l'agriculture, et on les retrouve sur tout le Croissant fertile, pas seulement en Mésopotamie au sens strict : Tepe Asiab et Ganj Dareh en Iran, Jarmo en Irak, Mureybet et Tell Aswad en Syrie.
 
 ## -7 000 ans
 
@@ -1501,7 +1536,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Premières traces de production découvertes de vin dans les régions qui correspondent aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des poteries contenant des résidus de vin.</p>
 
-# -5000 ans
+## -5000 ans
 
 <p style="text-align:center">
   <img src="/assets/img/hieroglyphe.jpg" alt="Gif 2" width="400">
@@ -1593,7 +1628,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Des analyses biochimiques sur des poteries provenant de Hiérakonpolis, datant de la période de Nagada I-C/II-A, révèle la présence d'acides gras caractéristiques du beurre, attestant de sa fabrication à cette époque. Bien que moins courant que le fromage, le beurre est consommé, notamment par les classes aisées. Il est utilisé pour ses propriétés apaisantes, par exemple pour soulager les douleurs des gencives chez les nourrissons. Des mélanges de beurre et d'huiles végétales sont aussi appliqués pour hydrater et protéger la peau.</p>
 
-# -3500 ans
+## -3500 ans
 
 <p>Homo Sapiens commence à utiliser des chevaux pour tirer des charrues à travers l'Europe, l'Afrique du Nord et la Chine.</p>
 
@@ -1628,6 +1663,8 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Sumériens utilisent massivement le bronze, principalement pour ses avantages dans la fabrication d'armes et d'outils plus résistants que ceux en cuivre. Le bronze est fabriqué par l'alliage de cuivre avec un peu d'étain, ce qui lui confère une plus grande dureté et une meilleure capacité à retenir un tranchant affûté.</p>
 
+<p>Lorsque l'écriture apparaît en Sumer (sud de la Mésopotamie, dans l'actuel Irak), elle est principalement utilisée pour enregistrer des informations administratives, économiques et comptables, telles que les stocks, les échanges commerciaux et les impôts. À cette époque, l'écriture ne sert pas encore à produire des œuvres littéraires complexes. </p>
+
 ### Inde
 
 <p style="text-align:center">
@@ -1637,11 +1674,11 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Début de la civilisation de l'Indus (ou civilisation harappéenne). Les premières villes apparaissent : Harappa, Mohenjo-Daro et d’autres sites commencent à prendre forme. Développement de l’urbanisme, des échanges commerciaux et d’une écriture encore non déchiffrée.</p>
 
-# -3200 ans
+## -3200 ans
 
 <p>Naissance de la civilisation de la vallée de l'Indus, qui est aujourd'hui le Pakistan et l'ouest de l'Inde.</p>
 
-<p>Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui: le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain.</p>
+<p>Les Egyptiens inventent l'écriture à l'aide d'images. Cette façon d'écrire s'appelle "hiéroglyphe". C'est probablement le premier système d'écriture cohérent du monde et est encore plus ancien que les pyramides d'Egypte. Ces hiéroglyphes sont souvent des formules magiques pour faire ressusciter des rois afin qu'ils vivent éternellement, ce qui est manifestement un succès car j'en parle toujours aujourd'hui: le nom du roi, invoqué sans cesse, semble être lu et relu, aujourd'hui et demain. Contrairement aux premiers signes sumériens, ils évoluent vers un système capable de retranscrire une langue complète et de produire des textes religieux, historiques et littéraires.</p>
 
 <p>Les Egyptiens connaissent donc déjà tous les pouvoirs de l'écrit: pour qu'on puisse s'immortaliser nous mêmes, il suffit d'écrire son nom.</p>
 
@@ -1651,7 +1688,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les premières embarcations sont principalement construites en papyrus et utilisées pour la navigation sur le Nil. Ces bateaux servent au transport de personnes et de marchandises, facilitant les échanges entre les différentes régions le long du fleuve.</p>
 
-# -3100 ans
+## -3100 ans
 
 ### Egypte
 
@@ -1676,7 +1713,9 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>L’écriture proto-élamite apparaît en Iran, dans la région de Suse — c’est la plus ancienne forme d’écriture connue en Iran. Ils développent une forme d’écriture propre, inspiré des pictogrammes sumériens, mais avec une structure différente et indépendante. Cette écriture est utilisée surtout pour la comptabilité et l’administration (inventaires de grains, bétail, etc.). Elle est encore non déchiffrée complètement aujourd’hui.</p>
 
-# -3000 ans
+## -3000 ans
+
+<p>Les Sumériens enrichissent progressivement leur système d'écriture en ajoutant de nouveaux signes. L'écriture, initialement limitée aux registres comptables et administratifs, devient capable de retranscrire une langue complète. Ce système est aujourd'hui connu sous le nom d'écriture cunéiforme.</p>
 
 <p>En mésopotamie Homo Sapiens a l'idée de représenter un son par une image (principe du rébus) afin de rendre l'écriture plus précise. C'est peut-être l'invention la plus importante d'Homo Sapiens. L'écriture commence à vraiment devenir sérieuse lorsque le son d'une langue est représenté.</p>
 
@@ -1690,11 +1729,11 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Apparaissent chez les sumériens des textes juridiques (actes de vente).</p>
 
-# -2800 ans
+## -2800 ans
 
 <p>L'utilisation des bœufs pour labourer les champs en Égypte antique commence pendant la Période thinite.</p>
 
-# -2700 ans
+## -2700 ans
 
 ### Egypte
 
@@ -1706,7 +1745,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Égyptiens élèvent et chassent des volailles. Des fresques funéraires de la tombe de Ti à Saqqarah (Ve dynastie) montrent des scènes de capture et de plumage de volailles. Les Égyptiens font rôtir la volaille sur des broches ou en la faisant cuire dans des fours en terre. Les Égyptiens utilisent des foyers en argile pour cuire la volaille à la broche. Des graisses animales, du miel et des épices peuvent être utilisés pour rehausser le goût. Les volailles peuvent être assaisonnées avec du sel, de la coriandre, du cumin et de l’ail. Elles sont souvent servies avec des légumes, des figues, du pain ou du miel pour les festins. La volaille rôtie est un mets réservé aux classes aisées et aux banquets royaux. Elle figure aussi parmi les offrandes aux dieux et aux pharaons. Les paysans consomment plutôt du poisson séché ou du pain, la volaille étant plus coûteuse. Cependant, la chasse aux oiseaux sauvages est une alternative pour certains Égyptiens modestes.</p>
 
-# -2600 ans
+## -2600 ans
 
 ### Egypte
 
@@ -1721,9 +1760,11 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Le culte solaire prend une importance centrale, avec Rê, le dieu soleil, vénéré comme créateur et source de vie. Héliopolis devient le principal centre religieux dédié à Rê.</p>
 
-# -2500 ans
+## -2500 ans
 
 <p>Les Akkadiens apparaissent peu après les Sumériens. Ils utilisent également l'écriture cunéiforme, adaptant les signes sumériens à leur propre langue sémitique. La langue sumérienne est utilisée par les Akkadiens pour des fins religieuses et littéraires même après que l'akkadien soit devenu la langue dominante.</p>
+
+<p>Le cunéiforme est largement utilisé dans la société mésopotamienne. Les rois l'emploient pour publier des décrets, les prêtres pour consigner des oracles et les citoyens pour rédiger des lettres personnelles.</p>
 
 ### Egypte
 
@@ -1732,13 +1773,15 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/kheops.mp4"/>
 </p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/pyramide.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/pyramide.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.</p>
 
 <p>Les premières traces d'olives en Égypte remontent à la IVᵉ dynastie (vers 2551-2523 av. J.-C.), où des branches d'olivier sont importées, probablement du Levant, et utilisées lors de cérémonies religieuses et comme offrandes funéraires. En raison de la rareté de la production locale et de la nécessité d'importer, l'huile d'olive est considérée comme un produit de luxe, principalement réservé aux élites et aux cérémonies religieuses.</p>
 
-# -2400 ans
+## -2400 ans
 
 <p>Une fresque dans la tombe de Ti (Saqqarah) montre la récolte de légumes, dont des concombres. Les concombres sont cultivés le long du Nil grâce aux techniques d'irrigation des Égyptiens. Ils sont consommés crus, parfois assaisonnés avec du sel ou du vinaigre. On les retrouve dans les offrandes funéraires et les inscriptions murales des tombes. C'est un aliment commun, apprécié pour son goût rafraîchissant et ses propriétés hydratantes.</p>
 
@@ -1749,15 +1792,19 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ounas.mp4"/>
 </p>
 
-<p style="text-align:center"><img src="{{ '/assets/img/ounas.jpg' | relative_url }}" alt="Force" /></p>
+<p style="text-align:center">
+  <img src="/assets/img/ounas.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>Le pharaon Ounas (également orthographié Unas) est le dernier souverain de la Ve dynastie de l'Égypte antique. Son règne marque une période de ralentissement de l’autorité royale et de dispersion croissante de l’administration, ce qui contribue, à long terme, à la fragilisation de l’Ancien Royaume. Son œuvre la plus marquante est la construction de sa pyramide à Saqqara, appelée « Nfr swt Wnjs » (« Les lieux de Ounas sont parfaits/achevés »). C’est dans cette pyramide que firent leur apparition pour la première fois les célèbres « Pyramid Texts », textes funéraires gravés sur les parois internes destinés à accompagner le roi dans l’au-delà. Les Pyramid Texts de la pyramide d’Ounas sont considérés comme l’un des premiers corpus religieux écrits en Égypte, reflétant les croyances sur l’au-delà, la résurrection, l’union du roi avec les dieux (notamment ­Osiris).</p>
 
-# -2334 ans
+## -2334 ans
 
-<p>La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important, mais le sumérien reste très pratiqué dans les cités de Sumer.</p>
+<p>La civilisation akkadienne est particulièrement associée à l'empire d'Akkad fondé par Sargon d'Akkad. Il crée le premier empire véritablement multiethnique de l'histoire, unifiant les cités-états sumériennes sous son règne et étend son influence à travers une grande partie du Proche-Orient. La langue akkadienne prend un statut plus important, mais le sumérien reste très pratiqué dans les cités de Sumer. Il compte plus d'un million de sujets et entretient une armée permanente de 5 400 soldats.</p>
 
-# -2100 ans
+<p>Son secret : une administration nouvelle. Il remplace les rois vaincus par ses propres fonctionnaires akkadiens, installés dans chaque cité conquise — l'invention de la bureaucratie impériale.</p>
+
+## -2100 ans
 
 ### Mésopotamie
 
@@ -1765,7 +1812,9 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Selon la Bible (Genèse 11:31), Abraham serait né à "Ur des Chaldéens", et aurait quitté la ville sur ordre de Dieu pour se rendre en Canaan (Palestine actuelle), mais son lien historique reste débattu. C'est le premier qui commence à croire en un seul Dieu.</p>
 
-<p style="text-align:center"><img src="{{ '/assets/img/gilgamesh.jpg' | relative_url }}" alt="Force" /></p>
+<p style="text-align:center">
+  <img src="/assets/img/gilgamesh.jpg" alt="Gif 2" width="400">
+</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -1782,7 +1831,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les premiers récits de Gilgamesh sont des poèmes indépendants en sumérien, chacun relatant différentes aventures du roi Gilgamesh.</p>
 
-# -2000 ans
+## -2000 ans
 
 <p>Les peuples entrent dans l’âge du Bronze et commencent à échanger sur de longues distances pour obtenir les métaux rares nécessaires à la fabrication d’armes, d’outils et d’objets de prestige.</p>
 
@@ -1804,25 +1853,30 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Il est important de noter que le terme "aryen" a été détourné au XIXᵉ siècle pour promouvoir des idéologies raciales erronées, sans lien avec les réalités historiques des peuples indo-européens.</p>
 
-# -1900 ans
+## -1900 ans
 
 <p>Ecriture du Conte de Sinouhé, une des œuvres littéraires les plus célèbres de l'Égypte antique. Il s'agit d'un récit semi-autobiographique, rédigé sous forme de prose poétique. Il est écrit pendant la XIIᵉ dynastie, sous le règne du pharaon Sésostris Iᵉʳ (1919 - 1875 av. J.-C.).</p>
 
-# -1890 ans
+## -1890 ans
 
 ### Mésopotamie
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/rxG6jJrSFl0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/babylone.mp4"/>
+</p>
 
 <p>Babylone, située au centre de la Basse Mésopotamie, est initialement une cité mineure sous domination des Sumériens et des Akkadiens.</p>
 
-# -1800 ans
+## -1800 ans
 
 ### Mésopotamie
 
 <p>Avec le temps, les histoires de Gilgamesh sont compilées et traduites en akkadien. La version akkadianne combine ces récits sumériens en une seule épopée plus cohérente et structurée.</p>
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/ninkasi.jpg)</p>
+<p style="text-align:center">
+  <img src="/assets/img/ninkasi.jpg" alt="Gif 2" width="400">
+</p>
 
 <p>La plus ancienne recette connue de bière se trouve dans un poème sumérien en l'honneur de la déesse Ninkasi, déesse de la bière. Ce poème, souvent appelé l'Hymne à Ninkasi, décrit en détail le processus de brassage de la bière.</p>
 
@@ -1844,21 +1898,19 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Apparition des premières tablettes de présages astrologiques, appelées Enuma Anu Enlil. Ce texte compile plus de 7 000 présages reliant les phénomènes célestes aux événements terrestres. L’astrologie est encore très liée à la divination et aux rois : elle sert principalement à prédire l’avenir des souverains et des États.</p>
 
-# -1700 ans
+## -1776 ans
 
 <p>Hammurabi, roi de Babylone de 1792 à 1750 av. J.-C., est célèbre pour son code de lois, l'un des premiers ensembles législatifs écrits de l'histoire. Ce code comprend des lois couvrant la justice, le commerce, le mariage et la propriété, établissant des standards pour les comportements sociaux et les punitions. Son originalité réside dans la tentative de standardiser les lois à travers un vaste empire, influençant les principes juridiques pour les siècles à venir.</p>
 
-# -1600 ans
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Z397d32MHeM" frameborder="0" allowfullscreen></iframe></p>
+## -1650 ans
 
 <p>L'Empire hittite commence à émerger. Cette période marque le début de ce qu'on appelle l'ancien royaume hittite, qui est établi en Anatolie (l'actuelle Turquie).</p>
 
 ### Grèce
 
-<p>Dans le sud de la Grèce (le Péloponnèse), des chefferies locales évoluent progressivement vers des structures plus hiérarchisées.</p>
+<p>On est au Bronze récent, dans ce qu’on appelle la période mycénienne ancienne Dans le sud de la Grèce (le Péloponnèse), des chefferies locales évoluent progressivement vers des structures plus hiérarchisées.</p>
 
-# -1550 ans
+## -1550 ans
 
 ### Egypte
 
@@ -1876,13 +1928,18 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Et certains chiens sont momifiés et enterrés avec leurs maîtres ou dans des cimetières spécifiques, notamment à Saqqarah, où des milliers de momies de chiens sont retrouvées. Les chiens ont parfois des noms inscrits sur des stèles, comme "Brave", "Bon Gardien" ou "Fidèle".</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/lfgeXNzNDhs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pretre.mp4"/>
+</p>
 
 <p>Les premiers grands prêtres d'Amon apparaissent, période durant laquelle le sacerdoce d'Amon gagne en influence grâce aux hommages rendus par des pharaons tels qu'Hatchepsout et Thoutmôsis III. La hiérarchie sacerdotale comprend également des prêtres de rang inférieur, tels que les prêtres lecteurs (hery-heb), chargés de réciter les textes sacrés et d'instruire les autres membres du clergé. Ces prêtres jouent un rôle essentiel dans les rituels quotidiens et les cérémonies religieuses, contribuant ainsi au maintien de l'ordre cosmique (Maât) cher aux Égyptiens.</p>
 
-# -1500 ans
+## -1500 ans
 
-<p style="display:block;text-align:center">![Octocat](/assets/img/ossecaille.png)</p>
+<p style="text-align:center">
+  <img src="/assets/img/ossecaille.png" alt="Gif 2" width="400">
+</p>
 
 <p>On retrouve des caractères chinois (écriture ossécaille) sur des carapaces de tortues. L'écriture ossécaille est en fait très comparable à l'écriture Egyptienne. Mais l'écriture chinoise devient encore plus précise car elle utilise le déterminant pour dire si une image peut être lisible comme un simple son ou comme une image.</p>
 
@@ -1894,13 +1951,18 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Début du Nouvel Empire en Egypte, la période la plus prospère de l'empire pharaonique Egyptienne. Ces Egyptiens croient en plusieurs Dieux, dont certains sont plus importants que d'autres. Ils sont polythéistes. Le Dieu de la localité est tout de même perçu comme le plus important sans pour autant nier les autres Dieux.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Uvr5U5Su9xU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/hatchepsout.mp4"/>
+</p>
 
 <p>Hatchepsout est l'une des plus grandes figures de l'histoire de l'Égypte antique et l'une des rares femmes à avoir régné en tant que pharaon. Malgré cette tentative d'effacement, son règne est aujourd’hui reconnu comme une ère de prospérité et de paix, avec un immense impact sur l’architecture et le commerce égyptien.</p>
 
 ### Babylone
 
-<p>Les astronomes babyloniens développent les premières tables d’éphémérides pour prédire les positions des planètes.</p>
+<p>Les Babyloniens commencent à noter scrupuleusement ce qu'ils voient. Le document le plus célèbre est la Tablette de Vénus d'Ammisaduqa. À ce stade, ils compilent des listes de phénomènes (ex: "Vénus a disparu tel jour"), mais ils ne savent pas encore calculer précisément le futur avec des mathématiques complexes.</p>
+
+<p>Pour les Babyloniens, c'est vital car ils pensent que le mouvement des astres révèle la volonté des dieux. </p>
 
 ## -1450 ans
 
@@ -1910,7 +1972,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les Mycéniens sont des descendants probables des peuples indo-européens arrivés dans la péninsule grecque et les ancêtres directs de la civilisation grecque classique.</p>
 
-# -1400 ans
+## -1400 ans
 
 ### Grèce
 
@@ -1918,21 +1980,45 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Mycènes domine largement d'autres villes grecques (comme Tirynthe, Pylos, Thèbes).</p>
 
-# -1375 ans
+## -1375 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/90xa34S_lOg" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/toutankamon.mp4"/>
+</p>
 
 <p>Naissance de Toutânkhamon. Toutânkhamon est l’un des pharaons les plus célèbres, mais son règne fut court et peu marquant. Il est surtout connu grâce à la découverte de sa tombe intacte en 1922 par Howard Carter. Sa tombe est l’une des seules découvertes intactes, contrairement aux autres pharaons dont les sépultures ont été pillées. Son masque funéraire en or est devenu l’icône de l’Égypte antique. Le mystère de sa mort intrigue encore les chercheurs aujourd’hui.</p>
 
+## -1353 ans
+
+<p>Accession au trône du pharaon Akhenaton (d'abord nommé Amenhotep IV).</p>
+
+## -1348 ans
+
+<p>Akhenaton lance sa réforme religieuse et proclame le dieu Aton comme divinité suprême, réduisant fortement le rôle des autres dieux du panthéon égyptien.</p>
+
+## -1346 ans
+
+<p>Fondation de la nouvelle capitale d'Akhetaton (aujourd'hui Amarna), dédiée au culte d'Aton.</p>
+
+## -1336 ans
+
+<p>Mort d'Akhenaton. Après sa disparition, les élites religieuses et politiques restaurent progressivement les cultes traditionnels.</p>
+
+## -1332 ans
+
+<p>Le jeune pharaon Toutânkhamon abandonne officiellement la réforme d'Akhenaton et rétablit les anciens dieux égyptiens.</p>
+
 ## -1300 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xV1pM88GNk8" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Enuma Elish est écrit sous la dynastie kassite de Babylone. L’Enuma Elish est un mythe cosmogonique (récit de la création du monde) qui set notamment à exalter le rôle de la cité de Babylone et de son dieu tutélaire Marduk. Il est récité chaque année lors de la fête du Nouvel An babylonien (Akītu), au printemps, pour célébrer la victoire de Marduk sur le chaos. Il s'inscrit dans un contexte où les cités-États mésopotamiennes sont en compétition, et où Babylone cherche à asseoir sa suprématie en plaçant son dieu au centre du panthéon.</p>
+<p>Enuma Elish est écrit sous la dynastie kassite de Babylone. L’Enuma Elish est un mythe cosmogonique (récit de la création du monde) qui est récité chaque année lors de la fête du Nouvel An babylonien (Akītu), au printemps, pour célébrer la victoire de Marduk sur le chaos. Il s'inscrit dans un contexte où les cités-États mésopotamiennes sont en compétition, et où Babylone cherche à asseoir sa suprématie en plaçant son dieu au centre du panthéon.</p>
 
 ### Egypte
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/3nnTE_xcBL4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/nefertari.mp4"/>
+</p>
 
 <p>Naissance de Néfertari pendant la XIXᵉ dynastie du Nouvel Empire. Néfertari est l'épouse principale de Ramsès II, l’un des plus grands pharaons d’Égypte. Son nom signifie "La plus belle, celle pour qui brille le soleil".</p>
 
@@ -1940,13 +2026,13 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Premier traité de paix entre les Egyptiens et les Hittites (libre circulation des marchands, pacte de non-agression). Le marriage s'arrange entre Hittites et Egyptiens, la confiance s'installe. Plus jamais Hittites et Egyptiens ne seront en guerre.</p>
 
-# -1207 ans
+## -1207 ans
 
-<p>Le roi Hittite et le pharaon égyptien ont échangé des lettres. Le premier a écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".</p>
+<p>Sous le règne du pharaon Mérenptah, fils de Ramsès II, l'Empire hittite, situé en Anatolie (Turquie actuelle), traverse une crise majeure. Les récoltes sont insuffisantes à cause d'une sécheresse prolongée et de l'instabilité causée par les prémices des invasions des "Peuples de la Mer". Le roi Hittite et le pharaon égyptien échangent des lettres.  Le premier écrit: "ici c'est la sécheresse et la famine, il me faut des vivres, aidez-moi...".</p>
 
 <p>Plusieurs civilisations qui s'effondrent simultanément signifient la disparition complète du langage et de l'écriture de l'époque. Ce n'est pas seulement le roi de la région qui perd son trône. Il s'agit d'un changement culturel considérable, d'une vraie rupture dans l'histoire de l'humanité, qui place tous les compteurs à zéro.</p>
 
-# -1200 ans
+## -1200 ans
 
 <p>Fin de l'âge du bronze et début de l'âge du fer. Le passage du bronze au fer est motivé par plusieurs facteurs, notamment la rareté de l'étain nécessaire à la fabrication du bronze, rendant le fer plus attractif en raison de sa disponibilité plus large. De plus, le fer, une fois correctement traité, offre une meilleure dureté et durabilité comparé au bronze, ce qui le rend plus efficace pour la fabrication d'outils, d'armes et d'autres objets.</p>
 
@@ -1954,27 +2040,19 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ### Grèce
 
-<p>En une ou deux générations, toute la structure centralisée mycénienne s’effondre. Les villes se vident, les scribes disparaissent, les élites aussi.</p>
+<p>En une ou deux générations, toute la structure centralisée mycénienne s’effondre. Les villes se vident, les scribes disparaissent, les élites aussi. On arrête de construire en pierre de taille (fin de l'architecture cyclopéenne). On repasse à des cabanes en briques de boue.</p>
 
 ## -1155 ans
 
-<p>Les grands royaumes de l'âge du bronze s'effondrent.</p>
-
 ### Rome
 
-<p>Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages.</p>
-
-### Egypte
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QxMoQeGEOf0" frameborder="0" allowfullscreen></iframe></p>
-
-<p>Mort de Ramsès III.</p>
+<p>Rome est un lieu stratégique d'importation de sel pour la conservation des viandes et la fabrication de fromages. À l'embouchure du Tibre (Ostie), se trouvent des lagunes salines naturelles. Le sel est une denrée aussi précieuse que l'or, car c'est le seul moyen de conserver la viande et les aliments pour l'hiver. Rome née de la surveillance et du contrôle de ce commerce.</p>
 
 ## -1100 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vC5Jij13tnk" frameborder="0" allowfullscreen></iframe></p>
-
 <p>Naissance des Araméens en tant que peuple. Ils apparaissent dans les sources assyriennes sous le nom d’« Araméens » (Aḫlamû-Aramâyû) et s’installent progressivement en Syrie et en Mésopotamie.</p>
+
+<p>Leur essor est indissociable de la grande crise de 1200 av. J.-C. L'effondrement des grands empires (Hittites en Anatolie, affaiblissement de l'Égypte et de Babylone) crée un vide de pouvoir. Profitant de la déstabilisation des centres urbains, les Araméens quittent les zones steppiques (probablement entre le Djebel Bichri en Syrie et le Moyen-Euphrate) pour s'installer dans les plaines fertiles.</p>
 
 ### Grèce
 
@@ -1982,49 +2060,70 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ### Afghanistan, Turkménistan, Iran (Perse)
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TSr_BcS8N3g" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/Story%20of%20god%20-%20La%20vision%20du%20mal%20zoroastrisme%20%5BTSr_BcS8N3g%5D.mkv"/>
+</p>
 
 <p>Début du zoroastrisme, également appelé mazdéisme, qui est l'une des plus anciennes religions monothéistes connues, fondée par le prophète Zoroastre (ou Zarathoustra). Cette religion vénère le dieu Ahura Mazda et enseigne une dualité entre le bien et le mal. Les fidèles sont encouragés à suivre le chemin de la vérité et de la justice, résumé par la maxime : "Bonnes pensées, bonnes paroles, bonnes actions".</p>
 
 <p>Les enseignements de Zoroastre sont principalement contenus dans l'Avesta, le livre sacré du zoroastrisme. Parmi ses sections les plus anciennes et les plus sacrées figurent les Gathas, des hymnes poétiques attribués directement au prophète. Le zoroastrisme est la religion dominante de plusieurs empires perses, notamment sous les dynasties achéménide et sassanide. Son influence s'est étendue bien au-delà de la Perse, impactant des religions telles que le judaïsme et le christianisme.</p>
 
-# -1000 ans
+## -1050
+
+## Grèce
+
+La civilisation mycénienne vient de s'effondrer. L'écriture (le linéaire B) disparaît, et la Grèce entre dans ce qu'on appelle les siècles obscurs. C'est précisément dans ce vide que la tradition orale devient le seul véhicule de la mémoire collective. Les chants épiques commencent, sous forme orale, transmis de génération en génération.
+
+## -1000 ans
 
 ### Chine
 
-<p>La dynastie Zhou renverse les Shang vers 1045 av. J.-C., sous le roi Wu Wang, fondateur de la dynastie.</p>
-
-<p>Les inscriptions sur bronze révèlent l’existence de vrais "bureaux" (gong 宮), avec des fonctions clairement spécialisées : trois grandes divisions sont repérées — maison royale, administration civile, militaire.</p>
+<p>La dynastie Zhou renverse les Shang vers 1045 av. J.-C., sous le roi Wu Wang, fondateur de la dynastie. Le dernier roi Shang est en effet décrit par l'historiographie classique comme un despote cruel et débauché. On lui reproche d'avoir négligé les rituels et d'avoir favorisé ses courtisans au détriment du peuple. Le pouvoir Shang repose aussi sur une aristocratie guerrière pratiquant des sacrifices humains massifs pour apaiser les ancêtres et les divinités. Cette violence institutionnalisée commence à lasser les clans périphériques. Voyant sa défaite inéluctable, Di Xin s'est réfugié dans son palais avant d'y mettre le feu, emportant avec lui ses trésors. Ce basculement marque le passage d'une culture dominée par la divination et le chamanisme (Shang) à une culture plus axée sur l'éthique, les rites et l'ordre social (Zhou).</p>
 
 ### Rome
 
 <p>Les Romains élèvent des porcins, ovins et bovins. L'agriculture se développe lentement: vignes, oliviers, fêves et pois sont cultivés. Durant cet âge du fer des centres protourbains (un peu plus petit qu'une ville) se forment.</p>
 
-<p>Les Babyloniens commencent à diviser le ciel en sections régulières correspondant aux signes zodiacaux.</p>
+<p>Babylone n'est plus la superpuissance qu'elle était sous Hammurabi ou qu'elle deviendra sous Nabuchodonosor II. C’est l’époque exacte où les Araméens (dont nous parlions) et les Sutéens lancent des raids incessants. Ils coupent les routes commerciales et perturbent les récoltes, provoquant parfois des famines dans la cité. Malgré sa faiblesse militaire, Babylone jouit d'une aura culturelle immense. Pour les peuples de l'époque, c'est la "Ville Éternelle". Les scribes de Babylone sont les gardiens de la science. C'est en -1000 que l'on commence à compiler et à standardiser les grandes séries de textes (médicaux, divinatoires et astronomiques). Les Babyloniens commencent à diviser le ciel en sections régulières correspondant aux signes zodiacaux. À cette époque, les prêtres-astronomes ne font pas de distinction entre astronomie (science) et astrologie (divination). À cette époque, les mathématiques babyloniennes utilisent déjà le système sexagésimal (base 60). C'est grâce à eux que nous divisons encore aujourd'hui nos minutes en 60 secondes et nos cercles en 360°.</p>
 
-# -900 ans
+## -900 ans
 
 <p>L'Assyrie commence à étendre son territoire et conquérir d'autres régions de la Mésopotamie. Les Assyriens se sont rapidement imposés comme une puissance militaire dominante dans la région et créent un vaste empire qui s'étend de l'Irak à la Palestine et à la Syrie.</p>
 
 <p>Les Assyriens sont réputés pour leur brutalité envers les peuples conquis, utilisant la terreur comme un instrument de gouvernement pour dissuader les rébellions.</p>
 
-# -800 ans
+## -800 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cVsQB4wpRBc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/Les%20Grecs%C2%A0I%20Quelle%20Histoire%20-%20TV5%20Monde%20%5BcVsQB4wpRBc%5D.mkv"/>
+</p>
 
 <p>Durant cette période, connue sous le nom d'âge archaïque, les Grecs commencent à établir des villes-états, comme Athènes et Sparte. Ils développent leur propre écriture, basée sur l'alphabet phénicien, ce qui permet de commencer à enregistrer leur histoire et leur littérature.</p>
 
-# -753 ans
+## -753 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/u2AdfEHfV_U" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center">
+  <video controls preload="metadata" width="640" height="360"
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/COMPRENDRE%20%EF%BC%9A%20La%20Rome%20antique%20%5Bu2AdfEHfV_U%5D.mkv"/>
+</p>
+
+### Italie
 
 <p>Il y a d'énormes fermes agricoles autour de Rome, exploitant des céréales, des olives, du vin et de nombreux élevages d'animaux (surtout chèvres et moutons). Cette expension attire des artisans et des marchands.</p>
 
-# - 750 ans
+## - 750 ans
 
-Composée de l'Iliade à l’époque archaïque grecque. Elle est attribuée à Homère, un poète (ou groupe de poètes) vivant probablement en Ionie (côte d’Asie Mineure, actuelle Turquie). Mais cette date ne correspond pas à l’écriture au sens strict : au départ, l’Iliade est orale — transmise par chant et mémoire pendant plusieurs siècles. L’Iliade ne raconte ni toute la guerre de Troie, ni la chute de la ville, ni le cheval de Troie. Elle se concentre uniquement sur quelques semaines de la dixième et dernière année de la guerre et surtout sur la colère d’Achille. L’Iliade est donc un poème sur la colère, la mort et la compassion, pas sur la victoire ni sur le cheval de Troie.
+Composée de l'Iliade à l’époque archaïque grecque. C’est l’époque où :
 
-# -600 ans
+l’alphabet grec apparaît (inspiré des Phéniciens)
+
+des poèmes sont écrits
+
+Elle est attribuée à Homère, un poète (ou groupe de poètes) vivant probablement en Ionie (côte d’Asie Mineure, actuelle Turquie). Homère n’invente pas tout : il organise une tradition ancienne. Cette date ne correspond pas à l’écriture au sens strict : au départ, l’Iliade est orale — transmise par chant et mémoire pendant plusieurs siècles. L’Iliade ne raconte ni toute la guerre de Troie, ni la chute de la ville, ni le cheval de Troie. Elle se concentre uniquement sur quelques semaines de la dixième et dernière année de la guerre et surtout sur la colère d’Achille. L’Iliade est donc un poème sur la colère, la mort et la compassion, pas sur la victoire ni sur le cheval de Troie.
+
+## -600 ans
 
 <p>La civilisation Maya en Amérique emploie aussi le principe du rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguïtés (lire une image comme une image ou comme un son ?).</p>
 
@@ -2032,7 +2131,11 @@ Composée de l'Iliade à l’époque archaïque grecque. Elle est attribuée à 
 
 <p>Fin de l'Empire assyrien, en raison de révoltes internes, de problèmes économiques et de l'émergence de puissances rivales, notamment les Babyloniens et les Mèdes. L'empire prend fin avec la chute de sa capitale, Ninive.</p>
 
-# -580 ans
+### Turquie
+
+La première monnaie frappée apparaît. Ces premières pièces sont en électrum, un alliage naturel d'or et d'argent qu'on trouve notamment dans les paillettes du fleuve Pactole. On attribue souvent leur essor au roi Crésus, célèbre pour sa richesse, qui aurait introduit le premier bimétallisme en frappant séparément des pièces d'or pur et d'argent pur.
+
+## -580 ans
 
 ### Athènes
 
@@ -2052,6 +2155,24 @@ Composée de l'Iliade à l’époque archaïque grecque. Elle est attribuée à 
 
 <p>Le roi Crésus introduit la monnaie métallique standardisée en or et argent, ce qui en a fait un jalon majeur dans l’histoire économique.</p>
 
+## -550 ans
+
+<p>Fondation de l'Empire achéménide par Cyrus le Grand. Le zoroastrisme exerce une influence importante sur la culture et le pouvoir perse.</p>
+
+## -551 ans
+
+<p>Naissance de Confucius, figure fondatrice du confucianisme. La Chine traverse une période d'instabilité politique. Depuis l'affaiblissement de la dynastie Zhou, le pouvoir central perd progressivement son autorité au profit de principautés rivales. De nombreux penseurs de l'époque considèrent que l'ordre ancien est en déclin. Les enseignements de Confucius se développent dans ce contexte et cherchent à restaurer l'harmonie sociale et politique par l'éducation, la morale et le respect des devoirs familiaux et civiques.</p>
+
+<p>La tradition situe la vie de Laozi à la même époque que Confucius, bien que son existence historique soit débattue.</p>
+
+## -534 ans
+
+<p>Siddhartha Gautama quitte la vie princière après avoir été confronté à la vieillesse, à la maladie et à la mort, afin de chercher une solution à la souffrance humaine.</p>
+
+## -528 ans
+
+<p>Siddhartha Gautama atteint l'illumination sous l'arbre de la Bodhi à Bodh Gaya et devient le « Bouddha » (« l'Éveillé »).</p>
+
 ## -515 ans
 
 <p>L’Empire perse achéménide adopte officiellement la monnaie sous le règne de Darius Ier. Darius Ier va centraliser et standardiser la monnaie pour faciliter l’administration et le commerce dans un empire immense allant de l’Indus à la Méditerranée.</p>
@@ -2061,6 +2182,10 @@ Composée de l'Iliade à l’époque archaïque grecque. Elle est attribuée à 
 <p>Chute du régime monarchique de Rome. Il y a un désir croissant parmi l'élite et le peuple romain pour un système de gouvernance qui limite le pouvoir d'un seul individu et offre une forme de contrôle démocratique ou oligarchique. La République est fondée sur le principe de séparation des pouvoirs, avec deux consuls élus annuellement pour gouverner conjointement, le Sénat comme organe de conseil, et les assemblées populaires pour les décisions importantes.</p>
 
 <p>La chute de la monarchie romaine et l'établissement de la République marquent le début d'une période de grande expansion et de transformation pour Rome, qui a finalement dominé la Méditerranée.</p>
+
+## -483 ans
+
+Mort du Bouddha (parinirvana).
 
 ## -470 ans
 
@@ -2113,7 +2238,11 @@ Composée de l'Iliade à l’époque archaïque grecque. Elle est attribuée à 
 
 ## –331 ans
 
-Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des plus grands centres intellectuels et scientifiques du monde antique.
+<p>Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des plus grands centres intellectuels et scientifiques du monde antique.</p>
+
+## –330 ans
+
+<p>Conquête de l'Empire achéménide par Alexandre le Grand.</p>
 
 ## -250 ans
 
@@ -2128,11 +2257,21 @@ Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des p
 
 <p>Pour un citoyen romain, le chou est très apprécié aussi bien cru que cuit. Il fait partie des cultures que tout bon citoyen romain doit avoir dans son jardin.</p>
 
+## -221 ans
+
+### Chine
+
+<p>En Chine, l'État de Qin unifie le pays pour la première fois. Son roi prend un titre nouveau : Qin Shi Huangdi, « Premier Empereur ». La Chine impériale est née. Quarante millions de sujets paient des impôts qui financent deux piliers : une armée permanente de plusieurs centaines de milliers de soldats, et une bureaucratie de plus de 100 000 fonctionnaires. La dynastie Qin elle-même ne dure qu'une quinzaine d'années, s'effondrant peu après la mort de son fondateur. Mais l'idée d'une Chine unifiée, elle, ne disparaîtra plus : tous les empires suivants se bâtiront sur ce modèle.</p>
+
 ## -218 ans
 
 <p>Hannibal Barca, un général et stratège carthaginois célèbre, entreprend une campagne militaire contre Rome pendant la Deuxième Guerre punique. Il rassemble une grande armée, y compris des cavaliers et des éléphants de guerre, et traverse les Pyrénées et les Alpes, un exploit remarquable compte tenu des difficultés logistiques et des conditions extrêmes.</p>
 
 <p>Cette traversée des Alpes est particulièrement célèbre pour son audace et sa difficulté. Une fois en Italie, Hannibal engage les forces romaines dans une série de batailles, remportant des victoires importantes à Trébie, au lac Trasimène, et surtout à Cannes, où il inflige à Rome une de ses plus grandes défaites.</p>
+
+## -202 ans
+
+<p>Bataille de Zama. Rome vainc Carthage et devient la principale puissance de la Méditerranée occidentale.</p>
 
 ## -200 ans
 
@@ -2153,6 +2292,22 @@ Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des p
 <p>3 Grec ancien (langue administrative des Ptolémées)</p>
 
 <p>Cela permettait à toutes les classes sociales de comprendre le décret. C'est devenu la clé du déchiffrement des hiéroglyphes par Jean-François Champollion en 1822, grâce à la comparaison avec le grec.</p>
+
+## -146 ans
+
+<p>Scipion Émilien détruit la ville de Carthage à la fin de la Troisième Guerre punique.</p>
+
+## -136 ans
+
+<p>Adoption du confucianisme comme idéologie officielle de l'Empire Han, tandis que le taoïsme continue d'exercer une influence majeure sur la culture et la spiritualité chinoises.</p>
+
+## -133 ans
+
+<p>Scipion Émilien prend et détruit la cité de Numance en Hispanie, mettant fin à la guerre celtibère.</p>
+
+## -120 ans
+
+<p>Sous la Dynastie Han, le Daodejing et le Zhuangzi commencent à être associés comme textes fondamentaux d'une même tradition, la « Voie » (Dao).</p>
 
 ## -100 ans
 
@@ -2182,6 +2337,10 @@ Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des p
 
 <p>Mort de Cléopâtre VII – fin de l'Égypte indépendante. L'Égypte devient une province romaine.</p>
 
+## 4 ans
+
+<p>Naissance de Jésus de Nazareth en Judée.</p>
+
 ## 9 ans
 
 <p>La bataille de Teutobourg oppose une alliance de tribus germaniques, dirigée par Arminius, à trois légions romaines commandées par Publius Quinctilius Varus. Elle se déroule dans la forêt de Teutobourg, située dans l'actuelle Allemagne.</p>
@@ -2194,11 +2353,31 @@ Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des p
 
 <p>Malgré ce succès, les Romains ne réussissent pas à soumettre complètement les tribus germaniques, et l'empereur Tibère met fin aux campagnes de Germanicus en Germanie, préférant consolider les frontières existantes plutôt que de poursuivre une expansion coûteuse et risquée.</p>
 
+## 30 ans
+
+<p>Crucifixion de Jésus sous le gouverneur romain Ponce Pilate. Naissance des premières communautés chrétiennes à Jérusalem. À cette époque, le christianisme est encore un courant minoritaire au sein du judaïsme.</p>
+
 ## 43 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dZwBb0tVktA" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Les Romains commencent leur conquête de la Grande-Bretagne, sous l'empereur Claude. Ils établissent leur contrôle sur la majeure partie de l'île, mais ils n'ont jamais conquis entièrement les régions les plus septentrionales, notamment l'actuelle Écosse.</p>
+
+## 49 ans
+
+<p>Concile de Jérusalem. Les dirigeants du mouvement décident que les non-Juifs peuvent devenir chrétiens sans adopter toutes les lois juives, ce qui facilite l'expansion de la nouvelle religion.</p>
+
+## 50 ans
+
+<p>Voyages missionnaires de Paul de Tarse à travers l'Empire romain. Son action contribue à transformer le christianisme d'une secte juive en une religion ouverte à tous.</p>
+
+## 64 ans
+
+<p>L'empereur Néron lance l'une des premières persécutions connues contre les chrétiens à Rome.</p>
+
+## 67 ans
+
+<p>Introduction officielle du bouddhisme en Chine sous le règne de l'empereur Han Mingdi.</p>
 
 ## 79 ans
 
@@ -2208,18 +2387,46 @@ Alexandre le Grand fonde Alexandrie sur la côte égyptienne. C'est l’un des p
 
 <p>Invention de la charrue gauloise. La grande nouveauté de cette charrue est son soc en fer, par opposition aux précédentes charrues qui ont un soc en bois ou en pierre. Cela permet l'expansion de l'agriculture dans des régions auparavant inadaptées à la culture intensive.</p>
 
+## 184 ans
+
+<p>Révolte des Turbans jaunes, symbole de la crise profonde qui frappe l'Empire Han.</p>
+
 ## 200 ans
 
 <p>Pour régler les problèmes d'apports et d'évacuation des eaux en ville, on retrouve des édifices très perfectionnés dans la zone de la conquête romaine.
 L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le territoire. Il existe donc des puits, des citernes, des bains publics, de fontaines, mais aussi de latrines ou d'égouts. Ce mode de vie, très gourmand en eau, nécessite la création d'ouvrages massifs, les aqueducs, des conduites qui s'adaptent au relief, quitte à passer sous la terre, au ras du sol ou à plusieurs dizaines de mètres de hauteur. On parle ici déjà d'un service de déchetterie, de triage et de recyclage.</p>
 
+## 220 ans
+
+<p>Chute officielle de la Dynastie Han et fragmentation de la Chine.</p>
+
+## 224 ans
+
+<p>Fondation de l'Empire sassanide par Ardachir Ier. Le zoroastrisme devient la religion officielle de l'Empire sassanide.</p>
+
 ## 300 ans
 
 <p>Règne de l'Empereur romain Constantin. C'est le premier empereur romain à s'être converti au christianisme.</p>
 
+### Chine
+
+<p>Multiplication des monastères, sanctuaires et communautés bouddhistes soutenus par les dirigeants régionaux et les aristocrates.</p>
+
+## 313 ans
+
+<p>Édit de Milan. Les empereurs Constantin Ier et Licinius accordent la liberté de culte aux chrétiens dans l'Empire romain.</p>
+
 ## 330 ans
 
 <p>Constantinople est fondée par l'empereur romain Constantin Ier, qui décide de déplacer la capitale de l'Empire romain de Rome à Byzance, une ville déjà existante située à l'intersection de l'Europe et de l'Asie. Constantin Ier renomme la ville en son honneur et la transforme en une nouvelle capitale grandiose, qui devient rapidement le centre politique, économique et culturel de l'Empire romain d'Orient, également connu sous le nom d'Empire byzantin.</p>
+
+## 378 ans
+
+<p>Bataille d'Andrinople. L'empereur romain d'Orient Valens est vaincu et tué par les Goths près d'Andrinople (aujourd'hui Edirne, en Turquie). Cette défaite est souvent considérée comme un tournant dans le déclin de l'Empire romain.</p>
+
+## 380 ans
+
+<p>Édit de Thessalonique. L'empereur Théodose Ier fait du christianisme nicéen la religion officielle de l'Empire romain.</p>
 
 ## 391 ans
 
@@ -2237,17 +2444,81 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>La dynastie des Sui dirige la Chine, unifiant différents royaumes.</p>
 
+## 589 ans
+
+<p>Réunification de la Chine sous la Dynastie Sui, alors que le bouddhisme est déjà profondément enraciné dans la culture chinoise.</p>
+
+## 610 ans
+
+<p>Selon la tradition islamique, Mahomet reçoit ses premières révélations dans la grotte de Hira, près de La Mecque. Cet événement marque le début de l'islam.</p>
+
 ## 618 ans
 
-<p>Début de la dynastie Tang en Chine. Le thé est une boisson populaire, consommée quotidiennement par toutes les classes sociales.</p>
+<p>Début de la dynastie Tang en Chine. Le thé est une boisson populaire, consommée quotidiennement par toutes les classes sociales. Période de forte expansion du bouddhisme.</p>
 
 <p>Chang'an atteint son apogée et devient l'une des plus grandes métropoles du monde médiéval. La capitale des Tang est un immense quadrilatère de 9,7 km sur 8,7 km, considérée comme la première ville entièrement planifiée de l'histoire de la Chine. Son plan a inspiré d'autres capitales extrême-orientales, notamment Nara et Kyōto au Japon.</p>
+
+## 622 ans
+
+<p>Hégire. Mahomet et ses partisans quittent La Mecque pour Médine. Cette date marque le début du calendrier musulman.</p>
+
+## 630 ans
+
+<p>Conquête de La Mecque par Mahomet et ses disciples. L'islam devient la force dominante de l'Arabie occidentale.</p>
+
+## 632 ans
+
+<p>Mort de Mahomet. À cette date, une grande partie de la péninsule Arabique a adopté l'islam.</p>
+
+## 636 ans
+
+<p>Bataille du Yarmouk. Les armées musulmanes remportent une victoire majeure contre l'Empire byzantin.</p>
+
+## 651 ans
+
+<p>Chute de l'Empire sassanide, achevant la conquête de la Perse par les musulmans, marquant la fin du zoroastrisme comme religion d'État en Perse.</p>
+
+## 711 ans
+
+<p>Début de la conquête musulmane de la péninsule Ibérique (Espagne actuelle).</p>
+
+## 742 ans
+
+<p>Règne de Tang Xuanzong, période d'apogée de la puissance et du rayonnement international des Tang.</p>
+
+## 750 ans
+
+<p>Le califat musulman s'étend de l'océan Atlantique jusqu'aux frontières de l'Inde, devenant l'un des plus vastes empires de son époque.</p>
+
+## 755 ans
+
+<p>Début de la Rébellion d'An Lushan menée par An Lushan. La Chine des Tang est frappée par la rébellion d'An Lushan, accompagnée de famines, de déplacements massifs de population et d'un effondrement de l'administration impériale. Les recensements officiels passent d'environ 53 millions d'habitants avant la crise à environ 17 millions après celle-ci. Les historiens soulignent toutefois que cette baisse ne reflète pas uniquement des décès : elle résulte aussi de migrations, de populations échappant au contrôle fiscal et de la désorganisation des registres administratifs. Néanmoins, la rébellion demeure l'une des catastrophes les plus meurtrières de l'histoire de la Chine et marque le début du déclin de la puissance des Tang.</p>
+
+## 756 ans
+
+<p>Les rebelles s'emparent de Chang'an, forçant l'empereur à fuir.</p>
+
+## 757 ans
+
+<p>Reprise de Chang'an par les forces impériales avec l'aide de troupes alliées.</p>
 
 ## 760 ans
 
 <p>Le célèbre ouvrage "Le Classique du Thé" (Cha Jing), écrit par le moine chinois Lu Yu est le premier traité complet sur la culture, la préparation et les bienfaits du thé. Cet ouvrage marque une étape clé dans la diffusion de la culture du thé en Chine.</p>
 
-## 850
+## 763 ans
+
+<p>Fin officielle de la rébellion, bien que certaines régions demeurent instables.</p>
+
+## 800 ans
+
+<p>Couronnement de Charlemagne comme empereur d'Occident. Cet événement symbolise l'alliance entre la noblesse guerrière européenne et le christianisme.</p>
+
+## 845 ans
+
+<p>L'empereur Tang Wuzong lance une grande persécution du bouddhisme, fermant de nombreux monastères. Des milliers de monastères sont fermés et leurs biens confisqués par l'État.</p>
+
+## 850 ans
 
 <p>Invention de la poudre à canon en Chine. Les Chinois inventent la poudre à canon pour diverses utilisations, notamment pour des feux d'artifice, des célébrations festives, et des pratiques alchimiques. La poudre à canon est un élément clé dans l'histoire de l'armement, marquant le début de l'ère des armes à feu.</p>
 
@@ -2325,11 +2596,19 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Une foule en colère attaque le palais royal, tuant Joseph ibn Naghrela et crucifiant son corps. Le massacre s'étend à la ville, où des milliers de Juifs sont tués (les estimations varient, mais certains rapports parlent de plus de 4000 victimes). Cet événement est considéré comme l'un des premiers pogroms en Europe.</p>
 
+## 1095 ans
+
+<p>Le pape Urbain II prononce l'appel de Clermont (27 novembre). Répondant à la demande de secours de l'empereur byzantin Alexis Ier, menacé par l'avancée des Turcs seldjoukides en Anatolie, il exhorte la chevalerie d'Occident à reprendre Jérusalem et le Saint-Sépulcre, sous domination musulmane depuis 638. Cet appel déclenche la première croisade.</p>
+
 ## 1144 ans
 
 <p>Après la mort mystérieuse d'un garçon chrétien nommé William, un moine local nommé Thomas de Monmouth écrit un récit détaillé accusant la communauté juive de Norwich d'avoir rituellement assassiné l'enfant. Bien qu'il n'y ait aucune preuve crédible pour étayer ces allégations, l'histoire de Thomas conduit à la propagation de l'accusation de meurtre rituel à travers l'Europe.</p>
 
 <p>Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans diverses parties de l'Europe, menant souvent à des persécutions et des violences contre les communautés juives. Ces accusations sont entièrement infondées et reflètent les préjugés et la méfiance profonds envers les Juifs qui prévalent dans la société médiévale chrétienne.</p>
+
+## 1170 ans
+
+<p>Les récits de Chrétien de Troyes diffusent les figures de Lancelot, Guenièvre et les valeurs de la chevalerie courtoise dans toute l'Europe.</p>
 
 ## 1180 ans
 
@@ -2373,6 +2652,8 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>La peste débarque une deuxième fois en Europe. Elle arrive d'Asie et va tuer presque 1/3 de la population européenne et presque la moitié de la population urbaine européenne.</p>
 
+<p>Très vite, les Juifs sont accusés soit d'avoir provoqué l'épidémie en empoisonnant les puits, soit, dans certaines villes, on les tue préventivement en croyant ainsi écarter la maladie. </p>
+
 <p>Les citadins terrifiés fuient les villes et vont contaminer les campagnes.</p>
 
 <p>Il y a un débat entre les médecins: le mal se propage par l'air ou par le contact. Même s'ils n'ont aucun moyen scientifique pour démontrer cette hypothèse, les médecins comprennent qu'il faut empêcher la circulation des marchandises et des humains.</p>
@@ -2380,6 +2661,14 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 ## 1348 ans
 
 <p>La peste noire, également connue sous le nom de peste bubonique, arrive à Florence.</p>
+
+<p>Un dimanche des Rameaux, des habitants envahirent le quartier juif de Toulon, tuèrent une quarantaine de Juifs et pillèrent leurs maisons.</p>
+
+## 1349 ans
+
+<p>À Strasbourg, l'ensemble de la communauté juive fut brûlé publiquement. À Erfurt, les 21 et 22 mars 1349, un massacre fit plus d'une centaine de morts, certains Juifs mettant eux-mêmes le feu à leurs maisons pour échapper au lynchage.</p>
+
+<p>Ces croyances reposent sur deux logiques distinctes : tantôt punir les Juifs tenus pour responsables de la peste, tantôt croire que les tuer empêcherait la maladie d'atteindre la localité. Et il est notable que l'Église officielle s'y oppose : le pape Clément VI, dans une bulle de la fin 1349, condamne les flagellants pour le « sang des Juifs versé ». Les historiens économistes ont d'ailleurs montré que les pogroms sont souvent déclenchés par des familles de marchands endettées auprès des Juifs — autrement dit, l'accusation d'empoisonnement serve aussi des intérêts matériels très concrets.</p>
 
 ## 1353 ans
 
@@ -2452,6 +2741,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Ecriture de la messe polyphonique Missa Prolationum qui est une innovation majeure parce qu’elle est entièrement construite sur des canons complexes, chaque voix imitant les autres à différentes vitesses et proportions (c’est-à-dire que la musique joue sur les durées relatives et les imitations croisées).</p>
 
+## 1473 ans
+
+<p>Naissance de Nicolas Copernic.</p>
+
 ## 1475 ans
 
 <p>Ouverture de la première maison de café (appelée qahveh khaneh) à Constantinople</p>
@@ -2467,22 +2760,34 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Collomb débarque aux Antilles pour le compte de l'Espagne. Il découvre aussi Cuba.</p>
 
+## 1498 ans
+
+<p>Vasco de Gama atteint l'Inde par voie maritime, ouvrant la voie à l'expansion commerciale et religieuse européenne en Asie.</p>
+
 ## 1500 ans
 
 <p>Les Portugais s'implantent au Brésil avec Pedro Álvares Cabral. Il y a un manque de main-d'œuvre pour travailler sur les plantations et dans les mines, et les Portugais commencent donc à utiliser des esclaves africains pour remplir ces tâches.</p>
 
 <p>Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonies en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.</p>
 
+## 1503 ans
+
+<p>Mise en place du système de l'« encomienda », qui permet aux colons espagnols d'obtenir le travail forcé des populations autochtones.</p>
+
 ## 1510 ans
 
 <p>Le café se diffuse à La Mecque et au Caire, où il gagne rapidement en popularité.</p>
-<p>C'est aussi à cette époque que certaines autorités religieuses tentent de bannir le café,</p>
-<p>le comparant à l'alcool en raison de ses effets stimulants. Toutefois, ces interdictions</p>
-<p>sont souvent révoquées.</p>
+<p>C'est aussi à cette époque que certaines autorités religieuses tentent de bannir le café, le comparant à l'alcool en raison de ses effets stimulants. Toutefois, ces interdictions sont souvent révoquées.</p>
+
+## 1511 ans
+
+<p>Conquête de Cuba par les Espagnols.</p>
 
 ## 1514 ans
 
 <p>Santiago de Cuba est fondé par le conquistador espagnol Diego Velázquez de Cuéllar. Santiago de Cuba est la première capitale de l'île et sert de base pour l'expansion espagnole dans les Caraïbes. Et en raison de sa position stratégique et de son excellent port naturel, La Havane devient rapidement un centre majeur pour le commerce et la flotte espagnole.</p>
+
+<p>Copernic rédige le Commentariolus, un court manuscrit dans lequel il présente pour la première fois son modèle héliocentrique selon lequel la Terre tourne autour du Soleil.</p>
 
 ## 1515 ans
 
@@ -2494,15 +2799,45 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 ## 1517 ans
 
+<p>Martin Luther publie ses 95 thèses, événement traditionnellement considéré comme le début de la Réforme protestante.</p>
+
 <p>Les colons espagnoles mettent en place une forme de travail forcé afin d'exploiter les immenses richesses amérindiennes comme l'or et l'argent. On regroupe sur un territoire donné les indigènes qu'on oblige à travailler dans les champs, les mines et les chantiers de construction, sous l'autorité d'un colon. Les populations des antilles, d'amérique central et du sud sont ainsi réduites en esclavage.</p>
+
+## 1518 ans
+
+<p>Première autorisation officielle de transport direct d'esclaves africains vers les colonies espagnoles américaines.</p>
+
+## 1519 ans
+
+<p>Hernán Cortés débarque au Mexique avec des chevaux, qui impressionnent fortement les populations locales n'en ayant jamais vu.</p>
 
 ## 1521 ans
 
 <p>Chute de l'Empire aztéque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures, de fusils, et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.</p>
 
+## 1524 ans
+
+<p>Première expédition de Francisco Pizarro le long de la côte pacifique de l'Amérique du Sud à la recherche de nouveaux territoires.</p>
+
+## 1528 ans
+
+<p>Pizarro obtient des informations plus précises sur le riche Empire inca et rencontre des représentants de cet empire.</p>
+
 ## 1530 ans
 
 <p>Un nombre croissant de colons espagnols commencent à se rendre au Pérou pour tenter leur chance et chercher fortune.</p>
+
+## 1531 ans
+
+<p>Début de l'expédition qui mènera à la conquête de l'Empire inca.</p>
+
+## 1532 ans
+
+<p>Bataille de Cajamarca. Pizarro capture l'empereur Atahualpa malgré son importante supériorité numérique.</p>
+
+## 1533 ans
+
+<p>Prise de Cuzco par les forces de Pizarro.</p>
 
 ## 1550 ans
 
@@ -2550,6 +2885,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>On célèbre le mariage de Ferdinando de Médicis, grand-duc de Toscane, avec Christine de Lorraine, petite-fille de Catherine de Médicis. Les Médicis, mécènes puissants, veulent impressionner les invités venus de toute l’Europe. La cérémonie religieuse a lieu à la basilique San Lorenzo, mais le véritable clou des festivités est donné au théâtre des Uffizi : une représentation de la comédie La Pellegrina de Girolamo Bargagli, entrecoupée de six somptueux intermèdes musicaux et scéniques.</p>
 
+## 1598 ans
+
+<p>Promulgation de l'Édit de Nantes par Henri IV, accordant des droits limités aux protestants et mettant fin à plusieurs décennies de guerres de religion.</p>
+
 ## 1600 ans
 
 <p>La East India Company, également connue sous le nom de Compagnie anglaise des Indes orientales, est fondée. Elle est créée en Angleterre par un groupe de marchands et d'investisseurs britanniques. L'objectif principal de la compagnie est de tirer profit du commerce lucratif des épices et d'autres marchandises entre l'Europe et les pays d'Asie, notamment l'Inde, la Chine et les régions voisines. Les marchands britanniques sont attirés par le commerce en Asie en raison de la demande croissante pour les épices, les textiles et d'autres marchandises exotiques en Europe.</p>
@@ -2596,7 +2935,15 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/0FXECUmqBxQ" frameborder="0" allowfullscreen></iframe></p>
 
-<p>Probablement chanté à Mantoue, dans le cadre de la chapelle ducale des Gonzague. Monteverdi combine l’héritage polyphonique de Palestrina avec de nouveaux styles (solistes, instruments, contrastes) qui annoncent l’opéra et la musique baroque. C’est considéré comme la première grande œuvre sacrée baroque, un chef-d’œuvre qui ouvre un monde nouveau</p>
+<p>Probablement chanté à Mantoue, dans le cadre de la chapelle ducale des Gonzague. Monteverdi combine l’héritage polyphonique de Palestrina avec de nouveaux styles (solistes, instruments, contrastes) qui annoncent l’opéra et la musique baroque. C’est considéré comme la première grande œuvre sacrée baroque, un chef-d’œuvre qui ouvre un monde nouveau.</p>
+
+## 1620 ans
+
+<p>Francis Bacon publie le Novum Organum (The New Instrument), un manifeste de la révolution scientifique. Il y affirme que la connaissance doit être acquise par l'observation et l'expérimentation et soutient l'idée que « le savoir est pouvoir », c'est-à-dire que la compréhension de la nature permet aux êtres humains d'agir sur le monde et de le transformer.</p>
+
+## 1633 ans
+
+<p>Procès de Galileo Galilei devant l'Inquisition pour avoir défendu le modèle héliocentrique de Copernic.</p>
 
 ## 1637 ans
 
@@ -2616,6 +2963,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Naissance à Eisenach, dans une grande famille de musiciens allemands (plusieurs générations d’organistes, violonistes et compositeurs) de Johann Sebastian Bach. Orphelin très jeune (à 10 ans), il est recueilli par son frère aîné Johann Christoph, organiste, qui lui transmet une partie de son savoir.</p>
 
+## 1687 ans
+
+<p>Isaac Newton publie les Principia Mathematica, un ouvrage dans lequel il présente les trois lois du mouvement et la loi de la gravitation universelle. Pour la première fois, un même ensemble de lois mathématiques permet d'expliquer et de prédire les mouvements des objets terrestres et des corps célestes. Cette publication constitue l'une des étapes majeures de la révolution scientifique moderne.</p>
+
 ## 1689 ans
 
 <p>L'Angleterre commence des réformes économiques en</p>
@@ -2634,21 +2985,25 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Dernière épidémie de peste en Europe. Elle se situe à Marseille et est introduite à Marseille par des navires venant d'Orient. Elle dure jusqu'en 1722, causant la mort de plus de 100 000 personnes.</p>
 
-### 1721 ans
+## 1721 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/HTm2kEAfo8o" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Bach offre Les Concertos Brandebourgeois au margrave de Brandebourg, d’où leur nom. Ce sont six concertos pour orchestre, chacun avec une instrumentation différente (clavecin soliste, violon, flûte, cors, trompettes, etc.). Bach traite chaque concerto comme une expérience unique, explorant toutes les couleurs possibles d’un orchestre baroque. C’est presque une démonstration de ce que pouvait faire la musique instrumentale de son temps. Jusqu’alors, le concerto était surtout italien (Vivaldi). Bach reprend la forme et la pousse à son extrême, en créant une variété inégalée. C’est l’équivalent d’un “album complet” de musique instrumentale baroque.</p>
 
-### 1723 ans
+## 1723 ans
 
 <p>Bach s’installe à Leipzig comme cantor de l’église Saint-Thomas (poste qu’il occupera jusqu’à sa mort). Là, il compose chaque semaine de nouvelles cantates pour la liturgie, mais aussi ses grandes œuvres sacrées : Passion selon saint Matthieu, Messe en si mineur, etc. Il a l'obligation de produire une grande quantité de musique religieuse chaque semaine.</p>
 
-### 1725 ans
+## 1725 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/GRxofEmo3HA" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Publication des 4 saisons de Vivaldi. Ce recueil est publié avec une dédicace à un noble italien (le comte Wenzel von Morzin), ce qui renforce sa diffusion dans les cercles aristocratiques européens.</p>
+
+## 1735 ans
+
+<p>Carl Linnaeus publie le Systema Naturae, ouvrage qui contribue à diffuser les classifications raciales utilisées par les Européens pour justifier l'esclavage des Africains et les hiérarchies raciales dans les colonies américaines.</p>
 
 ## 1740 ans
 
@@ -2684,6 +3039,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Des soldats britanniques tirent sur une manifestation à Boston. On relève 7 morts.</p>
 
+## 1774 ans
+
+<p>Louis XVI monte sur le trône à la mort de son grand-père, Louis XV.</p>
+
 ## 1775 ans
 
 <p>Thomas Payne rédige un article exigeant l'abolition immédiate de l'esclavage dans les colonies.</p>
@@ -2692,21 +3051,29 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Les colonies britanniques en Amérique du Nord décident de se séparer de l'Empire britannique et de devenir un pays indépendant. Cela est motivé par plusieurs facteurs, y compris le désir de liberté et d'autonomie des colonies, le mécontentement croissant envers le gouvernement britannique et la répression des colonies par les troupes britanniques.</p>
 
+<p>Publication de The Wealth of Nations (An Inquiry into the Nature and Causes of the Wealth of Nations). Adam Smith y développe les principes fondamentaux du libéralisme économique, notamment l'idée que la recherche du profit peut favoriser la croissance économique par l'investissement et la création d'emplois.</p>
+
+### Etats-Unis
+
 <p>Les États-Unis déclarent leur indépendance le 4 juillet 1776, lorsque la Déclaration d'Indépendance est adoptée par le Congrès Continental. La Déclaration d'Indépendance, rédigée par Thomas Jefferson, énonce les raisons pour lesquelles les colonies se séparent de l'Empire britannique et proclament leur indépendance en tant que nouveau pays, les États-Unis d'Amérique.</p>
+
+## 1778 ans
+
+<p>Participation française à la Guerre d'indépendance américaine. Cette guerre accroît fortement l'endettement de l'État français.</p>
 
 ## 1780 ans
 
 <p>Les actes de mutilation contre les esclaves sont interdits aux Antilles. Dans ces colonies, les esclaves sont souvent soumis à des actes de violence et de mutilation pour les punir de diverses infractions. Par exemple, ils peuvent être marqués au fer rouge, mutilés ou tués pour s'être rebellés ou pour avoir tenté de s'échapper.</p>
+
+## 1781 ans
+
+<p>James Watt brevette sa première machine à vapeur dans le but de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.</p>
 
 ## 1783 ans
 
 <p>Les États-Unis sont finalement reconnus comme un pays indépendant par le Royaume-Uni avec la signature du Traité de Paris.</p>
 
 <p>Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.</p>
-
-## 1781 ans
-
-<p>James Watt brevette sa première machine à vapeur dans le but de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.</p>
 
 ## 1784 ans
 
@@ -2715,6 +3082,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 <p>Les Lumières refusent que la religion demande aux humains d'obéir à Dieu. On sait en effet que dans les religions abrahamiques Dieu impose ses lois aux hommes (il faut le craindre et lui obéir).</p>
 
 <p>En résumé, le message principal du mouvement des Lumières est de promouvoir la liberté, l'égalité et la démocratie en mettant l'accent sur la raison et la science comme moyens de progrès humain.</p>
+
+## 1786 ans
+
+<p>Le contrôleur général des finances Charles Alexandre de Calonne présente au roi un rapport alarmant sur les finances du royaume et avertit d'un risque de faillite.</p>
 
 ## 1788 ans
 
@@ -2778,6 +3149,8 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Le fonctionnement d'un bateau à vapeur repose sur l'utilisation de la vapeur d'eau pour actionner une turbine ou un piston, qui à son tour fait tourner une hélice ou des roues à aubes, propulsant ainsi le bateau à travers l'eau.</p>
 
+<p>Le Royaume-Uni interdit la traite négrière transatlantique.</p>
+
 ## 1808 ans
 
 <p>L'esclavage est supprimé au Royaume-Uni. Cette loi est adoptée en réponse aux pressions exercées par les mouvements abolitionnistes et est l'une des premières lois de ce type adoptées en Europe.</p>
@@ -2802,6 +3175,12 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Mort de Napoléon.</p>
 
+<p>Début de la Guerre d'indépendance grecque contre l'Empire ottoman. Les Grecs se soulèvent contre l'Empire ottoman après plusieurs siècles de domination. La guerre d'indépendance dure près de dix ans et bénéficie progressivement du soutien de plusieurs puissances européennes.</p>
+
+## 1822 ans
+
+<p>Les insurgés proclament officiellement l'indépendance de la Grèce.</p>
+
 ## 1825 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4r9cIp9vwCY" frameborder="0" allowfullscreen></iframe></p>
@@ -2818,11 +3197,15 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>En France, on adopte une loi interdisant la traite négrière et prévoient des peines sévères pour les personnes qui s'y adonnent.</p>
 
+<p>Bataille de Navarin. Les flottes britannique, française et russe détruisent la flotte ottomano-égyptienne</p>
+
 ## 1830 ans
 
 <p>Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres. L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.</p>
 
 <p>Les forces françaises prennent la ville d'Alger après quelques semaines de siège, marquant le début de la colonisation française en Algérie.</p>
+
+<p>La ligne ferroviaire Liverpool-Manchester est inaugurée en Angleterre. Première ligne ferroviaire moderne assurant un service régulier de voyageurs et de marchandises à l'aide de locomotives à vapeur, elle démontre la viabilité économique du transport ferroviaire. Son succès accélère le développement des chemins de fer au Royaume-Uni puis dans le reste du monde, transformant durablement les transports, le commerce et l'industrialisation au XIXe siècle.</p>
 
 ## 1831 ans
 
@@ -2833,6 +3216,8 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 ## 1832
 
 <p>Epidémie de choléra qui a tué 130 000 français dont prêt d'un quart à Paris.</p>
+
+<p>Traité de Constantinople de 1832. L'Empire ottoman accepte l'existence d'un État grec indépendant.</p>
 
 ## 1835 ans
 
@@ -2886,6 +3271,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Les américains ont cette mission de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.</p>
 
+## 1847 ans
+
+<p>James Young Simpson introduit le chloroforme en médecine pour réduire la douleur pendant les opérations chirurgicales.</p>
+
 ## 1848 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vGZGx7c5jl8" frameborder="0" allowfullscreen></iframe></p>
@@ -2911,25 +3300,16 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 ## 1853 ans
 
-<p>Début de la guerre de Crimée. Première guerre qui utilise la technique de la</p>
-<p>photographie. C'est le quotidien des soldats qui est saisi.</p>
+<p>Début de la guerre de Crimée. Première guerre qui utilise la technique de la photographie. C'est le quotidien des soldats qui est saisi.</p>
 
-<p>Un navire américain arrive sur les côtes japonaises avec Matthew Perry à son bord</p>
-<p>afin d'obliger les japonais à ouvrir leur port aux américains. De plus en plus de</p>
-<p>navires arrive et menace de bombarder le port en cas de refus. Paniqué le Shogun</p>
-<p>réforme l'armée et l'installation de hauts fourneaux pour se moderniser.</p>
+<p>Un navire américain arrive sur les côtes japonaises avec Matthew Perry à son bord afin d'obliger les japonais à ouvrir leur port aux américains. De plus en plus de navires arrive et menace de bombarder le port en cas de refus. Paniqué le Shogun réforme l'armée et l'installation de hauts fourneaux pour se moderniser.</p>
 
-<p>La Compagnie Générale des Eaux (CGE) est actée par Napoléon III. Avec un grand</p>
-<p>investissement au départ, cette compagnie va pouvoir s'agrandie et assainir de</p>
-<p>nombreuses villes de France les unes après les autres. Cette entreprise privée</p>
-<p>met en pratique des idéaux en vogue à l'époque dans les milieux industriels:</p>
-<p>les idéaux saint-simoniens.</p>
+<p>La Compagnie Générale des Eaux (CGE) est actée par Napoléon III. Avec un grand investissement au départ, cette compagnie va pouvoir s'agrandie et assainir de nombreuses villes de France les unes après les autres. Cette entreprise privée met en pratique des idéaux en vogue à l'époque dans les milieux industriels: les idéaux saint-simoniens.</p>
 
 ## 1854 ans
 
 <p>Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante.</p>
-<p>Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir trois</p>
-<p>ports aux américains.</p>
+<p>Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir trois ports aux américains.</p>
 
 <p>Epidémie de choléra à Londres. C'est la concentration urbaine qui pose problème.</p>
 
@@ -2948,6 +3328,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 <p>Les autres grandes puissances en profitent: la France, la Russie, le Royaume-Uni, les Pays-Bas obtiennent des drois similaires au Japon.</p>
 
 <p>C'est une époque compliquée pour le Japon d'autant plus que les étrangers apportent le choléra.</p>
+
+## 1859 ans
+
+<p>Edwin Drake réalise le premier forage pétrolier commercial moderne à Titusville, en Pennsylvanie.</p>
 
 ## 1860 ans
 
@@ -2969,43 +3353,57 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Abraham Lincoln abolit l'esclavage. Lincoln prend cette décision pour plusieurs raisons. Tout d'abord, il considére l'esclavage comme une injustice et un obstacle à la réalisation des idéaux de liberté et d'égalité auxquels il croit. Il déclare que tous les esclaves du Sud sont libres et ordonnent aux forces militaires de l'Union de respecter cette décision. Cette proclamation a un impact immédiat sur les esclaves du Sud, qui commence à fuir les plantations pour se joindre aux forces de l'Union.</p>
 
-# 1864 ans
+## 1864 ans
 
 <p>Une coallition bombarde Shimonoseki au Japon. Une flotte navale britannique, française et américaine est envoyée dans la baie de Shimonoseki pour obliger le Japon à accepter de nouvelles concessions commerciales. Les navires bombardent la ville et le port, causant de nombreux dégâts et tuant plusieurs centaines de personnes. Le Japon comprend qu'il est impossible de vaincre militairement les occidentaux. Cet événement est l'un des éléments déclencheurs de l'ouverture du Japon au monde extérieur et de sa modernisation forcée et rapide au cours du XIXe siècle.</p>
 
-# 1865 ans
+## 1865 ans
 
 <p>La guerre de Sécession prend fin. Les états du sud sont ravagés. Il faut désormais reconstruire et réconcilier. Le défi est immense.</p>
+
+<p>Le Congrès des États-Unis adopte le Treizième Amendement à la Constitution, qui abolit l'esclavage.</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-GjrosEoZwc" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politiques de Lincoln concernant l'abolition de l'esclavage. L'assassinat de Lincoln est l'un des événements les plus marquants de l'histoire des États-Unis et a un impact profond sur le pays. Lincoln est considéré comme l'un des présidents les plus importants de l'histoire américaine et reste un symbole de l'unité et de l'égalité pour tous les Américains.</p>
 
-# 1866 ans
+<p>Fondation du Ku Klux Klan à Pulaski, dans le Tennessee, peu après la guerre de Sécession.</p>
+
+## 1866 ans
 
 <p>Construction d'un chemin de fer aux Etats-Unis transcontinentales.</p>
 
-# 1868 ans
+## 1876 ans
+
+<p>Léopold II organise la Association internationale africaine à Bruxelles. Officiellement, l'organisation vise l'exploration de l'Afrique centrale et la lutte contre la traite des esclaves.</p>
+
+<p>Nikolaus Otto met au point le moteur à combustion interne à quatre temps, une invention qui transforme profondément les transports. En quelques décennies, le pétrole devient l'une des ressources stratégiques les plus importantes du monde industriel.</p>
+
+## 1868 ans
 
 <p>Ouverture du Japon à l'Occident, entraînant la dissolution progressive de la classe des samouraïs. Les réformes de l'ère Meiji abolissent les privilèges féodaux et conduisent à la modernisation de l'armée japonaise, rendant le rôle traditionnel des samouraïs obsolète.</p>
 
 <p>C’est la fin de la période Edo et le début de la période Meiji.</p>
 
-# 1880 ans
+## 1880 ans
 
 <p>Introduction de la bicyclette de sécurité, qui est plus stable et plus facile à utiliser que les modèles précédents.</p>
 
-# 1888 ans
+## 1885 ans
+
+<p>Lors de la Conférence de Berlin, les puissances européennes reconnaissent l'État indépendant du Congo comme propriété personnelle du roi Léopold II. Cette période est marquée par l'exploitation intensive du caoutchouc et de l'ivoire ainsi que par de nombreuses violences contre les populations locales.</p>
+
+## 1888 ans
 
 <p>L'invention du pneu gonflable par John Boyd Dunlop rend la bicyclette plus confortable.</p>
 
-# 1890 ans
+## 1890 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/V-Qv9TfG6dw" frameborder="0" allowfullscreen></iframe></p>
 
 <p>La bicyclette devient extrêmement populaire parmi les femmes. Cette période est souvent appelée le "bicycle craze" ou la "bicyclette folie".</p>
 
-# 1898 ans
+## 1898 ans
 
 <p>Les Etats-Unis déclarent la guerre à l'Espagne qui abouti à la défaite de l'Espagne et à la perte de ses dernières colonies, dont Cuba, Porto Rico, Guam et les Philippines.</p>
 
@@ -3100,7 +3498,7 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Ford trouve assez de temps et d'argent pour étudier les moteurs à essence. Les moteurs de l'époque sont des moteurs à vapeur.</p>
 
-# 1894 ans
+## 1894 ans
 
 <p>Le Coca Cola a rapidement gagné en popularité et est commercialisé sous forme de boisson gazeuse en bouteille.</p>
 
@@ -3150,15 +3548,17 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <em>"L'homme qui place une pièce ne la fixe pas. L'homme qui place un boulon, ne met pas l'écrou. Et l'homme qui place l'écrou, ne le visse pas!".</em>
 
+### Russie
+
+<p>Lors du congrès du Parti ouvrier social-démocrate russe, le mouvement se divise entre Bolcheviks et Mencheviks.</p>
+
 ## 1904 ans
 
 <p>La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.</p>
 
 ## 1905 ans
 
-<p>On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà</p>
-<p>connu pour ses propriétés désinfectantes, et les ingénieurs français développent</p>
-<p>un procédé pour l’utiliser à grande échelle dans le traitement de l’eau potable.</p>
+<p>On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà connu pour ses propriétés désinfectantes, et les ingénieurs français développent un procédé pour l’utiliser à grande échelle dans le traitement de l’eau potable.</p>
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Qw5vKINE7WE" frameborder="0" allowfullscreen></iframe></p>
 
@@ -3174,11 +3574,19 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>La Corée est annexée par l'Empire japonais. Suite à l'annexion, l'empereur Sunjong est contraint d'abdiquer, mettant ainsi fin à la dynastie Joseon. Pendant l'occupation japonaise, les Coréens subissent de nombreuses politiques répressives et discriminatoires de la part du gouvernement colonial japonais. Les Coréens sont forcés d'apprendre et de parler le japonais, leur culture et leurs traditions sont supprimées, et de nombreux Coréens sont exploités pour le travail forcé et les ressources naturelles du pays sont pillées.</p>
 
+## 1911 ans
+
+<p>Un financier nommé Charles Ranlett Flint orchestre la fusion de la Tabulating Machine Company de Hollerith avec trois autres sociétés (qui fabriquaient des balances commerciales, des horloges pointeuses et d'autres équipements de bureau). De cette fusion naît la Computing-Tabulating-Recording Company, ou CTR.</p>
+
 ## 1912 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R3XcpqJ8Dbw" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Dans la nuit du 14 au 15 avril 1912, le Titanic heurte un iceberg dans l'Atlantique Nord, provoquant la rupture de sa coque et l'inondation de ses compartiments étanches. En moins de trois heures, le navire sombre, entraînant la mort de plus de 1 500 des 2 224 passagers et membres d'équipage à bord. Le naufrage du Titanic est l'une des plus grandes tragédies maritimes de l'histoire.</p>
+
+## 1913 ans
+
+<p>Les Bolcheviks demeurent une faction révolutionnaire minoritaire et relativement marginale dans l'Empire russe.</p>
 
 ## 1914 ans
 
@@ -3190,13 +3598,37 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne sont utilisés que pour collecter des informations sur les mouvements et les positions de l'ennemi. Ils sont équipés de caméras et de matériel de photographie pour capturer des images des positions ennemies et de leurs déplacements, qui sont ensuite utilisées pour établir des cartes et des plans de bataille. Les avions de chasse et de bombardement n'apparaissent que plus tard.</p>
 
+<p>Quand Watson rejoint la CTR (Computing-Tabulating-Recording Company), il hérite d'un assemblage hétéroclite de fabricants de balances, d'horloges pointeuses et de tabulatrices, sans réelle cohérence. Watson va alors imposer une culture d'entreprise d'une puissance restée légendaire : le slogan « THINK » affiché partout, un corps de vendeurs en costume sombre formés comme une élite, des chants d'entreprise, une loyauté quasi militaire. Surtout, il fait un choix stratégique décisif : concentrer l'entreprise sur les machines à cartes perforées et, plutôt que de les vendre, les louer aux clients tout en leur vendant en continu les cartes perforées consommables. C'est ce modèle — revenus récurrents, clients captifs — qui assurera la fortune durable de la maison.</p>
+
 ## 1915 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PumBUVxrhW8" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Les autorités ottomanes se livrent à un crime de masse contre la communauté assyro-chaldéenne, cet épisode historique reste relativement méconnu.</p>
 
+<p>La guerre de mouvement se transforme en guerre de tranchées sur le front occidental, créant une situation d'enlisement militaire.</p>
+
 <p>Après la confection des premiers avions de chasse, la première guerre mondiale se déplace progressivement dans les airs. Le taux de mortalité pour un aviateur est de 25%.</p>
+
+### 22 avril
+
+<p>Première utilisation massive de gaz toxiques par l'Allemagne lors de la Deuxième bataille d'Ypres en Belgique.</p>
+
+## 1916 ans
+
+### 15 septembre
+
+<p>Première utilisation des chars d'assaut par l'armée britannique lors de la Bataille de la Somme.</p>
+
+## 1917 ans
+
+## 8 mars
+
+<p>Début de la Révolution de Février qui provoque la chute du tsar.</p>
+
+## 7 novembre
+
+<p>Révolution d'Octobre. Les Bolcheviks dirigés par Vladimir Lénine prennent le pouvoir en Russie.</p>
 
 ## 1918 ans
 
@@ -3228,21 +3660,32 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Publication du Roman Ulysse de James Joyce. Il est considéré comme l'un des romans les plus importants de la littérature moderne.</p>
 
+### Russie
+
+<p>Création de l'Union soviétique sous la direction du Parti bolchevik.</p>
+
 ## 1923 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vwf0DafQLnI" frameborder="0" allowfullscreen></iframe></p>
 
 <p>Période d'hyperinflation en Allemagne. Le gouvernement allemand commence à imprimer de l'argent en grandes quantités, ce qui entraîne une augmentation de la masse monétaire en circulation. L'augmentation de la masse monétaire entraîne une chute de la valeur de la monnaie allemande, le mark. Les prix commencent à augmenter de manière exponentielle, ce qui entraîne une spirale inflationniste.</p>
 
+## 1924 ans
+
+<p>Le conglomérat CTR est rebaptisé International Business Machines Corporation (IBM). Dix ans après son arrivée, Watson abandonne le nom terne et technique de « Computing-Tabulating-Recording Company » pour un nom volontairement grandiose. Le choix est purement programmatique, presque visionnaire : on parle d'« International » alors que l'activité reste très largement américaine, et de « Business Machines » pour affirmer une ambition globale dépassant la simple tabulatrice. Le nom précède donc la réalité — il décrit l'entreprise que Watson veut bâtir, pas celle qu'il dirige encore. C'est sous cette nouvelle identité qu'IBM s'impose comme l'acteur dominant du traitement de l'information pour le demi-siècle suivant.</p>
+
 ## 1926 ans
 
-<p>L'une des premières compagnies aériennes à avoir réalisé des profits significatifs est la compagnie américaine United Airlines.</p>
+<p>L'une des premières compagnies aériennes à avoir réalisé des profits significatifs est la compagnie américaine United Airlines. En tant que forme de communication, je l’ai dit, la violence organisée appauvrit, simplifie radicalement et finalement empêche la communication ; et en tant que forme d’action, c’est en réalité une forme d’antiaction, car son objectif ultime est d’ôter aux autres la capacité d’agir (soit de certaines façons précises, soit, si
+on les tue, de toutes les façons possibles et à jamais).</p>
 
 ## 1928 ans
 
 <p>La Turquie adopte un alphabet latin pour l'écriture de sa langue nationale, le turc, en 1928. Cette décision est prise dans le cadre de la réforme linguistique de Mustafa Kemal Atatürk, qui vise à moderniser et à occidentaliser la Turquie en adoptant certaines caractéristiques de la culture et de la technologie occidentales.</p>
 
 <p>La réforme linguistique a également impliqué l'abandon de l'écriture en caractères arabes, qui est jusque-là utilisée pour écrire le turc, au profit de l'alphabet latin. Cette décision est prise en partie pour faciliter l'apprentissage de la langue et pour permettre à la Turquie de se rapprocher de l'Europe et de l'Occident.</p>
+
+<p>Alexander Fleming découvre la pénicilline, premier antibiotique moderne.</p>
 
 ## 1929 ans
 
@@ -3263,6 +3706,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 <p>Le gouvernement japonais envahi la Mandchourie, une région située dans le nord-est de la Chine. Le Japon, en tant qu'île avec des ressources limitées, cherche à étendre son territoire et à acquérir des ressources naturelles pour soutenir sa croissance économique et industrielle. La Mandchourie est riche en ressources, notamment en charbon, en fer et en terres arables, ce qui la rend très attractive pour le Japon.</p>
 
 <p>L'invasion est aussi déclenchée par une explosion le long de la voie ferrée appartenant au chemin de fer de la Mandchourie du Sud, une entreprise contrôlée par le Japon, près de Mukden (aujourd'hui Shenyang, en Chine). L'armée japonaise accuse rapidement les forces chinoises d'être responsables de l'explosion, bien qu'il soit maintenant largement reconnu que l'incident soit orchestré par des officiers japonais pour fournir un prétexte à l'invasion.</p>
+
+## 1932 ans
+
+<p>Le parti Nazi atteint 37,3 %, premier parti d'Allemagne.
 
 ## 1933 ans
 
@@ -3288,7 +3735,13 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Offensive japonaise contre Shanghai, également connue sous le nom de Bataille de Shanghai. Cette bataille est l'une des premières et des plus longues batailles urbaines de la Seconde Guerre sino-japonaise. Cette offensive s'arrête avec la prise de contrôle de Shanghai par les forces japonaises.</p>
 
+## 1938 ans
+
+<p>Le décret sur l'enregistrement des biens juifs (Verordnung über die Anmeldung des Vermögens von Juden) oblige tout Juif à déclarer ses biens au-dessus de 5 000 Reichsmark. C'est la base de données qui rend l'aryanisation systématique possible.</p>
+
 ## 1939 ans
+
+<p>Le décret « pour l'élimination des Juifs de la vie économique allemande » (Verordnung zur Ausschaltung der Juden aus dem deutschen Wirtschaftsleben) impose la cession ou la liquidation forcée des entreprises juives, avec effet au 1er janvier 1939. </p>
 
 <p>L'Allemagne et l'Union soviétique envahissent la Pologne et divisent le pays entre eux. L'invasion de la Pologne par l'Allemagne et l'Union soviétique est considérée comme le début de la Seconde Guerre mondiale.</p>
 
@@ -3308,9 +3761,23 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>L’invasion de l’URSS déclenche une nouvelle étape. Les Einsatzgruppen (unités mobiles de tuerie) massacrent massivement les juifs dans les territoires conquis.</p>
 
+### Aout
+
+<p>Himmler assiste à une exécution de masse à Minsk, en est visiblement éprouvé, et exprime ensuite le souci de trouver une méthode moins « pénible » pour les exécutants. Ce souci a réellement contribué au passage des fusillades au gazage. L'attention de Himmler ne se portait que sur le confort psychique des bourreaux, jamais sur les victimes. La motivation n'était pas d'épargner une souffrance, mais de rendre le meurtre de masse plus efficace, plus rapide, et plus soutenable pour ceux qui devaient le commettre — afin que la machine génocidaire ne s'enraye pas. </p>
+
 ### 19 septembre
 
 <p>En Allemagne et dans le Protectorat de Bohême-Moravie (actuelle Tchéquie), un décret de la police impose à tous les juifs de plus de 6 ans de porter une étoile jaune avec le mot « Jude ».</p>
+
+### Octobre
+
+<p>Les déportations de Juifs allemands commencent.</p>
+
+### 25 novembre
+
+<p>La 11ᵉ ordonnance à la loi sur la citoyenneté du Reich (Verordnung zum Reichsbürgergesetz) prévoit que tout Juif quittant ou déporté hors du territoire perd automatiquement sa nationalité et voit ses biens confisqués au profit du Reich.</p>
+
+<p>C'est à partir de là (fin 1941 et surtout 1942) que se tiennent les ventes aux enchères publiques des effets personnels des déportés — les fameuses Judenauktionen. Des Allemands ordinaires viennent acheter à vil prix le mobilier et les ustensiles des familles raflées. </p>
 
 ### 7 décembre
 
@@ -3434,6 +3901,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Au Nord du Vietnam, deux armées s'affrontent: l'armée française et l'armée populaire vietnamienne. C'est la bataille de Dien Bien Phu. Cette bataille fait plus de 10000 morts. Le Vietnam, le Laos et le Cambodge deviennent indépendants. C'est la fin de la guerre d'Indochine.</p>
 
+#### Algérie
+
+<p>Début de la Guerre d'Algérie avec les attaques de la « Toussaint rouge » menées par le Front de libération nationale (FLN).</p>
+
 ## 1955 ans
 
 <p>Castro est libéré grâce à une amnistie. Il part en exil au Mexique avec son frère Raúl et d'autres partisans. Là, ils rencontrent Ernesto "Che" Guevara, un médecin argentin et révolutionnaire marxiste qui devient un membre clé du mouvement. Ensemble, ils planifient leur retour à Cuba pour renverser Batista.</p>
@@ -3466,11 +3937,19 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Le livre a un impact majeur sur la prise de conscience du public concernant les dangers des produits chimiques et inspire des mouvements de protestation contre l'utilisation abusive de pesticides et d'autres produits chimiques dans l'agriculture et l'industrie.</p>
 
+### Algérie
+
+<p>Indépendance officielle de l'Algérie.</p>
+
 ## 1964 ans
 
 <p>L'un des premiers systèmes qui peut être qualifié de base de données informatisée est le "Integrated Data Store" (IDS), développé par Charles Bachman chez General Electric. IDS est un système de gestion de base de données hiérarchique, ce qui signifie que les données sont organisées en une structure d'arbre avec des "parents" et des "enfants". Cette structure est assez rigide, mais elle représente une avancée significative dans la manière dont les données peuvent être stockées et récupérées de manière efficace.</p>
 
 <p>Les premières bases de données sont principalement utilisées par de grandes entreprises et institutions gouvernementales pour des applications telles que la gestion des comptes clients, les inventaires, ou les systèmes de réservation. Elles fonctionnent sur de grands ordinateurs centraux et sont souvent accessibles via des terminaux connectés à ces ordinateurs centraux.</p>
+
+## 1965 ans
+
+L'organisme fédéral de régulation des télécommunications (FCC) statue que des équipements non-Bell peuvent être raccordés au système téléphonique « sans dommage pour le réseau ». Cette décision crée la possibilité de vendre des appareils se connectant au réseau via un coupleur de protection loué auprès d'AT&T, et ouvre le marché aux équipements installés chez le client. Autrement dit, AT&T conserve un temps un point de contrôle (le fameux coupleur), mais la brèche est ouverte — et c'est par cette brèche que passeront, plus tard, les modems et donc l'accès grand public à Internet.
 
 ## 1967 ans
 
@@ -3502,38 +3981,26 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Le décollage de la mission Apollo 11 est diffusé en direct par plusieurs chaînes de télévision à travers le monde, et suscite un immense intérêt public. Les télévisions du monde entier couvrent l'événement en direct, et de nombreux Américains organisent des fêtes ou se sont rassemblés devant les écrans de télévision pour regarder l'historique décollage. Cet événement est considéré comme l'un des moments les plus marquants de l'histoire de la télévision et a suscité un intérêt sans précédent pour l'exploration spatiale.</p>
 
+<p>Sous la pression d'une enquête antitrust du gouvernement américain (et de plaintes de concurrents), IBM annonce le unbundling: l'entreprise décide de facturer séparément le matériel d'un côté, les logiciels et les services de l'autre. C'est souvent décrit comme l'acte de naissance de l'industrie du logiciel telle qu'on la connaît. À partir du moment où le logiciel a un prix distinct, il devient possible pour des éditeurs tiers de vendre le leur en concurrence avec celui d'IBM. La voie est ouverte à tout ce qui suivra, jusqu'à des entreprises comme Microsoft. Puisque le logiciel n'est plus automatiquement fourni clé en main par IBM, les entreprises commencent — progressivement — à recruter et former leurs propres programmeurs, à développer un savoir-faire qu'elles n'avaient jamais eu besoin d'acquérir auparavant. Mais les habitudes mettent des années à franchir le seuil. Le unbundling est une condition nécessaire à l'émergence de l'industrie du logiciel et des compétences internes, mais pas suffisante pour la déclencher immédiatement. La transition se fait par glissement progressif sur les années 1970, pas par rupture brutale.</p>
+
 ## 1970 ans
 
-<p>L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues</p>
-<p>au niveau international, notamment en finançant la construction de mosquées, d'écoles</p>
-<p>coraniques et d'universités dans de nombreux pays à travers le monde. En outre,</p>
-<p>l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa,</p>
-<p>c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des</p>
-<p>médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.</p>
-
-<p>La financiarisation de l'économie, c'est-à-dire le fait que l'économie devient de</p>
-<p>plus en plus orientée vers les activités financières et les marchés financiers, est</p>
-<p>un phénomène qui commence à se développer dans les années 1970 et qui s'accélère au</p>
-<p>cours des décennies suivantes.</p>
+<p>L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde. En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa,c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.</p>
 
 <p>Areva, un groupe industriel français spécialisé dans les énergies nucléaires</p>
 (devenu Orano en 2018), commence à exploiter les mines d'uranium au Niger. Le Niger
-<p>est l'un des principaux producteurs d'uranium dans le monde et l'uranium est une</p>
-<p>ressource stratégique pour la production d'énergie nucléaire. Areva exploite</p>
-<p>principalement deux grands gisements d'uranium au Niger : la mine d'Arlit, exploitée</p>
-<p>par la Société des Mines de l'Aïr (SOMAÏR), et la mine d'Akokan, exploitée par la</p>
-<p>Compagnie Minière d'Akouta (COMINAK).</p>
-<p>La SOMAÏR est créée en 1968 et commence l'exploitation en 1971, tandis que la</p>
-<p>COMINAK a été créée en 1974 et commence l'exploitation en 1978. Les activités</p>
-<p>d'extraction d'uranium d'Areva (maintenant Orano) au Niger soulèvent plusieurs</p>
-<p>questions et préoccupations, notamment en ce qui concerne l'environnement, la santé</p>
-<p>des travailleurs et des communautés locales, et le partage équitable des revenus</p>
-<p>entre le Niger et la société française. Au fil des années, des négociations et des</p>
-<p>révisions de contrats ont lieu pour tenter de répondre à ces préoccupations et de</p>
-<p>garantir un meilleur équilibre des avantages entre les parties prenantes.</p>
+ est l'un des principaux producteurs d'uranium dans le monde et l'uranium est une ressource stratégique pour la production d'énergie nucléaire. Areva exploite principalement deux grands gisements d'uranium au Niger : la mine d'Arlit, exploitée par la Société des Mines de l'Aïr (SOMAÏR), et la mine d'Akokan, exploitée par la Compagnie Minière d'Akouta (COMINAK).</p>
+<p>La SOMAÏR est créée en 1968 et commence l'exploitation en 1971, tandis que la COMINAK a été créée en 1974 et commence l'exploitation en 1978. Les activités d'extraction d'uranium d'Areva (maintenant Orano) au Niger soulèvent plusieurs questions et préoccupations, notamment en ce qui concerne l'environnement, la santé des travailleurs et des communautés locales, et le partage équitable des revenus entre le Niger et la société française. Au fil des années, des négociations et des révisions de contrats ont lieu pour tenter de répondre à ces préoccupations et de garantir un meilleur équilibre des avantages entre les parties prenantes.</p>
 
-<p>On commence à réaliser que l'augmentation des pollutions chimiques est une menace</p>
-<p>pour l'eau potable.</p>
+<p>On commence à réaliser que l'augmentation des pollutions chimiques est une menace pour l'eau potable.</p>
+
+## 1971 ans
+
+<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7_Xw5tWsOQo" frameborder="0" allowfullscreen></iframe></p>
+
+<p>« Choc Nixon » : dans une allocution télévisée, Richard Nixon annonce la suspension de la convertibilité du dollar en or. Cela met fin au système monétaire issu de la conférence de Bretton Woods (1ᵉʳ–22 juillet 1944), dans lequel le dollar est convertible en or à 35 dollars l'once et les autres monnaies arrimées au dollar. À partir de là, la monnaie n'est plus adossée à rien de métallique : elle devient purement fiduciaire (fiat money), garantie par le seul État émetteur.</p>
+
+<p></p>
 
 ## 1972 ans
 
@@ -3559,6 +4026,8 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Fondation de microsoft. Microsoft vise à exploiter le potentiel naissant des ordinateurs personnels en fournissant des logiciels essentiels pour les rendre plus accessibles et utiles à un public plus large.</p>
 
+<p>C'est en voyant le microprocesseur Altair 8800 en couverture de Popular Electronics que Gates et Paul Allen écrivent un interpréteur BASIC pour lui, puis fondent Microsoft. La vision « a computer on every desk and in every home » structure dès l'origine la mission de l'entreprise — l'idée étant que si le matériel devient abordable, c'est le logiciel qui fait la valeur. La vision de Gates relève du logiciel et du marché, mais sa condition de possibilité est matérielle, et elle se situe très exactement où le microprocesseur rend le calcul bon marché.</p>
+
 ## 1976 ans
 
 <p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XImzZe5qUTk" frameborder="0" allowfullscreen></iframe></p>
@@ -3579,6 +4048,10 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Instauration de la loi sur la prohibition de l'alcool au Pakistan. Cette loi interdit la production, la vente et la consommation d'alcool dans le pays. La possession et la vente d'alcool sont des infractions punissables par la loi au Pakistan et peuvent entraîner des sanctions sévères, y compris des peines de prison.</p>
 
+## 1978 ans
+
+<p>Sortie de WordStar 1.0. C'est le moment où le logiciel de traitement de texte devient un produit autonome, acheté séparément, interchangeable. Le logiciel n'est plus soudé à une machine particulière. Il vit sa propre vie. On paye le logiciel pour lui-même — l'exact inverse du modèle « tout compris » d'IBM.</p>
+
 ## 1979 ans
 
 <p style="display:block;text-align:center">![Octocat](/assets/img/visicalc.png)</p>
@@ -3593,10 +4066,21 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 ## 1980 ans
 
-<p>Des lois visent à améliorer le tri, le recyclage et la valorisation des déchets. On cherche</p>
-<p>de plus en plus à adopter une approche énergétique plus responsable, à réduire l'impact</p>
-<p>carbone à optimiser la consommation énergétique, à améliorer le recyclage des</p>
-<p>matériaux, et à développer des systèmes locaux d'énergie verte.</p>
+<p>Des lois visent à améliorer le tri, le recyclage et la valorisation des déchets. On cherche de plus en plus à adopter une approche énergétique plus responsable, à réduire l'impact carbone à optimiser la consommation énergétique, à améliorer le recyclage des matériaux, et à développer des systèmes locaux d'énergie verte.</p>
+
+<p>Le fax (norme Groupe 3). Le concept de fax est très ancien, mais son explosion grand public date d'une norme précise. Le Groupe 3 produit une image numérisée en environ une minute par transmission numérique à travers des modems — le fax est donc lui-même un cousin du modem.</p>
+
+## 1981 ans
+
+<p>Hayes est une marque majeure du marché du modem dès l'introduction du Smartmodem original à 300 bits/s. C'est l'année où le modem cesse d'être un appareil de spécialiste pour devenir un produit qu'on peut acquérir et brancher nous-mêmes. L'utilisateur acquiert un terminal simple ou un PC, le branche sur la ligne téléphonique, et compose le numéro du service qu'il veut — la banque, puis un « service d'information » plus généraliste pour la météo ou les actualités interactives.</p>
+
+## 1983 ans
+
+<p>CompuServe est l'un des tout premiers services en ligne commerciaux destinés au grand public. Pour s'y connecter, il faut un ordinateur personnel, un modem et une ligne téléphonique. On compose un numéro, et l'on entre dans un univers entièrement textuel, sans la moindre image.</p>
+
+<p>Le flux Associated Press mentionné fait de CompuServe l'un des premiers endroits où un particulier peut lire des dépêches d'agence depuis son salon, avant même la diffusion à la télévision dans certains cas. On peut aussi y trouver : la messagerie électronique (EMAIL), des forums thématiques (les SIGs, Special Interest Groups), des cotations boursières, la météo, des jeux (dont des jeux multijoueurs en réseau comme MegaWars), et même des achats en ligne via l'Electronic Mall.</p>
+
+<p>Tout cela se paye à l'heure, et cher : les tarifs sont nettement plus élevés en journée (heures « prime ») qu'en soirée ou la nuit, ce qui pousse les passionnés à se connecter tard. Combiné à la lenteur du débit, le moindre « pastime » peut vite peser sur la facture — un contraste frappant avec l'illimité d'aujourd'hui.</p>
 
 ## 1985 ans
 
@@ -3604,11 +4088,13 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 ## 1989 ans
 
-100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.
+<p>100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.</p>
 
 <p>Le World Wide Web (WWW ou Web) est inventé à Genève, par Tim Berners-Lee, alors qu'il travaille au CERN (Conseil Européen pour la Recherche Nucléaire). Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Berners-Lee conçoit le Web comme un moyen de partager de l'information entre les scientifiques du CERN qui travaillent sur des projets collaboratifs. Il développe un système de liens hypertextes qui permettent aux utilisateurs de naviguer entre différents documents sur le réseau en cliquant sur des liens, et crée le premier navigateur Web, qui s'appelle WorldWideWeb. Ce navigateur permet aux utilisateurs de visualiser et d'interagir avec les documents sur le Web.</p>
 
 ## 1990 ans
+
+<p>AOL inonde la planète de CD et de disquettes promettant des heures de connexion gratuites — une campagne marketing d'une ampleur folle. Mais AOL n'est pas vraiment Internet : c'était un univers fermé et curaté auquel on accède via un abonnement. </p>
 
 <p>Elinor Ostrom publie "Governing the commons". Elle s'intéresse aux systèmes de gestion des ressources naturelles qui sont utilisés dans les communautés locales à travers le monde. Elle s'efforce de démontrer que les ressources naturelles communes, telles que les pâturages, les forêts, les lieux de pêche et les puits d'eau, peuvent être gérées de manière efficace et durable par les communautés elles-mêmes, plutôt que d'être confiées à des gouvernements ou à des entreprises privées. Elle identifie huit principes de gestion des ressources naturelles communes:</p>
 
@@ -3650,9 +4136,15 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Création au Rwanda de la radio des Mille Collines, une radio privée, juste avant le début du génocide rwandais. La radio diffuse des messages incitant au meurtre de Tutsis et de membres de l'ethnie Hutue modérée.</p>
 
+## 1994 ans
+
+<p>Trumpet Winsock sort et elle acquiert une réputation internationale comme le meilleur logiciel disponible pour se connecter à Internet. Concrètement : une fois Trumpet Winsock installé, on peut enfin faire tourner Netscape, Eudora ou WS_FTP sur son PC et accéder au web naissant, à l'e-mail et au transfert de fichiers.</p>
+
+<p>Trumpet Winsock sort et elle acquiert une réputation internationale comme le meilleur logiciel disponible pour se connecter à Internet. Concrètement : une fois Trumpet Winsock installé, on peut enfin faire tourner Netscape, Eudora ou WS_FTP sur son PC et accéder au web naissant, à l'e-mail et au transfert de fichiers.</p>
+
 ## 1995 ans
 
-<p>J.K. Rowling commence à écrire le premier livre, "Harry Potter à l'école des Sorciers", et met environ cinq ans pour le terminer. Elle commence à travailler sur l'histoire alors qu'elle prend le train de Manchester à Londres pour se rendre à son travail. Selon ses propres mots, l'idée de Harry Potter lui est venue en tête alors qu'elle est assise dans un train, regardant par la fenêtre.</p>
+<p>L'ingénieur Lou Montulli développe les cookies HTTP au sein de Netscape. Cette technologie permet à un site web de mémoriser certaines informations entre plusieurs visites ou pages consultées, comme un identifiant de session, un panier d'achat ou des préférences utilisateur. Les cookies deviennent rapidement un élément fondamental du fonctionnement du Web moderne, facilitant l'authentification des utilisateurs, le commerce électronique et, plus tard, le suivi publicitaire en ligne.</p>
 
 ## 1996 ans
 
@@ -3731,6 +4223,8 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 
 <p>Le slogan "Femme, Vie, Liberté" est scandé pour la première fois par des femmes kurdes en Turquie.</p>
 
+<p>Skype peut faire passer des appels téléphoniques de quality gratuits, de PC à PC, par-dessus un réseau conçu pour transporter des paquets de données indifférenciés.</p>
+
 ## 2007 ans
 
 <p>Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvier 2007 lors d'une conférence de presse à San Francisco. L'événement, intitulé "Introducing iPhone", est diffusé en direct sur Internet et est suivi par des journalistes, des analystes et des fans d'Apple de partout dans le monde.</p>
@@ -3760,6 +4254,8 @@ L'accès à l'eau est la priorité, avec des aménagements répartis sur tout le
 <p>Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto. Satoshi Nakamoto publie un livre blanc en 2008 décrivant le fonctionnement du Bitcoin et comment il pourrait être utilisé pour créer une monnaie numérique sécurisée et décentralisée.</p>
 
 <p>Un nouveau navigateur, Chrome, très rapide pour l'époque, connaît un énorme succès en très peu de temps.</p>
+
+<p>Le 23 septembre 2008, Android est lancé comme système d'exploitation mobile à code source ouvert (open source), permettant à de nombreux fabricants et développeurs de participer à son écosystème.</p>
 
 ## 2009 ans
 

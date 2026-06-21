@@ -20,3 +20,5 @@ Comment agir pour se protéger contre l'invasion bureaucratique, que ce soit en 
 2 Il est essentiel de ne pas idéaliser certaines règles et de toujours considérer le contexte. Des règles considérées comme bonnes peuvent s'avérer inadaptées si elles sont appliquées sans tenir compte du contexte spécifique dans lequel elles sont utilisées.
 
 3 Il nous faut aussi protéger notre intimité. Nous pouvons lui résister en cultivant une part de retrait. Cela signifie limiter ce que nous dévoilons et partager seulement ce qui est vraiment contraint.
+
+le pouvoir bureaucratique une force qui, fondamentalement, étouffait l’élan humain vers la créativité, la convivialité, l’imagination.
