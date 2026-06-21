@@ -2125,8 +2125,6 @@ des poèmes sont écrits
 
 ## -600 ans
 
-<p>La civilisation Maya en Amérique emploie aussi le principe du rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguïtés (lire une image comme une image ou comme un son ?).</p>
-
 <p>Les écritures chinoises, mayas et égyptiennes reposent sur le même principe.</p>
 
 <p>Fin de l'Empire assyrien, en raison de révoltes internes, de problèmes économiques et de l'émergence de puissances rivales, notamment les Babyloniens et les Mèdes. L'empire prend fin avec la chute de sa capitale, Ninive.</p>
@@ -2243,6 +2241,10 @@ Mort du Bouddha (parinirvana).
 ## –330 ans
 
 <p>Conquête de l'Empire achéménide par Alexandre le Grand.</p>
+
+## -300 ans
+
+<p>La civilisation Maya en Amérique emploie aussi le principe du rébus (transformation d'une image en un son du langage) et utilise des déterminants pour résorber les ambiguïtés (lire une image comme une image ou comme un son ?).</p>
 
 ## -250 ans
 
