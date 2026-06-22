@@ -5,9 +5,9 @@ date: 2025-11-01 10:18:00
 tags: technology
 ---
 
-<p>Une partie a été générée par ChatGPT (3, 4 et 5)</p>
+<p>Une partie a été générée par ChatGPT (3, 4 et 5) et Claude 4.8</p>
 
-# -14 000 000 000 d'années
+# -13 800 000 000 d'années
 
 <p style="text-align:center"><img src="{{ '/assets/img/bigbang.png' | relative_url }}" alt="Big Bang" /></p>
 
@@ -47,7 +47,7 @@ tags: technology
 
 <p>Pendant les 3 premières minutes, la chaleur est trop forte pour que protons et neutrons se forment.</p>
 
-<p>Après 3 minutes, la température descend à environ un milliard de degrés : la force nucléaire forte peut alors unir les quarks en protons et neutrons. Ces particules s’assemblent ensuite pour donner les premiers noyaux atomiques, donc les premiers éléments chimiques.</p>
+<p>Vers 3 minutes, la température descend à environ un milliard de degrés et la nucléosynthèse primordiale commence : protons et neutrons fusionnent pour former les premiers noyaux légers, surtout l'hélium-4 (deux protons, deux neutrons), avec des traces de deutérium et de lithium. Ce sont bien des noyaux, pas encore des atomes : aucun électron ne gravite encore autour.</p>
 
 <p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, constitué d’un proton et d'hélium) se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
 
@@ -63,7 +63,7 @@ tags: technology
   <video controls preload="metadata" width="640" height="360" src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
 </p>
 
-<p>Il fait assez froid pour qu'un proton avec une charge positive puisse capturer un électron d'une charge négative et ainsi former les atomes d'hydrogène en combinant les électrons et les neutrons, puis les atomes de lithium et enfin de l'hélium (du plus simple au plus complexe: c’est par le nombre de protons dans un atome qui détermine les propriétés chimiques de cet atome, et donc l’élément chimique de l’atome (hydrogène, carbone, oxygène, azote… par exemple)).</p>
+<p>Il fait désormais assez froid (~3 000 K) pour qu'un proton, de charge positive, capture un électron, de charge négative, et forme un atome d'hydrogène (un proton + un électron, sans neutron). Se forment de même l'hélium, puis des traces de lithium. C'est le nombre de protons dans le noyau qui détermine l'élément chimique et ses propriétés (hydrogène, hélium, lithium, carbone, oxygène, azote…).</p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400" />
@@ -84,13 +84,13 @@ tags: technology
   </video>
 </p>
 
-<p>Quand un grand nuage d’hydrogène se contracte sous son propre poids, il devient de plus en plus chaud. À environ dix millions de degrés, les atomes d’hydrogène se heurtent si fort qu’ils s’assemblent pour former de l’hélium.Cette réaction s’appelle la fusion nucléaire. Elle libère énormément d’énergie : c’est cette énergie qui fait briller l’étoile.</p>
+<p>Quand un grand nuage d'hydrogène se contracte sous son propre poids, il devient de plus en plus chaud et dense en son cœur. À environ dix millions de degrés, le gaz est un plasma entièrement ionisé : les noyaux d'hydrogène (des protons) se heurtent assez violemment pour fusionner et former de l'hélium. Cette réaction, la fusion nucléaire, libère énormément d'énergie — c'est elle qui fait briller l'étoile.</p>
 
-<p>Pendant une grande partie de son existence, une étoile est en équilibre sous l'action de deux forces qui s'opposent: la gravitation, qui tend à faire s'effondrer l'étoile, et la fusion nucléaire, qui tend au contraire à pousser vers l'extérieur de l'astre.</p>
+<p>Pendant une grande partie de son existence, une étoile est en équilibre entre deux effets opposés : la gravitation, qui tend à l'effondrer, et la pression interne (thermique et radiative), alimentée par la fusion, qui pousse vers l'extérieur et s'oppose à cet effondrement.</p>
 
-<p>Cette fusion permet de donner naissance aux premières étoiles de l’Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de la population I et la quasi-totalité des étoiles actuellement observées sont de population I). Ces étoiles ont une durée de vie très faible (environ 10 millions d'années). N'ayant jamais été directement observé, les simulations montrent que les étoiles primitives sont assez différentes de celles qui sont nées par la suite: il s’agit d’astres extrêmement massifs (de 100 à plus de 1 000 fois la masse du Soleil), essentiellement faites d'hydrogène et d'hélium (il n'existe pas d'atomes plus complexes dans l'univers à cette époque). Pendant la plus grande partie de leur existence, elles exécutent la même tâche principale que n'importe quelle étoile, à savoir transmuter l’hydrogène en hélium.</p>
+<p>C'est ainsi que naissent les premières étoiles de l'Univers. Cette première génération stellaire est appelée « population III » par les astronomes (le Soleil est une étoile de population I ; les étoiles observées aujourd'hui se répartissent entre population I, plus riches en éléments lourds, et population II, plus anciennes et pauvres en métaux). Les étoiles de population III n'ont jamais été directement observées — seulement par des candidats et des signatures indirectes, y compris dans les données du JWST — mais les simulations montrent qu'elles diffèrent nettement des étoiles ultérieures. Faute d'éléments lourds pour refroidir le gaz, elles se forment massives : la fonction de masse reste incertaine, mais s'étend probablement de quelques dizaines à quelques centaines de fois la masse du Soleil (des étoiles primitives plus légères ne sont plus exclues). Essentiellement faites d'hydrogène et d'hélium — il n'existe pas encore d'éléments plus lourds dans l'univers —, elles brûlent vite et vivent très peu : quelques millions d'années seulement. Comme toute étoile, leur tâche principale est de transmuter l'hydrogène en hélium.</p>
 
-<p>A la fin de leur vie, ces premières étoiles explosent en hypernovas en éjectant une grande partie de leur matière dans l'espace, contribuant à la génération d'étoiles suivante, et laissant des trous noirs stellaires énormes.</p>
+<p>Leur mort dépend de leur masse. Les plus massives (environ 140 à 260 masses solaires) explosent en supernovæ par instabilité de paires : l'explosion désintègre entièrement l'étoile sans laisser le moindre résidu, dispersant ses éléments dans l'espace. Au-delà de ~260 masses solaires, l'étoile s'effondre directement en trou noir, presque sans éjection. Les moins massives finissent en supernovæ à effondrement de cœur ou en hypernovæ, laissant une étoile à neutrons ou un trou noir. Dans tous les cas où il y a explosion, ces premières étoiles ensemencent le cosmos en éléments lourds et nourrissent ainsi la génération stellaire suivante (population II).</p>
 
 # -13 500 000 000 d'années
 
@@ -1520,21 +1520,19 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Homo Sapiens commence à faire usage de la brique pour construire des maisons. En mésopotamie (Irak d'aujourd'hui), l'argile (qu'on trouve un petit peu partout) constitue l'un des premiers matériaux de construction utilisés: la brique est facilement réalisable à partir d'argile ou de terre  crue. Il suffit de sécher cette roche au soleil (brique crue) ou au four (brique cuite).</p>
 
-## -6 000 ans
-
-### Amérique du Sud
-
-<p>Homo Sapiens domestique le piment (chili). C'est peut-être la plante la plus ancienne à avoir été domestiquée.</p>
-
 ### Turquie
 
 <p>Découverte du cuivre, faisant de ce métal le premier à être utilisé par l'humanité. Il est apprécié pour sa malléabilité, permettant de le modeler facilement à froid en divers outils, armes, et ornements.</p>
 
+## -6 000 ans
+
 ### Mésopotamie
 
-<p>Les villes se développent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.</p>
+<p>Les villages s'agrandissent autour de l'agriculture irriguée, permettant une sédentarisation et la croissance urbaine. Les premiers systèmes d'irrigation sont simples et se basent sur des canaux creusés pour dévier l'eau des rivières ou des sources vers les champs. Ces systèmes permettent de contrôler l'apport en eau, essentiel dans une région où les précipitations sont insuffisantes pour l'agriculture. Cette innovation soutient la croissance des cultures en fournissant de l'eau régulièrement, augmentant la productivité agricole et soutenant le développement des premières civilisations sédentaires.</p>
 
-<p>Premières traces de production découvertes de vin dans les régions qui correspondent aujourd'hui à la Géorgie et à l'Iran. La plus ancienne preuve archéologique précise de vinification vient d'un site appelé Shulaveri, dans le sud de la Géorgie, avec des poteries contenant des résidus de vin.</p>
+### Géorgie
+
+<p>Premières traces archéologiques de vinification, dans la région du Caucase du Sud (actuelles Géorgie et, un peu plus tard, Iran). La preuve la plus ancienne provient des sites néolithiques de Shulaveris Gora et Gadachrili Gora (culture Shulaveri-Shomu), au sud de Tbilissi : des jarres en céramique portent des résidus d'acide tartrique, signature chimique du raisin et du vin.</p>
 
 ## -5000 ans
 
@@ -1544,21 +1542,11 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 ## Mésopotamie
 
-<p>Les premières traces de bière sont présentes, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.</p>
-
 <p>Les humains apprennent à fondre le minerai pour obtenir du métal pur ; c’est la véritable naissance de la métallurgie du cuivre.</p>
-
-## Kazakhstan
-
-<p>La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils jouent un rôle central dans la culture Botai. S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains sont fascinés par eux depuis des milliers d'années, les peignant sur des rochers.</p>
 
 ### Chine
 
 <p>Émergence de la culture de la céramique de Yangshao en Chine. La culture de Yangshao, centrée sur le fleuve Jaune devient proéminente. Elle est connue pour sa poterie peinte, ses pratiques agricoles, et la construction de villages. Cette période marque une étape importante dans le développement de l'agriculture et des sociétés sédentaires.</p>
-
-### Europe
-
-<p>En Europe, notamment dans la région de la mer Baltique et de l'Atlantique, la construction de monuments mégalithiques, comme des dolmens et des menhirs, commencent. Ces structures ont probablement des significations culturelles ou religieuses.</p>
 
 ### Egypte
 
@@ -1570,21 +1558,21 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 # -4500 ans
 
-<p>Les Sumériens établissent l'une des premières civilisations de l'histoire dans la région du sud de la Mésopotamie (l'actuel Irak). Mais à cette époque, ce ne sont pas encore des « Sumériens » au sens politique ou culturel bien défini : on parle plutôt des cultures proto-urbaines d’Uruk ou de la période d’Obeid.</p>
+<p>Les Sumériens établissent l'une des premières civilisations de l'histoire dans la région du sud de la Mésopotamie (l'actuel Irak). Mais à cette époque, ce ne sont pas encore des « Sumériens » au sens politique ou culturel bien défini : on parle plutôt des cultures proto-urbaines de la période d'Obeid, juste avant l'essor d'Uruk.</p>
 
-<p>Les villes de la Mésopotamie ancienne sont organisées en cités-États, chacune gouvernée par un roi ou un dirigeant puissant. Ces dirigeants sont souvent considérés comme des intermédiaires entre les dieux et les peuples. Le système politique inclue également des prêtres qui jouent un rôle crucial dans la gestion des temples et des affaires religieuses, influençant fortement la vie sociale et économique. La société est stratifiée, avec des marchands, des artisans, et des agriculteurs jouant des rôles importants dans l'économie urbaine, tandis que les esclaves effectuent les travaux les plus durs.</p>
+## Ukraine
 
-<p>L'exploitation et l'esclavage sont courants en Mésopotamie. Les esclaves peuvent être des prisonniers de guerre, des personnes endettées, ou des individus vendus par leur famille. Ils sont utilisés dans l'agriculture, la construction, et les services domestiques. Les textes et les lois de l'époque, comme le Code de Hammurabi, fournissent des détails sur leur statut et leurs droits, qui sont limités comparés à ceux des personnes libres.</p>
+<p>Sur les steppes pontiques et caspiennes vivent les populations éneolithiques d'où émergera le proto-indo-européen. Elles ne sont pas encore installées en Inde ni en Iran : elles occupent les grandes plaines herbeuses au nord de la mer Noire et de la mer Caspienne, qui correspondent aujourd'hui au sud de la Russie européenne, à l'Ukraine orientale et à l'ouest du Kazakhstan, là où le pâturage favorise l'élevage. </p>
 
-<p>Sur les steppes pontiques et caspiennes, les Aryens ne sont pas encore installés en Inde ou en Iran. Ils vivent sur les steppes pontiques et caspiennes, au nord de la mer Noire et de la mer Caspienne, qui correspondent aujourd’hui au sud de la Russie européenne, à l’Ukraine orientale et à l’ouest du Kazakhstan là où les grandes plaines herbeuses favorisaient l’élevage. Leur vie est surtout tournée vers le pastoralisme : ils élèvent des moutons, des bovins et commencent à utiliser le cheval, ce qui leur donne une mobilité nouvelle par rapport aux autres peuples de leur temps.</p>
+<p>Leur vie est surtout tournée vers le pastoralisme : ils élèvent des moutons et des bovins. Ils côtoient le cheval sauvage, mais sa domestication véritable — et la mobilité nouvelle qu'elle apportera — ne viendra que bien plus tard (vers ~2200 av. J.-C., dans les steppes de la basse Volga-Don).</p>
 
-<p>Socialement, ils n’avaient pas encore de royaumes ni d’États, mais plutôt des tribus organisées en clans, où l’autorité revenait aux chefs guerriers et aux anciens. Leur société était déjà hiérarchisée : on distinguait les guerriers, les religieux (chargés des rites et croyances), et la masse des éleveurs.</p>
+<p>Socialement, ils n'ont pas encore de royaumes ni d'États, mais plutôt des tribus organisées en clans, où l'autorité revient aux chefs guerriers et aux anciens. Leur société se répartit déjà en guerriers, religieux (chargés des rites et des croyances) et masse des éleveurs — une reconstruction linguistique plus qu'un fait archéologique direct.</p>
 
-<p>Par rapport à d’autres groupes contemporains qui pratiquent déjà une agriculture plus sédentaire (par exemple en Mésopotamie ou en Égypte), les Aryens sont encore des nomades. Leur richesse n’était pas la terre mais le troupeau, et leur identité commune venait surtout de leur langue (le proto-indo-européen) et de leurs mythes transmis oralement.</p>
+<p>Par rapport à d'autres groupes contemporains qui pratiquent déjà une agriculture plus sédentaire (par exemple en Mésopotamie ou en Égypte), les Proto-Indo-Européens sont encore des nomades. Leur richesse n'est pas la terre mais le troupeau, et leur identité commune vient surtout de leur langue (le proto-indo-européen) et de leurs mythes transmis oralement.</p>
 
-# -4300 ans
+### Europe
 
-<p>Invention du calendrier égyptien. Il est considéré comme l'un des plus anciens calendriers connus et sert de modèle pour le calendrier julien et grégorien. Il est conçu pour prédire les crues du Nil, un phénomène vital pour l’agriculture. En effet, cette inondation est vitale pour fertiliser les terres agricoles grâce aux limons déposés sur les champs. Ce phénomène est si régulier que les Égyptiens l’utilisent pour fixer leur nouvel an. Mais cette inondation n’est pas seulement un phénomène naturel, mais un véritable « renouveau », garantissant prospérité et fertilité pour l’année à venir.</p>
+<p>En Europe, notamment sur la façade atlantique (Bretagne, péninsule Ibérique), commence la construction de monuments mégalithiques — dolmens et menhirs. Ces structures ont probablement des significations culturelles ou religieuses.</p>
 
 # -4000 ans
 
@@ -1597,6 +1585,8 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
   <video controls preload="metadata" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mesopotamie.mp4"/>
 </p>
+
+<p>Les villes de la Mésopotamie ancienne sont organisées en cités-États, chacune gouvernée par un roi ou un dirigeant puissant. Ces dirigeants sont souvent considérés comme des intermédiaires entre les dieux et les peuples. Le système politique inclue également des prêtres qui jouent un rôle crucial dans la gestion des temples et des affaires religieuses, influençant fortement la vie sociale et économique. La société est stratifiée, avec des marchands, des artisans, et des agriculteurs jouant des rôles importants dans l'économie urbaine, tandis que les esclaves effectuent les travaux les plus durs.</p>
 
 <p>La ville d'Uruk est considérée comme une des premières et plus importantes cités-États de l'histoire. Uruk est célèbre pour ses innovations architecturales, dont les ziggurats, et pour avoir été le centre du culte de la déesse Inanna, divinité majeure du panthéon mésopotamien. Son influence s'étend bien au-delà de ses frontières, marquant profondément la civilisation mésopotamienne.</p>
 
@@ -1618,6 +1608,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Les sacrifices aux dieux existent et ces pratiques sont un moyen d’honorer les dieux, d’assurer leur bienveillance et de maintenir l’équilibre du Maât (l’ordre cosmique). Des traces archéologiques montrent des offrandes animales et alimentaires dans des tombes et sanctuaires. Les tombes royales de Nagada et Abydos contiennent des vestiges de sacrifices humains (rares et limités à la période prédynastique) et animaux, suggérant une forme d'offrande aux divinités et aux rois déifiés.</p>
 
+### Amérique du Sud
+
+<p>Homo Sapiens domestique le piment (vallée de Tehuacán au Mexique ; grains d'amidon en Équateur).</p>
+
 # -3800 ans
 
 ### Mésopotamie
@@ -1629,6 +1623,10 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 <p>Des analyses biochimiques sur des poteries provenant de Hiérakonpolis, datant de la période de Nagada I-C/II-A, révèle la présence d'acides gras caractéristiques du beurre, attestant de sa fabrication à cette époque. Bien que moins courant que le fromage, le beurre est consommé, notamment par les classes aisées. Il est utilisé pour ses propriétés apaisantes, par exemple pour soulager les douleurs des gencives chez les nourrissons. Des mélanges de beurre et d'huiles végétales sont aussi appliqués pour hydrater et protéger la peau.</p>
 
 ## -3500 ans
+
+## Kazakhstan
+
+<p>La plus ancienne preuve de la domestication des chevaux vient du Kazakhstan, où ils jouent un rôle central dans la culture Botai. S'il est un mammifère qui a bouleversé le cours de la civilisation humaine, c'est bien le cheval. Les humains sont fascinés par eux depuis des milliers d'années, les peignant sur des rochers.</p>
 
 <p>Homo Sapiens commence à utiliser des chevaux pour tirer des charrues à travers l'Europe, l'Afrique du Nord et la Chine.</p>
 
@@ -1656,6 +1654,12 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 <p>La momification commence, pendant la période prédynastique, avec les premières tentatives de conservation des corps. Les premiers corps, enterrés directement dans le sable du désert, sont naturellement préservés par la chaleur et la sécheresse.</p>
 
 <p>Les Égyptiens croient en une vie après la mort et pensent que l'âme (ba) doit reconnaître le corps pour survivre dans l'au-delà. Si le corps se décompose, l’âme ne peut pas revenir et l’individu disparait définitivement. La momification vise donc à préserver le corps pour garantir l’immortalité.</p>
+
+## -3400 ans
+
+### Mésopotamie
+
+<p>Les premières traces de bière sont présentes, située dans l'actuel Irak. Les Sumériens, l'une des premières civilisations de cette région, sont souvent considérés comme les pionniers de la bière.</p>
 
 ## -3300 ans
 
@@ -1732,6 +1736,8 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 ## -2800 ans
 
 <p>L'utilisation des bœufs pour labourer les champs en Égypte antique commence pendant la Période thinite.</p>
+
+<p>Mise en place du calendrier civil égyptien de 365 jours, l'un des plus anciens calendriers connus, qui influencera plus tard les calendriers julien et grégorien. Il naît avec l'unification du pays et ses nouveaux besoins administratifs, au début de l'époque dynastique. Son nouvel an (Wepet Renpet) est associé au lever héliaque de Sirius, qui annonce la crue du Nil — phénomène vital, car les limons déposés fertilisent les terres et garantissent la prospérité de l'année à venir. Faute d'année bissextile, ce calendrier de 365 jours dérive toutefois lentement à travers les saisons, sur un cycle d'environ 1 460 ans (le cycle sothiaque).</p>
 
 ## -2700 ans
 
@@ -1901,6 +1907,8 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 ## -1776 ans
 
 <p>Hammurabi, roi de Babylone de 1792 à 1750 av. J.-C., est célèbre pour son code de lois, l'un des premiers ensembles législatifs écrits de l'histoire. Ce code comprend des lois couvrant la justice, le commerce, le mariage et la propriété, établissant des standards pour les comportements sociaux et les punitions. Son originalité réside dans la tentative de standardiser les lois à travers un vaste empire, influençant les principes juridiques pour les siècles à venir.</p>
+
+<p>L'exploitation et l'esclavage sont courants en Mésopotamie. Les esclaves peuvent être des prisonniers de guerre, des personnes endettées, ou des individus vendus par leur famille. Ils sont utilisés dans l'agriculture, la construction, et les services domestiques. Les textes et les lois de l'époque, comme le Code de Hammurabi, fournissent des détails sur leur statut et leurs droits, qui sont limités comparés à ceux des personnes libres.</p>
 
 ## -1650 ans
 
