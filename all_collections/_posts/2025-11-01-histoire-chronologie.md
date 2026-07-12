@@ -141,7 +141,7 @@ tags: technology
   <img src="/assets/img/mathusalem.png" alt="Gif 2" width="400">
 </p>
 
-<p>Dans l'amas globulaire M4 se forme la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. L'univers n'a alors qu'environ un milliard d'années. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.<p>
+<p>Naît la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. Formée autour d'une étoile semblable au Soleil, elle finira capturée au cœur de l'amas globulaire M4, en orbite autour d'un pulsar et d'une naine blanche. L'univers n'a alors qu'environ un milliard d'années — et M4 est pourtant très pauvre en éléments lourds. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
