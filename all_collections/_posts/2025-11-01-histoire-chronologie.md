@@ -205,7 +205,13 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"/>
 </p>
 
-<p>Le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le gaz interstellaire s'organise en un disque mince, en rotation rapide autour du centre galactique : le disque mince de notre galaxie commence à se mettre en place. Les étoiles qui s'y forment sont déjà plus riches en métaux, car le milieu interstellaire a été enrichi par les générations précédentes de supernovæ.</p>
+<p>Le taux de formation d'étoiles dans la Voie lactée commence à décliner. La galaxie entre dans une phase plus calme : les grandes fusions sont derrière elle, et le gaz qu'elle continue d'accréter peut enfin se déposer tranquillement. Il s'organise en un disque mince, dynamiquement froid, en rotation rapide et ordonnée autour du centre galactique : le disque mince de notre galaxie — celui où naîtra le Soleil, et où réside aujourd'hui l'essentiel de la formation stellaire — commence à se mettre en place.</p>
+
+<p style="text-align:center">
+  <img src="/assets/img/disque.svg" alt="Gif 2" width="700">
+</p>
+
+<p>Ce disque mince succède au disque épais, formé plus tôt dans une époque turbulente de fusions et d'accrétion chaotique, dont les étoiles conservent des orbites plus agitées, s'écartant davantage du plan galactique. La frontière entre les deux se lit encore aujourd'hui dans la chimie des étoiles : celles du disque épais sont pauvres en fer mais riches en éléments alpha (oxygène, magnésium), signature d'une formation rapide dominée par les supernovæ massives ; celles du disque mince, formées plus tard, sont plus riches en métaux, car le milieu interstellaire a été enrichi par les générations précédentes de supernovæ — y compris les supernovæ de type Ia, dont la contribution en fer, différée de plusieurs milliards d'années, commence alors à se faire pleinement sentir.</p>
 
 # -6 000 000 000 d'années
 
