@@ -171,6 +171,10 @@ tags: technology
 
 <p>Le taux net de formation d'étoiles atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu en abondance. C'est une période connue sous le nom de « midi cosmique » (l'époque de formation maximale des étoiles), durant laquelle plus de la moitié des étoiles de l'Univers actuel se sont formées. Selon les observations de galaxies lointaines, le taux de formation stellaire y est environ dix fois plus élevé qu'aujourd'hui.</p>
 
+<p style="text-align:center">
+  <img src="/assets/img/fusionKraken.png" alt="Gif 2" width="700">
+</p>
+
 <p>La Voie lactée, encore quatre fois moins massive qu'aujourd'hui, connaît la plus grande fusion de son histoire : la collision avec « Kraken », une galaxie aujourd'hui disparue, absorbée par la nôtre. Ce n'est pas la fusion qui apporta le plus d'étoiles en masse absolue, mais c'est la plus majeure par son rapport de masse: survenant très tôt, quand la galaxie hôte était encore petite, elle a profondément transformé la structure de la Voie lactée naissante.</p>
 
 <p>Kraken n'a pas été observée directement : son existence est déduite d'un groupe d'amas globulaires « à basse énergie » — ces sphères très denses de centaines de milliers de vieilles étoiles qui survivent comme des fossiles des galaxies englouties. C'est en reconstituant « l'arbre généalogique » de la Voie lactée à partir de ses ~150 amas globulaires, à l'aide de simulations cosmologiques (Kruijssen et al., 2020), que les astronomes ont mis au jour cette collision jusque-là inconnue. Les contours et le nom de l'événement font encore débat (on parle aussi de « Heracles », ou d'un objet combiné « Low-energy-Kraken-Heracles »), mais l'idée d'une fusion fondatrice très ancienne fait consensus.</p>
