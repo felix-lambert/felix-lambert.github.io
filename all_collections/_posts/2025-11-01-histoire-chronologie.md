@@ -138,7 +138,7 @@ tags: technology
 # -12 700 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/mathusalem.png" alt="Gif 2" width="400">
+  <img src="/assets/img/mathusalem.png" alt="Gif 2" width="700">
 </p>
 
 <p>Naît la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. Formée autour d'une étoile semblable au Soleil, elle finira capturée au cœur de l'amas globulaire M4, en orbite autour d'un pulsar et d'une naine blanche. L'univers n'a alors qu'environ un milliard d'années — et M4 est pourtant très pauvre en éléments lourds. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.</p>
