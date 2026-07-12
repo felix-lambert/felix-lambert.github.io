@@ -217,6 +217,10 @@ tags: technology
 
 <p>Les grandes fusions du passé de la Voie lactée sont terminées : depuis Gaïa-Encelade, notre galaxie n'a plus connu de fusion majeure — une tranquillité inhabituelle pour une galaxie de sa taille (les accrétions mineures, comme celle du Sagittaire, se poursuivent néanmoins, et de grandes fusions l'attendent dans le futur). La Voie lactée est la deuxième plus grande galaxie de notre groupe de galaxies, le Groupe local. La plus grande, Andromède, est une immense galaxie spirale, semblable à la Voie lactée mais environ deux fois plus étendue et plus riche en étoiles — même si, en masse totale, les deux sont comparables.</p>
 
+<p style="text-align:center">
+  <img src="/assets/img/energiesombre.png" alt="Gif 2" width="700">
+</p>
+
 <p>L'influence de l'énergie sombre sur l'expansion de l'Univers devient de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers cesse de ralentir et commence à s'accélérer sous l'effet de l'énergie sombre.</p>
 
 # -5 000 000 000 d'années
@@ -283,6 +287,10 @@ tags: technology
 
 <p>Visible</p>
 
+# -4 400 000 000 d'années
+
+<p>Les zircons de Jack Hills, en Australie, témoignent de la présence d'eau liquide dès -4,4 milliards d'années. </p>
+
 # -4 300 000 000 d'années
 
 <p>La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.</p>
@@ -309,7 +317,13 @@ tags: technology
 
 # -4 000 000 000 d'années
 
-<p>Le taux d'impacts du grand bombardement tardif diminue. 97% de cette Terre est recouverte d'océans. Et il n'y a toujours pas d'oxygène. La température de la Terre baisse à 40 degrés. Il y a plus d'éruptions volcaniques qu'il n'y en a aujourd'hui en raison de la chaleur qui s'élève du noyau de la planète. Ces volcans, riches en gaz à effet de serre, émergent de l'océan, forment une nouvelle atmosphère et les premières iles volcaniques.</p>
+<p>La Terre sort à peine de son enfance violente. Les impacts de météorites, hérités de la formation du système solaire, restent fréquents mais leur cadence décroît régulièrement — la pluie de débris s'épuise peu à peu.</p>
+
+<p>La surface s'est suffisamment refroidie pour que la vapeur d'eau se condense : un océan quasi global recouvre désormais la planète, ne laissant émerger que de rares terres. </p>
+
+<p>Le moteur de cette jeune Terre, c'est sa chaleur interne. Le manteau, bien plus chaud qu'aujourd'hui — gorgé de chaleur résiduelle de l'accrétion et de désintégrations radioactives —, alimente un volcanisme d'une intensité que la planète ne connaîtra plus jamais. Ces volcans percent la surface de l'océan et forment les premières îles, embryons des futurs continents. Surtout, ils dégazent massivement : dioxyde de carbone, vapeur d'eau, azote, un peu de méthane. C'est cette haleine volcanique qui constitue l'atmosphère de la Terre.</p>
+
+<p>Et ce détail est vital : le Soleil, encore jeune, brille 25 à 30 % moins fort. Sans l'effet de serre massif du CO₂ volcanique, l'océan gèlerait entièrement. Les volcans ne fabriquent pas seulement l'air — ils maintiennent la planète à l'état liquide.</p>
 
 # -3 800 000 000 d'années
 
