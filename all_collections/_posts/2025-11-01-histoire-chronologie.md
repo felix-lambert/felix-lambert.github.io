@@ -94,7 +94,7 @@ tags: technology
 
 # -13 500 000 000 d'années
 
-<p>Les étoiles les plus massives ont une force gravitationnelle extrêmement forte et peuvent alors s'unir dans des régions denses, et former des galaxies. Ces galaxies sont au début un tout petit nuage de gaz composées d’étoiles bleues beaucoup plus chaudes que les étoiles actuelles. On trouve aussi des étoiles de la population II qui sont formées par les étoiles de la population III.</p>
+<p>Sous l'effet de la gravité — dominée par la matière noire —, le gaz primordial tombe dans des halos de matière noire, s'y refroidit et s'y condense en étoiles : ainsi naissent les premières galaxies. De petits halos se forment d'abord, puis fusionnent les uns avec les autres (c'est le scénario hiérarchique, « bottom-up »). Ces premières galaxies sont gorgées de gaz et dominées par des étoiles bleues, massives et bien plus chaudes que la plupart des étoiles actuelles. On y trouve aussi des étoiles de population II, formées à partir du gaz enrichi en métaux par les supernovæ de la population III.</p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Gif 2" width="400">
@@ -108,20 +108,11 @@ tags: technology
   <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Gif 2" width="400">
 </p>
 
-<p>Toujours grâce à la gravité, ces galaxies se rapprochent et forment des groupes de galaxies (des clusters et des superclusters).</p>
-
-<p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/tailleUnivers.mp4"/>
-</p>
-
-<p>La Voie lactée fait par exemple partie d'un groupe de galaxies appelé Groupe local dont elle est le membre le plus massif avec la Galaxie d'Andromède (M31), ses autres membres étant de masse nettement plus faible. Lorsqu'une concentration de galaxies contient plus d'une centaine de galaxies situées dans une zone, elle est alors appelée amas. Les amas de galaxies sont souvent dominés par une galaxie elliptique géante. L'amas auquel appartient le Groupe local est appelé amas de la Vierge, du nom de la constellation dans laquelle se trouve son centre.</p>
-
 # -13 100 000 000 d'années
 
-<p>Au début, une étoile utilise de l'hydrogène pour produire de l'énergie. Quand elle manque d'hydrogène, elle commence à utiliser de l'hélium. En utilisant l'hélium, elle crée d'autres éléments comme le carbone, l'oxygène et le calcium (les mêmes éléments que l'on trouve dans nos corps). Avec le temps, l'étoile peut créer des éléments encore plus lourds jusqu'à ce qu'elle atteigne le fer. Après le fer, l'étoile ne peut plus créer d'autres éléments.</p>
+<p>Au début, une étoile brûle de l'hydrogène pour produire son énergie. Quand son cœur manque d'hydrogène, elle se met à brûler l'hélium, ce qui crée du carbone puis de l'oxygène (des éléments que l'on retrouve dans nos propres corps). Si elle est assez massive, elle enchaîne ensuite des combustions de plus en plus avancées, forgeant des éléments toujours plus lourds jusqu'au fer. Au fer, la fusion cesse de libérer de l'énergie : l'étoile ne peut plus se soutenir ainsi. Les éléments encore plus lourds (jusqu'à l'or ou l'uranium) ne se formeront que lors de l'explosion finale et dans les fusions d'étoiles à neutrons.</p>
 
-<p>Certaines étoiles n'ont plus aucun élément à brûler. Le fer dans les premières étoiles s'accumule trop et par son poids, à cause de la gravité, commence à comprimer cette boule de feu, jusqu'à ce qu'elle éclate en supernova. Ces premières supernovas permettent de dégager des éléments plus lourds que l'hydrogène dans l'univers, tels que l'oxygène par exemple. L'oxygène est, en masse, le troisième élément le plus abondant de l'Univers après l'hydrogène et l'hélium.</p>
+<p>Dans les étoiles massives, le cœur de fer s'accumule jusqu'à dépasser une masse critique (environ 1,4 fois celle du Soleil) : la pression qui le soutenait cède, et il s'effondre sur lui-même en une fraction de seconde. Le rebond du cœur et l'intense bouffée de neutrinos projettent alors les couches externes dans une gigantesque explosion : une supernova à effondrement de cœur. Ces explosions dispersent dans l'Univers les éléments forgés par l'étoile — et en synthétisent de nouveaux, plus lourds que le fer. C'est ainsi que l'espace s'enrichit en oxygène, troisième élément le plus abondant de l'Univers en masse, après l'hydrogène et l'hélium.</p>
 
 <p style="text-align:center">
   <img src="/assets/img/supernova.jpg" alt="Gif 2" width="400">
@@ -129,24 +120,28 @@ tags: technology
 
 # -13 000 000 000 d'années
 
-<p>Cet oxygène libéré peut se mélanger, grâce à la chaleur d'une autre étoile, avec 2 atomes d'hydrogène et former un nouvel atome plus complexe: h2o, qui est, l'atome de l'eau. La présence d'eau sous forme de glace est en effet observable dans cet univers froid, car assez éloigné d'un soleil.</p>
+<p>Cet oxygène libéré peut se combiner avec deux atomes d'hydrogène pour former une molécule plus complexe : H₂O, la molécule d'eau (une molécule est un assemblage d'atomes, ici 1 oxygène + 2 hydrogène). Une bonne partie de cette eau se forme dans les nuages interstellaires froids, à la surface des grains de poussière. On observe d'ailleurs de l'eau sous forme de glace dans ces régions froides de l'Univers, loin de toute étoile.</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/trouNoir.mp4"/>
 </p>
 
-<p>Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovas. Les trous noirs ont une force qui attire tout, même la lumière. Ils peuvent se combiner entre eux et "manger" des étoiles. Chaque groupe d'étoiles, appelé galaxie, tourne autour d'un gros trou noir, qui donne sa forme à la galaxie.</p>
+<p>Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovæ. La gravité d'un trou noir est si intense qu'au-delà d'une certaine limite (l'horizon des événements), rien ne peut s'en échapper, pas même la lumière. Les trous noirs peuvent fusionner entre eux et « dévorer » des étoiles qui s'en approchent trop. La plupart des grandes galaxies abritent en leur centre un trou noir supermassif. Le trou noir central influence son évolution, notamment en régulant la formation d'étoiles.</p>
 
 <p style="text-align:center">
   <img src="https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif" alt="Gif 2" width="400">
 </p>
 
-<p>Le centre, le noyau de la voie lactée (ou la Galaxie avec une majuscule) se forme avec des atomes d'hydrogène et d'hélium, mais aussi d'éléments plus lourds comme de l'or, de l'uranium et du carbone grâce à l'explosion (supernova) des étoiles les plus anciennes. Les étoiles qui se trouvent au centre de notre Voie lactée sont les plus vieilles de notre galaxie.</p>
+<p>Le noyau de la Voie lactée (la Galaxie, avec une majuscule) s'assemble à partir d'hydrogène et d'hélium, mais aussi d'éléments plus lourds — du carbone forgé dans les étoiles, et de l'or ou de l'uranium issus surtout des fusions d'étoiles à neutrons (et, pour une part, des supernovæ des étoiles les plus anciennes). Les régions centrales, dans le bulbe, comptent parmi les plus vieilles de notre galaxie, aux côtés des étoiles du halo et des amas globulaires.</p>
 
 # -12 700 000 000 d'années
 
-<p>Les premières exoplanètes se forment grâce aux disques de matières qui orbitent les étoiles ce qui prouve que les éléments solides existent déjà dans l'univers à cette époque.</p>
+<p style="text-align:center">
+  <img src="/assets/img/mathusalem.png" alt="Gif 2" width="400">
+</p>
+
+<p>Dans l'amas globulaire M4 se forme la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. L'univers n'a alors qu'environ un milliard d'années. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.<p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -155,41 +150,45 @@ tags: technology
 
 # -12 000 000 000 d'années
 
-<p>Même si notre système solaire n'a pas encore été formé, la situation de l'univers ressemble à l'univers actuel, avec une concentration d'étoiles d'une existence de plus courte durée qu'aujourd'hui, de galaxies, et de groupes de galaxies, qui, de temps en temps, se fusionnent entre eux. La lumière dans l'univers devient plus vive grâce à un pic d'activités de formation d'étoiles (à un rythme plus d'une dizaine de fois plus rapide qu'aujourd'hui) et l'univers poursuit son expansion.</p>
+<p>Même si notre système solaire n'existe pas encore, l'Univers commence à ressembler à celui d'aujourd'hui : des étoiles (à la vie plus courte qu'aujourd'hui), des galaxies et des groupes de galaxies qui, régulièrement, fusionnent entre eux. La lumière y est plus vive, portée par une formation d'étoiles bien plus intense qu'aujourd'hui (plus d'une dizaine de fois plus rapide), et l'Univers poursuit son expansion.</p>
 
-<p>Les interactions entre galaxies sont plus nombreuses, mais les galaxies massives moins nombreuses. Ces dernières étant apparues plus tard des suites des phénomènes de fusion entre galaxies.</p>
+<p>Les interactions entre galaxies sont plus fréquentes, mais les galaxies massives sont encore rares : elles se construiront plus tard, justement par fusions successives.</p>
 
-<p>Les trous noirs, aussi très actifs à cette époque, propulsent les particules des étoiles explosées à plusieurs millions d'années-lumières et permettent de répartir une énorme quantité d'éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer...) dans l'univers. Ces jets ne proviennent pas de l'intérieur du trou noir lui-même (rien ne peut s'échapper de l'intérieur d'un trou noir), mais plutôt des régions très proches du trou noir où des champs magnétiques intenses et d'autres processus propulsent la matière.</p>
+<p>Les trous noirs sont eux aussi très actifs à cette époque. Leurs jets — issus non pas de l'intérieur du trou noir (rien ne peut s'en échapper), mais des régions toutes proches, où des champs magnétiques intenses propulsent la matière du disque d'accrétion — projettent du plasma sur plusieurs millions d'années-lumière. Ces jets, et les vents qu'ils engendrent, contribuent à redistribuer dans le milieu intergalactique les éléments chimiques lourds (carbone, calcium, azote, soufre, oxygène, fer…) qui, eux, ont été forgés et dispersés par les étoiles et leurs supernovæ.</p>
 
-<p>La Voie lactée est semblable aux galaxies satellitaires naines que nous connaissons aujourd'hui. Sa taille est similaire à celle (actuelle) du Petit Nuage de Magellan, une galaxie naine (une petite galaxie de seulement 10 milliards d'étoiles) de la Voie lactée avec quatre fois moins d'étoiles massives qu'aujourd'hui.</p>
+<p>La Voie lactée, à ce stade, ressemble à une galaxie naine. Sa taille est comparable à celle (actuelle) du Petit Nuage de Magellan, une petite galaxie satellite de la Voie lactée comptant entre quelques centaines de millions et quelques milliards d'étoiles — avec bien moins d'étoiles massives qu'elle n'en abritera plus tard.</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/energieSombre.mp4"/>
 </p>
 
-<p>L'Univers continue de s'étendre à un rythme accéléré. Cette expansion est le résultat de l'énergie sombre, une forme d'énergie qui agit comme une force répulsive, repoussant les galaxies les unes des autres. Bien que l'effet de l'énergie noire sur l'expansion de l'Univers n'est devenu prédominant que plus tard, sa présence influence déjà la dynamique de l'expansion de l'Univers.</p>
+<p>À cette époque, l'expansion de l'Univers ralentit encore : dominé par la matière, il est freiné par la gravité. L'énergie sombre — une forme d'énergie au comportement répulsif, qui éloigne les galaxies les unes des autres — est déjà présente, mais reste sous-dominante. </p>
 
 # -11 000 000 000 d'années
 
 <p>Les galaxies sont beaucoup plus proches les unes des autres qu'elles ne le sont aujourd'hui.</p>
 
-<p>Le taux net de formation d'étoiles a probablement atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu. C'est une période connue sous le nom d'"époque cosmique de formation maximale des étoiles". Selon certaines estimations basées sur des observations de galaxies lointaines, le taux de formation stellaire à cette époque est en effet jusqu'à 30 fois plus élevé qu'aujourd'hui.</p>
+<p>Le taux net de formation d'étoiles atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu en abondance. C'est une période connue sous le nom de « midi cosmique » (l'époque de formation maximale des étoiles), durant laquelle plus de la moitié des étoiles de l'Univers actuel se sont formées. Selon les observations de galaxies lointaines, le taux de formation stellaire y est environ dix fois plus élevé qu'aujourd'hui.</p>
+
+<p>La Voie lactée, encore quatre fois moins massive qu'aujourd'hui, connaît la plus grande fusion de son histoire : la collision avec « Kraken », une galaxie aujourd'hui disparue, absorbée par la nôtre. Ce n'est pas la fusion qui apporta le plus d'étoiles en masse absolue, mais c'est la plus majeure par son rapport de masse: survenant très tôt, quand la galaxie hôte était encore petite, elle a profondément transformé la structure de la Voie lactée naissante.</p>
+
+<p>Kraken n'a pas été observée directement : son existence est déduite d'un groupe d'amas globulaires « à basse énergie » — ces sphères très denses de centaines de milliers de vieilles étoiles qui survivent comme des fossiles des galaxies englouties. C'est en reconstituant « l'arbre généalogique » de la Voie lactée à partir de ses ~150 amas globulaires, à l'aide de simulations cosmologiques (Kruijssen et al., 2020), que les astronomes ont mis au jour cette collision jusque-là inconnue. Les contours et le nom de l'événement font encore débat (on parle aussi de « Heracles », ou d'un objet combiné « Low-energy-Kraken-Heracles »), mais l'idée d'une fusion fondatrice très ancienne fait consensus.</p>
 
 # -10 000 000 000 d'années
 
-<p>Le diamètre de l'univers est environ trois fois inférieur à ce qu'il est maintenant. La plupart des étoiles du monde sont formées. La moitié des galaxies les plus massives présentes ont déjà cessé définitivement de former des étoiles. En revanche, la formation de la galaxie voisine de notre Voie lactée, la galaxie d'Andromède, l'une des rares galaxies qui peut être observée à l'oeil nu à partir de la Terre, commence.</p>
+<p>Le diamètre de l'Univers est environ deux fois et demie à trois fois inférieur à ce qu'il est aujourd'hui. Près de la moitié des étoiles de l'Univers actuel sont déjà formées, et la moitié des galaxies les plus massives ont déjà cessé définitivement de former des étoiles. Andromède, la grande galaxie voisine de la Voie lactée — l'une des rares observables à l'œil nu depuis la Terre — est, elle, dans ses phases d'assemblage précoce.</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/voieLactee.mp4"/>
 </p>
 
-<p>La Voie lactée, faisant presque la moitié de la taille actuelle, fusionne avec Gaïa-Encelade: une galaxie naine. Beaucoup des étoiles natives de notre galaxie se dirigent dans le disque épais au milieu de la galaxie tandis que celles capturées à partir de Gaia-Encelade se trouvent dans la partie extérieure de la galaxie. En fonction du pourcentage d'étoiles capturées c'est la deuxième plus grande fusion de l'histoire de notre galaxie.</p>
+<p>La Voie lactée, faisant alors environ la moitié de sa taille actuelle, fusionne avec Gaïa-Encelade, une galaxie naine. La collision chauffe les étoiles natives préexistantes, qui forment le disque épais, tandis que les étoiles capturées à Gaïa-Encelade peuplent le halo interne, sur des orbites très allongées. Selon le rapport de masse retenu, c'est la deuxième plus grande fusion de l'histoire de notre galaxie.</p>
 
 # -9 000 000 000 d'années
 
-<p>Le gaz interstellaire commence à s’appauvrir et la création de nouvelles étoiles et de supernovas ralentit lentement. Les réservoirs de gaz froid (hydrogène et hélium) qui alimentaient les naissances d’étoiles sont peu à peu consommés. Les supernovas et les vents stellaires chassent une partie de ce gaz hors des galaxies. Résultat : le taux de formation stellaire chute progressivement dans la plupart des galaxies. Autrement dit, de moins en moins d’étoiles naissent à mesure que le temps avance.</p>
+<p>Le gaz interstellaire commence à s'appauvrir, et la création de nouvelles étoiles — donc de supernovæ — ralentit lentement. Plusieurs effets se conjuguent. Les réservoirs de gaz froid (surtout l'hydrogène, sous forme moléculaire) qui alimentaient la naissance des étoiles sont peu à peu consommés, et l'Univers, en s'étendant, apporte de moins en moins de gaz frais aux galaxies via les filaments cosmiques. Les supernovæ et les vents stellaires chassent une partie du gaz hors des galaxies, tandis que, dans les plus massives, la rétroaction des trous noirs supermassifs chauffe et disperse le gaz, empêchant son refroidissement. Résultat : le taux de formation stellaire chute progressivement dans la plupart des galaxies — de moins en moins d'étoiles naissent à mesure que le temps avance.</p>
 
 # -8 000 000 000 d'années
 
@@ -198,34 +197,17 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"/>
 </p>
 
-<p>Le trou noir (Sagittarius A+) de notre galaxie termine la plus grande part de sa croissance et le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le gaz interstellaire s’organise en un disque mince et en rotation rapide autour du centre galactique. Le disque de notre galaxie vient de se former. Les étoiles formées à ce moment-là sont déjà plus riches en métaux (car le milieu interstellaire est enrichi par des générations précédentes de supernovas).</p>
-
-# - 7 000 000 000 d'années
-
-<p>La galaxie du Sagittaire, qui a servi de véritable architecte de la Voie Lactée fusionne avec la Voie Lactée et possède un milliard d'étoiles. C’est la première grande collision identifiable entre la Voie lactée et une galaxie satellite massive. Les étoiles issues du Sagittaire sont identifiées aujourd’hui grâce à leurs signatures chimiques distinctes (elles contiennent moins d’éléments lourds et plus d’éléments α comme l’oxygène ou le magnésium).</p>
+<p>Le taux de formation d'étoiles dans la Voie lactée commence à décliner. Le gaz interstellaire s'organise en un disque mince, en rotation rapide autour du centre galactique : le disque mince de notre galaxie commence à se mettre en place. Les étoiles qui s'y forment sont déjà plus riches en métaux, car le milieu interstellaire a été enrichi par les générations précédentes de supernovæ.</p>
 
 # -6 000 000 000 d'années
 
-<p>Fin des fusions des galaxies de notre Voie lactée. Cette dernière est la deuxième plus grande galaxie de notre cluster: le Groupe Local. La plus grande galaxie de notre groupe local s’appelle Andromède. C’est une immense galaxie spirale, un peu comme la Voie lactée, mais environ deux fois plus grande.</p>
+<p>Les grandes fusions du passé de la Voie lactée sont terminées : depuis Gaïa-Encelade, notre galaxie n'a plus connu de fusion majeure — une tranquillité inhabituelle pour une galaxie de sa taille (les accrétions mineures, comme celle du Sagittaire, se poursuivent néanmoins, et de grandes fusions l'attendent dans le futur). La Voie lactée est la deuxième plus grande galaxie de notre groupe de galaxies, le Groupe local. La plus grande, Andromède, est une immense galaxie spirale, semblable à la Voie lactée mais environ deux fois plus étendue et plus riche en étoiles — même si, en masse totale, les deux sont comparables.</p>
 
-<p>L'influence de l'énergie noire sur l'expansion de l'Univers est de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers commence à s'accélérer à cause de l'énergie noire.</p>
+<p>L'influence de l'énergie sombre sur l'expansion de l'Univers devient de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers cesse de ralentir et commence à s'accélérer sous l'effet de l'énergie sombre.</p>
 
 # -5 000 000 000 d'années
 
-<p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/terreFormation.mp4"/>
-</p>
-
-<p style="text-align:center">
-  <img src="/assets/img/groupelocal.png" alt="Gif 2" width="400">
-</p>
-
-<p style="text-align:center">
-  <img src="/assets/img/voielactee.jpg" alt="Gif 2" width="400">
-</p>
-
-<p>L'explosion d'une supernova crée un vaste nuage de gaz et de poussières (avec 74% d'hydrogènes et 24% d'hélium, un tout petit peu d'oxygène, de nitrogène et de carbone) à une périphérie de la voie lactée. Il s'agit du commencement de la formation de notre système solaire. Sous l'influence de la gravité, le centre de ce nuage gazeux attire 99,9 % de la matière à proximité. Ce nuage devient plus dense et plus chaud de sorte qu'au final, une fusion nucléaire marque la naissance de notre soleil. Ce processus a duré à peu près 100 000 ans.</p>
+<p>Un vaste nuage de gaz et de poussières (environ 74 % d'hydrogène, 24 % d'hélium, et un peu d'oxygène, d'azote et de carbone), à mi-rayon du disque de la Voie lactée, commence à s'effondrer — un processus probablement déclenché par l'onde de choc d'une supernova proche, dont les débris ont aussi enrichi le nuage en éléments lourds. C'est le commencement de la formation de notre système solaire. Sous l'effet de la gravité, le centre du nuage attire ~99,9 % de la matière environnante, devenant de plus en plus dense et chaud. L'effondrement du cœur en protoétoile dure environ 100 000 ans ; il faudra ensuite quelques dizaines de millions d'années de contraction avant que la fusion nucléaire ne s'allume vraiment, marquant la naissance du Soleil.</p>
 
 <p style="text-align:center">
   <video controls preload="metadata" width="640" height="360"
@@ -237,17 +219,19 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/systemeSolaire.mp4"/>
 </p>
 
-<p>Ce très jeune soleil est entouré de gaz et de poussière. Ce nuage de gaz cosmique contient de nombreux éléments en plus de l'hydrogène et de l'hélium. La matière contenue dans le nuage peut s'assembler plus facilement et plus rapidement en gros morceaux. Ceux-ci sont les débris de la formation de ce soleil. Les gaz les plus faibles sont propulsés très loin dans notre système solaire, dans une région très éloignée du soleil et donc très froide. Ces corps se réunissent pour former de gigantesques planètes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.</p>
+<p>Ce très jeune Soleil est entouré d'un disque de gaz et de poussières. Dans les régions externes, lointaines et froides, au-delà de la « ligne des glaces », les gaz volatils (hydrogène, hélium) repoussés par le jeune Soleil peuvent être retenus : la matière s'y assemble en gros noyaux qui accrètent ce gaz pour former les géantes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.</p>
 
-<p>Cependant, certains résidus d'eau et de carbone ne s'y agrègent pas. Ce sont des astéroïdes. Ces derniers, non loin de l'extrémité de notre système solaire, dans une zone très froide, concentrent une très grande quantité de carbone et d'eau gelée (les cœurs de ces astéroïdes sont toujours chauds, permettant ainsi la formation de molécules de carbone). Plusieurs astéroïdes se heurtent et se fragmentent. Leurs débris constitueront également de nouveaux astéroïdes.</p>
+<p>Plus loin encore, dans les zones les plus froides, certains corps concentrent une grande quantité de glace d'eau et de composés carbonés sans s'agréger aux planètes : ce sont les comètes et les astéroïdes glacés. Dans les premiers millions d'années, la désintégration radioactive de l'aluminium-26 a chauffé l'intérieur des plus gros de ces planétésimaux, déclenchant une altération aqueuse (chimie eau-roche) qui a formé des molécules organiques. Certains de ces corps se heurtent et se fragmentent, et leurs débris forment de nouveaux astéroïdes.</p>
 
-<p>Dans la zone chaude de notre système solaire, les éléments lourds, plus proches du soleil, se mettent à former de plus en plus de corps rocheux. La gravité permet à ces roches de s'assembler ensemble pour finalement former des planètes. Ces types de planètes, qui se forment par la roche, sont appelés des planètes rocheuses ou telluriques. Ce sont Mercure, Vénus, la Terre, et Mars.</p>
+<p>Dans la zone chaude, près du Soleil, seuls les éléments réfractaires (roches et métaux) peuvent se condenser. La gravité assemble peu à peu ces roches en corps de plus en plus gros, jusqu'à former des planètes rocheuses, dites telluriques : Mercure, Vénus, la Terre et Mars.</p>
 
 <p style="text-align:center">
   <img src="/assets/img/Solarsystem3DJupiter.gif" alt="Gif 2" width="400">
 </p>
 
-<p>Notre système solaire pourrait avoir beaucoup de planètes. Mais toutes ne peuvent pas rester car elles se bousculent et se heurtent. Parfois, elles se rapprochent trop du Soleil et se brûlent, ou elles sont poussées hors du système parce qu'elles sont trop proches d'une autre planète. C'est pourquoi certaines planètes se retrouvent à errer toutes seules dans l'espace, sans étoile autour de laquelle tourner.</p>
+<p>Le système solaire compte au départ bien plus de corps protoplanétaires qu'il n'en gardera. Tous ne peuvent rester : ils se bousculent et se heurtent. Certains se rapprochent trop du Soleil et y tombent, d'autres sont éjectés du système par l'attraction d'une planète voisine. C'est ainsi que naissent les planètes errantes, qui dérivent seules dans l'espace, sans étoile autour de laquelle tourner.</p>
+
+<p>La galaxie naine du Sagittaire amorce sa chute vers la Voie lactée. Comptant quelques centaines de millions d'étoiles, elle a joué un rôle d'« architecte » : ses passages successifs ont déclenché de grandes bouffées de formation d'étoiles dans notre galaxie. C'est la plus récente des grandes fusions de la Voie lactée (après Kraken puis Gaïa-Encelade, bien plus massives), et elle se poursuit encore aujourd'hui : la galaxie est toujours en train d'être déchiquetée par les forces de marée. Les étoiles issues du Sagittaire sont identifiées aujourd'hui grâce à leur signature chimique distincte : moins d'éléments lourds (métallicité plus basse) et un déficit en éléments α (oxygène, magnésium) par rapport au fer, témoin d'une formation d'étoiles lente et peu efficace.</p>
 
 # -4 540 000 000 d'années
 
@@ -256,7 +240,7 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutTerre.mp4"/>
 </p>
 
-<p>La Terre, ultra-chaude et sans eau, à sa formation, fait plus de 4700 degrés et est couverte à sa surface par une mer de feu. Les éléments les plus lourds, comme le fer, tombent dans le cœur de la planète qui formera le noyau. Il s'agit d'une boule de métal liquide qui tourne et est maintenu chaud par la gravité. Les éléments légers vont à la surface de la planète. Le centre de la planète libère certains éléments comme du carbone, du soufre et de l'hélium à travers des cratères de volcans. Le carbone rejeté se combine à l'oxygène et forme ainsi du dioxyde de carbone (CO2), lequel forme une atmosphère primitive rouge épaisse.</p>
+<p>À sa formation, la Terre est brûlante et sans eau, sa surface recouverte d'un océan de magma — une véritable mer de feu, à environ 1500 à 2300 °C (son intérieur profond, lui, dépasse les 4000 °C). Sous l'effet de la gravité, la planète se différencie : les éléments les plus lourds, comme le fer, plongent vers le centre pour former le noyau — une boule de métal liquide, maintenue chaude par l'énergie libérée lors de l'accrétion et de cette différenciation, ainsi que par la radioactivité. Les éléments plus légers, eux, remontent vers la surface. Le manteau dégaze à travers une intense activité volcanique, libérant de la vapeur d'eau, du dioxyde de carbone (CO₂), de l'azote et des composés soufrés. Ce CO₂, expulsé directement par les volcans constitue une épaisse atmosphère primitive de CO₂ et de vapeur d'eau.</p>
 
 # -4 510 000 000 d'années
 
@@ -265,13 +249,13 @@ tags: technology
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutLune.mp4"/>
 </p>
 
-<p>L'orbite d'une planète similaire à la Terre mais beaucoup plus petite, appelée Theia, l'emmène directement sur la planète Terre et crée une immense collision. Cette collision projette une grande quantité de matière terrestre et de matière de Théia dans l'espace, qui se condense pour former la Lune. Pendant plusieurs millions d'années, notre planète a des anneaux, tels que Saturne. Puis, les anneaux fusionnent pour créer un autre nouveau monde – la Lune, l'unique satellite naturel permanent de la planète Terre.</p>
+<p>L'orbite d'une planète de la taille de Mars, appelée Theia, la mène droit sur la Terre : c'est l'impact géant. La collision projette dans l'espace une énorme quantité de matière, issue à la fois de la Terre et de Theia. Pendant quelques millions d'années, notre planète possède des anneaux de débris, comme Saturne. Puis ces anneaux s'agglomèrent pour donner naissance à un nouveau monde : la Lune, l'unique satellite naturel permanent de la Terre.</p>
 
 <p style="text-align:center">
   <img src="/assets/img/impactgeant.png" alt="Gif 2" width="400">
 </p>
 
-<p>La Lune, en rotation, présente toujours la même face à la Terre. Elle a une taille apparente environ 60 fois plus petite que celle du Soleil dans le ciel, mais elle est également beaucoup plus proche de la Terre que le Soleil. Ainsi, lorsqu'elle se trouve entre la Terre et le Soleil, la Lune peut masquer complètement le Soleil, ce qui donne lieu à une éclipse totale.</p>
+<p>La Lune, en rotation synchrone, présente toujours la même face à la Terre. Fait remarquable : elle a presque exactement la même taille apparente que le Soleil dans le ciel (environ un demi-degré chacun). C'est une coïncidence — le Soleil est environ 400 fois plus grand que la Lune, mais aussi 400 fois plus loin, si bien que les deux disques paraissent identiques. C'est ce qui permet à la Lune, lorsqu'elle passe entre la Terre et le Soleil, de masquer ce dernier presque parfaitement : c'est l'éclipse totale. Cette correspondance n'est toutefois que temporaire — la Lune s'éloigne de la Terre d'environ 3,8 cm par an, et dans un lointain futur, elle sera trop petite dans le ciel pour produire des éclipses totales.</p>
 
 <p style="text-align:center">
   <img src="/assets/img/cachée_lune.jpg" alt="Gif 2" width="400">
@@ -442,12 +426,11 @@ tags: technology
 
 # -1 300 000 000 d'années
 
-<p>Certains êtres vivants de la mer sortent un peu sur la terre humide (comme les rochers du bord) et deviennent des champignons microscopiques. Ils ne font pas de photosynthèse comme les algues : ils mangent ce qui existe déjà. C’est l’un des premiers signes de vie sur la terre ferme, avant les plantes.</p>
+<p>Certains êtres vivants de la mer sortent un peu sur la terre humide et deviennent des champignons microscopiques. Ils ne font pas de photosynthèse comme les algues : ils mangent ce qui existe déjà. C’est l’un des premiers signes de vie sur la terre ferme, avant les plantes.</p>
 
 # -1 200 000 000 d'années
 
-<p>Certains eucaryotes commencent à échanger un peu de leur “code” (leur ADN) entre eux pour faire un individu unique. On appelle ça la "reproduction". Avant, ils se copiaient tout seuls, comme un clone.
-Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel individu unique. Grâce à ça, les êtres vivants deviennent plus variés, plus solides et peuvent mieux s’adapter au monde qui change.</p>
+<p>Certains eucaryotes commencent à échanger un peu de leur “code” (leur ADN) entre eux pour faire un individu unique. On appelle ça la "reproduction". Avant, ils se copiaient tout seuls, comme un clone. Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel individu unique. Grâce à ça, les êtres vivants deviennent plus variés, plus solides et peuvent mieux s’adapter au monde qui change.</p>
 
 <p>Pour la première fois, ils se déplacent loin de la mer, explorant les étangs d'eau douce et les ruisseaux sur la terre.</p>
 
@@ -468,7 +451,7 @@ Mais là, deux êtres différents mélangent leurs gènes; ça donne un nouvel i
 
 # -830 000 000 d'années
 
-<p>Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère (au-dessus des nuages).</p>
+<p>Une éruption volcanique de grande ampleur a lieu dans l'Arctique canadien. Les roches de ces volcans sont remplies de soufre, de sorte qu'une énorme quantité de ce gaz est rejetée dans l'atmosphère. La quantité est telle qu'une partie de cet élément chimique atteint la stratosphère.</p>
 
 <p>L'éclatement du supercontinent Rodinia commence. Il dure près de 100 millions d'années.</p>
 
@@ -872,7 +855,7 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 <p>Un mammifère, le Morganucodon, un insectivore, mesure environ 10 centimètres avec la queue.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/morganucodon.jpg" alt="Gif 2" width="400">
+  <img src="/assets/img/morganucodon.jpg" width="400">
 </p>
 
 <p style="display:block;text-align:center">(Morganucodon)</p>
@@ -1071,7 +1054,9 @@ Ces bactéries profitent de la protection offerte par les éponges pour survivre
 
 # - 4 000 000 d'années
 
-<p>Le climat de la planète change, transformant les forêts africaines en savanes. Ce nouveau climat plus chaud modifie l'habitat, obligeant les premiers primates à marcher plus loin pour se nourrir et à se tenir toujours plus debout.</p>
+<p>Les Australopithèques apparaissent en Afrique. Ils marchent debout.</p>
+
+<p>Le paysage africain est une mosaïque : forêts, bois clairs, prairies, bords de lacs. Les Australopithèques y circulent, bipèdes au sol, encore bons grimpeurs. Leurs mains libérées peuvent porter, saisir, transporter.</p>
 
 ## - 2 800 000 années
 
@@ -1785,7 +1770,7 @@ C’est la plus ancienne trace d’un imaginaire mythologique, où l’humain et
 
 <p>Construction de la Pyramide de Gizeh. Elle est la plus grande des pyramides égyptiennes et l'une des Sept Merveilles du monde antique. Elle est érigée pour le pharaon Khéops. Ce monument sert de tombeau pour assurer la transition du pharaon vers l'au-delà, selon les croyances égyptiennes. Sa construction reflète les avancées techniques et l'organisation sociale de l'Égypte ancienne, mobilisant des ressources considérables et démontrant l'importance de la vie après la mort dans la culture égyptienne.</p>
 
-<p>Les premières traces d'olives en Égypte remontent à la IVᵉ dynastie (vers 2551-2523 av. J.-C.), où des branches d'olivier sont importées, probablement du Levant, et utilisées lors de cérémonies religieuses et comme offrandes funéraires. En raison de la rareté de la production locale et de la nécessité d'importer, l'huile d'olive est considérée comme un produit de luxe, principalement réservé aux élites et aux cérémonies religieuses.</p>
+<p>Les premières traces d'olives en Égypte remontent à la IVᵉ dynastie, où des branches d'olivier sont importées, probablement du Levant, et utilisées lors de cérémonies religieuses et comme offrandes funéraires. En raison de la rareté de la production locale et de la nécessité d'importer, l'huile d'olive est considérée comme un produit de luxe, principalement réservé aux élites et aux cérémonies religieuses.</p>
 
 ## -2400 ans
 
