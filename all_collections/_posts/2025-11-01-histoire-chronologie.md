@@ -192,6 +192,10 @@ tags: technology
 
 # -9 000 000 000 d'années
 
+<p style="text-align:center">
+  <img src="/assets/img/gazFroid.svg" alt="Gif 2" width="700">
+</p>
+
 <p>Le gaz interstellaire commence à s'appauvrir, et la création de nouvelles étoiles — donc de supernovæ, du moins celles issues d'étoiles massives — ralentit lentement. Plusieurs effets se conjuguent. Les réservoirs de gaz froid (surtout l'hydrogène, sous forme moléculaire) qui alimentent la naissance des étoiles se consomment vite — en un à deux milliards d'années à peine — et dépendent donc d'un réapprovisionnement continu ; or l'Univers, en s'étendant, apporte de moins en moins de gaz frais aux galaxies via les filaments cosmiques. C'est ce tarissement de l'accrétion, plus encore que l'épuisement des réserves internes, qui pilote le déclin. Les supernovæ et les vents stellaires chassent une partie du gaz hors des galaxies, tandis que, dans les plus massives, le gaz qui tombe est chauffé par choc à des millions de degrés et que la rétroaction des trous noirs supermassifs entretient cette température, empêchant le refroidissement. Résultat : le taux de formation stellaire chute progressivement dans la plupart des galaxies — de moins en moins d'étoiles naissent à mesure que le temps avance.</p>
 
 # -8 000 000 000 d'années
