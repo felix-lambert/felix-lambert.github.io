@@ -348,7 +348,10 @@ tags: technology
 
 # -4 000 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/bombardementtardif.webp' | relative_url }}" alt="Grand bombardement tardif" loading="lazy" decoding="async" width="1200" height="1508" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/bombardementtardif.webp' | relative_url }}" alt="Grand bombardement tardif" loading="lazy" decoding="async" width="1200" height="1508" />
+  <br /><small><em>Le grand bombardement tardif : une pluie d'astéroïdes qui apporte aussi de l'eau et des molécules organiques.</em></small>
+</p>
 
 <p>La Terre sort à peine du grand bombardement. Les impacts restent fréquents, mais leur cadence commence enfin à décroître — la pluie de débris s'épuise.</p>
 
@@ -421,7 +424,10 @@ tags: technology
 
 # -2 800 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/cyanobacteries.webp' | relative_url }}" alt="Cyanobactéries" loading="lazy" decoding="async" width="501" height="334" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cyanobacteries.webp' | relative_url }}" alt="Cyanobactéries" loading="lazy" decoding="async" width="501" height="334" />
+  <br /><small><em>Des cyanobactéries : les inventeuses de la photosynthèse, qui rejettent l'oxygène comme un simple déchet.</em></small>
+</p>
 
 <p>Les cyanobactéries produisent déjà de l’oxygène, mais il est immédiatement absorbé par les océans et les roches, le climat reste chaud, bien que sujet à des refroidissements passagers, et l’atmosphère ne contient pas encore d’oxygène libre significatif.</p>
 
@@ -477,7 +483,10 @@ tags: technology
 
 # -2 100 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/volcanco2.webp' | relative_url }}" alt="Éruption volcanique" loading="lazy" decoding="async" width="1200" height="882" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/volcanco2.webp' | relative_url }}" alt="Éruption volcanique" loading="lazy" decoding="async" width="1200" height="882" />
+  <br /><small><em>Les volcans réinjectent sans cesse du CO2 dans l'atmosphère : c'est le thermostat de long terme de la planète.</em></small>
+</p>
 
 <p>Les volcans, eux, n'ont jamais cessé leur travail. Éruption après éruption, ils réinjectent du CO2 dans l'atmosphère, reconstituant peu à peu l'effet de serre. Les glaces reculent : la Terre sort de la glaciation huronienne et le climat se réchauffe.</p>
 
@@ -528,7 +537,10 @@ tags: technology
 
 # -1 400 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/bangiomorpha.webp' | relative_url }}" alt="Bangiomorpha, première algue rouge" loading="lazy" decoding="async" width="447" height="1169" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/bangiomorpha.webp' | relative_url }}" alt="Bangiomorpha, première algue rouge" loading="lazy" decoding="async" width="447" height="1169" />
+  <br /><small><em>Bangiomorpha : la plus ancienne algue rouge connue, et l'un des premiers organismes à reproduction sexuée.</em></small>
+</p>
 
 <p>Les descendantes de la cellule au chloroplaste se diversifient : ce sont les premières algues, les premiers organismes photosynthétiques eucaryotes. On retrouve leurs fossiles dans les environnements marins peu profonds, là où la lumière pénètre. Parmi elles, les ancêtres des algues rouges, dont descendra Bangiomorpha — l'un des plus anciens organismes multicellulaires connus, que nous retrouverons.</p>
 
@@ -536,13 +548,19 @@ tags: technology
 
 # -1 300 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/champignons.webp' | relative_url }}" alt="Mycélium" loading="lazy" decoding="async" width="1200" height="540" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/champignons.webp' | relative_url }}" alt="Mycélium" loading="lazy" decoding="async" width="1200" height="540" />
+  <br /><small><em>Le mycélium : un réseau de filaments qui digère la matière organique là où il pousse.</em></small>
+</p>
 
 <p>C'est peut-être vers cette époque — les horloges moléculaires le suggèrent, mais les fossiles manquent encore — que les premiers champignons apparaissent dans l'eau, issus d'ancêtres unicellulaires. Contrairement aux algues, ils ne font pas de photosynthèse : ils décomposent la matière qui existe déjà et absorbent les nutriments libérés. Certains s'aventureront tôt sur la terre humide, où ce talent de décomposeurs fera d'eux, bien plus tard, les indispensables alliés des premières plantes terrestres.</p>
 
 # -1 200 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/reproductionsexuee.webp' | relative_url }}" alt="Méiose" loading="lazy" decoding="async" width="1200" height="974" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/reproductionsexuee.webp' | relative_url }}" alt="Méiose" loading="lazy" decoding="async" width="1200" height="974" />
+  <br /><small><em>La reproduction sexuée : deux individus mêlent leurs gènes, et la diversité des descendants explose.</em></small>
+</p>
 
 <p>Au plus tard vers cette époque, certains eucaryotes pratiquent une invention qui va tout accélérer : la reproduction sexuée. Jusqu'ici, les êtres vivants se copiaient eux-mêmes, à l'identique, comme des clones. Désormais, deux individus différents mélangent leur ADN pour créer un nouvel être unique, qui n'est la copie d'aucun de ses deux parents. C'est d'ailleurs dans une algue rouge fossile, Bangiomorpha, qu'on en trouve la plus ancienne trace.</p>
 
@@ -624,7 +642,10 @@ tags: technology
 
 # -740 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/rodinia.webp' | relative_url }}" alt="Le supercontinent Rodinia" loading="lazy" decoding="async" width="800" height="800" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/rodinia.webp' | relative_url }}" alt="Le supercontinent Rodinia" loading="lazy" decoding="async" width="800" height="800" />
+  <br /><small><em>Rodinia : le supercontinent dont la dislocation entraînera la Terre vers ses plus grandes glaciations.</em></small>
+</p>
 
 <p>La fragmentation de Rodinia bat son plein. Les morceaux du supercontinent se dispersent — et, par un hasard lourd de conséquences, ils dérivent presque tous vers la zone tropicale, de part et d'autre de l'équateur.</p>
 
@@ -634,7 +655,10 @@ tags: technology
 
 # -720 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/trapsfranklin.webp' | relative_url }}" alt="Trapp volcanique" loading="lazy" decoding="async" width="1200" height="797" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/trapsfranklin.webp' | relative_url }}" alt="Trapp volcanique" loading="lazy" decoding="async" width="1200" height="797" />
+  <br /><small><em>Un trapp volcanique : des éruptions si vastes qu'elles noient des régions entières sous le basalte.</em></small>
+</p>
 
 <p>L'épisode le plus spectaculaire de l'éclatement de Rodinia survient dans ce qui est aujourd'hui l'Arctique canadien : une éruption de très grande ampleur, dont les roches sont riches en soufre. Une énorme quantité de ce gaz est projetée jusque dans la stratosphère, où les particules de soufre forment un voile qui réfléchit la lumière du soleil — refroidissant la planète entière.</p>
 
@@ -655,7 +679,10 @@ tags: technology
 
 # -660 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/volcanglace.webp' | relative_url }}" alt="Volcan sous la glace" loading="lazy" decoding="async" width="1200" height="797" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/volcanglace.webp' | relative_url }}" alt="Volcan sous la glace" loading="lazy" decoding="async" width="1200" height="797" />
+  <br /><small><em>Un volcan sous la glace : sous la carapace, les éruptions continuent d'injecter du CO2 dans l'atmosphère.</em></small>
+</p>
 
 <p>Mais sous la glace, les volcans n'ont jamais cessé leur travail. Éruption après éruption, ils percent la carapace et crachent leur CO2 dans l'atmosphère — et cette fois, rien ne le retire : la glace recouvre les basaltes, stoppant leur altération, et scelle l'océan, qui ne peut plus absorber le carbone. La pompe qui avait déclenché la glaciation est cassée. Pendant des millions d'années, le CO2 s'accumule dans le ciel, sans contrepoids.</p>
 
@@ -679,7 +706,10 @@ tags: technology
 
 # -630 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/capcarbonate.webp' | relative_url }}" alt="Efflorescence d'algues" loading="lazy" decoding="async" width="1200" height="1240" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/capcarbonate.webp' | relative_url }}" alt="Efflorescence d'algues" loading="lazy" decoding="async" width="1200" height="1240" />
+  <br /><small><em>Une efflorescence d'algues : à la fonte des glaces, les nutriments arrachés aux roches nourrissent une explosion de vie.</em></small>
+</p>
 
 <p>Les grandes glaciations ont laissé un cadeau inattendu. En rabotant les continents, les glaciers ont broyé les roches en poussière fine ; à la fonte, les eaux de ruissellement ont déversé dans l'océan un festin de nutriments — du phosphore, surtout. Et dans cet océan enrichi, un groupe attend son heure depuis près d'un milliard d'années : les algues.</p>
 
@@ -691,7 +721,10 @@ tags: technology
 
 # -600 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/eponges.webp' | relative_url }}" alt="Éponges" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/eponges.webp' | relative_url }}" alt="Éponges" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Des éponges : elles pompent l'eau à travers les milliers de pores de leur corps et filtrent tout ce qui s'y trouve.</em></small>
+</p>
 
 <p>La vie animale reste marginale : quelques éponges, quelques êtres mous et simples, dans un monde toujours dominé par les microbes et les algues. Mais le niveau d'oxygène dans les océans monte, régulièrement — et avec lui, les possibilités.</p>
 
@@ -716,7 +749,10 @@ tags: technology
 
 # -555 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/kimberella.webp' | relative_url }}" alt="Kimberella" loading="lazy" decoding="async" width="1200" height="1625" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/kimberella.webp' | relative_url }}" alt="Kimberella" loading="lazy" decoding="async" width="1200" height="1625" />
+  <br /><small><em>Kimberella : quelques centimètres, probable ancêtre des mollusques, qui raclait les tapis microbiens des fonds marins.</em></small>
+</p>
 
 <p>Un petit être annonce la fin de cette innocence : Kimberella. Long de quelques centimètres, probable ancêtre des mollusques, il rampe sur les fonds et racle les tapis microbiens pour se nourrir — l'un de ces nouveaux animaux à bouche et à anus, avec un avant et un arrière.</p>
 
@@ -724,7 +760,10 @@ tags: technology
 
 # -550 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/cloudina.webp' | relative_url }}" alt="Cloudina" loading="lazy" decoding="async" width="800" height="600" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cloudina.webp' | relative_url }}" alt="Cloudina" loading="lazy" decoding="async" width="800" height="600" />
+  <br /><small><em>Cloudina : de petits cônes empilés, l'une des toutes premières coquilles minérales — certaines portent des trous de prédateurs.</em></small>
+</p>
 
 <p>Apparaissent alors les premières coquilles : Cloudina, un petit animal en forme de cônes empilés, invente la carapace minérale. Se protéger — mais de quoi, de qui ?</p>
 
@@ -734,7 +773,10 @@ tags: technology
 
 # -539 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/explosioncambrienne.webp' | relative_url }}" alt="Explosion cambrienne" loading="lazy" decoding="async" width="1200" height="691" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/explosioncambrienne.webp' | relative_url }}" alt="Explosion cambrienne" loading="lazy" decoding="async" width="1200" height="691" />
+  <br /><small><em>L'explosion cambrienne : en trente millions d'années, presque tous les grands plans d'organisation animale apparaissent.</em></small>
+</p>
 
 <p>Et soudain, tout s'accélère. C'est le début du Cambrien — et de l'explosion cambrienne : sur les 30 millions d'années qui suivent, la vie animale va se diversifier à une vitesse jamais vue avant ni depuis. Presque tous les grands groupes d'animaux qui existent aujourd'hui vont apparaître durant cette période.</p>
 
@@ -825,7 +867,10 @@ tags: technology
 
 # -500 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/paleogeocambrien.webp' | relative_url }}" alt="Paléogéographie du Cambrien" loading="lazy" decoding="async" width="1200" height="602" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/paleogeocambrien.webp' | relative_url }}" alt="Paléogéographie du Cambrien" loading="lazy" decoding="async" width="1200" height="602" />
+  <br /><small><em>La paléogéographie du Cambrien : des continents dispersés et de vastes mers peu profondes, propices à la vie.</em></small>
+</p>
 
 <p>Les îles et les continents — toujours nus, sans plantes ni animaux, seulement vernis de croûtes microbiennes — se déplacent constamment, ouvrant de nouvelles mers peu profondes, de nouveaux habitats, de nouvelles niches.</p>
 
@@ -1000,7 +1045,10 @@ tags: technology
 
 # -350 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/foretcarbonifere.webp' | relative_url }}" alt="Forêt du Carbonifère" loading="lazy" decoding="async" width="1200" height="424" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/foretcarbonifere.webp' | relative_url }}" alt="Forêt du Carbonifère" loading="lazy" decoding="async" width="1200" height="424" />
+  <br /><small><em>Une forêt du Carbonifère : des arbres de quarante mètres dont les troncs enfouis deviendront le charbon.</em></small>
+</p>
 
 <p>Les feuilles larges — apparues timidement chez les premiers arbres comme Archaeopteris — se généralisent enfin dans le monde végétal. Leur principe : offrir un maximum de surface au soleil. Une feuille est un panneau solaire vivant, percé de milliers de pores microscopiques (les stomates) qui absorbent le CO2, et irrigué de nervures qui apportent l'eau et exportent les sucres fabriqués par la photosynthèse.</p>
 
@@ -1032,13 +1080,19 @@ tags: technology
 
 # -310 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/appalaches.webp' | relative_url }}" alt="Les Appalaches" loading="lazy" decoding="async" width="859" height="644" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/appalaches.webp' | relative_url }}" alt="Les Appalaches" loading="lazy" decoding="async" width="859" height="644" />
+  <br /><small><em>Les Appalaches : ce qui reste, érodé, de la chaîne soulevée par la collision qui a formé la Pangée.</em></small>
+</p>
 
 <p>Pendant ce temps, les continents achèvent leur lente collision. Laurussia au nord, Gondwana au sud : leur choc soulève des chaînes de montagnes gigantesques et soude, morceau après morceau, toutes les terres émergées en un seul bloc — la Pangée, le supercontinent ultime. Sa silhouette dessine un immense C ouvert vers l'est, enserrant une mer intérieure : la Téthys. Tout le reste du globe n'est qu'un océan unique et démesuré, Panthalassa.</p>
 
 # -305 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/pangee.webp' | relative_url }}" alt="La Pangée" loading="lazy" decoding="async" width="1200" height="600" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/pangee.webp' | relative_url }}" alt="La Pangée" loading="lazy" decoding="async" width="1200" height="600" />
+  <br /><small><em>La Pangée : toutes les terres émergées soudées en un seul continent, entouré d'un océan unique.</em></small>
+</p>
 
 <p>Ce monde unifié a un revers. Les terres du cœur de la Pangée — les futures Amérique du Nord, Amérique du Sud et Afrique — sont désormais si loin de toute mer que les pluies ne les atteignent plus : les précipitations s'effondrent, et de gigantesques déserts s'étendent au centre du supercontinent.</p>
 
@@ -1071,7 +1125,10 @@ tags: technology
 
 # -290 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/dimetrodon.webp' | relative_url }}" alt="Dimetrodon" loading="lazy" decoding="async" width="1200" height="744" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/dimetrodon.webp' | relative_url }}" alt="Dimetrodon" loading="lazy" decoding="async" width="1200" height="744" />
+  <br /><small><em>Dimetrodon : malgré l'allure, ce n'est pas un dinosaure mais un synapside — plus proche de nous que des reptiles.</em></small>
+</p>
 
 <p>Le monde sec s'est installé pour de bon. Au cœur de la Pangée, le climat est devenu extrême et continental : étés brûlants, hivers glacials, pluies rares. Des déserts semblables au Sahara ou à l'Australie centrale actuels s'étendent sur des millions de kilomètres carrés, et la végétation se réfugie vers les côtes et les zones tempérées.</p>
 
@@ -1122,7 +1179,10 @@ tags: technology
 
 # -230 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/eoraptor.webp' | relative_url }}" alt="Eoraptor" loading="lazy" decoding="async" width="1200" height="893" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/eoraptor.webp' | relative_url }}" alt="Eoraptor" loading="lazy" decoding="async" width="1200" height="893" />
+  <br /><small><em>Eoraptor : un mètre de long, bipède — l'un des tout premiers dinosaures connus.</em></small>
+</p>
 
 <p>La vie a pansé ses plaies, et le monde du Trias a un parfum nouveau : chaud, sec, dominé par les reptiles. C'est dans ce monde que se glissent, discrets, les premiers dinosaures connus. Dans ce qui est aujourd'hui l'Argentine trottinent sur leurs pattes arrière Eoraptor — un mètre de long à peine, léger, vif, omnivore opportuniste — et Herrerasaurus, son cousin carnivore plus imposant.</p>
 
@@ -1132,7 +1192,10 @@ tags: technology
 
 # -218 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/morganucodon.webp' | relative_url }}" alt="Morganucodon" loading="lazy" decoding="async" width="1200" height="587" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/morganucodon.webp' | relative_url }}" alt="Morganucodon" loading="lazy" decoding="async" width="1200" height="587" />
+  <br /><small><em>Morganucodon : la taille d'une musaraigne, nocturne et discret — l'un des tout premiers mammifères.</em></small>
+</p>
 
 <p>Quelque part dans les fourrés du Trias, un événement discret nous concerne directement : les premiers vrais mammifères apparaissent. La frontière exacte est floue — les fossiles de cette époque sont rares et fragmentaires, et des caractères comme les poils ou le lait ne se fossilisent pas — mais les paléontologues s'accordent sur le portrait : une minuscule créature à l'allure de musaraigne, quelques centimètres, bien moins d'un kilo, insectivore et probablement nocturne.</p>
 
@@ -1148,7 +1211,10 @@ tags: technology
 
 # -201 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/camp.webp' | relative_url }}" alt="Basalte de la province magmatique centre-atlantique" loading="lazy" decoding="async" width="432" height="318" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/camp.webp' | relative_url }}" alt="Basalte de la province magmatique centre-atlantique" loading="lazy" decoding="async" width="432" height="318" />
+  <br /><small><em>Les basaltes de la province magmatique centre-atlantique : la déchirure de la Pangée noie des régions entières sous la lave.</em></small>
+</p>
 
 <p>L'histoire bégaie : comme à la fin du Permien, ce sont d'immenses éruptions volcaniques qui frappent. La Pangée commence à se déchirer — cette déchirure ouvrira l'océan Atlantique — et le long de la fracture, des laves colossales se déversent pendant des centaines de milliers d'années, libérant des torrents de CO2 et de gaz soufrés.</p>
 
@@ -1199,7 +1265,10 @@ tags: technology
 
 # -165 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/pollinisation.webp' | relative_url }}" alt="Insecte pollinisateur" loading="lazy" decoding="async" width="1200" height="1068" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/pollinisation.webp' | relative_url }}" alt="Insecte pollinisateur" loading="lazy" decoding="async" width="1200" height="1068" />
+  <br /><small><em>La pollinisation par les insectes : un service rendu sans intention, qui deviendra l'une des grandes alliances du vivant.</em></small>
+</p>
 
 <p>Une scène minuscule, aux conséquences immenses : un insecte se pose sur une plante pour y siroter les gouttelettes sucrées qu'elle produit — et repart, sans le savoir, saupoudré de pollen qu'il déposera sur la plante suivante. La pollinisation par les insectes est en marche.</p>
 
@@ -1252,7 +1321,10 @@ tags: technology
 
 # -100 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/najash.webp' | relative_url }}" alt="Najash, serpent primitif" loading="lazy" decoding="async" width="1200" height="796" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/najash.webp' | relative_url }}" alt="Najash, serpent primitif" loading="lazy" decoding="async" width="1200" height="796" />
+  <br /><small><em>Najash : un serpent primitif qui possède encore ses pattes arrière.</em></small>
+</p>
 
 <p>Deux nouveaux venus font leur entrée — deux futurs grands noms.</p>
 
@@ -1262,7 +1334,10 @@ tags: technology
 
 # -95 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/sarcosuchus.webp' | relative_url }}" alt="Sarcosuchus" loading="lazy" decoding="async" width="1200" height="1426" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/sarcosuchus.webp' | relative_url }}" alt="Sarcosuchus" loading="lazy" decoding="async" width="1200" height="1426" />
+  <br /><small><em>Sarcosuchus : un crocodilien de plus de dix mètres, embusqué au bord de l'eau.</em></small>
+</p>
 
 <p>Les crocodiles nouvelle formule font leur entrée — les vrais, ceux dont descendent directement nos crocodiles, alligators et gavials.</p>
 
@@ -1272,7 +1347,10 @@ tags: technology
 
 # -80 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/merinterieure.webp' | relative_url }}" alt="La voie maritime intérieure de l'Ouest" loading="lazy" decoding="async" width="1200" height="1476" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/merinterieure.webp' | relative_url }}" alt="La voie maritime intérieure de l'Ouest" loading="lazy" decoding="async" width="1200" height="1476" />
+  <br /><small><em>La voie maritime intérieure de l'Ouest : au Crétacé, une mer coupe l'Amérique du Nord en deux.</em></small>
+</p>
 
 <p>La Terre vit l'un des climats les plus chauds de son histoire : pas de calottes polaires, des forêts jusqu'au cercle arctique — et des océans qui débordent. Le niveau des mers, parmi les plus hauts de tous les temps, noie de vastes régions des continents sous des mers peu profondes et tièdes. L'Amérique du Nord est littéralement coupée en deux par un bras de mer, la Voie maritime intérieure de l'Ouest, qui court de l'Arctique au golfe du Mexique. L'Europe n'est qu'un archipel d'îles tropicales.</p>
 
@@ -1282,7 +1360,10 @@ tags: technology
 
 # -70 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/triceratops.webp' | relative_url }}" alt="Triceratops" loading="lazy" decoding="async" width="1200" height="554" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/triceratops.webp' | relative_url }}" alt="Triceratops" loading="lazy" decoding="async" width="1200" height="554" />
+  <br /><small><em>Triceratops : trois cornes et une collerette osseuse, face aux prédateurs de la fin du Crétacé.</em></small>
+</p>
 
 <p>Le règne des dinosaures est à son zénith — et il est planétaire. On trouve des dinosaures sur absolument toutes les terres, jusqu'aux pôles : en Alaska, des troupeaux d'herbivores affrontent des mois de nuit polaire et de neige, preuve que ces animaux n'ont rien des reptiles frileux qu'on a longtemps imaginés — beaucoup sont actifs, sociaux, et au sang au moins partiellement chaud ; nombre d'entre eux portent des plumes.</p>
 
@@ -1337,7 +1418,10 @@ tags: technology
 
 # -56 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/petm.webp' | relative_url }}" alt="Maximum thermique Paléocène-Éocène" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/petm.webp' | relative_url }}" alt="Maximum thermique Paléocène-Éocène" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Le maximum thermique Paléocène-Éocène : un réchauffement brutal, déclenché par un relâchement massif de carbone.</em></small>
+</p>
 
 <p>La serre planétaire connaît soudain un coup de chaud brutal — l'un des plus violents de l'histoire. En quelques dizaines de milliers d'années (un claquement de doigts géologique), d'énormes quantités de carbone sont relâchées dans l'atmosphère — volcanisme de l'Atlantique Nord en pleine ouverture, méthane libéré des fonds marins : les causes exactes sont débattues. Résultat : la température globale bondit de 5 à 8 °C. Les scientifiques appellent cet épisode le PETM — et l'étudient de près, car c'est l'analogue naturel le plus proche du réchauffement que nous provoquons aujourd'hui (à ceci près que nous relâchons le carbone environ dix fois plus vite).</p>
 
@@ -1347,7 +1431,10 @@ tags: technology
 
 # -54 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/icaronycteris.webp' | relative_url }}" alt="Icaronycteris, chauve-souris fossile" loading="lazy" decoding="async" width="872" height="1215" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/icaronycteris.webp' | relative_url }}" alt="Icaronycteris, chauve-souris fossile" loading="lazy" decoding="async" width="872" height="1215" />
+  <br /><small><em>Icaronycteris : une chauve-souris fossile qui volait déjà comme les actuelles.</em></small>
+</p>
 
 <p>Les mammifères réussissent ce qu'aucun autre n'accomplira jamais : le vol battu. Voici les chauves-souris — et leur solution est d'une élégance folle : des doigts démesurément allongés, reliés par une fine membrane de peau. Là où l'oiseau vole avec ses bras, la chauve-souris vole littéralement avec ses mains.</p>
 
@@ -1383,7 +1470,10 @@ tags: technology
 
 # -45 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/separationaustralie.webp' | relative_url }}" alt="Séparation de l'Australie et de l'Antarctique" loading="lazy" decoding="async" width="788" height="849" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/separationaustralie.webp' | relative_url }}" alt="Séparation de l'Australie et de l'Antarctique" loading="lazy" decoding="async" width="788" height="849" />
+  <br /><small><em>L'Australie se détache de l'Antarctique et remonte vers le nord, avec sa cargaison de marsupiaux.</em></small>
+</p>
 
 <p>Les derniers morceaux du Gondwana achèvent de se dire adieu : l'Australie se détache de l'Antarctique et entame sa lente remontée vers le nord. Sur son radeau continental, une cargaison de marsupiaux évoluera désormais en vase clos, à l'abri de toute concurrence extérieure — c'est pourquoi kangourous, koalas et wombats n'existeront nulle part ailleurs au monde.</p>
 
@@ -1391,7 +1481,10 @@ tags: technology
 
 # -34 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/passagedrake.webp' | relative_url }}" alt="Le passage de Drake" loading="lazy" decoding="async" width="1200" height="797" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/passagedrake.webp' | relative_url }}" alt="Le passage de Drake" loading="lazy" decoding="async" width="1200" height="797" />
+  <br /><small><em>Le passage de Drake s'ouvre : un courant se met à tourner autour de l'Antarctique et l'isole du reste du monde.</em></small>
+</p>
 
 <p>Le piège se referme. L'Amérique du Sud lâche l'Antarctique à son tour : le passage de Drake s'ouvre, et un courant marin géant se met à tourner en boucle ininterrompue autour du continent polaire — le courant circumpolaire antarctique, le plus puissant de la planète. Cet anneau d'eau glacée coupe l'Antarctique de toute chaleur tropicale. Dans le même temps, le CO2, pompé depuis des millions d'années par l'altération de l'Himalaya, est tombé sous un seuil critique.</p>
 
@@ -1403,7 +1496,10 @@ tags: technology
 
 # -30 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/prairies.webp' | relative_url }}" alt="Prairies et savanes" loading="lazy" decoding="async" width="1200" height="765" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/prairies.webp' | relative_url }}" alt="Prairies et savanes" loading="lazy" decoding="async" width="1200" height="765" />
+  <br /><small><em>Les prairies et les savanes gagnent du terrain : un monde plus frais, plus sec et plus ouvert.</em></small>
+</p>
 
 <p>Le monde nouveau — plus frais, plus sec, plus ouvert — prend ses marques. Les paysages dégagés grignotent les forêts, et les herbes, ces plantes discrètes qui ne paient pas de mine, commencent leur lente conquête : elles seront bientôt le fondement d'un écosystème entièrement neuf, la savane.</p>
 
@@ -1415,7 +1511,10 @@ tags: technology
 
 # -20 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/merychippus.webp' | relative_url }}" alt="Merychippus" loading="lazy" decoding="async" width="1200" height="1026" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/merychippus.webp' | relative_url }}" alt="Merychippus" loading="lazy" decoding="async" width="1200" height="1026" />
+  <br /><small><em>Merychippus : des dents à croissance continue, pour brouter une herbe chargée de silice abrasive.</em></small>
+</p>
 
 <p>Le monde ouvert poursuit sa conquête. Les savanes et les prairies gagnent du terrain, les forêts tempérées s'étendent — et les herbivores changent d'école : brouter l'herbe, chargée de silice abrasive, exige des dents robustes à croissance continue ; courir à découvert exige des jambes. Les grandes familles modernes prennent leur essor : rhinocéros, premiers girafidés (encore à cou court, façon gros okapis), et les félins, qui font de la savane naissante leur terrain de chasse.</p>
 
@@ -1458,7 +1557,10 @@ tags: technology
 
 # -4 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/australopitheques.webp' | relative_url }}" alt="Australopithèque" loading="lazy" decoding="async" width="750" height="632" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/australopitheques.webp' | relative_url }}" alt="Australopithèque" loading="lazy" decoding="async" width="750" height="632" />
+  <br /><small><em>Les australopithèques : bipèdes accomplis au sol, mais encore bons grimpeurs.</em></small>
+</p>
 
 <p>Les australopithèques apparaissent en Afrique. Le paysage qu'ils habitent est une mosaïque : forêts, bois clairs, prairies, bords de lacs. Ils y circulent debout — bipèdes accomplis au sol, mais encore bons grimpeurs, gardant les arbres comme refuge pour la nuit et les dangers. Leurs mains libérées peuvent porter, saisir, transporter.</p>
 
@@ -1477,7 +1579,10 @@ tags: technology
 
 # -3 300 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/lomekwi.webp' | relative_url }}" alt="Outils de Lomekwi" loading="lazy" decoding="async" width="992" height="735" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/lomekwi.webp' | relative_url }}" alt="Outils de Lomekwi" loading="lazy" decoding="async" width="992" height="735" />
+  <br /><small><em>Les outils de Lomekwi : des pierres taillées antérieures au genre Homo — si la datation tient.</em></small>
+</p>
 
 <p>Surprise au bord du lac Turkana, au Kenya : des pierres taillées — frustes, lourdes, maladroites, mais indiscutablement façonnées. Or à cette date, le genre Homo n'existe pas encore. Si la découverte dit vrai (elle reste débattue), les premiers tailleurs de pierre seraient donc des australopithèques — la technologie serait plus vieille que l'humanité elle-même.</p>
 
@@ -1492,7 +1597,10 @@ tags: technology
 
 # -2 800 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/ledigeraru.webp' | relative_url }}" alt="Mandibule de Ledi-Geraru" loading="lazy" decoding="async" width="1200" height="1302" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/ledigeraru.webp' | relative_url }}" alt="Mandibule de Ledi-Geraru" loading="lazy" decoding="async" width="1200" height="1302" />
+  <br /><small><em>La mandibule de Ledi-Geraru, en Éthiopie : le plus ancien fossile attribué au genre Homo.</em></small>
+</p>
 
 <p>Une mandibule retrouvée à Ledi-Geraru, en Éthiopie, marque l'entrée en scène du genre humain : Homo. Il est issu d'une lignée d'homininés bipèdes du groupe des australopithèques — Australopithecus, « singe du sud », ainsi nommé d'après le premier fossile découvert en Afrique australe. L'espèce ancestrale exacte reste toutefois inconnue, et les premiers Homo coexisteront longtemps avec des australopithèques, plutôt que de leur succéder nettement : notre arbre généalogique est un buisson, pas une échelle.</p>
 
@@ -1561,7 +1669,10 @@ tags: technology
 
 # -1 400 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/feuprehistorique.webp' | relative_url }}" alt="Foyer" loading="lazy" decoding="async" width="1200" height="1200" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/feuprehistorique.webp' | relative_url }}" alt="Foyer" loading="lazy" decoding="async" width="1200" height="1200" />
+  <br /><small><em>Un foyer : os brûlés, sédiments chauffés, cendres — les premières traces sérieuses du feu entretenu.</em></small>
+</p>
 
 <p>Les foyers laissent leurs premières traces sérieuses : os brûlés, sédiments chauffés, cendres dans les grottes. Homo erectus est en train d'accomplir une conquête qu'aucun animal n'a jamais faite et ne fera jamais : la maîtrise du feu. D'abord sans doute capturé — une branche enflammée par la foudre, entretenue précieusement — avant d'être, bien plus tard, produit à volonté.</p>
 
@@ -1571,7 +1682,10 @@ tags: technology
 
 # -1 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/homoerectus.webp' | relative_url }}" alt="Homo erectus" loading="lazy" decoding="async" width="1200" height="1407" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/homoerectus.webp' | relative_url }}" alt="Homo erectus" loading="lazy" decoding="async" width="1200" height="1407" />
+  <br /><small><em>Homo erectus : la première espèce humaine véritablement mondiale, de l'Afrique australe à Java.</em></small>
+</p>
 
 <p>Le pari d'erectus est gagné : parti d'Afrique 800 000 ans plus tôt, il est désormais durablement installé sur trois continents — de l'Afrique australe à Java, de la Géorgie à la Chine. Première espèce humaine véritablement mondiale, il prospère sous les climats les plus divers, armé de ses bifaces et de son feu. Et l'Europe entre à son tour sur la carte : à Atapuerca, en Espagne, vivent les plus anciens Européens connus.</p>
 
@@ -1579,7 +1693,10 @@ tags: technology
 
 # -900 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/calottesglaciaires.webp' | relative_url }}" alt="Inlandsis du dernier maximum glaciaire" loading="lazy" decoding="async" width="1200" height="878" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/calottesglaciaires.webp' | relative_url }}" alt="Inlandsis du dernier maximum glaciaire" loading="lazy" decoding="async" width="1200" height="878" />
+  <br /><small><em>Les inlandsis : quand ils avancent, ils emprisonnent assez d'eau pour faire chuter la mer de plus de cent mètres.</em></small>
+</p>
 
 <p>Le nouveau régime climatique montre son visage. Lorsque les glaces avancent, elles emprisonnent tant d'eau que le niveau des mers chute de plus de 100 mètres : des terres aujourd'hui englouties émergent alors — un pont entre la Sibérie et l'Alaska, des plaines reliant l'Asie du Sud-Est à ses îles, une Manche à sec entre France et Angleterre. À chaque âge glaciaire, ces autoroutes provisoires s'ouvrent aux migrations des bêtes et des humains ; à chaque redoux, la mer les referme.</p>
 
@@ -1587,7 +1704,10 @@ tags: technology
 
 # -780 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/gesherbenot.webp' | relative_url }}" alt="Gesher Benot Yaaqov" loading="lazy" decoding="async" width="1200" height="1196" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/gesherbenot.webp' | relative_url }}" alt="Gesher Benot Yaaqov" loading="lazy" decoding="async" width="1200" height="1196" />
+  <br /><small><em>Gesher Benot Ya'aqov, au bord du Jourdain : des foyers entretenus au même endroit pendant des générations.</em></small>
+</p>
 
 <p>Au bord du Jourdain, en Israël, le site de Gesher Benot Ya'aqov transforme l'hypothèse du feu en certitude : des foyers y ont été entretenus et rallumés au même endroit pendant des générations, entourés d'os et de végétaux brûlés. Ce n'est plus un feu de fortune capturé à l'occasion — c'est un feu domestique, un équipement permanent du campement.</p>
 
@@ -1595,7 +1715,10 @@ tags: technology
 
 # -600 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/heidelbergensis.webp' | relative_url }}" alt="Homo heidelbergensis" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/heidelbergensis.webp' | relative_url }}" alt="Homo heidelbergensis" loading="lazy" decoding="async" width="1200" height="1800" />
+  <br /><small><em>Homo heidelbergensis : plus grand et plus encéphalisé qu'erectus, chasseur de gros gibier armé d'épieux.</em></small>
+</p>
 
 <p>Une nouvelle vague humaine se répand hors d'Afrique : plus grande, plus encéphalisée qu'erectus — les paléontologues la regroupent sous le nom d'Homo heidelbergensis. Chasseurs de gros gibier armés d'épieux, maîtres du feu, ils s'installent de l'Afrique à l'Europe et à l'Asie.</p>
 
@@ -1679,7 +1802,10 @@ tags: technology
 
 # -110 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ngandong.webp' | relative_url }}" alt="Homo erectus de Ngandong" loading="lazy" decoding="async" width="1200" height="870" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/ngandong.webp' | relative_url }}" alt="Homo erectus de Ngandong" loading="lazy" decoding="async" width="1200" height="870" />
+  <br /><small><em>Les derniers Homo erectus de Ngandong, à Java : l'espèce s'éteint après près de deux millions d'années.</em></small>
+</p>
 
 <p>À Java, au bord de la rivière Solo, s'éteignent les derniers Homo erectus. Disparue des continents depuis des centaines de milliers d'années, l'espèce avait trouvé refuge sur son île — et elle s'efface comme elle a vécu : discrètement, victime non d'un conquérant mais du climat, la forêt tropicale humide ayant englouti les paysages ouverts qui étaient son monde. Sapiens n'arrivera dans la région que bien plus tard : les deux espèces ne se sont probablement jamais croisées ici.</p>
 
@@ -1687,7 +1813,10 @@ tags: technology
 
 # -100 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/glaciationwurm.webp' | relative_url }}" alt="Glaciation de Würm" loading="lazy" decoding="async" width="1200" height="333" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/glaciationwurm.webp' | relative_url }}" alt="Glaciation de Würm" loading="lazy" decoding="async" width="1200" height="333" />
+  <br /><small><em>La glaciation de Würm : près de quatre-vingt-dix mille ans de froid, qui redessinent la carte du vivant.</em></small>
+</p>
 
 <p>La planète entre dans sa dernière grande période glaciaire — la glaciation de Würm (dite de Wisconsin en Amérique du Nord). Le refroidissement s'installe pour près de 90 000 ans : la nourriture se raréfie, les migrations animales se déplacent, et les groupes humains, déjà clairsemés, traversent des heures difficiles — l'ADN de sapiens garde la trace d'un goulot d'étranglement où notre espèce entière s'est réduite à une poignée de survivants.</p>
 
@@ -1721,7 +1850,10 @@ tags: technology
 
 # -70 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/diepkloof.webp' | relative_url }}" alt="Coquille d'œuf d'autruche gravée" loading="lazy" decoding="async" width="1200" height="674" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/diepkloof.webp' | relative_url }}" alt="Coquille d'œuf d'autruche gravée" loading="lazy" decoding="async" width="1200" height="674" />
+  <br /><small><em>Une coquille d'œuf d'autruche gravée : un contenant décoré de motifs répétés, il y a soixante-dix mille ans.</em></small>
+</p>
 
 <p>Quelque chose a mûri dans les esprits. Les capacités symboliques s'épanouissent : mythes partagés, normes sociales, traditions transmises de génération en génération — les fondements de ce que nous appelons la culture. Un groupe humain n'est plus seulement une bande de survivants : c'est une communauté qui se raconte, et ces récits communs permettent de coopérer bien au-delà du cercle de ceux qu'on connaît.</p>
 
@@ -1731,7 +1863,10 @@ tags: technology
 
 # -65 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lignewallace.webp' | relative_url }}" alt="La ligne Wallace" loading="lazy" decoding="async" width="1200" height="548" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/lignewallace.webp' | relative_url }}" alt="La ligne Wallace" loading="lazy" decoding="async" width="1200" height="548" />
+  <br /><small><em>La ligne Wallace : une frontière biologique que la mer profonde a toujours interdite — sauf aux navigateurs.</em></small>
+</p>
 
 <p>Au bout de l'Asie du Sud-Est, les voyageurs butent sur un obstacle inédit : la mer — la vraie. Même au plus bas des glaciations, aucun pont terrestre ne mène à l'Australie : il faut franchir des dizaines de kilomètres d'eau libre, hors de vue des côtes, d'île en île à travers l'archipel indonésien.</p>
 
@@ -1741,7 +1876,10 @@ tags: technology
 
 # -60 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/pointeemmanchee.webp' | relative_url }}" alt="Pointe emmanchée" loading="lazy" decoding="async" width="1200" height="1410" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/pointeemmanchee.webp' | relative_url }}" alt="Pointe emmanchée" loading="lazy" decoding="async" width="1200" height="1410" />
+  <br /><small><em>Une pointe emmanchée : la pierre collée à la résine et ligaturée sur une hampe — une arme composite.</em></small>
+</p>
 
 <p>L'arsenal du chasseur se perfectionne. Les pointes de pierre, plus fines et plus régulières, sont désormais emmanchées sur des hampes de bois — collées à la résine ou au brai de bouleau, ligaturées de tendons : des armes composites, assemblant plusieurs matériaux et plusieurs savoir-faire. La sagaie lancée à distance remplace de plus en plus l'épieu au corps à corps — chasser devient moins dangereux. Et de nouveaux matériaux entrent à l'atelier : l'os et l'ivoire, plus fins à travailler que la pierre, donnent des poinçons, des pointes... et des parures.</p>
 
@@ -1749,7 +1887,10 @@ tags: technology
 
 # -51 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/sulawesi.webp' | relative_url }}" alt="Peintures rupestres de Sulawesi" loading="lazy" decoding="async" width="1200" height="675" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/sulawesi.webp' | relative_url }}" alt="Peintures rupestres de Sulawesi" loading="lazy" decoding="async" width="1200" height="675" />
+  <br /><small><em>Les peintures de Sulawesi : les plus anciennes scènes figuratives connues, où des figures chassent des cochons sauvages.</em></small>
+</p>
 
 <p>Sur les parois des grottes de Sulawesi, en Indonésie, l'art figuratif entre dans l'histoire — et il entre en racontant. Les plus anciennes peintures figuratives connues au monde n'y montrent pas des animaux isolés : c'est une scène de chasse complète, avec des cochons sauvages, des buffles nains… et des chasseurs étranges, mi-humains mi-animaux — museaux, queues, silhouettes hybrides.</p>
 
@@ -1759,7 +1900,10 @@ tags: technology
 
 # -50 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/paleolithiquesuperieur.webp' | relative_url }}" alt="Outils du Paléolithique supérieur" loading="lazy" decoding="async" width="948" height="1320" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/paleolithiquesuperieur.webp' | relative_url }}" alt="Outils du Paléolithique supérieur" loading="lazy" decoding="async" width="948" height="1320" />
+  <br /><small><em>L'outillage du Paléolithique supérieur : de longues lames fines détachées en série d'un même nucléus.</em></small>
+</p>
 
 <p>Sapiens s'installe sous tous les climats, des steppes glaciales de l'Asie aux déserts — aucun autre grand mammifère n'a jamais occupé une telle gamme de milieux.</p>
 
@@ -1771,7 +1915,10 @@ tags: technology
 
 # -48 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/liondescavernes.webp' | relative_url }}" alt="Lion des cavernes" loading="lazy" decoding="async" width="1200" height="765" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/liondescavernes.webp' | relative_url }}" alt="Lion des cavernes" loading="lazy" decoding="async" width="1200" height="765" />
+  <br /><small><em>Le lion des cavernes : plus massif que le lion actuel — et chassé par les Néandertaliens.</em></small>
+</p>
 
 <p>En Europe, les Néandertaliens sont au sommet de leur art. La preuve la plus spectaculaire : ils chassent le lion des cavernes — le plus grand prédateur du continent, plus massif que le lion actuel. Un squelette retrouvé en Allemagne porte la marque d'un coup de lance porté de bas en haut, en combat rapproché ; ailleurs, des phalanges de pattes suggèrent des peaux conservées avec leurs griffes — trophées, parures ou symboles. Affronter un tel animal à la lance exige coordination, sang-froid et confiance absolue dans ses compagnons : c'est un exploit de groupe autant qu'un acte de bravoure.</p>
 
@@ -1781,7 +1928,10 @@ tags: technology
 
 # -45 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/aurignacien.webp' | relative_url }}" alt="L'Aurignacien" loading="lazy" decoding="async" width="1200" height="2133" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/aurignacien.webp' | relative_url }}" alt="L'Aurignacien" loading="lazy" decoding="async" width="1200" height="2133" />
+  <br /><small><em>L'Aurignacien : la première culture des sapiens d'Europe, riche en outils sur lames et en objets d'art.</em></small>
+</p>
 
 <p>Les sapiens font irruption en Europe — sur plusieurs fronts à la fois, de la Bulgarie à l'Italie, bientôt jusqu'à l'Espagne. Venus d'Afrique via le Proche-Orient, ils s'y installent durablement pour la première fois, profitant des répits tempérés d'un climat instable, à l'approche du dernier maximum glaciaire, où chaque redoux ouvre des corridors aux hommes comme aux troupeaux.</p>
 
@@ -1830,7 +1980,10 @@ tags: technology
 
 # -33 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/amputationborneo.webp' | relative_url }}" alt="Grotte de Bornéo" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/amputationborneo.webp' | relative_url }}" alt="Grotte de Bornéo" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>La grotte de Bornéo où fut pratiquée, il y a trente-trois mille ans, la plus ancienne amputation réussie connue.</em></small>
+</p>
 
 <p>Dans une grotte de Bornéo, en Indonésie, une communauté accomplit l'impensable : l'amputation chirurgicale de la jambe gauche d'un enfant. Et l'opération réussit — l'os a cicatrisé puis repoussé proprement, preuve que le jeune patient a survécu six à neuf ans après l'intervention, choyé par les siens dans un terrain montagneux où chaque déplacement exigeait de l'aide.</p>
 
@@ -1851,13 +2004,18 @@ tags: technology
 
 # -26 000 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/loup.webp' | relative_url }}" alt="Le loup gris" loading="lazy" decoding="async" width="1200" height="1498" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/loup.webp' | relative_url }}" alt="Le loup gris" loading="lazy" decoding="async" width="1200" height="1498" />
+  <br /><small><em>Le loup gris : l'ancêtre du chien, et la plus ancienne alliance de l'humanité avec une autre espèce.</em></small>
+</p>
 
 <p>Quelque part dans le monde glaciaire commence la plus ancienne alliance de l'humanité : celle du loup. Personne ne l'a décidée, ni l'homme ni l'animal. Les loups les moins craintifs rôdent autour des campements pour profiter des restes ; les plus tolérants envers l'humain mangent mieux, survivent mieux, se reproduisent entre eux — et génération après génération, la sélection favorise la docilité. Au fil des millénaires, le loup devient peu à peu autre chose : le chien. Ce n'est pas une conquête, c'est une auto-domestication — le chien s'est en partie domestiqué lui-même.</p>
 
 <p>Pour les campements, le bénéfice est immédiat : la nuit, il devient une sentinelle qui ne dort jamais, aboyant à l'approche des bêtes sauvages comme des intrus. Il traque le gibier, portera plus tard les charges, ira au combat. Mais tous ces usages reposent sur une chose unique : entre l'homme et le chien s'installe une compréhension mutuelle qu'aucun autre animal ne partage. Les chiens les plus habiles à lire les intentions humaines survivent le mieux — et le résultat est stupéfiant : le chien est sans doute le seul animal capable de comprendre spontanément un doigt pointé. Même un chimpanzé, notre plus proche cousin, ne le fait pas.</p>
 
 # -21 000 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/ohalo2.webp' | relative_url }}" alt="Le lac de Tibériade" loading="lazy" decoding="async" width="1200" height="1800" /></p>
 
 <p><em>(À partir d'ici, les dates ne sont plus comptées en années avant aujourd'hui mais en années avant notre ère — soit environ deux mille ans de moins.)</em></p>
 
@@ -1902,7 +2060,10 @@ tags: technology
 
 # -16 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/fil.webp' | relative_url }}" alt="Filage au fuseau" loading="lazy" decoding="async" width="1200" height="851" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/fil.webp' | relative_url }}" alt="Filage au fuseau" loading="lazy" decoding="async" width="1200" height="851" />
+  <br /><small><em>Le filage au fuseau : tordre des fibres pour en faire un fil continu — une technologie qui ne laisse presque aucune trace.</em></small>
+</p>
 
 <p>Une technologie discrète a conquis le quotidien sans presque laisser de traces : le fil. Tordre des fibres entre les doigts — lin sauvage, ortie, écorces assouplies, poils ou tendons d'animaux — pour en faire un brin continu, puis retordre ces brins en ficelle, en corde : le geste est simple en apparence, mais il exige un vrai savoir-faire pour garder une épaisseur constante, et il ouvre un monde. L'archéologie l'a longtemps sous-estimé, pour une raison bête : les fibres pourrissent, et l'on n'en retrouve que des miettes — empreintes sur argile, fragments piégés dans des grottes sèches.</p>
 
@@ -1941,13 +2102,19 @@ tags: technology
 
 # -12 200 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/bonnoberkassel.webp' | relative_url }}" alt="Le chien de Bonn-Oberkassel" loading="lazy" decoding="async" width="1200" height="714" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/bonnoberkassel.webp' | relative_url }}" alt="Le chien de Bonn-Oberkassel" loading="lazy" decoding="async" width="1200" height="714" />
+  <br /><small><em>Le chien de Bonn-Oberkassel : enterré avec deux humains, après des mois de soins qui ne servaient à rien d'utile.</em></small>
+</p>
 
 <p>À Bonn-Oberkassel, en Allemagne, un chien est enterré dans la même tombe que deux humains — un chien jeune, malade depuis des mois, qui n'avait pu survivre que soigné jour après jour, sans être d'aucune utilité à personne. On ne soigne pas ainsi un outil. Quatorze mille ans avant nous, le chien était déjà ce qu'il est resté : un membre de la famille — jusque dans la tombe.</p>
 
 # -10 900 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/dryasrecent.webp' | relative_url }}" alt="Le Dryas récent" loading="lazy" decoding="async" width="1200" height="927" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/dryasrecent.webp' | relative_url }}" alt="Le Dryas récent" loading="lazy" decoding="async" width="1200" height="927" />
+  <br /><small><em>Le Dryas récent : en quelques décennies, l'hémisphère Nord rebascule dans des conditions quasi glaciaires.</em></small>
+</p>
 
 <p>Coup de théâtre climatique : alors que la Terre se réchauffait doucement depuis des millénaires, le froid revient brutalement — en quelques décennies à peine, l'hémisphère Nord rebascule dans des conditions quasi glaciaires. C'est le Dryas récent, du nom d'une petite fleur arctique dont le pollen réapparaît soudain dans les sédiments européens. La cause la plus souvent invoquée : la débâcle des calottes nord-américaines aurait déversé dans l'Atlantique d'immenses lacs d'eau douce, coupant le tapis roulant des courants marins qui réchauffent le Nord — le Gulf Stream étouffé, l'hiver reprend ses droits pour plus de mille ans.</p>
 
@@ -1955,13 +2122,19 @@ tags: technology
 
 # -10 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/megafaune.webp' | relative_url }}" alt="Mammouth laineux" loading="lazy" decoding="async" width="946" height="611" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/megafaune.webp' | relative_url }}" alt="Mammouth laineux" loading="lazy" decoding="async" width="946" height="611" />
+  <br /><small><em>Le mammouth laineux : comme la plupart des géants, il disparaît peu après l'arrivée des hommes.</em></small>
+</p>
 
 <p>L'heure du bilan a sonné pour la mégafaune. Depuis l'expansion de sapiens hors d'Afrique, les géants tombent continent après continent : l'Australie a perdu ses marsupiaux géants peu après l'arrivée des hommes, l'Eurasie voit s'éteindre mammouths et rhinocéros laineux, et les Amériques, dernières touchées, perdent en quelques millénaires les trois quarts de leurs colosses — mammouths, félins à dents de sabre, paresseux géants, chevaux. Climat bouleversé ou chasse humaine ? Les deux, répond la science — mais le motif est accablant : les extinctions suivent partout les pas de l'homme, et l'Afrique, seule terre où la faune avait coévolué avec nous et appris à s'en méfier, est aussi la seule largement épargnée. La Terre ne reverra plus jamais de telles bêtes.</p>
 
 # -9 700 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/holocene.webp' | relative_url }}" alt="L'Holocène" loading="lazy" decoding="async" width="600" height="400" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/holocene.webp' | relative_url }}" alt="L'Holocène" loading="lazy" decoding="async" width="600" height="400" />
+  <br /><small><em>L'Holocène : une période chaude et exceptionnellement stable — celle où tient toute l'histoire humaine.</em></small>
+</p>
 
 <p>Le froid lâche enfin prise, et cette fois le climat se stabilise dans la douceur : c'est le début de l'Holocène, l'époque géologique — exceptionnellement clémente et stable — dans laquelle nous vivons toujours. La végétation explose, les forêts regagnent l'Europe, et les chasseurs-cueilleurs du Mésolithique prospèrent sur un buffet élargi : gibier des bois, poissons — et une part végétale qu'on a longtemps sous-estimée : glands, prunelles, noisettes, raisins et olives sauvages, merises (la version sauvage de la cerise). Sans oublier les champignons — aliments, remèdes, et parfois portes hallucinogènes vers d'autres mondes.</p>
 
@@ -2015,7 +2188,10 @@ tags: technology
 
 # -7 500 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chatsauvage.webp' | relative_url }}" alt="Chat sauvage africain" loading="lazy" decoding="async" width="1200" height="1442" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/chatsauvage.webp' | relative_url }}" alt="Chat sauvage africain" loading="lazy" decoding="async" width="1200" height="1442" />
+  <br /><small><em>Le chat sauvage africain : il s'est domestiqué lui-même, en suivant les rongeurs jusque dans les greniers.</em></small>
+</p>
 
 <p>Les greniers pleins de grain attirent les rongeurs — et les rongeurs attirent un chasseur discret : le chat sauvage. Les villages ont tout intérêt à tolérer ce dératiseur bénévole, le chat à rester près du garde-manger ; personne ne domestique personne, mais l'alliance s'installe — à Chypre, un chat est déjà enterré auprès d'un humain. Près de dix mille ans plus tard, son génome a si peu changé qu'on peut le dire : le chat ne s'est jamais vraiment soumis. Il a accepté un arrangement.</p>
 
@@ -2052,7 +2228,10 @@ tags: technology
 
 # -6 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/irrigation.webp' | relative_url }}" alt="Canal d'irrigation" loading="lazy" decoding="async" width="1200" height="769" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/irrigation.webp' | relative_url }}" alt="Canal d'irrigation" loading="lazy" decoding="async" width="1200" height="769" />
+  <br /><small><em>Un canal d'irrigation : dans une plaine sans pluie, il transforme le fleuve en récolte.</em></small>
+</p>
 
 <p>En Mésopotamie, les villages franchissent un seuil grâce à une invention qui change la donne : l'irrigation. Dans cette plaine fertile mais presque sans pluie, des canaux creusés à la houe détournent l'eau du Tigre et de l'Euphrate vers les champs — et l'eau maîtrisée transforme tout : récoltes régulières, surplus, croissance des bourgs. Mais l'irrigation apporte plus que du blé : entretenir les canaux, répartir l'eau, trancher les disputes entre voisins de l'amont et de l'aval — tout cela exige coordination et autorité. En arrosant ses champs, la Mésopotamie cultive aussi, sans le savoir, ses futurs pouvoirs — et un poison lent : l'eau évaporée laisse ses sels dans la terre, qui appauvriront les sols siècle après siècle.</p>
 
@@ -2060,7 +2239,10 @@ tags: technology
 
 # -5 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/cuivre.webp' | relative_url }}" alt="Métallurgie du cuivre" loading="lazy" decoding="async" width="480" height="380" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cuivre.webp' | relative_url }}" alt="Métallurgie du cuivre" loading="lazy" decoding="async" width="480" height="380" />
+  <br /><small><em>La métallurgie du cuivre : chauffer le minerai pour en tirer le métal — probablement découvert dans les fours des potiers.</em></small>
+</p>
 
 <p>En Anatolie et dans les Balkans, la métallurgie franchit son cap décisif. Le cuivre natif, martelé à froid depuis des millénaires pour des perles et des alênes, révèle enfin son vrai secret — probablement dans les fours des potiers, seuls assez chauds pour l'opérer : certaines pierres, chauffées ardemment, comme la malachite d'un beau vert profond, se mettent à pleurer du métal. C'est la fusion : on peut extraire le cuivre du minerai, le couler dans des moules, le refondre à l'infini. La métallurgie est née, fille inattendue de la céramique — et de véritables ateliers apparaissent, avec fours dédiés et artisans spécialisés : le forgeron entre dans l'histoire. Le cuivre seul reste tendre ; mais un jour, quelqu'un y mêlera un peu d'étain — et le bronze donnera son nom à une époque.</p>
 
@@ -2085,7 +2267,10 @@ tags: technology
 
 # -3 700 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/hierakonpolis.webp' | relative_url }}" alt="Poterie prédynastique égyptienne" loading="lazy" decoding="async" width="1066" height="1600" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/hierakonpolis.webp' | relative_url }}" alt="Poterie prédynastique égyptienne" loading="lazy" decoding="async" width="1066" height="1600" />
+  <br /><small><em>Une poterie prédynastique de Hiérakonpolis : ses parois gardent la trace chimique du beurre.</em></small>
+</p>
 
 <p>L'Égypte prédynastique se raffine. Des poteries de Hiérakonpolis gardent la trace chimique du beurre — prisé des classes aisées, appliqué aussi sur les gencives douloureuses des nourrissons ou mêlé aux huiles pour protéger la peau sous le soleil du désert. Les houes gagnent des lanières de cuir qui fixent la lame au manche — mieux adaptées aux lourdes terres inondées par le Nil.</p>
 
@@ -2163,7 +2348,10 @@ tags: technology
 
 # -2 800 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/araire.webp' | relative_url }}" alt="Labour à l'araire en Égypte" loading="lazy" decoding="async" width="1200" height="831" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/araire.webp' | relative_url }}" alt="Labour à l'araire en Égypte" loading="lazy" decoding="async" width="1200" height="831" />
+  <br /><small><em>Le labour à l'araire : attelé aux bœufs, il démultiplie la surface qu'un paysan peut travailler.</em></small>
+</p>
 
 <p>En Égypte, les bœufs sont attelés à l'araire : le labour animal commence pendant la Période thinite, démultipliant la surface qu'un paysan peut travailler.</p>
 
@@ -2177,7 +2365,10 @@ tags: technology
 
 # -2 700 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/houe.webp' | relative_url }}" alt="Houe égyptienne" loading="lazy" decoding="async" width="473" height="613" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/houe.webp' | relative_url }}" alt="Houe égyptienne" loading="lazy" decoding="async" width="473" height="613" />
+  <br /><small><em>Une houe à lame de cuivre : l'outil mord enfin dans le sol sec, là où le bois seul peinait.</em></small>
+</p>
 
 <p>Avec l'essor de la métallurgie, les Égyptiens fabriquent des houes à lame de cuivre fixée sur un manche de bois — l'outil mord enfin dans le sol sec, là où le bois seul peinait.</p>
 
@@ -2219,7 +2410,10 @@ tags: technology
 
 # -2 500 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/akkadiens.webp' | relative_url }}" alt="Tablette cunéiforme akkadienne" loading="lazy" decoding="async" width="1200" height="1324" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/akkadiens.webp' | relative_url }}" alt="Tablette cunéiforme akkadienne" loading="lazy" decoding="async" width="1200" height="1324" />
+  <br /><small><em>Une tablette cunéiforme akkadienne : les Akkadiens adoptent l'écriture des Sumériens et l'adaptent à leur langue.</em></small>
+</p>
 
 <p>En Mésopotamie, un peuple de langue sémitique monte en puissance aux côtés des Sumériens : les Akkadiens. Ils adoptent l'écriture cunéiforme, adaptant les signes sumériens à leur propre langue — et le sumérien restera longtemps leur langue religieuse et littéraire, même quand l'akkadien dominera. Le cunéiforme, lui, s'est répandu dans toute la société : les rois publient des décrets, les prêtres consignent des oracles, et de simples citoyens rédigent des lettres personnelles.</p>
 
@@ -2227,7 +2421,10 @@ tags: technology
 
 # -2 400 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/tombedeti.webp' | relative_url }}" alt="Mastaba de Ti à Saqqarah" loading="lazy" decoding="async" width="1200" height="1019" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/tombedeti.webp' | relative_url }}" alt="Mastaba de Ti à Saqqarah" loading="lazy" decoding="async" width="1200" height="1019" />
+  <br /><small><em>Le mastaba de Ti à Saqqarah : ses fresques détaillent les travaux des champs et le garde-manger égyptien.</em></small>
+</p>
 
 <p>Les fresques des tombes de Saqqarah — celle du dignitaire Ti, notamment — nous ouvrent le garde-manger égyptien. On y voit la récolte des concombres, cultivés le long du Nil grâce à l'irrigation, consommés crus avec du sel ou du vinaigre — un aliment commun, apprécié pour sa fraîcheur.</p>
 
@@ -2260,7 +2457,10 @@ tags: technology
 
 # -2 200 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/cheval.webp' | relative_url }}" alt="Cheval de Przewalski" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cheval.webp' | relative_url }}" alt="Cheval de Przewalski" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Le cheval de Przewalski : le plus proche parent sauvage des chevaux domestiques.</em></small>
+</p>
 
 <p>S'il est un animal qui a bouleversé le cours de la civilisation, c'est bien le cheval — celui-là même que les artistes de Chauvet et de Lascaux peignaient déjà avec fascination, des millénaires plus tôt. Après l'essai sans lendemain de Botai, le vrai coup part des steppes entre Volga et Don : une lignée de chevaux au dos plus robuste et au tempérament plus docile y est domestiquée — et elle conquiert le monde en quelques siècles, remplaçant partout les autres populations. Tous les chevaux domestiques actuels, du pur-sang au poney, descendent de celle-là.</p>
 
@@ -2435,7 +2635,10 @@ tags: technology
 
 # -1 500 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/vedique.webp' | relative_url }}" alt="Période védique" loading="lazy" decoding="async" width="1200" height="1702" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/vedique.webp' | relative_url }}" alt="Période védique" loading="lazy" decoding="async" width="1200" height="1702" />
+  <br /><small><em>La période védique : des éleveurs venus des steppes s'installent dans les plaines du nord de l'Inde.</em></small>
+</p>
 
 <p>Des éleveurs venus des steppes franchissent les cols de l'Hindou Kouch et descendent vers les plaines du nord de l'Inde. D'autres, partis du même monde, s'installent sur le plateau iranien. Ce sont ceux qui se donnaient le nom d'<em>ārya</em> — « noble », comme on l'a vu.</p>
 
@@ -2497,7 +2700,10 @@ tags: technology
 
 # -1 348 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/aton.webp' | relative_url }}" alt="Le disque solaire Aton" loading="lazy" decoding="async" width="1200" height="751" /></p>
+<p style="text-align:center">
+  <img src="{{ '/assets/img/aton.webp' | relative_url }}" alt="Le disque solaire Aton" loading="lazy" decoding="async" width="1200" height="751" />
+  <br /><small><em>Aton, le disque solaire dont les rayons se terminent en mains : la divinité unique d'Akhenaton.</em></small>
+</p>
 
 <p>Akhenaton lance sa révolution religieuse : il proclame Aton, le disque solaire, divinité suprême, et réduit drastiquement le culte des autres dieux — reléguant le puissant clergé d'Amon. C'est l'une des premières tentatives connues d'imposer un dieu quasi unique : certains y voient une préfiguration du monothéisme.</p>
 
@@ -2520,6 +2726,8 @@ tags: technology
 <p>Naissance de Toutânkhamon, probablement fils d'Akhenaton. Son règne sera court et politiquement mineur — mais il deviendra le plus célèbre des pharaons, grâce à un hasard extraordinaire : sa tombe, découverte intacte en 1922 par Howard Carter, est l'une des seules à avoir échappé aux pilleurs. Son masque funéraire en or est devenu l'icône de l'Égypte antique, et le mystère de sa mort précoce intrigue encore les chercheurs.</p>
 
 # -1 336 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/amarna.webp' | relative_url }}" alt="Les ruines d’Amarna" loading="lazy" decoding="async" width="1200" height="1677" /></p>
 
 <p>Mort d'Akhenaton. Sa révolution ne lui survivra pas : les élites religieuses et politiques entament la restauration des cultes traditionnels, et sa capitale du désert sera abandonnée.</p>
 
@@ -2619,6 +2827,8 @@ tags: technology
 <p>Un voisin, bientôt, va leur disputer ce pays : les Philistins, dont l'installation sur la côte est racontée plus loin. De cet affrontement viendra la royauté israélite — c'est la pression philistine, et la nécessité d'un chef de guerre permanent, qui poussera ces tribus jalouses de leur autonomie à se donner un roi.</p>
 
 # -1 200 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/effondrementbronze.webp' | relative_url }}" alt="Les ruines d'Ougarit" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>Et tout s'effondre. En quelques décennies, le monde interconnecté de l'âge du Bronze — cet équilibre d'empires liés par le commerce de l'étain, les traités et les mariages royaux — s'écroule comme un château de cartes. L'Empire hittite disparaît corps et biens, les riches cités du Levant comme Ougarit sont détruites, l'Égypte survit mais amoindrie et repliée sur elle-même.</p>
 
@@ -2760,6 +2970,8 @@ tags: technology
 
 # -1 042 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/ducdezhou.webp' | relative_url }}" alt="Le duc de Zhou" loading="lazy" decoding="async" width="693" height="1080" /></p>
+
 <p>Le roi Wu meurt trois ans à peine après sa victoire, laissant un fils encore enfant. Le prince Shang, à qui l'on avait laissé l'administration des anciennes cités, saisit l'occasion et se révolte — rejoint par deux frères du roi défunt, qui préfèrent leur ambition à leur neveu.</p>
 
 <p>C'est un autre frère, le duc de Zhou, qui écrase la rébellion après trois ans de campagne. Cette fois, les Shang perdent définitivement la plaine centrale.</p>
@@ -2771,6 +2983,8 @@ tags: technology
 <p>Pour le reste, les Zhou entrent tout simplement dans les habits des Shang : mêmes chasses, mêmes concours de tir à l'arc, mêmes courses de chars, mêmes banquets somptueux. Ce qui a changé n'est pas le mode de vie, c'est la justification du pouvoir — et l'on passe d'une culture de la divination et des sacrifices humains à une culture des rites, de l'éthique et de l'ordre social. Le souverain ne se contente plus d'interroger les ancêtres : il doit désormais mériter sa place.</p>
 
 # -1 030 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/mandatduciel.webp' | relative_url }}" alt="Le Mandat du Ciel" loading="lazy" decoding="async" width="1200" height="1200" /></p>
 
 <p>Une dispute éclate à la cour des Zhou sur la nature exacte du Mandat du Ciel — et l'enjeu est considérable, puisqu'il s'agit de savoir à quoi le pouvoir est tenu.</p>
 
@@ -2799,6 +3013,8 @@ tags: technology
 
 # -1 000 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/latium.webp' | relative_url }}" alt="Cabane du Latium" loading="lazy" decoding="async" width="492" height="326" /></p>
+
 <p>Dans le Latium, sur les collines qui borderont le Tibre, des villages d'éleveurs et de paysans se forment : porcs, moutons, bœufs, vignes, oliviers, fèves et pois. Des centres proto-urbains émergent lentement — rien ne distingue encore ces hameaux de mille autres, mais l'un d'eux deviendra Rome.</p>
 
 <p>Babylone, elle, n'est plus la superpuissance d'Hammurabi : les raids des Araméens et des Sutéens coupent ses routes et affament parfois la cité. Mais son aura culturelle reste immense — c'est la grande capitale savante du Proche-Orient, et ses scribes sont les gardiens de la science. C'est vers ce moment qu'ils compilent et standardisent les grandes séries de textes médicaux, divinatoires et astronomiques, et qu'ils cartographient méthodiquement le ciel, préparant ce qui deviendra le zodiaque. Leurs mathématiques emploient le système sexagésimal, en base 60 : c'est grâce à eux que nous divisons encore nos heures en 60 minutes, nos minutes en 60 secondes et nos cercles en 360 degrés.</p>
@@ -2812,6 +3028,8 @@ tags: technology
 <p>À l'ouest, dans les collines de Canaan, un troisième héritage se met en place — et il tiendra en une dynastie. Une lignée s'installe à Jérusalem, celle de David : nous y reviendrons, car ce personnage occupera dans la mémoire de son peuple une place que personne d'autre n'aura.</p>
 
 # -950 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/bronzezhou.webp' | relative_url }}" alt="Bronze des Zhou occidentaux" loading="lazy" decoding="async" width="1200" height="800" /></p>
 
 <p>Un siècle après la conquête, la dynastie Zhou décline, et l'on ne sait presque rien des rois qui ont succédé à Cheng — les sources se taisent, ce qui est en soi un signe.</p>
 
@@ -2843,6 +3061,8 @@ tags: technology
 
 # -930 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/salomon.webp' | relative_url }}" alt="Le Temple de Salomon" loading="lazy" decoding="async" width="1200" height="904" /></p>
+
 <p>La tradition biblique place ici la fin d'un royaume unifié. Après David aurait régné son fils Salomon — le roi bâtisseur, à qui l'on attribue le Temple de Jérusalem, un harem de princesses étrangères et une sagesse proverbiale ; à sa mort, les tribus du nord auraient refusé son héritier et fait sécession. Les fouilles ne confirment pas l'existence d'un tel empire : la Jérusalem de cette époque reste modeste. Mais que la scission ait été une rupture ou, plus probablement, deux royaumes qui n'ont jamais été vraiment un seul, le résultat est le même.</p>
 
 <p>À partir de cette époque, deux entités coexistent donc dans les hauteurs de Canaan, et elles n'ont rien d'équivalent.</p>
@@ -2860,6 +3080,8 @@ tags: technology
 <p>Le culte y tourne autour de la personne du roi, selon la logique d'adoption divine déjà décrite : descendant de David, il est le double terrestre du dieu guerrier, et le jour de son couronnement il entre parmi les êtres saints.</p>
 
 # -926 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/sheshonq.webp' | relative_url }}" alt="Sheshonq Iᵉʳ à Karnak" loading="lazy" decoding="async" width="1200" height="1512" /></p>
 
 <p>Le pharaon Sheshonq envahit Canaan. Il pille Jérusalem, ravage cent cinquante localités dans les deux royaumes israélites — et surtout détruit les vieilles places fortes cananéennes de Megiddo, Rehob, Beth-Shéan et Taanak. C'est le seul événement de cette période attesté à la fois par la Bible et par une source étrangère : le pharaon en a fait graver la liste sur un mur de Karnak.</p>
 
@@ -2900,6 +3122,8 @@ tags: technology
 
 # -880 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/samarie.webp' | relative_url }}" alt="Samarie" loading="lazy" decoding="async" width="1200" height="675" /></p>
+
 <p>Le roi Omri fonde une capitale neuve pour le royaume d'Israël : Samarie. Il achète la colline à son propriétaire — le détail est rapporté comme une transaction ordinaire — et y fait bâtir une acropole royale de deux hectares, aux murs de pierre de taille d'une qualité qu'on n'avait jamais vue dans la région.</p>
 
 <p>Ce roi fait entrer Israël dans la cour des grands. Sa dynastie sera si marquante que les Assyriens, longtemps après sa chute, continueront d'appeler ce pays « la maison d'Omri » — c'est le nom sous lequel il figure dans leurs annales.</p>
@@ -2914,11 +3138,15 @@ tags: technology
 
 # -876 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/tributphenicien.webp' | relative_url }}" alt="Tribut phénicien aux Assyriens" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+
 <p>Le roi d'Assyrie soumet les cités phéniciennes de la côte méditerranéenne. Ce n'est encore qu'une expédition de tribut — on exige de l'or, de l'argent, du bois de cèdre, et l'on repart — mais elle inaugure quelque chose de nouveau.</p>
 
 <p>Car l'empire qui se construit à l'est ne ressemble à aucun autre. Les puissances précédentes se contentaient de rançonner leurs voisins ; celle-ci commence à penser en termes de territoire permanent, d'administration, de provinces annexées. L'Assyrie invente l'empire au sens moderne — et il faudra des siècles pour que quelqu'un fasse mieux.</p>
 
 # -874 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Ivoires de Samarie" loading="lazy" decoding="async" width="1200" height="800" /></p>
 
 <p>Le fils d'Omri, Achab, lui succède, et pousse la politique paternelle plus loin encore. Il agrandit Samarie et y bâtit un palais si richement décoré qu'on l'appellera la maison d'ivoire — les fouilles en ont retrouvé des centaines de fragments sculptés, dans un style phénicien. Il ouvre des relations commerciales avec la Phénicie, Chypre et la Grèce.</p>
 
@@ -2927,6 +3155,8 @@ tags: technology
 <p>C'est précisément ce qui perdra ce roi dans la mémoire de son peuple. Puissant, riche, ouvert sur le monde, il sera jugé sur ce seul point par ceux qui écriront son histoire — et ils en feront le pire souverain qu'Israël ait connu.</p>
 
 # -860 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/elie.webp' | relative_url }}" alt="Le prophète Élie" loading="lazy" decoding="async" width="1200" height="917" /></p>
 
 <p>Un homme surgit dans le royaume d'Israël, et son nom est un programme : Élie signifie « Yahvé est mon Dieu ». C'est le premier personnage attesté à exiger que l'on n'adore que Yahvé, à l'exclusion de tout autre.</p>
 
@@ -2949,6 +3179,8 @@ tags: technology
 <p>Deux façons opposées de concevoir le devoir religieux, donc. En Israël, un homme seul défie son roi au nom d'un dieu qui exige d'être le seul ; en Chine, un roi passe sa vie à s'ajuster à un monde dont il fait partie.</p>
 
 # -859 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/salmanazar.webp' | relative_url }}" alt="L'obélisque noir de Salmanazar III" loading="lazy" decoding="async" width="1200" height="1806" /></p>
 
 <p>Salmanazar III monte sur le trône d'Assyrie et reprend la marche vers l'ouest. Face à lui, les rois de la région comprennent qu'ils ne survivront pas séparément : une coalition se forme, menée par Hadadézer de Damas, qui est alors l'État le plus puissant du Levant.</p>
 
@@ -2976,6 +3208,8 @@ tags: technology
 
 # -850 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/rituelzhou.webp' | relative_url }}" alt="Bronze rituel des Zhou" loading="lazy" decoding="async" width="1200" height="1598" /></p>
+
 <p>Un changement discret transforme la religion chinoise : le rituel devient public. Sous les premiers Zhou, ces cérémonies royales étaient probablement des affaires privées, de famille ; on les accomplit désormais devant une nombreuse assistance, sous la direction de spécialistes — les <em>ru</em> — chargés de veiller à ce que tout soit exécuté correctement. Le peuple peut ainsi observer la mise en œuvre de la Voie, et y prendre part.</p>
 
 <p>Le sens même du rite se déplace. Les Shang s'en servaient pour obtenir les faveurs des ancêtres et des dieux — c'était une transaction. Il devient plus important de l'accomplir avec précision et avec beauté : quand la cérémonie est parfaitement exécutée, quelque chose se produit chez ceux qui y participent, qui leur donne le pressentiment d'une harmonie divine.</p>
@@ -2983,6 +3217,8 @@ tags: technology
 <p>C'est une découverte considérable, et elle est faite sans être formulée. On commence à comprendre que l'effet transformateur du rite compte bien plus que la manipulation des dieux. Le rite offre une vision d'harmonie et de sacré qui demeure quand on retourne à la confusion de la vie ordinaire — et en se soumettant aux moindres détails de la liturgie, danseurs, acteurs et courtisans créent, au moins pour un temps, une communauté sainte où le passé et le présent, le Ciel et la Terre ne font qu'un.</p>
 
 # -842 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/roili.webp' | relative_url }}" alt="Vase ding chinois" loading="lazy" decoding="async" width="1200" height="1092" /></p>
 
 <p>Le roi Li est déposé et contraint à l'exil. Les sources chinoises rapportent une révolte contre sa tyrannie et son avidité — il aurait, entre autres, confisqué les ressources des forêts et des rivières dont vivait le peuple, et fait espionner ceux qui le critiquaient, jusqu'à ce que les habitants de la capitale ne se parlent plus que du regard.</p>
 
@@ -3005,6 +3241,8 @@ tags: technology
 
 # -830 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/yahveseul.webp' | relative_url }}" alt="Inscription de Kuntillet Ajrud" loading="lazy" decoding="async" width="1186" height="1054" /></p>
+
 <p>Le mouvement du « Yahvé seul » gagne du terrain en Israël. Ses partisans exigent qu'on ne sacrifie qu'à ce dieu et qu'on ignore le culte de tous les autres.</p>
 
 <p>Il faut mesurer ce que cela demande. Dans ce monde, chaque divinité a sa fonction — l'une fait tomber la pluie, l'autre protège l'accouchement, une troisième garde la maison ; renoncer à elles, c'est se priver de recours dans les moments où l'on en a le plus besoin. C'est aussi abandonner des sanctuaires familiers, des fêtes qu'on aime, des gestes appris de sa mère. La demande est austère, coûteuse, et elle exige du courage.</p>
@@ -3012,6 +3250,8 @@ tags: technology
 <p>Israël s'engage là sur un chemin solitaire. Tout le Proche-Orient partage alors un même fonds de mythes, de rites et de dieux ; ce peuple entreprend de s'en séparer. Le processus prendra des siècles, il sera douloureux, il divisera les familles et fera couler du sang — mais il produira, au bout, quelque chose que le monde n'avait jamais vu.</p>
 
 # -828 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Char des Zhou" loading="lazy" decoding="async" width="1200" height="1800" /></p>
 
 <p>Le roi Li meurt en exil, et son fils est rétabli sur le trône. La dynastie se relève — mais l'épisode a montré ce qu'elle refusait de voir : les seigneurs peuvent se passer du roi.</p>
 
@@ -3075,6 +3315,8 @@ tags: technology
 
 # -771 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/zhouorientaux.webp' | relative_url }}" alt="Les Zhou orientaux" loading="lazy" decoding="async" width="1200" height="849" /></p>
+
 <p>Les Rong, peuple des marges occidentales qui harcelait la cour des Zhou depuis plus de cinquante ans, prennent leur capitale et tuent le roi. La dynastie ne s'en relèvera pas.</p>
 
 <p>La cour se replie vers l'est, dans une capitale de secours. Les rois y conserveront leur titre pendant cinq siècles encore, administrant un petit domaine appauvri et accomplissant scrupuleusement leurs devoirs rituels — mais sans plus aucun pouvoir politique réel. Ils règnent sans gouverner, et les seigneurs des principautés font désormais ce qu'ils veulent, en continuant de proclamer leur loyauté.</p>
@@ -3083,6 +3325,8 @@ tags: technology
 
 # -770 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/kouros.webp' | relative_url }}" alt="Kouros archaïque" loading="lazy" decoding="async" width="1200" height="1950" /></p>
+
 <p>En un temps remarquablement court, la Grèce pose les fondations d'une culture sans équivalent.</p>
 
 <p>Une circonstance y aide : l'Assyrie, qui écrase alors tout le Proche-Orient, ne s'intéresse pas à la mer Égée. Les Grecs peuvent donc développer leurs institutions sans menace d'invasion — ils commercent avec l'Orient sans en craindre les armées, et se montrent avides d'apprendre des peuples étrangers.</p>
@@ -3090,6 +3334,8 @@ tags: technology
 <p>Le contraste avec ce qui se passe au même moment en Israël est saisissant. Pendant que des prophètes hébreux exigent qu'on n'adore qu'un seul dieu, les Grecs deviennent des polythéistes convaincus. Loin de s'éloigner des formes anciennes de la religion, ils les systématisent.</p>
 
 # -760 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/chassechine.webp' | relative_url }}" alt="Scène de chasse chinoise" loading="lazy" decoding="async" width="1200" height="1202" /></p>
 
 <p>La Chine découvre la rareté. Le défrichement massif des siècles précédents a détruit l'habitat de quantité d'espèces, et les expéditions de chasse rentrent désormais avec bien moins de gibier qu'au temps de l'abondance. L'élevage des moutons et des bovins a lui aussi fortement diminué.</p>
 
@@ -3170,6 +3416,8 @@ tags: technology
 
 # -740 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/isaie.webp' | relative_url }}" alt="Le prophète Isaïe" loading="lazy" decoding="async" width="701" height="1168" /></p>
+
 <p>À Jérusalem, un homme a une vision dans le Temple et devient prophète : Isaïe. Le petit royaume de Juda est alors trop insignifiant pour attirer l'attention de l'Assyrie.</p>
 
 <p>La cour de Jérusalem ne cherche pas son réconfort dans les traditions du nord, mais dans l'alliance éternelle que Yahvé aurait conclue avec David, et dans les traditions du Temple. Yahvé est roi à Jérusalem, et le souverain davidique est son représentant terrestre — ce qui rend la ville, pense-t-on, imprenable.</p>
@@ -3180,17 +3428,23 @@ tags: technology
 
 # -734 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/siegeassyrien.webp' | relative_url }}" alt="Siège assyrien" loading="lazy" decoding="async" width="1200" height="911" /></p>
+
 <p>Tout change pour Juda. Les rois d'Israël et de Damas organisent une coalition contre l'avance assyrienne, et quand le roi Achaz de Juda refuse de s'y joindre, ils envoient une armée assiéger Jérusalem pour le déposer et mettre sur le trône quelqu'un de plus accommodant.</p>
 
 <p>Achaz n'a pas le choix : il appelle Teglath-Phalasar à son secours et devient vassal de l'Assyrie. On échappe à un danger en s'en donnant un autre, plus grand.</p>
 
 # -732 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/teglathphalasar.webp' | relative_url }}" alt="Teglath-Phalasar III" loading="lazy" decoding="async" width="720" height="1510" /></p>
+
 <p>L'Assyrien punit ses vassaux rebelles sans perdre de temps. Il fond sur Damas, exécute son roi, descend la côte méditerranéenne en détruisant toute cité qui semble prête à faire défection. Puis vient le tour d'Israël : l'armée assyrienne s'empare de la Galilée et de la vallée de Jizréel, et envahit les territoires de la rive est du Jourdain.</p>
 
 <p>Le Proche-Orient n'avait jamais vu une puissance militaire de cette ampleur, et la région ne s'en remettra pas. Là où l'armée passe, elle laisse un sillage de dévastation ; les campagnes se vident, les habitants fuyant se réfugier dans les villes.</p>
 
 # -722 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/deportationassyrienne.webp' | relative_url }}" alt="Déportation assyrienne" loading="lazy" decoding="async" width="1200" height="801" /></p>
 
 <p>L'Assyrie détruit le royaume d'Israël et déporte sa population — les fameuses « dix tribus perdues », qui se dissolvent dans les peuples voisins et disparaissent de l'histoire. C'est le sort normal des vaincus dans l'Antiquité : un peuple sans terre cesse d'exister, et son dieu, jugé faible, est abandonné pour celui du vainqueur.</p>
 
@@ -3215,6 +3469,8 @@ tags: technology
 
 # -700 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/sanctuairegrec.webp' | relative_url }}" alt="Sanctuaire grec" loading="lazy" decoding="async" width="1200" height="800" /></p>
+
 <p>Le mouvement s'accélère. Des communautés restées petites pendant des générations se structurent en <em>poleis</em>, les cités-États ; les sanctuaires prennent de l'ampleur, les échanges maritimes s'intensifient, et des Grecs fondent des établissements jusqu'en Italie du Sud et en Sicile.</p>
 
 <p>En Attique, Athènes s'affirme progressivement comme le centre politique et religieux d'un territoire composé auparavant de communautés locales. Les Athéniens attribueront plus tard cette unification — le <em>synœcisme</em> — à Thésée, le héros qui aurait tué le Minotaure. Mais nous ne pouvons pas dater historiquement un « jour de l'unification » : le processus semble avoir été beaucoup plus long, et les traditions littéraires qui l'attribuent à Thésée sont légendaires.</p>
@@ -3233,6 +3489,8 @@ tags: technology
 
 # -690 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/sparte.webp' | relative_url }}" alt="Sparte" loading="lazy" decoding="async" width="1200" height="800" /></p>
+
 <p>Le monde grec prospère, mais pas partout de la même façon. Athènes traîne encore derrière les autres ; ce sont les cités du Péloponnèse qui montent. C'est le siècle de Corinthe, admirablement placée pour le commerce méditerranéen, dotée d'un artisanat florissant, et qui, sous l'influence de l'Égypte, expérimente l'architecture monumentale.</p>
 
 <p>L'État le plus radical, cependant, est Sparte. Son système politique subordonne entièrement l'individu à la cité : les citoyens s'y appellent les Égaux, tous soumis à la même éducation, aux mêmes repas communs, à la même discipline. On y renonce à soi-même — mais ce renoncement ne vise pas la paix comme en Inde : il vise l'efficacité militaire.</p>
@@ -3240,6 +3498,8 @@ tags: technology
 <p>Et cette égalité repose sur l'asservissement d'autrui. À la fin du siècle précédent, Sparte a conquis la Messénie voisine, s'est approprié ses terres et les a partagées entre ses citoyens ; les Messéniens, réduits en servitude, cultivent désormais pour leurs maîtres. Un tel système ne peut que produire des tensions.</p>
 
 # -680 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/hesiode.webp' | relative_url }}" alt="Hésiode" loading="lazy" decoding="async" width="744" height="1280" /></p>
 
 <p>Hésiode compose en Béotie les œuvres qui lui sont traditionnellement attribuées, notamment la <em>Théogonie</em> et les <em>Travaux et les Jours</em>.</p>
 
@@ -3267,6 +3527,8 @@ tags: technology
 
 # -670 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/messenie.webp' | relative_url }}" alt="La Messénie" loading="lazy" decoding="async" width="1200" height="786" /></p>
+
 <p>La Messénie se révolte contre Sparte. La guerre sera longue et brutale, et se terminera par une reconquête complète.</p>
 
 <p>Ce soulèvement décide de ce que Sparte deviendra. Pour tenir une population asservie bien plus nombreuse qu'elle, la cité se transforme en camp permanent : éducation militaire dès l'enfance, vie en caserne, interdiction de tout métier autre que celui des armes, surveillance policière des Messéniens. Sparte n'aura plus d'autre activité que de se préparer à la prochaine révolte.</p>
@@ -3275,6 +3537,8 @@ tags: technology
 
 # -656 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/psammetique.webp' | relative_url }}" alt="Psammétique Iᵉʳ" loading="lazy" decoding="async" width="450" height="652" /></p>
+
 <p>Le pharaon Psammétique Iᵉʳ contraint les troupes assyriennes à évacuer le Levant. Les habitants de Juda voient avec stupeur et joie les Assyriens quitter les territoires de l'ancien royaume du nord, disparu depuis soixante ans.</p>
 
 <p>Juda devient formellement vassal de l'Égypte, mais le pharaon est bien trop occupé à s'assurer le contrôle des routes commerciales des plaines cananéennes pour se soucier de ce petit royaume perché dans ses collines. Pour la première fois depuis des générations, Juda est livré à lui-même.</p>
@@ -3282,6 +3546,8 @@ tags: technology
 <p>Cette liberté inattendue va être mise à profit. Une génération plus tard, un roi de Jérusalem entreprendra d'étendre son autorité vers le nord, sur ces terres que l'Assyrie vient d'abandonner, et de faire de sa capitale le centre unique d'un royaume réunifié. Il s'appellera Josias.</p>
 
 # -655 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/corinthe.webp' | relative_url }}" alt="Corinthe" loading="lazy" decoding="async" width="538" height="720" /></p>
 
 <p>Un homme s'empare du pouvoir à Corinthe sans y avoir droit — et d'autres cités suivront. Les Grecs l'appellent <em>tyrannos</em>, mot emprunté à l'Orient qui n'a pas encore le sens que nous lui donnons : il désigne simplement celui qui prend le pouvoir hors des règles et gouverne en dehors des lois établies, souvent en faveur du peuple et contre l'aristocratie.</p>
 
@@ -3322,6 +3588,8 @@ tags: technology
 
 # -640 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/guerrechinoise.webp' | relative_url }}" alt="Guerre des chars en Chine" loading="lazy" decoding="async" width="1200" height="1997" /></p>
+
 <p>La guerre chinoise, à la même époque, obéit à des principes qui paraissent d'un autre monde.</p>
 
 <p>Les rites limitent strictement la violence permise au combat, et interdisent de profiter de la faiblesse de l'ennemi. On n'attaque pas une armée qui n'a pas fini de se ranger, on ne poursuit pas un fuyard au-delà d'une certaine distance, on ne frappe pas un adversaire blessé ou âgé. La guerre est conçue comme un exercice pénal : des criminels condamnés obtiennent leur grâce à condition de jurer, s'il le faut, de se sacrifier sur le champ de bataille.</p>
@@ -3353,6 +3621,8 @@ tags: technology
 
 # -622 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/josias.webp' | relative_url }}" alt="Le roi Josias et le livre de la Loi" loading="lazy" decoding="async" width="1200" height="975" /></p>
+
 <p>Josias lance de grands travaux sur le Temple de Salomon, ce mémorial de l'âge d'or supposé de Juda. C'est au cours de ces travaux qu'on découvrira le livre de la Loi qui déclenchera sa réforme.</p>
 
 # -612 av. J.-C.
@@ -3367,6 +3637,8 @@ tags: technology
 <p>Babylone, longtemps vassale, hérite de l'empire. Une région entière change de maître, et les petits royaumes du Levant, dont Juda, doivent recommencer à choisir leur camp.</p>
 
 # -610 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/nechao.webp' | relative_url }}" alt="Néchao II" loading="lazy" decoding="async" width="549" height="1339" /></p>
 
 <p>Le pharaon Psammétique meurt, et son successeur Néchao marche l'année suivante à travers la Palestine pour porter secours au roi d'Assyrie, désormais aux abois — car l'Empire assyrien s'effondre, et Babylone monte.</p>
 
@@ -3412,6 +3684,8 @@ tags: technology
 
 # -597 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/chroniquebabylonienne.webp' | relative_url }}" alt="Chronique babylonienne" loading="lazy" decoding="async" width="1014" height="627" /></p>
+
 <p>Le roi de Jérusalem, placé devant le choix décrit plus haut — Babylone ou l'Égypte —, vient de choisir l'Égypte. Il s'est trompé.</p>
 
 <p>Nabuchodonosor vient en personne rappeler qui commande. Il prend la ville, emporte les trésors du Temple, et déporte à Babylone le jeune roi Joiakin avec des milliers de notables, de prêtres, d'artisans et de soldats. Puis il installe sur le trône un oncle du roi déchu, Sédécias, avec mission d'obéir, et lui fait prêter serment de fidélité au nom de son propre dieu : rompre ce serment sera désormais un sacrilège autant qu'une trahison.</p>
@@ -3434,6 +3708,8 @@ tags: technology
 
 # -594 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/solon.webp' | relative_url }}" alt="Solon" loading="lazy" decoding="async" width="1200" height="1960" /></p>
+
 <p>Athènes traverse une crise sociale grave : les petits paysans endettés perdent leurs terres, et beaucoup finissent réduits en esclavage pour dettes — vendus parfois à l'étranger. La cité est au bord de la guerre civile, et l'on confie à un homme le soin de tout réformer : Solon.</p>
 
 <p>Il annule les dettes, interdit l'esclavage pour dettes, rachète ceux qu'on avait vendus au loin, et réorganise l'accès aux charges selon la richesse plutôt que selon la naissance — ce qui n'est pas la démocratie, mais brise le monopole des vieilles familles.</p>
@@ -3442,11 +3718,15 @@ tags: technology
 
 # -593 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/siegesong.webp' | relative_url }}" alt="Siège d'une ville chinoise" loading="lazy" decoding="async" width="800" height="685" /></p>
+
 <p>La ville de Song subit un siège interminable. Quand les vivres manquent, les habitants en viennent à manger leurs propres enfants.</p>
 
 <p>Le fait est rapporté par les chroniques chinoises elles-mêmes, sans emphase particulière — comme une information parmi d'autres. C'est ce qui le rend le plus glaçant : quatre ans après l'abandon des règles anciennes, ce genre de chose est devenu racontable.</p>
 
 # -589 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Ostraca de Lakish" loading="lazy" decoding="async" width="431" height="413" /></p>
 
 <p>Un nouveau pharaon monte sur le trône d'Égypte et promet son soutien à quiconque se révoltera contre Babylone. Les États voisins s'agitent, une coalition se dessine, et les nobles de Jérusalem pressent Sédécias de rompre son serment.</p>
 
@@ -3455,6 +3735,8 @@ tags: technology
 <p>Sédécias se révolte. L'armée babylonienne arrive et met le siège devant Jérusalem.</p>
 
 # -586 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/destructionjerusalem.webp' | relative_url }}" alt="La destruction de Jérusalem" loading="lazy" decoding="async" width="1200" height="863" /></p>
 
 <p>Les Égyptiens viennent effectivement — le siège est levé quelques semaines, et la ville exulte. Puis ils repartent sans livrer bataille. Les Babyloniens reviennent, et cette fois ils restent dix-huit mois.</p>
 
@@ -3478,6 +3760,8 @@ tags: technology
 
 # -570 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/babylone.webp' | relative_url }}" alt="Babylone" loading="lazy" decoding="async" width="1200" height="732" /></p>
+
 <p>À Babylone, les déportés font ce qu'aucun peuple vaincu n'avait fait : ils écrivent. Privés de temple, de terre et de roi, il ne leur reste que leur mémoire — et ils entreprennent de la sauver. Prêtres et scribes rassemblent les traditions anciennes, les lois, les généalogies, les récits des origines, les oracles des prophètes, et mettent tout cela en ordre.</p>
 
 <p>Ils reconstruisent aussi leur pratique autour de ce qui reste possible en captivité. Le sabbat prend une importance nouvelle : il n'exige aucun lieu, seulement une abstention, et se pratique aussi bien sur les rives de l'Euphrate qu'à Jérusalem. La circoncision devient un signe d'appartenance qu'on porte sur soi. On se réunit pour lire et commenter, ce qui donnera naissance à l'institution de la synagogue — littéralement l'« assemblée », un lieu sans autel ni sacrifice, où l'on ne fait qu'écouter un texte.</p>
@@ -3486,9 +3770,13 @@ tags: technology
 
 # -563 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/lumbini.webp' | relative_url }}" alt="Lumbini" loading="lazy" decoding="async" width="1200" height="743" /></p>
+
 <p>Naissance de Siddhartha Gautama dans une famille royale, dans la région de Lumbini, au Népal actuel (date traditionnelle — certaines chronologies le placent un siècle plus tard). Il grandit dans le luxe d'un palais, soigneusement tenu à l'écart de toute souffrance.</p>
 
 # -560 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/cresus.webp' | relative_url }}" alt="Monnaie de Crésus" loading="lazy" decoding="async" width="800" height="700" /></p>
 
 <p>En Lydie, le roi Crésus — dont la richesse est restée proverbiale — perfectionne la monnaie : il introduit le premier bimétallisme, frappant séparément des pièces d'or pur et d'argent pur, aux valeurs standardisées. Un jalon majeur de l'histoire économique.</p>
 
@@ -3505,6 +3793,8 @@ tags: technology
 
 # -550 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/jeremie.webp' | relative_url }}" alt="Le prophète Jérémie" loading="lazy" decoding="async" width="1200" height="1577" /></p>
+
 <p>La catastrophe reçoit alors une explication que les prophètes avaient préparée : Jérémie et d'autres l'avaient annoncée avant qu'elle n'arrive, disant que Dieu punirait l'infidélité de son peuple. Les vaincus tiennent donc leur défaite non pour la preuve que leur dieu était faible, mais pour la preuve qu'il avait raison — Nabuchodonosor n'est pas son vainqueur, il est son instrument.</p>
 
 <p>De cette idée, un prophète anonyme de cette génération tire une conclusion que personne n'avait osée. Puisque Yahvé commande aux armées étrangères et dispose des empires, il n'est pas simplement le plus fort des dieux : les autres n'existent pas. Jusque-là, Israël affirmait devoir n'adorer que le sien ; désormais, il affirme qu'il n'y en a pas d'autre.</p>
@@ -3513,6 +3803,8 @@ tags: technology
 
 # -549 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/cyrus.webp' | relative_url }}" alt="Cyrus le Grand" loading="lazy" decoding="async" width="783" height="1175" /></p>
+
 <p>À l'est, un roi vassal de la Perse renverse son suzerain mède et fonde ce qui deviendra, en une génération, le plus vaste empire que le monde ait connu : Cyrus, que l'histoire appellera le Grand.</p>
 
 <p>Sa nouveauté n'est pas militaire, elle est politique. Les Assyriens avaient gouverné par la terreur — déportations massives, villes rasées, supplices publics affichés sur les murs des palais. Cyrus fait l'inverse : il laisse aux peuples soumis leurs dieux, leurs langues, leurs coutumes et souvent leurs souverains locaux, à condition qu'ils paient le tribut et fournissent des soldats. Un empire qui n'exige pas qu'on cesse d'être soi-même coûte beaucoup moins cher à tenir.</p>
@@ -3520,6 +3812,8 @@ tags: technology
 <p>Cette politique, il l'appliquera bientôt aux exilés de Babylone — avec des conséquences que personne n'a prévues.</p>
 
 # -547 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/pisistrate.webp' | relative_url }}" alt="Pisistrate" loading="lazy" decoding="async" width="457" height="768" /></p>
 
 <p>Un tyran s'empare d'Athènes. Pisistrate, venu de la cité voisine de Brauron, dont la famille contrôle les plaines du nord, se fait le champion des mécontents — et lui puis ses fils gouverneront la ville pendant près de quarante ans.</p>
 
@@ -3530,6 +3824,8 @@ tags: technology
 <p>Le paradoxe mérite d'être noté : c'est un tyran qui dote Athènes des institutions et des monuments dont sa démocratie sera fière. Les régimes se succèdent en héritant les uns des autres, souvent sans le reconnaître.</p>
 
 # -540 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/genese.webp' | relative_url }}" alt="La Genèse" loading="lazy" decoding="async" width="1200" height="1779" /></p>
 
 <p>Un prêtre exilé à Babylone entreprend de raconter la création du monde — et son texte deviendra le premier chapitre de la Bible.</p>
 
@@ -3560,6 +3856,8 @@ tags: technology
 
 # -534 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/quatrerencontres.webp' | relative_url }}" alt="Les quatre rencontres" loading="lazy" decoding="async" width="1200" height="900" /></p>
+
 <p>Siddhartha Gautama sort de son palais et rencontre ce qu'on lui avait toujours caché : un vieillard, un malade, un mort. Bouleversé par la découverte de la souffrance universelle, il quitte la vie princière, sa femme et son fils, pour devenir ascète errant et chercher une issue à la douleur humaine.</p>
 
 <p>La date reste approximative. Ce qui est sûr, c'est que ce départ a lieu dans les plaines du Gange enrichies, à l'époque où des maîtres cherchent déjà dans les forêts comment sortir du cycle des renaissances. Cet homme n'invente pas la question : il l'hérite, et il y répondra autrement.</p>
@@ -3569,6 +3867,8 @@ tags: technology
 <p>Le désastre tombe au pire moment — et il confirme ce que chacun sent déjà. Les États s'entredéchirent, les nobles trahissent leurs princes, le luxe ruine l'économie, les rites ne sont plus respectés : que le ciel réponde par un typhon paraît la conclusion logique de tout cela.</p>
 
 # -530 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/pythagore.webp' | relative_url }}" alt="Pythagore" loading="lazy" decoding="async" width="1200" height="1733" /></p>
 
 <p>Deux mouvements marginaux apparaissent en Grèce, qui vont dans une direction toute différente de celle de la cité guerrière.</p>
 
@@ -3597,6 +3897,8 @@ tags: technology
 
 # -527 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/mahavira.webp' | relative_url }}" alt="Mahavira" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+
 <p>Dans la tradition jaïne, l'<em>ahimsa</em> est poussée jusqu'à une conséquence extraordinaire : toute créature vivante possède une âme, et toute violence produit du karma qui attache davantage celui qui la commet au cycle des renaissances. Tuer n'est donc pas seulement immoral ; c'est compromettre directement sa propre libération.</p>
 
 <p>Les ascètes jaïns développent une discipline destinée à réduire autant que possible la destruction du vivant : refus de tuer les animaux, régime végétarien et précautions envers les formes de vie les plus petites. Certaines pratiques emblématiques consistent à filtrer l'eau, balayer le sol devant ses pas ou protéger sa bouche afin d'éviter de tuer involontairement de minuscules créatures.</p>
@@ -3604,6 +3906,8 @@ tags: technology
 <p>Le renversement par rapport à l'ancien univers védique est saisissant. Dans une civilisation où tuer rituellement un animal pouvait contribuer à maintenir l'ordre cosmique, une tradition affirme désormais que la libération exige précisément de réduire autant que possible toute violence envers le vivant.</p>
 
 # -521 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/disciplesconfucius.webp' | relative_url }}" alt="Confucius et ses disciples" loading="lazy" decoding="async" width="1100" height="1600" /></p>
 
 <p>Kong Qiu a trente ans, et il maîtrise désormais la science des rites. C'est l'âge, dira-t-il en résumant sa vie, où il s'est tenu debout.</p>
 
@@ -3622,11 +3926,15 @@ tags: technology
 
 # -510 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/epeegoujian.webp' | relative_url }}" alt="L'épée de Goujian" loading="lazy" decoding="async" width="1200" height="800" /></p>
+
 <p>L'équilibre chinois s'est déplacé. Chu, la puissance du sud qui avait fait basculer la région dans la guerre totale, a fini par être vaincue à son tour — et c'est désormais Qi, sur la côte orientale, qui domine la plaine.</p>
 
 <p>Le tableau est révélateur de l'époque. Les États qui prospèrent sont ceux des marges — Chu au sud, Qi à l'est, Qin à l'ouest —, tandis que les vieilles principautés du centre, plus proches du roi et plus attachées à la tradition, s'affaiblissent et cherchent des protecteurs. Ce sont les barbares d'hier qui font désormais la loi.</p>
 
 # -509 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/republiqueromaine.webp' | relative_url }}" alt="Buste de Lucius Junius Brutus" loading="lazy" decoding="async" width="1200" height="1598" /></p>
 
 <p>À Rome, la monarchie tombe : le dernier roi, Tarquin le Superbe, est chassé, et l'élite comme le peuple veulent un système qui empêche à jamais le pouvoir d'un seul. Naît la République : deux consuls élus pour un an seulement et gouvernant ensemble, un Sénat pour conseiller, des assemblées populaires pour les grandes décisions — la séparation des pouvoirs avant la lettre. Ce régime portera Rome à la domination de la Méditerranée.</p>
 
@@ -3640,6 +3948,8 @@ tags: technology
 <p>Un an après Rome, Athènes invente plus radical encore : Clisthène fait adopter des réformes qui donnent le pouvoir à l'assemblée des citoyens — la démocratie, littéralement « le pouvoir du peuple ». Chaque citoyen peut parler, voter les lois, être tiré au sort pour les charges publiques. Le mot « citoyen » exclut certes les femmes, les esclaves et les étrangers — la démocratie athénienne est une affaire de minorité. Mais l'idée est lancée : le pouvoir peut appartenir aux gouvernés. Elle ne s'éteindra plus.</p>
 
 # -505 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/printempsautomnes.webp' | relative_url }}" alt="La période des Printemps et Automnes" loading="lazy" decoding="async" width="1200" height="800" /></p>
 
 <p>Les structures politiques et sociales se disloquent, et la Chine semble se précipiter vers l'anarchie. Les nobles se révoltent contre leurs princes, les intendants prennent le pas sur les nobles, et dans certaines principautés le duc ne règne plus que de nom pendant que trois familles se partagent le pouvoir réel.</p>
 
@@ -3662,6 +3972,8 @@ tags: technology
 <p>Confucius y réagira par une formule restée célèbre : il faut que le prince soit prince, le ministre ministre, le père père et le fils fils. Cela ressemble à une évidence ; dans un monde où plus personne n'est ce qu'il prétend être, c'est un programme politique.</p>
 
 # -500 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/ahimsa.webp' | relative_url }}" alt="L'ahimsa" loading="lazy" decoding="async" width="1200" height="2552" /></p>
 
 <p>En Inde survient l'un des retournements les plus inattendus de l'histoire religieuse. Les descendants des anciens éleveurs guerriers védiques, qui ont sacrifié des animaux pendant des siècles et célébré une religion de combattants, font progressivement émerger un idéal presque exactement inverse : l'<em>ahimsa</em>, la non-violence.</p>
 
@@ -3687,6 +3999,8 @@ tags: technology
 
 # -497 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/confuciusroutes.webp' | relative_url }}" alt="Confucius" loading="lazy" decoding="async" width="698" height="1417" /></p>
+
 <p>Après quelques charges à Lu où il n'obtient jamais durablement l'oreille du prince, Kong Qiu quitte sa principauté et part sur les routes. Il a une cinquantaine d'années, et il voyagera treize ans de cour en cour pour proposer ses services aux souverains.</p>
 
 <p>Aucun ne le prendra vraiment au sérieux. On l'écoute poliment, on lui offre l'hospitalité, on lui préfère les conseillers qui promettent des victoires. Il connaîtra la faim, sera assiégé, menacé, moqué — un ermite lui dira qu'il ferait mieux de fuir le monde plutôt que d'essayer de le réparer.</p>
@@ -3705,6 +4019,8 @@ tags: technology
 <p>Athènes vient de prouver l'impensable : l'empire n'est pas invincible. Elle en tirera une confiance immense — et les Perses, une rancune tenace.</p>
 
 # -483 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/parinirvana.webp' | relative_url }}" alt="Le parinirvana du Bouddha" loading="lazy" decoding="async" width="1200" height="800" /></p>
 
 <p>Mort du Bouddha, à environ quatre-vingts ans — le parinirvana, l'extinction complète. Ses disciples réunissent et mémorisent son enseignement, qui se répandra sur toute l'Asie.</p>
 
@@ -3747,6 +4063,8 @@ tags: technology
 
 # -479 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/platees.webp' | relative_url }}" alt="La bataille de Platées" loading="lazy" decoding="async" width="1200" height="793" /></p>
+
 <p>La guerre commencée l'année précédente n'est pas terminée. Au printemps, l'armée de Mardonios occupe de nouveau Athènes, dont la population a une nouvelle fois été évacuée.</p>
 
 <p>À Platées, en Béotie, une grande coalition de cités grecques affronte finalement l'armée de Mardonios. Les effectifs transmis par les auteurs antiques sont difficiles à vérifier, mais il s'agit de l'un des plus grands rassemblements militaires grecs de l'époque. Spartiates, Athéniens, Corinthiens, Mégariens et contingents de nombreuses autres cités combattent ensemble sous le commandement général du Spartiate Pausanias.</p>
@@ -3760,6 +4078,8 @@ tags: technology
 <p>Cette victoire modifie profondément l'équilibre du monde grec. Sparte conserve un immense prestige terrestre, mais Athènes possède désormais la flotte qui a joué un rôle décisif dans la guerre.</p>
 
 # -477 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/liguededelos.webp' | relative_url }}" alt="La ligue de Délos" loading="lazy" decoding="async" width="866" height="486" /></p>
 
 <p>De nombreuses cités grecques des îles et des côtes d'Asie Mineure restent exposées à la puissance perse. Sparte, grande puissance terrestre, se montre de moins en moins disposée à conduire des opérations lointaines en mer. Athènes, au contraire, possède désormais l'une des principales flottes du monde grec.</p>
 
@@ -3785,6 +4105,8 @@ tags: technology
 
 # -458 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/eschyle.webp' | relative_url }}" alt="Eschyle" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+
 <p>Eschyle présente à Athènes l'<em>Orestie</em>, trois tragédies enchaînées qui reprennent l'histoire de la maison d'Atrée et lui donnent sa forme définitive.</p>
 
 <p>Il en déplie toute la chaîne. À l'origine, une querelle entre deux frères pour le trône de Mycènes : Atrée invite Thyeste à un banquet de réconciliation et lui sert un ragoût préparé avec les corps de ses propres fils. Puis Agamemnon, fils d'Atrée, sacrifie sa fille Iphigénie pour obtenir le vent qui mènera la flotte à Troie. Sa femme Clytemnestre l'égorge à son retour pour venger l'enfant. Leur fils Oreste tue sa mère pour venger son père — et les déesses de la vengeance le poursuivent aussitôt jusqu'à la folie.</p>
@@ -3804,6 +4126,8 @@ tags: technology
 <p>Il écrit presque tout en dialogues, où Socrate interroge sans jamais rien affirmer, et fonde vers -387 l'Académie — une institution d'enseignement et de recherche qui fonctionnera neuf siècles. Aristote y entrera à dix-sept ans.</p>
 
 # -400 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/narezushi.webp' | relative_url }}" alt="Narezushi" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>En Chine, on met au point une technique de conservation promise à un destin savoureux : le poisson fermenté au riz. Vidé et abondamment salé, le poisson est intercalé dans du riz cuit, pressé sous des poids, et laissé à fermenter des semaines ou des mois — le riz n'est pas mangé : il sert uniquement à déclencher et contrôler la fermentation lactique qui préserve la chair. Cette pratique voyagera vers le Japon et évoluera, des siècles plus tard, pour donner naissance au sushi — où le riz vinaigré finira par remplacer la longue fermentation.</p>
 
@@ -3827,11 +4151,15 @@ tags: technology
 
 # -350 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Le Daodejing" loading="lazy" decoding="async" width="453" height="1000" /></p>
+
 <p>C'est probablement à cette époque, pendant la période des Royaumes combattants, que se forme le texte lui-même : le <em>Daodejing</em>, ou <em>Livre de la Voie et de la Vertu</em>. Non pas écrit d'un jet par un homme, mais compilé progressivement — sentences rythmées, formules mémorisables, matériaux anciens transmis oralement puis rassemblés.</p>
 
 <p>Son contenu est un renversement systématique des valeurs de son temps. Là où les écoles rivales prêchent l'action, le mérite, les rites et la loi, le <em>Daodejing</em> fait l'éloge de l'eau qui contourne l'obstacle, du vide qui rend le vase utile, du non-agir qui laisse les choses suivre leur cours. Le sage gouverne si discrètement que le peuple croit avoir agi de lui-même ; le mou l'emporte sur le dur, comme l'eau finit par user la pierre.</p>
 
 # -332 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/ptolemees.webp' | relative_url }}" alt="L'Égypte ptolémaïque" loading="lazy" decoding="async" width="447" height="494" /></p>
 
 <p>Alexandre le Grand conquiert l'Égypte, accueilli en libérateur du joug perse. Début de la domination grecque sur le pays : la dynastie des Ptolémées, issue d'un de ses généraux, régnera trois siècles sur le Nil.</p>
 
@@ -3855,15 +4183,21 @@ tags: technology
 
 # -323 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/diadoques.webp' | relative_url }}" alt="Les royaumes des Diadoques" loading="lazy" decoding="async" width="1200" height="297" /></p>
+
 <p>Alexandre meurt à Babylone, à trente-deux ans, sans héritier désigné — à qui l'empire ? « Au plus fort », aurait-il soufflé. Ses généraux se le déchirent en royaumes rivaux : l'Égypte aux Ptolémées, l'Asie aux Séleucides, la Macédoine aux Antigonides.</p>
 
 # -322 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/chandragupta.webp' | relative_url }}" alt="Chandragupta Maurya" loading="lazy" decoding="async" width="1200" height="1176" /></p>
 
 <p>Chandragupta Maurya s'empare de Magadha et fonde la dynastie Maurya. Pour la première fois, une puissance politique va parvenir à contrôler une grande partie du sous-continent indien. Quelques années auparavant, Alexandre le Grand avait atteint la vallée de l'Indus avant que son armée refuse de poursuivre vers l'est : l'Inde du Nord appartient désormais à un monde où les grands ensembles indien, iranien et hellénistique peuvent entrer en contact.</p>
 
 <p>La puissance maurya repose sur un environnement matériel très différent de celui des premiers textes védiques : agriculture intensive, métallurgie du fer, villes fortifiées, routes commerciales, fiscalité, monnaie et administration permettent désormais de gouverner des territoires immenses. Les idées religieuses peuvent elles aussi circuler à une échelle nouvelle.</p>
 
 # -320 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/royaumescombattants.webp' | relative_url }}" alt="Les Royaumes combattants" loading="lazy" decoding="async" width="1200" height="800" /></p>
 
 <p>À l'autre extrémité de l'Asie, la Chine traverse la période des Royaumes combattants. L'autorité de l'ancienne dynastie Zhou est devenue largement symbolique et plusieurs États territoriaux se livrent une compétition politique et militaire permanente.</p>
 
@@ -3883,6 +4217,8 @@ tags: technology
 <p>En Amérique, la civilisation maya développe son écriture — et, de façon totalement indépendante, elle réinvente les mêmes solutions que l'Ancien Monde : le principe du rébus (transformer une image en son du langage) et les déterminants pour lever les ambiguïtés — lire une image comme une image, ou comme un son ? La preuve éclatante que l'écriture n'est pas un accident : partout où une société en a besoin, l'esprit humain retrouve les mêmes chemins.</p>
 
 # -261 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/kalinga.webp' | relative_url }}" alt="La guerre du Kalinga" loading="lazy" decoding="async" width="1200" height="1600" /></p>
 
 <p>En Inde, l'Empire maurya est devenu en quelques générations la plus grande puissance politique que le sous-continent ait connue jusque-là. Depuis sa capitale de Pataliputra, dans la vallée du Gange, la dynastie contrôle un immense territoire s'étendant sur une grande partie du nord et du centre de l'Inde et jusqu'aux régions de l'actuel Afghanistan. Mais une région importante échappe encore à son autorité : le Kalinga, sur la côte orientale, dans la région de l'actuel Odisha.</p>
 
@@ -3931,6 +4267,8 @@ tags: technology
 </p>
 
 # -257 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/brahmi.webp' | relative_url }}" alt="Écriture brahmi" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>L'Empire maurya est immense et linguistiquement divers. La majorité des inscriptions d'Ashoka utilisent différentes formes de prakrit écrites en brahmi ; dans le nord-ouest, certaines emploient le kharoshthi. À Kandahar, aux frontières occidentales de l'empire, Ashoka fait même inscrire des textes en grec et en araméen, témoignage matériel d'un monde où l'Inde, l'ancien Empire perse et les royaumes hellénistiques sont désormais en contact.</p>
 
@@ -3992,6 +4330,8 @@ tags: technology
 
 # -217 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/trasimene.webp' | relative_url }}" alt="Le lac Trasimène" loading="lazy" decoding="async" width="781" height="600" /></p>
+
 <p>Au printemps -217, Hannibal poursuit sa marche vers le sud. L'une des armées romaines commandées par le consul Caius Flaminius tente de le suivre. Hannibal exploite alors le terrain pour préparer l'une des embuscades les plus célèbres de l'histoire militaire antique.</p>
 
 <p>Près du lac Trasimène, en Étrurie, les Romains avancent entre les collines et le rivage dans des conditions de visibilité réduite. Hannibal a disposé ses troupes sur les hauteurs qui dominent leur route. Lorsque la colonne romaine s'est engagée dans le passage, les Carthaginois attaquent de plusieurs directions.</p>
@@ -4023,6 +4363,8 @@ tags: technology
 
 # -215 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/hieron.webp' | relative_url }}" alt="Hiéron II de Syracuse" loading="lazy" decoding="async" width="1200" height="1200" /></p>
+
 <p>Hiéron II meurt après un règne de plus d'un demi-siècle. Sa disparition bouleverse l'équilibre politique de Syracuse. Son petit-fils Hiéronyme, encore très jeune, lui succède dans une Méditerranée où la puissance romaine semble soudain beaucoup moins invincible qu'auparavant.</p>
 
 <p>Hiéronyme ouvre des négociations avec Carthage et s'éloigne de l'alliance romaine entretenue par son grand-père. Il est cependant assassiné après seulement quelques mois de règne. Syracuse sombre alors dans une période de luttes politiques au cours de laquelle le parti favorable à Carthage finit par prendre l'avantage.</p>
@@ -4030,6 +4372,8 @@ tags: technology
 <p>Pour Rome, la question est stratégique. La Sicile se trouve au centre des routes maritimes entre l'Italie et l'Afrique du Nord. Une Syracuse alliée à Carthage pourrait fournir à Hannibal et aux Carthaginois une base majeure à quelques dizaines de kilomètres seulement des possessions romaines.</p>
 
 # -214 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/siegesyracuse.webp' | relative_url }}" alt="La mort d'Archimède" loading="lazy" decoding="async" width="1200" height="917" /></p>
 
 <p>Rome décide de reprendre le contrôle de Syracuse. Le consul Marcus Claudius Marcellus arrive devant la cité avec des forces terrestres et navales et commence le siège. Les Romains s'attendent à employer les méthodes habituelles de la guerre hellénistique : approcher les murailles, utiliser des échelles et des machines de siège, puis exploiter leur supériorité militaire.</p>
 
@@ -4043,6 +4387,8 @@ tags: technology
 
 # -212 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/griffedarchimede.webp' | relative_url }}" alt="La griffe d'Archimède" loading="lazy" decoding="async" width="1200" height="966" /></p>
+
 <p>Après environ deux années de siège, Syracuse tient toujours. Les machines d'Archimède ont contribué à rendre extrêmement difficiles les assauts directs, mais elles ne peuvent résoudre le problème politique et militaire fondamental : la cité est encerclée par une puissance disposant de ressources considérables et capable d'attendre.</p>
 
 <p>En -212, les Romains commandés par Marcellus réussissent finalement à pénétrer dans Syracuse. Selon le récit de Plutarque, ils profitent notamment du relâchement de la surveillance pendant une fête consacrée à Artémis pour franchir une partie des défenses. La chute complète de la cité se déroule ensuite par étapes plutôt qu'en un unique assaut.</p>
@@ -4054,6 +4400,8 @@ tags: technology
 <p>Le paradoxe est profond : Rome conquiert progressivement le monde grec par les armes, mais le monde grec transforme progressivement Rome par sa culture. Au cours des générations suivantes, littérature, philosophie, art, médecine et sciences grecques occuperont une place toujours plus importante dans la vie intellectuelle romaine. La chute de Syracuse appartient aux premiers grands moments de cette rencontre.</p>
 
 # -202 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/zama.webp' | relative_url }}" alt="La bataille de Zama" loading="lazy" decoding="async" width="1200" height="907" /></p>
 
 <p>Bataille de Zama : Scipion l'Africain, portant à son tour la guerre en Afrique, vainc Hannibal sur son propre sol. Carthage capitule — Rome devient la puissance dominante de la Méditerranée occidentale, et rien ne l'arrêtera plus.</p>
 
@@ -4085,9 +4433,13 @@ tags: technology
 
 # -136 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/hanwudi.webp' | relative_url }}" alt="L'empereur Han Wudi" loading="lazy" decoding="async" width="1200" height="1613" /></p>
+
 <p>L'empereur Han Wudi adopte le confucianisme comme idéologie officielle de l'empire chinois : les fonctionnaires seront désormais formés — et bientôt recrutés par concours — sur les classiques confucéens. Le mariage de la bureaucratie et de la morale confucéenne structurera la Chine pendant deux mille ans.</p>
 
 # -120 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/simaqian.webp' | relative_url }}" alt="Sima Qian" loading="lazy" decoding="async" width="970" height="1290" /></p>
 
 <p>À la cour des Han, un érudit du nom de Sima Tan occupe la charge de grand astrologue-archiviste — gardien des textes, des calendriers et de la mémoire de l'empire, et père du plus grand historien de la Chine, Sima Qian. Devant l'immense héritage intellectuel des siècles précédents, il entreprend de mettre de l'ordre : il classe la pensée chinoise en six grands courants — confucianistes, moïstes, légistes, logiciens, école du Yin-Yang — et, pour le sixième, forge une étiquette pour un ensemble de textes qui n'en avait pas : l'« école du Dao », la Voie.</p>
 
@@ -4114,6 +4466,8 @@ tags: technology
 
 # -58 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/guerredesgaules.webp' | relative_url }}" alt="Les fortifications d'Alésia" loading="lazy" decoding="async" width="1200" height="900" /></p>
+
 <p>Jules César, proconsul de la Gaule cisalpine, trouve son prétexte : la migration des Helvètes menacerait les alliés de Rome. Il les écrase, puis ne s'arrête plus. Ainsi commence la Guerre des Gaules — huit années de campagnes sur un territoire qui couvre la France, la Belgique, la Suisse et des parties des Pays-Bas, de l'Allemagne et de l'Italie du Nord actuels.</p>
 
 <p>César n'est pas seulement un général : il est son propre chroniqueur. Ses <em>Commentaires sur la Guerre des Gaules</em>, écrits dans une prose limpide et à la troisième personne — « César fit », jamais « je fis » —, sont expédiés à Rome au fil des campagnes. Sous couvert de rapport militaire, c'est une machine de propagande d'un raffinement inédit : le lecteur croit lire des faits bruts, il lit la construction d'un homme d'État. Le texte est si pur qu'on le fait encore traduire aux écoliers deux mille ans plus tard.</p>
@@ -4131,9 +4485,13 @@ tags: technology
 
 # -49 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/rubicon.webp' | relative_url }}" alt="Le passage du Rubicon" loading="lazy" decoding="async" width="490" height="640" /></p>
+
 <p>Auréolé de gloire, riche du butin de tout un pays, à la tête de légions qui lui sont dévouées, César est devenu trop puissant pour la République. Le Sénat lui ordonne de licencier son armée ; il refuse, et franchit avec elle le Rubicon — le petit fleuve qui marque la limite au-delà de laquelle nul général ne peut mener ses troupes vers Rome. Franchir cette rivière, c'est déclarer la guerre à son propre État. « Le sort en est jeté », aurait-il dit — et l'expression « franchir le Rubicon » désigne depuis lors le point de non-retour. La guerre civile commence ; la République, elle, ne s'en relèvera pas.</p>
 
 # -46 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/triompheromain.webp' | relative_url }}" alt="Un triomphe romain" loading="lazy" decoding="async" width="1200" height="786" /></p>
 
 <p>César célèbre son triomphe — la plus haute récompense qu'un général romain puisse recevoir : une immense procession qui traverse la ville sur plusieurs kilomètres. L'ordre du cortège est immuable. En tête viennent les magistrats, puis les chars croulant sous le butin et de grands tableaux peints représentant les batailles gagnées. Viennent ensuite les prisonniers, à pied, enchaînés. Puis le vainqueur lui-même, debout sur un char tiré par quatre chevaux blancs, drapé de pourpre et le visage peint en rouge — comme la statue de Jupiter. Et fermant la marche, les légions, qui chantent sur leur général des chansons paillardes : la tradition l'exige.</p>
 
@@ -4162,6 +4520,8 @@ tags: technology
 
 # -42 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/philippes.webp' | relative_url }}" alt="La bataille de Philippes" loading="lazy" decoding="async" width="1200" height="1069" /></p>
+
 <p>À Philippes, en Macédoine, les héritiers de César — Octavien, son fils adoptif de vingt et un ans, et Marc Antoine, son lieutenant — écrasent les armées de Brutus et Cassius. Les deux tyrannicides se suicident sur le champ de bataille. La cause républicaine est morte avec eux : plus personne, désormais, ne se battra pour le Sénat.</p>
 
 <p>Reste à savoir qui héritera de César. Les vainqueurs se partagent le monde romain : Antoine prend l'Orient et sa richesse, Octavien l'Occident et l'Italie. Un partage entre deux hommes qui ne peuvent, à terme, régner ensemble.</p>
@@ -4177,13 +4537,19 @@ tags: technology
 
 # -32 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/marcantoine.webp' | relative_url }}" alt="Marc Antoine" loading="lazy" decoding="async" width="800" height="1046" /></p>
+
 <p>Octavien gagne la bataille avant de la livrer, et il la gagne par la propagande. Il s'empare du testament d'Antoine déposé chez les vestales — un sacrilège — et le lit publiquement au Sénat : Antoine y reconnaît ses enfants égyptiens, lègue des territoires romains à une reine étrangère, demande à être enterré à Alexandrie et non à Rome. Le message qu'Octavien martèle est simple et dévastateur : Antoine n'est plus romain, il est devenu l'instrument d'une souveraine orientale qui veut régner sur Rome. Officiellement, Rome ne déclare donc pas la guerre à un citoyen — ce serait une guerre civile de plus — mais à l'Égypte de Cléopâtre. Le conflit devient patriotique.</p>
 
 # -31 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/actium.webp' | relative_url }}" alt="La bataille d'Actium" loading="lazy" decoding="async" width="1200" height="844" /></p>
+
 <p>Le 2 septembre, au large d'Actium, en Grèce, les deux flottes s'affrontent. Celle d'Antoine est plus lourde, mais rongée par la maladie, les désertions et le manque de rameurs. Agrippa, l'amiral d'Octavien, l'enferme dans le golfe et l'affame. Quand la bataille s'engage enfin, Cléopâtre force le blocus avec son escadre et s'échappe vers l'Égypte ; Antoine la suit, abandonnant sa flotte. Ses partisans passent en masse à l'ennemi. Le dernier obstacle est tombé : Octavien reste seul maître du monde romain.</p>
 
 # -30 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/mortcleopatre.webp' | relative_url }}" alt="La mort de Cléopâtre" loading="lazy" decoding="async" width="1200" height="1375" /></p>
 
 <p>Octavien marche sur l'Égypte. Alexandrie tombe sans véritable combat ; Antoine, croyant Cléopâtre morte, se jette sur son épée. La reine, elle, se réfugie dans son mausolée — et se retrouve prisonnière chez elle.</p>
 
@@ -4208,11 +4574,15 @@ tags: technology
 
 # -19 av. J.-C.
 
+<p style="text-align:center"><img src="{{ '/assets/img/virgile.webp' | relative_url }}" alt="Virgile" loading="lazy" decoding="async" width="1200" height="1163" /></p>
+
 <p>Virgile meurt en laissant inachevée l'Énéide, la grande épopée qu'Auguste lui avait commandée : le récit du Troyen Énée fuyant sa ville en flammes pour fonder, après mille épreuves, la lignée dont naîtra Rome. Le poète, insatisfait, demande sur son lit de mort qu'on brûle le manuscrit. Auguste s'y oppose et le fait publier — un empereur sauvant un chef-d'œuvre contre la volonté de son auteur.</p>
 
 <p>Le calcul est limpide : Rome, jusque-là, n'avait pas de mythe fondateur à la hauteur de sa puissance. L'Énéide lui en donne un, qui la rattache à Troie et à l'épopée grecque, et qui fait de la dynastie d'Auguste l'accomplissement d'un destin voulu par les dieux. Le poème deviendra le texte scolaire de tout l'Occident pendant deux mille ans. Auguste n'a pas seulement bâti un empire : il lui a fourni ses origines.</p>
 
 # -4 av. J.-C.
+
+<p style="text-align:center"><img src="{{ '/assets/img/nativite.webp' | relative_url }}" alt="La Nativité" loading="lazy" decoding="async" width="1200" height="666" /></p>
 
 <p>En Judée, province récemment passée sous contrôle romain, naît un enfant nommé Yeshoua — Jésus de Nazareth. Sa naissance restera l'événement le plus daté de l'histoire, puisque le monde entier compte encore ses années à partir d'elle. Ironie du calendrier : elle ne tombe pas au bon endroit.</p>
 
@@ -4237,11 +4607,15 @@ tags: technology
 
 # 14 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/mausoleeauguste.webp' | relative_url }}" alt="Le mausolée d'Auguste" loading="lazy" decoding="async" width="1200" height="857" /></p>
+
 <p>Auguste meurt à soixante-quinze ans, après quarante ans de règne — dans son lit, ce qu'aucun homme puissant n'avait réussi à Rome depuis des générations.</p>
 
 <p>Il laisse un empire pacifié, une administration qui fonctionne — et un problème insoluble qu'il lègue à ses successeurs : ce régime n'a pas de règle de succession, puisqu'il n'est officiellement pas une monarchie. On se transmettra donc le pouvoir par adoption, par intrigue et, très souvent, par le meurtre. Son beau-fils Tibère lui succède. Rome ne redeviendra jamais une république.</p>
 
 # 15 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/germanicus.webp' | relative_url }}" alt="Germanicus" loading="lazy" decoding="async" width="1200" height="1494" /></p>
 
 <p>Six ans après le désastre, Germanicus — neveu de l'empereur Tibère et idole des légions — conduit ses hommes sur le site même de Teutobourg. Personne n'y est retourné depuis : le champ de bataille est intact.</p>
 
@@ -4249,21 +4623,29 @@ tags: technology
 
 # 16 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/idistaviso.webp' | relative_url }}" alt="Les campagnes de Germanicus" loading="lazy" decoding="async" width="1200" height="955" /></p>
+
 <p>À Idistaviso, sur les rives du Weser, Germanicus affronte enfin la coalition d'Arminius — et l'emporte largement. La différence tient au terrain : en rase campagne, sans forêt ni marécage pour annuler ses avantages, la discipline romaine reprend tous ses droits. Les Germains subissent de lourdes pertes. La revanche est consommée.</p>
 
 <p>Et pourtant, rien n'est réglé. Les tribus se dispersent, se reforment ailleurs, disparaissent dans les bois : on peut battre les Germains, on ne peut pas les tenir. Tibère en tire la conclusion et rappelle son neveu — mieux vaut consolider le Rhin que se ruiner à conquérir des marécages. La frontière de l'Empire est fixée pour quatre siècles.</p>
 
 # 19 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/mortgermanicus.webp' | relative_url }}" alt="La mort de Germanicus" loading="lazy" decoding="async" width="1200" height="893" /></p>
+
 <p>Germanicus meurt en Orient, à trente-trois ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
 
 # 21 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/arminius.webp' | relative_url }}" alt="Arminius" loading="lazy" decoding="async" width="1200" height="1800" /></p>
 
 <p>Arminius tombe à son tour — non sous les coups des Romains, mais sous ceux de ses propres proches, qui redoutaient de le voir se faire roi. Le libérateur de la Germanie est mort de sa victoire : elle l'avait rendu trop grand pour un monde de chefs égaux.</p>
 
 <p>Tacite lui rendra un hommage qu'aucun ennemi de Rome n'avait reçu : celui d'un homme qui affronta l'Empire à son apogée, non à ses débuts, et qui ne fut jamais vaincu. Dix-huit siècles plus tard, l'Allemagne en quête d'unité nationale le ressuscitera sous le nom d'Hermann et lui dressera un colosse de cuivre de cinquante mètres, épée pointée vers l'ouest. Comme Vercingétorix en France, il aura fallu attendre le XIXᵉ siècle pour que le vaincu devienne un héros — et pour la même raison : les nations modernes avaient besoin d'ancêtres.</p>
 
 # 30 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/crucifixion.webp' | relative_url }}" alt="La crucifixion" loading="lazy" decoding="async" width="1200" height="1535" /></p>
 
 <p>À Jérusalem, pendant la Pâque juive, un prédicateur galiléen est exécuté par les Romains. La crucifixion n'est pas une peine religieuse mais un châtiment politique, réservé aux esclaves et aux séditieux : lente, publique, infamante, elle sert à terroriser les foules — Rome en avait crucifié six mille le long de la voie Appienne après la révolte de Spartacus. L'écriteau cloué au-dessus de sa tête, « roi des Juifs », dit assez ce qu'on lui reproche : dans une province agitée, tout homme suivi par une foule est une menace pour l'ordre. Le préfet Ponce Pilate tranche comme il tranchait d'ordinaire.</p>
 
@@ -4281,6 +4663,8 @@ tags: technology
 
 # 49 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/concilejerusalem.webp' | relative_url }}" alt="Les apôtres" loading="lazy" decoding="async" width="1200" height="787" /></p>
+
 <p>À Jérusalem se tient une réunion de quelques hommes dont dépendra le destin d'une religion mondiale. La question posée paraît technique : les non-Juifs qui veulent rejoindre le mouvement doivent-ils d'abord devenir juifs — c'est-à-dire se faire circoncire et observer l'intégralité de la Loi, y compris les interdits alimentaires ?</p>
 
 <p>Derrière la technique, tout se joue. D'un côté, les fidèles de Jérusalem, menés par Jacques, frère de Jésus : ils sont juifs, fréquentent le Temple, et ne voient aucune raison d'abandonner l'alliance de leurs pères. De l'autre, Paul de Tarse, qui prêche dans les villes grecques et se heurte à un mur : aucun adulte gréco-romain n'acceptera la circoncision, et les interdits alimentaires rendent impossible de partager un repas avec ses voisins. Exiger la Loi, c'est condamner le mouvement à rester une secte juive parmi d'autres.</p>
@@ -4289,6 +4673,8 @@ tags: technology
 
 # 50 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/saintpaul.webp' | relative_url }}" alt="Saint Paul" loading="lazy" decoding="async" width="1200" height="1133" /></p>
+
 <p>Un homme parcourt l'Empire à pied et par bateau — Asie Mineure, Grèce, Macédoine, des milliers de kilomètres à travers des ports, des synagogues et des ateliers. Paul de Tarse est un pharisien cultivé, citoyen romain, artisan tisserand de son métier, et un ancien persécuteur du mouvement qu'il propage désormais. Il n'a jamais connu Jésus de son vivant.</p>
 
 <p>Sa méthode est celle d'un stratège : il vise les grandes villes portuaires et les carrefours commerciaux, fonde une communauté, s'en va, et garde le contact par lettres. Ce sont ces lettres — écrites à la hâte pour régler des conflits, répondre à des questions, consoler ou tancer des groupes qu'il connaît personnellement — qui constituent les plus anciens textes chrétiens conservés. Elles précèdent les Évangiles de dix à quarante ans. La première chose que le christianisme ait écrite n'est donc pas le récit de la vie de son fondateur, mais du courrier administratif et pastoral.</p>
@@ -4296,6 +4682,8 @@ tags: technology
 <p>Le voyage lui-même est un produit de l'Empire : les routes romaines, la sécurité relative des mers, le grec parlé partout comme langue commune, la citoyenneté qui le protège des magistrats locaux. Rome, sans le savoir, fournit à cette religion son réseau de diffusion — et finira, trois siècles plus tard, par l'adopter.</p>
 
 # 59 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/bretagneromaine.webp' | relative_url }}" alt="La Bretagne romaine" loading="lazy" decoding="async" width="1200" height="1577" /></p>
 
 <p>Rome tient la Bretagne depuis seize ans, mais mal. Une partie des tribus vit sous le statut de royaumes clients : leurs rois gardent leur trône en échange de leur soumission. Ainsi Prasutagos, roi des Icènes, dans l'actuel Norfolk, riche et prudent — à sa mort, on découvre qu'il a légué par testament la moitié de son royaume à l'empereur Néron, espérant que ce cadeau garantirait l'autre moitié à ses filles.</p>
 
@@ -4317,6 +4705,8 @@ tags: technology
 <p>La vengeance est totale. Camulodunum tombe la première : ville de vétérans, symbole de la spoliation, sans murailles — on n'avait pas jugé utile d'en construire. Son temple, où la population se réfugie, résiste deux jours avant d'être pris et brûlé. Puis Londinium, le port marchand : le gouverneur, revenu en hâte avec sa cavalerie, juge la ville indéfendable et l'abandonne à son sort — il emmène qui peut le suivre, et laisse les autres. Puis Verulamium. Trois villes, presque aucun survivant — Tacite parle de soixante-dix mille morts. L'archéologie confirme : sous les rues de Londres court une couche d'argile rougie par l'incendie, qu'on appelle encore la « couche de Boudicca ».</p>
 
 # 61 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/watlingstreet.webp' | relative_url }}" alt="Légion romaine en formation" loading="lazy" decoding="async" width="1200" height="838" /></p>
 
 <p>Le rapport de force s'inverse en une journée. Quelque part dans les Midlands, le gouverneur Suetonius Paulinus choisit son terrain avec soin : un défilé étroit, la forêt dans le dos, la plaine devant. Les Bretons, écrasants en nombre, ont amené leurs familles sur des chariots pour assister à la victoire — et ces chariots, rangés en arc derrière eux, leur couperont la retraite. Quand la légion charge en formation de coin, la masse bretonne ne peut ni se déployer ni reculer. La discipline fait le reste. Boudicca s'empoisonne pour ne pas être prise vivante.</p>
 
@@ -4345,6 +4735,8 @@ tags: technology
 
 # 67 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/templechevalblanc.webp' | relative_url }}" alt="Le temple du Cheval blanc" loading="lazy" decoding="async" width="1200" height="859" /></p>
+
 <p>C'est la date que la tradition bouddhique chinoise s'est choisie. Elle raconte que l'empereur Mingdi fit un rêve : un homme d'or, lumineux, volait dans son palais. Ses conseillers y reconnurent le Bouddha, dont la renommée venait de l'Ouest. L'empereur envoya alors une ambassade au-delà des montagnes, qui revint avec deux moines indiens et des textes sacrés portés à dos de cheval blanc — en leur honneur fut bâti à Luoyang le monastère du Cheval blanc, réputé le premier de Chine.</p>
 
 <p>Le récit a été composé bien plus tard, et il sert un but précis. On reprochait au bouddhisme d'être une doctrine barbare, venue d'ailleurs, incompatible avec les rites chinois ; en plaçant son entrée sous le patronage d'un empereur Han, ses fidèles lui offraient un acte de naissance impérial et respectable. Les religions se fabriquent des origines comme les dynasties se fabriquent des ancêtres.</p>
@@ -4369,6 +4761,8 @@ tags: technology
 </p>
 
 # 100 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/charrue.webp' | relative_url }}" alt="Le labour à la charrue" loading="lazy" decoding="async" width="1200" height="364" /></p>
 
 <p>Pline l'Ancien avait signalé, peu avant sa mort au Vésuve, un outil nouveau chez les paysans de Gaule et de Rhétie : un araire monté sur deux roues, muni d'un soc de fer. Le progrès semble modeste ; il ne l'est pas. Les roues permettent de régler la profondeur du sillon et d'attaquer des terres plus lourdes ; le fer, désormais assez répandu pour être gaspillé dans un outil agricole, coupe là où le bois se contentait de gratter.</p>
 
@@ -4404,6 +4798,8 @@ tags: technology
 
 # 184 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/turbansjaunes.webp' | relative_url }}" alt="La révolte des Turbans jaunes" loading="lazy" decoding="async" width="500" height="413" /></p>
+
 <p>Des centaines de milliers de paysans chinois nouent un turban jaune autour de leur tête et se soulèvent. Le mouvement n'est pas une jacquerie spontanée : c'est une secte, la Voie de la Grande Paix, organisée patiemment par un guérisseur taoïste, Zhang Jue. Sa méthode tenait de la médecine et de la religion — il soignait par l'eau bénite et la confession des fautes, toute maladie étant vue comme la conséquence d'une faute. Dans un empire ravagé par les épidémies, les inondations et la famine, le succès fut foudroyant : trois cent mille fidèles, répartis en trente-six unités régionales, prêts à obéir à un signal.</p>
 
 <p>Le jaune n'est pas choisi au hasard. Selon la théorie des cinq éléments, chaque dynastie règne sous une couleur, et le jaune est celui de la Terre, qui doit succéder au Feu des Han. La révolte s'annonce donc comme un basculement cosmique : « Le ciel bleu est mort, le ciel jaune va s'élever. » Ce n'est pas une émeute contre l'impôt, c'est une fin du monde annoncée.</p>
@@ -4427,6 +4823,8 @@ tags: technology
 
 # 220 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/troisroyaumes.webp' | relative_url }}" alt="Les Trois Royaumes" loading="lazy" decoding="async" width="1200" height="935" /></p>
+
 <p>La dynastie Han s'éteint officiellement : le dernier empereur abdique en faveur d'un fils de seigneur de guerre. Quatre siècles de règne s'achèvent — l'empire qui avait donné son nom au peuple chinois lui-même, les Han, qu'ils portent encore aujourd'hui.</p>
 
 <p>La Chine éclate en trois royaumes rivaux, et cette division durera près de quatre siècles. Mais l'idée impériale, elle, survit intacte : personne ne songe à autre chose qu'à réunifier: chaque seigneur de guerre ne se bat pas pour son royaume, mais pour tout l'empire. C'est la grande différence avec Rome — quand l'Occident se morcellera, il donnera naissance à des nations séparées ; quand la Chine se morcelle, elle attend son prochain unificateur.</p>
@@ -4434,6 +4832,8 @@ tags: technology
 <p>Ces guerres fratricides laisseront un héritage inattendu : mille ans plus tard, elles deviendront le <em>Roman des Trois Royaumes</em>, chef-d'œuvre de la littérature chinoise dont les héros, les stratagèmes et les serments sont aussi familiers en Asie orientale que ceux de l'Iliade en Occident. Une période de chaos transformée en légende nationale.</p>
 
 # 224 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/ardachir.webp' | relative_url }}" alt="Ardachir Iᵉʳ" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>En Perse, un roi local nommé Ardachir renverse le dernier souverain parthe et fonde une dynastie qui régnera quatre siècles : les Sassanides. Son ambition est explicite — restaurer l'empire des Achéménides, celui de Cyrus et de Darius, effacé par Alexandre. Il ne se contente donc pas de prendre le pouvoir : il réactive une mémoire, fait graver ses reliefs sur les falaises près des tombes achéménides, et se proclame « roi des rois d'Iran ».</p>
 
@@ -4467,11 +4867,15 @@ tags: technology
 
 # 313 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/editdemilan.webp' | relative_url }}" alt="Le labarum de Constantin" loading="lazy" decoding="async" width="407" height="550" /></p>
+
 <p>L'édit de Milan proclame la liberté de culte dans tout l'Empire et rend aux chrétiens les biens confisqués pendant les persécutions. Le christianisme n'est pas encore religion d'État — il est simplement, pour la première fois, légal.</p>
 
 <p>Mais Constantin va bien au-delà de la tolérance : il exempte le clergé d'impôts, finance la construction de basiliques, offre des palais aux évêques, restitue et enrichit. En une génération, l'Église passe de la clandestinité à la fortune, et la conversion cesse d'être un risque pour devenir un avantage. Le nombre de fidèles explose — pour des raisons qui ne sont pas toutes spirituelles.</p>
 
 # 320 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/gupta.webp' | relative_url }}" alt="L'Empire gupta" loading="lazy" decoding="async" width="1200" height="592" /></p>
 
 <p>Dans la plaine du Gange, un souverain prend un nom lourd de sens — Chandragupta, comme le fondateur de l'empire maurya six siècles plus tôt — et fonde la dynastie Gupta. S'ouvre ce que l'on tient pour l'âge classique de l'Inde.</p>
 
@@ -4483,6 +4887,8 @@ tags: technology
 
 # 325 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/nicee.webp' | relative_url }}" alt="Le concile de Nicée" loading="lazy" decoding="async" width="1200" height="1531" /></p>
+
 <p>Constantin convoque à Nicée les évêques de tout l'Empire — plus de trois cents — et préside lui-même leurs débats. La question qui les divise vient d'un prêtre d'Alexandrie, Arius, et paraît d'une subtilité désespérante : le Christ est-il Dieu lui-même, ou la première créature que Dieu ait faite ? Pour Arius, il y eut forcément un moment où le Fils n'existait pas encore — sinon il y aurait deux dieux, et le monothéisme s'effondre. Pour ses adversaires, si le Christ n'est pas pleinement Dieu, alors les chrétiens adorent une créature, et leur salut ne repose sur rien.</p>
 
 <p>Le concile tranche en faveur des seconds : le Fils est « de même substance » que le Père — un seul mot grec, <em>homoousios</em>, qui décide de tout. Et pour que la réponse ne se perde plus, on la coule dans un texte à réciter : le Credo, encore prononcé chaque dimanche, quinze siècles plus tard, par des centaines de millions de personnes.</p>
@@ -4492,6 +4898,8 @@ tags: technology
 <p>Voilà ce que Nicée invente : non pas une croyance, mais une norme. À partir de ce jour, la foi a un texte officiel, ce qui s'en écarte porte un nom — l'hérésie — et l'État se charge de faire respecter la frontière. L'Église y gagne son unité, l'empereur un instrument de cohésion sans équivalent, et le désaccord religieux devient pour la première fois un problème politique.</p>
 
 # 326 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/crispus.webp' | relative_url }}" alt="Crispus" loading="lazy" decoding="async" width="1200" height="763" /></p>
 
 <p>Un an après avoir présidé le concile de Nicée, Constantin fait tuer deux membres de sa propre famille.</p>
 
@@ -4528,6 +4936,8 @@ tags: technology
 
 # 337 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/baptemeconstantin.webp' | relative_url }}" alt="Le baptême de Constantin" loading="lazy" decoding="async" width="1191" height="740" /></p>
+
 <p>Constantin meurt — et se fait baptiser quelques jours avant, sur son lit de mort. L'homme qui a légalisé le christianisme, financé ses basiliques et présidé son premier concile aura donc passé trente ans à la tête de l'Église sans jamais en être formellement membre.</p>
 
 <p>Le paradoxe n'en était pas un pour ses contemporains : le baptême effaçant tous les péchés d'une vie, beaucoup le repoussaient le plus tard possible, pour mourir absous. Le calcul se comprend d'autant mieux dans son cas — il avait fait exécuter son fils aîné et sa propre épouse, et ce genre de dossier vaut bien qu'on attende la dernière heure.</p>
@@ -4537,6 +4947,8 @@ tags: technology
 <p>La foi de l'Empire venait d'être fixée par écrit ; elle était encore loin d'être fixée dans les esprits. L'arianisme survivra longtemps, et il sera même la version du christianisme apportée aux peuples germaniques par leurs missionnaires. Quand ceux-ci s'installeront dans l'Empire, ils seront donc chrétiens — mais de la mauvaise sorte aux yeux de Rome, ce qui empoisonnera leurs rapports pendant deux siècles.</p>
 
 # 350 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/samkhya.webp' | relative_url }}" alt="Manuscrit philosophique indien" loading="lazy" decoding="async" width="1200" height="248" /></p>
 
 <p>Ishvarakrishna compose la <em>Samkhyakarika</em>, le plus ancien exposé systématique conservé du Samkhya classique.</p>
 
@@ -4548,6 +4960,8 @@ tags: technology
 
 # 376 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/gothsdanube.webp' | relative_url }}" alt="Les grandes migrations" loading="lazy" decoding="async" width="1200" height="726" /></p>
+
 <p>Sur la rive nord du Danube, une foule immense se presse et demande asile. Ce sont des Goths — des dizaines de milliers d'hommes, de femmes et d'enfants — chassés de leurs terres par un peuple venu des steppes dont on ne sait presque rien, sinon qu'on ne peut pas lui résister : les Huns.</p>
 
 <p>Rome accepte de les faire passer et de les installer. La décision n'a rien d'extraordinaire : l'Empire a souvent absorbé des populations entières, et il y trouve son compte — des terres à repeupler, des recrues pour l'armée. La condition est simple : les Goths doivent rendre leurs armes et seront nourris le temps de leur établissement.</p>
@@ -4555,6 +4969,8 @@ tags: technology
 <p>L'accueil tourne au désastre. Les fonctionnaires chargés du ravitaillement affament délibérément les réfugiés pour leur revendre des vivres à prix d'or, allant, disent les sources, jusqu'à échanger de la viande de chien contre des enfants réduits en esclavage. Beaucoup gardent leurs armes en soudoyant les gardes. Désarmés en théorie, dépouillés en pratique, humiliés en tout, les Goths se soulèvent — et l'Empire découvre qu'il a laissé entrer une armée.</p>
 
 # 378 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/andrinople.webp' | relative_url }}" alt="La bataille d'Andrinople" loading="lazy" decoding="async" width="912" height="1305" /></p>
 
 <p>L'empereur d'Orient Valens marche contre eux près d'Andrinople, sans attendre les renforts que son collègue d'Occident lui amène — il veut la victoire pour lui seul. Il engage le combat en pleine chaleur d'août, après des heures de marche, contre un adversaire retranché derrière ses chariots. La cavalerie gothique, revenue de fourrage, tombe sur ses flancs et referme le piège.</p>
 
@@ -4564,6 +4980,8 @@ tags: technology
 
 # 380 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/theodose.webp' | relative_url }}" alt="Théodose Iᵉʳ" loading="lazy" decoding="async" width="485" height="627" /></p>
+
 <p>L'empereur Théodose promulgue un édit très court qui change tout : désormais, tous les habitants de l'Empire doivent être chrétiens, et chrétiens d'une seule façon — celle qu'avait fixée le concile de Nicée. Ceux qui la suivent porteront le nom de catholiques. Les autres sont déclarés fous et infâmes, et l'édit annonce qu'ils subiront la punition de Dieu, puis celle de l'empereur.</p>
 
 <p>La différence avec Constantin est capitale. Soixante-sept ans plus tôt, celui-ci avait rendu le christianisme légal : on avait enfin le droit d'y croire. Théodose, lui, le rend obligatoire : on a maintenant le devoir d'y croire, et de la bonne manière. On passe de la tolérance à l'orthodoxie.</p>
@@ -4571,6 +4989,8 @@ tags: technology
 <p>Le premier ennemi visé n'est d'ailleurs pas le païen, mais le chrétien qui pense autrement — l'arien, dont Nicée n'avait pas réussi à régler le cas. C'est une constante : une religion d'État s'attaque d'abord à ses propres dissidents, avant de s'occuper des étrangers.</p>
 
 # 390 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/ambroise.webp' | relative_url }}" alt="Ambroise et Théodose" loading="lazy" decoding="async" width="1200" height="1590" /></p>
 
 <p>Un épisode montre pourtant que ce pouvoir tout-puissant a désormais un contrepoids.</p>
 
@@ -4584,6 +5004,8 @@ tags: technology
 
 # 391 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/serapeum.webp' | relative_url }}" alt="Le Serapeum d'Alexandrie" loading="lazy" decoding="async" width="1200" height="900" /></p>
+
 <p>Théodose interdit les sacrifices païens et ordonne la fermeture des temples dans tout l'Empire. C'est le premier volet de l'offensive : on ne s'attaque pas encore aux croyances, mais aux lieux et aux gestes du culte.</p>
 
 <p>L'Égypte paie le prix le plus lourd. À Alexandrie, la foule chrétienne menée par son évêque prend d'assaut le Sérapéum et le détruit — l'un des plus beaux sanctuaires du monde antique, consacré à un dieu que les Ptolémées avaient inventé trois siècles plus tôt pour réunir Grecs et Égyptiens dans un même culte. Sa statue colossale est mise en pièces et traînée dans les rues. Ceux qui la croyaient capable de faire s'écrouler le ciel si l'on y touchait constatent que le ciel reste en place : les auteurs chrétiens insisteront sur ce détail, et ils ont raison d'y voir un basculement.</p>
@@ -4591,6 +5013,8 @@ tags: technology
 <p>Dans la vallée du Nil, la conséquence sera plus silencieuse mais plus définitive encore. Les temples fermés, c'est la chaîne des prêtres qui se rompt — ceux-là mêmes qui se transmettaient, de génération en génération, la lecture des hiéroglyphes. Le savoir déclinait déjà, concurrencé par le grec ; l'édit lui porte le coup fatal. Il ne reste plus, tout au sud, que quelques sanctuaires trop lointains pour être atteints.</p>
 
 # 392 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/lararium.webp' | relative_url }}" alt="Un laraire romain" loading="lazy" decoding="async" width="1200" height="1600" /></p>
 
 <p>Second volet, plus radical : Théodose proscrit toute pratique païenne, y compris à domicile. Plus d'encens brûlé devant les statues de la maison, plus de libation de vin, plus de guirlande accrochée à un arbre. Ce que l'on faisait chez soi depuis mille ans devient un délit passible de confiscation.</p>
 
@@ -4615,6 +5039,8 @@ tags: technology
 
 # 400 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/patanjali.webp' | relative_url }}" alt="Patanjali" loading="lazy" decoding="async" width="476" height="666" /></p>
+
 <p>Le texte connu sous le nom de <em>Yoga Sutra</em> systématise à son tour des pratiques dont les origines sont beaucoup plus anciennes.</p>
 
 <p>C'est ici, et ici seulement, que ces pratiques éparses reçoivent une architecture fixe et un ordre canonique en huit membres : les <em>yamas</em>, règles de conduite ; les <em>niyamas</em>, disciplines personnelles ; l'<em>asana</em>, la posture ; le <em>pranayama</em>, la maîtrise du souffle ; le retrait des sens ; la concentration ; la méditation ; et enfin l'absorption contemplative.</p>
@@ -4622,6 +5048,8 @@ tags: technology
 <p>L'<em>ahimsa</em> vient avant les exercices corporels. Le yogin doit apprendre à ne pas nuire, à maîtriser ses désirs et à réduire son attachement aux possessions avant d'entreprendre les disciplines plus avancées. L'<em>asana</em> n'est encore nullement la succession complexe de postures que le monde moderne associera au yoga : il s'agit avant tout d'établir une posture stable permettant le travail méditatif.</p>
 
 # 402 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/yungang.webp' | relative_url }}" alt="Les grottes de Yungang" loading="lazy" decoding="async" width="1005" height="1299" /></p>
 
 <p>La Chine est morcelée depuis deux siècles, les dynasties s'effondrent, le nord est aux mains de peuples venus des steppes — et le bouddhisme y prospère comme jamais. Monastères, sanctuaires et communautés se multiplient, financés par les souverains régionaux et l'aristocratie.</p>
 
@@ -4659,6 +5087,8 @@ tags: technology
 
 # 430 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/vandales.webp' | relative_url }}" alt="Le royaume vandale" loading="lazy" decoding="async" width="1200" height="893" /></p>
+
 <p>Augustin meurt à Hippone, sa ville assiégée par les Vandales depuis trois mois. Il a soixante-quinze ans, il a passé sa vie à écrire que les cités des hommes sont périssables — et la sienne est en train de tomber sous ses fenêtres. La tradition rapporte qu'il avait fait copier sur les murs de sa chambre les psaumes de pénitence, pour les lire depuis son lit.</p>
 
 # 451 ans
@@ -4676,17 +5106,23 @@ tags: technology
 
 # 452 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/aquilee.webp' | relative_url }}" alt="Aquilée" loading="lazy" decoding="async" width="1200" height="900" /></p>
+
 <p>Attila revient par l'Italie et la dévaste. Les habitants d'Aquilée, rasée sans laisser de traces, fuient vers les lagunes de l'Adriatique et s'y installent : la tradition fait de cet exode l'origine de Venise. Une ville née de la peur d'Attila.</p>
 
 <p>Aux portes de Rome, le pape Léon Iᵉʳ vient à sa rencontre et obtient son retrait. L'Église en fera un miracle — la légende montrera saint Pierre et saint Paul apparaissant en armes au-dessus du pontife. Les historiens invoquent plutôt la famine, l'épidémie qui ravageait son armée et les renforts venus d'Orient. Reste le fait, chargé de sens : c'est un évêque, et non un empereur, qui a parlé au nom de Rome.</p>
 
 # 453 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/mortattila.webp' | relative_url }}" alt="La mort d'Attila" loading="lazy" decoding="async" width="800" height="633" /></p>
+
 <p>Attila meurt la nuit de ses noces avec une jeune épouse germanique — d'une hémorragie, dit-on, après avoir trop bu ; on le retrouve au matin étouffé dans son propre sang, la mariée en pleurs auprès de lui. Une mort ridicule pour l'homme que ses ennemis appelaient le Fléau de Dieu.</p>
 
 <p>Son empire se disloque en quelques mois : ses fils se déchirent, les peuples soumis se révoltent, et les Huns disparaissent de l'histoire presque aussi vite qu'ils y étaient entrés. C'est la loi des empires des steppes — bâtis sur le prestige d'un seul homme, ils ne survivent pas à ses funérailles. Attila aura régné vingt ans et remodelé l'Europe sans laisser ni État, ni ville, ni tombe connue.</p>
 
 # 476 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/romulusaugustule.webp' | relative_url }}" alt="Romulus Augustule" loading="lazy" decoding="async" width="500" height="233" /></p>
 
 <p>Un chef barbare nommé Odoacre dépose le dernier empereur d'Occident, un adolescent portant, par ironie du sort, les noms du fondateur de Rome et du fondateur de l'Empire : Romulus Augustule. Il ne le tue pas — il lui verse une pension et l'envoie vivre en Campanie.</p>
 
@@ -4727,6 +5163,8 @@ tags: technology
 
 # 541 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/pestejustinien.webp' | relative_url }}" alt="La peste de Justinien" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+
 <p>Une épidémie éclate à Péluse, dans le delta du Nil, portée par les rats des navires à grain. L'année suivante, elle atteint Constantinople : Procope, témoin oculaire, raconte cinq mille morts par jour, puis dix mille ; on ne sait plus où enterrer, on entasse les corps dans les tours des remparts. L'empereur Justinien lui-même est atteint et survit de justesse.</p>
 
 <p>C'est la première pandémie de peste bubonique attestée de l'histoire — la même bactérie qui reviendra huit siècles plus tard sous le nom de Peste noire. Elle frappe par vagues pendant deux siècles et tue peut-être un tiers des populations méditerranéennes.</p>
@@ -4734,6 +5172,8 @@ tags: technology
 <p>Son moment est cruel. Justinien venait de reconquérir l'Italie, l'Afrique et le sud de l'Espagne ; il croyait refaire l'Empire romain. La peste vide ses provinces, ruine ses finances, décime ses armées — et referme définitivement cette possibilité. Ni Byzance ni la Perse ne s'en relèveront vraiment ; un siècle plus tard, épuisées, elles s'effondreront devant les armées arabes.</p>
 
 # 581 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/suiwendi.webp' | relative_url }}" alt="L'empereur Wen des Sui" loading="lazy" decoding="async" width="868" height="1280" /></p>
 
 <p>Un général du nord, Yang Jian, s'empare du trône et fonde la dynastie Sui. Il entreprend aussitôt ce que personne n'avait réussi depuis la chute des Han : réunifier la Chine, divisée depuis près de quatre siècles. Le nord, gouverné par des dynasties issues des steppes, et le sud, refuge des élites chinoises exilées, avaient fini par former deux mondes séparés — deux accents, deux cuisines, deux façons d'être chinois.</p>
 
@@ -4752,6 +5192,8 @@ tags: technology
 
 # 610 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/hira.webp' | relative_url }}" alt="La grotte de Hira" loading="lazy" decoding="async" width="1200" height="801" /></p>
+
 <p>À La Mecque, un marchand d'une quarantaine d'années a l'habitude de se retirer pour méditer dans une grotte du mont Hira. Selon la tradition islamique, c'est là que Mahomet reçoit sa première révélation : une présence lui ordonne « Récite ! », et il proteste qu'il ne sait pas lire. L'ordre est répété trois fois. Bouleversé, persuadé d'avoir perdu la raison, il rentre chez lui tremblant et demande qu'on le couvre ; c'est sa femme Khadija, une riche commerçante plus âgée que lui, qui le rassure et devient sa première fidèle.</p>
 
 <p>Le lieu compte autant que l'événement. La Mecque est une ville caravanière prospère, étape entre le Yémen et la Syrie, et surtout un sanctuaire : la Kaaba y abrite les idoles de toute l'Arabie, et les pèlerinages font vivre la cité. Prêcher qu'il n'existe qu'un seul Dieu revient donc à s'attaquer à l'économie de la ville en même temps qu'à ses croyances. Les premiers fidèles seront persécutés, et beaucoup devront fuir.</p>
@@ -4762,11 +5204,15 @@ tags: technology
 
 # 618 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/tanggaozu.webp' | relative_url }}" alt="L'empereur Gaozu des Tang" loading="lazy" decoding="async" width="1200" height="2469" /></p>
+
 <p>Les Sui s'effondrent après moins de quarante ans, épuisés par leurs propres travaux et par trois campagnes désastreuses en Corée. Le dernier empereur est étranglé par sa garde ; la Chine se soulève, et c'est un autre général qui l'emporte, fondant la dynastie Tang.</p>
 
 <p>Le schéma s'était déjà produit huit siècles plus tôt avec les Qin : une dynastie brève et brutale refait l'unité et se consume à la tâche, une dynastie suivante en récolte les fruits et dure des siècles. Les Tang régneront près de trois cents ans, et leur règne restera dans la mémoire chinoise comme l'âge d'or absolu — celui de la poésie, de la peinture, de la porcelaine et de la puissance.</p>
 
 # 622 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/medine.webp' | relative_url }}" alt="Médine" loading="lazy" decoding="async" width="1200" height="1788" /></p>
 
 <p>Menacés à La Mecque, Mahomet et ses fidèles émigrent vers Yathrib, une oasis située à quatre cents kilomètres au nord, dont les tribus rivales l'ont appelé pour arbitrer leurs conflits. La ville prendra son nom de cet événement : Médine, « la ville » du Prophète. C'est l'Hégire — l'émigration.</p>
 
@@ -4795,6 +5241,8 @@ tags: technology
 
 # 632 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/mortmahomet.webp' | relative_url }}" alt="La mosquée du Prophète à Médine" loading="lazy" decoding="async" width="1200" height="200" /></p>
+
 <p>Mahomet meurt à Médine, après une courte maladie. Il a une soixantaine d'années et laisse derrière lui une communauté qui est aussi un État — mais aucune règle pour désigner celui qui le dirigera.</p>
 
 <p>Le problème est immédiat et insoluble. Faut-il choisir le plus compétent, selon la coutume tribale arabe qui élit ses chefs ? Ou revient-il de droit à sa famille, c'est-à-dire à Ali, son cousin et gendre, époux de sa fille Fatima ? Les compagnons présents à Médine tranchent en faveur du premier camp et désignent Abu Bakr, le beau-père du Prophète et son ami de la première heure.</p>
@@ -4804,6 +5252,8 @@ tags: technology
 <p>Quatorze siècles plus tard, cette question de succession vieille de quelques jours structure encore la géopolitique du Moyen-Orient.</p>
 
 # 636 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/yarmouk.webp' | relative_url }}" alt="La bataille du Yarmouk" loading="lazy" decoding="async" width="1200" height="1001" /></p>
 
 <p>En une seule année, les deux empires qui se partageaient le monde depuis des siècles reçoivent chacun le coup qui les abattra.</p>
 
@@ -4819,11 +5269,15 @@ tags: technology
 
 # 642 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/nahavand.webp' | relative_url }}" alt="Armure sassanide" loading="lazy" decoding="async" width="1186" height="1162" /></p>
+
 <p>À Nahavand, dans les montagnes du Zagros, la Perse tente son dernier grand rassemblement militaire. Elle est battue à nouveau, et cette fois plus rien ne s'oppose à l'avance arabe : les Arabes appelleront cette bataille « la victoire des victoires ».</p>
 
 <p>Yazdgard passe désormais son temps à fuir — mais il ne fuit pas seulement devant l'ennemi : il cherche des soldats, et n'en trouve pas. Les grands seigneurs des provinces orientales, qui disposent encore de troupes, préfèrent négocier avec les envahisseurs plutôt que de mourir pour un roi sans royaume. Il envoie même des ambassades demander du secours à la Chine des Tang, en vain. Chaque ville où il arrive l'accueille d'abord en souverain, se lasse d'entretenir sa cour, puis lui demande de repartir.</p>
 
 # 651 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/merv.webp' | relative_url }}" alt="Merv" loading="lazy" decoding="async" width="1023" height="682" /></p>
 
 <p>Il finit à Merv, dans l'actuel Turkménistan, aux confins du monde qu'il gouvernait autrefois. Le gouverneur local, qui ne veut ni de lui ni des ennuis qu'il apporte, se retourne contre lui. Selon la tradition, le roi des rois se réfugie dans un moulin, où le meunier l'égorge pendant son sommeil pour lui prendre ses bijoux — sans savoir, peut-être, qui il tuait. Son fils s'enfuira jusqu'à la cour de Chine et y finira ses jours comme officier : la lignée se perd à cinq mille kilomètres de Persépolis.</p>
 
@@ -4886,11 +5340,15 @@ tags: technology
 
 # 742 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/xuanzong.webp' | relative_url }}" alt="L'empereur Xuanzong" loading="lazy" decoding="async" width="1080" height="1202" /></p>
+
 <p>L'empire Tang est à son sommet. Xuanzong règne depuis trente ans sur peut-être cinquante millions de sujets, sa capitale Chang'an est à son apogée, et les ambassades affluent du Japon, de Corée, d'Asie centrale, de Perse. Les caravanes de la route de la soie y déchargent l'ambre, le jade, les chevaux du Ferghana ; les ports du sud reçoivent les navires arabes et persans.</p>
 
 <p>C'est l'âge d'or de la poésie chinoise. Li Bai, l'ivrogne génial que la légende fera mourir noyé en voulant embrasser le reflet de la lune, et Du Fu, le grave, le témoin des malheurs du peuple, vivent à la même époque et se sont rencontrés — deux mille ans de littérature chinoise n'ont produit personne au-dessus d'eux. À la cour, l'empereur fonde une école d'acteurs et de musiciens, le Jardin des Poiriers, dont les comédiens chinois se disent encore aujourd'hui les enfants.</p>
 
 # 745 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/yangguifei.webp' | relative_url }}" alt="Yang Guifei" loading="lazy" decoding="async" width="756" height="2100" /></p>
 
 <p>Une femme entre officiellement au palais impérial avec le titre de Guifei, le rang le plus élevé après celui d'impératrice. Elle s'appelle Yang Yuhuan, elle a vingt-sept ans, et l'empereur Xuanzong en a soixante.</p>
 
@@ -4915,6 +5373,8 @@ tags: technology
 
 # 755 ans
 
+<p style="text-align:center"><img src="{{ '/assets/img/anlushan.webp' | relative_url }}" alt="La révolte d'An Lushan" loading="lazy" decoding="async" width="1200" height="849" /></p>
+
 <p>An Lushan avait tout reçu de l'empereur. Fils d'un père sogdien et d'une mère turque, venu de la frontière, il avait su plaire à la cour en jouant les soldats francs et un peu bouffons — la chronique raconte qu'il dansait malgré son énorme corpulence pour amuser le couple impérial, et que Yang Guifei l'avait adopté comme fils, bien qu'il fût plus âgé qu'elle. En échange, il avait obtenu ce que personne n'avait jamais eu : le commandement de trois régions militaires du nord à la fois, soit près de deux cent mille hommes.</p>
 
 <p>Pourquoi se révolte-t-il alors ? À cause d'une rivalité de cour. Le cousin de la favorite, devenu chancelier, voit en lui un concurrent dangereux et le dénonce sans relâche auprès de l'empereur comme un traître en puissance. An Lushan comprend que, le vieil empereur mort, il sera éliminé. Il choisit donc de frapper le premier — et proclame justement qu'il marche sur la capitale pour débarrasser l'empereur de ce chancelier corrompu.</p>
@@ -4922,6 +5382,8 @@ tags: technology
 <p>Ses armées, aguerries par des années de guerre aux frontières, ne rencontrent presque aucune résistance : les troupes de l'intérieur ne se sont pas battues depuis des décennies. En quelques semaines, Luoyang tombe, et An Lushan s'y proclame empereur d'une dynastie nouvelle. Ce qui commence là ne s'achèvera qu'après huit ans de guerre, et comptera parmi les catastrophes les plus meurtrières de l'histoire humaine.</p>
 
 # 756 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/fuitexuanzong.webp' | relative_url }}" alt="La fuite de Xuanzong vers le Shu" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>An Lushan approche de la capitale. Une armée impériale est envoyée tenir le défilé qui protège Chang'an ; le chancelier, craignant qu'un général victorieux ne lui fasse de l'ombre, pousse l'empereur à ordonner une sortie en terrain découvert. L'armée y est anéantie. La route est ouverte, et il ne reste plus rien pour défendre la ville.</p>
 
@@ -4944,6 +5406,8 @@ tags: technology
 <p>Il débarque, rallie ces fidèles, bat le gouverneur en place et s'empare de Cordoue. Le monde musulman a désormais deux capitales rivales : le calife de Bagdad l'appellera « le faucon des Quraych », en reconnaissant qu'un homme seul, sans armée ni argent, avait fondé un État à trois mille kilomètres de son royaume perdu. Sa dynastie régnera près de trois siècles sur al-Andalus et en fera la province la plus brillante de l'Europe.</p>
 
 # 760 ans
+
+<p style="text-align:center"><img src="{{ '/assets/img/luyu.webp' | relative_url }}" alt="Lu Yu et le Classique du thé" loading="lazy" decoding="async" width="1200" height="1553" /></p>
 
 <p>Un lettré nommé Lu Yu se retire dans les montagnes et compose le <em>Classique du thé</em>, premier traité jamais consacré à une boisson : l'origine de la plante, les outils, la fabrication, l'eau qu'il faut choisir, l'art de servir. Son parcours ressemble à un roman — orphelin élevé dans un monastère bouddhiste, enfui à l'adolescence pour devenir acteur comique, puis lettré, puis ermite refusant les charges officielles qu'on lui offrait.</p>
 
