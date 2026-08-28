@@ -387,19 +387,17 @@ tags: technology
 
 <p>Les 3 éléments biologiques essentiels à la vie :</p>
 
-<p>1 Une cellule</p>
+## 1. Une cellule
 
-<p>➡️ C'est l'unité de base de la vie</p>
+<p>C'est l'unité de base de la vie. Sa membrane crée une barrière entre l'intérieur et l'extérieur et permet de contenir les réactions chimiques. Toutes les formes de vie connues sont composées d'au moins une cellule.</p>
 
-<p>Sa membrane crée une barrière entre l'intérieur et l'extérieur et permet de contenir les réactions chimiques. Toutes les formes de vie connues sont composées d'au moins une cellule.</p>
+## 2. De l'information
 
-<p>2 De l'information</p>
+<p>Le code génétique, sous forme d'ADN ou d'ARN. Il stocke les instructions nécessaires à la vie et permet à la cellule de se reproduire, de fabriquer des protéines, de s'adapter.</p>
 
-<p>➡️ Le code génétique, sous forme d'ADN ou d'ARN. Il stocke les instructions nécessaires à la vie et permet à la cellule de se reproduire, de fabriquer des protéines, de s'adapter.</p>
+## 3. Un métabolisme
 
-<p>3 Un métabolisme</p>
-
-<p>➡️ L'ensemble des réactions chimiques qui permettent à la cellule d'utiliser l'énergie, de se nourrir, de se réparer, de se reproduire.</p>
+<p>L'ensemble des réactions chimiques qui permettent à la cellule d'utiliser l'énergie, de se nourrir, de se réparer, de se reproduire.</p>
 
 <p>On ne possède aucun fossile détaillé de ces premiers microbes, seulement des traces et empreintes. Mais on pense qu'ils partageaient déjà les caractéristiques fondamentales de tous les êtres vivants modernes : l'ADN pour stocker l'information génétique, l'ARN pour la transcription et la traduction, les protéines pour la structure et le métabolisme.</p>
 
@@ -934,11 +932,17 @@ tags: technology
 
 <p>Le principe est posé, et il gouvernera toute la suite : une plante a besoin de trois choses pour prospérer.</p>
 
-<p>1 — De l'eau, que ses tissus vasculaires puisent dans le sol.</p>
+## 1. De l'eau
 
-<p>2 — De la lumière du soleil, moteur de la photosynthèse : transformer la lumière en nourriture, en rejetant de l'oxygène.</p>
+<p>Ses tissus vasculaires la puisent dans le sol.</p>
 
-<p>3 — Du CO2, la matière première que la plante absorbe dans l'air pour fabriquer ses sucres.</p>
+## 2. De la lumière
+
+<p>Le moteur de la photosynthèse : transformer la lumière en nourriture, en rejetant de l'oxygène.</p>
+
+## 3. Du CO2
+
+<p>La matière première que la plante absorbe dans l'air pour fabriquer ses sucres.</p>
 
 <p>Et la course à la lumière ne fait que commencer : plus tard, certaines plantes renforceront leur tissu vasculaire en une charpente rigide — le bois — capable de porter des tiges toujours plus hautes. La course vers les cimes donnera naissance aux arbres.</p>
 
@@ -1018,11 +1022,17 @@ tags: technology
 
 <p>Voici l'un des tout premiers tétrapodes : Ichthyostega. Mi-poisson, mi-marcheur, adapté à la fois à la nage et à une forme rudimentaire de locomotion terrestre, il cumule trois adaptations majeures :</p>
 
-<p>1 — des pattes antérieures capables de supporter son poids hors de l'eau ;</p>
+## 1. Des pattes antérieures porteuses
 
-<p>2 — des côtes élargies et chevauchantes, qui évitent l'écrasement des poumons par le poids du corps hors de l'eau ;</p>
+<p>Elles sont capables de supporter son poids hors de l'eau.</p>
 
-<p>3 — une chaîne d'os descendant jusqu'au milieu de la poitrine, qui renforce la cage thoracique et soutient l'avant du corps pendant ses déplacements à terre.</p>
+## 2. Des côtes élargies et chevauchantes
+
+<p>Elles évitent l'écrasement des poumons par le poids du corps hors de l'eau.</p>
+
+## 3. Une chaîne d'os jusqu'au sternum
+
+<p>Descendant jusqu'au milieu de la poitrine, elle renforce la cage thoracique et soutient l'avant du corps pendant ses déplacements à terre.</p>
 
 <p>Sa démarche n'a rien d'élégant : il se déplace comme un phoque, projetant en avant ses pattes antérieures et sa tête, puis traînant l'arrière de son corps. Car l'arrière, lui, reste résolument aquatique : une large queue ondulante et des membres postérieurs en forme de pagaies, faits pour nager.</p>
 
@@ -1201,11 +1211,17 @@ tags: technology
 
 <p>Ses caractéristiques, héritées par toute notre lignée :</p>
 
-<p>1 — Des poils, pour garder la chaleur d'un corps désormais à sang chaud ;</p>
+## 1. Des poils
 
-<p>2 — Le lait : les femelles nourrissent leurs petits — le trait qui donnera son nom aux mammifères ;</p>
+<p>Pour garder la chaleur d'un corps désormais à sang chaud.</p>
 
-<p>3 — Une mâchoire unique en son genre : réduite à un seul os, contrairement à celle des reptiles qui en compte plusieurs. Et le destin des os « libérés » est extraordinaire : ils ont migré dans l'oreille moyenne pour devenir le marteau et l'enclume — les osselets qui nous font entendre. Nos os de l'ouïe sont d'anciens os de mâchoire, et cette oreille ultra-sensible est un atout précieux pour un petit animal qui chasse la nuit.</p>
+## 2. Le lait
+
+<p>Les femelles nourrissent leurs petits — le trait qui donnera son nom aux mammifères.</p>
+
+## 3. Une mâchoire unique en son genre
+
+<p>Réduite à un seul os, contrairement à celle des reptiles qui en compte plusieurs. Et le destin des os « libérés » est extraordinaire : ils ont migré dans l'oreille moyenne pour devenir le marteau et l'enclume — les osselets qui nous font entendre. Nos os de l'ouïe sont d'anciens os de mâchoire, et cette oreille ultra-sensible est un atout précieux pour un petit animal qui chasse la nuit.</p>
 
 <p>Car la nuit, justement, sera son royaume : dans un monde que les dinosaures commencent à dominer, les mammifères choisissent l'ombre. Petits, discrets, nocturnes — ils le resteront pendant plus de 150 millions d'années, en attendant leur heure.</p>
 
@@ -1531,9 +1547,13 @@ tags: technology
 
 <p>Deux traits principaux distinguent les homininés des autres grands singes :</p>
 
-<p>1 — Ils sont bipèdes : marcher debout devient, au fil du temps, leur mode de déplacement standard ;</p>
+## 1. La bipédie
 
-<p>2 — Les canines des mâles et des femelles se ressemblent, alors que chez les autres grands singes, les mâles portent de grandes canines — un indice possible de sociétés moins fondées sur l'affrontement entre mâles.</p>
+<p>Marcher debout devient, au fil du temps, leur mode de déplacement standard.</p>
+
+## 2. Des canines égales chez les mâles et les femelles
+
+<p>Chez les autres grands singes, les mâles portent de grandes canines — un indice possible de sociétés moins fondées sur l'affrontement entre mâles.</p>
 
 <p style="text-align:center">
   <img src="/assets/img/chimpanze.jpg" alt="Portrait photographique d'un chimpanzé : le visage tourné vers l'objectif, oreilles écartées, arcades sourcilières marquées et menton clair" width="400" loading="lazy" decoding="async" height="400" />
@@ -1766,13 +1786,21 @@ tags: technology
 
 <p>Son génie tient à un renversement. Le biface, on le sculptait directement. Ici, on sculpte le noyau — la pierre-mère — pour que l'outil en sorte préformé, d'un seul coup :</p>
 
-<p>1 — Préparation du noyau : enlever la croûte extérieure, puis façonner la pierre en une forme convexe précise, comme une carapace de tortue ;</p>
+## 1. Préparation du noyau
 
-<p>2 — Création d'une plate-forme de percussion : la petite surface exacte où portera le coup ;</p>
+<p>Enlever la croûte extérieure, puis façonner la pierre en une forme convexe précise, comme une carapace de tortue.</p>
 
-<p>3 — Extraction : un coup de percuteur, à l'angle et à la force justes — et un éclat de forme prévue d'avance se détache, aux bords immédiatement tranchants ;</p>
+## 2. Création d'une plate-forme de percussion
 
-<p>4 — Réutilisation : le noyau est repréparé, et livre éclat après éclat.</p>
+<p>La petite surface exacte où portera le coup.</p>
+
+## 3. Extraction
+
+<p>Un coup de percuteur, à l'angle et à la force justes — et un éclat de forme prévue d'avance se détache, aux bords immédiatement tranchants.</p>
+
+## 4. Réutilisation
+
+<p>Le noyau est repréparé, et livre éclat après éclat.</p>
 
 <p>Tout le travail est dans la préparation ; l'outil, lui, naît en un instant. C'est penser à l'envers, plusieurs coups à l'avance — les archéologues y voient l'un des meilleurs marqueurs de la planification mentale complexe. Et le procédé est rentable : d'un seul noyau bien préparé sortent plusieurs éclats standardisés, couteaux tout prêts pour découper la viande, racler les peaux, armer des pointes. La pierre devient une chaîne de production de précision.</p>
 
@@ -1792,11 +1820,17 @@ tags: technology
 
 <p>Par rapport à ses prédécesseurs, sapiens se reconnaît à plusieurs traits :</p>
 
-<p>1 — Un crâne arrondi et un front vertical, abritant un cerveau d'environ 1 350 cm³ — comparable au nôtre ;</p>
+## 1. Un crâne arrondi et un front vertical
 
-<p>2 — Un visage petit et plat, rentré sous le crâne plutôt que projeté en avant ;</p>
+<p>Abritant un cerveau d'environ 1 350 cm³ — comparable au nôtre.</p>
 
-<p>3 — Un menton bien marqué — une vraie nouveauté anatomique : nous sommes la seule espèce humaine à en posséder un, et son utilité reste, aujourd'hui encore, un petit mystère.</p>
+## 2. Un visage petit et plat
+
+<p>Rentré sous le crâne plutôt que projeté en avant.</p>
+
+## 3. Un menton bien marqué
+
+<p>Une vraie nouveauté anatomique : nous sommes la seule espèce humaine à en posséder un, et son utilité reste, aujourd'hui encore, un petit mystère.</p>
 
 <p>Les données génétiques modernes racontent une origine plus subtile qu'on ne l'imaginait : sapiens ne naît pas dans un « berceau » unique, mais d'un réseau de populations réparties à travers l'Afrique, interconnectées, qui échangent gènes et innovations pendant des centaines de milliers d'années. Notre espèce n'est pas née en un lieu — elle est née d'un continent entier. C'est aussi vers cette époque que les foyers deviennent véritablement universels dans les campements de toutes les humanités, d'erectus à Néandertal : le feu quotidien, désormais, va de soi.</p>
 
@@ -6201,12 +6235,29 @@ tags: technology
 
 <p>Johannes Gutenberg met au point sa première imprimerie en Allemagne. Les étapes de l'invention sont les suivantes:</p>
 
-1 créer un modèle ou un moule pour chaque lettre ou caractère que l'on souhaite imprimer. Ce moule est taillé dans un métal dur — un poinçon d'acier frappe une matrice de cuivre —, et il doit être assez précis pour permettre de produire des caractères de haute qualité<br/>
-2 couler du métal liquide dans chaque moule pour créer chaque caractère. Le métal doit être coulé de manière à remplir complètement le moule et à produire un caractère de haute qualité<br/>
-3 une fois que le métal refroidi et durci, on peut retirer chaque caractère du moule. Les caractères doivent être nettoyés et polis pour éliminer toutes les imperfections et les bavures de métal<br/>
-4 utiliser un mécanisme de levier pour actionner la presse et appliquer la pression nécessaire sur les caractères et le papier<br/>
-5 le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier<br/>
-6 le levier abaisse une large plaque plane, la platine, qui presse d'un coup le papier sur toute la forme typographique<br/>
+## 1. Le poinçon et la matrice
+
+<p>Créer un modèle ou un moule pour chaque lettre ou caractère que l'on souhaite imprimer. Ce moule est taillé dans un métal dur — un poinçon d'acier frappe une matrice de cuivre —, et il doit être assez précis pour permettre de produire des caractères de haute qualité.</p>
+
+## 2. La fonte des caractères
+
+<p>Couler du métal liquide dans chaque moule pour créer chaque caractère. Le métal doit être coulé de manière à remplir complètement le moule et à produire un caractère de haute qualité.</p>
+
+## 3. L'ébarbage
+
+<p>Une fois que le métal refroidi et durci, on peut retirer chaque caractère du moule. Les caractères doivent être nettoyés et polis pour éliminer toutes les imperfections et les bavures de métal.</p>
+
+## 4. La presse à levier
+
+<p>Utiliser un mécanisme de levier pour actionner la presse et appliquer la pression nécessaire sur les caractères et le papier.</p>
+
+## 5. La manœuvre
+
+<p>Le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier.</p>
+
+## 6. La platine
+
+<p>Le levier abaisse une large plaque plane, la platine, qui presse d'un coup le papier sur toute la forme typographique.</p>
 
 <p>C'est cette platine qui répartit la pression uniformément : appliquée en un seul point, elle écraserait les caractères et déchirerait le papier.</p>
 
@@ -6586,8 +6637,8 @@ tags: technology
 
 # 1550 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lascasas.webp' | relative_url }}" alt="Photographie d'une rue commerçante d'une ville tropicale : des boutiques colorées de part et d'autre de la chaussée, où circulent des tricycles motorisés" loading="lazy" decoding="async" width="1200" height="900" />
-  <br /><small><em>Rue d'une petite ville d'Amérique latine aujourd'hui. (L'attribut de la balise annonce un portrait de Las Casas : l'image ne correspond pas au sujet et mériterait d'être remplacée.)</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/brevisimarelacion.webp' | relative_url }}" alt="Page de titre imprimée en 1552 : les armes des Habsbourg encadrées de deux colonnes gravées, sous un titre en lettres rouges et noires portant la date" loading="lazy" decoding="async" width="380" height="565" />
+  <br /><small><em>Page de titre de la <em>Brevísima relación de la destrucción de las Indias</em>, Séville, 1552. Deux ans après Valladolid, Las Casas fait imprimer son réquisitoire sans autorisation royale préalable ; le livre sera traduit dans toute l'Europe et servira aussi, plus tard, à noircir l'Espagne au profit de ses rivales. Domaine public, via Wikimedia Commons.</em></small></p>
 
 <p>À Valladolid s'ouvre un débat public sans équivalent : une monarchie convoque des théologiens pour trancher la question de savoir si les guerres qu'elle mène sont justes.</p>
 
@@ -6621,8 +6672,6 @@ tags: technology
   <img src="{{ '/assets/img/fatehpursikri.webp' | relative_url }}" alt="Photographie du Diwan-i-Khas de Fatehpur Sikri : un pavillon carré de grès rouge coiffé de coupoles d'angle, au bout d'une esplanade plantée de gazon et de buis taillés" width="600" loading="lazy" decoding="async" height="348" />
   <br /><small><em>Le Diwan-i-Khas de Fatehpur Sikri, où Akbar faisait débattre théologiens musulmans, hindous, jaïns, zoroastriens et jésuites. Photo Clément Bardot, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
-
-<p>Le contraste est brutal et il faut le poser franchement. Pendant qu'Akbar réunit des prêtres de cinq religions autour d'une même table pour les écouter s'affronter en paroles, la France entre dans quarante ans de guerres où l'on s'égorge entre chrétiens sur la manière de comprendre une cène. Aucun des deux mondes ne sait ce que fait l'autre.</p>
 
 # 1562 ans
 
@@ -8131,32 +8180,47 @@ tags: technology
 
 # 1882 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/appleton.webp' | relative_url }}" alt="Photographie d'un long bâtiment industriel en brique, à la façade rythmée par une file d'arcades vitrées, bordé d'un parking et d'un lampadaire" loading="lazy" decoding="async" width="1200" height="800" />
-  <br /><small><em>Le site de la centrale d'Appleton, dans le Wisconsin, aujourd'hui occupé par un restaurant. C'est ici qu'a fonctionné la première centrale hydroélectrique commerciale du monde.</em></small></p>
-
 <p>La première centrale hydroélectrique commerciale est mise en service à Appleton, dans le Wisconsin. Elle est équipée d'une turbine du type mis au point par l'ingénieur James B. Francis, dont le principe équipe encore aujourd'hui la majorité des barrages du monde.</p>
 
 <p>Voici comment fonctionne l'énergie hydraulique pour produire de l'électricité:</p>
 
-1 L'eau est stockée dans un réservoir ou un lac, ou elle est captée à partir d'une rivière<br/>
+## 1. Le captage
 
-2 L'eau est dirigée à travers un canal ou un tuyau, appelé canal de dérivation, qui la mène à une centrale hydroélectrique<br/>
+<p>L'eau est stockée dans un réservoir ou un lac, ou elle est captée à partir d'une rivière.</p>
 
-3 Dans la centrale hydroélectrique, l'eau est dirigée vers une turbine, qui est entraînée par la force de l'eau qui coule<br/>
+## 2. La dérivation
 
-4 La turbine actionne un générateur, qui transforme l'énergie mécanique en électricité<br/>
+<p>L'eau est dirigée à travers un canal ou un tuyau, appelé canal de dérivation, qui la mène à une centrale hydroélectrique.</p>
 
-5 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local<br/>
+## 3. La turbine
+
+<p>Dans la centrale hydroélectrique, l'eau est dirigée vers une turbine, qui est entraînée par la force de l'eau qui coule.</p>
+
+## 4. Le générateur
+
+<p>La turbine actionne un générateur, qui transforme l'énergie mécanique en électricité.</p>
+
+## 5. Le transformateur
+
+<p>Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local.</p>
 
 <p>Première centrale électrique alimentée au charbon à Holborn Viaduct à Londres, en Angleterre. Voici comment elle fonctionne:</p>
 
-<p>1 Le charbon est brûlé dans un fourneau pour produire de la chaleur et de la vapeur d'eau</p>
+## 1. La combustion
 
-<p>2 La vapeur d'eau est dirigée vers une turbine, qui est entraînée par la pression de la vapeur</p>
+<p>Le charbon est brûlé dans un fourneau pour produire de la chaleur et de la vapeur d'eau.</p>
 
-<p>3 La turbine actionne un générateur, qui transforme l'énergie mécanique en électricité</p>
+## 2. La vapeur
 
-<p>4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local</p>
+<p>La vapeur d'eau est dirigée vers une turbine, qui est entraînée par la pression de la vapeur.</p>
+
+## 3. Le générateur
+
+<p>La turbine actionne un générateur, qui transforme l'énergie mécanique en électricité.</p>
+
+## 4. Le transformateur
+
+<p>Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local.</p>
 
 <p>La centrale électrique de Holborn Viaduct est une innovation importante dans l'histoire de l'énergie, car elle permet de produire de l'électricité de manière plus efficace et à un coût inférieur à celui de la production d'électricité par d'autres moyens. Depuis lors, les centrales électriques alimentées au charbon continuent à être développées et améliorées, et elles sont utilisées de manière intensive comme source d'énergie pour la production d'électricité. Cependant, le charbon est une source d'énergie très polluante, car il libère de grandes quantités de dioxyde de carbone (CO2) et d'autres gaz à effet de serre lorsqu'il est brûlé. En outre, l'extraction du charbon peut avoir des impacts négatifs sur l'environnement, notamment la déforestation, la pollution de l'air et de l'eau, et la perturbation des écosystèmes. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation du charbon et à se tourner vers des sources d'énergie renouvelables moins polluantes.</p>
 
@@ -8209,13 +8273,21 @@ tags: technology
 
 <p>Voici comment il fonctionne:</p>
 
-1 Le vent souffle sur les pales du moulin à vent, ce qui les fait tourner<br/>
+## 1. Les pales
 
-2 L'arbre entraîné par les pales fait tourner le rotor d'un générateur — un aimant tournant à l'intérieur de bobines de cuivre<br/>
+<p>Le vent souffle sur les pales du moulin à vent, ce qui les fait tourner.</p>
 
-3 Le champ magnétique en mouvement induit un courant dans les bobines : c'est l'induction électromagnétique, qui convertit l'énergie mécanique en électricité<br/>
+## 2. Le rotor
 
-4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local<br/>
+<p>L'arbre entraîné par les pales fait tourner le rotor d'un générateur — un aimant tournant à l'intérieur de bobines de cuivre.</p>
+
+## 3. L'induction
+
+<p>Le champ magnétique en mouvement induit un courant dans les bobines : c'est l'induction électromagnétique, qui convertit l'énergie mécanique en électricité.</p>
+
+## 4. Le transformateur
+
+<p>Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local.</p>
 
 # 1888 ans
 
@@ -8601,9 +8673,6 @@ tags: technology
 <p>SA et SS mènent des actions violentes contre les opposants politiques (communistes, sociaux-démocrates, syndicalistes). Les premières "expéditions punitives nazies" (1933) visent surtout les opposants politiques (communistes, sociaux-démocrates, syndicalistes), puis très vite les juifs et les violences contre leurs commerces.</p>
 
 # 1934 ans
-
-<p style="text-align:center"><img src="{{ '/assets/img/kuznets.webp' | relative_url }}" alt="Portrait photographique de Simon Kuznets : un homme âgé aux cheveux blancs, en costume sombre et cravate, souriant légèrement" loading="lazy" decoding="async" width="409" height="545" />
-  <br /><small><em>Simon Kuznets, inventeur du produit intérieur brut. Il avertira lui-même que le bien-être d'une nation ne se déduit pas de cet indicateur — avertissement largement ignoré depuis.</em></small></p>
 
 <p>La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.</p>
 
@@ -9173,11 +9242,6 @@ tags: technology
 
 <p>VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calculs de manière simple et rapide, sans avoir à utiliser des feuilles de calcul papier. Pour démarrer VisiCalc sur un ordinateur Apple II, il faut d'abord insérer le disque contenant le logiciel dans le lecteur de disque de l'ordinateur. Ensuite, il faut appuyer sur la touche "reset" pour redémarrer l'ordinateur et charger le logiciel à partir du disque. Une fois que l'ordinateur a redémarré, le programme VisiCalc devrait s'ouvrir automatiquement. Si ce n'est pas le cas, vous pouvez essayer de le démarrer manuellement en tapant "VISICALC" sur la ligne de commande et en appuyant sur la touche "entrée".</p>
 
-<p style="text-align:center">
-  <img src="/assets/img/compuserve.webp" alt="Capture d'écran de CompuServe Information Manager : la fenêtre « Explore Services » et sa grille d'icônes — actualités, médias, informatique, sports, finance, voyages, achats —, sous une barre de menus et d'outils" width="400" loading="lazy" decoding="async" height="304" />
-  <br /><small><em>CompuServe : l'un des tout premiers services en ligne grand public, accessible par modem téléphonique.</em></small>
-</p>
-
 <p>Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.</p>
 
 <p>Chute du régime du Shah Mohammad Reza Pahlavi et établissement de la République islamique d'Iran sous la direction de l'Ayatollah Khomeini.</p>
@@ -9268,16 +9332,29 @@ tags: technology
 
 <p>Le premier serveur Web est mis en ligne, ce qui permet aux utilisateurs d'accéder au Web depuis n'importe quel ordinateur connecté à Internet. Pour mettre en ligne un serveur Web, il faut suivre les étapes suivantes:</p>
 
-1 Acheter ou louer un ordinateur qui sera utilisé comme serveur Web<br/>
-2 Installer un système d'exploitation de type UNIX (le tout premier serveur du Web tourne sur une station NeXT, sous NeXTSTEP)<br/>
-3 Installer un logiciel de serveur Web (CERN httpd) qui envoie le bon document demandé au navigateur, tels que des pages HTML, des images et des fichiers, tels que des images<br/>
-4 Configurer le serveur Web en spécifiant les détails de la configuration du réseau. Pour configurer les détails de la configuration du réseau dans CERN httpd, il faut ajouter ou modifier les options suivantes dans le fichier "httpd.conf" :<br/>
+## 1. La machine
+
+<p>Acheter ou louer un ordinateur qui sera utilisé comme serveur Web.</p>
+
+## 2. Le système d'exploitation
+
+<p>Installer un système d'exploitation de type UNIX (le tout premier serveur du Web tourne sur une station NeXT, sous NeXTSTEP).</p>
+
+## 3. Le logiciel serveur
+
+<p>Installer un logiciel de serveur Web (CERN httpd) qui envoie le bon document demandé au navigateur, tels que des pages HTML, des images et des fichiers, tels que des images.</p>
+
+## 4. La configuration du réseau
+
+<p>Configurer le serveur Web en spécifiant les détails de la configuration du réseau. Pour configurer les détails de la configuration du réseau dans CERN httpd, il faut ajouter ou modifier les options suivantes dans le fichier "httpd.conf" :.</p>
 
 <p>A Listen: Cette option spécifie le port sur lequel le serveur doit écouter les requêtes HTTP. Par défaut, CERN httpd écoute sur le port 80.<br/></p>
 
 <p>B ServerName: Cette option spécifie le nom de domaine du serveur Web. Elle est utilisée pour identifier le serveur aux clients et peut être utilisée pour accéder au serveur via un navigateur Web.<br/></p>
 
-5 Télécharger ou créer les fichiers du site Web que vous souhaitez héberger sur le serveur<br/>
+## 5. Les fichiers du site
+
+<p>Télécharger ou créer les fichiers du site Web que vous souhaitez héberger sur le serveur.</p>
 
 # 1992 ans
 
@@ -9328,12 +9405,19 @@ tags: technology
 
 <p>Pour faire ceci, il faut procéder en 3 étapes:</p>
 
-1 Chercher des disques durs d'occasions pour arriver à un terabyte de données parce qu'on veut vraiment beaucoup de données. À ce moment-là, les disques durs ne disposent pas d'un aussi grand espace de stockage qu'aujourd'hui. Cette installation sommaire a pris place dans la chambre de Larry Page.
+## 1. Rassembler les disques
+
+<p>Chercher des disques durs d'occasions pour arriver à un terabyte de données parce qu'on veut vraiment beaucoup de données. À ce moment-là, les disques durs ne disposent pas d'un aussi grand espace de stockage qu'aujourd'hui. Cette installation sommaire a pris place dans la chambre de Larry Page.</p>
 
 <p>Ce type d'architecture est conservé dans les datacenter à venir de Google. Un datacenter est un espace dans lequel il y a beaucoup de disques durs connectés à internet qui sont utilisés comme des serveurs.</p>
 
-2 Mettre des données dans ces disques durs<br/>
-3 Créer l'algorithme qui permet de chercher les informations pertinentes en fonction de ce que l'utilisateur recherche
+## 2. Y charger les données
+
+<p>Mettre des données dans ces disques durs.</p>
+
+## 3. Écrire l'algorithme
+
+<p>Créer l'algorithme qui permet de chercher les informations pertinentes en fonction de ce que l'utilisateur recherche.</p>
 
 <p>Les fondateurs de Google regardent comment les résultats sont catégorisés quand ils cherchent des bases de données scientifiques. Ils ont conscience que la valeur d'une publication scientifique est en proportion du nombre de publications qui la citent.</p>
 
@@ -9428,11 +9512,25 @@ tags: technology
 
 <p>La crise des subprimes débute. Elle est le résultat d'une combinaison de facteurs, dont les principaux sont les suivants :</p>
 
-1 Les banques et les institutions financières accordent des prêts hypothécaires à des emprunteurs présentant un risque de crédit élevé, souvent sans vérifier adéquatement leur capacité de remboursement. Ces prêts à haut risque sont dits « subprimes ».<br/>
-2 Les prix de l'immobilier augmentent fortement, alimentant ainsi la demande de prêts hypothécaires. Les investisseurs et les spéculateurs participent à l'augmentation des prix, anticipant des gains rapides grâce à la hausse continue des prix de l'immobilier.<br/>
-3 Les prêts hypothécaires subprimes sont regroupés et transformés en produits financiers complexes, appelés titres adossés à des créances hypothécaires (MBS) et obligations adossées à des créances (CDO). Ces produits sont vendus à des investisseurs du monde entier, répartissant ainsi le risque lié à ces prêts sur les marchés financiers internationaux.<br/>
-4 Les taux d'intérêt bas encouragent l'endettement et l'investissement dans des actifs risqués, comme les prêts subprimes.<br/>
-5 Le manque de régulation adéquate et de surveillance des institutions financières contribue à la prise de risques excessifs et à l'adoption de pratiques de prêt irresponsables.
+## 1. Des prêts accordés sans vérification
+
+<p>Les banques et les institutions financières accordent des prêts hypothécaires à des emprunteurs présentant un risque de crédit élevé, souvent sans vérifier adéquatement leur capacité de remboursement. Ces prêts à haut risque sont dits « subprimes ».</p>
+
+## 2. La flambée de l'immobilier
+
+<p>Les prix de l'immobilier augmentent fortement, alimentant ainsi la demande de prêts hypothécaires. Les investisseurs et les spéculateurs participent à l'augmentation des prix, anticipant des gains rapides grâce à la hausse continue des prix de l'immobilier.</p>
+
+## 3. La titrisation
+
+<p>Les prêts hypothécaires subprimes sont regroupés et transformés en produits financiers complexes, appelés titres adossés à des créances hypothécaires (MBS) et obligations adossées à des créances (CDO). Ces produits sont vendus à des investisseurs du monde entier, répartissant ainsi le risque lié à ces prêts sur les marchés financiers internationaux.</p>
+
+## 4. Des taux d'intérêt bas
+
+<p>Les taux d'intérêt bas encouragent l'endettement et l'investissement dans des actifs risqués, comme les prêts subprimes.</p>
+
+## 5. L'absence de régulation
+
+<p>Le manque de régulation adéquate et de surveillance des institutions financières contribue à la prise de risques excessifs et à l'adoption de pratiques de prêt irresponsables.</p>
 
 <p>Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto. Satoshi Nakamoto publie un livre blanc en 2008 décrivant le fonctionnement du Bitcoin et comment il pourrait être utilisé pour créer une monnaie numérique sécurisée et décentralisée.</p>
 
@@ -9451,9 +9549,6 @@ tags: technology
 <p>Identification d'un nouveau virus de la grippe de type H1N1. Le virus H1N1 est toujours présent et il est inclus dans les vaccins contre la grippe chaque année pour se protéger contre l'infection.</p>
 
 # 2011 ans
-
-<p style="text-align:center"><img src="{{ '/assets/img/apple2011.webp' | relative_url }}" alt="Photographie d'une rencontre publique : un homme assis sur un tabouret, jambes croisées, s'adresse à la salle devant un mur de briques, tandis qu'un panel de participantes est installé à une table derrière lui" loading="lazy" decoding="async" width="1200" height="1200" />
-  <br /><small><em>Rencontre publique dans un Apple Store. (L'attribut de la balise annonce « Apple » : l'image n'illustre pas directement l'événement de la section et gagnerait à être remplacée.)</em></small></p>
 
 <p>Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.</p>
 
@@ -9559,8 +9654,8 @@ tags: technology
 
 # 2023 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/gaza.webp' | relative_url }}" alt="Photographie de la bande de Gaza : un champ de gravats à perte de vue au premier plan, dominé par des immeubles éventrés dont les étages restent béants" loading="lazy" decoding="async" width="1200" height="845" />
-  <br /><small><em>Un quartier de Gaza réduit en gravats. La guerre déclenchée en octobre 2023 a détruit une part considérable du bâti de l'enclave.</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/7octobre2023.webp' | relative_url }}" alt="Photographie d'un terrain servant de parking : des dizaines de voitures endommagées et abandonnées, portières ouvertes, effets personnels au sol, sous un panneau d'accueil du festival resté en place" loading="lazy" decoding="async" width="600" height="400" />
+  <br /><small><em>Le parking du festival Nova, près de Ré'im, après l'attaque du 7 octobre 2023 : des dizaines de voitures endommagées et abandonnées, portières ouvertes, affaires laissées au sol — et le panneau d'accueil du festival encore debout. C'est ce rassemblement, ainsi que plusieurs kibboutz voisins, qui ont été visés. Photo Kobi Gideon / GPO, CC BY-SA 3.0, via Wikimedia Commons.</em></small></p>
 
 <p>Le 7 octobre, environ 3 000 militants du Hamas franchissent la frontière vers le sud d'Israël. Ils ciblent un festival de musique et plusieurs kibboutz, causant la mort de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme la plus grande perte de vie juive depuis l'Holocauste.</p>
 
@@ -9579,49 +9674,6 @@ tags: technology
 
 # 2025 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/iagenerative.webp' | relative_url }}" alt="Photographie de l'intérieur sombre d'un bâtiment en travaux : des poteaux et des étais métalliques barrent la pièce, devant des cloisons ajourées éclairées par la lumière du jour" loading="lazy" decoding="async" width="1200" height="799" />
-  <br /><small><em>Intérieur d'un bâtiment industriel désaffecté. (L'attribut de la balise annonce un centre de données : l'image ne correspond pas et mériterait d'être remplacée.)</em></small></p>
-
 <p>L'intelligence artificielle générative cesse d'être une curiosité pour devenir une infrastructure : elle s'installe dans les moteurs de recherche, les suites bureautiques, les outils de programmation. La course se joue désormais autant sur le coût que sur la performance — un modèle chinois publié en janvier, entraîné pour une fraction du budget des laboratoires américains, fait décrocher les marchés en une séance et rappelle qu'une avance technologique n'est pas un fossé.</p>
 
 <p>À Rome, le pape François meurt en avril, après douze ans d'un pontificat passé à déplacer l'Église vers ses marges. Son successeur, Robert Prevost, prend le nom de Léon XIV : c'est le premier pape né aux États-Unis.</p>
-
-<p>Et la question de l'énergie revient au centre par un chemin que personne n'avait prévu : les centres de données qui font tourner ces modèles consomment assez d'électricité pour rouvrir, en Occident, des débats qu'on croyait clos sur le nucléaire et sur la capacité des réseaux. Une chronologie qui commence au Big Bang se referme ainsi sur un problème très ancien — trouver de l'énergie, et savoir quoi en faire.</p>
-
-- [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
-- [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
-- [Intéraction élémentaire](https://fr.wikipedia.org/wiki/Interaction_%C3%A9l%C3%A9mentaire)
-- [Intéraction faible](https://fr.wikipedia.org/wiki/Interaction_faible)
-- [Intéraction forte](https://fr.wikipedia.org/wiki/Interaction_forte)
-- [Gravitation](https://fr.wikipedia.org/wiki/Gravitation)
-- [Inflation cosmique](https://fr.wikipedia.org/wiki/Inflation_cosmique)
-- [Particule élémentaire](https://fr.wikipedia.org/wiki/Particule_%C3%A9l%C3%A9mentaire)
-- [Quark](https://fr.wikipedia.org/wiki/Quark)
-- [Electron](https://fr.wikipedia.org/wiki/%C3%89lectron)
-- [Hydrogène](https://fr.wikipedia.org/wiki/Hydrog%C3%A8ne)
-- [Hélium](https://fr.wikipedia.org/wiki/H%C3%A9lium)
-- [Fond diffus cosmologique](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
-- [Étoile](https://fr.wikipedia.org/wiki/%C3%89toile)
-- [Galaxie](https://fr.wikipedia.org/wiki/Galaxie)
-- [Étoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II)
-- [Étoile de population III](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_III)
-- [Hypernova](https://fr.wikipedia.org/wiki/Hypernova)
-- [Supernova](https://fr.wikipedia.org/wiki/Supernova)
-- [Trou noir](https://fr.wikipedia.org/wiki/Trou_noir)
-- [Système solaire](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
-- [Oxygène](https://fr.wikipedia.org/wiki/Oxyg%C3%A8ne)
-- [Cryptomonnaie](https://fr.wikipedia.org/wiki/Cryptomonnaie)
-- [Soleil](https://fr.wikipedia.org/wiki/Soleil)
-- [Lune](https://fr.wikipedia.org/wiki/Lune)
-- [Océan](https://fr.wikipedia.org/wiki/Oc%C3%A9an)
-- [Terre](https://fr.wikipedia.org/wiki/Terre)
-- [Vie](https://fr.wikipedia.org/wiki/Vie)
-- [Cyanobactérie](https://fr.wikipedia.org/wiki/Cyanobacteriota)
-- [Photosynthèse](https://fr.wikipedia.org/wiki/Photosynth%C3%A8se)
-- [Arthropodes](https://fr.wikipedia.org/wiki/Arthropodes)
-- [Trilobites](https://fr.wikipedia.org/wiki/Trilobita)
-- [Metaspriggina](https://fr.wikipedia.org/wiki/Metaspriggina)
-- [Vertébrés](https://fr.wikipedia.org/wiki/Vert%C3%A9br%C3%A9s)
-- [Haikouichthys](<https://fr.wikipedia.org/wiki/Haikouichthys_(genre)>)
-- [Placodermes](https://fr.wikipedia.org/wiki/Placodermes)
-- [Tetrapoda](https://fr.wikipedia.org/wiki/Tetrapoda)

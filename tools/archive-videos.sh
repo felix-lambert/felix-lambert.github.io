@@ -48,6 +48,9 @@ TOTAL=$(wc -l < "$DEST/ids.txt" | tr -d ' ')
 echo "$TOTAL vidéos uniques référencées."
 echo
 
+# --extractor-args : le client 'web' par défaut déclenche vite la détection anti-bot
+#   ("Sign in to confirm you're not a bot") sur un lot de cette taille. Les clients
+#   embedded servent le 1080p sans authentification ni cookies.
 # --download-archive : mémorise ce qui est déjà pris, rend le script relançable.
 # -f : plafonne à 1080p pour limiter la taille sans perdre en lisibilité.
 # --write-info-json / --write-thumbnail : garde titre, chaîne, date, description,
@@ -66,6 +69,7 @@ echo
   --ignore-errors \
   --no-abort-on-error \
   --retries 5 \
+  --extractor-args 'youtube:player_client=tv_embedded,web_embedded,android_vr,default' \
   --sleep-requests 2 \
   --sleep-interval 2 --max-sleep-interval 6 \
   --extractor-retries 5 \
