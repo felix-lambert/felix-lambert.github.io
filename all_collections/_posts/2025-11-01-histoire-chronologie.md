@@ -58,7 +58,7 @@ tags: technology
 # -13 799 620 000 d'années
 
 <p style="text-align:center">
-  <video poster="/assets/img/posters/atom.webp" controls preload="none" width="640" height="360" src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
+  <video poster="/assets/img/posters/atom.webp" controls preload="none" width="640" height="360" src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4"></video>
 </p>
 
 <p>Il fait désormais assez froid (~3 000 K) pour qu'un proton, de charge positive, capture un électron, de charge négative, et forme un atome d'hydrogène (un proton + un électron, sans neutron). Se forment de même l'hélium, puis des traces de lithium. C'est le nombre de protons dans le noyau qui détermine l'élément chimique et ses propriétés (hydrogène, hélium, lithium, carbone, oxygène, azote…).</p>
@@ -122,7 +122,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/trouNoir.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/trouNoir.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/trouNoir.mp4"></video>
 </p>
 
 <p>Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovæ. La gravité d'un trou noir est si intense qu'au-delà d'une certaine limite (l'horizon des événements), rien ne peut s'en échapper, pas même la lumière. Les trous noirs peuvent fusionner entre eux et « dévorer » des étoiles qui s'en approchent trop. La plupart des grandes galaxies abritent en leur centre un trou noir supermassif. Le trou noir central influence son évolution, notamment en régulant la formation d'étoiles.</p>
@@ -143,7 +143,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/exoplanete.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/exoplanete.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/exoplanete.mp4"></video>
 </p>
 
 # -12 000 000 000 d'années
@@ -158,7 +158,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/energieSombre.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/energieSombre.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/energieSombre.mp4"></video>
 </p>
 
 <p>À cette époque, l'expansion de l'Univers ralentit encore : dominé par la matière, il est freiné par la gravité. L'énergie sombre — une forme d'énergie au comportement répulsif, qui éloigne les galaxies les unes des autres — est déjà présente, mais reste sous-dominante. </p>
@@ -183,7 +183,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/voieLactee.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/voieLactee.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/voieLactee.mp4"></video>
 </p>
 
 <p>La Voie lactée, faisant alors environ la moitié de sa taille actuelle, fusionne avec Gaïa-Encelade, une galaxie naine. La collision chauffe les étoiles natives préexistantes, qui forment le disque épais, tandis que les étoiles capturées à Gaïa-Encelade peuplent le halo interne, sur des orbites très allongées. Selon le rapport de masse retenu, c'est la deuxième plus grande fusion de l'histoire de notre galaxie.</p>
@@ -200,7 +200,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/sagittaire.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"></video>
 </p>
 
 <p>Le taux de formation d'étoiles dans la Voie lactée commence à décliner. La galaxie entre dans une phase plus calme : les grandes fusions sont derrière elle, et le gaz qu'elle continue d'accréter peut enfin se déposer tranquillement. Il s'organise en un disque mince, dynamiquement froid, en rotation rapide et ordonnée autour du centre galactique : le disque mince de notre galaxie — celui où naîtra le Soleil, et où réside aujourd'hui l'essentiel de la formation stellaire — commence à se mettre en place.</p>
@@ -227,12 +227,12 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/soleil.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/soleil.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/soleil.mp4"></video>
 </p>
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/systemeSolaire.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/systemeSolaire.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/systemeSolaire.mp4"></video>
 </p>
 
 <p>Ce très jeune Soleil est entouré d'un disque de gaz et de poussières. Dans les régions externes, lointaines et froides, au-delà de la « ligne des glaces », les gaz volatils (hydrogène, hélium) repoussés par le jeune Soleil peuvent être retenus : la matière s'y assemble en gros noyaux qui accrètent ce gaz pour former les géantes gazeuses. Jupiter, la plus grande planète du système solaire, est la première à se constituer.</p>
@@ -253,7 +253,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/debutTerre.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutTerre.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutTerre.mp4"></video>
 </p>
 
 <p>À sa formation, la Terre est brûlante et sans eau, sa surface recouverte d'un océan de magma — une véritable mer de feu, à environ 1500 à 2300 °C (son intérieur profond, lui, dépasse les 4000 °C). Sous l'effet de la gravité, la planète se différencie : les éléments les plus lourds, comme le fer, plongent vers le centre pour former le noyau — une boule de métal liquide, maintenue chaude par l'énergie libérée lors de l'accrétion et de cette différenciation, ainsi que par la radioactivité. Les éléments plus légers, eux, remontent vers la surface. Le manteau dégaze à travers une intense activité volcanique, libérant de la vapeur d'eau, du dioxyde de carbone (CO₂), de l'azote et des composés soufrés. Ce CO₂, expulsé directement par les volcans constitue une épaisse atmosphère primitive de CO₂ et de vapeur d'eau.</p>
@@ -262,7 +262,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/debutLune.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutLune.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutLune.mp4"></video>
 </p>
 
 <p>L'orbite d'une planète de la taille de Mars, appelée Theia, la mène droit sur la Terre : c'est l'impact géant. La collision projette dans l'espace une énorme quantité de matière, issue à la fois de la Terre et de Theia. Pendant quelques millions d'années, notre planète possède des anneaux de débris, comme Saturne. Puis ces anneaux s'agglomèrent pour donner naissance à un nouveau monde : la Lune, l'unique satellite naturel permanent de la Terre.</p>
@@ -295,7 +295,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/refroidissement.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/refroidissement.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/refroidissement.mp4"></video>
 </p>
 
 <p>Parallèlement, encore grâce à la gravité, Jupiter, à ses débuts, se rapproche du soleil et projette des astéroïdes qui croisent sa route dans toutes les directions. Une partie de ces astéroïdes rencontrent la Terre.</p>
@@ -306,7 +306,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/innondation.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/innondation.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/innondation.mp4"></video>
 </p>
 
 <p>Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.</p>
@@ -327,7 +327,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/debutVie.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutVie.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutVie.mp4"></video>
 </p>
 
 <p>Dans les roches d'Isua, au Groenland, on trouve du graphite dont la signature chimique (un carbone appauvri en isotope 13) évoque une origine biologique. C'est peut-être la plus ancienne trace de vie sur Terre — mais la preuve reste débattue : des processus purement géologiques pourraient produire la même signature.</p>
@@ -374,7 +374,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/oxygene.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/oxygene.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/oxygene.mp4"></video>
 </p>
 
 <p>Les cyanobactéries se mettent à produire de l'oxygène par photosynthèse. L'eau (H₂O) contient bien des atomes d'oxygène, mais liés chimiquement à l'hydrogène ; les cyanobactéries, elles, utilisent l'énergie solaire pour casser la molécule d'eau et en libérer l'oxygène (O₂) sous forme de gaz. C'est une première dans l'histoire de la vie — mais cet oxygène ne gagnera pas l'atmosphère avant des centaines de millions d'années : il est capté au fur et à mesure par l'océan et les roches.</p>
@@ -389,7 +389,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/cyanobacterie.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/cyanobacterie.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/cyanobacterie.mp4"></video>
 </p>
 
 <p>Les êtres vivants se rassemblent en filaments verdâtres, fins comme des cheveux, et en tapis visqueux qui recouvrent les fonds peu profonds, construits par des organismes microscopiques appelés cyanobactéries — les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.</p>
@@ -410,7 +410,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/ileVolcanique.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ileVolcanique.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ileVolcanique.mp4"></video>
 </p>
 
 <p>Pendant cette période, l'activité volcanique est très intense, en grande partie à cause du manteau terrestre chaud et de la croûte terrestre encore en formation.</p>
@@ -441,7 +441,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/mitochondrie.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mitochondrie.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mitochondrie.mp4"></video>
 </p>
 
 <p>L'oxygène, désormais présent dans l'eau et dans l'air, rend possible un événement extraordinaire — il ne se produira probablement qu'une seule fois dans toute l'histoire de la vie.</p>
@@ -492,7 +492,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/rodynia.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/rodynia.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/rodynia.mp4"></video>
 </p>
 
 <p>Les continents, eux, n'ont jamais cessé de bouger. Portés par les lents mouvements du manteau, ils dérivent de quelques centimètres par an — assez, sur des centaines de millions d'années, pour redessiner entièrement le globe. Nuna s'est fragmenté ; ses morceaux, après une longue dérive, entrent en collision les uns avec les autres et se soudent en un nouveau supercontinent : Rodinia. C'est le cycle des supercontinents — assemblage, fragmentation, réassemblage — qui rythmera toute l'histoire de la planète.</p>
@@ -539,7 +539,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/eponge.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/eponge.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/eponge.mp4"></video>
 </p>
 
 <p>C'est peut-être vers cette époque — les analyses génétiques le suggèrent, même si les fossiles clairs n'apparaîtront que bien plus tard — qu'émergent les éponges de mer : les tout premiers animaux de l'histoire de la Terre. Fixées au fond des mers, elles inaugurent une nouvelle branche du vivant, celle qui mènera un jour aux poissons, aux dinosaures et à nous.</p>
@@ -590,12 +590,12 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/boulleDeGlace.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/boulleDeGlace.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/boulleDeGlace.mp4"></video>
 </p>
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/bouleDeNeige.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/bouleDeNeige.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/bouleDeNeige.mp4"></video>
 </p>
 
 # -630 000 000 d'années
@@ -678,7 +678,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/anomalocaris.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/anomalocaris.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/anomalocaris.mp4"></video>
 </p>
 
 <p>Ce monde a ses monstres, et le plus redoutable s'appelle Anomalocaris : jusqu'à un mètre de long — un géant pour l'époque —, une allure de crevette démesurée, tout en haut de la chaîne alimentaire du Cambrien. C'est le premier super-prédateur de l'histoire : un chasseur actif, qui repère sa proie grâce à ses énormes yeux à facettes, fond sur elle propulsé par ses rangées de nageoires latérales souples et sa queue en éventail, puis la capture avec les deux grands appendices griffus qui encadrent sa bouche circulaire, garnie de plaques dures en guise de dents.</p>
@@ -735,7 +735,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/ozone.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ozone.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ozone.mp4"></video>
 </p>
 
 <p>Si cette sortie de l'eau est enfin possible, c'est grâce à un bouclier achevé de longue date : la couche d'ozone, qui s'épaissit depuis plus d'un milliard d'années à mesure que l'oxygène s'accumule, protège désormais efficacement les terres émergées des ultraviolets. Sans elle, la vie complexe à l'air libre serait restée presque impossible.</p>
@@ -746,7 +746,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/ordovicien.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ordovicien.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ordovicien.mp4"></video>
 </p>
 
 <p>La chute du CO2 finit par faire basculer le climat : une calotte glaciaire géante s'installe sur le pôle Sud, alors occupé par le supercontinent Gondwana. Ce nouvel âge de glace est bref à l'échelle géologique — un ou deux millions d'années pour son pic — et n'a rien de la Terre boule de neige : les glaces restent polaires. Mais il frappe la vie de plein fouet.</p>
@@ -799,7 +799,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/placoderm.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/placoderm.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/placoderm.mp4"></video>
 </p>
 
 <p style="text-align:center">
@@ -872,7 +872,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/devonian.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/devonian.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/devonian.mp4"></video>
 </p>
 
 <p>La fin du Dévonien est un temps de crise. Les océans suffoquent : épisode après épisode, leurs eaux se vident de leur oxygène, et les fonds deviennent des déserts sans vie. Parmi les suspects, les forêts elles-mêmes — leurs débris et les nutriments lessivés des nouveaux sols se déversent dans les mers, y nourrissant des proliférations d'algues dont la décomposition asphyxie tout.</p>
@@ -893,7 +893,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/reptile.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/reptile.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/reptile.mp4"></video>
 </p>
 
 <p>Un groupe de tétrapodes accomplit la dernière étape de la conquête des terres : pondre ses œufs sur le continent, là où la vie végétale explose, plutôt que dans l'eau. Leur invention : l'œuf amniotique. Sous sa coquille protectrice, une série de membranes dont l'amnios, qui enferme l'embryon dans sa propre poche d'eau, avec toutes les réserves nécessaires à son développement. Une mare portative, en somme : plus besoin de retourner à l'eau pour se reproduire.</p>
@@ -926,7 +926,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/meganeura.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/meganeura.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/meganeura.mp4"></video>
 </p>
 
 <p style="text-align:center">
@@ -939,7 +939,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/charbon.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/charbon.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/charbon.mp4"></video>
 </p>
 
 <p>Ces jungles laisseront un héritage : leurs troncs engloutis dans les marécages, enfouis sous les sédiments et comprimés pendant des millions d'années, deviendront le charbon — cette roche noire qui donnera son nom au Carbonifère, et son énergie à la révolution industrielle des humains.</p>
@@ -956,7 +956,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/scutosaure.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/scutosaure.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/scutosaure.mp4"></video>
 </p>
 
 <p>À la fin du Permien, les terres portent une faune de géants. Parmi les herbivores, Scutosaurus : trois mètres de long, une carrure de bison, le corps couvert d'ostéodermes — des plaques osseuses enchâssées dans la peau, une véritable cuirasse. Il en a besoin : les plaines du Permien sont chassées par les gorgonopsiens, de redoutables carnivores à dents de sabre pouvant dépasser la taille d'un lion — qui, comme Dimétrodon avant eux, appartiennent à notre grande famille, celle des synapsides, la lignée des futurs mammifères.</p>
@@ -967,7 +967,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/permian.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/permian.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/permian.mp4"></video>
 </p>
 
 <p>C'est la pire catastrophe de toute l'histoire de la vie. En Sibérie, des éruptions volcaniques d'une ampleur inimaginable déversent des laves sur des millions de kilomètres carrés — une surface comparable à une bonne partie des États-Unis : ce sont les « trapps de Sibérie », actifs pendant des centaines de milliers d'années. Le magma traverse d'immenses gisements de charbon et de sel, libérant des quantités colossales de CO2, d'acide sulfurique et de gaz qui rongent la couche d'ozone.</p>
@@ -1026,7 +1026,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/pangeeBrisure.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pangeeBrisure.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pangeeBrisure.mp4"></video>
 </p>
 
 <p>La déchirure entamée dix millions d'années plus tôt — celle-là même qui avait déclenché l'extinction de la fin du Trias — poursuit son travail. Les eaux marines s'engouffrent dans la grande fissure : un jeune océan est en train de naître, qui deviendra l'Atlantique.</p>
@@ -1043,21 +1043,21 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/atlantique.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atlantique.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atlantique.mp4"></video>
 </p>
 
 <p>La déchirure de la Pangée s'élargit : le jeune Atlantique n'est encore qu'un long bras de mer étroit, coincé entre les deux moitiés du monde. Et cette géographie particulière — des mers jeunes, confinées, aux eaux calmes et mal brassées — est en train de fabriquer, sans que personne ne s'en doute, un trésor pour un lointain futur.</p>
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/petroleDebut.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petroleDebut.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petroleDebut.mp4"></video>
 </p>
 
 <p>Dans ces eaux tièdes prolifère le plancton — des nuées d'algues microscopiques. Quand il meurt, il pleut vers des fonds si pauvres en oxygène que rien ne le décompose : la matière organique s'accumule, couche après couche, et les sédiments l'ensevelissent. Enfouie toujours plus profond, pressée et chauffée pendant des millions d'années, cette boue organique va lentement se transformer... en pétrole.</p>
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/petrole.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petrole.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petrole.mp4"></video>
 </p>
 
 <p>Une grande partie des réserves mondiales de pétrole naîtra ainsi, au Jurassique et au Crétacé, dans les bassins ouverts par la dislocation de la Pangée. Carburants, plastiques, médicaments, textiles : une bonne partie de ce que nous consommons aujourd'hui sort de ces mers du temps des dinosaures — nous roulons, littéralement, au plancton jurassique.</p>
@@ -1140,7 +1140,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/extinctionDynosaure.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/extinctionDynosaure.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/extinctionDynosaure.mp4"></video>
 </p>
 
 <p>Un astéroïde d'environ 10 kilomètres de diamètre frappe la Terre au niveau de l'actuelle péninsule du Yucatán, au Mexique, dans une mer peu profonde. L'énergie libérée dépasse des milliards de fois la bombe d'Hiroshima ; le cratère — Chicxulub — mesure 180 kilomètres de diamètre. Séismes colossaux, tsunamis géants qui ravagent les côtes : et ce n'est que le début.</p>
@@ -1237,7 +1237,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/origineHomme.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/origineHomme.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/origineHomme.mp4"></video>
 </p>
 
 <p>Quelque part en Afrique, une lignée de grands singes se sépare de celle des futurs chimpanzés. C'est ici que commence notre propre branche : les homininés. Le fossile emblématique de cette époque s'appelle Toumaï (Sahelanthropus), découvert au Tchad : son crâne suggère — c'est débattu — qu'il se tenait déjà debout.</p>
@@ -1308,7 +1308,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/lameSilex.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/lameSilex.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/lameSilex.mp4"></video>
 </p>
 
 <p>Sa technique, elle, est bien connue. Pour fabriquer le plus simple des outils, il faut un bloc de roche dure aux bonnes propriétés mécaniques — comme le silex — et un percuteur, une autre pierre, pour frapper le bloc de façon à en détacher un éclat. Le geste produit deux tranchants d'un coup : sur le bloc taillé et sur l'éclat détaché — tous deux utilisables. C'est simple en apparence ; en réalité, viser le bon angle, doser la frappe, lire la pierre demande un apprentissage réel — essayez, vous verrez.</p>
@@ -1319,7 +1319,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/feuHomoErectus.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuHomoErectus.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuHomoErectus.mp4"></video>
 </p>
 
 <p>Voici Homo erectus — « l'homme dressé » : plus grand que ses prédécesseurs, taillé en marcheur et en coureur, avec un cerveau qui poursuit sa croissance. Avec lui, notre lignée invente une arme que nul prédateur ne possède : l'endurance.</p>
@@ -1334,7 +1334,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/biface.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/biface.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/biface.mp4"></video>
 </p>
 
 <p>La taille de la pierre change d'ère. Au simple éclat de l'Oldowayen succède une nouvelle industrie, l'Acheuléen, et son chef-d'œuvre : le biface. Une pierre taillée méthodiquement sur les deux faces, symétrique, en forme d'amande — le premier objet de l'histoire où l'artisan impose à la matière une forme conçue d'avance dans sa tête. Le fabriquer exige de planifier des dizaines de gestes : c'est un fossile de pensée autant qu'un outil.</p>
@@ -1386,14 +1386,14 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/neandertal.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neandertal.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neandertal.mp4"></video>
 </p>
 
 <p>En Europe, la lignée qui mène à Néandertal prend forme : les descendants européens d'heidelbergensis, isolés par les glaciations, accumulent peu à peu les traits de leur futur visage — face projetée en avant, corps trapu taillé pour le froid.</p>
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/feuneanderthal.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuneanderthal.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuneanderthal.mp4"></video>
 </p>
 
 <p>Le mode de vie s'organise. Face à un climat en dents de scie — glaciations et redoux alternés —, les groupes humains s'installent systématiquement dans les abris naturels : grottes et abris sous roche, protection contre le froid, le vent et les prédateurs (hyènes, lions et ours des cavernes, avec qui il faut parfois disputer les lieux). Les sites comme Terra Amata en France ou Zhoukoudian en Chine montrent des foyers entretenus et un espace de vie structuré. Ce n'est pas encore un habitat construit, mais c'est une révolution discrète : les humains ne subissent plus le territoire, ils le planifient — camps de base, retours saisonniers, bons coins connus et transmis.</p>
@@ -1410,7 +1410,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/neanderthal.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neanderthal.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neanderthal.mp4"></video>
 </p>
 
 <p>La taille de la pierre franchit un nouveau cap intellectuel : la méthode Levallois — nommée d'après Levallois-Perret, près de Paris, où l'on en a trouvé des exemples typiques. Néandertaliens en Europe, populations africaines dont sortira bientôt sapiens : les deux lignées la pratiquent.</p>
@@ -1472,7 +1472,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/supervolcan.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/supervolcan.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/supervolcan.mp4"></video>
 </p>
 
 <p>À Sumatra, en Indonésie, un supervolcan explose — l'éruption de Toba, la plus puissante des deux derniers millions d'années. Quelque 2 800 kilomètres cubes de matière — cendres, magma, gaz sulfureux — sont projetés dans l'atmosphère : des milliers de fois l'éruption du mont Saint Helens. Les cendres ensevelissent l'Asie du Sud et du Sud-Est jusqu'à l'océan Indien ; à l'emplacement du volcan effondré, il ne reste qu'un trou géant — l'actuel lac Toba, 100 kilomètres de long.</p>
@@ -1539,7 +1539,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/thorin.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/thorin.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/thorin.mp4"></video>
 </p>
 
 <p>Dans la vallée du Rhône vit l'un des derniers Néandertaliens connus. Les chercheurs qui l'ont découvert l'ont surnommé Thorin, comme le nain de Tolkien — et son génome a livré une surprise de taille : sa lignée vivait isolée depuis près de 50 000 ans. Sa population n'avait pratiquement pas échangé de gènes avec les autres groupes néandertaliens — pourtant installés à quelques semaines de marche. Des mondes clos, côte à côte, qui s'ignorent.</p>
@@ -1554,7 +1554,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/styleprehistoire.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/styleprehistoire.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/styleprehistoire.mp4"></video>
 </p>
 
 <p>Et pendant que s'éteint l'ancien monde, le nouveau s'invente. À Hohle Fels, en Allemagne, une main a sculpté dans l'ivoire de mammouth une figurine de six centimètres : une femme aux formes exubérantes — seins lourds, hanches larges, vulve nettement marquée — et sans tête : à sa place, un anneau poli, signe qu'elle se portait sans doute en pendentif. C'est l'une des plus anciennes représentations humaines du monde. Fertilité, protection, beauté ? Son sens s'est perdu ; sa puissance, non.</p>
@@ -1656,7 +1656,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/village.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/village.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/village.mp4"></video>
 </p>
 
 <p>Au Levant — l'actuel Israël, la Palestine, le Liban et la Syrie occidentale — un peuple bouscule l'ordre des choses : les Natoufiens construisent les premiers villages connus de l'histoire. Maisons rondes semi-enterrées aux murs de pierre, meules dormantes trop lourdes pour être déplacées, cimetières : tout dit qu'on s'installe pour rester.</p>
@@ -1692,7 +1692,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/templetepe.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/templetepe.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/templetepe.mp4"></video>
 </p>
 
 <p>Sur une colline du sud-est de la Turquie s'élève un monument qui a bouleversé notre compréhension des origines : Göbekli Tepe. Des enceintes de piliers de calcaire en forme de T — certains de plus de cinq mètres et dix tonnes — sculptés de renards, de serpents, de sangliers, de vautours, de scorpions. Le plus ancien ensemble monumental de l'humanité… érigé par des chasseurs-cueilleurs, avant l'agriculture, avant la poterie, avant les villages dignes de ce nom.</p>
@@ -1740,7 +1740,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/argile.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/argile.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/argile.mp4"></video>
 </p>
 
 <p>En Anatolie centrale, Çatalhöyük pousse la vie villageoise à une échelle jamais vue : plusieurs milliers d'habitants — et pourtant, ce n'est pas encore une ville. Pas de rues : les maisons de briques crues se serrent les unes contre les autres, et l'on circule sur les toits, chacun entrant chez soi par une trappe qui sert de porte, de fenêtre et de cheminée. Pas de palais, pas de temple central, pas de quartier riche : une étonnante ruche égalitaire, reconstruite couche après couche sur ses propres ruines pendant plus d'un millénaire.</p>
@@ -1850,12 +1850,12 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/uruk.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/uruk.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/uruk.mp4"></video>
 </p>
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/mesopotamie.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mesopotamie.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mesopotamie.mp4"></video>
 </p>
 
 <p>La Mésopotamie vit désormais à l'heure des cités-États : Uruk, Ur, Lagash, Kish — chacune avec son roi, intermédiaire des dieux, ses prêtres puissants qui gèrent les temples et une bonne part de l'économie, ses marchands, artisans et paysans — et ses esclaves pour les travaux les plus durs. Uruk, la plus illustre, centre du culte de la déesse Inanna, a montré la voie : ses ziggurats — ces temples-montagnes à étages — inspirent tout le pays.</p>
@@ -1886,7 +1886,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/indus.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/indus.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/indus.mp4"></video>
 </p>
 
 <p>Un troisième géant rejoint l'Égypte et Sumer : la civilisation de l'Indus, dans l'actuel Pakistan et le nord-ouest de l'Inde. Ses métropoles — Harappa, Mohenjo-Daro — stupéfient encore les archéologues : des villes planifiées en damier, aux rues orientées, bâties en briques de dimensions standardisées ; des poids et mesures uniformes sur un territoire plus vaste que l'Égypte et Sumer réunis ; et surtout la meilleure hydraulique du monde antique — presque chaque maison a sa salle de bains, reliée à des égouts couverts qui courent sous les rues. Le confort sanitaire de Mohenjo-Daro ne sera pas égalé avant Rome — voire avant le XIXe siècle.</p>
@@ -1895,7 +1895,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/egypteancienne.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/egypteancienne.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/egypteancienne.mp4"></video>
 </p>
 
 <p>En Égypte, Snéfrou, premier pharaon de la IVe dynastie, révolutionne l'architecture funéraire : il passe des petites pierres de maçonnerie à de grands blocs de calcaire taillés et ajustés, et expérimente — pyramide après pyramide, y compris une célèbre ratée, la pyramide rhomboïdale — les méthodes qui permettront les géantes de Gizeh. Son fils en profitera. Dans le même temps, le culte solaire prend une importance centrale : Rê, le dieu soleil, est vénéré comme créateur et source de vie, avec Héliopolis pour grand centre religieux.</p>
@@ -1904,7 +1904,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/kheops.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/kheops.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/kheops.mp4"></video>
 </p>
 
 <p style="text-align:center">
@@ -1933,7 +1933,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/ounas.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ounas.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ounas.mp4"></video>
 </p>
 
 <p style="text-align:center">
@@ -1973,7 +1973,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/babylone.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/babylone.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/babylone.mp4"></video>
 </p>
 
 <p>Au centre de la Basse Mésopotamie, une cité longtemps mineure sous les Sumériens et les Akkadiens prend son indépendance : une dynastie amorrite s'installe à Babylone. Personne ne le sait encore, mais cette petite ville-État deviendra la plus légendaire du monde antique.</p>
@@ -2073,7 +2073,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/pretre.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pretre.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pretre.mp4"></video>
 </p>
 
 <p>Et un pouvoir monte à l'ombre des temples : les grands prêtres d'Amon. Enrichi par les hommages des pharaons, le clergé d'Amon devient une puissance dans l'État, avec toute sa hiérarchie — jusqu'aux prêtres lecteurs (hery-heb), chargés de réciter les textes sacrés. Leurs rituels quotidiens entretiennent le Maât, l'ordre cosmique cher aux Égyptiens — et leur influence, un jour, rivalisera avec celle du trône.</p>
@@ -2088,7 +2088,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/hatchepsout.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/hatchepsout.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/hatchepsout.mp4"></video>
 </p>
 
 <p>Hatchepsout accède au pouvoir — l'une des très rares femmes à régner en tant que pharaon, et l'une des plus grandes figures de l'Égypte antique. Régente devenue souveraine de plein droit, elle se fait représenter avec tous les attributs du pharaon, barbe postiche comprise. Son règne d'une vingtaine d'années est une ère de prospérité et de paix : grandes expéditions commerciales (dont la fameuse expédition vers le pays de Pount), chefs-d'œuvre d'architecture comme son temple de Deir el-Bahari. Ses successeurs tenteront d'effacer son nom des monuments — en vain : elle est aujourd'hui l'une des souveraines les plus admirées de l'histoire.</p>
@@ -2130,7 +2130,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/toutankamon.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/toutankamon.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/toutankamon.mp4"></video>
 </p>
 
 <p>Naissance de Toutânkhamon, probablement fils d'Akhenaton. Son règne sera court et politiquement mineur — mais il deviendra le plus célèbre des pharaons, grâce à un hasard extraordinaire : sa tombe, découverte intacte en 1922 par Howard Carter, est l'une des seules à avoir échappé aux pilleurs. Son masque funéraire en or est devenu l'icône de l'Égypte antique, et le mystère de sa mort précoce intrigue encore les chercheurs.</p>
@@ -2155,7 +2155,7 @@ tags: technology
 
 <p style="text-align:center">
   <video poster="/assets/img/posters/nefertari.webp" controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/nefertari.mp4"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/nefertari.mp4"></video>
 </p>
 
 <p>En Égypte, la même année, naît Néfertari, future épouse principale de Ramsès II. Son nom signifie « la plus belle, celle pour qui brille le soleil », et sa tombe, dans la Vallée des Reines, comptera parmi les plus somptueusement décorées du pays.</p>
@@ -2264,6 +2264,14 @@ tags: technology
 <p>Une génération plus tard, un autre peuple s'installe dans le même pays. Ramsès III repousse une grande offensive des Peuples de la Mer sur le delta du Nil — il en fera graver le récit et les images sur les murs de son temple funéraire — mais ne peut les empêcher de se fixer sur la côte méridionale de Canaan. Ce sont les Philistins.</p>
 
 <p>Ils apportent avec eux une culture matérielle raffinée : céramique d'inspiration égéenne, architecture organisée, cinq villes puissantes le long du littoral. Et ils tiennent la plaine fertile pendant qu'Israël tient les cailloux des hauteurs.</p>
+
+# -1 150 av. J.-C.
+
+<p>À l'autre bout du monde, sur la plaine côtière humide du golfe du Mexique, une civilisation s'élève dont aucun habitant de l'Ancien Monde ne soupçonnera l'existence pendant deux mille cinq cents ans. On l'appelle olmèque — un nom que les Aztèques donneront bien plus tard à la région, et qui n'est certainement pas celui que ces gens se donnaient.</p>
+
+<p>Leur capitale, San Lorenzo, est bâtie sur un plateau artificiel : des centaines de milliers de mètres cubes de terre entassés à la main pour dominer les marécages. Et l'on y sculpte des têtes. Dix-sept colosses de basalte nous sont parvenus, jusqu'à trois mètres de haut et vingt tonnes, aux traits individualisés — ce sont des portraits, probablement de souverains. Le basalte, lui, vient des monts Tuxtla, à des dizaines de kilomètres de là. Ni roue, ni animal de trait, ni métal : on a déplacé ces blocs à la force des bras et des radeaux.</p>
+
+<p>Les Olmèques inventent ou fixent ce dont vivra toute la Mésoamérique : le jeu de balle rituel, le calendrier, un panthéon où l'on reconnaît déjà le jaguar et le serpent, et les premiers signes qui mèneront à l'écriture maya. Longtemps on les a dits « culture mère » de tout ce qui a suivi ; on penche aujourd'hui pour quelque chose de plus subtil — une des premières sociétés complexes d'un réseau qui en comptait plusieurs, mais la première à voir grand.</p>
 
 # -1 100 av. J.-C.
 
@@ -2576,7 +2584,7 @@ tags: technology
 
 <p style="text-align:center">
   <video controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/Les%20Grecs%C2%A0I%20Quelle%20Histoire%20-%20TV5%20Monde%20%5BcVsQB4wpRBc%5D.mkv"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/les-grecs-cVsQB4wpRBc.mp4"></video>
 </p>
 
 <p>La Grèce sort de ses siècles obscurs — c'est l'âge archaïque. Les cités-États se constituent, Athènes et Sparte en tête, chacune avec ses lois, ses dieux et son gouvernement. Et l'écriture revient, transformée : adaptant l'alphabet des Phéniciens, les Grecs y ajoutent une invention décisive — des lettres pour les voyelles, absentes des alphabets sémitiques. L'alphabet grec, complet et précis, peut noter n'importe quelle parole : l'histoire et la littérature grecques peuvent commencer à s'écrire.</p>
@@ -2643,7 +2651,7 @@ tags: technology
 
 <p style="text-align:center">
   <video controls preload="none" width="640" height="360"
-      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/COMPRENDRE%20%EF%BC%9A%20La%20Rome%20antique%20%5Bu2AdfEHfV_U%5D.mkv"/>
+      src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/la-rome-antique-u2AdfEHfV_U.mp4"></video>
 </p>
 
 <p>Date traditionnelle de la fondation de Rome — celle que la légende attribue à Romulus, nourri avec son jumeau Remus par une louve. La réalité archéologique est plus modeste : des villages de bergers et de paysans sur les collines dominant le Tibre, qui fusionnent peu à peu — céréales, vignes, oliviers, troupeaux de chèvres et de moutons.</p>
@@ -3254,7 +3262,11 @@ tags: technology
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=RvbRSdjf9t4" data-id="RvbRSdjf9t4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/RvbRSdjf9t4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Naissance de Platon.</p>
+<p>Naissance de Platon, dans une famille aristocratique d'Athènes, en pleine guerre du Péloponnèse. Il a vingt-huit ans quand la cité condamne Socrate à mort — et il ne s'en remettra pas : toute son œuvre part de cette question, comment une communauté peut-elle tuer le plus juste de ses membres en respectant scrupuleusement ses propres lois ?</p>
+
+<p>Sa réponse est radicale. Si l'opinion suffit à condamner, c'est que l'opinion ne vaut rien : il faut fonder le savoir ailleurs, sur ce qui ne change pas. De là sa théorie des Idées — les choses sensibles ne sont que les ombres imparfaites de réalités éternelles, que seule la raison atteint — et l'image qui la porte, la caverne : des prisonniers enchaînés depuis toujours prennent pour le monde les ombres projetées sur une paroi ; celui qui sort, voit le soleil et redescend le raconter passe pour fou.</p>
+
+<p>Il écrit presque tout en dialogues, où Socrate interroge sans jamais rien affirmer, et fonde vers -387 l'Académie — une institution d'enseignement et de recherche qui fonctionnera neuf siècles. Aristote y entrera à dix-sept ans.</p>
 
 # -400 av. J.-C.
 
@@ -3618,7 +3630,7 @@ tags: technology
 
 # 19 ans
 
-<p>Germanicus meurt en Orient, à trente-quatre ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
+<p>Germanicus meurt en Orient, à trente-trois ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
 
 # 21 ans
 
@@ -3730,6 +3742,16 @@ tags: technology
 
 <p>Le geste est un aveu autant qu'un ouvrage. Rome, qui avait passé cinq siècles à s'étendre, renonce ici officiellement à conquérir plus loin — comme elle l'avait fait sur le Rhin après Teutobourg, comme elle le fera sur l'Euphrate. L'Empire cesse d'être une entreprise de conquête pour devenir une entreprise de conservation. Et une frontière fortifiée, c'est aussi une frontière qu'on peut un jour ne plus tenir.</p>
 
+# 150 ans
+
+<p>Dans la vallée de Mexico s'achève la plus grande pyramide des Amériques, et la ville qui l'entoure est en train de devenir l'une des plus peuplées du monde : cent à deux cent mille habitants, à égalité avec Rome et Alexandrie.</p>
+
+<p>Tout y est tracé au cordeau. Une avenue de cinq kilomètres — les Aztèques l'appelleront la Chaussée des Morts — organise la cité selon une orientation unique, légèrement décalée du nord, respectée par chaque mur sur des kilomètres carrés. Et les habitants ne vivent pas dans des huttes : on a dégagé plus de deux mille ensembles résidentiels à cour centrale, murs enduits et peints, où logeaient des familles entières. Un urbanisme de dalles et d'appartements, quinze siècles avant qu'on en refasse ailleurs.</p>
+
+<p>La ville est cosmopolite : on y a identifié un quartier zapotèque et un quartier aux céramiques mayas, à mille kilomètres de leurs foyers d'origine.</p>
+
+<p>Et pourtant, mystère complet — le même que celui de l'Indus. Aucun palais royal identifié, aucun portrait de souverain, aucune tombe dynastique, aucun texte qui nomme qui que ce soit. Une capitale immense dont nous ignorons jusqu'au nom que lui donnaient ses habitants, et jusqu'à la forme de son gouvernement. Vers 550, son centre cérémoniel est incendié. Des siècles plus tard, les Aztèques découvriront les ruines, jugeront qu'aucun homme n'a pu bâtir cela, et les baptiseront Teotihuacan : « le lieu où l'on devient dieu ».</p>
+
 # 184 ans
 
 <p>Des centaines de milliers de paysans chinois nouent un turban jaune autour de leur tête et se soulèvent. Le mouvement n'est pas une jacquerie spontanée : c'est une secte, la Voie de la Grande Paix, organisée patiemment par un guérisseur taoïste, Zhang Jue. Sa méthode tenait de la médecine et de la religion — il soignait par l'eau bénite et la confession des fautes, toute maladie étant vue comme la conséquence d'une faute. Dans un empire ravagé par les épidémies, les inondations et la famine, le succès fut foudroyant : trois cent mille fidèles, répartis en trente-six unités régionales, prêts à obéir à un signal.</p>
@@ -3784,6 +3806,16 @@ tags: technology
 
 <p>Mais Constantin va bien au-delà de la tolérance : il exempte le clergé d'impôts, finance la construction de basiliques, offre des palais aux évêques, restitue et enrichit. En une génération, l'Église passe de la clandestinité à la fortune, et la conversion cesse d'être un risque pour devenir un avantage. Le nombre de fidèles explose — pour des raisons qui ne sont pas toutes spirituelles.</p>
 
+# 320 ans
+
+<p>Dans la plaine du Gange, un souverain prend un nom lourd de sens — Chandragupta, comme le fondateur de l'empire maurya six siècles plus tôt — et fonde la dynastie Gupta. S'ouvre ce que l'on tient pour l'âge classique de l'Inde.</p>
+
+<p>Ce n'est pas un empire au sens romain. Le pouvoir gupta laisse vivre les royaumes soumis, se contente de tributs et d'allégeances, et gouverne peu. C'est précisément ce qui lui réussit : la paix relative qu'il installe finance des siècles de travail intellectuel. Kalidasa écrit un théâtre et une poésie que le sanskrit ne dépassera pas. Les temples de pierre prennent la forme qu'ils garderont jusqu'à aujourd'hui. À Nalanda s'organise ce qui ressemble à la première université résidentielle du monde, où des moines viennent étudier de Chine, de Corée et de Java.</p>
+
+<p>Mais l'héritage le plus lourd tient dans dix signes. C'est dans cette Inde-là que se met en place la numération décimale de position — celle où la valeur d'un chiffre dépend de son rang, et où un symbole représente le vide, le zéro. Un siècle et demi plus tard, Aryabhata calculera avec ce système une valeur de π juste à quatre décimales et proposera une Terre qui tourne sur elle-même.</p>
+
+<p>Ces dix signes passeront aux savants du monde musulman, puis de là à l'Europe — qui les appellera « chiffres arabes », oubliant au passage l'étape indienne. Toute l'arithmétique que tu as apprise à l'école commence ici.</p>
+
 # 325 ans
 
 <p>Constantin convoque à Nicée les évêques de tout l'Empire — plus de trois cents — et préside lui-même leurs débats. La question qui les divise vient d'un prêtre d'Alexandrie, Arius, et paraît d'une subtilité désespérante : le Christ est-il Dieu lui-même, ou la première créature que Dieu ait faite ? Pour Arius, il y eut forcément un moment où le Fils n'existait pas encore — sinon il y aurait deux dieux, et le monothéisme s'effondre. Pour ses adversaires, si le Christ n'est pas pleinement Dieu, alors les chrétiens adorent une créature, et leur salut ne repose sur rien.</p>
@@ -3815,6 +3847,14 @@ tags: technology
 <p>Constantin fonde une capitale chrétienne, sans passé païen encombrant, entièrement neuve, dotée de son sénat, de son hippodrome et de ses églises. Une seconde Rome, mais grecque d'usage et chrétienne de naissance.</p>
 
 <p>La décision se révélera l'une des plus lourdes de conséquences de l'histoire. Quand l'Occident s'effondrera au siècle suivant, l'Orient, lui, tiendra — et Constantinople restera capitale d'un empire pendant onze siècles encore. Nous appelons celui-ci « byzantin », mais le mot est une invention d'érudit du XVIᵉ siècle : ses habitants se sont toujours appelés Romains, jusqu'au dernier jour. L'Empire romain n'est pas mort en 476 ; il a simplement changé de langue et déménagé.</p>
+
+<p>Et Constantin n'est pas seul, cette année-là, à faire du christianisme une affaire d'État. Sur les hauts plateaux de la Corne de l'Afrique, le roi Ezana d'Aksoum se convertit et fait frapper sa monnaie à la croix — ses pièces d'avant portaient le disque et le croissant. Le geste est stupéfiant de précocité : l'Éthiopie devient chrétienne un demi-siècle avant que Théodose ne l'impose à Rome.</p>
+
+<p>Aksoum n'est pas une périphérie. Le royaume tient le commerce de la mer Rouge, exporte l'ivoire et l'encens vers l'Inde et Byzance, et frappe sa propre monnaie d'or — un privilège que seules trois autres puissances s'accordent alors. Un prophète du siècle précédent, Mani, classait le monde en quatre grands empires : Rome, la Perse, la Chine et Aksoum. Nous avons retenu les trois premiers.</p>
+
+<p>Ses rois se font enterrer sous des stèles de granit monolithiques, taillées en fausses maisons à étages. La plus grande atteignait trente-trois mètres et pesait plus de cinq cents tonnes : le plus gros bloc de pierre unique que des hommes aient jamais tenté de dresser. Elle gît brisée sur place — elle s'est probablement effondrée pendant l'opération. Même les échecs y étaient démesurés.</p>
+
+<p>Cette Église-là ne disparaîtra pas. Coupée du reste de la chrétienté par la conquête arabe, l'Éthiopie gardera sa foi, sa liturgie et son alphabet propre pendant dix-sept siècles d'isolement.</p>
 
 # 337 ans
 
@@ -4087,6 +4127,14 @@ tags: technology
 <p>Chang'an, la capitale des Tang, atteint son apogée : un million d'habitants, la plus grande ville du monde. C'est un immense quadrilatère tracé au cordeau — près de dix kilomètres sur neuf —, quadrillé de larges avenues orientées selon les points cardinaux et divisé en cent dix quartiers fermés la nuit par leurs propres portes. Rien n'y est laissé au hasard : c'est la première ville entièrement planifiée de l'histoire chinoise, conçue comme une image de l'ordre cosmique, le palais impérial au nord, face au sud, comme l'étoile polaire autour de laquelle tourne le ciel.</p>
 
 <p>Son plan sera copié à l'étranger : le Japon en fera le modèle de Nara puis de Kyōto, dont les rues en damier gardent aujourd'hui encore la mémoire de Chang'an.</p>
+
+<p>Et pour venir à Chang'an depuis l'Inde, beaucoup de moines ne prennent pas la route : ils prennent la mer — et font escale dans un empire dont il ne reste presque rien.</p>
+
+<p>Depuis Palembang, sur l'île de Sumatra, Srivijaya tient les détroits de Malacca et de la Sonde : le goulot par lequel passe obligatoirement tout ce qui circule entre la Chine et l'océan Indien. Ce n'est pas un empire de territoires mais de ports — une puissance qui ne possède pas la terre, seulement les passages, et qui vit du péage et de la protection qu'elle vend aux navires.</p>
+
+<p>C'est aussi un foyer bouddhiste de premier plan. Le pèlerin chinois Yijing, en route vers l'Inde, s'y arrête six mois pour apprendre le sanskrit, et conseille ensuite à ses compatriotes de faire comme lui : à Srivijaya, écrit-il, mille moines étudient les mêmes textes qu'en Inde. Un siècle plus tard, sur Java voisine, la même culture élèvera Borobudur, le plus vaste monument bouddhique du monde.</p>
+
+<p>Et pourtant cet empire a duré six siècles sans presque laisser de ruines : on y bâtissait en bois, et la forêt équatoriale a tout repris. Il avait été si complètement oublié qu'il a fallu qu'un érudit le reconstitue en 1918, à partir d'inscriptions éparses et de textes chinois. Une thalassocratie qu'on a dû redécouvrir comme on déchiffre une langue morte.</p>
 
 <p>Et la ville est un carrefour plus qu'une capitale. Au bout de la route de la soie, elle accueille marchands sogdiens et persans, chameliers d'Asie centrale, moines indiens, ambassadeurs coréens et japonais. On y trouve des temples bouddhistes par centaines, mais aussi des sanctuaires zoroastriens, des communautés nestoriennes venues de Syrie, des manichéens, des juifs. Les danseuses d'Asie centrale sont à la mode, la musique étrangère aussi, et les dames de la cour montent à cheval et jouent au polo. Rarement une civilisation aura été aussi sûre d'elle et aussi ouverte en même temps.</p>
 
@@ -4372,6 +4420,16 @@ tags: technology
 
 <p>Il y a là une leçon qui vaut au-delà de l'imprimerie : une invention ne vaut que par le milieu qui l'accueille. La même idée, dans deux langues différentes, produit d'un côté une curiosité technique, de l'autre une révolution qui changera le monde.</p>
 
+# 1050 ans
+
+<p>Au confluent du Mississippi et du Missouri, là où se dresse aujourd'hui Saint-Louis, une ville sort de terre en une génération. Les archéologues parlent d'un « big bang » : en quelques décennies à peine, on trace des places, on aligne des quartiers, et l'on entasse de la terre.</p>
+
+<p>Le monument central, qu'on appelle aujourd'hui le tertre des Moines, couvre à sa base une surface comparable à celle de la grande pyramide de Gizeh et s'élève à trente mètres. Il ne contient pas une seule pierre : c'est un demi-million de mètres cubes de terre, transportés panier après panier, sur le dos d'hommes et de femmes. Autour, une centaine d'autres tertres, et un cercle de grands poteaux de cèdre calé sur les levers du soleil aux solstices.</p>
+
+<p>Cahokia compte peut-être quinze mille habitants — davantage que Londres à la même date. C'est de très loin la plus grande ville jamais bâtie au nord du Mexique avant l'arrivée des Européens.</p>
+
+<p>Sans écriture, aucun nom ne nous est parvenu : ni celui de la ville, ni celui d'un seul de ses habitants. Restent les tombes, et elles ne racontent pas une société douce — l'une d'elles associe un personnage couché sur vingt mille perles de coquillage à des fosses communes de jeunes femmes. Vers 1350, la ville est vide. On invoque la déforestation, les inondations, l'épuisement des sols, les tensions internes ; on ne tranche pas.</p>
+
 # 1054 ans
 
 <p>Excommunications réciproques entre Rome et Constantinople. Le 16 juillet, un légat du pape dépose sur l'autel de Sainte-Sophie une bulle excommuniant le patriarche Michel Cérulaire, qui excommunie les légats en retour. Ces condamnations visent des personnes, non les Églises, et les contemporains n'y voient pas une rupture. L'incident révèle pourtant des divergences anciennes — doctrine (le <em>Filioque</em>), autorité (primauté du pape contestée par l'Orient), pratiques liturgiques — entre un Occident latin et un Orient grec qui s'éloignent depuis des siècles. C'est rétrospectivement que 1054 sera retenue comme date symbolique du « Grand Schisme ».</p>
@@ -4386,6 +4444,16 @@ tags: technology
 
 <p>Le pape Urbain II prononce l'appel de Clermont (27 novembre). Répondant à la demande de secours de l'empereur byzantin Alexis Ier, menacé par l'avancée des Turcs seldjoukides en Anatolie, il exhorte la chevalerie d'Occident à reprendre Jérusalem et le Saint-Sépulcre, sous domination musulmane depuis 638. Cet appel déclenche la première croisade.</p>
 
+# 1113 ans
+
+<p>Un souverain khmer monte sur le trône et entreprend le plus vaste monument religieux jamais construit : Angkor Vat, cent soixante hectares enclos de douves, une montagne de grès dressée à la gloire de Vishnou — avant de devenir, quelques siècles plus tard, un sanctuaire bouddhiste, sans jamais cesser d'être fréquenté.</p>
+
+<p>Mais le temple n'est que la vitrine. Le vrai génie d'Angkor est hydraulique. Autour des sanctuaires s'étend un réseau de réservoirs géants — le plus grand fait huit kilomètres sur deux —, de canaux et de digues qui capte la mousson, la stocke et la redistribue. Ce système permet plusieurs récoltes de riz par an là où la nature n'en accorderait qu'une, et c'est lui qui nourrit tout le reste.</p>
+
+<p>Car Angkor n'est pas une ville de temples au milieu de la jungle : c'est une agglomération diffuse de maisons de bois, de rizières et de bassins qui couvre près de mille kilomètres carrés — la plus vaste cité préindustrielle connue par sa superficie. On ne l'a compris qu'au début des années 2000, quand des relevés laser aéroportés ont fait apparaître sous la forêt le quadrillage complet des canaux et des quartiers disparus.</p>
+
+<p>Sa force fera sa fragilité. Aux XIVᵉ et XVᵉ siècles, des sécheresses d'une violence exceptionnelle — les cernes des arbres en gardent la trace — alternent avec des moussons dévastatrices ; le réseau s'envase, se rompt, et personne ne peut plus le réparer en entier. Une civilisation qui avait bâti sa puissance sur la maîtrise de l'eau meurt de ne plus l'avoir.</p>
+
 # 1117 ans
 
 <p>Premier témoignage attesté de l'usage maritime de la boussole : dans son <em>Pingzhou ketan</em>, Zhu Yu rapporte que les pilotes des navires marchands de Canton s'orientent grâce aux étoiles la nuit, au soleil le jour, et à l'aiguille aimantée par temps couvert. La boussole devient un instrument de navigation hauturière sur les routes commerciales de la mer de Chine et de l'océan Indien, complétant l'observation astronomique plutôt que la remplaçant.</p>
@@ -4398,7 +4466,7 @@ tags: technology
 
 # 1150 ans
 
-<p>À Tolède, reprise par les chrétiens soixante ans plus tôt, des équipes de traducteurs travaillent sous le patronage de l'archevêque : un savant chrétien, un lettré juif ou un mozarabe arabophone traduisent ensemble de l'arabe vers le castillan puis vers le latin. Gérard de Crémone, venu d'Italie pour y trouver l'astronomie de Ptolémée, y passera quarante ans et traduira plus de soixante-dix ouvrages.</p>
+<p>À Tolède, reprise par les chrétiens en 1085, des équipes de traducteurs travaillent sous le patronage de l'archevêque : un savant chrétien, un lettré juif ou un mozarabe arabophone traduisent ensemble de l'arabe vers le castillan puis vers le latin. Gérard de Crémone, venu d'Italie pour y trouver l'astronomie de Ptolémée, y passera quarante ans et traduira plus de soixante-dix ouvrages.</p>
 
 <p>Ce qui passe alors en Europe est considérable : Aristote presque entier, Euclide, Ptolémée, la médecine de Galien et d'Avicenne, l'algèbre d'al-Khwarizmi — dont le nom donnera « algorithme » —, et la numération décimale venue de l'Inde par le monde arabe. L'Occident latin, qui n'avait gardé qu'une part limitée de l'héritage grec, le récupère par cette voie, augmenté de plusieurs siècles de travaux arabes et persans.</p>
 
@@ -4452,9 +4520,29 @@ tags: technology
 
 <p>Proclamation de l'Empire mongol. Temüjin se révèle être un leader charismatique et un stratège habile. Au fil des années, il réussit à unifier les tribus mongoles dissidentes, souvent par la force, mais aussi par la diplomatie et l'alliance. Lors d'un kurultai (une assemblée de chefs de clans), il est proclamé "Genghis Khan", signifiant "empereur universel".</p>
 
+<p>La même année, à quatre mille kilomètres au sud, un autre homme fonde un État — et il part de plus bas encore. Qutb al-Din Aibak était un esclave militaire, acheté enfant en Asie centrale et formé pour le métier des armes. À la mort de son maître, il ne rend pas le pouvoir : il le garde, et se fait sultan de Delhi. La dynastie qu'il inaugure porte le nom qu'elle mérite — celle des Esclaves.</p>
+
+<p>Le sultanat de Delhi installe durablement l'islam dans le nord de l'Inde, et avec lui le persan comme langue de cour, une architecture d'arcs et de coupoles, et le Qutb Minar, tour de brique de soixante-treize mètres bâtie avec les pierres de temples démontés — la conquête inscrite dans le matériau même.</p>
+
+<p>Ironie que ces deux fondations de la même année réservent à l'histoire : c'est ce sultanat, et presque lui seul, qui arrêtera les descendants de Gengis Khan. Pendant un siècle, les armées mongoles se briseront devant Delhi sans jamais prendre la plaine du Gange. L'Inde du Nord sera l'un des très rares mondes que la vague mongole atteindra sans le submerger.</p>
+
+# 1235 ans
+
+<p>Dans la savane du haut Niger, à Kirina, un prince que la tradition dit infirme dans son enfance défait le roi de Sosso et fédère derrière lui les clans mandingues. Il s'appelle Soundiata Keïta, et il fonde l'empire du Mali.</p>
+
+<p>L'assemblée qui suit la victoire proclame une charte — le Kurukan Fuga — qui répartit les charges entre les clans, organise la justice, protège les étrangers et pose des règles sur le traitement des captifs. Prudence : ce texte n'a jamais été écrit à l'époque ; il nous vient d'une transmission orale et n'a été fixé sur le papier qu'à la fin du XXᵉ siècle. Ce qu'il atteste avec certitude, ce n'est pas sa lettre, c'est qu'une société sans écriture s'est donné une constitution et l'a fait vivre.</p>
+
+<p>Car c'est la voix qui porte tout, ici. L'épopée de Soundiata est transmise de génération en génération par les griots, dépositaires professionnels de la mémoire, attachés aux familles, formés pendant des décennies. Sept siècles plus tard, on la récite toujours.</p>
+
+<p>Nous avons déjà croisé ce mécanisme deux fois : les hymnes védiques mémorisés syllabe par syllabe, les chants d'Achille transmis pendant quatre siècles d'obscurité grecque. L'Afrique de l'Ouest en offre le troisième grand exemple — et le seul dont les praticiens exercent encore aujourd'hui.</p>
+
 # 1270 ans
 
-<p>Mort de Saint Louis (Louis IX).</p>
+<p>Louis IX meurt devant Tunis, emporté par l'épidémie qui ravage son camp, au cours de la dernière des grandes croisades. Il avait déjà été fait prisonnier en Égypte vingt ans plus tôt et racheté à prix d'or ; il était reparti quand même. L'expédition s'effondre avant d'avoir livré bataille.</p>
+
+<p>Son règne de quarante-quatre ans laisse pourtant autre chose qu'un échec militaire. Il a fait de la justice royale un recours ordinaire — la légende du roi rendant la justice sous un chêne de Vincennes traduit une réalité administrative : on peut désormais faire appel au roi contre son propre seigneur. Il a fait bâtir la Sainte-Chapelle pour abriter la couronne d'épines, achetée à l'empereur latin de Constantinople plus cher que le monument lui-même.</p>
+
+<p>La même piété produit l'autre versant du règne : il fait brûler les exemplaires du Talmud, durcit le statut des juifs du royaume et impose le port d'un signe distinctif. On le canonise en 1297. Aucun roi de France ne le sera après lui.</p>
 
 # 1275 ans
 
@@ -4465,6 +4553,16 @@ tags: technology
 # 1279 ans
 
 <p>Les forces Song résistantes sont défaites par les Mongols à la bataille de Yamen. C'est à cette bataille que le dernier empereur Song, l'empereur Bing, périt, mettant fin à la dynastie Song.</p>
+
+# 1324 ans
+
+<p>L'empereur du Mali part en pèlerinage à La Mecque, et son passage au Caire va rester dans les annales des chroniqueurs arabes pour une raison très concrète : il fait s'effondrer le cours de l'or.</p>
+
+<p>Mansa Moussa voyage avec une escorte que les sources décrivent par milliers d'hommes, et une file de chameaux chargés de lingots. Les chiffres transmis sont invérifiables et probablement gonflés ; l'effet, lui, est mesurable. Il donne et dépense tant, pendant les trois mois qu'il passe en Égypte, que le métal se déprécie sur les marchés du Caire — et met, dit-on, une dizaine d'années à retrouver son niveau. C'est l'un des plus anciens chocs monétaires documentés de l'histoire.</p>
+
+<p>Ce n'est pas une excentricité de souverain : c'est la démonstration d'un fait économique. Une part considérable de l'or qui circule alors en Méditerranée et frappe les monnaies d'Europe vient des mines du Bambouk et du Bouré, en Afrique de l'Ouest, et remonte par les caravanes du Sahara. L'Europe médiévale bat monnaie avec un métal dont elle ignore l'origine.</p>
+
+<p>Le voyage a un effet secondaire durable : le Mali entre sur les cartes. Un demi-siècle plus tard, l'atlas catalan dessiné à Majorque représente Mansa Moussa assis sur son trône, couronne en tête, tendant une pépite d'or à un marchand voilé. C'est la première image européenne d'un souverain africain — et pendant deux siècles, sur les portulans, l'Afrique de l'Ouest sera d'abord le pays de l'or.</p>
 
 # 1347 ans
 
@@ -4490,6 +4588,16 @@ tags: technology
 
 <p>Ces croyances reposent sur deux logiques distinctes : tantôt punir les Juifs tenus pour responsables de la peste, tantôt croire que les tuer empêcherait la maladie d'atteindre la localité. Et il est notable que l'Église officielle s'y oppose : le pape Clément VI, dans une bulle de la fin 1349, condamne les flagellants pour le « sang des Juifs versé ». Les historiens économistes ont d'ailleurs montré que les pogroms sont souvent déclenchés par des familles de marchands endettées auprès des Juifs — autrement dit, l'accusation d'empoisonnement sert aussi des intérêts matériels très concrets.</p>
 
+# 1350 ans
+
+<p>Sur un plateau entre le Zambèze et le Limpopo s'élève une capitale de pierre sèche. Aucun mortier : des centaines de milliers de blocs de granit taillés et empilés avec une précision telle que les murs tiennent debout sept siècles plus tard. Le plus grand enclos développe deux cent cinquante mètres de muraille sur onze mètres de haut, doublée d'une tour conique dont personne ne sait à quoi elle servait.</p>
+
+<p>Le Grand Zimbabwe — le mot signifie « maisons de pierre » — abrite peut-être dix-huit mille habitants et commande l'arrière-pays des mines d'or du plateau. Il n'est pas isolé : on a exhumé sur le site des céladons chinois, des céramiques persanes et des monnaies arabes, arrivés par les ports swahilis de la côte de l'océan Indien. Un royaume de l'intérieur africain branché sur le même réseau commercial que Canton et Ormuz.</p>
+
+<p>Le site a subi ensuite un traitement révélateur. Quand les Européens le découvrent au XIXᵉ siècle, ils refusent d'y voir une œuvre africaine et l'attribuent tour à tour aux Phéniciens, au roi Salomon, à la reine de Saba. Les archéologues qui établissent dès les années 1900 son origine locale sont contredits, et le régime rhodésien ira jusqu'à faire pression sur ses propres chercheurs pour qu'ils taisent la conclusion.</p>
+
+<p>L'archéologie a tranché depuis longtemps. En accédant à l'indépendance en 1980, le pays a pris le nom de ses ruines.</p>
+
 # 1353 ans
 
 <p>La peste est à Moscou.</p>
@@ -4500,7 +4608,17 @@ tags: technology
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=mvIEA2dBKGA" data-id="mvIEA2dBKGA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/mvIEA2dBKGA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>À Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut a été composée probablement pour son installation comme chanoine à la cathédrale de Reims. Elle est donc chantée pour la première fois dans le cadre d’une célébration liturgique solennelle, sans doute en l’honneur de la Vierge Marie.</p>
+<p>À Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut n’a pourtant pas été écrite pour une grande cérémonie. Chanoine de Reims depuis une trentaine d’années, Machaut la destine à la messe mariale hebdomadaire que son frère Jean et lui ont fondée à la cathédrale : elle devait être chantée chaque samedi à l’autel de Notre-Dame, pour le repos de leurs âmes. Le chef-d’œuvre est né d’une fondation funéraire privée.</p>
+
+# 1368 ans
+
+<p>La domination mongole sur la Chine n'aura pas tenu un siècle. Les Yuan, héritiers de Kubilai Khan, gouvernaient un pays qu'ils n'ont jamais assimilé : les Chinois y occupent le dernier échelon d'une hiérarchie ethnique à quatre étages, les grandes charges leur échappent, et le concours mandarinal — l'institution qui structurait la vie lettrée depuis les Tang — a été suspendu pendant des décennies. Il suffit de quelques mauvaises récoltes, d'une inflation du papier-monnaie et d'un changement de cours du fleuve Jaune qui noie des provinces entières pour que tout parte.</p>
+
+<p>Celui qui l'emporte n'est pas un prince. Zhu Yuanzhang est né dans une famille de paysans sans terre ; à seize ans, la famine emporte ses parents et ses frères, il se fait moine mendiant faute de mieux, puis rejoint les Turbans rouges, une secte millénariste en révolte. Il finit empereur. Avec le fondateur des Han, quinze siècles plus tôt, il est l'un des deux seuls paysans de l'histoire chinoise à avoir fondé une dynastie.</p>
+
+<p>Son règne porte la marque de cette origine. Méfiant jusqu'à la paranoïa, il supprime la charge de chancelier — vieille de quinze cents ans — et gouverne seul, dépouillant lui-même des centaines de rapports par jour ; ses purges emportent des dizaines de milliers de personnes, familles comprises. Il rétablit les concours, restaure les rites, redistribue les terres et reconstruit un empire agraire, replié sur lui-même, méfiant envers le commerce.</p>
+
+<p>Les Ming donneront à la Chine trois siècles de stabilité, la Cité interdite, une porcelaine bleu et blanc que l'Europe entière s'arrachera — et une durable méfiance envers le large.</p>
 
 # 1388 ans
 
@@ -4515,6 +4633,42 @@ tags: technology
 # 1400 ans
 
 <p>Le café commence à être cultivé et consommé sous forme de boisson au Yémen, principalement par des soufis, des religieux qui utilisent la boisson pour rester éveillés pendant les longues heures de prière et de méditation nocturnes.</p>
+
+# 1402 ans
+
+<p>Près d'Ankara, deux des plus grandes armées du monde se rencontrent, et l'Empire ottoman manque de disparaître soixante ans avant d'atteindre son sommet.</p>
+
+<p>Face au sultan Bayezid se tient Tamerlan — Timour le boiteux —, un chef turco-mongol de Transoxiane qui a passé trente-cinq ans à reconstituer par les armes l'empire de Gengis Khan, dont il se réclame par alliance. Sa méthode est celle de la terreur calculée : les villes qui résistent sont rasées et leurs habitants entassés en pyramides de crânes, celles qui se rendent sont épargnées. L'information circule vite, et beaucoup se rendent.</p>
+
+<p>À Ankara, Bayezid est vaincu et capturé. Il mourra en captivité l'année suivante. L'Empire ottoman, privé de son sultan, se déchire entre ses fils pendant onze ans.</p>
+
+<p>La conséquence est considérable, et elle est involontaire. Bayezid bloquait Constantinople depuis huit ans ; la ville était à bout. La défaite ottomane lui rend cinquante ans de sursis. Timour n'avait aucune intention de sauver Byzance — il repart vers l'est, et meurt en 1405 sur la route de la Chine, qu'il comptait envahir. Mais c'est bien lui qui aura repoussé d'un demi-siècle la fin de l'Empire romain d'Orient.</p>
+
+<p>Il laisse aussi Samarcande, qu'il a couverte de coupoles turquoise avec les artisans déportés de tous les pays qu'il a détruits — et un petit-fils, Ulugh Beg, qui y bâtira l'un des meilleurs observatoires du monde et mesurera la durée de l'année à une minute près.</p>
+
+# 1405 ans
+
+<p>Un eunuque musulman de la cour Ming prend la mer à la tête de la plus grande flotte que le monde ait vue : plusieurs centaines de navires, près de trente mille hommes. Les plus grands bâtiments — les « bateaux-trésors » — dépassent probablement les soixante mètres, quand les caravelles portugaises qui partiront un siècle plus tard en font vingt-cinq. Ils ont des cloisons étanches, un gouvernail d'étambot, la boussole, et des jonques entières chargées d'eau douce. L'homme s'appelle Zheng He.</p>
+
+<p>Sept expéditions en vingt-huit ans le mènent au Vietnam, à Java, à Ceylan, en Inde, à Ormuz, jusqu'aux côtes d'Afrique orientale. Il en rapporte des ambassadeurs, des épices et une girafe, qu'on présente à l'empereur comme la licorne des augures. Le but n'est ni la conquête ni le profit : c'est le prestige — faire reconnaître au monde la centralité de l'empire, et récolter les tributs qui l'attestent.</p>
+
+<p>Puis tout s'arrête. La cour change, les lettrés confucéens l'emportent sur la faction des eunuques et jugent ces voyages ruineux et vulgaires, la menace mongole revient au nord et coûte cher. On cesse d'armer, on laisse pourrir les chantiers, on finit par interdire la construction de navires de haute mer. La Chine se retire de l'océan qu'elle dominait.</p>
+
+<p>Soixante ans après la dernière expédition, Vasco de Gama double le cap de Bonne-Espérance avec quatre navires et cent soixante-dix hommes, et entre dans un océan Indien que la Chine venait de quitter. Il n'y a donc aucune fatalité technique dans la domination européenne des mers : à un moment précis, l'empire le mieux équipé du monde a décidé que le large ne l'intéressait pas.</p>
+
+# 1420 ans
+
+<p>Florence a un problème que personne ne sait résoudre. Sa cathédrale est ouverte depuis plus d'un siècle sur un trou de quarante-trois mètres de diamètre : on a bâti l'édifice en pariant qu'on trouverait bien, un jour, le moyen de le couvrir. Aucune charpente ne peut porter un cintre de cette portée, et il n'y a pas assez de bois en Toscane pour l'essayer.</p>
+
+<p>Un orfèvre sans formation d'architecte emporte le concours : Filippo Brunelleschi. Sa solution tient en deux idées. Deux coques emboîtées, la plus légère portée par la plus épaisse ; et une maçonnerie en arêtes de poisson, où des briques posées de chant bloquent les rangées et empêchent l'ouvrage de glisser vers l'intérieur pendant qu'on monte. La coupole se soutient donc elle-même à chaque étape, et se construit sans cintre.</p>
+
+<p>Reste à hisser des milliers de tonnes à cinquante mètres. Brunelleschi dessine pour cela des machines : un treuil à bœufs à renversement de marche, qui monte et descend sans qu'on ait à dételer, puis une grue à contrepoids pour poser les charges au doigt. Pour son bateau de transport de marbre, il obtient ce qu'on tient souvent pour le premier brevet d'invention de l'histoire.</p>
+
+<p>Le même homme, quelques années plus tôt, avait fait quelque chose de plus considérable encore. Debout dans le porche de cette cathédrale, un miroir percé d'un trou à la main, il avait démontré expérimentalement la perspective linéaire : les parallèles convergent vers un point de fuite unique, et la taille apparente d'un objet décroît selon une règle calculable. Ce n'est pas une recette d'atelier, c'est de la géométrie appliquée au regard.</p>
+
+<p>Les conséquences débordent largement la peinture. Représenter en perspective, c'est admettre que le monde a l'apparence qu'il a depuis un endroit précis : celui où se tient un homme. L'image médiévale dimensionnait ses figures selon leur importance — le Christ plus grand que les saints, les saints plus grands que les donateurs. L'image nouvelle les dimensionne selon leur distance. Ce n'est plus le sacré qui donne l'échelle, c'est l'œil.</p>
+
+<p>Voilà ce qu'est la Renaissance, bien plus qu'un retour à l'Antiquité : un déplacement du point de vue. Et Florence, ville de banquiers sans dynastie ni armée, en devient le laboratoire — parce que les Médicis y ont compris avant les autres qu'on achète du prestige avec de l'art plus sûrement qu'avec des soldats.</p>
 
 # 1439 ans
 
@@ -4553,7 +4707,23 @@ tags: technology
 
 # 1467 ans
 
-<p>Guerre civile entre familles de samouraïs à Kyoto.</p>
+<p>Une querelle de succession chez les Ashikaga dégénère en guerre ouverte dans les rues de Kyoto. Deux coalitions de grandes familles s'affrontent onze ans durant à l'intérieur même de la capitale, qui brûle par quartiers entiers : temples, palais, archives, ateliers. La ville impériale, l'une des plus raffinées d'Asie orientale, est réduite à des terrains vagues où l'on finit par cultiver des légumes.</p>
+
+<p>La guerre d'Ōnin ne désigne aucun vainqueur, et c'est précisément ce qui la rend décisive. Le shogun ne commande plus rien, l'empereur encore moins, et les seigneurs rentrent chez eux avec leurs armées en constatant qu'il n'existe plus aucune autorité au-dessus d'eux. Chacun devient souverain sur ses terres.</p>
+
+<p>Commence alors ce que les Japonais appellent l'époque des provinces en guerre : un siècle et demi où quelques centaines de seigneurs se dévorent, où l'on peut naître paysan et mourir maître d'une province, et d'où sortiront les trois unificateurs qui refermeront le pays. Le Japon des samouraïs que l'imagination occidentale a retenu — les châteaux, les bannières, les batailles rangées — naît de cet effondrement.</p>
+
+# 1468 ans
+
+<p>Le souverain songhaï Sonni Ali prend Tombouctou et entreprend d'absorber ce qui restait de l'empire du Mali. Sous son successeur Askia Mohammed, le Songhaï deviendra le plus vaste État que l'Afrique ait porté.</p>
+
+<p>Tombouctou, au coude du Niger, est le point où la pirogue rencontre le chameau : tout ce qui remonte du sud par le fleuve y est transbordé pour traverser le Sahara, et inversement. On y échange l'or, les esclaves et l'ivoire contre le sel, les étoffes et les livres.</p>
+
+<p>Les livres, précisément. Autour de la mosquée de Sankoré s'organise un enseignement où l'on commente le droit, la théologie, la grammaire, l'astronomie et la médecine. Les manuscrits copiés là et dans les villes voisines se comptent aujourd'hui en centaines de milliers, conservés dans des bibliothèques familiales. Un voyageur du début du XVIᵉ siècle note que le commerce le plus rentable de la ville est celui des livres.</p>
+
+<p>Cela mérite d'être dit clairement, parce que le cliché inverse a la vie dure : l'Afrique de l'Ouest de cette époque n'est pas seulement une terre de transmission orale. Elle a des griots <em>et</em> des bibliothèques.</p>
+
+<p>La fin viendra du désert. En 1591, une armée envoyée par le sultan du Maroc traverse le Sahara et écrase les Songhaïs à Tondibi. Ils étaient bien plus nombreux ; les Marocains avaient des arquebuses. La poudre, sortie des officines des alchimistes taoïstes sept siècles plus tôt, achève ici sa traversée du monde.</p>
 
 # 1470 ans
 
@@ -4563,11 +4733,25 @@ tags: technology
 
 # 1473 ans
 
-<p>Naissance de Nicolas Copernic.</p>
+<p>Naissance à Toruń, en Pologne, de Nicolas Copernic. Chanoine, juriste, médecin et administrateur d'un diocèse, il fera de l'astronomie une passion privée pendant quarante ans avant d'oser publier.</p>
+
+<p>Son idée n'est pas neuve — des Grecs l'avaient formulée — mais personne n'en avait tiré un système complet : et si la Terre n'était pas immobile au centre du monde, mais une planète parmi d'autres tournant autour du Soleil ? Le modèle de Ptolémée, en place depuis treize siècles, fonctionnait, mais au prix d'un empilement d'artifices géométriques destinés à expliquer pourquoi les planètes semblent parfois reculer dans le ciel. Copernic comprend que ce recul n'existe pas : c'est un effet de perspective, la Terre doublant les planètes extérieures comme un coureur en dépasse un autre.</p>
+
+<p>Il fera circuler un résumé manuscrit dès 1514, puis attendra son lit de mort, en 1543, pour laisser paraître son livre. La prudence n'était pas feinte : déplacer la Terre, c'était déloger l'homme du centre de la création. Galilée l'apprendra à ses dépens quatre-vingt-dix ans plus tard.</p>
 
 # 1475 ans
 
-<p>Ouverture de la première maison de café (appelée qahveh khaneh) à Constantinople (aujourd'hui Istanbul), marquant l'apparition des premiers lieux publics consacrés à la consommation de café. Ces établissements sont des lieux de rencontre pour les intellectuels, les artistes et les religieux.</p>
+<p>La tradition place ici l'ouverture de la première maison de café (<em>qahveh khaneh</em>) à Constantinople — mais aucune source ne l'atteste, et les premiers cafés d'Istanbul solidement documentés datent en réalité des années 1550. Ces établissements, une fois installés, deviennent des lieux publics consacrés à la consommation de café. Ces établissements sont des lieux de rencontre pour les intellectuels, les artistes et les religieux.</p>
+
+# 1482 ans
+
+<p>Un peintre florentin de trente ans écrit au maître de Milan pour lui demander du travail. Sa lettre est un chef-d'œuvre de placement : sur dix points numérotés, il énumère ce qu'il sait construire — ponts portatifs, sapes, bombardes, chars couverts, navires cuirassés — et ne mentionne qu'à la toute dernière ligne, presque en s'excusant, qu'il peut aussi peindre et sculpter aussi bien que quiconque. Léonard de Vinci se vend en ingénieur militaire ; c'est le peintre que l'histoire retiendra.</p>
+
+<p>Le détail dit tout de l'époque. L'Italie est morcelée en une dizaine d'États rivaux — Florence, Milan, Venise, Rome, Naples — qui se font la guerre, se volent leurs artistes et se ruinent en fêtes. C'est cette rivalité qui finance la Renaissance : un prince sans le plus beau palais, la plus belle chapelle et le meilleur ingénieur perd la face, et perdre la face coûte des alliances.</p>
+
+<p>Ce que ces ateliers réinventent, c'est le regard. On dissèque des cadavres pour comprendre comment un bras tient à une épaule ; on établit les règles de la perspective pour que l'espace peint obéisse à la géométrie ; on relit les Anciens non plus pour les commenter mais pour les vérifier. L'artisan qui exécutait une commande devient un homme qui sait — et qui signe.</p>
+
+<p>Léonard passera dix-sept ans à Milan et y laissera la Cène, peinte sur un mur de réfectoire avec une technique de son invention qui commencera à s'écailler de son vivant. C'était sa manie : essayer autrement, quitte à ce que cela tienne moins longtemps.</p>
 
 # 1492 ans
 
@@ -4579,194 +4763,555 @@ tags: technology
 
 # 1498 ans
 
-<p>Vasco de Gama atteint l'Inde par voie maritime, ouvrant la voie à l'expansion commerciale et religieuse européenne en Asie.</p>
+<p>Après dix mois de mer et un immense détour par l'Atlantique sud pour attraper les vents favorables, Vasco de Gama double le cap de Bonne-Espérance et atteint Calicut, sur la côte de Malabar. C'est la première liaison maritime directe entre l'Europe et l'Inde.</p>
+
+<p>L'accueil est tiède et les présents qu'il apporte font sourire — des étoffes et des bassines de cuivre, dérisoires dans un port qui commerce depuis des siècles avec l'Arabie, la Perse et la Chine. Mais l'essentiel est ailleurs : la route est ouverte, et elle contourne le verrou qui faisait la fortune de Venise et des sultans d'Égypte. Le poivre et la cannelle n'ont plus besoin de traverser le Proche-Orient à dos de chameau en payant taxe après taxe.</p>
+
+<p>Le Portugal en tire une stratégie que l'Europe copiera pendant quatre siècles : non pas conquérir des territoires, mais tenir les points de passage — Goa, Ormuz, Malacca — et faire payer le droit de naviguer. La Méditerranée cesse d'être le centre du monde ; l'océan le devient.</p>
 
 # 1500 ans
 
-<p>Les Portugais s'implantent au Brésil avec Pedro Álvares Cabral. Il y a un manque de main-d'œuvre pour travailler sur les plantations et dans les mines, et les Portugais commencent donc à utiliser des esclaves africains pour remplir ces tâches.</p>
+<p>Une flotte portugaise partie pour les Indes s'écarte trop à l'ouest et touche une côte inconnue : c'est le Brésil. Pedro Álvares Cabral y plante une croix, y laisse deux condamnés et repart — l'escale a duré neuf jours. Le hasard est moins grand qu'il n'y paraît : six ans plus tôt, à Tordesillas, Portugais et Castillans s'étaient partagé le monde à venir en traçant un méridien sur une carte, et cette terre-là tombe du bon côté.</p>
 
-<p>Les Africains sont capturés en Afrique, principalement dans les régions de l'Angola et du Congo, et sont transportés de force vers le Brésil et d'autres colonies en Amérique. Ils sont souvent traités de manière brutale et inhumaine pendant le voyage et sont soumis à un travail forcé et à des conditions de vie très difficiles une fois arrivés dans les colonies.</p>
+<p>Ce qui commence ici n'est pas une découverte, c'est un modèle. La canne à sucre, que les Portugais cultivent déjà à Madère et à São Tomé avec des captifs africains, traverse l'Atlantique avec eux. Elle exige un travail écrasant et continu — couper, broyer, cuire sans interruption pendant la récolte —, une terre chaude et humide, et des bras qu'aucun salaire ne retiendrait. Les trois se rencontrent au Brésil.</p>
+
+<p>La logique est implacable et elle sera copiée partout : une plante rentable, une colonie lointaine, une main-d'œuvre déportée. En trois siècles, elle transportera de force plus de dix millions d'Africains à travers l'Atlantique, dont près de la moitié vers le seul Brésil. L'Europe ne vient pas d'inventer l'esclavage, qui est vieux comme les États. Elle vient de l'industrialiser.</p>
 
 # 1503 ans
 
-<p>Mise en place du système de l'« encomienda ». On regroupe sur un territoire donné les indigènes qu'on oblige à travailler dans les champs, les mines et les chantiers de construction, sous l'autorité d'un colon — officiellement chargé, en échange, de les protéger et de les évangéliser. Les populations des Antilles, d'Amérique centrale et du Sud sont ainsi réduites au travail forcé pour exploiter l'or et l'argent.</p>
+<p>La Couronne d'Espagne formalise l'« encomienda ». Le principe est présenté comme un contrat : un colon reçoit un groupe d'Indiens, il en tire leur travail, et il doit en échange les protéger et les évangéliser. Personne n'est légalement esclave.</p>
+
+<p>Dans les faits, c'est le travail forcé sans le mot. On regroupe les populations sur un territoire, on les envoie aux champs, aux chantiers, aux mines. Le mensonge juridique a une fonction précise : il permet à une monarchie très catholique, à qui le pape a confié le salut de ces âmes, de les exploiter sans se contredire. Les Antilles se dépeuplent en une génération.</p>
+
+<p>Ce sera une constante de l'histoire coloniale : les catégories du droit servent moins à empêcher la violence qu'à la rendre énonçable.</p>
+
+# 1508 ans
+
+<p>Trois hommes travaillent la même année à quelques centaines de mètres les uns des autres, et l'histoire de l'art n'a jamais rassemblé pareille concentration.</p>
+
+<p>Michel-Ange, sculpteur qui répète à qui veut l'entendre qu'il n'est pas peintre, est contraint par le pape Jules II de couvrir la voûte de la chapelle Sixtine : cinq cents mètres carrés, quatre ans de travail, la tête renversée sur un échafaudage de sa propre conception, la peinture lui tombant dans les yeux. Il en tirera un poème sur ses douleurs de dos. Il en tirera aussi deux index qui ne se touchent pas, devenus l'image la plus reproduite de l'art occidental.</p>
+
+<p>Raphaël, vingt-cinq ans, décore les appartements du même pape. Dans son <em>École d'Athènes</em>, il réunit les philosophes grecs sous une voûte romaine et leur donne les visages de ses contemporains : Platon a les traits de Léonard, Héraclite ceux de Michel-Ange, et lui-même se glisse dans un coin du tableau. L'Antiquité n'est plus un passé qu'on admire à distance, c'est une famille dont on se réclame.</p>
+
+<p>Léonard de Vinci, lui, approche de la soixantaine et peint très peu. Il remplit des carnets — anatomie, vol des oiseaux, tourbillons de l'eau, machines de guerre — en écriture spéculaire, de droite à gauche. Il dissèque une trentaine de cadavres et dessine le cœur humain avec une précision qu'on ne retrouvera pas avant trois siècles. Il ne publie rien. Ses carnets seront dispersés à sa mort, et l'essentiel de son travail scientifique n'aura strictement aucun effet sur la science de son temps.</p>
+
+<p>C'est le paradoxe de cette Renaissance : elle produit des œuvres que personne ne dépassera et un savoir qui ne circule pas. Il manque à ces hommes ce que Gutenberg vient d'inventer à deux mille kilomètres de là — l'imprimé, la diffusion, la possibilité qu'un autre reprenne votre travail là où vous l'avez laissé. Le génie isolé fait des chefs-d'œuvre ; il ne fait pas une science.</p>
 
 # 1510 ans
 
-<p>Le café se diffuse à La Mecque et au Caire, où il gagne rapidement en popularité.</p>
-<p>C'est aussi à cette époque que certaines autorités religieuses tentent de bannir le café, le comparant à l'alcool en raison de ses effets stimulants. Toutefois, ces interdictions sont souvent révoquées.</p>
+<p>Le café gagne La Mecque et Le Caire, et il y crée quelque chose qui n'existait pas : un lieu où l'on s'assoit entre hommes qui ne sont ni de la même famille ni de la même mosquée, pour parler.</p>
+
+<p>C'est précisément ce qui inquiète. En 1511, le gouverneur de La Mecque fait interdire la boisson, la rangeant du côté du vin par ses effets sur l'esprit. L'interdiction sera levée, rétablie, contournée, à La Mecque comme au Caire puis à Istanbul. Le motif affiché est théologique ; le motif réel est qu'aucun pouvoir n'aime les endroits où l'on discute sans lui.</p>
+
+<p>Le café gagnera à chaque fois, et il emportera sa maison avec lui : de Constantinople à Londres et à Paris, le siècle qui vient verra les cafés devenir les premiers espaces publics de l'histoire moderne — assez ouverts pour qu'on y entre sans y être invité, assez fermés pour qu'on y parle.</p>
 
 # 1511 ans
 
-<p>Conquête de Cuba par les Espagnols.</p>
+<p>Diego Velázquez conquiert Cuba, y fonde Santiago puis d'autres places, et fait de l'île la base arrière de tout ce qui suivra dans les Caraïbes. C'est de Cuba que partiront les expéditions vers le Mexique.</p>
+
+<p>Le schéma se répète d'île en île avec une régularité mécanique : débarquement, alliance avec un groupe local contre un autre, encomienda, épidémie, effondrement démographique, et recherche d'une nouvelle île. En moins de trente ans, les Grandes Antilles auront perdu l'essentiel de leur population d'origine — et c'est ce vide, plus que la richesse des lieux, qui poussera les Espagnols vers le continent.</p>
 
 # 1514 ans
 
-<p>Santiago de Cuba est fondé par le conquistador espagnol Diego Velázquez de Cuéllar. Santiago de Cuba est la première capitale de l'île et sert de base pour l'expansion espagnole dans les Caraïbes. Elle perdra ce rang quelques décennies plus tard au profit de La Havane, dont la position stratégique et l'excellent port naturel en feront le grand centre du commerce et de la flotte espagnole.</p>
+<p>À Frombork, sur la Baltique, un chanoine polonais fait circuler entre quelques amis un manuscrit d'une quarantaine de pages, sans nom d'auteur : le <em>Commentariolus</em>. Nicolas Copernic y avance que la Terre n'est pas immobile au centre du monde, mais qu'elle tourne sur elle-même et autour du Soleil.</p>
 
-<p>Copernic rédige le Commentariolus, un court manuscrit dans lequel il présente pour la première fois son modèle héliocentrique selon lequel la Terre tourne autour du Soleil.</p>
+<p>Il ne le publiera pas. Il passera près de trente ans à calculer, à corriger, à repousser — par prudence devant l'Église, sans doute, mais surtout parce que son système ne marche pas mieux que l'ancien : en gardant les orbites circulaires héritées des Grecs, il a besoin d'autant d'artifices que Ptolémée pour retomber sur les observations. Il tient une idée juste et une démonstration bancale, et il le sait.</p>
+
+<p>Le livre ne paraîtra qu'en 1543, l'année de sa mort — la tradition veut qu'on lui en ait apporté un exemplaire sur son lit d'agonie. Il faudra encore un siècle, les ellipses de Kepler et la lunette de Galilée, pour que l'intuition devienne une preuve.</p>
 
 # 1515 ans
 
-<p>Messe de Josquin des Prez.</p>
-
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vlB1HR4BgUg" data-id="vlB1HR4BgUg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vlB1HR4BgUg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Cette messe est composée dans les dernières années de la vie de Josquin. Elle prend pour base l’hymne grégorien Pange lingua de Thomas d’Aquin, qu’il réinterprète librement dans chaque partie. L’innovation de cette œuvre est que Josquin ne se contente pas de citer simplement le chant original : il le transforme, le migre d’une voix à l’autre, l’intègre dans des imitations serrées et des textures polyphoniques très élaborées.</p>
+<p>Josquin des Prez, vieux et retiré à Condé, compose sa <em>Missa Pange lingua</em>. Il part d'un hymne grégorien de Thomas d'Aquin — une mélodie que tout le monde connaît — mais au lieu de la citer telle quelle dans une voix, il la démonte : chaque phrase du chant devient un motif que les quatre voix se passent, imitent, resserrent, étirent.</p>
+
+<p>Le résultat est un renversement. Dans la polyphonie ancienne, les voix se superposaient sur une mélodie porteuse ; ici, elles sont toutes faites de la même matière et toutes également vivantes. C'est la naissance d'une écriture où la musique se développe à partir d'une cellule, comme une plante à partir d'une graine — le principe que travailleront Palestrina, puis Bach, puis à peu près tout le monde.</p>
 
 # 1517 ans
 
-<p>Martin Luther publie ses 95 thèses, événement traditionnellement considéré comme le début de la Réforme protestante.</p>
+<p>Le 31 octobre, un moine augustin affiche à Wittenberg quatre-vingt-quinze thèses contre le commerce des indulgences — ces remises de peine que l'Église vend pour financer la reconstruction de Saint-Pierre de Rome. Martin Luther ne veut pas fonder une Église : il veut un débat universitaire, en latin, entre théologiens.</p>
+
+<p>Ce qu'il obtient est autre chose. En quinze jours, le texte est traduit en allemand, imprimé, diffusé dans tout l'Empire. En trois ans, Luther devient l'auteur le plus lu d'Europe : ses écrits représentent à eux seuls près d'un tiers de tous les livres vendus en allemand.</p>
+
+<p>Et c'est là qu'il faut s'arrêter, car la question intéressante n'est pas pourquoi Luther a protesté — l'Église était critiquée depuis des siècles — mais pourquoi cette fois ça a tenu. Un siècle plus tôt, Jan Hus avait dit à peu près la même chose à Prague. On l'a convoqué, jugé et brûlé en 1415, et l'affaire est restée bohémienne.</p>
+
+<p>Entre Hus et Luther, il y a Gutenberg. Une idée hérétique manuscrite se combat en arrêtant un homme ; une idée hérétique imprimée à des milliers d'exemplaires en quelques semaines ne se rattrape plus. Quand Rome réagit, il est déjà trop tard : le texte est partout, et les princes allemands qui y trouvent leur compte protègent l'auteur. La Réforme est le premier événement politique de l'histoire produit par une technologie de diffusion — et il ne sera pas le dernier.</p>
+
+<p>L'Europe occidentale, unie sous une seule autorité religieuse depuis mille ans, vient de se fracturer. Elle ne se recollera pas.</p>
 
 # 1518 ans
 
-<p>Première autorisation officielle de transport direct d'esclaves africains vers les colonies espagnoles américaines.</p>
+<p>Charles Quint accorde la première licence de transport direct de captifs africains vers les colonies d'Amérique : c'est l'<em>asiento</em>. Jusque-là, les convois transitaient par Séville ; désormais, les navires iront d'Afrique aux Antilles sans toucher l'Europe.</p>
+
+<p>Le détail administratif dessine la figure géométrique qui va organiser l'Atlantique pendant trois siècles : des marchandises européennes vers l'Afrique, des captifs africains vers l'Amérique, du sucre et de l'argent américains vers l'Europe. Chaque branche du triangle est rentable, et aucun des trois continents n'a de vue d'ensemble sur les deux autres.</p>
 
 # 1519 ans
 
-<p>Hernán Cortés débarque au Mexique avec des chevaux, qui impressionnent fortement les populations locales n'en ayant jamais vu.</p>
+<p>Hernán Cortés débarque sur la côte du Mexique avec environ cinq cents hommes et seize chevaux, et fait couler ses navires pour que personne ne songe à repartir. Devant lui s'étend un empire de plusieurs millions de sujets et une capitale, Tenochtitlán, bâtie sur un lac, plus peuplée qu'aucune ville d'Espagne.</p>
+
+<p>Il ne la prendra pas seul, et il le sait très vite. L'empire mexica règne par la terreur et le tribut sur des peuples qui le détestent ; Cortés trouve à Tlaxcala des alliés qui se battent depuis des générations contre Tenochtitlán et lui fournissent des dizaines de milliers de guerriers. La conquête sera d'abord une guerre civile indigène dans laquelle les Espagnols apportent l'étincelle.</p>
+
+<p>La même année, un autre Portugais passé au service de l'Espagne quitte Séville avec cinq navires : Fernand de Magellan cherche un passage vers l'ouest jusqu'aux îles aux épices. Personne à bord n'imagine ce que le voyage va devenir.</p>
+
+# 1520 ans
+
+<p>Un sultan de vingt-cinq ans monte sur le trône ottoman : Soliman. Il régnera quarante-six ans sur ce qui est alors, sans concurrence, l'État le plus puissant du bassin méditerranéen — de Budapest à Aden, d'Alger à Bagdad.</p>
+
+<p>L'Europe le surnomme le Magnifique. Ses sujets l'appellent autrement — Kanuni, le Législateur — et c'est plus juste : son œuvre durable est un corpus de lois qui harmonise la coutume et le droit religieux à l'échelle d'un empire multiconfessionnel, où chaque communauté conserve ses tribunaux et ses écoles.</p>
+
+<p>Le système de recrutement de son élite déroute les observateurs européens. Les plus hauts postes — grand vizir, généraux, gouverneurs — sont tenus par des hommes prélevés enfants dans les villages chrétiens des Balkans, convertis, éduqués au palais, et qui restent juridiquement esclaves du sultan. Une aristocratie sans naissance et sans héritage, entièrement suspendue à la faveur du maître : impensable dans une Europe où la charge se transmet au fils.</p>
+
+<p>Sa diplomatie choque tout autant. François Iᵉʳ, écrasé par Charles Quint, s'allie au sultan contre l'empereur — un roi Très Chrétien coordonnant ses campagnes avec l'Ottoman. Le scandale est énorme et l'alliance durera deux siècles et demi. À cette date, la question n'est pas de savoir si l'Europe peut vaincre l'Empire ottoman : c'est de savoir jusqu'où il ira.</p>
 
 # 1521 ans
 
-<p>Chute de l'Empire aztèque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures d'acier, d'arquebuses et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.</p>
+<p>Tenochtitlán tombe le 13 août, après quatre-vingt-treize jours de siège. Le dernier souverain, Cuauhtémoc, est capturé sur le lac.</p>
 
-# 1524 ans
+<p>On raconte volontiers cette chute comme un triomphe de la technique : l'acier, l'arquebuse, le cheval, le chien de guerre contre des guerriers à massues d'obsidienne. L'écart existe, et il compte dans les corps-à-corps. Mais il n'explique presque rien : les arquebuses de 1521 tirent deux coups par minute et s'enrayent à la pluie, et quelques centaines d'Espagnols ne prennent pas une ville de deux cent mille habitants.</p>
 
-<p>Première expédition de Francisco Pizarro le long de la côte pacifique de l'Amérique du Sud à la recherche de nouveaux territoires.</p>
+<p>Ce qui a fait tomber Tenochtitlán est arrivé avec un esclave africain de l'expédition, l'année précédente : la variole. La population américaine n'a jamais rencontré ce virus, ni la rougeole, ni le typhus — quinze mille ans d'isolement l'ont laissée sans aucune défense immunitaire. L'épidémie emporte peut-être un tiers de la vallée de Mexico en quelques mois, dont le souverain Cuitláhuac, celui-là même qui venait de chasser les Espagnols de la ville. Elle frappe les chefs, les prêtres, les guerriers ; elle épargne les assiégeants, immunisés depuis l'enfance.</p>
 
-# 1528 ans
+<p>Aux yeux des vaincus, le fait est théologique avant d'être médical : un mal qui tue les uns et laisse les autres indemnes ne peut être qu'un jugement. C'est la véritable arme de la conquête des Amériques, et personne ne l'a apportée exprès.</p>
 
-<p>Pizarro obtient des informations plus précises sur le riche Empire inca et rencontre des représentants de cet empire.</p>
+<p>À l'autre bout du monde, Magellan meurt le 27 avril sur une plage des Philippines, tué dans une querelle locale où il n'avait rien à faire.</p>
 
-# 1530 ans
+# 1522 ans
 
-<p>Un nombre croissant de colons espagnols commencent à se rendre au Pérou pour tenter leur chance et chercher fortune.</p>
+<p>Le 6 septembre, un navire délabré remonte le Guadalquivir avec dix-huit hommes à bord. Ils sont partis à deux cent trente-sept sur cinq bateaux. Juan Sebastián Elcano, qui a repris le commandement après la mort de Magellan, vient de boucler le premier tour du monde.</p>
 
-# 1531 ans
+<p>La cargaison d'épices suffit à rembourser les frais de l'expédition entière — cinq navires perdus compris. Mais la découverte qui compte n'est pas commerciale. Ces hommes ont tenu un journal de bord scrupuleux, et en arrivant ils constatent qu'ils ont perdu un jour : leur date est en retard d'une unité sur celle de Séville. Personne ne l'avait prévu.</p>
 
-<p>Début de l'expédition qui mènera à la conquête de l'Empire inca.</p>
+<p>C'est la première démonstration expérimentale, faite par des marins épuisés qui n'avaient rien demandé, que le temps dépend de l'endroit où l'on se tient sur la Terre. La ligne de changement de date naîtra de cette journée manquante.</p>
+
+# 1526 ans
+
+<p>Deux empires atteignent la même année le sommet de leur puissance, aux deux extrémités du monde musulman, et l'Europe ne comprend clairement que le premier.</p>
+
+<p>Le 29 août, à Mohács, l'armée hongroise est anéantie en deux heures par les canons et les janissaires de Soliman. Le roi de Hongrie meurt dans la déroute, le royaume est démembré, et la route de Vienne s'ouvre — le sultan l'assiégera trois ans plus tard.</p>
+
+<p>Le 21 avril, à Panipat, au nord de Delhi, un prince timouride venu de Kaboul écrase avec ses canons une armée dix fois supérieure en nombre : Bâbur fonde l'Empire moghol, qui régnera trois siècles sur l'Inde du Nord.</p>
+
+<p>Les deux victoires reposent sur la même chose — l'artillerie de campagne et l'arme à feu portative, servies par des soldats permanents payés par un État capable de lever l'impôt. Le monde entre dans le siècle des empires à poudre, et pour l'instant les plus efficaces ne sont pas européens.</p>
 
 # 1532 ans
 
-<p>Bataille de Cajamarca. Pizarro capture l'empereur Atahualpa malgré l'écrasante supériorité numérique de ce dernier.</p>
+<p>À Cajamarca, dans les Andes, cent soixante-huit Espagnols capturent l'empereur inca Atahualpa au milieu de ses milliers d'hommes, et massacrent son escorte en quelques heures. Francisco Pizarro préparait cette expédition depuis huit ans.</p>
+
+<p>Là encore, le rapport de force apparent ne veut rien dire. La variole a précédé les Espagnols par les routes de l'empire, remontant depuis l'Amérique centrale plus vite que les hommes : elle a tué le souverain Huayna Capac et son héritier désigné vers 1527, sans que personne au Pérou ait jamais vu un Européen. La succession disputée a jeté ses deux fils l'un contre l'autre, et Atahualpa vient tout juste de gagner cette guerre civile quand Pizarro se présente. Il traverse un pays épuisé, plein de vaincus de la veille prêts à s'allier au premier venu.</p>
+
+<p>Atahualpa offre pour sa rançon une pièce remplie d'or à hauteur d'homme, et deux fois autant d'argent. Il tient parole. On l'exécute quand même l'année suivante.</p>
+
+<p>Deux empires immenses, tombés à onze ans d'intervalle devant quelques centaines d'hommes : la coïncidence a nourri des siècles d'explications par la supériorité européenne. La cause principale tient en une phrase. Les Amériques n'avaient presque pas de grands mammifères domestiqués — donc pas de siècles de promiscuité avec le bétail, donc pas de maladies passées de l'animal à l'homme, donc pas d'immunité. L'Eurasie a envoyé ses microbes ; elle n'en a presque rien reçu en retour.</p>
 
 # 1533 ans
 
-<p>Prise de Cuzco par les forces de Pizarro.</p>
+<p>Pizarro entre dans Cuzco, capitale de l'empire, moins d'un an après Cajamarca. Il ne supprime pas la fonction d'Inca : il en installe un autre, choisi par lui, et gouverne à travers lui. La machine administrative inca — ses routes, ses greniers, son recensement — continue de fonctionner au profit des nouveaux maîtres.</p>
+
+<p>La résistance durera pourtant quarante ans. Le souverain fantoche se révoltera, assiégera Cuzco, puis se retirera dans les montagnes où ses successeurs maintiendront un État inca réduit jusqu'en 1572.</p>
+
+# 1543 ans
+
+<p>Trois navires portugais poussés par une tempête abordent Tanegashima, une île au sud du Japon. Les marchands ont à bord des arquebuses. Le seigneur local en achète deux à prix d'or et met ses forgerons à les copier.</p>
+
+<p>Le pays est alors en pleine guerre civile — un siècle de provinces qui s'entredéchirent — et l'arme se répand à une vitesse que l'Europe n'a jamais connue. En trente ans, les armuriers japonais en produisent des dizaines de milliers, d'une qualité supérieure aux modèles importés ; en 1575, à Nagashino, trois mille arquebusiers tirant par salves détruisent la meilleure cavalerie du Japon. À la fin du siècle, il y a probablement plus d'armes à feu dans l'archipel que dans n'importe quel royaume d'Europe.</p>
+
+<p>Retenez ce chiffre : il rendra plus étonnant encore ce que le Japon décidera d'en faire.</p>
+
+<p>La même année paraît à Nuremberg, chez un imprimeur luthérien, le livre que Copernic n'osait pas publier : <em>Des révolutions des sphères célestes</em>. L'auteur meurt dans les semaines qui suivent. L'ouvrage passe d'abord pour un exercice technique d'astronome, utile pour calculer, sans qu'on prenne au sérieux l'idée que la Terre bouge vraiment — un éditeur prudent a même ajouté sans autorisation une préface expliquant qu'il ne s'agit que d'une hypothèse commode. Il faudra soixante-dix ans pour que l'Église s'aperçoive du danger.</p>
+
+<p>Et la même année encore paraît à Bâle un autre livre, qui fait pour le corps ce que Copernic fait pour le ciel. André Vésale a vingt-huit ans et enseigne à Padoue. Jusqu'à lui, le professeur d'anatomie lisait Galien à voix haute du haut de sa chaire, pendant qu'un barbier découpait le cadavre en contrebas et qu'un assistant désignait les organes ; quand le corps contredisait le texte, on en concluait que le corps s'était trompé, ou que l'homme avait dégénéré depuis l'Antiquité.</p>
+
+<p>Vésale descend de la chaire et prend le couteau. Sa <em>Fabrique du corps humain</em>, illustrée de planches sorties d'un atelier vénitien que personne n'égalera, relève plus de deux cents erreurs chez Galien — lequel, on le comprend enfin, avait surtout disséqué des singes et des porcs. Le cœur n'a pas les pores qu'il y voyait ; le sternum n'a pas le nombre de segments qu'il annonçait.</p>
+
+<p>Deux livres, la même année, contre les deux plus grandes autorités héritées de l'Antiquité : Ptolémée et Galien. Aucun des deux auteurs ne se réclame de la nouveauté — tous deux se croient occupés à restaurer un savoir ancien mal transmis. Mais tous deux font le geste qui compte, et qui est le vrai commencement : ils vont voir eux-mêmes, et ils écrivent que le texte a tort.</p>
+
+# 1545 ans
+
+<p>Dans les Andes boliviennes, à plus de quatre mille mètres, on découvre une montagne d'argent : le Cerro Rico de Potosí. Il n'y a rien autour — ni bois, ni eau, ni cultures. En quarante ans, une ville de cent cinquante mille habitants y pousse, aussi peuplée que Londres à la même date, ravitaillée à dos de lama sur des centaines de kilomètres.</p>
+
+<p>Le travail y est organisé par la <em>mita</em>, une corvée tournante empruntée aux Incas et retournée contre eux : chaque village andin doit fournir un septième de ses hommes adultes, qui montent à Potosí pour un an. Beaucoup ne redescendent pas. Aux effondrements et à la silice s'ajoute, à partir des années 1570, le mercure employé pour séparer l'argent du minerai — un poison dont on ignore alors les effets et qui tuera des générations de mineurs et de raffineurs.</p>
+
+<p>Suivez maintenant le métal, car c'est là que l'histoire devient mondiale. L'argent de Potosí traverse l'Atlantique vers Séville — et n'y reste pas. Il paie les dettes des Habsbourg, file vers les banquiers de Gênes et d'Augsbourg, puis vers l'Asie. Une partie prend même la route directe : depuis Acapulco, le galion de Manille l'emporte chaque année à travers le Pacifique.</p>
+
+<p>Sa destination finale est la Chine. Les Ming viennent de convertir l'impôt en paiements d'argent, et l'empire, immense et peu pourvu en mines, aspire le métal du monde entier : entre un tiers et la moitié de tout l'argent américain finira dans les caisses chinoises, échangé contre de la soie et de la porcelaine.</p>
+
+<p>Voilà la première économie véritablement globale, et elle a une caractéristique gênante pour le récit habituel : l'Europe n'y est pas le centre mais l'intermédiaire. Elle ne produit presque rien que l'Asie veuille acheter. Elle a l'argent des Amériques, et c'est à peu près tout ce qu'elle a à offrir.</p>
 
 # 1550 ans
 
-<p>Bartolomé de Las Casas, prêtre catholique espagnol, prend la défense des amérindiens. Un grand débat religieux et politique, qui doit répondre à une question simple commence: doit-on convertir les indigènes par la force ? La réponse est non. Las Casas parvient désormais à préserver les indiens du travail forcé. Il propose toutefois l'utilisation de travailleurs esclaves africains plutôt que d'indigènes pour les plantations et les mines d'or.</p>
+<p>À Valladolid s'ouvre un débat public sans équivalent : une monarchie convoque des théologiens pour trancher la question de savoir si les guerres qu'elle mène sont justes.</p>
+
+<p>Face à face, Juan Ginés de Sepúlveda soutient que les Indiens, incapables de se gouverner, sont des « esclaves par nature » au sens d'Aristote, et que la guerre pour les soumettre est légitime. Bartolomé de Las Casas, ancien colon devenu dominicain après avoir vu ce qu'il avait contribué à faire, répond qu'ils sont des hommes pleinement rationnels, qu'aucune conversion forcée n'a de valeur, et que rien n'autorise ces guerres.</p>
+
+<p>Aucun verdict n'est proclamé. Les deux camps se déclarent vainqueurs, l'encomienda continue, et les lois protectrices arrachées à la Couronne restent largement lettre morte à six mille kilomètres de Madrid.</p>
+
+<p>Ce qui compte n'est donc pas le résultat, c'est la scène : pour la première fois, une puissance conquérante organise elle-même le procès de sa conquête, et l'argument selon lequel un peuple est trop inférieur pour se gouverner y est publiquement contesté. Cette idée-là ne disparaîtra plus.</p>
+
+<p>Il faut ajouter la tache. Pour épargner les Indiens, Las Casas avait proposé dans sa jeunesse qu'on importe à leur place des captifs africains. Il s'en est repenti par écrit, reconnaissant tardivement qu'il avait échangé une injustice contre une autre — mais la suggestion, elle, avait déjà été entendue.</p>
 
 # 1553 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Df5MLgLrL1w" data-id="Df5MLgLrL1w" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Df5MLgLrL1w/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Naissance d'Henri IV.</p>
+<p>Naissance à Pau d'Henri de Bourbon, futur Henri IV. Élevé dans la religion réformée par sa mère Jeanne d'Albret, il devient roi de Navarre à dix-neuf ans, puis chef du parti protestant dans un royaume que les guerres de religion ont commencé à déchirer.</p>
+
+<p>Son destin tient à une arithmétique dynastique improbable : les trois fils d'Henri II meurent l'un après l'autre sans laisser d'héritier mâle, et la couronne échoit au cousin le plus éloigné — un huguenot, dans une France catholique à plus de neuf dixièmes. La Ligue lui ferme Paris, l'Espagne finance ses adversaires ; il lui faudra cinq ans de guerre et une abjuration pour entrer dans sa capitale.</p>
+
+<p>C'est lui qui signera en 1598 l'édit de Nantes et mettra fin à trente-six ans de massacres, par une solution que personne n'avait osée : non pas convertir le camp d'en face, mais admettre que deux religions puissent coexister dans un même royaume. Un fanatique le poignardera pour cela douze ans plus tard.</p>
+
+# 1556 ans
+
+<p>Un garçon de treize ans monte sur le trône moghol : Akbar. Il régnera près d'un demi-siècle et fera de l'Inde du Nord l'État le plus riche du monde.</p>
+
+<p>Sa décision la plus remarquable est prise à vingt-deux ans. Souverain musulman d'un empire très majoritairement hindou, il supprime la <em>jizya</em>, l'impôt payé par les non-musulmans, ainsi que la taxe sur les pèlerinages. Il ouvre l'administration et l'armée aux hindous, épouse des princesses rajputes sans exiger leur conversion, fait traduire en persan le <em>Mahabharata</em> et les Upanishads.</p>
+
+<p>Il va plus loin encore : dans sa nouvelle capitale de Fatehpur Sikri, il fait bâtir une salle de discussion où il convoque des théologiens musulmans sunnites et chiites, des brahmanes, des jaïns, des zoroastriens, et des jésuites venus de Goa, pour disputer devant lui. Il en tirera l'idée d'une paix universelle entre les religions, le <em>sulh-i kull</em>, et une doctrine de cour qui ne lui survivra pas.</p>
+
+<p>Le contraste est brutal et il faut le poser franchement. Pendant qu'Akbar réunit des prêtres de cinq religions autour d'une même table pour les écouter s'affronter en paroles, la France entre dans quarante ans de guerres où l'on s'égorge entre chrétiens sur la manière de comprendre une cène. Aucun des deux mondes ne sait ce que fait l'autre.</p>
 
 # 1562 ans
 
 ## Rome
 
-<p>Missa Papae Marcelli.</p>
-
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=BRfF7W4El60" data-id="BRfF7W4El60" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/BRfF7W4El60/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Cette messe est l’une des plus célèbres de la Renaissance. Elle est écrite dans le contexte des débats du concile de Trente, où certains craignent que la polyphonie rende les paroles incompréhensibles dans la liturgie. Palestrina montre ici qu’il est possible de composer une polyphonie riche mais claire : les voix se déploient harmonieusement, les textes restent audibles, et la musique sert la beauté — ce qui lui vaut de devenir un modèle incontournable de la musique sacrée catholique.</p>
+<p>Le concile de Trente, réuni depuis dix-sept ans pour répondre à la Réforme, s'attaque à la musique. Le reproche est simple : à force d'entrelacer les voix, la polyphonie rend le texte sacré inaudible ; on n'entend plus que du son. Certains Pères veulent réduire la liturgie au chant grégorien.</p>
+
+<p>Palestrina compose alors la <em>Missa Papae Marcelli</em>. Il n'abandonne rien de la richesse polyphonique, mais il la discipline : les voix se rassemblent aux moments qui comptent, les syllabes tombent ensemble, le texte redevient lisible sans que la musique s'appauvrisse.</p>
+
+<p>La légende voudra que cette messe ait à elle seule sauvé la polyphonie du bûcher conciliaire. C'est trop beau, et c'est faux — le concile n'a jamais menacé de l'interdire. Mais l'œuvre a fixé un modèle pour trois siècles de musique catholique, et elle dit quelque chose de la Contre-Réforme tout entière : Rome ne répond pas au protestantisme en se dépouillant, elle y répond par une splendeur qu'elle rend intelligible.</p>
+
+# 1571 ans
+
+<p>Le 7 octobre, dans le golfe de Lépante, la flotte de la Sainte-Ligue — Espagne, Venise, papauté — détruit la flotte ottomane. Plus de quatre cents galères s'affrontent, quelque cent mille hommes, et une bonne partie des rameurs des deux camps sont des captifs enchaînés à leurs bancs. Un soldat espagnol y perd l'usage de la main gauche ; il s'appelle Miguel de Cervantès et dira toute sa vie que ce fut sa plus belle journée.</p>
+
+<p>L'Europe catholique explose de joie : on croit le péril ottoman abattu. Il ne l'est pas. Constantinople reconstruit sa flotte en un hiver, et l'un des vizirs lâche à un ambassadeur vénitien la formule qui résume tout : en prenant Chypre aux Vénitiens, les Ottomans leur ont coupé un bras, qui ne repoussera pas ; à Lépante, on leur a rasé la barbe, qui repoussera plus drue.</p>
+
+<p>Il avait raison sur le court terme. Mais le déplacement réel s'est produit ailleurs et personne ne le voit encore : la Méditerranée cesse d'être le centre du monde. La richesse est désormais dans l'Atlantique et dans l'océan Indien, et les puissances qui se battent pour cette mer intérieure se disputent une pièce dont on est en train de déplacer le mobilier.</p>
 
 # 1572 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XXxFTsYdLpQ" data-id="XXxFTsYdLpQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XXxFTsYdLpQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Massacre de la Saint-Barthélemy. Il s'agit d'un massacre de grande ampleur de la communauté protestante française (appelée également les Huguenots) par les catholiques.</p>
+<p>Paris est plein de protestants : toute la noblesse huguenote est venue célébrer le mariage d'Henri de Navarre, leur chef, avec la sœur du roi — une union arrangée pour réconcilier le royaume après dix ans de guerre civile.</p>
 
-<p>Le massacre commence après l'ordre donné par Catherine de Médicis, la mère du roi Charles IX, de tuer les chefs protestants qui se trouvent à Paris pour les célébrations du mariage de leur chef, Henri de Navarre (futur Henri IV), avec la sœur du roi, Marguerite de Valois. Les protestants sont traqués et tués par des groupes de catholiques pendant plusieurs jours, non seulement à Paris mais aussi dans d'autres villes de France.</p>
+<p>Dans la nuit du 24 août, la fête devient un piège. Le conseil du roi, redoutant les représailles après une tentative d'assassinat manquée contre l'amiral de Coligny, décide d'éliminer les chefs protestants pendant qu'ils sont tous rassemblés. C'est une opération ciblée sur quelques dizaines d'hommes.</p>
+
+<p>Elle échappe à ses commanditaires en quelques heures. La milice bourgeoise et la foule parisienne prennent le relais, et l'on massacre dans les rues, maison par maison, pendant trois jours. Puis la nouvelle gagne la province : Orléans, Lyon, Rouen, Bordeaux, Toulouse. Plusieurs milliers de morts en quelques semaines — les estimations vont de deux à dix mille.</p>
+
+<p>La leçon est celle que toutes les violences de masse rejoueront : le pouvoir croit tenir un instrument, il ouvre une vanne. Henri de Navarre, lui, survit en abjurant sous la menace. Il abjurera encore, dans l'autre sens, puis reviendra au catholicisme vingt ans plus tard pour prendre Paris — et c'est cet homme, qui a changé de religion cinq fois pour rester en vie, qui donnera à la France sa première loi de tolérance.</p>
+
+<p>Le 11 novembre de la même année, à l'autre bout de l'Europe, un jeune noble danois qui rentre souper lève les yeux et voit dans Cassiopée une étoile qui n'y était pas. Elle est plus brillante que Vénus, on la distingue en plein jour, et elle restera visible seize mois.</p>
+
+<p>Tycho Brahe passe l'année suivante à mesurer sa position nuit après nuit, avec une obstination que personne n'avait eue. Le raisonnement est décisif : si l'objet était atmosphérique, comme le veut Aristote, il devrait se déplacer par rapport aux étoiles selon l'heure et le lieu d'où on l'observe. Il ne bouge pas d'une seconde d'arc. Il est donc plus loin que la Lune — dans cette région du ciel que deux mille ans d'autorité déclaraient immuable et incorruptible.</p>
+
+<p>Trois mois plus tôt, à Paris, on massacrait au nom d'une vérité qu'on croyait fixée pour toujours. Dans le ciel de Copenhague, quelque chose vient d'apparaître là où rien ne pouvait apparaître.</p>
+
+# 1577 ans
+
+<p>Une comète traverse le ciel d'Europe. Tycho Brahe, à qui le roi de Danemark a donné une île entière et les revenus qui vont avec, la mesure depuis l'observatoire qu'il y a fait bâtir : Uraniborg, le château d'Uranie, avec ses quadrants muraux de plusieurs mètres, son imprimerie, son atelier et son papier fabriqué sur place.</p>
+
+<p>Le résultat est plus dévastateur encore que celui de l'étoile nouvelle. Non seulement la comète est au-delà de la Lune, mais sa trajectoire traverse les orbites des planètes. Or le ciel d'Aristote et de Ptolémée est fait de sphères de cristal emboîtées qui portent les astres ; un objet qui les traverse les brise. Après 1577, il n'y a plus de sphères — les planètes flottent, et plus personne ne sait ce qui les tient.</p>
+
+<p>Tycho n'ira pas au bout de son propre travail : il refusera toujours que la Terre bouge, et proposera un système bâtard où les planètes tournent autour du Soleil, lequel tourne autour d'une Terre immobile. Son génie est ailleurs. Vingt ans durant, il mesure la position des astres à une ou deux minutes d'arc près — dix fois mieux que tous ses prédécesseurs, et c'est très exactement la limite de l'œil nu, atteinte quelques années avant que la lunette ne rende l'exercice caduc.</p>
+
+<p>Ces carnets sont le trésor le plus précieux du siècle. À sa mort, un jeune assistant allemand dont il se méfiait et qu'il tenait soigneusement à l'écart de ses données s'en empare. Il s'appelle Johannes Kepler, et sans ces vingt années de chiffres il n'aurait rien pu faire.</p>
 
 # 1588 ans
 
-<p>Hideyoshi lance la « chasse aux sabres » : les paysans doivent rendre leurs armes, et une série d'édits fige la séparation entre le paysan et le samouraï. Le paysan ne peut pas devenir samurai et réciproquement. Cela veut donc dire que le guerrier ne peut plus cultiver un lopin de terre.</p>
+<p>Deux États décident la même année ce qu'ils font des armes de leurs sujets, et prennent des routes opposées.</p>
 
-<p>Le statut de samouraï est aussi héréditaire et ne peut être acquis qu'en étant né dans une famille de samouraïs. Les paysans, qui n'appartiennent pas à cette classe, ne peuvent donc pas devenir samouraïs, même s'ils le souhaitent.</p>
+<p>Au Japon, Toyotomi Hideyoshi lance la « chasse aux sabres ». Les paysans doivent rendre leurs lames, officiellement pour qu'on les fonde en clous et en crampons destinés à un grand Bouddha — l'argument est théologique, le but est politique. Une série d'édits achève de figer la société : le samouraï ne cultive plus, le paysan ne combat plus, et l'on ne passe plus d'une condition à l'autre. Le statut devient héréditaire.</p>
 
-<p>Cette réforme va structurer la société japonaise pour les siècles à venir.</p>
+<p>Le Japon sortait d'un siècle de guerre civile où n'importe quel paysan pouvait devenir chef de guerre — Hideyoshi lui-même, fils de paysan, en était la preuve vivante. Il referme derrière lui la porte par laquelle il est passé. La paix qui s'installera durera deux siècles et demi ; elle sera payée d'une société immobile.</p>
+
+<p>Au même moment, l'Espagne lance contre l'Angleterre la plus grande flotte jamais réunie : cent trente navires, l'<em>Invincible Armada</em>. Elle est battue par des tactiques anglaises plus souples, puis démolie par les tempêtes en contournant l'Écosse ; à peine la moitié rentrera.</p>
+
+<p>Le contraste est saisissant. Le Japon désarme sa population pour geler l'ordre intérieur ; l'Europe, elle, ne peut pas se le permettre — ses États sont trop nombreux, trop imbriqués, trop en guerre les uns contre les autres pour qu'aucun cesse d'armer. Cette concurrence permanente coûtera à l'Europe des ravages que le Japon s'épargnera. Elle lui donnera aussi, à force de se battre, une avance militaire et navale décisive.</p>
 
 # 1589 ans
 
-<p>Les Intermèdes de La Pellegrina.</p>
-
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=MeIG80r4yqM" data-id="MeIG80r4yqM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/MeIG80r4yqM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>On célèbre le mariage de Ferdinando de Médicis, grand-duc de Toscane, avec Christine de Lorraine, petite-fille de Catherine de Médicis. Les Médicis, mécènes puissants, veulent impressionner les invités venus de toute l’Europe. La cérémonie religieuse a lieu à la basilique San Lorenzo, mais le véritable clou des festivités est donné au théâtre des Uffizi : une représentation de la comédie La Pellegrina de Girolamo Bargagli, entrecoupée de six somptueux intermèdes musicaux et scéniques.</p>
+<p>Florence célèbre le mariage du grand-duc Ferdinand de Médicis avec Christine de Lorraine, et les Médicis entendent éblouir l'Europe entière. Le clou n'est pas la cérémonie mais le spectacle donné au théâtre des Uffizi : une comédie, <em>La Pellegrina</em>, entrecoupée de six intermèdes musicaux d'un luxe inouï — machineries, nuages descendants, chœurs, orchestre.</p>
+
+<p>Ces intermèdes valent mieux que la pièce qu'ils interrompent, et tout le monde s'en aperçoit. On y voit des musiciens et des lettrés qui, depuis des années, cherchent à retrouver la tragédie grecque en musique et jugent la polyphonie inapte à faire entendre une émotion : ils veulent une voix seule, portée par quelques instruments, qui parle en chantant.</p>
+
+<p>De cette réunion de moyens princiers et d'une idée théorique naîtra, en moins de vingt ans, l'opéra.</p>
+
+# 1591 ans
+
+<p>Le 13 mars, à Tondibi, sur le Niger, une armée de quelques milliers d'hommes venue du Maroc met en déroute les dizaines de milliers de soldats de l'empire songhaï. Les Marocains ont traversé le Sahara — deux mois de désert, la moitié des effectifs perdus en route. Ils ont des arquebuses et des canons ; les Songhaïs n'en ont pas.</p>
+
+<p>Ce qui s'effondre ce jour-là n'est pas un royaume obscur. C'est le dernier des grands empires du Soudan occidental, héritier du Ghana et du Mali, maître du commerce transsaharien de l'or et du sel. Tombouctou et Djenné sont depuis des siècles des villes de manuscrits et de juristes ; l'université de Sankoré y forme des savants dont les bibliothèques comptent des dizaines de milliers d'ouvrages. Le plus célèbre d'entre eux, Ahmed Baba, sera déporté à Marrakech avec ses livres.</p>
+
+<p>Les vainqueurs sont incapables de tenir ce qu'ils ont pris : la distance est trop grande, et le Maroc perd le contrôle de sa propre expédition en quelques années. Il ne reste ni empire songhaï ni domination marocaine — seulement un vide, et des routes commerciales désorganisées.</p>
+
+<p>Le moment est cruel. L'Afrique de l'Ouest perd sa principale puissance politique et sa capacité à négocier d'égal à égal, précisément quand la demande atlantique de captifs commence à s'emballer. La traite ne trouvera plus en face d'elle d'État assez fort pour lui poser des conditions.</p>
 
 # 1598 ans
 
-<p>Promulgation de l'Édit de Nantes par Henri IV, accordant des droits limités aux protestants et mettant fin à plusieurs décennies de guerres de religion.</p>
+<p>Henri IV promulgue l'édit de Nantes. Les protestants obtiennent la liberté de conscience, un culte autorisé dans des lieux définis, l'accès aux charges publiques, des tribunaux mixtes — et une centaine de places fortes qu'ils tiennent en armes.</p>
+
+<p>Il ne faut pas s'y tromper : ce n'est pas un texte sur la liberté religieuse. C'est un traité de paix entre deux partis armés qui n'ont pas réussi à s'exterminer, rédigé par un roi qui a compris que l'unité de foi du royaume lui coûterait le royaume. Le préambule le dit presque : on tolère parce qu'on ne peut plus faire autrement.</p>
+
+<p>C'est pourtant de cet aveu d'impuissance que sort quelque chose de neuf. Pour la première fois en Europe, un État admet durablement que deux confessions coexistent sur son sol sans que le prince impose la sienne. L'idée est encore purement pratique ; il faudra un siècle et demi pour qu'elle devienne un principe, et un roi pour la révoquer en 1685.</p>
 
 # 1600 ans
 
-<p>La East India Company, également connue sous le nom de Compagnie anglaise des Indes orientales, est fondée. Elle est créée en Angleterre par un groupe de marchands et d'investisseurs britanniques. L'objectif principal de la compagnie est de tirer profit du commerce lucratif des épices et d'autres marchandises entre l'Europe et les pays d'Asie, notamment l'Inde, la Chine et les régions voisines. Les marchands britanniques sont attirés par le commerce en Asie en raison de la demande croissante pour les épices, les textiles et d'autres marchandises exotiques en Europe.</p>
+<p>Le dernier jour de l'année, Élisabeth Iʳᵉ accorde à un groupe de marchands londoniens le monopole du commerce à l'est du cap de Bonne-Espérance : la Compagnie anglaise des Indes orientales est née. Elle dispose de quelques navires et d'un capital modeste, et son ambition initiale est étroite — aller chercher le poivre là où il pousse plutôt que de l'acheter aux Portugais.</p>
 
-# 1601 ans
+<p>Rien n'annonce ce qu'elle deviendra : une entreprise privée qui lèvera des armées, frappera monnaie, mènera des guerres et finira par administrer un sous-continent de deux cents millions d'habitants. Il n'existe aucune catégorie politique pour cela, ni alors ni maintenant.</p>
 
-<p>La Hollande, la France, l'Angleterre et l'Espagne s'implantent en Amérique. La France domine Saint Domingue, la Guadeloupe, et la Martinique.</p>
+<p>La même année, au Japon, la bataille de Sekigahara règle en une journée la question de savoir qui gouvernera l'archipel. Tokugawa Ieyasu l'emporte, et la victoire est si complète qu'elle fonde un régime.</p>
 
 # 1602 ans
 
-<p>La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la Compagnie néerlandaise des Indes orientales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Sur ces deux siècles, elle emploiera au total près d'un million de personnes et armera quelque 4 800 navires. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bateaux. Lorsque les bateaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.</p>
+<p>Six compagnies néerlandaises rivales, qui se ruinaient à se concurrencer sur les mêmes routes, sont fusionnées d'autorité par les États généraux en une seule : la Compagnie néerlandaise des Indes orientales, la VOC. Elle reçoit le monopole du commerce asiatique, et le droit de signer des traités, de bâtir des forts et de faire la guerre à l'est du cap.</p>
+
+<p>Son innovation n'est pas commerciale, elle est financière, et elle change tout. Jusque-là, on finançait une expédition, on attendait le retour des navires, on partageait le butin, et la société se dissolvait. La VOC, elle, garde son capital : les actionnaires ne récupèrent pas leur mise à la fin du voyage. Ils ont en échange un droit permanent sur les bénéfices — et, s'ils veulent sortir, ils doivent trouver quelqu'un à qui revendre leur part.</p>
+
+<p>Il faut donc un endroit pour cela. La Bourse d'Amsterdam ouvre la même année, et voit apparaître en quelques décennies tout ce que nous connaissons : la cotation continue, la spéculation à la hausse et à la baisse, la vente à découvert, les premières options — et les premières interdictions, aussitôt contournées, de ces pratiques.</p>
+
+<p>C'est ici que naît le capitalisme actionnarial. Une entreprise peut désormais vivre plus longtemps que ses fondateurs, immobiliser des sommes qu'aucune fortune privée ne réunirait, et faire porter le risque par des milliers d'inconnus dont aucun ne se ruine seul. La VOC tiendra deux siècles, emploiera au total près d'un million de personnes et armera quelque 4 800 navires.</p>
+
+<p>Rien de tout cela n'existe alors ailleurs. Les empires les plus riches du monde — Ming, moghol, ottoman — commercent davantage que les Provinces-Unies, mais leurs marchands n'ont ni société permanente, ni marché secondaire, ni moyen de mobiliser l'épargne d'inconnus. C'est l'un des rares domaines où l'Europe de 1600 invente réellement quelque chose, et c'est celui qui finira par tout emporter.</p>
 
 # 1603 ans
 
-<p>Au Japon, la période Edo, aussi appelée période Tokugawa, commence. C’est cette année-là que Tokugawa Ieyasu est nommé shogun par l'empereur, marquant officiellement le début de son gouvernement militaire, ou bakufu, basé à Edo (l’actuelle Tokyo).</p>
+<p>L'empereur nomme Tokugawa Ieyasu <em>shōgun</em>. Le régime qu'il installe à Edo — un village de pêcheurs qui deviendra Tokyo — gouvernera le Japon pendant deux cent soixante-cinq ans.</p>
+
+<p>Son génie est un dispositif de contrôle qui ne coûte presque rien : le service alterné. Chaque seigneur de province doit passer un an sur deux à Edo, et y laisser sa famille en permanence quand il rentre chez lui. Ce sont des otages qui ne portent pas ce nom. Les allers-retours, avec le train de maison qu'exige le rang, ruinent lentement l'aristocratie provinciale — et enrichissent les routes, les auberges et les marchands qui les servent.</p>
+
+<p>Aucun seigneur ne se révoltera. Le Japon des Tokugawa connaîtra la plus longue paix intérieure de l'histoire d'un grand pays, une urbanisation spectaculaire et une culture urbaine flamboyante. Il la paiera d'un immobilisme social que la modernité, quand elle forcera la porte au XIXᵉ siècle, fera voler en éclats en une génération.</p>
 
 # 1607 ans
 
-<p>La colonie anglaise la plus ancienne et la plus célèbre en Amérique est fondée à Jamestown, en Virginie. Les nouveaux venus ne débarquent pas sur une terre vide : entre les Grands Lacs et la Floride vivent alors plusieurs millions d'Amérindiens — les estimations varient beaucoup, et les épidémies apportées par les Européens en emporteront la plus grande part avant même que la colonisation ne progresse vers l'intérieur.</p>
+<p>Cent quatre colons anglais s'installent sur une presqu'île marécageuse de Virginie et l'appellent Jamestown. Ils cherchent de l'or, ne trouvent que la malaria et la famine, et les deux tiers meurent la première année. Ce qui sauvera la colonie n'est pas un métal mais une plante — le tabac, planté à partir de 1612, dont l'Europe raffole aussitôt.</p>
+
+<p>Ils ne débarquent pas sur une terre vide. Entre les Grands Lacs et la Floride vivent plusieurs millions d'Amérindiens ; les estimations varient beaucoup, mais toutes s'accordent sur un point : les épidémies venues d'Europe emporteront la plus grande part de cette population avant même que la colonisation n'atteigne l'intérieur du continent. Les colons qui progresseront vers l'ouest traverseront souvent des villages abandonnés et des champs déjà défrichés, et y verront une terre providentiellement vidée pour eux.</p>
+
+<p>En 1619, un navire débarquera à Jamestown une vingtaine d'Africains capturés sur un vaisseau portugais. C'est le point de départ américain de ce que le Brésil pratique depuis un siècle.</p>
 
 ## Italie
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jUep3sqe35o" data-id="jUep3sqe35o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/jUep3sqe35o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>L’Orfeo est créé en 1607 à Mantoue, une petite cité du nord de l’Italie (en Lombardie actuelle). Mantoue n’est pas une capitale comme Rome ou Venise, mais une cour prestigieuse dirigée par les Gonzague, une famille princière très influente à la Renaissance. Le duc Vincenzo Gonzague veut rivaliser en éclat culturel avec Florence, qui a vu naître les premiers opéras (Peri, Caccini). Nous sommes ici en plein début du Baroque. Les intellectuels italiens, influencés par la Renaissance et l’Antiquité redécouverte, cherchent à réinventer la tragédie grecque en musique. C’est donc à Mantoue, dans une petite cour italienne mais très cultivée, que naît le premier opéra pleinement accompli de l’histoire.</p>
+<p>À Mantoue, petite cour du nord de l'Italie où les Gonzague veulent rivaliser d'éclat avec Florence, on donne <em>L'Orfeo</em> de Claudio Monteverdi. Ce n'est pas le premier ouvrage du genre, mais c'est le premier qui tient debout — et le premier qu'on joue encore.</p>
+
+<p>Le sujet n'est pas choisi au hasard : Orphée est le musicien dont le chant fléchit les morts. L'opéra naissant se donne pour mythe fondateur l'histoire d'une voix assez puissante pour changer le cours des choses, et Monteverdi lui en donne les moyens — une déclamation qui suit les inflexions de la parole, un orchestre qui commente, des couleurs instrumentales choisies pour chaque scène.</p>
+
+<p>Le théâtre européen vient de trouver la forme qui le dominera pendant trois siècles.</p>
 
 # 1609 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=hvw1dFM_zqs" data-id="hvw1dFM_zqs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/hvw1dFM_zqs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Galilée perfectionne le télescope et commence à l'utiliser pour observer le ciel. En quelques mois, entre la fin de cette année et 1610, il enchaîne les découvertes révolutionnaires :</p>
+<p>Un professeur de mathématiques de Padoue entend parler d'un jouet hollandais qui fait paraître les objets plus proches. En quelques mois, Galilée en construit une version bien meilleure, la vend à la République de Venise pour ses usages militaires — et la pointe vers le ciel, ce que personne n'avait pris la peine de faire sérieusement.</p>
 
-<p>    Les cratères et montagnes de la Lune : Contrairement à la croyance populaire de l'époque, qui voyait la Lune comme un corps céleste parfaitement lisse et sphérique, Galilée observe des cratères et des montagnes, démontrant que la surface de la Lune était irrégulière.</p>
+<p>Ce qu'il voit en quelques semaines démolit deux mille ans de physique.</p>
 
-<p>    Les quatre plus grands satellites de Jupiter : Galilée découvre les quatre plus grands satellites de Jupiter, aujourd'hui connus sous le nom de lunes galiléennes : Io, Europe, Ganymède et Callisto. Ces découvertes sont particulièrement importantes car elles montrent que des corps célestes peuvent orbiter autour d'autres planètes, remettant en cause la vision géocentrique (la Terre comme centre de l'univers) dominante à l'époque.</p>
+<p>La Lune est couverte de montagnes et de cratères. Elle projette des ombres, et la longueur de ces ombres permet d'en mesurer le relief. Or les cieux étaient réputés parfaits, faits d'une matière incorruptible sans rapport avec la nôtre : voilà un astre qui ressemble à un caillou.</p>
 
-<p>    Les phases de Vénus : Galilée observe que Vénus passe par des phases similaires à celles de la Lune, ce qui ne peut être expliqué que si Vénus tourne autour du Soleil, et non de la Terre. Cela fournit une preuve solide en faveur du modèle héliocentrique de Copernic, selon lequel le Soleil est au centre du système solaire.</p>
+<p>Jupiter est accompagné de quatre points lumineux qui changent de place chaque nuit. Ce sont des lunes, et elles tournent autour de lui. L'objection majeure à Copernic — si la Terre bougeait, elle perdrait la sienne en route — vient de tomber : voilà un corps qui se déplace sans rien perdre.</p>
+
+<p>Vénus, enfin, présente des phases complètes, du croissant au disque plein. C'est impossible dans le système de Ptolémée, et exactement ce que prédit celui de Copernic. Ce n'est plus une élégance de calcul, c'est une observation qui tranche.</p>
+
+<p>Galilée publie tout cela en 1610 dans un opuscule de soixante pages, en latin mais dans une langue claire, et il fait quelque chose que les astronomes ne faisaient pas : il baptise les lunes de Jupiter du nom des Médicis et se fait engager par eux. Il comprend qu'une découverte a besoin d'un public et d'un protecteur. Cela le rendra célèbre dans toute l'Europe en quelques mois — et lui coûtera cher vingt ans plus tard.</p>
+
+<p>À Prague, la même année, paraît un livre que presque personne ne lira : l'<em>Astronomia nova</em> de Johannes Kepler. Il y raconte huit années de calcul acharné sur une seule planète, Mars, à partir des mesures que lui a laissées Tycho Brahe.</p>
+
+<p>Tout tient à huit minutes d'arc. Kepler a construit un modèle circulaire qui rend compte des observations à huit minutes près — un écart minuscule, que n'importe lequel de ses prédécesseurs aurait accepté sans y penser. Mais il sait que Tycho, lui, ne se trompait pas de huit minutes. Alors, plutôt que d'arrondir, il jette le modèle. Il en essaiera près de soixante-dix.</p>
+
+<p>Ce qu'il finit par admettre est ce que deux mille ans de pensée avaient refusé d'envisager : l'orbite n'est pas un cercle. C'est une ellipse, et le Soleil n'en occupe pas le centre mais l'un des foyers. Le cercle était le dernier héritage de Platon dans l'astronomie — la figure parfaite, seule digne des cieux ; Copernic lui-même n'avait jamais songé à s'en passer, et c'est pour le sauver qu'il avait dû empiler des dizaines de cercles secondaires. Kepler le sacrifie à huit minutes d'arc.</p>
+
+<p>Il ajoute une seconde loi, plus troublante encore : une planète ne va pas à vitesse constante, elle accélère en approchant du Soleil. Les astres ne sont donc pas mus par une perfection intérieure ; quelque chose émane du Soleil et agit sur eux à distance. Kepler cherchera cette force toute sa vie sans la trouver.</p>
+
+<p>Le contraste avec Galilée, la même année, dit tout de ce moment. L'un pointe une lunette et voit ; l'autre passe huit ans sur des colonnes de chiffres et calcule. La science moderne naît de ces deux gestes ensemble — et les deux hommes ne se sont jamais rencontrés. Galilée, qui connaissait pourtant les travaux de Kepler, n'a jamais accepté ses ellipses.</p>
 
 # 1610 ans
 
-<p>Assassinat d'Henri IV.</p>
+<p>Le 14 mai, rue de la Ferronnerie à Paris, un maître d'école exalté nommé Ravaillac saute sur le marchepied du carrosse royal et poignarde Henri IV. Le roi qui avait mis fin aux guerres de religion meurt de la main d'un homme convaincu qu'il allait faire la guerre au pape.</p>
 
-<p>Claudio Monteverdi – Vespro della Beata Vergine.</p>
+<p>La France entre dans une régence, et le pays qu'il laisse est pacifié mais pas réconcilié : les places fortes protestantes tiennent toujours, et Richelieu les réduira par les armes.</p>
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=0FXECUmqBxQ" data-id="0FXECUmqBxQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/0FXECUmqBxQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Probablement chanté à Mantoue, dans le cadre de la chapelle ducale des Gonzague. Monteverdi combine l’héritage polyphonique de Palestrina avec de nouveaux styles (solistes, instruments, contrastes) qui annoncent l’opéra et la musique baroque. C’est considéré comme la première grande œuvre sacrée baroque, un chef-d’œuvre qui ouvre un monde nouveau.</p>
+<p>La même année, Monteverdi publie ses <em>Vêpres de la Bienheureuse Vierge</em>. L'ouvrage est une démonstration : il y fait tenir ensemble tout ce que la musique sait faire à cette date — la polyphonie savante héritée de Palestrina et la voix soliste expressive de l'opéra, le plain-chant ancien et les instruments modernes, l'archaïsme et l'invention.</p>
+
+<p>C'était probablement un dossier de candidature — Monteverdi cherchait un poste, et il obtiendra Saint-Marc de Venise. C'est accessoirement la première grande œuvre sacrée du baroque.</p>
+
+# 1618 ans
+
+<p>Le 23 mai, à Prague, des nobles protestants jettent deux gouverneurs catholiques par une fenêtre du château. Les hommes survivent — ils tombent, selon le camp qu'on écoute, sur un tas de fumier ou dans les bras de la Vierge. C'est le début de la guerre de Trente Ans.</p>
+
+<p>Elle commence comme une révolte religieuse dans un royaume, et elle devient l'affaire de tout le continent : Bohême, Danemark, Suède, France, Espagne, Provinces-Unies, principautés allemandes par dizaines. La France catholique finira par financer puis rejoindre le camp protestant contre les Habsbourg, ce qui dit assez ce que la religion pesait encore dans les calculs.</p>
+
+<p>Elle se déroule presque entièrement en Allemagne, et elle s'y déroule d'une manière nouvelle. Les armées sont trop grandes pour être payées et vivent sur le pays : elles pillent parce que c'est leur solde. Une même région est traversée dix fois en trente ans. À cela s'ajoutent la famine et la peste, qui tuent bien davantage que les batailles.</p>
+
+<p>Le bilan restera l'un des pires que l'Europe ait connus : quatre à huit millions de morts, et dans les régions les plus exposées un habitant sur trois qui disparaît. Certaines villes mettront un siècle et demi à retrouver leur population de 1618.</p>
+
+<p>Le moment est en outre le plus mauvais possible. L'hémisphère nord traverse alors la phase la plus froide du « petit âge glaciaire » : les récoltes manquent, les prix s'envolent, et le même demi-siècle voit se soulever la Chine, la France, l'Angleterre, la Catalogne, Naples et la Russie. Les historiens parlent d'une crise générale du XVIIᵉ siècle — un rappel que les climats font aussi de la politique.</p>
 
 # 1620 ans
 
-<p>Francis Bacon publie le Novum Organum (The New Instrument), un manifeste de la révolution scientifique. Il y affirme que la connaissance doit être acquise par l'observation et l'expérimentation et soutient l'idée que « le savoir est pouvoir », c'est-à-dire que la compréhension de la nature permet aux êtres humains d'agir sur le monde et de le transformer.</p>
+<p>Francis Bacon publie le <em>Novum Organum</em>, le « nouvel instrument » — le titre annonce le programme : remplacer l'<em>Organon</em> d'Aristote, qui régentait le raisonnement depuis deux mille ans.</p>
+
+<p>Sa thèse est que l'on a jusqu'ici procédé à l'envers. On partait de grands principes admis et l'on en déduisait le particulier ; il faut faire l'inverse — accumuler patiemment les observations, ne pas craindre les cas gênants, et ne remonter aux lois générales qu'ensuite. Il ajoute que la nature ne se laisse pas seulement regarder : il faut l'interroger, la contraindre, l'observer dans des conditions qu'on a fabriquées exprès. C'est la définition de l'expérience.</p>
+
+<p>Bacon n'a lui-même presque rien découvert et il s'est trompé sur à peu près toutes les sciences de son temps. Peu importe : il a formulé la méthode, et surtout l'idée que le savoir doit servir — « savoir, c'est pouvoir » — et qu'il se construit collectivement, par une communauté organisée qui met en commun ses résultats. Quarante ans plus tard, la Royal Society se réclamera de lui.</p>
+
+<p>La même année, un navire de cent deux passagers, dont une quarantaine de dissidents religieux anglais, touche le cap Cod : le <em>Mayflower</em>. Avant de débarquer, ils signent entre eux un pacte par lequel ils s'engagent à obéir aux lois qu'ils se donneront eux-mêmes. Le geste est modeste et pratique — l'expédition n'est pas là où sa charte l'autorisait — mais l'Amérique du Nord en fera l'un de ses textes fondateurs.</p>
+
+# 1628 ans
+
+<p>Un médecin anglais publie à Francfort un petit livre de soixante-douze pages, mal imprimé sur mauvais papier : <em>De motu cordis</em>. William Harvey y démontre que le sang circule en boucle fermée dans le corps, propulsé par le cœur.</p>
+
+<p>Ce qu'il renverse tient depuis mille cinq cents ans. Pour Galien, le foie fabriquait continuellement du sang à partir des aliments, les organes le consommaient comme un carburant, et le cœur n'était pas une pompe mais un lieu de réchauffement. Harvey le réfute par un argument que la médecine n'avait jamais employé : de l'arithmétique.</p>
+
+<p>Il mesure ce que contient le ventricule gauche, multiplie par le nombre de battements en une demi-heure, et obtient une quantité de sang supérieure au poids du corps entier. Le foie ne peut pas fabriquer cela ; les organes ne peuvent pas le consommer. Il n'y a qu'une issue : c'est le même sang qui repasse. Le raisonnement ne dépend d'aucun instrument nouveau — il tient tout entier à l'idée qu'on peut compter, et qu'un chiffre suffit à démolir une doctrine.</p>
+
+<p>Une pièce manque à la démonstration, et Harvey le sait : on ne voit pas par où le sang passe des artères aux veines. Il postule des liaisons trop fines pour l'œil. Elles seront observées trente-trois ans plus tard, au microscope, quatre ans après sa mort.</p>
 
 # 1633 ans
 
-<p>Procès de Galileo Galilei devant l'Inquisition pour avoir défendu le modèle héliocentrique de Copernic.</p>
+<p>Galilée comparaît devant l'Inquisition à Rome. Il a soixante-neuf ans.</p>
+
+<p>Le procès n'est pas la rencontre frontale de la science et de la foi qu'on en a faite. L'Église connaissait Copernic depuis quatre-vingt-dix ans sans s'en émouvoir ; plusieurs cardinaux étaient les amis de Galilée, et le pape Urbain VIII l'avait protégé. Ce qui a changé, c'est qu'après la Réforme Rome ne tolère plus qu'un laïc décide tout seul de la manière dont il faut lire l'Écriture — et Galilée, qui n'a jamais su se taire, avait écrit précisément cela.</p>
+
+<p>La faute immédiate est plus bête encore : dans son <em>Dialogue</em>, il a mis les arguments du pape dans la bouche d'un personnage nommé Simplicio, le sot de service. Urbain VIII ne le lui pardonnera pas.</p>
+
+<p>Galilée abjure et finit ses jours en résidence surveillée. La phrase qu'on lui prête — « et pourtant elle tourne » — a été inventée un siècle plus tard. Mais il écrira dans sa maison d'arrêt, devenu aveugle, son livre le plus important, celui qui fonde la mécanique et sur lequel Newton bâtira.</p>
+
+<p>Un effet secondaire, en revanche, est bien réel : le centre de gravité de la science européenne quitte l'Italie pour le nord protestant — les Provinces-Unies, l'Angleterre, plus tard l'Allemagne. Rome a gagné le procès et perdu trois siècles.</p>
 
 # 1637 ans
 
-<p>Au Nord d'Amsterdam, la demande pour des tulipes augmente rapidement, entraînant une hausse des prix qui atteint des niveaux exorbitants. Cependant, cette hausse des prix est principalement due à la spéculation et à l'excitation autour de ces tulipes, et non à une valeur réelle. En effet, il n'y a pas de réelle utilisation pratique pour ces tulipes, qui ne sont cultivées que pour leur beauté ornementale. C'est peut-être la première bulle spéculative de l'histoire.</p>
+<p>À Haarlem, le 3 février, une vente de bulbes de tulipes ne trouve pas preneur. En quelques jours, les prix s'effondrent d'un bout à l'autre des Provinces-Unies.</p>
+
+<p>Ce qui s'est passé pendant les mois précédents tient de la fable économique parfaite. La tulipe, importée de l'Empire ottoman, est devenue un objet de prestige ; certaines variétés panachées — dont on ignore que la panachure est causée par un virus — atteignent des prix absurdes. Surtout, on ne vend plus des fleurs mais des promesses : les bulbes sont en terre de l'automne au printemps, et l'on échange pendant l'hiver des contrats sur des bulbes que personne ne voit ni ne livre. Les mêmes lots changent de main dix fois avant la floraison.</p>
+
+<p>On raconte volontiers qu'un bulbe valait une maison sur un canal d'Amsterdam et que le krach ruina le pays. Les deux sont exagérés : le marché ne concernait qu'un milieu restreint, et l'économie néerlandaise n'en fut pas ébranlée. Ce qui est vrai, et neuf, c'est le mécanisme — un actif sans usage, un marché de contrats déconnecté de la chose, des acheteurs qui n'achètent que parce que ça monte. Toutes les bulles ultérieures en seront la répétition.</p>
+
+<p>La même année paraît à Leyde, en français et sans nom d'auteur, un petit livre destiné à servir de préface à trois traités scientifiques : le <em>Discours de la méthode</em>. René Descartes y raconte comment il a entrepris de douter de tout ce qu'il croyait savoir, jusqu'à buter sur la seule chose dont il ne pouvait douter — le fait même qu'il doutait, donc qu'il pensait, donc qu'il était.</p>
+
+<p>Le choix du français plutôt que du latin est une décision politique : Descartes veut être lu par ceux qui n'ont pas fait d'études, « même par les femmes », écrit-il. La philosophie sort de l'université. Et il publie aux Provinces-Unies, où il vit depuis vingt ans — comme Galilée y publiera, comme Spinoza y écrira. Dans une Europe qui brûle, un petit pays de marchands tolérants est devenu l'imprimerie de la pensée européenne.</p>
+
+# 1639 ans
+
+<p>Le shogunat expulse les derniers Portugais et ferme le Japon. Aucun étranger ne peut entrer, aucun Japonais ne peut sortir sous peine de mort, aucun grand navire de haute mer ne peut plus être construit. Le christianisme, implanté depuis un siècle et fort de centaines de milliers de fidèles, est éradiqué par la persécution après la révolte de Shimabara.</p>
+
+<p>Une seule fenêtre reste ouverte : les Néerlandais, qui ont accepté de renoncer à toute prédication, sont confinés dans un comptoir minuscule bâti sur une île artificielle dans la baie de Nagasaki, Dejima — deux cents mètres de long, quelques dizaines d'hommes, une visite annuelle à Edo. Par cette meurtrière passeront, deux siècles durant, toute la médecine, l'astronomie et la physique européennes que le Japon voudra bien recevoir.</p>
+
+<p>Rappelez-vous les arquebuses de Tanegashima. Le Japon qui possédait sans doute le plus grand parc d'armes à feu du monde vient de choisir de ne plus s'en servir, et la production s'étiole d'elle-même dans un pays sans guerre ni ennemi extérieur. C'est peut-être le seul exemple, dans toute l'histoire, d'une société technologiquement avancée qui renonce délibérément à une arme qu'elle maîtrise — et qui y parvient, parce qu'elle est une île et qu'elle a un gouvernement assez fort pour le vouloir.</p>
+
+<p>Le contraste avec l'Europe est total, et les deux choix se paieront. Le Japon s'offre deux siècles de paix et se réveillera en 1853 avec deux siècles de retard militaire. L'Europe ne s'offre aucune paix et en sortira armée pour conquérir le monde.</p>
+
+# 1644 ans
+
+<p>Une armée de paysans révoltés entre dans Pékin. Le dernier empereur Ming, abandonné de tous, se pend à un arbre de la colline derrière son palais après avoir tué les femmes de sa famille. La dynastie qui gouvernait la Chine depuis 1368 s'achève là.</p>
+
+<p>Les causes se sont accumulées pendant un demi-siècle. Le refroidissement du climat a ruiné les récoltes du nord ; les épidémies ont vidé des provinces entières ; l'impôt, exigé en argent, est devenu écrasant quand les arrivées de métal américain et japonais se sont raréfiées — la même monnaie mondiale qui avait enrichi l'empire l'étrangle en se retirant. Les soldats ne sont plus payés, les greniers sont vides, et les révoltes se multiplient.</p>
+
+<p>Ce qui suit relève de l'ironie tragique. Un général Ming chargé de tenir la Grande Muraille contre les Mandchous décide qu'il préfère les Mandchous aux rebelles, et leur ouvre la porte pour reprendre la capitale. Ils la reprennent — et ne repartent pas. La dynastie Qing s'installe pour deux cent soixante-sept ans, et impose à tous les hommes chinois la coiffure mandchoue, la natte, sous peine de décapitation : « garde tes cheveux, perds ta tête ».</p>
+
+<p>Voilà donc le siècle. En Chine, un empire de cent cinquante millions d'habitants s'effondre sous le froid, la peste et une crise monétaire. En Allemagne, un habitant sur trois meurt dans une guerre de trente ans. Les deux catastrophes n'ont aucun lien de cause à effet — mais elles partagent un climat, et pour partie une monnaie. Le monde est devenu assez connecté pour souffrir ensemble, et bien trop peu pour le savoir.</p>
+
+# 1648 ans
+
+<p>Après cinq ans de négociations menées dans deux villes de Westphalie — les catholiques dans l'une, les protestants dans l'autre, les diplomates faisant la navette pour ne pas avoir à se rencontrer —, on signe la paix. La guerre de Trente Ans est finie, et avec elle un siècle et demi de guerres de religion européennes.</p>
+
+<p>Le compromis est d'un cynisme reposant : chaque prince choisit la confession de son territoire, les sujets qui n'en veulent pas ont le droit d'émigrer, et l'on cesse de se battre pour savoir qui a raison. Personne n'a gagné la question théologique ; on convient simplement de ne plus la poser par les armes.</p>
+
+<p>Ce qui se met en place là est le système dans lequel nous vivons encore. Des États territoriaux souverains, égaux en droit quelle que soit leur taille, sans autorité supérieure — ni l'empereur, ni le pape — et qui règlent leurs différends par la négociation entre puissances. La diplomatie permanente, les ambassades résidentes, l'équilibre des forces comme principe : tout cela date d'ici.</p>
+
+<p>Il faut mesurer ce que ce siècle et demi a coûté pour y arriver. L'Europe est sortie de l'idée qu'une société doit partager une seule foi, et elle en est sortie par épuisement, après la Saint-Barthélemy, les bûchers, l'Allemagne dévastée et des millions de morts. Akbar avait eu l'intuition soixante-dix ans plus tôt et l'avait mise en œuvre sans qu'une goutte de sang coule ; sa doctrine n'a pas survécu à son petit-fils. L'Europe, elle, a payé le prix fort — et c'est peut-être pour cela que sa solution a tenu.</p>
+
+# 1649 ans
+
+<p>Le 30 janvier, devant sa propre salle de banquet à Whitehall, on décapite le roi d'Angleterre. Charles Iᵉʳ meurt en public, après un procès public, condamné par un tribunal qui s'est arrogé le droit de juger un souverain.</p>
+
+<p>Ce n'est pas un assassinat de palais — l'histoire en est pleine. C'est une exécution judiciaire, précédée d'un acte d'accusation, et le roi refuse jusqu'au bout de reconnaître la compétence du tribunal : par quelle autorité, demande-t-il, un sujet juge-t-il son roi ? Personne ne peut lui répondre, parce que la réponse n'existe pas encore.</p>
+
+<p>Elle est pourtant en train de s'inventer. Depuis sept ans, l'Angleterre est en guerre civile sur une question simple : le roi peut-il lever l'impôt sans le Parlement ? Charles disait tenir sa couronne de Dieu seul et n'avoir de comptes à rendre à personne. Le Parlement a répondu par les armes, et il a gagné.</p>
+
+<p>L'onde de choc traverse l'Europe. Toutes les monarchies du continent sont fondées sur l'idée que la personne du roi est sacrée et inviolable ; on vient de démontrer publiquement qu'elle ne l'est pas. La république anglaise durera onze ans, la monarchie reviendra en 1660 — mais aucun roi anglais ne réessaiera jamais de gouverner sans le Parlement, et cent quarante-quatre ans plus tard, la Convention française lira les minutes de ce procès avant de juger Louis XVI.</p>
+
+# 1660 ans
+
+<p>Douze gentilshommes réunis à Londres après une conférence d'astronomie décident de fonder un collège pour la promotion du savoir expérimental. Ce sera la Royal Society, et elle se donne une devise qui vaut programme : <em>nullius in verba</em> — « sur la parole de personne ».</p>
+
+<p>Tout est là. On ne croira plus une chose parce qu'Aristote l'a écrite, ni parce qu'un homme respectable l'affirme, mais parce qu'une expérience l'a montrée devant témoins et que d'autres peuvent la refaire. C'est exactement ce que Bacon réclamait quarante ans plus tôt, et cette fois c'est institutionnalisé : des séances régulières, des démonstrations publiques, des registres.</p>
+
+<p>Cinq ans plus tard paraît un objet entièrement neuf, les <em>Philosophical Transactions</em> : la première revue scientifique périodique. Elle invente au passage des règles que nous suivons encore — la publication datée qui établit l'antériorité d'une découverte, et la relecture d'un texte par d'autres savants avant impression.</p>
+
+<p>Le savoir cesse d'être un trésor qu'on garde. Léonard remplissait des carnets que personne n'a lus ; désormais, ne pas publier c'est ne pas exister. C'est peut-être le changement le plus important de toute la révolution scientifique, et ce n'est pas une découverte : c'est une procédure.</p>
+
+<p>La même année, la monarchie revient en Angleterre. Charles II, fils du décapité, remonte sur le trône — et devient l'un des premiers protecteurs de la Société.</p>
+
+# 1661 ans
+
+<p>Deux enfants-rois entrent en scène la même année, aux deux bouts du continent eurasiatique, et régneront chacun plus d'un demi-siècle. Ce sont les deux plus longs règnes de souverains majeurs de toute l'histoire, et ils sont exactement contemporains.</p>
+
+<p>À Paris, Mazarin meurt. Louis XIV a vingt-deux ans ; il annonce à ses ministres stupéfaits qu'il gouvernera seul et qu'il n'y aura plus de premier ministre. Il tiendra parole cinquante-quatre ans. Sa méthode : désarmer politiquement la noblesse en la domestiquant, confier l'administration à des bourgeois qui ne doivent leur position qu'à lui, et faire de sa cour un théâtre permanent où l'on se ruine à obtenir le droit de lui tendre sa chemise.</p>
+
+<p>À Pékin, un garçon de sept ans monte sur le trône des Qing : Kangxi. Il régnera soixante et un ans, écrasera les révoltes des feudataires du Sud, annexera Taïwan, repoussera les Russes en Sibérie et signera avec eux le premier traité que la Chine ait jamais conclu d'égal à égal avec une puissance européenne. Il double le territoire de l'empire.</p>
+
+<p>Le contraste dit tout de deux conceptions du pouvoir. Louis XIV se fait peindre en Apollon et bâtit Versailles pour qu'on le regarde. Kangxi, lui, se lève avant l'aube pour lire des rapports, apprend les mathématiques et l'astronomie avec des jésuites, publie un dictionnaire de quarante-sept mille caractères et voyage sans cesse pour inspecter les digues du fleuve Jaune. L'un se donne en spectacle, l'autre travaille — et gouverne quatre fois plus de sujets.</p>
+
+# 1662 ans
+
+<p>À Londres, une douzaine d'hommes qui se réunissaient depuis vingt ans pour faire des expériences obtiennent une charte royale. La Royal Society est née, et elle se donne une devise qui est une déclaration de guerre : <em>Nullius in verba</em> — sur la parole de personne.</p>
+
+<p>C'est la réponse institutionnelle au problème qu'on a rencontré chez Léonard. Un homme seul, si génial soit-il, remplit des carnets qui se perdent. Ce qui manquait n'était pas l'intelligence, c'était le dispositif : un lieu où l'on refait devant témoins l'expérience d'un autre, une revue où l'on publie ce qu'on a trouvé et comment on l'a trouvé, une correspondance qui met en relation un Italien et un Hollandais qui ne se verront jamais.</p>
+
+<p>Les <em>Philosophical Transactions</em> paraissent trois ans plus tard : première revue scientifique du monde, elle invente à peu près tout ce qui fait encore la science aujourd'hui — la date de réception qui établit l'antériorité, la description assez précise pour qu'un autre puisse recommencer, la lecture par des pairs avant publication.</p>
+
+<p>Le changement d'échelle est difficile à surestimer. Jusque-là, une découverte appartenait à celui qui l'avait faite : il la gardait, la chiffrait, l'emportait dans la tombe. Léonard écrivait à l'envers ; Tartaglia cachait sa méthode de résolution des équations ; Galilée annonçait ses découvertes sous forme d'anagrammes, pour s'assurer la priorité sans rien dévoiler. Désormais on publie, parce que la reconnaissance rapporte plus que le secret. Le savoir cesse d'être un patrimoine et devient un flux.</p>
+
+# 1666 ans
+
+<p>Dans la nuit du 2 septembre, un feu part d'une boulangerie de Pudding Lane. Londres est une ville de bois et de poix, l'été a été sec, le vent souffle d'est : en quatre jours, le feu détruit les cinq sixièmes de la cité intra-muros — treize mille maisons, quatre-vingt-sept églises, la vieille cathédrale Saint-Paul. Une poignée de morts recensés, et peut-être cent mille sans-abri.</p>
+
+<p>La ville qui brûle sortait à peine de la grande peste de l'année précédente, qui avait emporté près d'un Londonien sur cinq. L'incendie, en détruisant les taudis et leurs rats, aura d'ailleurs mis fin à l'épidémie — la dernière que l'Angleterre connaîtra.</p>
+
+<p>On reconstruit en brique et en pierre, avec des rues plus larges, sous la direction d'un astronome reconverti dans l'architecture, Christopher Wren, qui donnera à la ville cinquante et une églises et une nouvelle cathédrale. Et parce qu'une ville entière vient de partir en fumée, un homme d'affaires ouvre quelques années plus tard un bureau où l'on peut assurer sa maison contre le feu : l'assurance moderne naît de ce sinistre, et se perfectionnera dans un café du port fréquenté par les armateurs, chez un certain Edward Lloyd.</p>
+
+<p>Pendant ce temps, un étudiant de vingt-trois ans renvoyé de Cambridge par la peste passe deux années à la campagne, chez sa mère, à Woolsthorpe. Il y invente le calcul différentiel, décompose la lumière blanche au prisme et commence à se demander si la force qui fait tomber une pomme pourrait être celle qui retient la Lune. Isaac Newton appellera plus tard cette parenthèse ses années miraculeuses. Il ne publiera rien avant vingt ans.</p>
+
+# 1674 ans
+
+<p>À Delft, un drapier sans latin ni université, qui polit ses lentilles lui-même pour compter les fils des étoffes, regarde une goutte d'eau prise dans un lac voisin. Elle grouille. Antoni van Leeuwenhoek y voit des créatures qui nagent, tournent et se poursuivent — ses « animalcules ». Il en estime la taille : mille fois plus petites qu'un œil de pou.</p>
+
+<p>Ses lentilles minuscules, à peine plus grandes qu'une tête d'épingle, grossissent jusqu'à deux cent soixante-dix fois — dix fois mieux que les meilleurs microscopes composés de son temps. Il ne dira jamais comment il les fabrique, et personne ne retrouvera son procédé avant le XIXᵉ siècle. Il examinera ensuite tout ce qui lui tombe sous la main : le tartre de ses propres dents, où il découvre les bactéries ; le sang, où il voit les globules rouges ; son sperme, où il trouve les spermatozoïdes — découverte qu'il rapporte à la Royal Society en s'excusant longuement.</p>
+
+<p>Le siècle aura donc doublé le monde visible deux fois, et dans les deux directions. La lunette de Galilée a montré qu'il existait des astres que personne n'avait vus ; les lentilles de Delft montrent qu'une goutte d'eau contient une population. Entre les deux, l'échelle humaine cesse d'être la mesure de quoi que ce soit. Et il faudra deux siècles encore pour comprendre que ces animalcules-là ont tué plus d'hommes que toutes les guerres.</p>
 
 # 1675 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ilWgr42sdjE" data-id="ilWgr42sdjE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ilWgr42sdjE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Baruch Spinoza écrit son œuvre "Éthique". Bien qu'il l'achève en 1675, l'ouvrage ne sera publié qu'après sa mort en 1677, du fait de ses idées considérées comme controversées. Spinoza avance l'idée que Dieu et la Nature (ou l'univers) sont la même chose, ce qui s'oppose à la conception traditionnelle d'un Dieu transcendant. Cette idée est souvent qualifiée de panthéiste.</p>
+
+# 1682 ans
+
+<p>Louis XIV installe définitivement la cour et le gouvernement à Versailles. Ce n'est pas un caprice de bâtisseur : c'est un dispositif politique, et il faut le lire comme tel.</p>
+
+<p>Le roi a douze ans quand la Fronde le chasse de Paris ; il n'oubliera jamais l'humiliation d'un souverain que sa capitale et ses grands seigneurs peuvent mettre dehors. Versailles est la réponse. En attirant la haute noblesse dans un palais où tout tourne autour de la personne royale, il la coupe de ses terres, de ses réseaux provinciaux et de ses moyens de nuire. Un duc qui passe ses journées à guetter une place dans le cortège du roi ne lève pas d'armée dans sa province.</p>
+
+<p>Le mécanisme est d'une élégance redoutable : on n'interdit rien, on rend simplement l'absence coûteuse. Ne pas être à Versailles, c'est ne pas être vu, donc ne rien obtenir. Et le prix du séjour — l'habit, l'équipage, le jeu — ruine lentement ceux qui s'y astreignent, qui deviennent d'autant plus dépendants des pensions royales.</p>
+
+<p>Toute l'Europe copiera le palais et sa cour, de Vienne à Saint-Pétersbourg. Presque aucun de ces imitateurs ne comprendra qu'il copiait une cage.</p>
+
+# 1683 ans
+
+<p>Le 12 septembre, sur les hauteurs du Kahlenberg qui dominent Vienne, la plus grande charge de cavalerie de l'histoire dévale la pente : environ dix-huit mille cavaliers, hussards ailés polonais en tête, conduits par le roi Jean III Sobieski. En contrebas, l'armée ottomane assiège la ville depuis deux mois et ses sapeurs sont sur le point d'ouvrir la brèche décisive.</p>
+
+<p>Le camp ottoman est enfoncé et le siège s'effondre en quelques heures. Le grand vizir Kara Mustafa sera étranglé sur ordre du sultan quelques mois plus tard, selon l'usage.</p>
+
+<p>C'est un point de bascule, et il est net. Depuis Mohács, cent cinquante-sept ans plus tôt, la frontière n'avait cessé d'avancer vers l'ouest. À partir de ce jour, elle recule — et elle reculera sans interruption pendant deux siècles et demi. Seize ans après Vienne, le traité de Karlowitz oblige pour la première fois l'Empire ottoman à céder des provinces par la négociation : jusque-là, il n'avait jamais signé qu'en position de vainqueur. La rupture est autant psychologique que territoriale.</p>
+
+<p>Reste une légende tenace, et elle boucle une histoire commencée bien plus tôt dans ce récit. Les Ottomans, en fuyant, auraient abandonné des sacs d'un grain brun dont les Viennois ne savaient que faire — d'où, dit-on, les cafés de Vienne. C'est une jolie histoire, forgée un siècle après les faits : on buvait déjà du café à Venise et à Marseille. Mais elle dit une chose exacte — parti du Yémen, passé par La Mecque et Constantinople, le café achève ici sa conquête de l'Europe.</p>
 
 # 1685 ans
 
@@ -4778,21 +5323,53 @@ tags: technology
 
 # 1687 ans
 
-<p>Isaac Newton publie les Principia Mathematica, un ouvrage dans lequel il présente les trois lois du mouvement et la loi de la gravitation universelle. Pour la première fois, un même ensemble de lois mathématiques permet d'expliquer et de prédire les mouvements des objets terrestres et des corps célestes. Cette publication constitue l'une des étapes majeures de la révolution scientifique moderne.</p>
+<p>Isaac Newton publie les <em>Principia</em>. Le livre répond à une question qu'Edmond Halley était venu lui poser trois ans plus tôt : quelle courbe décrit une planète attirée par une force qui décroît comme le carré de la distance ? Newton répond aussitôt qu'il s'agit d'une ellipse — il l'a calculé, dit-il, et égaré ses papiers. Halley le pousse à refaire la démonstration, puis paiera l'impression de sa poche.</p>
+
+<p>Ce qu'il produit dépasse de loin la commande. Trois lois du mouvement, une loi de la gravitation universelle, et la démonstration que les mêmes équations rendent compte de la chute d'une pierre, de la trajectoire d'un boulet, de l'orbite de la Lune, des marées et du retour des comètes. Les lois de Kepler, arrachées à soixante-dix tâtonnements sur les carnets de Tycho, s'en déduisent en quelques pages.</p>
+
+<p>Le mot qui compte est « universelle ». Depuis Aristote, le monde était coupé en deux : ici-bas le changement, la corruption, les corps qui tombent ; là-haut la perfection, les cercles, l'immuable. Deux physiques pour deux mondes. Newton n'en laisse qu'une. La pomme et la Lune tombent de la même façon et pour la même raison — la Lune tombe simplement assez vite de côté pour manquer la Terre indéfiniment.</p>
+
+<p>Il reste une gêne, et Newton l'assume. Sa force agit instantanément à travers le vide, sans contact ni mécanisme : il décrit comment elle se comporte et refuse de dire ce qu'elle est. « Je ne feins pas d'hypothèses », écrira-t-il dans une édition ultérieure. C'est là que la physique moderne se sépare pour de bon de la philosophie ancienne, qui voulait d'abord expliquer les causes. On renonce à savoir pourquoi, on se contente de prédire exactement — et cela marchera si bien que personne ne rouvrira sérieusement la question pendant deux cent vingt-huit ans, jusqu'à Einstein.</p>
+
+# 1688 ans
+
+<p>Le Parlement anglais, redoutant un roi catholique et son héritier nouveau-né, invite un prince étranger à venir prendre le trône. Guillaume d'Orange débarque avec une armée ; Jacques II, abandonné de tous, s'enfuit en France. Presque aucun sang versé, d'où le nom qui restera : la Glorieuse Révolution.</p>
+
+<p>Ce qui compte n'est pas le changement de roi, c'est le prix qu'on lui fait payer. Guillaume et Marie ne reçoivent la couronne qu'en acceptant une Déclaration des droits : le souverain ne peut plus suspendre les lois, ni lever d'impôt, ni entretenir d'armée en temps de paix sans le Parlement, qui doit être élu librement et se réunir régulièrement. La liberté de parole y est garantie aux députés.</p>
+
+<p>Quarante ans après avoir décapité un roi pour lui avoir posé la question, l'Angleterre vient d'y répondre par écrit : la couronne se tient sous la loi. C'est l'acte de naissance de la monarchie constitutionnelle, et le texte fera le tour du monde — les révolutionnaires américains s'en réclameront, et sa filiation est visible jusque dans le Bill of Rights de 1791.</p>
+
+<p>La conséquence la plus immédiate est financière, et c'est elle qui décidera du siècle suivant. Un roi qui ne peut plus répudier ses dettes unilatéralement devient un emprunteur fiable : les prêteurs acceptent des taux plus bas. En 1694, l'État crée la Banque d'Angleterre pour gérer sa dette, et découvre qu'il peut emprunter à volonté ce que la France, dont le roi ne rend de comptes à personne, ne trouvera jamais. Pendant un siècle, un royaume trois fois moins peuplé battra la France sur mer parce qu'il empruntait moins cher.</p>
 
 # 1689 ans
 
-<p>L'Angleterre commence des réformes économiques en</p>
+<p>Le nouveau régime réorganise ses finances de fond en comble : on allège les taxes qui pesaient sur les manufactures, on les remplace par un impôt foncier assis sur la terre — c'est-à-dire sur les propriétaires eux-mêmes, ceux-là mêmes qui siègent au Parlement et qui l'ont voté —, et l'on crée cinq ans plus tard la Banque d'Angleterre pour gérer la dette publique.</p>
 
-1 supprimant les lourdes taxes sur les manufactures<br/>
-2 instituant un impôt foncier de 20%<br/>
-3 créant, quelques années plus tard (1694), la Banque d'Angleterre afin de soutenir le développement des manufactures par des prêts<br/>
-
-<p>La croissance économique qui suit est énorme. Tandis que l'Europe continentale s'enfonce de plus en plus dans la récession, ces réformes économiques (la révolution financière britannique) favorisent l'avènement de la révolution industrielle.</p>
+<p>L'ensemble porte un nom : la révolution financière anglaise. Son effet est démultiplicateur. Un État qui emprunte à bas taux peut armer des flottes qu'aucun rival ne peut aligner, et un pays où le crédit est abondant et bon marché voit ses entrepreneurs financer des mines, des canaux et des machines. La révolution industrielle sortira de ce terreau-là, et il faut le souligner parce qu'on l'oublie souvent : elle commence par une réforme comptable.</p>
 
 # 1690 ans
 
 <p>A Saint Domingue, il y a 30 000 esclaves qui produisent 3000 tonnes de sucre.</p>
+
+# 1707 ans
+
+<p>Aurangzeb meurt à quatre-vingt-huit ans, après quarante-neuf ans de règne, dans un camp militaire du Deccan où il guerroyait depuis un quart de siècle. L'Empire moghol est à son extension maximale : il couvre presque tout le sous-continent, compte peut-être cent cinquante millions de sujets et produit, à lui seul, près du quart de la richesse mondiale.</p>
+
+<p>Il s'effondrera en cinquante ans. Aurangzeb a défait, une à une, les décisions d'Akbar : rétabli l'impôt sur les non-musulmans, écarté les hindous des charges, détruit des temples, exécuté le neuvième gourou des sikhs. Il a transformé des sujets loyaux en révoltés permanents — Marathes, Rajputs, Sikhs, Jats — et ruiné le trésor dans des guerres sans fin pour tenir un Sud qui ne se tenait pas.</p>
+
+<p>Le contraste avec son arrière-grand-père est l'une des grandes leçons politiques de ce récit. Akbar avait acheté la paix intérieure en renonçant à imposer sa foi ; Aurangzeb reprend ce qu'Akbar avait cédé, et perd l'empire. Ce que la Compagnie anglaise des Indes orientales trouvera bientôt en face d'elle, ce n'est pas une puissance : c'est un champ de ruines où l'on peut jouer les princes les uns contre les autres.</p>
+
+<p>La même année, à l'autre bout du monde, l'Angleterre et l'Écosse fusionnent leurs parlements : le Royaume-Uni de Grande-Bretagne est né. Deux empires suivent des trajectoires inverses — l'un se défait d'avoir voulu l'unité de foi, l'autre se fait en acceptant deux Églises et deux systèmes de droit.</p>
+
+# 1712 ans
+
+<p>Dans une mine de charbon du Staffordshire, un quincaillier baptiste nommé Thomas Newcomen installe une machine qui va changer la face du monde, et il n'en tirera presque rien.</p>
+
+<p>Le problème qu'il résout est banal et coûteux : les mines se noient. Plus on creuse profond, plus l'eau monte, et l'on épuise des attelages de chevaux à la remonter par seaux. La machine de Newcomen fait le travail toute seule : on injecte de la vapeur sous un piston, on pulvérise de l'eau froide dans le cylindre, la vapeur se condense brutalement, le vide se fait, et la pression atmosphérique écrase le piston vers le bas. Un balancier transmet le mouvement aux pompes. C'est lourd, lent, et d'un rendement dérisoire — moins d'un pour cent de l'énergie du charbon.</p>
+
+<p>Peu importe, et c'est tout l'intérêt : la machine est installée sur le carreau d'une mine, et le carreau d'une mine est l'endroit du monde où le charbon ne coûte rien. Une invention absurdement inefficace devient rentable parce qu'elle est placée exactement là où son défaut n'en est pas un.</p>
+
+<p>Des centaines de ces machines pomperont les mines d'Angleterre pendant soixante ans avant que Watt n'y touche. Et la boucle qu'elles amorcent est le vrai moteur de ce qui vient : la machine permet d'extraire plus de charbon, le charbon alimente plus de machines, qui permettent de creuser plus profond. Pour la première fois depuis le néolithique, une société cesse de dépendre du muscle, du vent et de l'eau courante.</p>
 
 # 1720 ans
 
@@ -4818,6 +5395,16 @@ tags: technology
 
 <p>Carl Linnaeus publie le Systema Naturae, ouvrage qui contribue à diffuser les classifications raciales utilisées par les Européens pour justifier l'esclavage des Africains et les hiérarchies raciales dans les colonies américaines.</p>
 
+# 1739 ans
+
+<p>Un aventurier persan, Nader Shah, franchit l'Indus, écrase l'armée moghole en trois heures à Karnal et entre dans Delhi. Une rumeur de sa mort déclenche une émeute où des soldats perses sont tués ; il ordonne le massacre de la ville. En une journée, des dizaines de milliers d'habitants sont égorgés.</p>
+
+<p>Il repart avec le trésor accumulé par huit générations de Grands Moghols : des pierres par charretées, le diamant Koh-i-Noor, et le trône du Paon — un siège incrusté d'émeraudes et de rubis évalué à plusieurs fois le budget annuel d'un royaume européen. Le butin est tel qu'il suspend l'impôt en Perse pendant trois ans.</p>
+
+<p>L'empire qui, trente ans plus tôt, produisait le quart de la richesse mondiale vient d'être vidé en quelques semaines par un chef de guerre venu du plateau iranien. Il ne s'en relèvera pas : les provinces cessent de verser le tribut, les gouverneurs deviennent indépendants, et l'autorité de Delhi ne dépasse bientôt plus ses faubourgs.</p>
+
+<p>Dix-huit ans plus tard, une compagnie commerciale anglaise n'aura besoin que de quelques milliers d'hommes pour s'emparer de la province la plus riche de l'Inde. Le sac de Delhi lui a préparé le terrain.</p>
+
 # 1744 ans
 
 <p>Mohammed ben Abdelwahhab s'allie avec Mohammed Ibn Saoud pour donner une légitimité religieuse à la famille Al Saoud sur les autres tribus arabes. Sa doctrine religieuse, appelée wahhabisme, met l'accent sur la pureté de l'islam et la nécessité de retourner aux pratiques et croyances originales de l'islam, telles qu'elles sont décrites dans le Coran et la tradition prophétique (sunna). Il prône également l'obéissance absolue aux commandements de Dieu et à la loi islamique (sharia), ainsi que l'importance de l'enseignement de l'islam et de la diffusion de la doctrine islamique à travers le monde.</p>
@@ -4834,7 +5421,11 @@ tags: technology
 
 # 1756 ans
 
-<p>Guerre de 7 ans qui oppose la France à l'Angleterre.</p>
+<p>Un conflit colonial commencé deux ans plus tôt dans la vallée de l'Ohio embrase l'Europe, puis le monde. On se bat en Amérique du Nord, aux Antilles, en Inde, aux Philippines, en Afrique de l'Ouest et sur toutes les mers : c'est à bien des égards la première guerre mondiale, et Churchill l'appellera ainsi.</p>
+
+<p>Les alliances viennent d'être retournées — la France s'allie à son ennemie héréditaire, l'Autriche ; l'Angleterre à la Prusse. Londres a compris ce que Versailles refuse d'admettre : on ne peut pas gagner à la fois sur le continent et sur les océans. Les Anglais financent donc Frédéric II pour qu'il occupe les armées françaises en Europe, et concentrent leur propre effort là où il décide de tout, la marine.</p>
+
+<p>Le résultat, en 1763, est un basculement. La France perd le Canada, la Louisiane et l'essentiel de ses comptoirs indiens ; l'Angleterre devient la première puissance coloniale du monde. Deux conséquences en découlent directement : pour payer cette guerre, Londres taxera ses colonies américaines, qui se révolteront ; et pour prendre sa revanche, la France financera cette révolte — jusqu'à la faillite qui la conduira à 1789. La guerre de Sept Ans fabrique les deux révolutions qui vont suivre.</p>
 
 # 1757 ans
 
@@ -4904,6 +5495,20 @@ tags: technology
 
 <p>William Symington fait naviguer sur le loch Dalswinton, en Écosse, un bateau à vapeur expérimental. Il construira quinze ans plus tard le « Charlotte Dundas », premier remorqueur à vapeur réellement opérationnel.</p>
 
+# 1789 ans
+
+<p>Le royaume est en faillite. Depuis le rapport de Calonne, trois ans plus tôt, aucune réforme n'est passée : la noblesse et le clergé refusent l'impôt, et le roi n'a plus les moyens de les y contraindre. Acculé, Louis XVI convoque les états généraux — l'assemblée des trois ordres du royaume, qui ne s'était plus réunie depuis 1614.</p>
+
+<p>Personne n'imagine ce qui va suivre. Les députés du tiers état — avocats, marchands, notables, qui représentent quatre-vingt-dix-huit pour cent de la population — découvrent qu'on veut les faire voter par ordre, ce qui leur donnerait une voix contre deux. Ils refusent, se proclament Assemblée nationale, et jurent le 20 juin, dans une salle de jeu de paume, de ne pas se séparer avant d'avoir donné une constitution à la France. En une phrase, la souveraineté vient de changer de mains : elle n'appartient plus au roi, elle appartient à la nation.</p>
+
+<p>Le 14 juillet, Paris prend la Bastille — une forteresse-prison qui ne détient plus que sept prisonniers, mais qui domine les faubourgs ouvriers et incarne l'arbitraire royal. L'événement est militairement dérisoire et politiquement immense : la capitale a désarmé le roi chez lui, et l'armée n'a pas tiré.</p>
+
+<p>L'été emballe tout. Dans les campagnes, la Grande Peur soulève les paysans contre les châteaux. Dans la nuit du 4 août, les députés abolissent d'un coup les privilèges, les droits féodaux, les dîmes, les corporations — mille ans d'organisation sociale effacés en quelques heures. Le 26 août, ils votent la Déclaration des droits de l'homme et du citoyen : les hommes naissent libres et égaux en droits, la loi est l'expression de la volonté générale, nul ne doit être inquiété pour ses opinions.</p>
+
+<p>Il faut mesurer ce qui vient d'être écrit. Depuis des millénaires, le pouvoir se justifiait par en haut : le pharaon fils de Rê, le roi de Juda adopté par Yahvé le jour de son couronnement, le souverain chinois mandaté par le Ciel, le roi de France sacré à Reims. Ces lignes-là inversent la source. Le pouvoir ne descend plus : il monte de ceux sur qui il s'exerce.</p>
+
+<p>Ce texte est la vraie charge explosive. Il ne réforme pas la France, il énonce des principes présentés comme valables partout et pour tout le monde — et c'est à ce titre qu'il voyagera. La Révolution donnera ensuite la Terreur, l'Empire, puis le retour des rois ; mais l'idée qu'un pouvoir doive se justifier devant ceux qu'il gouverne, elle, ne se refermera plus.</p>
+
 # 1790 ans
 
 <p>A Saint-Domingue 500 000 esclaves produisent 100 000 tonnes de sucre. Les esclaves sont principalement originaires d'Afrique subsaharienne et sont utilisés pour travailler dans les plantations de canne à sucre, de café, de coton et de tabac.</p>
@@ -4954,7 +5559,7 @@ tags: technology
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jY9ug_p-B8g" data-id="jY9ug_p-B8g" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/jY9ug_p-B8g/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>La Martinique redevient françaisee, année où Napoléon rétablit l'esclavage. Il le rétablit également dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.</p>
+<p>La Martinique redevient française, l'année où Napoléon rétablit l'esclavage. Il le rétablit également dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.</p>
 
 # 1807 ans
 
@@ -4976,7 +5581,11 @@ tags: technology
 
 # 1815 ans
 
-<p>Fin des guerres napoléoniennes.</p>
+<p>Échappé de l'île d'Elbe, Napoléon reprend le pouvoir sans tirer un coup de feu : les régiments envoyés pour l'arrêter passent dans son camp. Ce sont les Cent-Jours. L'Europe coalisée refuse de traiter et lève des armées.</p>
+
+<p>Le 18 juin, au sud de Bruxelles, près du village de Waterloo, il attaque l'armée anglo-néerlandaise de Wellington, retranchée sur une crête. Il compte l'écraser avant que les Prussiens de Blücher, battus deux jours plus tôt, ne la rejoignent. La pluie de la nuit a détrempé les champs et retarde la mise en batterie de son artillerie de quelques heures ; ces heures suffisent. En fin d'après-midi, les Prussiens débouchent sur son flanc droit, la Garde recule pour la première fois de son histoire, et l'armée française se disloque.</p>
+
+<p>Napoléon abdique quatre jours plus tard et finira ses jours sur un rocher de l'Atlantique sud, Sainte-Hélène. Vingt-trois ans de guerres presque continues s'achèvent. Le congrès de Vienne redessine l'Europe autour d'un équilibre entre grandes puissances qui, malgré les crises et les révolutions, lui évitera une guerre générale pendant près d'un siècle — jusqu'en 1914.</p>
 
 # 1820 ans
 
@@ -5028,7 +5637,7 @@ tags: technology
 
 # 1832 ans
 
-<p>Epidémie de choléra qui a tué 130 000 Français, dont près d'un quart à Paris.</p>
+<p>Épidémie de choléra : environ 100 000 morts en France, dont quelque 18 000 à 20 000 à Paris — la ville perd près de 3 % de sa population en quelques mois.</p>
 
 <p>Traité de Constantinople de 1832. L'Empire ottoman accepte l'existence d'un État grec indépendant.</p>
 
@@ -5068,7 +5677,11 @@ tags: technology
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ybUbu-7l0Fc" data-id="ybUbu-7l0Fc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ybUbu-7l0Fc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Cession de Hong-Kong. Hong-Kong passe au Royaume-Uni.</p>
+<p>Un détachement britannique débarque sur une île rocheuse et peu peuplée de l'estuaire de la rivière des Perles, et y plante son drapeau. La cession sera officialisée l'année suivante par le traité de Nankin, qui clôt la première guerre de l'opium : la Chine cède Hong Kong « à perpétuité », ouvre cinq ports au commerce étranger et paie une lourde indemnité.</p>
+
+<p>C'est le premier des « traités inégaux », et le mécanisme mérite d'être noté : une guerre menée pour imposer la vente d'une drogue se conclut par l'ouverture forcée d'un marché. Les Chinois en garderont le nom de « siècle d'humiliation », qui structure encore aujourd'hui le discours de Pékin sur l'Occident.</p>
+
+<p>Quant au rocher, les Britanniques le jugent sans valeur — leur ministre des Affaires étrangères parle d'une île stérile sur laquelle on ne bâtira jamais une maison. Elle sera rendue à la Chine en 1997, cent cinquante-six ans plus tard, comme l'une des premières places financières du monde.</p>
 
 # 1842 ans
 
@@ -5083,6 +5696,14 @@ tags: technology
 # 1845 ans
 
 <p>Les américains ont cette mission de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.</p>
+
+<p>Une maladie venue d'Amérique — un microorganisme, <em>Phytophthora infestans</em> — débarque dans les ports européens et attaque les pommes de terre. Les tubercules noircissent et pourrissent en terre en quelques jours. En Irlande, où trois millions de personnes ne mangent presque que cela, c'est la catastrophe.</p>
+
+<p>La vulnérabilité avait été fabriquée. La pomme de terre, venue des Andes trois siècles plus tôt, nourrit plus de monde à l'hectare que n'importe quelle céréale : elle a permis à la population irlandaise de doubler en un siècle. Mais on n'en cultive qu'une poignée de variétés, presque toutes issues des mêmes plants, donc sensibles aux mêmes maladies. Un champ entier partage le même point faible.</p>
+
+<p>Le plus révoltant est ailleurs. Pendant les années de famine, l'Irlande continue d'exporter du blé, de l'orge et du bétail vers l'Angleterre — sous escorte armée par endroits, pour protéger les convois de ceux qui mouraient de faim en les regardant passer. Il y avait de la nourriture ; elle appartenait à d'autres. Londres s'en remet au marché, juge les secours démoralisants, et n'intervient qu'à contrecœur.</p>
+
+<p>Un million de morts, un million de départs. L'Irlande comptait huit millions et demi d'habitants ; elle n'en a jamais retrouvé autant depuis, et c'est aujourd'hui encore le seul pays d'Europe moins peuplé qu'au XIXᵉ siècle. C'est de là que viennent les Irlandais de Boston, de New York et de Chicago — et une rancune envers Londres qui pèsera sur tout le siècle suivant.</p>
 
 # 1847 ans
 
@@ -5140,6 +5761,12 @@ tags: technology
 # 1859 ans
 
 <p>Edwin Drake réalise le premier forage pétrolier commercial moderne à Titusville, en Pennsylvanie.</p>
+
+<p>Le 24 novembre paraît à Londres un livre tiré à 1 250 exemplaires, épuisés auprès des libraires le jour même : <em>De l'origine des espèces</em>. Charles Darwin y expose une idée d'une simplicité désarmante. Les individus d'une même espèce ne sont jamais identiques ; il naît toujours plus de descendants que le milieu ne peut en nourrir ; ceux dont les variations donnent le moindre avantage survivent un peu mieux et se reproduisent un peu plus. Répétez sur des millions d'années : vous obtenez des espèces nouvelles. C'est la sélection naturelle — un mécanisme sans intention, sans plan et sans but.</p>
+
+<p>Darwin tenait sa théorie depuis vingt ans et ne publiait pas, mesurant ce qu'elle allait déclencher. Ce qui le décide, c'est une lettre : un jeune naturaliste fiévreux dans l'archipel malais, Alfred Russel Wallace, vient d'aboutir seul à la même conclusion et la lui envoie pour avis. Les deux hommes présentent leurs travaux ensemble devant la Société linnéenne en 1858 ; Darwin écrit son livre dans l'année qui suit.</p>
+
+<p>Le scandale ne vient pas de l'évolution — l'idée circulait déjà — mais de son moteur. Retirer l'intention du vivant, c'est retirer le dessein de la nature. Et une phrase glissée dans les dernières pages indique où cela mène : « une lumière sera jetée sur l'origine de l'homme et son histoire. » Tout ce que cette chronologie raconte depuis les premières cellules — les éponges, les trilobites, les poissons à nageoires charnues, les australopithèques — ne tient que par ce mécanisme-là. Il aura fallu attendre 1859 pour le nommer.</p>
 
 # 1860 ans
 
@@ -5225,7 +5852,7 @@ tags: technology
 
 # 1880 ans
 
-<p>Introduction de la bicyclette de sécurité, qui est plus stable et plus facile à utiliser que les modèles précédents.</p>
+<p>C'est l'âge du grand-bi : une roue avant démesurée, pour qu'un tour de pédale fasse le plus de chemin possible, et un cycliste juché à un mètre cinquante du sol. L'engin est rapide, coûteux et franchement dangereux — la moindre pierre projette son cavalier tête la première. Il ne se démocratisera jamais.</p>
 
 # 1882 ans
 
@@ -5262,6 +5889,14 @@ tags: technology
 # 1885 ans
 
 <p>Lors de la Conférence de Berlin, les puissances européennes reconnaissent l'État indépendant du Congo comme propriété personnelle du roi Léopold II. Cette période est marquée par l'exploitation intensive du caoutchouc et de l'ivoire ainsi que par de nombreuses violences contre les populations locales.</p>
+
+<p>Le 6 juillet, un enfant alsacien de neuf ans, Joseph Meister, mordu quatorze fois par un chien enragé, est amené dans le laboratoire de Louis Pasteur. La rage est alors une condamnation à mort sans exception : une fois les symptômes déclarés, on meurt en quelques jours, étouffé et convulsé. Pasteur a mis au point sur le chien un vaccin obtenu à partir de moelles de lapins infectés puis desséchées, qui atténuent le virus. Il ne l'a jamais essayé sur un humain, et il n'est pas médecin — l'inoculer l'expose au procès. Il inocule.</p>
+
+<p>L'enfant survit. En un an, plus de deux mille personnes viendront de toute l'Europe se faire traiter à Paris, et une souscription internationale financera l'Institut Pasteur.</p>
+
+<p>Ce succès couronne une idée que Pasteur défend depuis vingt ans contre l'essentiel du corps médical : les maladies infectieuses sont causées par des micro-organismes vivants, qui ne naissent pas spontanément dans les corps malades mais y arrivent du dehors. La conséquence pratique est immédiate, et elle sauvera plus de vies qu'aucun médicament : si le mal se transmet par des germes, il suffit de les tuer — on stérilise les instruments, on se lave les mains, on chauffe les aliments. Jenner avait trouvé un vaccin sans savoir contre quoi ; Pasteur donne enfin un nom à l'ennemi.</p>
+
+<p>John Kemp Starley présente le Rover Safety Bicycle : deux roues de taille égale, une transmission par chaîne sur la roue arrière, une selle basse. C'est la bicyclette de sécurité — la forme, pour l'essentiel définitive, du vélo que nous connaissons encore. Le grand-bi disparaît en quelques années.</p>
 
 <p>L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps de sa propre conception — Gottlieb Daimler travaille au même moment sur le sien, à quelques dizaines de kilomètres de là, sans que les deux hommes se soient jamais rencontrés.</p>
 
@@ -5379,6 +6014,10 @@ tags: technology
 
 <p>Un financier nommé Charles Ranlett Flint orchestre la fusion de la Tabulating Machine Company de Hollerith avec trois autres sociétés (qui fabriquaient des balances commerciales, des horloges pointeuses et d'autres équipements de bureau). De cette fusion naît la Computing-Tabulating-Recording Company, ou CTR.</p>
 
+<p>En Chine, la même année, deux mille ans d'empire prennent fin. Une explosion accidentelle dans un atelier de bombes clandestin, à Wuchang, précipite une mutinerie qui devait rester secrète ; province après province, les gouverneurs font sécession. Il n'y a ni grande bataille ni prise de palais : le régime se dissout parce que plus personne ne veut le tenir.</p>
+
+<p>Ce qui s'effondre n'est pas seulement une dynastie mandchoue, c'est l'institution impériale elle-même — le fils du Ciel, les rites, le mandat, tout ce que les Zhou avaient mis en place trois mille ans plus tôt. L'empereur a six ans ; il abdiquera au début de l'année suivante. La république qui lui succède sera aussitôt confisquée par les militaires, et la Chine entre dans quarante ans de seigneurs de la guerre, d'invasion japonaise et de guerre civile. On ne remplace pas en une saison un principe de légitimité vieux de trois millénaires.</p>
+
 # 1912 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=R3XcpqJ8Dbw" data-id="R3XcpqJ8Dbw" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/R3XcpqJ8Dbw/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
@@ -5443,7 +6082,13 @@ tags: technology
 
 # 1919 ans
 
-<p>Premier avion commercial relativement fiable. C'est un avion entièrement construit en métal.</p>
+<p>Le 28 juin, dans la galerie des Glaces de Versailles — là même où l'Empire allemand avait été proclamé en 1871 —, l'Allemagne signe un traité qu'elle n'a pas négocié. Elle perd environ un septième de son territoire et la totalité de ses colonies, voit son armée ramenée à cent mille hommes, et se voit imputer par l'article 231 la responsabilité de la guerre, qui sert de fondement juridique à des réparations colossales.</p>
+
+<p>Le traité crée aussi la Société des Nations, première organisation destinée à régler les conflits par la discussion plutôt que par les armes. Le Sénat américain refusera d'y faire entrer les États-Unis, privant l'institution de la seule puissance capable de la faire respecter.</p>
+
+<p>Presque tout le monde juge ce texte mauvais, et pour des raisons opposées : trop dur pour être accepté, trop doux pour empêcher l'Allemagne de se relever. Un jeune économiste britannique présent aux négociations, John Maynard Keynes, claque la porte et publie un pamphlet où il prédit que les réparations ruineront l'Europe entière et nourriront la revanche. Vingt ans plus tard, presque jour pour jour, la guerre recommencera.</p>
+
+<p>La même année, l'aviation civile fait ses débuts : le premier avion commercial vraiment fiable, entièrement construit en métal, entre en service.</p>
 
 # 1920 ans
 
@@ -5509,7 +6154,11 @@ tags: technology
 
 # 1932 ans
 
-<p>Le parti Nazi atteint 37,3 %, premier parti d'Allemagne.</p>
+<p>Aux élections de juillet, le parti nazi obtient 37,3 % des voix et devient le premier parti du Reichstag. Il n'a pas la majorité, et il ne l'obtiendra jamais dans une élection libre — son score reculera même au scrutin de novembre.</p>
+
+<p>Ce qui l'amène au pouvoir n'est donc pas un raz-de-marée électoral, mais un calcul. La République de Weimar gouverne depuis deux ans par décrets présidentiels, faute de majorité parlementaire ; la crise a jeté six millions d'Allemands au chômage ; et les conservateurs qui entourent le président Hindenburg croient pouvoir se servir de Hitler comme d'un tribun populaire qu'ils tiendront en lisière. « Nous l'avons engagé », dira l'un d'eux. Il sera nommé chancelier en janvier 1933, et il lui faudra moins de deux mois pour faire voter au Parlement sa propre mise à l'écart.</p>
+
+<p>Le mécanisme mérite d'être noté, parce qu'il ne suppose aucun coup d'État : une démocratie qui a cessé de fonctionner comme telle, une crise économique brutale, et des élites persuadées de pouvoir maîtriser ce qu'elles installent.</p>
 
 # 1933 ans
 
@@ -5597,6 +6246,14 @@ tags: technology
 
 <p>La conférence de Wannsee, près de Berlin, officialise la « solution finale ». On y planifie la déportation de tous les juifs d’Europe vers des centres d’extermination.</p>
 
+<p>Au milieu de la guerre, alors que Londres sort à peine du Blitz, un rapport administratif britannique se vend à plus de six cent mille exemplaires. Les soldats le lisent au front, on en discute dans les files d'attente. C'est un document technique sur l'assurance sociale, et c'est le succès de librairie de l'année.</p>
+
+<p>Son auteur, William Beveridge, désigne cinq géants à abattre : le Besoin, la Maladie, l'Ignorance, l'Insalubrité et l'Oisiveté. Sa proposition est d'une simplicité radicale — un système unique, obligatoire et universel, couvrant chacun de la naissance à la mort, financé par les cotisations de tous. Non plus une charité pour les pauvres, mais un droit pour tout le monde.</p>
+
+<p>Le moment explique le succès. On demande à des populations entières de mourir pour un pays ; elles répondent en demandant à quoi ressemblera ce pays après. Et il devient difficile d'expliquer qu'il n'y a pas d'argent pour soigner les gens quand on en trouve chaque jour pour construire des bombardiers.</p>
+
+<p>L'idée traverse la Manche. En France, les ordonnances de 1945 créeront la Sécurité sociale ; au Royaume-Uni, le National Health Service ouvrira en 1948, gratuit au point d'usage. Pendant trente ans, l'Occident bâtira ce qu'on appellera l'État-providence : un pari sur la mutualisation du risque à l'échelle d'une nation entière — et l'une des rares constructions du siècle que ses adversaires eux-mêmes n'ont jamais osé démanteler de face.</p>
+
 # 1943 ans
 
 <p>Les allemands capitulent à Stalingrad. Cette capitulation met fin au mythe de l'invincibilité de l'armée allemande.</p>
@@ -5637,9 +6294,19 @@ tags: technology
 
 # 1946 ans
 
-<p>Les forces françaises et les indépendantistes vietnamiens se font la guerre. C'est le début de la guerre d'Indochine.</p>
+<p>À Haiphong, un différend douanier tourne au bombardement : la marine française tire sur la ville et fait plusieurs milliers de morts. En décembre, le Viêt Minh attaque à Hanoï. La guerre d'Indochine commence.</p>
+
+<p>Elle avait pourtant failli être évitée. Hô Chi Minh avait proclamé l'indépendance du Viêt Nam en septembre 1945 en citant la Déclaration d'indépendance américaine, puis négocié en France pendant des mois. Mais la France sort d'une occupation et n'imagine pas qu'on puisse lui reprendre ce que l'Allemagne ne lui avait pas pris : elle entreprend de restaurer son empire au moment précis où celui-ci devient intenable.</p>
+
+<p>La guerre durera huit ans, s'achèvera à Diên Biên Phu, et sera aussitôt reprise par les États-Unis dans une logique de guerre froide. C'est le premier des grands conflits de décolonisation, et il fournit le schéma des suivants : une armée régulière très supérieure en matériel, une guérilla qui tient la population, et une opinion métropolitaine qui se lasse avant que l'armée ne soit vaincue.</p>
 
 # 1947 ans
+
+<p>Deux ans après avoir gagné la guerre ensemble, les vainqueurs cessent de se parler. Le président américain annonce devant le Congrès que les États-Unis soutiendront les peuples menacés par des minorités armées ou des pressions extérieures — formule diplomatique pour dire : partout où l'Union soviétique poussera, nous pousserons en face. C'est la doctrine Truman, et l'acte de naissance de la guerre froide.</p>
+
+<p>Sa logique est inédite. Les deux camps ne s'affronteront presque jamais directement : ils disposeront bientôt tous deux de l'arme atomique, et une guerre ouverte signifierait leur destruction commune. Alors on se bat par procuration — en Corée, au Vietnam, en Angola, en Afghanistan —, on finance des coups d'État, on espionne, on construit des fusées en disant viser la Lune.</p>
+
+<p>L'Europe est coupée en deux par une frontière qui traverse l'Allemagne, et bientôt Berlin. Pendant quarante ans, l'humanité vivra sous une menace qu'aucune génération n'avait connue : la possibilité technique de sa propre disparition, tenue par une poignée d'hommes de part et d'autre d'une ligne.</p>
 
 <p>L'Inde est partitionnée en deux pays indépendants, l'Inde et le Pakistan.</p>
 
@@ -5660,6 +6327,10 @@ tags: technology
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3raimObEqK8" data-id="3raimObEqK8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/3raimObEqK8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Adi Dassler fonde officiellement Adidas.</p>
+
+<p>Le 1er octobre, du haut de la porte de la Paix céleste, Mao Zedong proclame la République populaire de Chine. Ses adversaires nationalistes se replient sur Taïwan avec les réserves d'or de la banque centrale et une partie des collections impériales. Vingt-deux ans de guerre — contre les seigneurs de la guerre, contre le Japon, puis entre Chinois — s'achèvent sur un pays exsangue et unifié pour la première fois depuis 1911.</p>
+
+<p>Ce qui suit tient d'abord de la reconstruction : la terre est redistribuée à des centaines de millions de paysans, l'alphabétisation devient une campagne d'État, la mortalité infantile s'effondre. Et d'emblée la violence : les procès de masse qui accompagnent la réforme agraire font, selon les estimations, un à deux millions de morts. Les deux visages ne se séparent pas, et ne se sépareront pas.</p>
 
 # 1950 ans
 
@@ -5689,6 +6360,14 @@ tags: technology
 
 <p>Fidel Castro et ses partisans attaquent la caserne Moncada à Santiago de Cuba dans le but de renverser le régime de Batista. L'attaque échoue, et de nombreux participants sont tués ou capturés.</p>
 
+<p>À Cambridge, deux chercheurs entrent dans un pub à l'heure du déjeuner et annoncent qu'ils viennent de découvrir le secret de la vie. Ils n'exagèrent pas beaucoup. James Watson et Francis Crick viennent d'établir la structure de l'ADN : deux brins enroulés l'un autour de l'autre en double hélice, reliés par des paires de bases qui s'emboîtent toujours de la même façon — A avec T, C avec G.</p>
+
+<p>L'élégance est dans la conséquence, et ils la voient aussitôt. Si chaque base n'a qu'un partenaire possible, alors chaque brin porte l'information nécessaire pour reconstituer l'autre : il suffit d'ouvrir la fermeture éclair pour obtenir deux copies identiques. La molécule contient le message et sait le recopier. Toute l'hérédité tient dans cette géométrie.</p>
+
+<p>Ils n'y sont pas arrivés seuls. Les clichés de diffraction aux rayons X réalisés par Rosalind Franklin, au King's College de Londres, leur ont été montrés sans qu'elle en soit informée. Sa contribution restera longtemps dans l'ombre ; elle mourra à trente-sept ans, quatre ans avant le prix Nobel que les trois hommes se partageront.</p>
+
+<p>L'ADN était identifié depuis quatre-vingts ans, et on le croyait une molécule trop monotone pour porter quoi que ce soit. Il aura suffi d'en comprendre la forme.</p>
+
 # 1954 ans
 
 <p>Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.</p>
@@ -5713,6 +6392,16 @@ tags: technology
 
 <p>Castro, Guevara, Raúl Castro et environ 80 autres rebelles retournent à Cuba à bord d'un bateau. Leur objectif est de rejoindre des groupes de résistance sur place et de lancer une guérilla contre le régime de Batista. Cependant, les forces gouvernementales les attaquent rapidement et seuls 12 rebelles, dont les frères Castro et Guevara, réussissent à s'échapper dans les montagnes de la Sierra Maestra.</p>
 
+# 1958 ans
+
+<p>Mao lance le Grand Bond en avant : la Chine doit rattraper la production d'acier du Royaume-Uni en quinze ans. Les campagnes sont regroupées en communes populaires de plusieurs milliers de foyers, où disparaissent la propriété privée, la cuisine familiale et souvent le repas pris chez soi. Des centaines de milliers de « hauts fourneaux de jardin » s'allument dans les villages ; les paysans y fondent leurs casseroles, leurs outils, parfois leurs charrues, pour produire une fonte inutilisable.</p>
+
+<p>Le mécanisme du désastre mérite d'être regardé de près, car il n'est pas agricole mais administratif. Chaque échelon doit annoncer à l'échelon supérieur des récoltes conformes aux objectifs ; comme personne n'ose annoncer un échec, les chiffres remontent gonflés à chaque étage. L'État calcule alors son prélèvement sur des récoltes imaginaires — et prend le grain réel. Les greniers se vident pendant que le pays continue d'exporter du riz.</p>
+
+<p>S'y ajoute la campagne contre les « quatre nuisibles », dont les moineaux, accusés de manger les semences. On les fait tomber d'épuisement en battant des casseroles pour les empêcher de se poser. Débarrassés de leur prédateur, les criquets prolifèrent l'année suivante.</p>
+
+<p>La famine qui suit, de 1959 à 1961, est la plus meurtrière de l'histoire humaine : les estimations vont de quinze à quarante-cinq millions de morts. Elle ne doit rien à une sécheresse exceptionnelle ni à une guerre. Elle tient à une politique — et au fait que personne, dans tout l'appareil, n'était en position de dire qu'elle était fausse. Le seul dirigeant qui l'écrivit au président fut destitué et brisé.</p>
+
 # 1959 ans
 
 <p>Batista fuit Cuba pour la République dominicaine, et les forces rebelles prennent le contrôle de La Havane. Le 8 janvier, Fidel Castro entre triomphalement dans la capitale cubaine. Après la prise de pouvoir, Castro met en place un gouvernement révolutionnaire et commence à mettre en œuvre des réformes sociales et économiques radicales, telles que la nationalisation des industries et la redistribution des terres.</p>
@@ -5725,9 +6414,37 @@ tags: technology
 
 <p>L'eau rejetée est traitée avant d'être envoyée en milieu naturel.</p>
 
+<p>Dix-sept pays africains accèdent à l'indépendance dans la même année. On l'appellera l'Année de l'Afrique.</p>
+
+<p>Le mouvement avait commencé ailleurs et plus tôt — l'Inde en 1947, l'Indochine en 1954, le Ghana en 1957. Mais 1960 est l'année où il devient irrésistible, où les empires européens comprennent en quelques mois qu'ils ne tiendront pas, et lâchent presque tout d'un coup.</p>
+
+<p>Les raisons se sont accumulées. Les colonies ont fourni des soldats à deux guerres mondiales menées au nom de la liberté, et l'argument s'est retourné contre ceux qui l'employaient. Les métropoles sortent ruinées de la seconde et n'ont plus les moyens de tenir. Les deux nouvelles superpuissances, chacune pour ses raisons, n'ont aucun intérêt à défendre de vieux empires coloniaux. Et sur place, des élites formées dans les écoles du colonisateur lui retournent son propre vocabulaire.</p>
+
+<p>L'héritage est lourd. Les frontières ont été tracées à Berlin en 1885 par des Européens qui ne connaissaient pas le terrain : elles coupent des peuples en deux et en enferment d'autres ensemble. Les économies ont été bâties pour exporter une seule matière première vers un seul port. L'indépendance politique arrive d'un coup ; l'indépendance économique, elle, ne suivra pas au même rythme.</p>
+
+<p>L'agence américaine du médicament autorise la vente d'un comprimé destiné non pas à soigner une maladie, mais à empêcher une grossesse. C'est la première fois qu'on prescrit un médicament à des personnes en bonne santé, tous les jours, pendant des années, pour un motif qui n'est pas thérapeutique.</p>
+
+<p>Le projet doit presque tout à deux femmes. Margaret Sanger, militante du contrôle des naissances, en a eu l'idée et cherché l'homme capable de la réaliser ; Katharine McCormick, héritière d'une fortune industrielle, l'a financé sur ses fonds propres, parce qu'aucune institution ne voulait y toucher. Le biologiste Gregory Pincus a fait le reste.</p>
+
+<p>Ce que la pilule sépare n'avait jamais été séparé : la sexualité et la procréation. Pour la première fois, une femme peut décider seule, sans négociation ni hasard, si et quand elle aura un enfant — et donc envisager des études longues et un métier sans que tout puisse basculer en un mois. Les démographes discutent encore de la part qui revient exactement à la contraception dans la chute de la natalité ; le basculement social, lui, est difficile à surestimer.</p>
+
+<p>La France attendra 1967 et la loi Neuwirth pour l'autoriser, et 1974 pour la rembourser.</p>
+
 # 1961 ans
 
 <p>Conception de l'ordinateur B5000. Contrairement à beaucoup d'autres ordinateurs de l'époque, qui sont conçus principalement pour exécuter du code en langage machine ou en assembleur, le B5000 est conçu pour exécuter efficacement des langages de haut niveau. Il est particulièrement optimisé pour le langage ALGOL 60, un prédécesseur de nombreux langages de programmation modernes.</p>
+
+<p>Dans la nuit du 12 au 13 août, les Berlinois de l'Est se réveillent devant des barbelés. En quelques heures, l'armée est-allemande a coupé la ville en deux, rue par rue : on murera les fenêtres qui donnent du mauvais côté, on condamnera les bouches de métro, on séparera des familles pour vingt-huit ans.</p>
+
+<p>Le motif est une hémorragie. Depuis 1949, près de trois millions de personnes ont quitté la RDA en passant simplement à l'Ouest par Berlin — et ce sont les plus jeunes, les médecins, les ingénieurs. Aucun pays ne survit à cela. Le Mur n'est pas bâti pour empêcher d'entrer, mais pour empêcher de sortir : c'est la chose qu'un régime ne peut jamais avouer.</p>
+
+<p>Il deviendra l'image même de la guerre froide, et le meilleur argument jamais offert au camp d'en face — il suffisait de le montrer. Au moins cent trente-six personnes mourront en tentant de le franchir.</p>
+
+<p>Il tombera le 9 novembre 1989, en une soirée, sur un malentendu : un porte-parole est-allemand annonçant maladroitement une ouverture des frontières « immédiatement, sans délai », et une foule prenant l'annonce au mot devant des gardes sans consignes. Vingt-huit ans de béton emportés en quelques heures parce que personne n'osa tirer.</p>
+
+<p>Dans la nuit du 12 au 13 août, Berlin-Est se réveille coupée en deux par des barbelés, posés en quelques heures. Depuis 1949, près de trois millions de personnes ont quitté la RDA en passant simplement d'un secteur de la ville à l'autre — et ce sont les jeunes, les médecins, les ingénieurs. Un État qui perd un sixième de sa population ne tient pas.</p>
+
+<p>Les barbelés deviennent un mur de béton doublé d'un no man's land éclairé, miné et gardé. Il faut mesurer ce qu'il a de particulier : depuis Jéricho, un mur sert à empêcher d'entrer. Celui-ci sert à empêcher de sortir. En le bâtissant, le régime admet publiquement que ses citoyens le quitteraient s'ils le pouvaient — et il lui faudra vingt-huit ans pour que la conséquence lui revienne à la figure.</p>
 
 # 1962 ans
 
@@ -5736,6 +6453,12 @@ tags: technology
 <p>Rachel Carson publie "Printemps silencieux". Le livre dénonce les effets néfastes des pesticides et autres produits chimiques sur l'environnement et la vie sauvage, en particulier les oiseaux.</p>
 
 <p>Le livre a un impact majeur sur la prise de conscience du public concernant les dangers des produits chimiques et inspire des mouvements de protestation contre l'utilisation abusive de pesticides et d'autres produits chimiques dans l'agriculture et l'industrie.</p>
+
+<p>En octobre, l'humanité passe plus près d'une guerre nucléaire qu'elle ne l'a jamais fait. Un avion espion américain photographie des rampes de missiles soviétiques en construction à Cuba, à cent cinquante kilomètres de la Floride. Treize jours durant, Kennedy et Khrouchtchev négocient au bord du vide, chacun sachant que l'autre ne peut plus reculer publiquement sans tomber.</p>
+
+<p>Le plus effrayant n'a été connu que trente ans plus tard. Au large de l'île, un sous-marin soviétique porteur d'une torpille à charge nucléaire, coupé de toute radio depuis des jours et harcelé par des grenades d'exercice américaines, croit la guerre commencée. Le tir exige l'accord de trois officiers ; deux le donnent. Le troisième, Vassili Arkhipov, refuse. Le monde a tenu à une voix contre deux, dans une coque immergée dont aucun gouvernement ne savait rien.</p>
+
+<p>La crise se dénoue par un échange : les missiles quittent Cuba, les Américains retirent discrètement les leurs de Turquie et s'engagent à ne pas envahir l'île. Elle laisse deux héritages — une ligne directe entre Washington et Moscou, et la conviction, partagée par les deux camps, qu'une arme dont on ne peut pas se servir ne se brandit pas deux fois.</p>
 
 ## Algérie
 
@@ -5750,6 +6473,26 @@ tags: technology
 # 1965 ans
 
 <p>Après l'affaire Hush-A-Phone, la contestation du monopole d'AT&T sur les équipements raccordés au réseau s'installe ; elle aboutira en 1968 à la décision Carterfone, par laquelle l'organisme fédéral de régulation des télécommunications (FCC) statue que des équipements non-Bell peuvent être raccordés au système téléphonique « sans dommage pour le réseau ». Cette décision crée la possibilité de vendre des appareils se connectant au réseau via un coupleur de protection loué auprès d'AT&T, et ouvre le marché aux équipements installés chez le client. Autrement dit, AT&T conserve un temps un point de contrôle (le fameux coupleur), mais la brèche est ouverte — et c'est par cette brèche que passeront, plus tard, les modems et donc l'accès grand public à Internet.</p>
+
+# 1966 ans
+
+<p>Affaibli par le désastre du Grand Bond et écarté de la gestion courante, Mao lance une révolution contre son propre parti. Il appelle la jeunesse à « bombarder le quartier général » — c'est-à-dire à s'en prendre aux cadres qui l'ont mis de côté. Des millions d'adolescents s'organisent en gardes rouges, obtiennent la gratuité des trains, et parcourent le pays pour dénoncer, humilier et frapper leurs professeurs, leurs directeurs, leurs voisins, parfois leurs parents.</p>
+
+<p>La cible désignée, ce sont les « quatre vieilleries » : vieilles idées, vieille culture, vieilles coutumes, vieilles habitudes. On brûle des bibliothèques, on saccage des temples, on décapite des statues, on détruit une part considérable de ce que trois mille ans avaient accumulé. Les universités ferment pour dix ans. Des intellectuels sont envoyés aux champs par millions ; beaucoup se suicident.</p>
+
+<p>Puis les gardes rouges se scindent en factions rivales qui se combattent à l'arme lourde, et l'armée doit rétablir l'ordre contre ceux-là mêmes qu'on avait lâchés. Le bilan se compte en centaines de milliers de morts au bas mot, en millions de vies brisées, et en une génération entière privée d'école.</p>
+
+<p>Le renversement est vertigineux si l'on se souvient d'où vient ce pays. Depuis les Zhou, la légitimité chinoise reposait sur les rites, la transmission et la déférence envers ce qui précède ; Confucius avait bâti toute sa pensée sur l'idée qu'on devient un homme de bien en héritant correctement. La Révolution culturelle est la première entreprise de l'histoire chinoise à désigner l'héritage lui-même comme l'ennemi.</p>
+
+<p>Au même moment, à l'autre bout de l'Asie, un pays qu'on avait condamné se met à manger à sa faim.</p>
+
+<p>L'Inde sort de deux moussons manquées et vit sous perfusion de blé américain. Les démographes annoncent pour les années 1970 des famines de masse et expliquent qu'il est déjà trop tard pour les éviter ; c'est le consensus, et il se vend très bien en librairie.</p>
+
+<p>Il ne se réalisera pas. Depuis vingt ans, au Mexique, un agronome américain nommé Norman Borlaug croise inlassablement des blés pour obtenir une plante contre-intuitive : une tige courte. Un blé nain ne verse pas sous le poids de son propre épi — on peut donc le gaver d'engrais et d'eau sans qu'il s'écroule, et doubler le rendement d'un hectare. Cette année-là, l'Inde et le Pakistan achètent la semence mexicaine par cargos entiers : la plus grosse commande de graines jamais passée.</p>
+
+<p>En moins de dix ans, la production de blé indienne double et le pays cesse d'importer. On appellera cela la révolution verte ; on estime qu'elle a épargné la famine à des centaines de millions de personnes, et Borlaug recevra le prix Nobel de la paix.</p>
+
+<p>La note arrive plus tard. Ces variétés ne donnent leur plein rendement qu'arrosées et nourries d'azote — c'est-à-dire fabriquées avec du gaz naturel et de l'eau pompée dans les nappes. Là où les nappes s'épuisent, le miracle s'arrête. On n'avait pas nourri le monde : on lui avait avancé un crédit sur l'eau et sur le pétrole.</p>
 
 # 1967 ans
 
@@ -5848,6 +6591,10 @@ tags: technology
 
 <p>Sortie de WordStar 1.0. C'est le moment où le logiciel de traitement de texte devient un produit autonome, acheté séparément, interchangeable. Le logiciel n'est plus soudé à une machine particulière. Il vit sa propre vie. On paye le logiciel pour lui-même — l'exact inverse du modèle « tout compris » d'IBM.</p>
 
+<p>En Chine, la même année, un homme de soixante-treize ans, deux fois purgé pendant la Révolution culturelle, prend la direction du pays. Deng Xiaoping ne change pas de régime : il change de critère. Les communes populaires sont démantelées, les paysans retrouvent le droit de vendre leur surplus, des « zones économiques spéciales » s'ouvrent sur la côte aux capitaux étrangers, les étudiants repartent à l'université et à l'étranger.</p>
+
+<p>La formule qu'on lui prête — peu importe que le chat soit noir ou blanc pourvu qu'il attrape les souris — dit assez le renversement : ce qui compte n'est plus la pureté idéologique, c'est le résultat. Ce qui suit sera la sortie de pauvreté la plus rapide et la plus massive de toute l'histoire humaine, plusieurs centaines de millions de personnes en une génération. Sans que le parti ne cède à aucun moment une once de pouvoir politique — et c'est exactement ce que 1989 viendra rappeler.</p>
+
 # 1979 ans
 
 <p style="text-align:center"><img src="/assets/img/visicalc.webp" alt="" width="400" loading="lazy" decoding="async" height="275" /></p>
@@ -5887,6 +6634,14 @@ tags: technology
 <p>100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.</p>
 
 <p>Le World Wide Web (WWW ou Web) est inventé à Genève, par Tim Berners-Lee, alors qu'il travaille au CERN (Organisation européenne pour la recherche nucléaire). Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Berners-Lee conçoit le Web comme un moyen de partager de l'information entre les scientifiques du CERN qui travaillent sur des projets collaboratifs. Il développe un système de liens hypertextes qui permettent aux utilisateurs de naviguer entre différents documents sur le réseau en cliquant sur des liens, et écrira l'année suivante le premier navigateur Web, qu'il appelle WorldWideWeb. Ce navigateur permet aux utilisateurs de visualiser et d'interagir avec les documents sur le Web.</p>
+
+<p>Sur la place Tiananmen, à Pékin, des étudiants réclament depuis des semaines la transparence, la fin de la corruption et un dialogue avec le pouvoir ; des ouvriers les rejoignent, et le mouvement gagne des dizaines de villes. Dans la nuit du 3 au 4 juin, l'armée dégage la place. Le nombre de morts n'est pas établi — plusieurs centaines, probablement davantage. Le lendemain, un homme seul, un sac de courses dans chaque main, se plante devant une colonne de chars ; on ne sait toujours pas qui il était ni ce qu'il est devenu.</p>
+
+<p>La réponse du pouvoir est nette : l'économie s'ouvre, la politique non. Ce que Deng avait laissé implicite devient une doctrine, et l'événement disparaît si complètement des manuels et des réseaux chinois qu'une partie de la jeunesse d'aujourd'hui ignore qu'il a eu lieu.</p>
+
+<p>Cinq mois plus tard, à l'autre bout du continent, la même demande reçoit la réponse inverse. Le 9 novembre, un porte-parole est-allemand annonce par erreur, en direct à la télévision, l'ouverture immédiate des passages vers l'Ouest. La foule se présente aux postes-frontières, les gardes n'ont reçu aucun ordre, et l'un d'eux finit par lever la barrière. Le mur tombe sans un coup de feu, parce que personne n'a voulu tirer.</p>
+
+<p>Deux régimes du même bloc, la même année, devant la même demande, et deux issues opposées. L'un a choisi de tenir par la force et dure encore ; l'autre a lâché et s'est effacé en deux ans. Les leçons que chacun en a tirées gouvernent une bonne part du monde d'aujourd'hui.</p>
 
 # 1990 ans
 
@@ -6007,7 +6762,11 @@ tags: technology
 
 # 2005 ans
 
-<p>YouTube est lancé.</p>
+<p>Trois anciens employés de PayPal mettent en ligne un site qui ne fait qu'une chose : permettre à n'importe qui de publier une vidéo sans rien connaître à l'informatique. La première, dix-neuf secondes tournées devant l'enclos des éléphants du zoo de San Diego, est postée en avril par l'un des fondateurs.</p>
+
+<p>Le problème résolu est technique et banal : jusque-là, héberger une vidéo coûtait cher, exigeait un serveur, et le visiteur devait posséder le bon lecteur et le bon codec. YouTube réencode tout au même format, le lit directement dans le navigateur, et paie la bande passante. L'utilisateur n'a plus qu'à déposer un fichier.</p>
+
+<p>La conséquence dépasse la technique. Pour la première fois, diffuser des images animées vers un public de masse cesse d'être réservé à ceux qui possèdent une chaîne — studios, télévisions, États. Google rachète le site l'année suivante pour 1,65 milliard de dollars, une somme jugée démente à l'époque. Vingt ans plus tard, la vidéo en ligne aura absorbé la télévision, la formation, le clip, le journal, le cours particulier et une bonne part du débat public.</p>
 
 # 2006 ans
 
@@ -6139,13 +6898,27 @@ tags: technology
 
 <p>Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en Inde — qui représentent à eux seuls 35 % de la population mondiale. De plus, environ 56 % de la population mondiale vit dans des zones urbaines plutôt que rurales.</p>
 
-<p>Une « autoroute de la chaleur » permet, à travers 40 km de canalisations, de chauffer les logements de Lille et de Roubaix à partir de l'énergie produite par le traitement des déchets, en remplacement d'une ancienne centrale à charbon.</p>
-
 # 2023 ans
 
 <p>Le 7 octobre, environ 3 000 militants du Hamas franchissent la frontière vers le sud d'Israël. Ils ciblent un festival de musique et plusieurs kibboutz, causant la mort de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme la plus grande perte de vie juive depuis l'Holocauste.</p>
 
-<p><em>Cette chronologie s'arrête pour l'instant en 2023 ; les années suivantes restent à écrire.</em></p>
+# 2024 ans
+
+<p>Année électorale sans précédent : une soixantaine de pays représentant près de la moitié de l'humanité sont appelés aux urnes — Inde, Union européenne, Royaume-Uni, Indonésie, Mexique, États-Unis. Le résultat d'ensemble est un rejet des sortants à peu près partout, quelle que soit leur couleur politique, dans un climat d'inflation héritée de la pandémie.</p>
+
+<p>À Paris, les Jeux olympiques d'été se déroulent en partie hors des stades : cérémonie d'ouverture sur la Seine, épreuves au pied de la tour Eiffel et sur la place de la Concorde. En décembre, Notre-Dame rouvre, cinq ans après l'incendie.</p>
+
+<p>Le climat franchit un seuil symbolique : 2024 est la première année civile dont la température moyenne dépasse de plus de 1,5 °C celle de l'ère préindustrielle — la limite que l'accord de Paris visait à ne pas atteindre. Une année isolée ne constitue pas encore un dépassement au sens du traité, qui se mesure sur des décennies ; l'ordre de grandeur, lui, est là.</p>
+
+<p>Et l'intelligence artificielle entre au palmarès Nobel : le prix de physique récompense les travaux fondateurs sur les réseaux de neurones artificiels, celui de chimie la prédiction de la structure des protéines par apprentissage automatique. Une méthode née de l'informatique vient de trancher un problème que la biologie n'arrivait pas à résoudre depuis cinquante ans.</p>
+
+# 2025 ans
+
+<p>L'intelligence artificielle générative cesse d'être une curiosité pour devenir une infrastructure : elle s'installe dans les moteurs de recherche, les suites bureautiques, les outils de programmation. La course se joue désormais autant sur le coût que sur la performance — un modèle chinois publié en janvier, entraîné pour une fraction du budget des laboratoires américains, fait décrocher les marchés en une séance et rappelle qu'une avance technologique n'est pas un fossé.</p>
+
+<p>À Rome, le pape François meurt en avril, après douze ans d'un pontificat passé à déplacer l'Église vers ses marges. Son successeur, Robert Prevost, prend le nom de Léon XIV : c'est le premier pape né aux États-Unis.</p>
+
+<p>Et la question de l'énergie revient au centre par un chemin que personne n'avait prévu : les centres de données qui font tourner ces modèles consomment assez d'électricité pour rouvrir, en Occident, des débats qu'on croyait clos sur le nucléaire et sur la capacité des réseaux. Une chronologie qui commence au Big Bang se referme ainsi sur un problème très ancien — trouver de l'énergie, et savoir quoi en faire.</p>
 
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
