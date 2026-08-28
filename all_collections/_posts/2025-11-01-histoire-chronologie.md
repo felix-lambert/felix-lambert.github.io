@@ -425,7 +425,7 @@ tags: technology
 # -2 800 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cyanobacteries.webp' | relative_url }}" alt="Cyanobactéries" loading="lazy" decoding="async" width="501" height="334" />
+  <img src="{{ '/assets/img/cyanobacteries2.webp' | relative_url }}" alt="Cyanobactéries (Anabaena)" loading="lazy" decoding="async" width="800" height="600" />
   <br /><small><em>Des cyanobactéries : les inventeuses de la photosynthèse, qui rejettent l'oxygène comme un simple déchet.</em></small>
 </p>
 
@@ -722,7 +722,7 @@ tags: technology
 # -600 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/eponges.webp' | relative_url }}" alt="Éponges" loading="lazy" decoding="async" width="1200" height="900" />
+  <img src="{{ '/assets/img/spiculeseponge.webp' | relative_url }}" alt="Spicules d'éponge" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Des éponges : elles pompent l'eau à travers les milliers de pores de leur corps et filtrent tout ce qui s'y trouve.</em></small>
 </p>
 
@@ -1090,7 +1090,7 @@ tags: technology
 # -305 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pangee.webp' | relative_url }}" alt="La Pangée" loading="lazy" decoding="async" width="1200" height="600" />
+  <img src="{{ '/assets/img/pangeearide.webp' | relative_url }}" alt="L'intérieur aride de la Pangée" loading="lazy" decoding="async" width="1200" height="600" />
   <br /><small><em>La Pangée : toutes les terres émergées soudées en un seul continent, entouré d'un océan unique.</em></small>
 </p>
 
@@ -2015,7 +2015,8 @@ tags: technology
 
 # -21 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ohalo2.webp' | relative_url }}" alt="Le lac de Tibériade" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ohalo2.webp' | relative_url }}" alt="Le lac de Tibériade" loading="lazy" decoding="async" width="1200" height="1800" />
+  <br /><small><em>La rive du lac de Tibériade. C'est ici, sous les eaux basses, qu'a été fouillé le campement d'Ohalo II : des huttes de branchages, des foyers et des milliers de graines carbonisées, conservés par la vase pendant vingt-trois mille ans.</em></small></p>
 
 <p><em>(À partir d'ici, les dates ne sont plus comptées en années avant aujourd'hui mais en années avant notre ère — soit environ deux mille ans de moins.)</em></p>
 
@@ -2727,7 +2728,8 @@ tags: technology
 
 # -1 336 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/amarna.webp' | relative_url }}" alt="Les ruines d’Amarna" loading="lazy" decoding="async" width="1200" height="1677" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/amarna.webp' | relative_url }}" alt="Les ruines d’Amarna" loading="lazy" decoding="async" width="1200" height="1677" />
+  <br /><small><em>Plan des ruines de Tell el-Amarna relevé au XIXᵉ siècle. On y lit encore la trame d'une capitale bâtie d'un seul jet en plein désert : le grand temple d'Aton en haut, les palais le long du fleuve, les quartiers d'habitation dispersés.</em></small></p>
 
 <p>Mort d'Akhenaton. Sa révolution ne lui survivra pas : les élites religieuses et politiques entament la restauration des cultes traditionnels, et sa capitale du désert sera abandonnée.</p>
 
@@ -2828,7 +2830,8 @@ tags: technology
 
 # -1 200 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/effondrementbronze.webp' | relative_url }}" alt="Les ruines d'Ougarit" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/effondrementbronze.webp' | relative_url }}" alt="Les ruines d'Ougarit" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Les ruines d'Ougarit, sur la côte syrienne. La cité brûle vers -1185 et n'est jamais rebâtie ; ses dernières tablettes, cuites par l'incendie qui les a détruites, réclament des secours qui ne viendront pas.</em></small></p>
 
 <p>Et tout s'effondre. En quelques décennies, le monde interconnecté de l'âge du Bronze — cet équilibre d'empires liés par le commerce de l'étain, les traités et les mariages royaux — s'écroule comme un château de cartes. L'Empire hittite disparaît corps et biens, les riches cités du Levant comme Ougarit sont détruites, l'Égypte survit mais amoindrie et repliée sur elle-même.</p>
 
@@ -2970,7 +2973,8 @@ tags: technology
 
 # -1 042 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ducdezhou.webp' | relative_url }}" alt="Le duc de Zhou" loading="lazy" decoding="async" width="693" height="1080" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ducdezhou.webp' | relative_url }}" alt="Le duc de Zhou" loading="lazy" decoding="async" width="693" height="1080" />
+  <br /><small><em>Le duc de Zhou, portrait traditionnel chinois à l'encre. Régent d'un roi enfant, il écrase la révolte des Shang et organise le système des apanages — Confucius en fera, mille ans plus tard, son modèle du ministre loyal.</em></small></p>
 
 <p>Le roi Wu meurt trois ans à peine après sa victoire, laissant un fils encore enfant. Le prince Shang, à qui l'on avait laissé l'administration des anciennes cités, saisit l'occasion et se révolte — rejoint par deux frères du roi défunt, qui préfèrent leur ambition à leur neveu.</p>
 
@@ -2984,7 +2988,8 @@ tags: technology
 
 # -1 030 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/mandatduciel.webp' | relative_url }}" alt="Le Mandat du Ciel" loading="lazy" decoding="async" width="1200" height="1200" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mandatduciel.webp' | relative_url }}" alt="Le Mandat du Ciel" loading="lazy" decoding="async" width="1200" height="1200" />
+  <br /><small><em>Un sceau chinois en écriture sigillaire. C'est par ce genre d'empreinte que s'authentifiait l'autorité impériale, dont les Zhou viennent de fonder la légitimité sur une idée neuve : le Mandat du Ciel, révocable si le souverain gouverne mal.</em></small></p>
 
 <p>Une dispute éclate à la cour des Zhou sur la nature exacte du Mandat du Ciel — et l'enjeu est considérable, puisqu'il s'agit de savoir à quoi le pouvoir est tenu.</p>
 
@@ -3013,7 +3018,8 @@ tags: technology
 
 # -1 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/latium.webp' | relative_url }}" alt="Cabane du Latium" loading="lazy" decoding="async" width="492" height="326" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/latium.webp' | relative_url }}" alt="Cabane du Latium" loading="lazy" decoding="async" width="492" height="326" />
+  <br /><small><em>Reconstitution grandeur nature d'une cabane du Latium à l'âge du fer : ossature de bois, torchis, toit de chaume à forte pente. Voilà l'habitat des villages qui, sur les collines du Tibre, deviendront Rome.</em></small></p>
 
 <p>Dans le Latium, sur les collines qui borderont le Tibre, des villages d'éleveurs et de paysans se forment : porcs, moutons, bœufs, vignes, oliviers, fèves et pois. Des centres proto-urbains émergent lentement — rien ne distingue encore ces hameaux de mille autres, mais l'un d'eux deviendra Rome.</p>
 
@@ -3029,7 +3035,8 @@ tags: technology
 
 # -950 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/bronzezhou.webp' | relative_url }}" alt="Bronze des Zhou occidentaux" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/bronzezhou.webp' | relative_url }}" alt="Bronze des Zhou occidentaux" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Bronze des Zhou occidentaux. Le travail du bronze reste sous cette dynastie un monopole aristocratique : la matière sert au rituel et au prestige, jamais à l'outil du paysan.</em></small></p>
 
 <p>Un siècle après la conquête, la dynastie Zhou décline, et l'on ne sait presque rien des rois qui ont succédé à Cheng — les sources se taisent, ce qui est en soi un signe.</p>
 
@@ -3061,7 +3068,8 @@ tags: technology
 
 # -930 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/salomon.webp' | relative_url }}" alt="Le Temple de Salomon" loading="lazy" decoding="async" width="1200" height="904" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/salomon.webp' | relative_url }}" alt="Le Temple de Salomon" loading="lazy" decoding="async" width="1200" height="904" />
+  <br /><small><em>Maquette du Temple de Salomon et de son enceinte. Aucun vestige archéologique n'en subsiste — le mont du Temple n'est pas fouillable —, si bien que toutes les représentations de l'édifice sont des reconstitutions d'après le texte biblique.</em></small></p>
 
 <p>La tradition biblique place ici la fin d'un royaume unifié. Après David aurait régné son fils Salomon — le roi bâtisseur, à qui l'on attribue le Temple de Jérusalem, un harem de princesses étrangères et une sagesse proverbiale ; à sa mort, les tribus du nord auraient refusé son héritier et fait sécession. Les fouilles ne confirment pas l'existence d'un tel empire : la Jérusalem de cette époque reste modeste. Mais que la scission ait été une rupture ou, plus probablement, deux royaumes qui n'ont jamais été vraiment un seul, le résultat est le même.</p>
 
@@ -3081,7 +3089,8 @@ tags: technology
 
 # -926 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/sheshonq.webp' | relative_url }}" alt="Sheshonq Iᵉʳ à Karnak" loading="lazy" decoding="async" width="1200" height="1512" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/sheshonq.webp' | relative_url }}" alt="Sheshonq Iᵉʳ à Karnak" loading="lazy" decoding="async" width="1200" height="1512" />
+  <br /><small><em>Relevé du relief de Sheshonq Iᵉʳ à Karnak. Le pharaon y fait graver la liste des localités prises en Canaan : c'est la plus ancienne source égyptienne à recouper directement le récit biblique.</em></small></p>
 
 <p>Le pharaon Sheshonq envahit Canaan. Il pille Jérusalem, ravage cent cinquante localités dans les deux royaumes israélites — et surtout détruit les vieilles places fortes cananéennes de Megiddo, Rehob, Beth-Shéan et Taanak. C'est le seul événement de cette période attesté à la fois par la Bible et par une source étrangère : le pharaon en a fait graver la liste sur un mur de Karnak.</p>
 
@@ -3122,7 +3131,8 @@ tags: technology
 
 # -880 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/samarie.webp' | relative_url }}" alt="Samarie" loading="lazy" decoding="async" width="1200" height="675" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/samarie.webp' | relative_url }}" alt="Samarie" loading="lazy" decoding="async" width="1200" height="675" />
+  <br /><small><em>Vue aérienne des fouilles de Samarie, au milieu des oliviers. Omri a acheté cette colline pour en faire une capitale neuve — le détail est rapporté comme une transaction foncière ordinaire, sans intervention divine.</em></small></p>
 
 <p>Le roi Omri fonde une capitale neuve pour le royaume d'Israël : Samarie. Il achète la colline à son propriétaire — le détail est rapporté comme une transaction ordinaire — et y fait bâtir une acropole royale de deux hectares, aux murs de pierre de taille d'une qualité qu'on n'avait jamais vue dans la région.</p>
 
@@ -3138,7 +3148,8 @@ tags: technology
 
 # -876 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/tributphenicien.webp' | relative_url }}" alt="Tribut phénicien aux Assyriens" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/tributphenicien.webp' | relative_url }}" alt="Tribut phénicien aux Assyriens" loading="lazy" decoding="async" width="1200" height="1800" />
+  <br /><small><em>Relief assyrien : un dignitaire lève les mains en signe de soumission, le champ entier couvert d'inscriptions cunéiformes. Les cités phéniciennes paient d'abord en or, en argent et en cèdre ce qui n'est encore qu'un tribut.</em></small></p>
 
 <p>Le roi d'Assyrie soumet les cités phéniciennes de la côte méditerranéenne. Ce n'est encore qu'une expédition de tribut — on exige de l'or, de l'argent, du bois de cèdre, et l'on repart — mais elle inaugure quelque chose de nouveau.</p>
 
@@ -3146,7 +3157,8 @@ tags: technology
 
 # -874 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Ivoires de Samarie" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Ivoires de Samarie" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Fragments d'incrustations d'ivoire de Nimroud, IXᵉ siècle av. J.-C. Ces plaques finement gravées ornaient les meubles des palais du Levant — la « maison d'ivoire » que les prophètes reprocheront aux rois d'Israël.</em></small></p>
 
 <p>Le fils d'Omri, Achab, lui succède, et pousse la politique paternelle plus loin encore. Il agrandit Samarie et y bâtit un palais si richement décoré qu'on l'appellera la maison d'ivoire — les fouilles en ont retrouvé des centaines de fragments sculptés, dans un style phénicien. Il ouvre des relations commerciales avec la Phénicie, Chypre et la Grèce.</p>
 
@@ -3156,7 +3168,8 @@ tags: technology
 
 # -860 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/elie.webp' | relative_url }}" alt="Le prophète Élie" loading="lazy" decoding="async" width="1200" height="917" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/elie.webp' | relative_url }}" alt="Le prophète Élie" loading="lazy" decoding="async" width="1200" height="917" />
+  <br /><small><em>Le prophète Élie dans un paysage de ruines, peinture hollandaise du XVIIᵉ siècle. Élie est le premier personnage attesté à exiger qu'Israël ne serve que son seul dieu : ce qui passe alors pour du fanatisme deviendra l'orthodoxie.</em></small></p>
 
 <p>Un homme surgit dans le royaume d'Israël, et son nom est un programme : Élie signifie « Yahvé est mon Dieu ». C'est le premier personnage attesté à exiger que l'on n'adore que Yahvé, à l'exclusion de tout autre.</p>
 
@@ -3180,7 +3193,8 @@ tags: technology
 
 # -859 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/salmanazar.webp' | relative_url }}" alt="L'obélisque noir de Salmanazar III" loading="lazy" decoding="async" width="1200" height="1806" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/salmanazar.webp' | relative_url }}" alt="L'obélisque noir de Salmanazar III" loading="lazy" decoding="async" width="1200" height="1806" />
+  <br /><small><em>L'obélisque noir de Salmanazar III, dans son entier. Ses cinq registres sculptés déroulent les tributs versés au roi d'Assyrie ; le deuxième porte la seule image contemporaine connue d'un roi d'Israël.</em></small></p>
 
 <p>Salmanazar III monte sur le trône d'Assyrie et reprend la marche vers l'ouest. Face à lui, les rois de la région comprennent qu'ils ne survivront pas séparément : une coalition se forme, menée par Hadadézer de Damas, qui est alors l'État le plus puissant du Levant.</p>
 
@@ -3208,7 +3222,8 @@ tags: technology
 
 # -850 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/rituelzhou.webp' | relative_url }}" alt="Bronze rituel des Zhou" loading="lazy" decoding="async" width="1200" height="1598" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/rituelzhou.webp' | relative_url }}" alt="Bronze rituel des Zhou" loading="lazy" decoding="async" width="1200" height="1598" />
+  <br /><small><em>Vase rituel en bronze des Zhou, couvercle et anse zoomorphes, décor de masques taotie. Ces récipients servaient aux offrandes de nourriture et de vin adressées aux ancêtres — le culte par lequel le pouvoir se légitimait.</em></small></p>
 
 <p>Un changement discret transforme la religion chinoise : le rituel devient public. Sous les premiers Zhou, ces cérémonies royales étaient probablement des affaires privées, de famille ; on les accomplit désormais devant une nombreuse assistance, sous la direction de spécialistes — les <em>ru</em> — chargés de veiller à ce que tout soit exécuté correctement. Le peuple peut ainsi observer la mise en œuvre de la Voie, et y prendre part.</p>
 
@@ -3218,7 +3233,8 @@ tags: technology
 
 # -842 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/roili.webp' | relative_url }}" alt="Vase ding chinois" loading="lazy" decoding="async" width="1200" height="1092" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/roili.webp' | relative_url }}" alt="Vase ding chinois" loading="lazy" decoding="async" width="1200" height="1092" />
+  <br /><small><em>Récipient rituel chinois en bronze, à couvercle et anneaux de préhension. Le règne du roi Li s'achève par une révolte et quatorze ans de régence : la première période de l'histoire chinoise dont on possède une chronologie sûre.</em></small></p>
 
 <p>Le roi Li est déposé et contraint à l'exil. Les sources chinoises rapportent une révolte contre sa tyrannie et son avidité — il aurait, entre autres, confisqué les ressources des forêts et des rivières dont vivait le peuple, et fait espionner ceux qui le critiquaient, jusqu'à ce que les habitants de la capitale ne se parlent plus que du regard.</p>
 
@@ -3241,7 +3257,8 @@ tags: technology
 
 # -830 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/yahveseul.webp' | relative_url }}" alt="Inscription de Kuntillet Ajrud" loading="lazy" decoding="async" width="1186" height="1054" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yahveseul.webp' | relative_url }}" alt="Inscription de Kuntillet Ajrud" loading="lazy" decoding="async" width="1186" height="1054" />
+  <br /><small><em>Relevé d'une inscription de Kuntillet Ajrud, en écriture paléo-hébraïque. Ce site du Sinaï a livré des bénédictions « par Yahvé et son ashéra » — preuve gênante qu'à cette date, le dieu d'Israël était encore associé à une parèdre.</em></small></p>
 
 <p>Le mouvement du « Yahvé seul » gagne du terrain en Israël. Ses partisans exigent qu'on ne sacrifie qu'à ce dieu et qu'on ignore le culte de tous les autres.</p>
 
@@ -3251,7 +3268,8 @@ tags: technology
 
 # -828 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Char des Zhou" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Char des Zhou" loading="lazy" decoding="async" width="1200" height="1800" />
+  <br /><small><em>Vase rituel en bronze de l'époque des Zhou, décor de masques taotie en fort relief. (L'attribut de la balise donne « char » : c'est bien un récipient rituel, pas un véhicule.)</em></small></p>
 
 <p>Le roi Li meurt en exil, et son fils est rétabli sur le trône. La dynastie se relève — mais l'épisode a montré ce qu'elle refusait de voir : les seigneurs peuvent se passer du roi.</p>
 
@@ -3315,7 +3333,8 @@ tags: technology
 
 # -771 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/zhouorientaux.webp' | relative_url }}" alt="Les Zhou orientaux" loading="lazy" decoding="async" width="1200" height="849" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/zhouorientaux.webp' | relative_url }}" alt="Les Zhou orientaux" loading="lazy" decoding="async" width="1200" height="849" />
+  <br /><small><em>Carte des principautés de la dynastie Zhou. Le domaine royal, au centre, n'est plus qu'une tache minuscule au milieu des grands États qui se disputent le pays : le roi règne encore, il ne gouverne plus.</em></small></p>
 
 <p>Les Rong, peuple des marges occidentales qui harcelait la cour des Zhou depuis plus de cinquante ans, prennent leur capitale et tuent le roi. La dynastie ne s'en relèvera pas.</p>
 
@@ -3325,7 +3344,8 @@ tags: technology
 
 # -770 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/kouros.webp' | relative_url }}" alt="Kouros archaïque" loading="lazy" decoding="async" width="1200" height="1950" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/kouros.webp' | relative_url }}" alt="Kouros archaïque" loading="lazy" decoding="async" width="1200" height="1950" />
+  <br /><small><em>Kouros archaïque en marbre, vu de dos. Ces jeunes hommes nus, debout, un pied en avant, empruntent leur frontalité à l'Égypte — mais les Grecs abandonnent vite le pilier dorsal et libèrent la statue de son bloc.</em></small></p>
 
 <p>En un temps remarquablement court, la Grèce pose les fondations d'une culture sans équivalent.</p>
 
@@ -3335,7 +3355,8 @@ tags: technology
 
 # -760 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chassechine.webp' | relative_url }}" alt="Scène de chasse chinoise" loading="lazy" decoding="async" width="1200" height="1202" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/chassechine.webp' | relative_url }}" alt="Scène de chasse chinoise" loading="lazy" decoding="async" width="1200" height="1202" />
+  <br /><small><em>Miroir chinois en bronze, décor de chasse en relief. Le revers des miroirs a longtemps servi de support à ces scènes cynégétiques, plaisir aristocratique par excellence — jusqu'à ce que la raréfaction du gibier oblige à l'encadrer.</em></small></p>
 
 <p>La Chine découvre la rareté. Le défrichement massif des siècles précédents a détruit l'habitat de quantité d'espèces, et les expéditions de chasse rentrent désormais avec bien moins de gibier qu'au temps de l'abondance. L'élevage des moutons et des bovins a lui aussi fortement diminué.</p>
 
@@ -3416,7 +3437,8 @@ tags: technology
 
 # -740 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/isaie.webp' | relative_url }}" alt="Le prophète Isaïe" loading="lazy" decoding="async" width="701" height="1168" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/isaie.webp' | relative_url }}" alt="Le prophète Isaïe" loading="lazy" decoding="async" width="701" height="1168" />
+  <br /><small><em>Le prophète Isaïe, fresque de Raphaël à Sant'Agostino de Rome. Il tient un rouleau en hébreu : la vision qu'il reçoit dans le Temple ouvre trois siècles de prédication prophétique à Jérusalem.</em></small></p>
 
 <p>À Jérusalem, un homme a une vision dans le Temple et devient prophète : Isaïe. Le petit royaume de Juda est alors trop insignifiant pour attirer l'attention de l'Assyrie.</p>
 
@@ -3428,7 +3450,8 @@ tags: technology
 
 # -734 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/siegeassyrien.webp' | relative_url }}" alt="Siège assyrien" loading="lazy" decoding="async" width="1200" height="911" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/siegeassyrien.webp' | relative_url }}" alt="Siège assyrien" loading="lazy" decoding="async" width="1200" height="911" />
+  <br /><small><em>Relief assyrien : archers et frondeurs progressent sous les murs d'une ville, la pente couverte d'écailles figurant le relief. La guerre de siège est le savoir-faire militaire majeur de l'Assyrie.</em></small></p>
 
 <p>Tout change pour Juda. Les rois d'Israël et de Damas organisent une coalition contre l'avance assyrienne, et quand le roi Achaz de Juda refuse de s'y joindre, ils envoient une armée assiéger Jérusalem pour le déposer et mettre sur le trône quelqu'un de plus accommodant.</p>
 
@@ -3436,7 +3459,7 @@ tags: technology
 
 # -732 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/teglathphalasar.webp' | relative_url }}" alt="Teglath-Phalasar III" loading="lazy" decoding="async" width="720" height="1510" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/damas732.webp' | relative_url }}" alt="Relief assyrien de déportation" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>L'Assyrien punit ses vassaux rebelles sans perdre de temps. Il fond sur Damas, exécute son roi, descend la côte méditerranéenne en détruisant toute cité qui semble prête à faire défection. Puis vient le tour d'Israël : l'armée assyrienne s'empare de la Galilée et de la vallée de Jizréel, et envahit les territoires de la rive est du Jourdain.</p>
 
@@ -3444,7 +3467,8 @@ tags: technology
 
 # -722 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/deportationassyrienne.webp' | relative_url }}" alt="Déportation assyrienne" loading="lazy" decoding="async" width="1200" height="801" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/deportationassyrienne.webp' | relative_url }}" alt="Déportation assyrienne" loading="lazy" decoding="async" width="1200" height="801" />
+  <br /><small><em>Relief assyrien : des déportés emmenés sur un chariot à bœufs, femmes et enfants compris. La déportation n'est pas un débordement mais une politique — on vide un pays de ses cadres pour le rendre incapable de se révolter.</em></small></p>
 
 <p>L'Assyrie détruit le royaume d'Israël et déporte sa population — les fameuses « dix tribus perdues », qui se dissolvent dans les peuples voisins et disparaissent de l'histoire. C'est le sort normal des vaincus dans l'Antiquité : un peuple sans terre cesse d'exister, et son dieu, jugé faible, est abandonné pour celui du vainqueur.</p>
 
@@ -3469,7 +3493,8 @@ tags: technology
 
 # -700 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/sanctuairegrec.webp' | relative_url }}" alt="Sanctuaire grec" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/sanctuairegrec.webp' | relative_url }}" alt="Sanctuaire grec" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Chapiteau dorique se détachant sur le ciel. Le sanctuaire est l'institution qui structure le monde grec avant l'État : on y dépose des offrandes, on y concourt, et l'on y reconnaît des voisins comme des semblables.</em></small></p>
 
 <p>Le mouvement s'accélère. Des communautés restées petites pendant des générations se structurent en <em>poleis</em>, les cités-États ; les sanctuaires prennent de l'ampleur, les échanges maritimes s'intensifient, et des Grecs fondent des établissements jusqu'en Italie du Sud et en Sicile.</p>
 
@@ -3489,7 +3514,8 @@ tags: technology
 
 # -690 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/sparte.webp' | relative_url }}" alt="Sparte" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/sparte.webp' | relative_url }}" alt="Sparte" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>La plaine de Sparte au pied du Taygète, avec quelques tambours de colonnes dans l'herbe. La cité la plus redoutée de Grèce n'a presque rien bâti : Thucydide prévoyait qu'on n'y trouverait un jour aucune ruine à sa mesure.</em></small></p>
 
 <p>Le monde grec prospère, mais pas partout de la même façon. Athènes traîne encore derrière les autres ; ce sont les cités du Péloponnèse qui montent. C'est le siècle de Corinthe, admirablement placée pour le commerce méditerranéen, dotée d'un artisanat florissant, et qui, sous l'influence de l'Égypte, expérimente l'architecture monumentale.</p>
 
@@ -3499,7 +3525,8 @@ tags: technology
 
 # -680 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/hesiode.webp' | relative_url }}" alt="Hésiode" loading="lazy" decoding="async" width="744" height="1280" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/hesiode.webp' | relative_url }}" alt="Hésiode" loading="lazy" decoding="async" width="744" height="1280" />
+  <br /><small><em>Buste romain traditionnellement identifié comme Hésiode. Le poète se présente lui-même comme un paysan de Béotie en procès avec son frère — le premier auteur grec dont on connaisse la vie ordinaire plutôt que la légende.</em></small></p>
 
 <p>Hésiode compose en Béotie les œuvres qui lui sont traditionnellement attribuées, notamment la <em>Théogonie</em> et les <em>Travaux et les Jours</em>.</p>
 
@@ -3527,7 +3554,8 @@ tags: technology
 
 # -670 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/messenie.webp' | relative_url }}" alt="La Messénie" loading="lazy" decoding="async" width="1200" height="786" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/messenie.webp' | relative_url }}" alt="La Messénie" loading="lazy" decoding="async" width="1200" height="786" />
+  <br /><small><em>Les remparts de l'antique Messène. Sparte s'est approprié ce pays voisin et a réduit ses habitants en hilotes ; c'est cette dépendance qui transformera la cité en camp militaire permanent.</em></small></p>
 
 <p>La Messénie se révolte contre Sparte. La guerre sera longue et brutale, et se terminera par une reconquête complète.</p>
 
@@ -3537,7 +3565,8 @@ tags: technology
 
 # -656 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/psammetique.webp' | relative_url }}" alt="Psammétique Iᵉʳ" loading="lazy" decoding="async" width="450" height="652" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/psammetique.webp' | relative_url }}" alt="Psammétique Iᵉʳ" loading="lazy" decoding="async" width="450" height="652" />
+  <br /><small><em>Buste en pierre dure d'un pharaon coiffé du némès, attribué à Psammétique Iᵉʳ. Son règne chasse les garnisons assyriennes du Levant et rend, pour une génération, sa liberté au petit royaume de Juda.</em></small></p>
 
 <p>Le pharaon Psammétique Iᵉʳ contraint les troupes assyriennes à évacuer le Levant. Les habitants de Juda voient avec stupeur et joie les Assyriens quitter les territoires de l'ancien royaume du nord, disparu depuis soixante ans.</p>
 
@@ -3547,7 +3576,8 @@ tags: technology
 
 # -655 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/corinthe.webp' | relative_url }}" alt="Corinthe" loading="lazy" decoding="async" width="538" height="720" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/corinthe.webp' | relative_url }}" alt="Corinthe" loading="lazy" decoding="async" width="538" height="720" />
+  <br /><small><em>Ruines de Corinthe, statue drapée sans tête encastrée dans un mur. La cité la plus riche du Péloponnèse est aussi celle où un homme s'empare le premier du pouvoir sans y avoir droit — les Grecs l'appelleront tyrannos.</em></small></p>
 
 <p>Un homme s'empare du pouvoir à Corinthe sans y avoir droit — et d'autres cités suivront. Les Grecs l'appellent <em>tyrannos</em>, mot emprunté à l'Orient qui n'a pas encore le sens que nous lui donnons : il désigne simplement celui qui prend le pouvoir hors des règles et gouverne en dehors des lois établies, souvent en faveur du peuple et contre l'aristocratie.</p>
 
@@ -3588,7 +3618,8 @@ tags: technology
 
 # -640 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/guerrechinoise.webp' | relative_url }}" alt="Guerre des chars en Chine" loading="lazy" decoding="async" width="1200" height="1997" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/guerrechinoise.webp' | relative_url }}" alt="Guerre des chars en Chine" loading="lazy" decoding="async" width="1200" height="1997" />
+  <br /><small><em>Élément de char en bronze doré, décor de dragons ajourés. La guerre des chars chinoise obéit alors à des règles strictes : on n'attaque pas une armée qui n'a pas fini de se ranger, et vaincre en trichant ne prouve rien.</em></small></p>
 
 <p>La guerre chinoise, à la même époque, obéit à des principes qui paraissent d'un autre monde.</p>
 
@@ -3621,7 +3652,8 @@ tags: technology
 
 # -622 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/josias.webp' | relative_url }}" alt="Le roi Josias et le livre de la Loi" loading="lazy" decoding="async" width="1200" height="975" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/josias.webp' | relative_url }}" alt="Le roi Josias et le livre de la Loi" loading="lazy" decoding="async" width="1200" height="975" />
+  <br /><small><em>Le roi Josias écoutant la lecture du livre de la Loi, gravure du XVIᵉ siècle. Découvert au cours de travaux dans le Temple, ce livre — sans doute le noyau du Deutéronome — servira de programme à sa réforme religieuse.</em></small></p>
 
 <p>Josias lance de grands travaux sur le Temple de Salomon, ce mémorial de l'âge d'or supposé de Juda. C'est au cours de ces travaux qu'on découvrira le livre de la Loi qui déclenchera sa réforme.</p>
 
@@ -3638,7 +3670,8 @@ tags: technology
 
 # -610 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/nechao.webp' | relative_url }}" alt="Néchao II" loading="lazy" decoding="async" width="549" height="1339" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/nechao.webp' | relative_url }}" alt="Néchao II" loading="lazy" decoding="async" width="549" height="1339" />
+  <br /><small><em>Statuette d'un pharaon agenouillé, attribuée à Néchao II. Sa marche vers l'Euphrate, au secours d'une Assyrie moribonde, coûte la vie au roi Josias, tué à Megiddo au premier engagement.</em></small></p>
 
 <p>Le pharaon Psammétique meurt, et son successeur Néchao marche l'année suivante à travers la Palestine pour porter secours au roi d'Assyrie, désormais aux abois — car l'Empire assyrien s'effondre, et Babylone monte.</p>
 
@@ -3684,7 +3717,8 @@ tags: technology
 
 # -597 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chroniquebabylonienne.webp' | relative_url }}" alt="Chronique babylonienne" loading="lazy" decoding="async" width="1014" height="627" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/chroniquebabylonienne.webp' | relative_url }}" alt="Chronique babylonienne" loading="lazy" decoding="async" width="1014" height="627" />
+  <br /><small><em>Relevé d'une tablette des Chroniques babyloniennes. Ces textes secs, année par année, sont ce que l'histoire du Proche-Orient possède de plus proche d'un procès-verbal : c'est par eux qu'on date la prise de Jérusalem.</em></small></p>
 
 <p>Le roi de Jérusalem, placé devant le choix décrit plus haut — Babylone ou l'Égypte —, vient de choisir l'Égypte. Il s'est trompé.</p>
 
@@ -3708,7 +3742,8 @@ tags: technology
 
 # -594 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/solon.webp' | relative_url }}" alt="Solon" loading="lazy" decoding="async" width="1200" height="1960" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/solon.webp' | relative_url }}" alt="Solon" loading="lazy" decoding="async" width="1200" height="1960" />
+  <br /><small><em>Buste romain traditionnellement identifié comme Solon. Il annule les dettes, interdit l'esclavage pour dettes — puis refuse le pouvoir absolu qu'on lui offre pour imposer ses réformes.</em></small></p>
 
 <p>Athènes traverse une crise sociale grave : les petits paysans endettés perdent leurs terres, et beaucoup finissent réduits en esclavage pour dettes — vendus parfois à l'étranger. La cité est au bord de la guerre civile, et l'on confie à un homme le soin de tout réformer : Solon.</p>
 
@@ -3718,7 +3753,8 @@ tags: technology
 
 # -593 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/siegesong.webp' | relative_url }}" alt="Siège d'une ville chinoise" loading="lazy" decoding="async" width="800" height="685" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/siegesong.webp' | relative_url }}" alt="Siège d'une ville chinoise" loading="lazy" decoding="async" width="800" height="685" />
+  <br /><small><em>Reconstitution moderne d'une machine de siège chinoise à échelle roulante. Le siège de Song dure assez longtemps pour que ses habitants en viennent à manger leurs enfants — fait rapporté par les chroniques sans la moindre emphase.</em></small></p>
 
 <p>La ville de Song subit un siège interminable. Quand les vivres manquent, les habitants en viennent à manger leurs propres enfants.</p>
 
@@ -3726,7 +3762,7 @@ tags: technology
 
 # -589 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Ostraca de Lakish" loading="lazy" decoding="async" width="431" height="413" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ostracalakish.webp' | relative_url }}" alt="Les ostraca de Lakish" loading="lazy" decoding="async" width="431" height="413" /></p>
 
 <p>Un nouveau pharaon monte sur le trône d'Égypte et promet son soutien à quiconque se révoltera contre Babylone. Les États voisins s'agitent, une coalition se dessine, et les nobles de Jérusalem pressent Sédécias de rompre son serment.</p>
 
@@ -3736,7 +3772,8 @@ tags: technology
 
 # -586 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/destructionjerusalem.webp' | relative_url }}" alt="La destruction de Jérusalem" loading="lazy" decoding="async" width="1200" height="863" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/destructionjerusalem.webp' | relative_url }}" alt="La destruction de Jérusalem" loading="lazy" decoding="async" width="1200" height="863" />
+  <br /><small><em>« La destruction du Temple de Jérusalem », Francesco Hayez, 1867. La toile figure en réalité le sac romain de l'an 70 ; elle sert ici d'image du désastre que fut, six siècles plus tôt, l'incendie babylonien du premier Temple.</em></small></p>
 
 <p>Les Égyptiens viennent effectivement — le siège est levé quelques semaines, et la ville exulte. Puis ils repartent sans livrer bataille. Les Babyloniens reviennent, et cette fois ils restent dix-huit mois.</p>
 
@@ -3760,7 +3797,8 @@ tags: technology
 
 # -570 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/babylone.webp' | relative_url }}" alt="Babylone" loading="lazy" decoding="async" width="1200" height="732" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/babylone.webp' | relative_url }}" alt="Babylone" loading="lazy" decoding="async" width="1200" height="732" />
+  <br /><small><em>Lion en briques émaillées de la voie processionnelle de Babylone. Ces fauves jalonnaient l'avenue qui menait à la porte d'Ishtar — la ville où les déportés de Juda vont, contre toute attente, réinventer leur religion.</em></small></p>
 
 <p>À Babylone, les déportés font ce qu'aucun peuple vaincu n'avait fait : ils écrivent. Privés de temple, de terre et de roi, il ne leur reste que leur mémoire — et ils entreprennent de la sauver. Prêtres et scribes rassemblent les traditions anciennes, les lois, les généalogies, les récits des origines, les oracles des prophètes, et mettent tout cela en ordre.</p>
 
@@ -3770,13 +3808,15 @@ tags: technology
 
 # -563 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/lumbini.webp' | relative_url }}" alt="Lumbini" loading="lazy" decoding="async" width="1200" height="743" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lumbini.webp' | relative_url }}" alt="Lumbini" loading="lazy" decoding="async" width="1200" height="743" />
+  <br /><small><em>Le temple de Maya Devi à Lumbini, au Népal, et son bassin sacré. La tradition y place la naissance de Siddhartha Gautama ; un pilier d'Ashoka planté sur le site en fait l'un des lieux bouddhiques les mieux attestés.</em></small></p>
 
 <p>Naissance de Siddhartha Gautama dans une famille royale, dans la région de Lumbini, au Népal actuel (date traditionnelle — certaines chronologies le placent un siècle plus tard). Il grandit dans le luxe d'un palais, soigneusement tenu à l'écart de toute souffrance.</p>
 
 # -560 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/cresus.webp' | relative_url }}" alt="Monnaie de Crésus" loading="lazy" decoding="async" width="800" height="700" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cresus.webp' | relative_url }}" alt="Monnaie de Crésus" loading="lazy" decoding="async" width="800" height="700" />
+  <br /><small><em>Monnaie lydienne : un lion et un taureau affrontés. Crésus introduit le premier bimétallisme en frappant séparément l'or et l'argent — une valeur désormais garantie par l'État plutôt que par la pesée.</em></small></p>
 
 <p>En Lydie, le roi Crésus — dont la richesse est restée proverbiale — perfectionne la monnaie : il introduit le premier bimétallisme, frappant séparément des pièces d'or pur et d'argent pur, aux valeurs standardisées. Un jalon majeur de l'histoire économique.</p>
 
@@ -3793,7 +3833,8 @@ tags: technology
 
 # -550 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/jeremie.webp' | relative_url }}" alt="Le prophète Jérémie" loading="lazy" decoding="async" width="1200" height="1577" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/jeremie.webp' | relative_url }}" alt="Le prophète Jérémie" loading="lazy" decoding="async" width="1200" height="1577" />
+  <br /><small><em>Le prophète Jérémie, gravure d'après la fresque de Michel-Ange à la chapelle Sixtine. Jérémie répète que la révolte contre Babylone est un suicide et que l'Égypte est un roseau brisé ; on l'écoute trop tard.</em></small></p>
 
 <p>La catastrophe reçoit alors une explication que les prophètes avaient préparée : Jérémie et d'autres l'avaient annoncée avant qu'elle n'arrive, disant que Dieu punirait l'infidélité de son peuple. Les vaincus tiennent donc leur défaite non pour la preuve que leur dieu était faible, mais pour la preuve qu'il avait raison — Nabuchodonosor n'est pas son vainqueur, il est son instrument.</p>
 
@@ -3803,7 +3844,8 @@ tags: technology
 
 # -549 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/cyrus.webp' | relative_url }}" alt="Cyrus le Grand" loading="lazy" decoding="async" width="783" height="1175" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cyrus.webp' | relative_url }}" alt="Cyrus le Grand" loading="lazy" decoding="async" width="783" height="1175" />
+  <br /><small><em>Le tombeau de Cyrus à Pasargades, sous la Voie lactée. Le fondateur de l'Empire perse gouverne par une méthode inverse de celle des Assyriens : restaurer les cultes locaux et renvoyer chez eux les peuples déportés.</em></small></p>
 
 <p>À l'est, un roi vassal de la Perse renverse son suzerain mède et fonde ce qui deviendra, en une génération, le plus vaste empire que le monde ait connu : Cyrus, que l'histoire appellera le Grand.</p>
 
@@ -3813,7 +3855,8 @@ tags: technology
 
 # -547 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/pisistrate.webp' | relative_url }}" alt="Pisistrate" loading="lazy" decoding="async" width="457" height="768" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/pisistrate.webp' | relative_url }}" alt="Pisistrate" loading="lazy" decoding="async" width="457" height="768" />
+  <br /><small><em>Buste antique traditionnellement identifié comme Pisistrate. Ce tyran d'Athènes prête aux paysans ruinés, lance de grands travaux et transforme l'Acropole en sanctuaire — la démocratie héritera de ses monuments.</em></small></p>
 
 <p>Un tyran s'empare d'Athènes. Pisistrate, venu de la cité voisine de Brauron, dont la famille contrôle les plaines du nord, se fait le champion des mécontents — et lui puis ses fils gouverneront la ville pendant près de quarante ans.</p>
 
@@ -3825,7 +3868,8 @@ tags: technology
 
 # -540 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/genese.webp' | relative_url }}" alt="La Genèse" loading="lazy" decoding="async" width="1200" height="1779" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/genese.webp' | relative_url }}" alt="La Genèse" loading="lazy" decoding="async" width="1200" height="1779" />
+  <br /><small><em>Page enluminée du livre de la Genèse : la création figurée en cercles concentriques. Le récit a été écrit par des prêtres exilés à Babylone, en réponse polie et implacable au mythe guerrier de leurs vainqueurs.</em></small></p>
 
 <p>Un prêtre exilé à Babylone entreprend de raconter la création du monde — et son texte deviendra le premier chapitre de la Bible.</p>
 
@@ -3856,7 +3900,8 @@ tags: technology
 
 # -534 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/quatrerencontres.webp' | relative_url }}" alt="Les quatre rencontres" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/quatrerencontres.webp' | relative_url }}" alt="Les quatre rencontres" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Relief en schiste du Gandhara illustrant la vie du Bouddha, dont son départ à cheval. Ces panneaux, sculptés aux confins gréco-indiens, comptent parmi les plus anciennes images figurées du personnage.</em></small></p>
 
 <p>Siddhartha Gautama sort de son palais et rencontre ce qu'on lui avait toujours caché : un vieillard, un malade, un mort. Bouleversé par la découverte de la souffrance universelle, il quitte la vie princière, sa femme et son fils, pour devenir ascète errant et chercher une issue à la douleur humaine.</p>
 
@@ -3868,7 +3913,8 @@ tags: technology
 
 # -530 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/pythagore.webp' | relative_url }}" alt="Pythagore" loading="lazy" decoding="async" width="1200" height="1733" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/pythagore.webp' | relative_url }}" alt="Pythagore" loading="lazy" decoding="async" width="1200" height="1733" />
+  <br /><small><em>Buste en bronze de Pythagore. Son école du sud de l'Italie est à la fois communauté philosophique, scientifique et religieuse : on y étudie les nombres et l'on y croit à la transmigration des âmes.</em></small></p>
 
 <p>Deux mouvements marginaux apparaissent en Grèce, qui vont dans une direction toute différente de celle de la cité guerrière.</p>
 
@@ -3897,7 +3943,8 @@ tags: technology
 
 # -527 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/mahavira.webp' | relative_url }}" alt="Mahavira" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mahavira.webp' | relative_url }}" alt="Mahavira" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Intérieur d'un temple jaïn moderne, statue de Mahavira sur son autel. Le jaïnisme pousse l'ahimsa jusqu'à sa conséquence extrême : toute créature possède une âme, et toute violence attache l'âme à la matière.</em></small></p>
 
 <p>Dans la tradition jaïne, l'<em>ahimsa</em> est poussée jusqu'à une conséquence extraordinaire : toute créature vivante possède une âme, et toute violence produit du karma qui attache davantage celui qui la commet au cycle des renaissances. Tuer n'est donc pas seulement immoral ; c'est compromettre directement sa propre libération.</p>
 
@@ -3907,7 +3954,8 @@ tags: technology
 
 # -521 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/disciplesconfucius.webp' | relative_url }}" alt="Confucius et ses disciples" loading="lazy" decoding="async" width="1100" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/disciplesconfucius.webp' | relative_url }}" alt="Confucius et ses disciples" loading="lazy" decoding="async" width="1100" height="1600" />
+  <br /><small><em>Confucius, peinture à l'encre sur soie. Il accepte pour disciples tous ceux qui viennent, sans considérer leur naissance ni leur fortune — ce qui, à son époque, est proprement inouï.</em></small></p>
 
 <p>Kong Qiu a trente ans, et il maîtrise désormais la science des rites. C'est l'âge, dira-t-il en résumant sa vie, où il s'est tenu debout.</p>
 
@@ -3926,7 +3974,8 @@ tags: technology
 
 # -510 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/epeegoujian.webp' | relative_url }}" alt="L'épée de Goujian" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/epeegoujian.webp' | relative_url }}" alt="L'épée de Goujian" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>L'épée de Goujian, bronze à décor de losanges, retrouvée intacte et sans rouille après vingt-quatre siècles. Elle témoigne d'une métallurgie chinoise que l'on n'aurait pas soupçonnée si la lame n'avait pas survécu.</em></small></p>
 
 <p>L'équilibre chinois s'est déplacé. Chu, la puissance du sud qui avait fait basculer la région dans la guerre totale, a fini par être vaincue à son tour — et c'est désormais Qi, sur la côte orientale, qui domine la plaine.</p>
 
@@ -3934,7 +3983,8 @@ tags: technology
 
 # -509 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/republiqueromaine.webp' | relative_url }}" alt="Buste de Lucius Junius Brutus" loading="lazy" decoding="async" width="1200" height="1598" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/republiqueromaine.webp' | relative_url }}" alt="Buste de Lucius Junius Brutus" loading="lazy" decoding="async" width="1200" height="1598" />
+  <br /><small><em>Buste de bronze dit « Brutus du Capitole », traditionnellement associé au fondateur de la République. Rome chasse son dernier roi et se donne des institutions faites pour empêcher à jamais le pouvoir d'un seul.</em></small></p>
 
 <p>À Rome, la monarchie tombe : le dernier roi, Tarquin le Superbe, est chassé, et l'élite comme le peuple veulent un système qui empêche à jamais le pouvoir d'un seul. Naît la République : deux consuls élus pour un an seulement et gouvernant ensemble, un Sénat pour conseiller, des assemblées populaires pour les grandes décisions — la séparation des pouvoirs avant la lettre. Ce régime portera Rome à la domination de la Méditerranée.</p>
 
@@ -3949,7 +3999,8 @@ tags: technology
 
 # -505 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/printempsautomnes.webp' | relative_url }}" alt="La période des Printemps et Automnes" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/printempsautomnes.webp' | relative_url }}" alt="La période des Printemps et Automnes" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Bassin rituel chinois en bronze. La période des Printemps et Automnes voit les hiérarchies se déliter : les barons usurpent le pouvoir des ducs, leurs intendants celui des barons, et plus personne n'occupe la place qui lui revient.</em></small></p>
 
 <p>Les structures politiques et sociales se disloquent, et la Chine semble se précipiter vers l'anarchie. Les nobles se révoltent contre leurs princes, les intendants prennent le pas sur les nobles, et dans certaines principautés le duc ne règne plus que de nom pendant que trois familles se partagent le pouvoir réel.</p>
 
@@ -3973,7 +4024,8 @@ tags: technology
 
 # -500 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ahimsa.webp' | relative_url }}" alt="L'ahimsa" loading="lazy" decoding="async" width="1200" height="2552" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ahimsa.webp' | relative_url }}" alt="L'ahimsa" loading="lazy" decoding="async" width="1200" height="2552" />
+  <br /><small><em>Le symbole jaïn de l'ahimsa : une main ouverte portant la roue et le mot « ne pas nuire ». Le principe cesse à cette époque d'être l'affaire des seuls ascètes pour devenir une exigence proposée à tous.</em></small></p>
 
 <p>En Inde survient l'un des retournements les plus inattendus de l'histoire religieuse. Les descendants des anciens éleveurs guerriers védiques, qui ont sacrifié des animaux pendant des siècles et célébré une religion de combattants, font progressivement émerger un idéal presque exactement inverse : l'<em>ahimsa</em>, la non-violence.</p>
 
@@ -3999,7 +4051,8 @@ tags: technology
 
 # -497 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/confuciusroutes.webp' | relative_url }}" alt="Confucius" loading="lazy" decoding="async" width="698" height="1417" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/confuciusroutes.webp' | relative_url }}" alt="Confucius" loading="lazy" decoding="async" width="698" height="1417" />
+  <br /><small><em>Estampage d'une gravure sur pierre représentant Confucius debout. Il quitte Lu vers cinquante ans et passe treize ans sur les routes à proposer ses services ; aucun prince ne le prendra vraiment au sérieux.</em></small></p>
 
 <p>Après quelques charges à Lu où il n'obtient jamais durablement l'oreille du prince, Kong Qiu quitte sa principauté et part sur les routes. Il a une cinquantaine d'années, et il voyagera treize ans de cour en cour pour proposer ses services aux souverains.</p>
 
@@ -4020,7 +4073,8 @@ tags: technology
 
 # -483 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/parinirvana.webp' | relative_url }}" alt="Le parinirvana du Bouddha" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/parinirvana.webp' | relative_url }}" alt="Le parinirvana du Bouddha" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Bouddha couché monumental, sanctuaire chinois contemporain. La position figure le parinirvana — l'extinction complète — et non le sommeil : c'est la mort du Bouddha, à quatre-vingts ans environ.</em></small></p>
 
 <p>Mort du Bouddha, à environ quatre-vingts ans — le parinirvana, l'extinction complète. Ses disciples réunissent et mémorisent son enseignement, qui se répandra sur toute l'Asie.</p>
 
@@ -4063,7 +4117,8 @@ tags: technology
 
 # -479 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/platees.webp' | relative_url }}" alt="La bataille de Platées" loading="lazy" decoding="async" width="1200" height="793" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/platees.webp' | relative_url }}" alt="La bataille de Platées" loading="lazy" decoding="async" width="1200" height="793" />
+  <br /><small><em>La bataille de Platées, illustration moderne. La phalange grecque, lances abaissées et boucliers joints, affronte une infanterie perse moins protégée : la défaite de Mardonios met fin à l'invasion lancée par Xerxès.</em></small></p>
 
 <p>La guerre commencée l'année précédente n'est pas terminée. Au printemps, l'armée de Mardonios occupe de nouveau Athènes, dont la population a une nouvelle fois été évacuée.</p>
 
@@ -4079,7 +4134,8 @@ tags: technology
 
 # -477 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/liguededelos.webp' | relative_url }}" alt="La ligue de Délos" loading="lazy" decoding="async" width="866" height="486" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/liguededelos.webp' | relative_url }}" alt="La ligue de Délos" loading="lazy" decoding="async" width="866" height="486" />
+  <br /><small><em>Carte de la campagne d'Égypte menée par la ligue de Délos, 460-454 av. J.-C. L'alliance formée contre la Perse commence à servir les ambitions propres d'Athènes, qui en tire un empire maritime.</em></small></p>
 
 <p>De nombreuses cités grecques des îles et des côtes d'Asie Mineure restent exposées à la puissance perse. Sparte, grande puissance terrestre, se montre de moins en moins disposée à conduire des opérations lointaines en mer. Athènes, au contraire, possède désormais l'une des principales flottes du monde grec.</p>
 
@@ -4105,7 +4161,8 @@ tags: technology
 
 # -458 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/eschyle.webp' | relative_url }}" alt="Eschyle" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/eschyle.webp' | relative_url }}" alt="Eschyle" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Buste d'Eschyle à Athènes, socle portant ses dates en grec. Avec l'Orestie, il fait ce que le monde archaïque n'aurait pas imaginé : arrêter la chaîne des vengeances en confiant le jugement à un tribunal de citoyens.</em></small></p>
 
 <p>Eschyle présente à Athènes l'<em>Orestie</em>, trois tragédies enchaînées qui reprennent l'histoire de la maison d'Atrée et lui donnent sa forme définitive.</p>
 
@@ -4127,7 +4184,8 @@ tags: technology
 
 # -400 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/narezushi.webp' | relative_url }}" alt="Narezushi" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/narezushi.webp' | relative_url }}" alt="Narezushi" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Narezushi : du poisson salé, intercalé de riz cuit et laissé fermenter des mois. Le riz n'était d'abord qu'un agent de conservation, qu'on jetait — c'est de ce procédé chinois que descend, très indirectement, le sushi.</em></small></p>
 
 <p>En Chine, on met au point une technique de conservation promise à un destin savoureux : le poisson fermenté au riz. Vidé et abondamment salé, le poisson est intercalé dans du riz cuit, pressé sous des poids, et laissé à fermenter des semaines ou des mois — le riz n'est pas mangé : il sert uniquement à déclencher et contrôler la fermentation lactique qui préserve la chair. Cette pratique voyagera vers le Japon et évoluera, des siècles plus tard, pour donner naissance au sushi — où le riz vinaigré finira par remplacer la longue fermentation.</p>
 
@@ -4151,7 +4209,8 @@ tags: technology
 
 # -350 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Le Daodejing" loading="lazy" decoding="async" width="453" height="1000" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Le Daodejing" loading="lazy" decoding="async" width="453" height="1000" />
+  <br /><small><em>Manuscrit du Daodejing sur soie. Le texte fait l'éloge systématique de ce que son époque méprise — l'eau, le vide, le non-agir — au moment précis où les États chinois deviennent plus puissants et plus interventionnistes.</em></small></p>
 
 <p>C'est probablement à cette époque, pendant la période des Royaumes combattants, que se forme le texte lui-même : le <em>Daodejing</em>, ou <em>Livre de la Voie et de la Vertu</em>. Non pas écrit d'un jet par un homme, mais compilé progressivement — sentences rythmées, formules mémorisables, matériaux anciens transmis oralement puis rassemblés.</p>
 
@@ -4159,7 +4218,8 @@ tags: technology
 
 # -332 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ptolemees.webp' | relative_url }}" alt="L'Égypte ptolémaïque" loading="lazy" decoding="async" width="447" height="494" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ptolemees.webp' | relative_url }}" alt="L'Égypte ptolémaïque" loading="lazy" decoding="async" width="447" height="494" />
+  <br /><small><em>Relief égyptien d'époque ptolémaïque. Les successeurs d'Alexandre gouvernent l'Égypte en pharaons : ils se font représenter selon les canons millénaires du pays tout en parlant grec à la cour d'Alexandrie.</em></small></p>
 
 <p>Alexandre le Grand conquiert l'Égypte, accueilli en libérateur du joug perse. Début de la domination grecque sur le pays : la dynastie des Ptolémées, issue d'un de ses généraux, régnera trois siècles sur le Nil.</p>
 
@@ -4183,13 +4243,15 @@ tags: technology
 
 # -323 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/diadoques.webp' | relative_url }}" alt="Les royaumes des Diadoques" loading="lazy" decoding="async" width="1200" height="297" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/diadoques.webp' | relative_url }}" alt="Les royaumes des Diadoques" loading="lazy" decoding="async" width="1200" height="297" />
+  <br /><small><em>Cartes anciennes des royaumes issus du partage de l'empire d'Alexandre. « Au plus fort », aurait-il soufflé en mourant sans héritier désigné : ses généraux mettront quarante ans à se départager.</em></small></p>
 
 <p>Alexandre meurt à Babylone, à trente-deux ans, sans héritier désigné — à qui l'empire ? « Au plus fort », aurait-il soufflé. Ses généraux se le déchirent en royaumes rivaux : l'Égypte aux Ptolémées, l'Asie aux Séleucides, la Macédoine aux Antigonides.</p>
 
 # -322 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chandragupta.webp' | relative_url }}" alt="Chandragupta Maurya" loading="lazy" decoding="async" width="1200" height="1176" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/chandragupta.webp' | relative_url }}" alt="Chandragupta Maurya" loading="lazy" decoding="async" width="1200" height="1176" />
+  <br /><small><em>Carte de l'Empire maurya sous Chandragupta, vers -290. Pour la première fois, une puissance politique contrôle la plus grande partie du sous-continent indien — un État bâti sur l'agriculture intensive, le fer et l'impôt.</em></small></p>
 
 <p>Chandragupta Maurya s'empare de Magadha et fonde la dynastie Maurya. Pour la première fois, une puissance politique va parvenir à contrôler une grande partie du sous-continent indien. Quelques années auparavant, Alexandre le Grand avait atteint la vallée de l'Indus avant que son armée refuse de poursuivre vers l'est : l'Inde du Nord appartient désormais à un monde où les grands ensembles indien, iranien et hellénistique peuvent entrer en contact.</p>
 
@@ -4197,7 +4259,8 @@ tags: technology
 
 # -320 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/royaumescombattants.webp' | relative_url }}" alt="Les Royaumes combattants" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/royaumescombattants.webp' | relative_url }}" alt="Les Royaumes combattants" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Plaque de bronze incrustée d'or et d'argent : le plan d'un ensemble funéraire princier. C'est le plus ancien plan d'architecture à l'échelle conservé au monde, produit d'une époque où les États chinois s'administrent comme ils se combattent.</em></small></p>
 
 <p>À l'autre extrémité de l'Asie, la Chine traverse la période des Royaumes combattants. L'autorité de l'ancienne dynastie Zhou est devenue largement symbolique et plusieurs États territoriaux se livrent une compétition politique et militaire permanente.</p>
 
@@ -4218,7 +4281,8 @@ tags: technology
 
 # -261 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/kalinga.webp' | relative_url }}" alt="La guerre du Kalinga" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/kalinga.webp' | relative_url }}" alt="La guerre du Kalinga" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Le stupa de la paix à Dhauli, en Odisha, élevé près du champ de bataille du Kalinga. Ashoka fait graver son remords dans la pierre — un vainqueur qui publie lui-même le décompte des morts qu'il a causés.</em></small></p>
 
 <p>En Inde, l'Empire maurya est devenu en quelques générations la plus grande puissance politique que le sous-continent ait connue jusque-là. Depuis sa capitale de Pataliputra, dans la vallée du Gange, la dynastie contrôle un immense territoire s'étendant sur une grande partie du nord et du centre de l'Inde et jusqu'aux régions de l'actuel Afghanistan. Mais une région importante échappe encore à son autorité : le Kalinga, sur la côte orientale, dans la région de l'actuel Odisha.</p>
 
@@ -4268,7 +4332,8 @@ tags: technology
 
 # -257 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/brahmi.webp' | relative_url }}" alt="Écriture brahmi" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/brahmi.webp' | relative_url }}" alt="Écriture brahmi" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>L'abri moderne qui protège un édit rupestre d'Ashoka. Le texte est gravé à même le rocher, en brahmi : après des siècles de transmission strictement orale, l'Inde se met à confier ses mots à la pierre.</em></small></p>
 
 <p>L'Empire maurya est immense et linguistiquement divers. La majorité des inscriptions d'Ashoka utilisent différentes formes de prakrit écrites en brahmi ; dans le nord-ouest, certaines emploient le kharoshthi. À Kandahar, aux frontières occidentales de l'empire, Ashoka fait même inscrire des textes en grec et en araméen, témoignage matériel d'un monde où l'Inde, l'ancien Empire perse et les royaumes hellénistiques sont désormais en contact.</p>
 
@@ -4330,7 +4395,8 @@ tags: technology
 
 # -217 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/trasimene.webp' | relative_url }}" alt="Le lac Trasimène" loading="lazy" decoding="async" width="781" height="600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/trasimene.webp' | relative_url }}" alt="Le lac Trasimène" loading="lazy" decoding="async" width="781" height="600" />
+  <br /><small><em>Carte de l'embuscade du lac Trasimène, -217. Hannibal aligne ses troupes sur les hauteurs et laisse l'armée romaine s'engager entre les collines et le rivage, dans la brume : elle n'a pas le temps de former sa ligne.</em></small></p>
 
 <p>Au printemps -217, Hannibal poursuit sa marche vers le sud. L'une des armées romaines commandées par le consul Caius Flaminius tente de le suivre. Hannibal exploite alors le terrain pour préparer l'une des embuscades les plus célèbres de l'histoire militaire antique.</p>
 
@@ -4363,7 +4429,8 @@ tags: technology
 
 # -215 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/hieron.webp' | relative_url }}" alt="Hiéron II de Syracuse" loading="lazy" decoding="async" width="1200" height="1200" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/hieron.webp' | relative_url }}" alt="Hiéron II de Syracuse" loading="lazy" decoding="async" width="1200" height="1200" />
+  <br /><small><em>Monnaie d'or de Syracuse. Hiéron II a stabilisé la cité par un demi-siècle de règne et d'alliance avec Rome ; sa mort ouvre la crise politique qui livrera Syracuse au siège de Marcellus.</em></small></p>
 
 <p>Hiéron II meurt après un règne de plus d'un demi-siècle. Sa disparition bouleverse l'équilibre politique de Syracuse. Son petit-fils Hiéronyme, encore très jeune, lui succède dans une Méditerranée où la puissance romaine semble soudain beaucoup moins invincible qu'auparavant.</p>
 
@@ -4373,7 +4440,8 @@ tags: technology
 
 # -214 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/siegesyracuse.webp' | relative_url }}" alt="La mort d'Archimède" loading="lazy" decoding="async" width="1200" height="917" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/siegesyracuse.webp' | relative_url }}" alt="La mort d'Archimède" loading="lazy" decoding="async" width="1200" height="917" />
+  <br /><small><em>« La mort d'Archimède », mosaïque romaine. Le savant est tué pendant la prise de Syracuse par un soldat, alors que Marcellus aurait ordonné qu'on l'épargne ; les sources antiques en donnent plusieurs versions.</em></small></p>
 
 <p>Rome décide de reprendre le contrôle de Syracuse. Le consul Marcus Claudius Marcellus arrive devant la cité avec des forces terrestres et navales et commence le siège. Les Romains s'attendent à employer les méthodes habituelles de la guerre hellénistique : approcher les murailles, utiliser des échelles et des machines de siège, puis exploiter leur supériorité militaire.</p>
 
@@ -4387,7 +4455,8 @@ tags: technology
 
 # -212 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/griffedarchimede.webp' | relative_url }}" alt="La griffe d'Archimède" loading="lazy" decoding="async" width="1200" height="966" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/griffedarchimede.webp' | relative_url }}" alt="La griffe d'Archimède" loading="lazy" decoding="async" width="1200" height="966" />
+  <br /><small><em>La griffe d'Archimède saisissant un navire, fresque de Giulio Parigi. Les auteurs antiques décrivent des mécanismes capables de soulever la proue des bateaux romains ; l'assaut direct sur Syracuse échoue pendant deux ans.</em></small></p>
 
 <p>Après environ deux années de siège, Syracuse tient toujours. Les machines d'Archimède ont contribué à rendre extrêmement difficiles les assauts directs, mais elles ne peuvent résoudre le problème politique et militaire fondamental : la cité est encerclée par une puissance disposant de ressources considérables et capable d'attendre.</p>
 
@@ -4401,7 +4470,8 @@ tags: technology
 
 # -202 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/zama.webp' | relative_url }}" alt="La bataille de Zama" loading="lazy" decoding="async" width="1200" height="907" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/zama.webp' | relative_url }}" alt="La bataille de Zama" loading="lazy" decoding="async" width="1200" height="907" />
+  <br /><small><em>La bataille de Zama, peinture de l'atelier de Giulio Romano. Scipion porte la guerre en Afrique et bat Hannibal sur son propre sol ; Carthage capitule, et Rome devient la puissance dominante de la Méditerranée.</em></small></p>
 
 <p>Bataille de Zama : Scipion l'Africain, portant à son tour la guerre en Afrique, vainc Hannibal sur son propre sol. Carthage capitule — Rome devient la puissance dominante de la Méditerranée occidentale, et rien ne l'arrêtera plus.</p>
 
@@ -4433,13 +4503,15 @@ tags: technology
 
 # -136 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/hanwudi.webp' | relative_url }}" alt="L'empereur Han Wudi" loading="lazy" decoding="async" width="1200" height="1613" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/hanwudi.webp' | relative_url }}" alt="L'empereur Han Wudi" loading="lazy" decoding="async" width="1200" height="1613" />
+  <br /><small><em>L'empereur Han Wudi, portrait à l'encre sur soie. Il fait du confucianisme l'idéologie officielle de l'empire : les fonctionnaires seront désormais formés, puis recrutés, sur les Classiques.</em></small></p>
 
 <p>L'empereur Han Wudi adopte le confucianisme comme idéologie officielle de l'empire chinois : les fonctionnaires seront désormais formés — et bientôt recrutés par concours — sur les classiques confucéens. Le mariage de la bureaucratie et de la morale confucéenne structurera la Chine pendant deux mille ans.</p>
 
 # -120 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/simaqian.webp' | relative_url }}" alt="Sima Qian" loading="lazy" decoding="async" width="970" height="1290" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/simaqian.webp' | relative_url }}" alt="Sima Qian" loading="lazy" decoding="async" width="970" height="1290" />
+  <br /><small><em>Sima Qian, dessin traditionnel chinois. Fils du grand astrologue-archiviste des Han, il achève l'œuvre de son père et invente l'histoire chinoise comme genre — après avoir subi la castration plutôt que de renoncer à écrire.</em></small></p>
 
 <p>À la cour des Han, un érudit du nom de Sima Tan occupe la charge de grand astrologue-archiviste — gardien des textes, des calendriers et de la mémoire de l'empire, et père du plus grand historien de la Chine, Sima Qian. Devant l'immense héritage intellectuel des siècles précédents, il entreprend de mettre de l'ordre : il classe la pensée chinoise en six grands courants — confucianistes, moïstes, légistes, logiciens, école du Yin-Yang — et, pour le sixième, forge une étiquette pour un ensemble de textes qui n'en avait pas : l'« école du Dao », la Voie.</p>
 
@@ -4466,7 +4538,8 @@ tags: technology
 
 # -58 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/guerredesgaules.webp' | relative_url }}" alt="Les fortifications d'Alésia" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/guerredesgaules.webp' | relative_url }}" alt="Les fortifications d'Alésia" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Reconstitution des fortifications romaines d'Alésia : palissade, tours de guet et fossés. César y enferme Vercingétorix derrière une double ligne, tournée vers la place assiégée et vers l'armée de secours.</em></small></p>
 
 <p>Jules César, proconsul de la Gaule cisalpine, trouve son prétexte : la migration des Helvètes menacerait les alliés de Rome. Il les écrase, puis ne s'arrête plus. Ainsi commence la Guerre des Gaules — huit années de campagnes sur un territoire qui couvre la France, la Belgique, la Suisse et des parties des Pays-Bas, de l'Allemagne et de l'Italie du Nord actuels.</p>
 
@@ -4485,13 +4558,15 @@ tags: technology
 
 # -49 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/rubicon.webp' | relative_url }}" alt="Le passage du Rubicon" loading="lazy" decoding="async" width="490" height="640" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/rubicon.webp' | relative_url }}" alt="Le passage du Rubicon" loading="lazy" decoding="async" width="490" height="640" />
+  <br /><small><em>César franchissant le Rubicon, illustration du XXᵉ siècle. Passer ce ruisseau en armes équivaut à déclarer la guerre à Rome : le Sénat lui avait ordonné de licencier ses légions, il choisit de les garder.</em></small></p>
 
 <p>Auréolé de gloire, riche du butin de tout un pays, à la tête de légions qui lui sont dévouées, César est devenu trop puissant pour la République. Le Sénat lui ordonne de licencier son armée ; il refuse, et franchit avec elle le Rubicon — le petit fleuve qui marque la limite au-delà de laquelle nul général ne peut mener ses troupes vers Rome. Franchir cette rivière, c'est déclarer la guerre à son propre État. « Le sort en est jeté », aurait-il dit — et l'expression « franchir le Rubicon » désigne depuis lors le point de non-retour. La guerre civile commence ; la République, elle, ne s'en relèvera pas.</p>
 
 # -46 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/triompheromain.webp' | relative_url }}" alt="Un triomphe romain" loading="lazy" decoding="async" width="1200" height="786" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/triompheromain.webp' | relative_url }}" alt="Un triomphe romain" loading="lazy" decoding="async" width="1200" height="786" />
+  <br /><small><em>Un triomphe romain, tapisserie de la Renaissance. La procession traverse la ville sur plusieurs kilomètres ; derrière le général, sur le char, un esclave a pour seule fonction de lui répéter qu'il n'est qu'un mortel.</em></small></p>
 
 <p>César célèbre son triomphe — la plus haute récompense qu'un général romain puisse recevoir : une immense procession qui traverse la ville sur plusieurs kilomètres. L'ordre du cortège est immuable. En tête viennent les magistrats, puis les chars croulant sous le butin et de grands tableaux peints représentant les batailles gagnées. Viennent ensuite les prisonniers, à pied, enchaînés. Puis le vainqueur lui-même, debout sur un char tiré par quatre chevaux blancs, drapé de pourpre et le visage peint en rouge — comme la statue de Jupiter. Et fermant la marche, les légions, qui chantent sur leur général des chansons paillardes : la tradition l'exige.</p>
 
@@ -4520,7 +4595,8 @@ tags: technology
 
 # -42 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/philippes.webp' | relative_url }}" alt="La bataille de Philippes" loading="lazy" decoding="async" width="1200" height="1069" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/philippes.webp' | relative_url }}" alt="La bataille de Philippes" loading="lazy" decoding="async" width="1200" height="1069" />
+  <br /><small><em>Carte de la bataille de Philippes, en Macédoine. Les héritiers de César y écrasent Brutus et Cassius ; les vainqueurs se partagent ensuite le monde romain, Antoine l'Orient et Octavien l'Occident.</em></small></p>
 
 <p>À Philippes, en Macédoine, les héritiers de César — Octavien, son fils adoptif de vingt et un ans, et Marc Antoine, son lieutenant — écrasent les armées de Brutus et Cassius. Les deux tyrannicides se suicident sur le champ de bataille. La cause républicaine est morte avec eux : plus personne, désormais, ne se battra pour le Sénat.</p>
 
@@ -4537,19 +4613,22 @@ tags: technology
 
 # -32 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/marcantoine.webp' | relative_url }}" alt="Marc Antoine" loading="lazy" decoding="async" width="800" height="1046" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/marcantoine.webp' | relative_url }}" alt="Marc Antoine" loading="lazy" decoding="async" width="800" height="1046" />
+  <br /><small><em>Buste romain de Marc Antoine. Lieutenant de César devenu maître de l'Orient, il perdra la guerre de propagande avant de perdre celle des armes.</em></small></p>
 
 <p>Octavien gagne la bataille avant de la livrer, et il la gagne par la propagande. Il s'empare du testament d'Antoine déposé chez les vestales — un sacrilège — et le lit publiquement au Sénat : Antoine y reconnaît ses enfants égyptiens, lègue des territoires romains à une reine étrangère, demande à être enterré à Alexandrie et non à Rome. Le message qu'Octavien martèle est simple et dévastateur : Antoine n'est plus romain, il est devenu l'instrument d'une souveraine orientale qui veut régner sur Rome. Officiellement, Rome ne déclare donc pas la guerre à un citoyen — ce serait une guerre civile de plus — mais à l'Égypte de Cléopâtre. Le conflit devient patriotique.</p>
 
 # -31 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/actium.webp' | relative_url }}" alt="La bataille d'Actium" loading="lazy" decoding="async" width="1200" height="844" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/actium.webp' | relative_url }}" alt="La bataille d'Actium" loading="lazy" decoding="async" width="1200" height="844" />
+  <br /><small><em>La bataille d'Actium, peinture baroque du XVIIᵉ siècle — navires et costumes y sont ceux de l'époque du peintre. Antoine et Cléopâtre rompent le combat et s'échappent ; la guerre est jouée.</em></small></p>
 
 <p>Le 2 septembre, au large d'Actium, en Grèce, les deux flottes s'affrontent. Celle d'Antoine est plus lourde, mais rongée par la maladie, les désertions et le manque de rameurs. Agrippa, l'amiral d'Octavien, l'enferme dans le golfe et l'affame. Quand la bataille s'engage enfin, Cléopâtre force le blocus avec son escadre et s'échappe vers l'Égypte ; Antoine la suit, abandonnant sa flotte. Ses partisans passent en masse à l'ennemi. Le dernier obstacle est tombé : Octavien reste seul maître du monde romain.</p>
 
 # -30 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/mortcleopatre.webp' | relative_url }}" alt="La mort de Cléopâtre" loading="lazy" decoding="async" width="1200" height="1375" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mortcleopatre.webp' | relative_url }}" alt="La mort de Cléopâtre" loading="lazy" decoding="async" width="1200" height="1375" />
+  <br /><small><em>La mort de Cléopâtre, peinture baroque. Octavien la voulait vivante pour son triomphe ; elle se donne la mort parée en reine plutôt que de marcher dans le cortège du vainqueur.</em></small></p>
 
 <p>Octavien marche sur l'Égypte. Alexandrie tombe sans véritable combat ; Antoine, croyant Cléopâtre morte, se jette sur son épée. La reine, elle, se réfugie dans son mausolée — et se retrouve prisonnière chez elle.</p>
 
@@ -4574,7 +4653,8 @@ tags: technology
 
 # -19 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/virgile.webp' | relative_url }}" alt="Virgile" loading="lazy" decoding="async" width="1200" height="1163" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/virgile.webp' | relative_url }}" alt="Virgile" loading="lazy" decoding="async" width="1200" height="1163" />
+  <br /><small><em>Virgile entre deux Muses, mosaïque romaine du musée du Bardo. Le poète tient le rouleau de l'Énéide — l'épopée commandée par Auguste pour donner enfin à Rome un mythe fondateur à la hauteur de sa puissance.</em></small></p>
 
 <p>Virgile meurt en laissant inachevée l'Énéide, la grande épopée qu'Auguste lui avait commandée : le récit du Troyen Énée fuyant sa ville en flammes pour fonder, après mille épreuves, la lignée dont naîtra Rome. Le poète, insatisfait, demande sur son lit de mort qu'on brûle le manuscrit. Auguste s'y oppose et le fait publier — un empereur sauvant un chef-d'œuvre contre la volonté de son auteur.</p>
 
@@ -4582,7 +4662,8 @@ tags: technology
 
 # -4 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/nativite.webp' | relative_url }}" alt="La Nativité" loading="lazy" decoding="async" width="1200" height="666" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/nativite.webp' | relative_url }}" alt="La Nativité" loading="lazy" decoding="async" width="1200" height="666" />
+  <br /><small><em>La Nativité, mosaïque byzantine sur fond d'or. La naissance qui donnera son point zéro au calendrier universel est en réalité mal datée : le moine chargé du calcul s'est trompé de quelques années.</em></small></p>
 
 <p>En Judée, province récemment passée sous contrôle romain, naît un enfant nommé Yeshoua — Jésus de Nazareth. Sa naissance restera l'événement le plus daté de l'histoire, puisque le monde entier compte encore ses années à partir d'elle. Ironie du calendrier : elle ne tombe pas au bon endroit.</p>
 
@@ -4607,7 +4688,8 @@ tags: technology
 
 # 14 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mausoleeauguste.webp' | relative_url }}" alt="Le mausolée d'Auguste" loading="lazy" decoding="async" width="1200" height="857" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mausoleeauguste.webp' | relative_url }}" alt="Le mausolée d'Auguste" loading="lazy" decoding="async" width="1200" height="857" />
+  <br /><small><em>Le mausolée d'Auguste à Rome. L'empereur meurt à soixante-quinze ans dans son lit — exploit qu'aucun homme puissant n'avait réussi depuis des générations — en laissant un régime sans règle de succession.</em></small></p>
 
 <p>Auguste meurt à soixante-quinze ans, après quarante ans de règne — dans son lit, ce qu'aucun homme puissant n'avait réussi à Rome depuis des générations.</p>
 
@@ -4615,7 +4697,8 @@ tags: technology
 
 # 15 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/germanicus.webp' | relative_url }}" alt="Germanicus" loading="lazy" decoding="async" width="1200" height="1494" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/germanicus.webp' | relative_url }}" alt="Germanicus" loading="lazy" decoding="async" width="1200" height="1494" />
+  <br /><small><em>Buste romain de Germanicus. Neveu de Tibère et idole des légions, il ramène ses hommes sur le site de Teutobourg, six ans après le désastre, pour y ensevelir les ossements des trois légions perdues.</em></small></p>
 
 <p>Six ans après le désastre, Germanicus — neveu de l'empereur Tibère et idole des légions — conduit ses hommes sur le site même de Teutobourg. Personne n'y est retourné depuis : le champ de bataille est intact.</p>
 
@@ -4623,7 +4706,8 @@ tags: technology
 
 # 16 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/idistaviso.webp' | relative_url }}" alt="Les campagnes de Germanicus" loading="lazy" decoding="async" width="1200" height="955" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/idistaviso.webp' | relative_url }}" alt="Les campagnes de Germanicus" loading="lazy" decoding="async" width="1200" height="955" />
+  <br /><small><em>Carte des campagnes de Germanicus en Germanie. On peut battre les tribus en rase campagne ; on ne peut pas les tenir — elles se dispersent, se reforment ailleurs et disparaissent dans les bois.</em></small></p>
 
 <p>À Idistaviso, sur les rives du Weser, Germanicus affronte enfin la coalition d'Arminius — et l'emporte largement. La différence tient au terrain : en rase campagne, sans forêt ni marécage pour annuler ses avantages, la discipline romaine reprend tous ses droits. Les Germains subissent de lourdes pertes. La revanche est consommée.</p>
 
@@ -4631,13 +4715,15 @@ tags: technology
 
 # 19 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mortgermanicus.webp' | relative_url }}" alt="La mort de Germanicus" loading="lazy" decoding="async" width="1200" height="893" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mortgermanicus.webp' | relative_url }}" alt="La mort de Germanicus" loading="lazy" decoding="async" width="1200" height="893" />
+  <br /><small><em>« La mort de Germanicus », Nicolas Poussin, 1627. Il meurt en Orient à trente-quatre ans, convaincu jusqu'au bout d'avoir été empoisonné sur ordre de Rome : son tort avait été d'être trop aimé.</em></small></p>
 
 <p>Germanicus meurt en Orient, à trente-trois ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
 
 # 21 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/arminius.webp' | relative_url }}" alt="Arminius" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/arminius.webp' | relative_url }}" alt="Arminius" loading="lazy" decoding="async" width="1200" height="1800" />
+  <br /><small><em>L'Hermannsdenkmal, monument colossal élevé au XIXᵉ siècle dans la forêt de Teutobourg. L'Allemagne romantique s'est choisi pour héros national un chef chérusque qui était, de son vivant, un citoyen romain de rang équestre.</em></small></p>
 
 <p>Arminius tombe à son tour — non sous les coups des Romains, mais sous ceux de ses propres proches, qui redoutaient de le voir se faire roi. Le libérateur de la Germanie est mort de sa victoire : elle l'avait rendu trop grand pour un monde de chefs égaux.</p>
 
@@ -4645,7 +4731,8 @@ tags: technology
 
 # 30 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/crucifixion.webp' | relative_url }}" alt="La crucifixion" loading="lazy" decoding="async" width="1200" height="1535" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/crucifixion.webp' | relative_url }}" alt="La crucifixion" loading="lazy" decoding="async" width="1200" height="1535" />
+  <br /><small><em>La Crucifixion, icône sur fond d'or. La croix n'est pas une peine religieuse mais un châtiment politique romain, réservé aux esclaves et aux séditieux — ce jour-là, rien ne signale un événement historique.</em></small></p>
 
 <p>À Jérusalem, pendant la Pâque juive, un prédicateur galiléen est exécuté par les Romains. La crucifixion n'est pas une peine religieuse mais un châtiment politique, réservé aux esclaves et aux séditieux : lente, publique, infamante, elle sert à terroriser les foules — Rome en avait crucifié six mille le long de la voie Appienne après la révolte de Spartacus. L'écriteau cloué au-dessus de sa tête, « roi des Juifs », dit assez ce qu'on lui reproche : dans une province agitée, tout homme suivi par une foule est une menace pour l'ordre. Le préfet Ponce Pilate tranche comme il tranchait d'ordinaire.</p>
 
@@ -4663,7 +4750,8 @@ tags: technology
 
 # 49 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/concilejerusalem.webp' | relative_url }}" alt="Les apôtres" loading="lazy" decoding="async" width="1200" height="787" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/concilejerusalem.webp' | relative_url }}" alt="Les apôtres" loading="lazy" decoding="async" width="1200" height="787" />
+  <br /><small><em>Collier byzantin en or et émaux cloisonnés, médaillons du Christ et des saints. La réunion de Jérusalem dispense les non-Juifs de la circoncision et de l'essentiel de la Loi : un compromis technique qui fera du christianisme une religion à part.</em></small></p>
 
 <p>À Jérusalem se tient une réunion de quelques hommes dont dépendra le destin d'une religion mondiale. La question posée paraît technique : les non-Juifs qui veulent rejoindre le mouvement doivent-ils d'abord devenir juifs — c'est-à-dire se faire circoncire et observer l'intégralité de la Loi, y compris les interdits alimentaires ?</p>
 
@@ -4673,7 +4761,8 @@ tags: technology
 
 # 50 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/saintpaul.webp' | relative_url }}" alt="Saint Paul" loading="lazy" decoding="async" width="1200" height="1133" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/saintpaul.webp' | relative_url }}" alt="Saint Paul" loading="lazy" decoding="async" width="1200" height="1133" />
+  <br /><small><em>Saint Paul, par le Greco : l'épée du martyre et une épître à la main. Il parcourt l'Empire à pied et par bateau, vise les grands ports, fonde une communauté, s'en va — et garde le contact par lettres.</em></small></p>
 
 <p>Un homme parcourt l'Empire à pied et par bateau — Asie Mineure, Grèce, Macédoine, des milliers de kilomètres à travers des ports, des synagogues et des ateliers. Paul de Tarse est un pharisien cultivé, citoyen romain, artisan tisserand de son métier, et un ancien persécuteur du mouvement qu'il propage désormais. Il n'a jamais connu Jésus de son vivant.</p>
 
@@ -4683,7 +4772,8 @@ tags: technology
 
 # 59 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/bretagneromaine.webp' | relative_url }}" alt="La Bretagne romaine" loading="lazy" decoding="async" width="1200" height="1577" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/bretagneromaine.webp' | relative_url }}" alt="La Bretagne romaine" loading="lazy" decoding="async" width="1200" height="1577" />
+  <br /><small><em>Carte de la Bretagne romaine : routes, camps et cités. Rome tient l'île trois siècles et demi, mais jamais au-delà de la ligne fortifiée que trace Hadrien.</em></small></p>
 
 <p>Rome tient la Bretagne depuis seize ans, mais mal. Une partie des tribus vit sous le statut de royaumes clients : leurs rois gardent leur trône en échange de leur soumission. Ainsi Prasutagos, roi des Icènes, dans l'actuel Norfolk, riche et prudent — à sa mort, on découvre qu'il a légué par testament la moitié de son royaume à l'empereur Néron, espérant que ce cadeau garantirait l'autre moitié à ses filles.</p>
 
@@ -4706,7 +4796,8 @@ tags: technology
 
 # 61 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/watlingstreet.webp' | relative_url }}" alt="Légion romaine en formation" loading="lazy" decoding="async" width="1200" height="838" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/watlingstreet.webp' | relative_url }}" alt="Légion romaine en formation" loading="lazy" decoding="async" width="1200" height="838" />
+  <br /><small><em>Reconstitution moderne de la tortue romaine, boucliers joints au-dessus des têtes. Face à Boudicca, Suetonius Paulinus choisit un défilé étroit qui interdit tout débordement : le rapport de force s'inverse en une journée.</em></small></p>
 
 <p>Le rapport de force s'inverse en une journée. Quelque part dans les Midlands, le gouverneur Suetonius Paulinus choisit son terrain avec soin : un défilé étroit, la forêt dans le dos, la plaine devant. Les Bretons, écrasants en nombre, ont amené leurs familles sur des chariots pour assister à la victoire — et ces chariots, rangés en arc derrière eux, leur couperont la retraite. Quand la légion charge en formation de coin, la masse bretonne ne peut ni se déployer ni reculer. La discipline fait le reste. Boudicca s'empoisonne pour ne pas être prise vivante.</p>
 
@@ -4735,7 +4826,8 @@ tags: technology
 
 # 67 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/templechevalblanc.webp' | relative_url }}" alt="Le temple du Cheval blanc" loading="lazy" decoding="async" width="1200" height="859" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/templechevalblanc.webp' | relative_url }}" alt="Le temple du Cheval blanc" loading="lazy" decoding="async" width="1200" height="859" />
+  <br /><small><em>Le temple du Cheval blanc, à Luoyang. La tradition en fait le premier monastère bouddhique de Chine, fondé après le rêve d'un empereur — récit composé bien plus tard, pour donner au bouddhisme des lettres de naturalisation chinoises.</em></small></p>
 
 <p>C'est la date que la tradition bouddhique chinoise s'est choisie. Elle raconte que l'empereur Mingdi fit un rêve : un homme d'or, lumineux, volait dans son palais. Ses conseillers y reconnurent le Bouddha, dont la renommée venait de l'Ouest. L'empereur envoya alors une ambassade au-delà des montagnes, qui revint avec deux moines indiens et des textes sacrés portés à dos de cheval blanc — en leur honneur fut bâti à Luoyang le monastère du Cheval blanc, réputé le premier de Chine.</p>
 
@@ -4762,7 +4854,8 @@ tags: technology
 
 # 100 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/charrue.webp' | relative_url }}" alt="Le labour à la charrue" loading="lazy" decoding="async" width="1200" height="364" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/charrue.webp' | relative_url }}" alt="Le labour à la charrue" loading="lazy" decoding="async" width="1200" height="364" />
+  <br /><small><em>Le labour à la charrue, dessin d'après un manuscrit médiéval. Contrairement à l'araire antique, qui ouvre le sol sans le retourner, la charrue à versoir renverse la terre — ce qui la rend enfin capable des sols lourds du Nord.</em></small></p>
 
 <p>Pline l'Ancien avait signalé, peu avant sa mort au Vésuve, un outil nouveau chez les paysans de Gaule et de Rhétie : un araire monté sur deux roues, muni d'un soc de fer. Le progrès semble modeste ; il ne l'est pas. Les roues permettent de régler la profondeur du sillon et d'attaquer des terres plus lourdes ; le fer, désormais assez répandu pour être gaspillé dans un outil agricole, coupe là où le bois se contentait de gratter.</p>
 
@@ -4798,7 +4891,8 @@ tags: technology
 
 # 184 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/turbansjaunes.webp' | relative_url }}" alt="La révolte des Turbans jaunes" loading="lazy" decoding="async" width="500" height="413" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/turbansjaunes.webp' | relative_url }}" alt="La révolte des Turbans jaunes" loading="lazy" decoding="async" width="500" height="413" />
+  <br /><small><em>Gravure sur bois chinoise figurant les combats de la révolte des Turbans jaunes. La cour l'écrase, mais au prix d'une décision fatale : confier des armées aux gouverneurs de province, qui ne les rendront jamais.</em></small></p>
 
 <p>Des centaines de milliers de paysans chinois nouent un turban jaune autour de leur tête et se soulèvent. Le mouvement n'est pas une jacquerie spontanée : c'est une secte, la Voie de la Grande Paix, organisée patiemment par un guérisseur taoïste, Zhang Jue. Sa méthode tenait de la médecine et de la religion — il soignait par l'eau bénite et la confession des fautes, toute maladie étant vue comme la conséquence d'une faute. Dans un empire ravagé par les épidémies, les inondations et la famine, le succès fut foudroyant : trois cent mille fidèles, répartis en trente-six unités régionales, prêts à obéir à un signal.</p>
 
@@ -4823,7 +4917,8 @@ tags: technology
 
 # 220 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/troisroyaumes.webp' | relative_url }}" alt="Les Trois Royaumes" loading="lazy" decoding="async" width="1200" height="935" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/troisroyaumes.webp' | relative_url }}" alt="Les Trois Royaumes" loading="lazy" decoding="async" width="1200" height="935" />
+  <br /><small><em>Carte de la Chine des Trois Royaumes. L'empire éclate pour près de quatre siècles — mais l'idée impériale survit intacte : personne ne songe à autre chose qu'à le reconstituer.</em></small></p>
 
 <p>La dynastie Han s'éteint officiellement : le dernier empereur abdique en faveur d'un fils de seigneur de guerre. Quatre siècles de règne s'achèvent — l'empire qui avait donné son nom au peuple chinois lui-même, les Han, qu'ils portent encore aujourd'hui.</p>
 
@@ -4833,7 +4928,8 @@ tags: technology
 
 # 224 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ardachir.webp' | relative_url }}" alt="Ardachir Iᵉʳ" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ardachir.webp' | relative_url }}" alt="Ardachir Iᵉʳ" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Relief rupestre de l'investiture d'Ardachir Iᵉʳ : le roi reçoit à cheval l'anneau du pouvoir des mains du dieu Ahura Mazda. Avec les Sassanides, le zoroastrisme devient religion d'État et Rome trouve un adversaire centralisé.</em></small></p>
 
 <p>En Perse, un roi local nommé Ardachir renverse le dernier souverain parthe et fonde une dynastie qui régnera quatre siècles : les Sassanides. Son ambition est explicite — restaurer l'empire des Achéménides, celui de Cyrus et de Darius, effacé par Alexandre. Il ne se contente donc pas de prendre le pouvoir : il réactive une mémoire, fait graver ses reliefs sur les falaises près des tombes achéménides, et se proclame « roi des rois d'Iran ».</p>
 
@@ -4867,7 +4963,8 @@ tags: technology
 
 # 313 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/editdemilan.webp' | relative_url }}" alt="Le labarum de Constantin" loading="lazy" decoding="async" width="407" height="550" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/editdemilan.webp' | relative_url }}" alt="Le labarum de Constantin" loading="lazy" decoding="async" width="407" height="550" />
+  <br /><small><em>Le labarum de Constantin, étendard au chrisme. L'édit de Milan ne fait pas du christianisme la religion de l'Empire : il proclame la liberté de culte et rend aux chrétiens les biens confisqués.</em></small></p>
 
 <p>L'édit de Milan proclame la liberté de culte dans tout l'Empire et rend aux chrétiens les biens confisqués pendant les persécutions. Le christianisme n'est pas encore religion d'État — il est simplement, pour la première fois, légal.</p>
 
@@ -4875,7 +4972,8 @@ tags: technology
 
 # 320 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/gupta.webp' | relative_url }}" alt="L'Empire gupta" loading="lazy" decoding="async" width="1200" height="592" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/gupta.webp' | relative_url }}" alt="L'Empire gupta" loading="lazy" decoding="async" width="1200" height="592" />
+  <br /><small><em>Monnaie d'or gupta, avers et revers. La dynastie fait de l'Inde du Nord l'un des foyers savants du monde ancien, à l'époque même où l'Occident romain se disloque.</em></small></p>
 
 <p>Dans la plaine du Gange, un souverain prend un nom lourd de sens — Chandragupta, comme le fondateur de l'empire maurya six siècles plus tôt — et fonde la dynastie Gupta. S'ouvre ce que l'on tient pour l'âge classique de l'Inde.</p>
 
@@ -4887,7 +4985,8 @@ tags: technology
 
 # 325 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/nicee.webp' | relative_url }}" alt="Le concile de Nicée" loading="lazy" decoding="async" width="1200" height="1531" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/nicee.webp' | relative_url }}" alt="Le concile de Nicée" loading="lazy" decoding="async" width="1200" height="1531" />
+  <br /><small><em>Le premier concile de Nicée, icône : les évêques encadrent le texte du symbole de foi, Arius terrassé au bas de l'image. Constantin y préside en personne les débats d'une religion dont il n'est pas encore baptisé.</em></small></p>
 
 <p>Constantin convoque à Nicée les évêques de tout l'Empire — plus de trois cents — et préside lui-même leurs débats. La question qui les divise vient d'un prêtre d'Alexandrie, Arius, et paraît d'une subtilité désespérante : le Christ est-il Dieu lui-même, ou la première créature que Dieu ait faite ? Pour Arius, il y eut forcément un moment où le Fils n'existait pas encore — sinon il y aurait deux dieux, et le monothéisme s'effondre. Pour ses adversaires, si le Christ n'est pas pleinement Dieu, alors les chrétiens adorent une créature, et leur salut ne repose sur rien.</p>
 
@@ -4899,7 +4998,8 @@ tags: technology
 
 # 326 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/crispus.webp' | relative_url }}" alt="Crispus" loading="lazy" decoding="async" width="1200" height="763" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/crispus.webp' | relative_url }}" alt="Crispus" loading="lazy" decoding="async" width="1200" height="763" />
+  <br /><small><em>Petite monnaie de bronze au nom de Crispus, telle qu'on la retrouve en fouille. Un an après Nicée, Constantin fait exécuter ce fils aîné, puis son épouse Fausta, et fait marteler leurs noms sur les inscriptions.</em></small></p>
 
 <p>Un an après avoir présidé le concile de Nicée, Constantin fait tuer deux membres de sa propre famille.</p>
 
@@ -4936,7 +5036,8 @@ tags: technology
 
 # 337 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/baptemeconstantin.webp' | relative_url }}" alt="Le baptême de Constantin" loading="lazy" decoding="async" width="1191" height="740" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/baptemeconstantin.webp' | relative_url }}" alt="Le baptême de Constantin" loading="lazy" decoding="async" width="1191" height="740" />
+  <br /><small><em>« Le baptême de Constantin », fresque de l'atelier de Raphaël au Vatican. L'empereur ne se fit en réalité baptiser que sur son lit de mort — et par un évêque arien, c'est-à-dire par un adversaire de Nicée.</em></small></p>
 
 <p>Constantin meurt — et se fait baptiser quelques jours avant, sur son lit de mort. L'homme qui a légalisé le christianisme, financé ses basiliques et présidé son premier concile aura donc passé trente ans à la tête de l'Église sans jamais en être formellement membre.</p>
 
@@ -4948,7 +5049,8 @@ tags: technology
 
 # 350 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/samkhya.webp' | relative_url }}" alt="Manuscrit philosophique indien" loading="lazy" decoding="async" width="1200" height="248" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/samkhya.webp' | relative_url }}" alt="Manuscrit philosophique indien" loading="lazy" decoding="async" width="1200" height="248" />
+  <br /><small><em>Manuscrit indien sur feuille de palme. C'est sur ce support fragile, recopié de génération en génération, qu'ont voyagé les grands exposés philosophiques comme la Samkhyakarika.</em></small></p>
 
 <p>Ishvarakrishna compose la <em>Samkhyakarika</em>, le plus ancien exposé systématique conservé du Samkhya classique.</p>
 
@@ -4960,7 +5062,8 @@ tags: technology
 
 # 376 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/gothsdanube.webp' | relative_url }}" alt="Les grandes migrations" loading="lazy" decoding="async" width="1200" height="726" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/gothsdanube.webp' | relative_url }}" alt="Les grandes migrations" loading="lazy" decoding="async" width="1200" height="726" />
+  <br /><small><em>Carte allemande des grandes migrations. Ce ne sont pas les Huns qui abattent l'Empire d'Occident : c'est la pression qu'ils exercent, en poussant devant eux les peuples établis sur le Danube.</em></small></p>
 
 <p>Sur la rive nord du Danube, une foule immense se presse et demande asile. Ce sont des Goths — des dizaines de milliers d'hommes, de femmes et d'enfants — chassés de leurs terres par un peuple venu des steppes dont on ne sait presque rien, sinon qu'on ne peut pas lui résister : les Huns.</p>
 
@@ -4970,7 +5073,8 @@ tags: technology
 
 # 378 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/andrinople.webp' | relative_url }}" alt="La bataille d'Andrinople" loading="lazy" decoding="async" width="912" height="1305" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/andrinople.webp' | relative_url }}" alt="La bataille d'Andrinople" loading="lazy" decoding="async" width="912" height="1305" />
+  <br /><small><em>La bataille d'Andrinople, gravure du XIXᵉ siècle. Deux tiers de l'armée romaine d'Orient sont anéantis en un après-midi et l'empereur Valens disparaît dans la mêlée — on ne retrouvera jamais son corps.</em></small></p>
 
 <p>L'empereur d'Orient Valens marche contre eux près d'Andrinople, sans attendre les renforts que son collègue d'Occident lui amène — il veut la victoire pour lui seul. Il engage le combat en pleine chaleur d'août, après des heures de marche, contre un adversaire retranché derrière ses chariots. La cavalerie gothique, revenue de fourrage, tombe sur ses flancs et referme le piège.</p>
 
@@ -4980,7 +5084,8 @@ tags: technology
 
 # 380 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/theodose.webp' | relative_url }}" alt="Théodose Iᵉʳ" loading="lazy" decoding="async" width="485" height="627" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/theodose.webp' | relative_url }}" alt="Théodose Iᵉʳ" loading="lazy" decoding="async" width="485" height="627" />
+  <br /><small><em>Théodose Iᵉʳ, détail du missorium d'argent : le nimbe autour de la tête impériale est déjà celui des saints. Son édit impose à tous les habitants de l'Empire d'être chrétiens, et d'une seule façon.</em></small></p>
 
 <p>L'empereur Théodose promulgue un édit très court qui change tout : désormais, tous les habitants de l'Empire doivent être chrétiens, et chrétiens d'une seule façon — celle qu'avait fixée le concile de Nicée. Ceux qui la suivent porteront le nom de catholiques. Les autres sont déclarés fous et infâmes, et l'édit annonce qu'ils subiront la punition de Dieu, puis celle de l'empereur.</p>
 
@@ -4990,7 +5095,8 @@ tags: technology
 
 # 390 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ambroise.webp' | relative_url }}" alt="Ambroise et Théodose" loading="lazy" decoding="async" width="1200" height="1590" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ambroise.webp' | relative_url }}" alt="Ambroise et Théodose" loading="lazy" decoding="async" width="1200" height="1590" />
+  <br /><small><em>« Saint Ambroise interdisant à Théodose l'entrée de la cathédrale », Van Dyck. L'empereur cède, s'habille en pénitent et reste des mois exclu de la communion : c'est la première fois en Occident qu'une autorité religieuse fait plier le pouvoir politique.</em></small></p>
 
 <p>Un épisode montre pourtant que ce pouvoir tout-puissant a désormais un contrepoids.</p>
 
@@ -5004,7 +5110,8 @@ tags: technology
 
 # 391 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/serapeum.webp' | relative_url }}" alt="Le Serapeum d'Alexandrie" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/serapeum.webp' | relative_url }}" alt="Le Serapeum d'Alexandrie" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Le site du Serapeum à Alexandrie, aujourd'hui cerné par la ville. La foule chrétienne menée par son évêque y détruit l'un des plus beaux sanctuaires du monde antique.</em></small></p>
 
 <p>Théodose interdit les sacrifices païens et ordonne la fermeture des temples dans tout l'Empire. C'est le premier volet de l'offensive : on ne s'attaque pas encore aux croyances, mais aux lieux et aux gestes du culte.</p>
 
@@ -5014,7 +5121,8 @@ tags: technology
 
 # 392 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lararium.webp' | relative_url }}" alt="Un laraire romain" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lararium.webp' | relative_url }}" alt="Un laraire romain" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Peinture murale de laraire à Pompéi : le génie de la maison, les serpents protecteurs, les oiseaux. Théodose proscrit jusqu'à la pratique domestique — plus d'encens devant ces images, plus de libation de vin.</em></small></p>
 
 <p>Second volet, plus radical : Théodose proscrit toute pratique païenne, y compris à domicile. Plus d'encens brûlé devant les statues de la maison, plus de libation de vin, plus de guirlande accrochée à un arbre. Ce que l'on faisait chez soi depuis mille ans devient un délit passible de confiscation.</p>
 
@@ -5039,7 +5147,8 @@ tags: technology
 
 # 400 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/patanjali.webp' | relative_url }}" alt="Patanjali" loading="lazy" decoding="async" width="476" height="666" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/patanjali.webp' | relative_url }}" alt="Patanjali" loading="lazy" decoding="async" width="476" height="666" />
+  <br /><small><em>Sculpture de Patanjali, buste humain émergeant d'un corps de serpent, mains jointes. Le Yoga Sutra qu'on lui attribue donne à des pratiques bien plus anciennes leur architecture canonique en huit membres.</em></small></p>
 
 <p>Le texte connu sous le nom de <em>Yoga Sutra</em> systématise à son tour des pratiques dont les origines sont beaucoup plus anciennes.</p>
 
@@ -5049,7 +5158,8 @@ tags: technology
 
 # 402 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/yungang.webp' | relative_url }}" alt="Les grottes de Yungang" loading="lazy" decoding="async" width="1005" height="1299" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yungang.webp' | relative_url }}" alt="Les grottes de Yungang" loading="lazy" decoding="async" width="1005" height="1299" />
+  <br /><small><em>Bouddha des grottes de Yungang, photographie ancienne. Les souverains venus des steppes qui règnent alors sur le nord de la Chine financent ces sanctuaires : une religion étrangère les dispense de se justifier devant les lettrés chinois.</em></small></p>
 
 <p>La Chine est morcelée depuis deux siècles, les dynasties s'effondrent, le nord est aux mains de peuples venus des steppes — et le bouddhisme y prospère comme jamais. Monastères, sanctuaires et communautés se multiplient, financés par les souverains régionaux et l'aristocratie.</p>
 
@@ -5087,7 +5197,8 @@ tags: technology
 
 # 430 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/vandales.webp' | relative_url }}" alt="Le royaume vandale" loading="lazy" decoding="async" width="1200" height="893" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/vandales.webp' | relative_url }}" alt="Le royaume vandale" loading="lazy" decoding="async" width="1200" height="893" />
+  <br /><small><em>Carte du royaume vandale d'Afrique du Nord. Augustin meurt à Hippone pendant que les Vandales assiègent sa ville, après avoir passé sa vie à écrire que les cités des hommes sont périssables.</em></small></p>
 
 <p>Augustin meurt à Hippone, sa ville assiégée par les Vandales depuis trois mois. Il a soixante-quinze ans, il a passé sa vie à écrire que les cités des hommes sont périssables — et la sienne est en train de tomber sous ses fenêtres. La tradition rapporte qu'il avait fait copier sur les murs de sa chambre les psaumes de pénitence, pour les lire depuis son lit.</p>
 
@@ -5106,7 +5217,8 @@ tags: technology
 
 # 452 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/aquilee.webp' | relative_url }}" alt="Aquilée" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/aquilee.webp' | relative_url }}" alt="Aquilée" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Les ruines du forum d'Aquilée, alignées sous les cyprès. La ville est rasée par Attila sans laisser de traces ; ses habitants fuient vers les lagunes de l'Adriatique — la tradition y voit l'origine de Venise.</em></small></p>
 
 <p>Attila revient par l'Italie et la dévaste. Les habitants d'Aquilée, rasée sans laisser de traces, fuient vers les lagunes de l'Adriatique et s'y installent : la tradition fait de cet exode l'origine de Venise. Une ville née de la peur d'Attila.</p>
 
@@ -5114,7 +5226,8 @@ tags: technology
 
 # 453 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mortattila.webp' | relative_url }}" alt="La mort d'Attila" loading="lazy" decoding="async" width="800" height="633" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mortattila.webp' | relative_url }}" alt="La mort d'Attila" loading="lazy" decoding="async" width="800" height="633" />
+  <br /><small><em>« La mort d'Attila », peinture du XIXᵉ siècle. Il meurt la nuit de ses noces, étouffé dans son propre sang ; son empire se disloque en quelques mois et les Huns disparaissent presque aussi vite qu'ils étaient apparus.</em></small></p>
 
 <p>Attila meurt la nuit de ses noces avec une jeune épouse germanique — d'une hémorragie, dit-on, après avoir trop bu ; on le retrouve au matin étouffé dans son propre sang, la mariée en pleurs auprès de lui. Une mort ridicule pour l'homme que ses ennemis appelaient le Fléau de Dieu.</p>
 
@@ -5122,7 +5235,8 @@ tags: technology
 
 # 476 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/romulusaugustule.webp' | relative_url }}" alt="Romulus Augustule" loading="lazy" decoding="async" width="500" height="233" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/romulusaugustule.webp' | relative_url }}" alt="Romulus Augustule" loading="lazy" decoding="async" width="500" height="233" />
+  <br /><small><em>Trémissis d'or au nom de Romulus Augustule, avers et revers. Le dernier empereur d'Occident est un adolescent qui porte, par ironie, les noms du fondateur de Rome et du fondateur de l'Empire.</em></small></p>
 
 <p>Un chef barbare nommé Odoacre dépose le dernier empereur d'Occident, un adolescent portant, par ironie du sort, les noms du fondateur de Rome et du fondateur de l'Empire : Romulus Augustule. Il ne le tue pas — il lui verse une pension et l'envoie vivre en Campanie.</p>
 
@@ -5163,7 +5277,8 @@ tags: technology
 
 # 541 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/pestejustinien.webp' | relative_url }}" alt="La peste de Justinien" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/pestejustinien.webp' | relative_url }}" alt="La peste de Justinien" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Une ville frappée par la peste, panneau peint du XVᵉ siècle. L'image est bien postérieure : aucune représentation contemporaine de la pandémie de 541 ne nous est parvenue, alors qu'elle emporta des millions de personnes.</em></small></p>
 
 <p>Une épidémie éclate à Péluse, dans le delta du Nil, portée par les rats des navires à grain. L'année suivante, elle atteint Constantinople : Procope, témoin oculaire, raconte cinq mille morts par jour, puis dix mille ; on ne sait plus où enterrer, on entasse les corps dans les tours des remparts. L'empereur Justinien lui-même est atteint et survit de justesse.</p>
 
@@ -5173,7 +5288,8 @@ tags: technology
 
 # 581 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/suiwendi.webp' | relative_url }}" alt="L'empereur Wen des Sui" loading="lazy" decoding="async" width="868" height="1280" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/suiwendi.webp' | relative_url }}" alt="L'empereur Wen des Sui" loading="lazy" decoding="async" width="868" height="1280" />
+  <br /><small><em>L'empereur Wen des Sui, portrait attribué à Yan Liben. Général du nord devenu souverain, il réussit ce que personne n'avait accompli depuis la chute des Han : réunifier la Chine.</em></small></p>
 
 <p>Un général du nord, Yang Jian, s'empare du trône et fonde la dynastie Sui. Il entreprend aussitôt ce que personne n'avait réussi depuis la chute des Han : réunifier la Chine, divisée depuis près de quatre siècles. Le nord, gouverné par des dynasties issues des steppes, et le sud, refuge des élites chinoises exilées, avaient fini par former deux mondes séparés — deux accents, deux cuisines, deux façons d'être chinois.</p>
 
@@ -5192,7 +5308,8 @@ tags: technology
 
 # 610 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/hira.webp' | relative_url }}" alt="La grotte de Hira" loading="lazy" decoding="async" width="1200" height="801" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/hira.webp' | relative_url }}" alt="La grotte de Hira" loading="lazy" decoding="async" width="1200" height="801" />
+  <br /><small><em>La grotte de Hira, sur le mont al-Nour, où des pèlerins se pressent aujourd'hui. C'est là que, selon la tradition islamique, un marchand mecquois d'une quarantaine d'années reçoit sa première révélation.</em></small></p>
 
 <p>À La Mecque, un marchand d'une quarantaine d'années a l'habitude de se retirer pour méditer dans une grotte du mont Hira. Selon la tradition islamique, c'est là que Mahomet reçoit sa première révélation : une présence lui ordonne « Récite ! », et il proteste qu'il ne sait pas lire. L'ordre est répété trois fois. Bouleversé, persuadé d'avoir perdu la raison, il rentre chez lui tremblant et demande qu'on le couvre ; c'est sa femme Khadija, une riche commerçante plus âgée que lui, qui le rassure et devient sa première fidèle.</p>
 
@@ -5204,7 +5321,8 @@ tags: technology
 
 # 618 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/tanggaozu.webp' | relative_url }}" alt="L'empereur Gaozu des Tang" loading="lazy" decoding="async" width="1200" height="2469" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/tanggaozu.webp' | relative_url }}" alt="L'empereur Gaozu des Tang" loading="lazy" decoding="async" width="1200" height="2469" />
+  <br /><small><em>L'empereur Gaozu des Tang, portrait sur soie. Les Sui s'effondrent après moins de quarante ans, épuisés par leurs propres grands travaux ; la dynastie suivante en récolte les fruits.</em></small></p>
 
 <p>Les Sui s'effondrent après moins de quarante ans, épuisés par leurs propres travaux et par trois campagnes désastreuses en Corée. Le dernier empereur est étranglé par sa garde ; la Chine se soulève, et c'est un autre général qui l'emporte, fondant la dynastie Tang.</p>
 
@@ -5212,7 +5330,8 @@ tags: technology
 
 # 622 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/medine.webp' | relative_url }}" alt="Médine" loading="lazy" decoding="async" width="1200" height="1788" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/medine.webp' | relative_url }}" alt="Médine" loading="lazy" decoding="async" width="1200" height="1788" />
+  <br /><small><em>Médine et la mosquée du Prophète, coupole verte au milieu des palmeraies. C'est l'émigration vers cette oasis, et non la naissance ni la mort de Mahomet, qui ouvre le calendrier musulman.</em></small></p>
 
 <p>Menacés à La Mecque, Mahomet et ses fidèles émigrent vers Yathrib, une oasis située à quatre cents kilomètres au nord, dont les tribus rivales l'ont appelé pour arbitrer leurs conflits. La ville prendra son nom de cet événement : Médine, « la ville » du Prophète. C'est l'Hégire — l'émigration.</p>
 
@@ -5241,7 +5360,8 @@ tags: technology
 
 # 632 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mortmahomet.webp' | relative_url }}" alt="La mosquée du Prophète à Médine" loading="lazy" decoding="async" width="1200" height="200" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mortmahomet.webp' | relative_url }}" alt="La mosquée du Prophète à Médine" loading="lazy" decoding="async" width="1200" height="200" />
+  <br /><small><em>L'esplanade de la mosquée du Prophète à Médine. Mahomet y meurt après une courte maladie, laissant une communauté qui est aussi un État — et aucune règle pour désigner son successeur.</em></small></p>
 
 <p>Mahomet meurt à Médine, après une courte maladie. Il a une soixantaine d'années et laisse derrière lui une communauté qui est aussi un État — mais aucune règle pour désigner celui qui le dirigera.</p>
 
@@ -5253,7 +5373,8 @@ tags: technology
 
 # 636 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/yarmouk.webp' | relative_url }}" alt="La bataille du Yarmouk" loading="lazy" decoding="async" width="1200" height="1001" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yarmouk.webp' | relative_url }}" alt="La bataille du Yarmouk" loading="lazy" decoding="async" width="1200" height="1001" />
+  <br /><small><em>Carte arabe de la bataille du Yarmouk, premier jour. L'armée byzantine est plus nombreuse, mieux équipée, professionnelle — et elle est détruite ; la Syrie, la Palestine puis l'Égypte échappent à Byzance.</em></small></p>
 
 <p>En une seule année, les deux empires qui se partageaient le monde depuis des siècles reçoivent chacun le coup qui les abattra.</p>
 
@@ -5269,7 +5390,8 @@ tags: technology
 
 # 642 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/nahavand.webp' | relative_url }}" alt="Armure sassanide" loading="lazy" decoding="async" width="1186" height="1162" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/nahavand.webp' | relative_url }}" alt="Armure sassanide" loading="lazy" decoding="async" width="1186" height="1162" />
+  <br /><small><em>Plat d'argent sassanide à scène de combat monté. À Nahavand, la Perse tente son dernier grand rassemblement militaire ; battue, elle n'oppose plus rien à l'avance arabe.</em></small></p>
 
 <p>À Nahavand, dans les montagnes du Zagros, la Perse tente son dernier grand rassemblement militaire. Elle est battue à nouveau, et cette fois plus rien ne s'oppose à l'avance arabe : les Arabes appelleront cette bataille « la victoire des victoires ».</p>
 
@@ -5277,7 +5399,8 @@ tags: technology
 
 # 651 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/merv.webp' | relative_url }}" alt="Merv" loading="lazy" decoding="async" width="1023" height="682" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/merv.webp' | relative_url }}" alt="Merv" loading="lazy" decoding="async" width="1023" height="682" />
+  <br /><small><em>La forteresse de Kyz Kala à Merv, murs de terre crue plissés comme des colonnes. C'est dans cette ville des confins que Yazdgard III, dernier roi sassanide, finit assassiné.</em></small></p>
 
 <p>Il finit à Merv, dans l'actuel Turkménistan, aux confins du monde qu'il gouvernait autrefois. Le gouverneur local, qui ne veut ni de lui ni des ennuis qu'il apporte, se retourne contre lui. Selon la tradition, le roi des rois se réfugie dans un moulin, où le meunier l'égorge pendant son sommeil pour lui prendre ses bijoux — sans savoir, peut-être, qui il tuait. Son fils s'enfuira jusqu'à la cour de Chine et y finira ses jours comme officier : la lignée se perd à cinq mille kilomètres de Persépolis.</p>
 
@@ -5340,7 +5463,8 @@ tags: technology
 
 # 742 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/xuanzong.webp' | relative_url }}" alt="L'empereur Xuanzong" loading="lazy" decoding="async" width="1080" height="1202" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/xuanzong.webp' | relative_url }}" alt="L'empereur Xuanzong" loading="lazy" decoding="async" width="1080" height="1202" />
+  <br /><small><em>L'empereur Xuanzong des Tang. Il administre son empire avec application pendant trente ans, puis cesse de gouverner : à partir de sa rencontre avec Yang Guifei, il se consacre à sa favorite et à la musique.</em></small></p>
 
 <p>L'empire Tang est à son sommet. Xuanzong règne depuis trente ans sur peut-être cinquante millions de sujets, sa capitale Chang'an est à son apogée, et les ambassades affluent du Japon, de Corée, d'Asie centrale, de Perse. Les caravanes de la route de la soie y déchargent l'ambre, le jade, les chevaux du Ferghana ; les ports du sud reçoivent les navires arabes et persans.</p>
 
@@ -5348,7 +5472,8 @@ tags: technology
 
 # 745 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/yangguifei.webp' | relative_url }}" alt="Yang Guifei" loading="lazy" decoding="async" width="756" height="2100" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yangguifei.webp' | relative_url }}" alt="Yang Guifei" loading="lazy" decoding="async" width="756" height="2100" />
+  <br /><small><em>Yang Guifei, dessin à l'encre. Entrée au palais avec le rang le plus élevé après celui d'impératrice, elle était quelques années plus tôt mariée à l'un des fils de l'empereur.</em></small></p>
 
 <p>Une femme entre officiellement au palais impérial avec le titre de Guifei, le rang le plus élevé après celui d'impératrice. Elle s'appelle Yang Yuhuan, elle a vingt-sept ans, et l'empereur Xuanzong en a soixante.</p>
 
@@ -5373,7 +5498,8 @@ tags: technology
 
 # 755 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/anlushan.webp' | relative_url }}" alt="La révolte d'An Lushan" loading="lazy" decoding="async" width="1200" height="849" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/anlushan.webp' | relative_url }}" alt="La révolte d'An Lushan" loading="lazy" decoding="async" width="1200" height="849" />
+  <br /><small><em>Carte de la révolte d'An Lushan. Les armées de la frontière, aguerries par des années de guerre, ne rencontrent presque aucune résistance : les troupes de l'intérieur ne se sont pas battues depuis des décennies.</em></small></p>
 
 <p>An Lushan avait tout reçu de l'empereur. Fils d'un père sogdien et d'une mère turque, venu de la frontière, il avait su plaire à la cour en jouant les soldats francs et un peu bouffons — la chronique raconte qu'il dansait malgré son énorme corpulence pour amuser le couple impérial, et que Yang Guifei l'avait adopté comme fils, bien qu'il fût plus âgé qu'elle. En échange, il avait obtenu ce que personne n'avait jamais eu : le commandement de trois régions militaires du nord à la fois, soit près de deux cent mille hommes.</p>
 
@@ -5383,7 +5509,8 @@ tags: technology
 
 # 756 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/fuitexuanzong.webp' | relative_url }}" alt="La fuite de Xuanzong vers le Shu" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/fuitexuanzong.webp' | relative_url }}" alt="La fuite de Xuanzong vers le Shu" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>« La fuite de l'empereur Xuanzong vers le Shu », peinture sur soie. La cour s'enfuit de nuit vers les montagnes du Sichuan ; à l'étape de Mawei, l'escorte se mutine et exige la mort du chancelier, puis celle de la favorite.</em></small></p>
 
 <p>An Lushan approche de la capitale. Une armée impériale est envoyée tenir le défilé qui protège Chang'an ; le chancelier, craignant qu'un général victorieux ne lui fasse de l'ombre, pousse l'empereur à ordonner une sortie en terrain découvert. L'armée y est anéantie. La route est ouverte, et il ne reste plus rien pour défendre la ville.</p>
 
@@ -5407,7 +5534,8 @@ tags: technology
 
 # 760 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/luyu.webp' | relative_url }}" alt="Lu Yu et le Classique du thé" loading="lazy" decoding="async" width="1200" height="1553" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/luyu.webp' | relative_url }}" alt="Lu Yu et le Classique du thé" loading="lazy" decoding="async" width="1200" height="1553" />
+  <br /><small><em>Page du Classique du thé de Lu Yu, édition xylographique. Premier traité jamais consacré à une boisson, il condamne les mélanges au sel et au gingembre et transforme une habitude en art.</em></small></p>
 
 <p>Un lettré nommé Lu Yu se retire dans les montagnes et compose le <em>Classique du thé</em>, premier traité jamais consacré à une boisson : l'origine de la plante, les outils, la fabrication, l'eau qu'il faut choisir, l'art de servir. Son parcours ressemble à un roman — orphelin élevé dans un monastère bouddhiste, enfui à l'adolescence pour devenir acteur comique, puis lettré, puis ermite refusant les charges officielles qu'on lui offrait.</p>
 
@@ -6799,7 +6927,7 @@ tags: technology
 
 # 1660 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/royalsociety.webp' | relative_url }}" alt="La Royal Society" loading="lazy" decoding="async" width="1200" height="833" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/greshamcollege.webp' | relative_url }}" alt="Gresham College" loading="lazy" decoding="async" width="1200" height="1780" /></p>
 
 <p>Douze gentilshommes réunis à Londres après une conférence d'astronomie décident de fonder un collège pour la promotion du savoir expérimental. Ce sera la Royal Society, et elle se donne une devise qui vaut programme : <em>nullius in verba</em> — « sur la parole de personne ».</p>
 
@@ -7053,7 +7181,7 @@ tags: technology
 
 # 1750 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/bach.webp' | relative_url }}" alt="Jean-Sébastien Bach" loading="lazy" decoding="async" width="693" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/tombeaubach.webp' | relative_url }}" alt="La tombe de Bach à Saint-Thomas de Leipzig" loading="lazy" decoding="async" width="881" height="608" /></p>
 
 <p>Mort de Bach à Leipzig. Sa musique tombe un peu dans l’oubli après sa mort, avant d’être redécouverte au XIXᵉ siècle, notamment grâce à Mendelssohn. Bach n’a jamais écrit d’opéra (contrairement à Händel ou Vivaldi). Son univers est davantage lié à l’orgue, à l’église et aux formes instrumentales savantes.</p>
 
@@ -7697,7 +7825,7 @@ tags: technology
 
 # 1856 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/guerreopium.webp' | relative_url }}" alt="La seconde guerre de l'opium" loading="lazy" decoding="async" width="1200" height="922" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/palaisdete.webp' | relative_url }}" alt="Le sac du Palais d'été" loading="lazy" decoding="async" width="1200" height="1072" /></p>
 
 <p>Début de la seconde guerre de l'opium. Elle oppose la Chine à une coalition de puissances étrangères, la Grande-Bretagne et la France. Le conflit débute avec l'affaire de l'Arrow : les autorités chinoises arraisonnent à Canton un navire battant pavillon britannique, accusé de contrebande et de piraterie.</p>
 
@@ -8102,7 +8230,7 @@ tags: technology
 
 # 1901 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/marconi.webp' | relative_url }}" alt="Marconi à Terre-Neuve" loading="lazy" decoding="async" width="550" height="341" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/signalhill.webp' | relative_url }}" alt="Signal Hill à Terre-Neuve" loading="lazy" decoding="async" width="1200" height="900" /></p>
 
 <p>Marconi réussit à envoyer un signal radio transatlantique des Cornouailles anglaises à Terre-Neuve. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.</p>
 
@@ -8161,7 +8289,7 @@ tags: technology
 
 # 1911 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/hollerith.webp' | relative_url }}" alt="La machine de Hollerith" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ctr.webp' | relative_url }}" alt="Cartes perforées" loading="lazy" decoding="async" width="1200" height="945" /></p>
 
 <p>Un financier nommé Charles Ranlett Flint orchestre la fusion de la Tabulating Machine Company de Hollerith avec trois autres sociétés (qui fabriquaient des balances commerciales, des horloges pointeuses et d'autres équipements de bureau). De cette fusion naît la Computing-Tabulating-Recording Company, ou CTR.</p>
 
@@ -8955,7 +9083,7 @@ tags: technology
 
 # 1983 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/compuserve.webp' | relative_url }}" alt="Le siège de CompuServe" loading="lazy" decoding="async" width="1200" height="1098" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/servicesenligne.webp' | relative_url }}" alt="Un modem des années 1980" loading="lazy" decoding="async" width="1200" height="800" /></p>
 
 <p>CompuServe est l'un des tout premiers services en ligne commerciaux destinés au grand public. Pour s'y connecter, il faut un ordinateur personnel, un modem et une ligne téléphonique. On compose un numéro, et l'on entre dans un univers entièrement textuel, sans la moindre image.</p>
 
