@@ -14,6 +14,56 @@ body[data-theme="dark"] {
 
 img {
   max-width: 100% !important;
+  height: auto; /* laisse les attributs width/height ne servir que de ratio (anti-CLS) */
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Façade YouTube : vignette statique, l'iframe n'est injectée qu'au clic. */
+.yt-lite {
+  display: block;
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.yt-lite > img {
+  width: 100%;
+  height: 100% !important;
+  object-fit: cover; /* recadre les bandes noires de hqdefault.jpg */
+  display: block;
+}
+
+.yt-lite > .yt-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 68px;
+  height: 48px;
+  transform: translate(-50%, -50%);
+  background: no-repeat center/100% url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath fill='%23212121' fill-opacity='.8' d='M66.52 7.74a8 8 0 0 0-5.63-5.67C55.79.99 34 1 34 1s-21.79-.01-26.89 1.07a8 8 0 0 0-5.63 5.67C.4 12.85.4 24 .4 24s0 11.15 1.08 16.26a8 8 0 0 0 5.63 5.67C12.21 47 34 47 34 47s21.79.01 26.89-1.07a8 8 0 0 0 5.63-5.67C67.6 35.15 67.6 24 67.6 24s0-11.15-1.08-16.26z'/%3E%3Cpath fill='%23fff' d='M27 34l18-10-18-10z'/%3E%3C/svg%3E");
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+
+.yt-lite:hover > .yt-play {
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'%3E%3Cpath fill='%23f00' d='M66.52 7.74a8 8 0 0 0-5.63-5.67C55.79.99 34 1 34 1s-21.79-.01-26.89 1.07a8 8 0 0 0-5.63 5.67C.4 12.85.4 24 .4 24s0 11.15 1.08 16.26a8 8 0 0 0 5.63 5.67C12.21 47 34 47 34 47s21.79.01 26.89-1.07a8 8 0 0 0 5.63-5.67C67.6 35.15 67.6 24 67.6 24s0-11.15-1.08-16.26z'/%3E%3Cpath fill='%23fff' d='M27 34l18-10-18-10z'/%3E%3C/svg%3E");
+}
+
+.yt-lite > iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
 /* header */

@@ -9,9 +9,9 @@ tags: technology
 
 # -13 800 000 000 d'années
 
-<p style="text-align:center"><img src="{{ '/assets/img/bigbang.png' | relative_url }}" alt="Big Bang" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/bigbang.webp' | relative_url }}" alt="Big Bang" loading="lazy" decoding="async" width="660" height="510" /></p>
 
-<p>Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang est une gigantesque explosion provoquée par une particule beaucoup plus petite qu'un atome.</p>
+<p>Des mesures détaillées du taux d'expansion de l'univers placent selon le modèle standard de la cosmologie la singularité du Big Bang il y a environ 13,8 milliards d'années, ce qui est donc considéré comme l'âge de l'univers. Le Big Bang n'est pas une explosion survenue dans l'espace, mais l'expansion de l'espace lui-même : au tout début, l'univers observable tient dans un volume plus petit qu'un atome.</p>
 
 <p>L'univers est à son commencement des milliards de fois plus chaud que le centre de notre soleil et très compact. Il s'agit d'une température incroyablement élevée qui dépasse largement tout ce que l'on peut imaginer ou mesurer aujourd'hui. Il est rempli d'une sorte de plasma constitué de quarks et de gluons.</p>
 
@@ -19,64 +19,62 @@ tags: technology
 
 <p>Dans cet univers, il y a 4 forces fondamentales:</p>
 
-<p style="text-align:center"><img src="{{ '/assets/img/force.jpg' | relative_url }}" alt="Force" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/force.webp' | relative_url }}" alt="Force" loading="lazy" decoding="async" width="1280" height="720" /></p>
 
-#### 1. Forces électromagnétiques
+## 1. Forces électromagnétiques
 
 <p>C’est la force qui agit entre les charges électriques. Elle explique la lumière, le courant et les aimants. Elle maintient aussi les électrons autour du noyau et permet aux atomes de s’unir en molécules.</p>
 
-#### 2. Forces gravitationnelles
+## 2. Forces gravitationnelles
 
 <p>C’est la force d’attraction entre les objets. Plus ils sont lourds et proches, plus elle est forte. C’est elle qui fait tomber les objets au sol.</p>
 
-#### 3. Forces nucléaires faibles
+## 3. Forces nucléaires faibles
 
 <p>Elle agit seulement à l’intérieur des particules de l’atome. Elle permet à une particule de se transformer en une autre, par exemple quand un neutron se change en proton, électron et antineutrino.</p>
 
-#### 4. Forces nucléaires fortes
+## 4. Forces nucléaires fortes
 
 <p>C’est une force qui agit seulement à l’intérieur du noyau des atomes. Elle colle les quarks entre eux pour former les protons et les neutrons, puis elle colle aussi les protons et neutrons ensemble pour maintenir le noyau. Sans elle, les protons, qui ont tous une charge positive, se repousseraient et le noyau éclaterait. La force forte est donc ce qui empêche le noyau de se désagréger.</p>
 
 <p>Ces forces sont responsables de tous les phénomènes physiques observés dans l'univers, du mouvement des planètes à la radioactivité en passant par la chimie et la structure des atomes.</p>
 
-<p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à 100000000000000000000000000000 (10^27) de fois plus grand.</p>
+<p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à un volume au moins 10^26 fois plus grand.</p>
 
-<p style="text-align:center"><img src="{{ '/assets/img/quark.jpg' | relative_url }}" alt="Quark" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/quark.webp' | relative_url }}" alt="Quark" loading="lazy" decoding="async" width="585" height="183" /></p>
 
 <p>Un cent-millième de seconde après le début du big bang, seule une soupe chaotique de particules élémentaires (on ne sait pas si elles sont constituées d'autres particules plus petites) est présente dans l'univers (quarks, antiquarks, électrons, antiélectrons, neutrinos et antineutrinos). Il existe la matière et son exacte opposée, l’anti-matière. Lorsqu'une particule de matière et son antiparticule se rencontrent, elles s'annihilent complètement. C’est au cours de la première seconde de l’Univers que la matière dont nous sommes composés domine de manière mystérieuse l’antimatière. On comprend que la force électromagnétique et gravitationnelle agit très faiblement sur ces objets car ils sont très petits. Ce sont donc surtout les forces nucléaires faibles et fortes qui commencent à façonner notre univers.</p>
 
-<p>Pendant les 3 premières minutes, la chaleur est trop forte pour que protons et neutrons se forment.</p>
+<p>Protons et neutrons, eux, existent depuis la première microseconde. Mais pendant les trois premières minutes, la chaleur est encore trop forte pour qu'ils puissent s'assembler en noyaux : à peine formé, un noyau est aussitôt brisé par le rayonnement.</p>
 
 <p>Vers 3 minutes, la température descend à environ un milliard de degrés et la nucléosynthèse primordiale commence : protons et neutrons fusionnent pour former les premiers noyaux légers, surtout l'hélium-4 (deux protons, deux neutrons), avec des traces de deutérium et de lithium. Ce sont bien des noyaux, pas encore des atomes : aucun électron ne gravite encore autour.</p>
-
-<p>Les noyaux d'hydrogène (dont le noyau, le plus élémentaire qui soit dans la nature, constitué d’un proton et d'hélium) se forment dans les trois premières minutes (il s'agit bien du noyau mais pas encore de l'atome car il n'y a pas encore d'électron qui gravite autour).</p>
 
 <p>À 20 minutes après le Big Bang, nous avons un univers contenant principalement 75% d'hydrogène et 25% d'hélium.</p>
 
 <p>Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.</p>
 
-<p style="text-align:center"><img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Big Bang" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Big Bang" loading="lazy" decoding="async" width="1008" height="630" /></p>
 
 # -13 799 620 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360" src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
+  <video poster="/assets/img/posters/atom.webp" controls preload="none" width="640" height="360" src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atom.mp4" />
 </p>
 
 <p>Il fait désormais assez froid (~3 000 K) pour qu'un proton, de charge positive, capture un électron, de charge négative, et forme un atome d'hydrogène (un proton + un électron, sans neutron). Se forment de même l'hélium, puis des traces de lithium. C'est le nombre de protons dans le noyau qui détermine l'élément chimique et ses propriétés (hydrogène, hélium, lithium, carbone, oxygène, azote…).</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400" />
+  <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Gif 1" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Gif 2" width="400" />
+  <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p style="text-align: center;">
-  <video
+  <video poster="/assets/img/posters/stars.webp"
     controls
-    preload="metadata"
+    preload="none"
     width="640"
     height="360"
   >
@@ -84,7 +82,7 @@ tags: technology
   </video>
 </p>
 
-<p>Quand un grand nuage d'hydrogène se contracte sous son propre poids, il devient de plus en plus chaud et dense en son cœur. À environ dix millions de degrés, le gaz est un plasma entièrement ionisé : les noyaux d'hydrogène (des protons) se heurtent assez violemment pour fusionner et former de l'hélium. Cette réaction, la fusion nucléaire, libère énormément d'énergie — c'est elle qui fait briller l'étoile.</p>
+<p>Il faudra encore une centaine de millions d'années d'obscurité — les « âges sombres » de l'Univers — avant que la première étoile ne s'allume. Quand un grand nuage d'hydrogène se contracte sous son propre poids, il devient de plus en plus chaud et dense en son cœur. À environ dix millions de degrés, le gaz est un plasma entièrement ionisé : les noyaux d'hydrogène (des protons) se heurtent assez violemment pour fusionner et former de l'hélium. Cette réaction, la fusion nucléaire, libère énormément d'énergie — c'est elle qui fait briller l'étoile.</p>
 
 <p>Pendant une grande partie de son existence, une étoile est en équilibre entre deux effets opposés : la gravitation, qui tend à l'effondrer, et la pression interne (thermique et radiative), alimentée par la fusion, qui pousse vers l'extérieur et s'oppose à cet effondrement.</p>
 
@@ -97,15 +95,15 @@ tags: technology
 <p>Sous l'effet de la gravité — dominée par la matière noire —, le gaz primordial tombe dans des halos de matière noire, s'y refroidit et s'y condense en étoiles : ainsi naissent les premières galaxies. De petits halos se forment d'abord, puis fusionnent les uns avec les autres (c'est le scénario hiérarchique, « bottom-up »). Ces premières galaxies sont gorgées de gaz et dominées par des étoiles bleues, massives et bien plus chaudes que la plupart des étoiles actuelles. On y trouve aussi des étoiles de population II, formées à partir du gaz enrichi en métaux par les supernovæ de la population III.</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Gif 2" width="400">
+  <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif" alt="Gif 2" width="400">
+  <img src="https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Gif 2" width="400">
+  <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 # -13 100 000 000 d'années
@@ -115,7 +113,7 @@ tags: technology
 <p>Dans les étoiles massives, le cœur de fer s'accumule jusqu'à dépasser une masse critique (environ 1,4 fois celle du Soleil) : la pression qui le soutenait cède, et il s'effondre sur lui-même en une fraction de seconde. Le rebond du cœur et l'intense bouffée de neutrinos projettent alors les couches externes dans une gigantesque explosion : une supernova à effondrement de cœur. Ces explosions dispersent dans l'Univers les éléments forgés par l'étoile — et en synthétisent de nouveaux, plus lourds que le fer. C'est ainsi que l'espace s'enrichit en oxygène, troisième élément le plus abondant de l'Univers en masse, après l'hydrogène et l'hélium.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/supernova.jpg" alt="Gif 2" width="400">
+  <img src="/assets/img/supernova.webp" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 # -13 000 000 000 d'années
@@ -123,14 +121,14 @@ tags: technology
 <p>Cet oxygène libéré peut se combiner avec deux atomes d'hydrogène pour former une molécule plus complexe : H₂O, la molécule d'eau (une molécule est un assemblage d'atomes, ici 1 oxygène + 2 hydrogène). Une bonne partie de cette eau se forme dans les nuages interstellaires froids, à la surface des grains de poussière. On observe d'ailleurs de l'eau sous forme de glace dans ces régions froides de l'Univers, loin de toute étoile.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/trouNoir.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/trouNoir.mp4"/>
 </p>
 
 <p>Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovæ. La gravité d'un trou noir est si intense qu'au-delà d'une certaine limite (l'horizon des événements), rien ne peut s'en échapper, pas même la lumière. Les trous noirs peuvent fusionner entre eux et « dévorer » des étoiles qui s'en approchent trop. La plupart des grandes galaxies abritent en leur centre un trou noir supermassif. Le trou noir central influence son évolution, notamment en régulant la formation d'étoiles.</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif" alt="Gif 2" width="400">
+  <img src="https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p>Le noyau de la Voie lactée (la Galaxie, avec une majuscule) s'assemble à partir d'hydrogène et d'hélium, mais aussi d'éléments plus lourds — du carbone forgé dans les étoiles, et de l'or ou de l'uranium issus surtout des fusions d'étoiles à neutrons (et, pour une part, des supernovæ des étoiles les plus anciennes). Les régions centrales, dans le bulbe, comptent parmi les plus vieilles de notre galaxie, aux côtés des étoiles du halo et des amas globulaires.</p>
@@ -138,19 +136,19 @@ tags: technology
 # -12 700 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/mathusalem.png" alt="Gif 2" width="700">
+  <img src="/assets/img/mathusalem.webp" alt="Gif 2" width="700" loading="lazy" decoding="async" height="382" />
 </p>
 
 <p>Naît la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. Formée autour d'une étoile semblable au Soleil, elle finira capturée au cœur de l'amas globulaire M4, en orbite autour d'un pulsar et d'une naine blanche. L'univers n'a alors qu'environ un milliard d'années — et M4 est pourtant très pauvre en éléments lourds. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/exoplanete.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/exoplanete.mp4"/>
 </p>
 
 # -12 000 000 000 d'années
 
-<p>Même si notre système solaire n'existe pas encore, l'Univers commence à ressembler à celui d'aujourd'hui : des étoiles (à la vie plus courte qu'aujourd'hui), des galaxies et des groupes de galaxies qui, régulièrement, fusionnent entre eux. La lumière y est plus vive, portée par une formation d'étoiles bien plus intense qu'aujourd'hui (plus d'une dizaine de fois plus rapide), et l'Univers poursuit son expansion.</p>
+<p>Même si notre système solaire n'existe pas encore, l'Univers commence à ressembler à celui d'aujourd'hui : des étoiles (à la vie plus courte qu'aujourd'hui), des galaxies et des groupes de galaxies qui, régulièrement, fusionnent entre eux. La lumière y est plus vive, portée par une formation d'étoiles bien plus intense qu'aujourd'hui, et l'Univers poursuit son expansion — le pic reste à venir.</p>
 
 <p>Les interactions entre galaxies sont plus fréquentes, mais les galaxies massives sont encore rares : elles se construiront plus tard, justement par fusions successives.</p>
 
@@ -159,7 +157,7 @@ tags: technology
 <p>La Voie lactée, à ce stade, ressemble à une galaxie naine. Sa taille est comparable à celle (actuelle) du Petit Nuage de Magellan, une petite galaxie satellite de la Voie lactée comptant entre quelques centaines de millions et quelques milliards d'étoiles — avec bien moins d'étoiles massives qu'elle n'en abritera plus tard.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/energieSombre.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/energieSombre.mp4"/>
 </p>
 
@@ -172,7 +170,7 @@ tags: technology
 <p>Le taux net de formation d'étoiles atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu en abondance. C'est une période connue sous le nom de « midi cosmique » (l'époque de formation maximale des étoiles), durant laquelle plus de la moitié des étoiles de l'Univers actuel se sont formées. Selon les observations de galaxies lointaines, le taux de formation stellaire y est environ dix fois plus élevé qu'aujourd'hui.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/fusionKraken.png" alt="Gif 2" width="700">
+  <img src="/assets/img/fusionKraken.webp" alt="Gif 2" width="700" loading="lazy" decoding="async" height="382" />
 </p>
 
 <p>La Voie lactée, encore quatre fois moins massive qu'aujourd'hui, connaît la plus grande fusion de son histoire : la collision avec « Kraken », une galaxie aujourd'hui disparue, absorbée par la nôtre. Ce n'est pas la fusion qui apporta le plus d'étoiles en masse absolue, mais c'est la plus majeure par son rapport de masse: survenant très tôt, quand la galaxie hôte était encore petite, elle a profondément transformé la structure de la Voie lactée naissante.</p>
@@ -184,7 +182,7 @@ tags: technology
 <p>Le diamètre de l'Univers est environ deux fois et demie à trois fois inférieur à ce qu'il est aujourd'hui. Près de la moitié des étoiles de l'Univers actuel sont déjà formées, et la moitié des galaxies les plus massives ont déjà cessé définitivement de former des étoiles. Andromède, la grande galaxie voisine de la Voie lactée — l'une des rares observables à l'œil nu depuis la Terre — est, elle, dans ses phases d'assemblage précoce.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/voieLactee.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/voieLactee.mp4"/>
 </p>
 
@@ -193,7 +191,7 @@ tags: technology
 # -9 000 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/gazFroid.svg" alt="Gif 2" width="700">
+  <img src="/assets/img/gazFroid.svg" alt="Gif 2" width="700" loading="lazy" decoding="async" />
 </p>
 
 <p>Le gaz interstellaire commence à s'appauvrir, et la création de nouvelles étoiles — donc de supernovæ, du moins celles issues d'étoiles massives — ralentit lentement. Plusieurs effets se conjuguent. Les réservoirs de gaz froid (surtout l'hydrogène, sous forme moléculaire) qui alimentent la naissance des étoiles se consomment vite — en un à deux milliards d'années à peine — et dépendent donc d'un réapprovisionnement continu ; or l'Univers, en s'étendant, apporte de moins en moins de gaz frais aux galaxies via les filaments cosmiques. C'est ce tarissement de l'accrétion, plus encore que l'épuisement des réserves internes, qui pilote le déclin. Les supernovæ et les vents stellaires chassent une partie du gaz hors des galaxies, tandis que, dans les plus massives, le gaz qui tombe est chauffé par choc à des millions de degrés et que la rétroaction des trous noirs supermassifs entretient cette température, empêchant le refroidissement. Résultat : le taux de formation stellaire chute progressivement dans la plupart des galaxies — de moins en moins d'étoiles naissent à mesure que le temps avance.</p>
@@ -201,24 +199,24 @@ tags: technology
 # -8 000 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/sagittaire.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/sagittaire.mp4"/>
 </p>
 
 <p>Le taux de formation d'étoiles dans la Voie lactée commence à décliner. La galaxie entre dans une phase plus calme : les grandes fusions sont derrière elle, et le gaz qu'elle continue d'accréter peut enfin se déposer tranquillement. Il s'organise en un disque mince, dynamiquement froid, en rotation rapide et ordonnée autour du centre galactique : le disque mince de notre galaxie — celui où naîtra le Soleil, et où réside aujourd'hui l'essentiel de la formation stellaire — commence à se mettre en place.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/disque.svg" alt="Gif 2" width="700">
+  <img src="/assets/img/disque.svg" alt="Gif 2" width="700" loading="lazy" decoding="async" height="412" />
 </p>
 
 <p>Ce disque mince succède au disque épais, formé plus tôt dans une époque turbulente de fusions et d'accrétion chaotique, dont les étoiles conservent des orbites plus agitées, s'écartant davantage du plan galactique. La frontière entre les deux se lit encore aujourd'hui dans la chimie des étoiles : celles du disque épais sont pauvres en fer mais riches en éléments alpha (oxygène, magnésium), signature d'une formation rapide dominée par les supernovæ massives ; celles du disque mince, formées plus tard, sont plus riches en métaux, car le milieu interstellaire a été enrichi par les générations précédentes de supernovæ — y compris les supernovæ de type Ia, dont la contribution en fer, différée de plusieurs milliards d'années, commence alors à se faire pleinement sentir.</p>
 
 # -6 000 000 000 d'années
 
-<p>Les grandes fusions du passé de la Voie lactée sont terminées : depuis Gaïa-Encelade, notre galaxie n'a plus connu de fusion majeure — une tranquillité inhabituelle pour une galaxie de sa taille (les accrétions mineures, comme celle du Sagittaire, se poursuivent néanmoins, et de grandes fusions l'attendent dans le futur). La Voie lactée est la deuxième plus grande galaxie de notre groupe de galaxies, le Groupe local. La plus grande, Andromède, est une immense galaxie spirale, semblable à la Voie lactée mais environ deux fois plus étendue et plus riche en étoiles — même si, en masse totale, les deux sont comparables.</p>
+<p>Les grandes fusions du passé de la Voie lactée sont terminées : depuis Gaïa-Encelade, notre galaxie n'a plus connu de fusion majeure — une tranquillité inhabituelle pour une galaxie de sa taille (des accrétions plus modestes, comme celle du Sagittaire, se poursuivent néanmoins, et de grandes fusions l'attendent dans le futur). La Voie lactée est la deuxième plus grande galaxie de notre groupe de galaxies, le Groupe local. La plus grande, Andromède, est une immense galaxie spirale, semblable à la Voie lactée mais environ deux fois plus étendue et plus riche en étoiles — même si, en masse totale, les deux sont comparables.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/energiesombre.png" alt="Gif 2" width="700">
+  <img src="/assets/img/energiesombre.webp" alt="Gif 2" width="700" loading="lazy" decoding="async" height="718" />
 </p>
 
 <p>L'influence de l'énergie sombre sur l'expansion de l'Univers devient de plus en plus prédominante. Cette période est proche du moment où, selon les modèles cosmologiques actuels, l'expansion de l'Univers cesse de ralentir et commence à s'accélérer sous l'effet de l'énergie sombre.</p>
@@ -228,12 +226,12 @@ tags: technology
 <p>Un vaste nuage de gaz et de poussières (environ 74 % d'hydrogène, 24 % d'hélium, et un peu d'oxygène, d'azote et de carbone), à mi-rayon du disque de la Voie lactée, commence à s'effondrer — un processus probablement déclenché par l'onde de choc d'une supernova proche, dont les débris ont aussi enrichi le nuage en éléments lourds. C'est le commencement de la formation de notre système solaire. Sous l'effet de la gravité, le centre du nuage attire ~99,9 % de la matière environnante, devenant de plus en plus dense et chaud. L'effondrement du cœur en protoétoile dure environ 100 000 ans ; il faudra ensuite quelques dizaines de millions d'années de contraction avant que la fusion nucléaire ne s'allume vraiment, marquant la naissance du Soleil.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/soleil.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/soleil.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/systemeSolaire.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/systemeSolaire.mp4"/>
 </p>
 
@@ -244,17 +242,17 @@ tags: technology
 <p>Dans la zone chaude, près du Soleil, seuls les éléments réfractaires (roches et métaux) peuvent se condenser. La gravité assemble peu à peu ces roches en corps de plus en plus gros, jusqu'à former des planètes rocheuses, dites telluriques : Mercure, Vénus, la Terre et Mars.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Solarsystem3DJupiter.gif" alt="Gif 2" width="400">
+  <img src="/assets/img/Solarsystem3DJupiter.webp" alt="Gif 2" width="400" loading="lazy" decoding="async" height="405" />
 </p>
 
 <p>Le système solaire compte au départ bien plus de corps protoplanétaires qu'il n'en gardera. Tous ne peuvent rester : ils se bousculent et se heurtent. Certains se rapprochent trop du Soleil et y tombent, d'autres sont éjectés du système par l'attraction d'une planète voisine. C'est ainsi que naissent les planètes errantes, qui dérivent seules dans l'espace, sans étoile autour de laquelle tourner.</p>
 
-<p>La galaxie naine du Sagittaire amorce sa chute vers la Voie lactée. Comptant quelques centaines de millions d'étoiles, elle a joué un rôle d'« architecte » : ses passages successifs ont déclenché de grandes bouffées de formation d'étoiles dans notre galaxie. C'est la plus récente des grandes fusions de la Voie lactée (après Kraken puis Gaïa-Encelade, bien plus massives), et elle se poursuit encore aujourd'hui : la galaxie est toujours en train d'être déchiquetée par les forces de marée. Les étoiles issues du Sagittaire sont identifiées aujourd'hui grâce à leur signature chimique distincte : moins d'éléments lourds (métallicité plus basse) et un déficit en éléments α (oxygène, magnésium) par rapport au fer, témoin d'une formation d'étoiles lente et peu efficace.</p>
+<p>La galaxie naine du Sagittaire amorce sa chute vers la Voie lactée. Comptant quelques centaines de millions d'étoiles, elle a joué un rôle d'« architecte » : ses passages successifs ont déclenché de grandes bouffées de formation d'étoiles dans notre galaxie. C'est la plus récente de ses accrétions notables (sans commune mesure avec Kraken ou Gaïa-Encelade, bien plus massives), et elle se poursuit encore aujourd'hui : la galaxie est toujours en train d'être déchiquetée par les forces de marée. Les étoiles issues du Sagittaire sont identifiées aujourd'hui grâce à leur signature chimique distincte : moins d'éléments lourds (métallicité plus basse) et un déficit en éléments α (oxygène, magnésium) par rapport au fer, témoin d'une formation d'étoiles lente et peu efficace.</p>
 
 # -4 540 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/debutTerre.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutTerre.mp4"/>
 </p>
 
@@ -263,40 +261,40 @@ tags: technology
 # -4 510 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/debutLune.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutLune.mp4"/>
 </p>
 
 <p>L'orbite d'une planète de la taille de Mars, appelée Theia, la mène droit sur la Terre : c'est l'impact géant. La collision projette dans l'espace une énorme quantité de matière, issue à la fois de la Terre et de Theia. Pendant quelques millions d'années, notre planète possède des anneaux de débris, comme Saturne. Puis ces anneaux s'agglomèrent pour donner naissance à un nouveau monde : la Lune, l'unique satellite naturel permanent de la Terre.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/impactgeant.png" alt="Gif 2" width="400">
+  <img src="/assets/img/impactgeant.webp" alt="Gif 2" width="400" loading="lazy" decoding="async" height="118" />
 </p>
 
 <p>La Lune, en rotation synchrone, présente toujours la même face à la Terre. Fait remarquable : elle a presque exactement la même taille apparente que le Soleil dans le ciel (environ un demi-degré chacun). C'est une coïncidence — le Soleil est environ 400 fois plus grand que la Lune, mais aussi 400 fois plus loin, si bien que les deux disques paraissent identiques. C'est ce qui permet à la Lune, lorsqu'elle passe entre la Terre et le Soleil, de masquer ce dernier presque parfaitement : c'est l'éclipse totale. Cette correspondance n'est toutefois que temporaire — la Lune s'éloigne de la Terre d'environ 3,8 cm par an, et dans un lointain futur, elle sera trop petite dans le ciel pour produire des éclipses totales.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/cachée_lune.jpg" alt="Gif 2" width="400">
+  <img src="/assets/img/cachée_lune.webp" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p>Caché</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/visible_lune.png" alt="Gif 2" width="400">
+  <img src="/assets/img/visible_lune.webp" alt="Gif 2" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p>Visible</p>
 
 # -4 400 000 000 d'années
 
-<p>Les zircons de Jack Hills, en Australie, témoignent de la présence d'eau liquide dès -4,4 milliards d'années. </p>
+<p>Les zircons de Jack Hills, en Australie, sont les plus vieux minéraux terrestres connus. Leur composition indique qu'une première croûte s'était déjà formée et qu'elle était au contact d'eau liquide : la Terre s'est refroidie bien plus vite qu'on ne l'imaginait.</p>
 
 # -4 300 000 000 d'années
 
-<p>La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. Au fur et à mesure que la température devient suffisamment froide, une croûte rocheuse se forme.</p>
+<p>La planète se refroidit petit à petit. Le soleil n'est qu'à 70 % aussi brillant qu'il l'est aujourd'hui, et la lune est beaucoup plus proche et est énorme dans le ciel. Cette première croûte rocheuse, encore mince et sans cesse refondue par les impacts et le volcanisme, commence enfin à se stabiliser.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/refroidissement.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/refroidissement.mp4"/>
 </p>
 
@@ -307,17 +305,17 @@ tags: technology
 # -4 100 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/innondation.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/innondation.mp4"/>
 </p>
 
 <p>Certains de ces astéroïdes atteignent la Terre qui est elle-même en cours de refroidissement. Ceci marque le début d'un grand bombardement (le grand bombardement tardif) qui dure plus de 150 millions d'années. Ces astéroïdes sont constitués d'éléments essentiels à la vie: de l'hydrogène, de l'oxygène, de l'azote, de l'eau, mais surtout du carbone. L'eau et les autres éléments essentiels à la vie peuvent se retrouver dans une même météorite.</p>
 
-<p>Lorsque ces astéroïdes entrent dans les océans, ils se décomposent petit à petit pour en libérer les éléments et créer mystérieusement de la vie au fond des océans.</p>
+<p>Lorsque ces astéroïdes plongent dans les océans, ils se décomposent peu à peu et y libèrent leurs éléments. La soupe chimique dont sortira la vie est en place ; les premières traces, elles, n'apparaîtront que quelques centaines de millions d'années plus tard.</p>
 
 # -4 000 000 000 d'années
 
-<p>La Terre sort à peine de son enfance violente. Les impacts de météorites, hérités de la formation du système solaire, restent fréquents, mais leur cadence décroît peu à peu — la pluie de débris s'épuise.</p>
+<p>La Terre sort à peine du grand bombardement. Les impacts restent fréquents, mais leur cadence commence enfin à décroître — la pluie de débris s'épuise.</p>
 
 <p>La surface s'est suffisamment refroidie pour que la vapeur d'eau se condense : un océan quasi global recouvre désormais la planète, ne laissant émerger que de rares terres. </p>
 
@@ -328,7 +326,7 @@ tags: technology
 # -3 800 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/debutVie.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/debutVie.mp4"/>
 </p>
 
@@ -370,18 +368,16 @@ tags: technology
 
 <p>Ce sont probablement ces microbes qui construisent les stromatolites de Pilbara : des tapis microbiens qui piègent les sédiments, couche après couche, formant des structures en dôme qui comptent parmi les plus anciennes traces de vie visibles à l'œil nu.</p>
 
-<p>L'énergie solaire est inépuisable comparée aux ressources chimiques des sources hydrothermales. La vie vient de trouver un bien meilleur moteur — et elle se rapproche de la surface, là où la lumière abonde.</p>
-
-<p>La mer regorge désormais de ces organismes microscopiques. Ces cellules se rapprochent de la surface.</p>
+<p>La mer regorge désormais de ces organismes microscopiques. Et un bien meilleur moteur les attend : l'énergie solaire, inépuisable comparée aux maigres ressources chimiques des sources hydrothermales. Ces cellules se rapprochent de la surface, là où la lumière abonde.</p>
 
 # -2 900 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/oxygene.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/oxygene.mp4"/>
 </p>
 
-<p>L'oxygène commence à remplir un peu l'atmosphère grâce à la photosynthèse des cyanobactéries. L'eau (H₂O) contient des atomes d'oxygène, mais cet oxygène est lié chimiquement à des atomes d'hydrogène pour former des molécules d'eau. Avant l'apparition des cyanobactéries, il y a très peu d'oxygène libre (O₂) dans l'atmosphère terrestre. Mais après l'apparition, les cyanobactéries utilisent l'énergie solaire pour séparer les molécules d'eau (H₂O) en hydrogène (H) et en oxygène (O₂).</p>
+<p>Les cyanobactéries se mettent à produire de l'oxygène par photosynthèse. L'eau (H₂O) contient bien des atomes d'oxygène, mais liés chimiquement à l'hydrogène ; les cyanobactéries, elles, utilisent l'énergie solaire pour casser la molécule d'eau et en libérer l'oxygène (O₂) sous forme de gaz. C'est une première dans l'histoire de la vie — mais cet oxygène ne gagnera pas l'atmosphère avant des centaines de millions d'années : il est capté au fur et à mesure par l'océan et les roches.</p>
 
 # -2 800 000 000 d'années
 
@@ -392,14 +388,14 @@ tags: technology
 # -2 700 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/cyanobacterie.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/cyanobacterie.mp4"/>
 </p>
 
 <p>Les êtres vivants se rassemblent en filaments verdâtres, fins comme des cheveux, et en tapis visqueux qui recouvrent les fonds peu profonds, construits par des organismes microscopiques appelés cyanobactéries — les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/cyanobacterie.jpg" alt="Cyanobactéries" width="400">
+  <img src="/assets/img/cyanobacterie.webp" alt="Cyanobactéries" width="400" loading="lazy" decoding="async" height="225" />
 </p>
 
 <p>Ces bactéries (des procaryotes, donc) utilisent la lumière du soleil pour transformer le dioxyde de carbone (CO2) et l'eau en glucose, un sucre simple qui leur sert de nourriture. C'est ce qu'on appelle la photosynthèse.</p>
@@ -413,7 +409,7 @@ tags: technology
 <p>Pendant des centaines de millions d'années, les cyanobactéries vont ainsi produire de l'oxygène sans que l'atmosphère n'en contienne une seule bouffée. Ce n'est que lorsque l'océan sera saturé — le fer épuisé — que l'oxygène commencera enfin à s'échapper dans l'air. Ce jour-là, tout changera.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/ileVolcanique.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ileVolcanique.mp4"/>
 </p>
 
@@ -425,7 +421,7 @@ tags: technology
 
 <p>Car ce gaz est un poison violent pour la plupart des organismes de l'époque, adaptés à un monde sans oxygène. Il attaque leurs molécules comme une arme chimique. Une grande partie de la vie anaérobie est décimée ; les survivants se réfugient là où l'oxygène ne pénètre pas — les sédiments, les profondeurs, les vases — où leurs descendants vivent encore aujourd'hui.</p>
 
-<p>L'oxygène s'attaque aussi au climat. Dans l'atmosphère, il détruit le méthane, un puissant gaz à effet de serre, en le transformant en CO2 et en eau. Privée d'une partie de sa couverture, la Terre plonge dans une série de glaciations — la glaciation huronienne — qui s'étale sur environ 200 millions d'années. Lors de l'épisode le plus sévère, les glaces ont peut-être recouvert la planète entière : une « Terre boule de neige ».</p>
+<p>L'oxygène s'attaque aussi au climat. Dans l'atmosphère, il détruit le méthane, un puissant gaz à effet de serre, en le transformant en CO2 et en eau. Privée d'une partie de sa couverture, la Terre plonge dans une série de glaciations — la glaciation huronienne — qui s'étale sur près de 300 millions d'années. Lors de l'épisode le plus sévère, les glaces ont peut-être recouvert la planète entière : une « Terre boule de neige ».</p>
 
 <p>Pourtant, l'oxygène ne représente alors qu'environ 1 % de l'atmosphère — contre 21 % aujourd'hui. Il en faut peu pour bouleverser un monde.</p>
 
@@ -439,12 +435,12 @@ tags: technology
 
 <p>C'est un bouclier planétaire. Jusqu'ici, les UV stérilisaient les eaux de surface et les terres émergées, confinant la vie en profondeur. Désormais protégée, la biosphère peut s'aventurer vers la lumière — une condition indispensable pour que, bien plus tard, la vie ose sortir de l'eau.</p>
 
-<p>Les organismes survivants évoluent dans ce monde transformé, où l'oxygène ne représente encore qu'environ 1 % de l'atmosphère.</p>
+<p>Les organismes survivants évoluent dans ce monde transformé : protégé des ultraviolets, mais toujours aussi pauvre en oxygène.</p>
 
 # -1 800 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/mitochondrie.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mitochondrie.mp4"/>
 </p>
 
@@ -453,7 +449,7 @@ tags: technology
 <p>Une grande cellule engloutit une petite bactérie… mais ne la digère pas. La bactérie survit à l'intérieur, et les deux y trouvent leur compte : la petite sait utiliser l'oxygène pour produire de l'énergie en grande quantité, la grande lui offre abri et nutriments. Au fil des générations, la bactérie devient un composant permanent de sa cellule hôte : la mitochondrie, la centrale énergétique de la cellule.</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif" alt="Endosymbiose" width="400">
+  <img src="https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif" alt="Endosymbiose" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p>C'est la naissance des eucaryotes : des cellules plus grandes, plus complexes, dotées d'un noyau qui protège leur ADN. Tous les animaux, les plantes, les champignons — et nous — descendons de cette cellule-là. Et dans chacune de nos cellules, les mitochondries portent encore leur propre ADN, souvenir de leur vie de bactérie libre.</p>
@@ -476,7 +472,7 @@ tags: technology
 
 # -1 400 000 000 d'années
 
-<p>Les descendantes de la cellule au chloroplaste se diversifient : ce sont les premières algues, les premiers organismes photosynthétiques eucaryotes. On retrouve leurs fossiles dans les environnements marins peu profonds, là où la lumière pénètre. Parmi elles, les ancêtres des algues rouges — dont certains fossiles, comme Bangiomorpha, comptent parmi les plus anciens organismes multicellulaires connus.</p>
+<p>Les descendantes de la cellule au chloroplaste se diversifient : ce sont les premières algues, les premiers organismes photosynthétiques eucaryotes. On retrouve leurs fossiles dans les environnements marins peu profonds, là où la lumière pénètre. Parmi elles, les ancêtres des algues rouges, dont descendra Bangiomorpha — l'un des plus anciens organismes multicellulaires connus, que nous retrouverons.</p>
 
 <p>Pour l'instant, elles restent discrètes : les cyanobactéries, qui œuvrent depuis plus d'un milliard d'années, demeurent les grandes productrices d'oxygène de la planète. L'atmosphère n'en contient toujours qu'environ 1 à 2 % — les niveaux stagnent, fidèles au « milliard ennuyeux ». Mais les algues préparent l'avenir : bien plus tard, elles supplanteront les cyanobactéries et deviendront les véritables poumons bleus de la Terre, déclenchant une seconde grande vague d'oxygénation.</p>
 
@@ -495,14 +491,14 @@ tags: technology
 # -1 000 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/rodynia.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/rodynia.mp4"/>
 </p>
 
 <p>Les continents, eux, n'ont jamais cessé de bouger. Portés par les lents mouvements du manteau, ils dérivent de quelques centimètres par an — assez, sur des centaines de millions d'années, pour redessiner entièrement le globe. Nuna s'est fragmenté ; ses morceaux, après une longue dérive, entrent en collision les uns avec les autres et se soudent en un nouveau supercontinent : Rodinia. C'est le cycle des supercontinents — assemblage, fragmentation, réassemblage — qui rythmera toute l'histoire de la planète.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Rodinia.jpg" alt="Rodinia" width="400">
+  <img src="/assets/img/Rodinia.webp" alt="Rodinia" width="400" loading="lazy" decoding="async" height="431" />
 </p>
 
 <p>L'intérieur de cette immense masse continentale, loin de toute mer, connaît un climat extrême : brûlant l'été, glacial l'hiver, et surtout terriblement aride. La vie terrestre reste cantonnée aux marges humides et aux eaux douces, où prospèrent croûtes microbiennes, algues et champignons microscopiques. L'essentiel du vivant, lui, demeure dans l'océan.</p>
@@ -514,25 +510,25 @@ tags: technology
 <p>La rupture s'accompagne d'éruptions colossales, qui déversent à la surface d'immenses quantités de roche volcanique — principalement du basalte, une roche ignée sombre.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/basalte.jpg" alt="Basalte" width="400">
+  <img src="/assets/img/basalte.webp" alt="Basalte" width="400" loading="lazy" decoding="async" height="300" />
 </p>
 
 <p style="text-align:center">(Basalte)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/basalteocean.jpg" alt="Basalte au fond de l'océan" width="400">
+  <img src="/assets/img/basalteocean.webp" alt="Basalte au fond de l'océan" width="400" loading="lazy" decoding="async" height="242" />
 </p>
 
 <p style="display:block;text-align:center">(Basalte vu au fond de l'océan)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/lavebasaltique.jpg" alt="Coulée de lave basaltique" width="400">
+  <img src="/assets/img/lavebasaltique.jpg" alt="Coulée de lave basaltique" width="400" loading="lazy" decoding="async" height="300" />
 </p>
 
 <p style="display:block;text-align:center">(Coulée de lave basaltique refroidie)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/cathedralebasalte.JPG" alt="Cathédrale Saint-Étienne d'Agde" width="400">
+  <img src="/assets/img/cathedralebasalte.webp" alt="Cathédrale Saint-Étienne d'Agde" width="400" loading="lazy" decoding="async" height="600" />
 </p>
 
 <p style="display:block;text-align:center">(la cathédrale Saint-Étienne d'Agde est construite en basalte)</p>
@@ -542,14 +538,14 @@ tags: technology
 # -780 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/eponge.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/eponge.mp4"/>
 </p>
 
 <p>C'est peut-être vers cette époque — les analyses génétiques le suggèrent, même si les fossiles clairs n'apparaîtront que bien plus tard — qu'émergent les éponges de mer : les tout premiers animaux de l'histoire de la Terre. Fixées au fond des mers, elles inaugurent une nouvelle branche du vivant, celle qui mènera un jour aux poissons, aux dinosaures et à nous.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/eponges.jpg" alt="Éponges de mer" width="400">
+  <img src="/assets/img/eponges.webp" alt="Éponges de mer" width="400" loading="lazy" decoding="async" height="300" />
 </p>
 
 <p style="display:block;text-align:center">(Éponges de mer)</p>
@@ -572,7 +568,7 @@ tags: technology
 
 <p>Le moment ne pouvait pas être pire. L'effet de serre est déjà affaibli par l'altération des basaltes, qui pompe le CO2 depuis des millions d'années. Voile de soufre en haut, pompe à carbone en bas : le climat bascule. Les glaces se mettent à avancer depuis les pôles — et cette fois, rien ne les arrêtera.</p>
 
-# -710 000 000 d'années
+# -717 000 000 d'années
 
 <p>L'atmosphère ne contient plus assez de dioxyde de carbone pour retenir la chaleur du soleil. La couverture isolante de la planète s'est trouée — et cette fois, rien ne compense. Les glaces avancent depuis les pôles, et plus elles avancent, plus la Terre blanchit, plus elle réfléchit la lumière du soleil vers l'espace… et plus elle se refroidit. Le cercle vicieux s'emballe, inarrêtable.</p>
 
@@ -590,13 +586,15 @@ tags: technology
 
 # -650 000 000 d'années
 
+<p>Le répit est court. À peine sortie de la glaciation sturtienne, la Terre y replonge : c'est la glaciation marinoenne, plus brève mais tout aussi totale. Une seconde Terre boule de neige, un second déluge à la sortie — et, cette fois, un océan que la fonte va charger de nutriments comme jamais.</p>
+
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/boulleDeGlace.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/boulleDeGlace.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/bouleDeNeige.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/bouleDeNeige.mp4"/>
 </p>
 
@@ -655,7 +653,7 @@ tags: technology
 # -521 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/trilobite.jpg" alt="Trilobite" width="400">
+  <img src="/assets/img/trilobite.webp" alt="Trilobite" width="400" loading="lazy" decoding="async" height="228" />
 </p>
 
 <p style="display:block;text-align:center">(Trilobite)</p>
@@ -664,7 +662,7 @@ tags: technology
 
 <p>Leurs yeux méritent le détour : ce sont les plus anciens yeux complexes bien conservés qu'on connaisse — et leurs lentilles sont faites de calcite, un minéral. Des yeux de pierre, littéralement. Certaines espèces en portent d'énormes, à centaines de facettes ; d'autres, vivant dans l'obscurité des profondeurs ou l'eau trouble, ont perdu les leurs et sont aveugles.</p>
 
-<p>Leur diversité fait leur force : selon les espèces, ils chassent des proies molles comme les vers, fouillent les sédiments, filtrent l'eau ou nettoient les fonds en charognards. On les trouve des eaux peu profondes aux grandes profondeurs, partout dans le monde, du plus petit (quelques millimètres) au plus grand (plus d'un demi-mètre). Ils domineront les océans pendant des dizaines de millions d'années — et leur groupe survivra près de 300 millions d'années, l'un des plus beaux règnes de l'histoire animale.</p>
+<p>Leur diversité fait leur force : selon les espèces, ils chassent des proies molles comme les vers, fouillent les sédiments, filtrent l'eau ou nettoient les fonds en charognards. On les trouve des eaux peu profondes aux grandes profondeurs, partout dans le monde, du plus petit (quelques millimètres) au plus grand (plus d'un demi-mètre). Ils domineront les océans pendant des dizaines de millions d'années — et leur groupe survivra près de 270 millions d'années, l'un des plus beaux règnes de l'histoire animale.</p>
 
 <p>Leur plan de construction — corps segmenté, armure externe, membres articulés — se révélera l'un des plus efficaces de toute l'histoire de la vie : aujourd'hui encore, les arthropodes (insectes, crustacés, arachnides, myriapodes) représentent plus d'un million d'espèces connues, soit environ 80 % de toutes les espèces animales de la planète.</p>
 
@@ -673,13 +671,13 @@ tags: technology
 <p>Le gisement de Chengjiang, en Chine, nous offre un instantané extraordinaire de ce monde en pleine ébullition — des fossiles si fins qu'on y voit les yeux, les pattes, parfois les organes internes.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/anomacolis.jpg" alt="Anomalocaris" width="400">
+  <img src="/assets/img/anomacolis.webp" alt="Anomalocaris" width="400" loading="lazy" decoding="async" height="309" />
 </p>
 
 <p style="display:block;text-align:center">(Anomalocaris)</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/anomalocaris.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/anomalocaris.mp4"/>
 </p>
 
@@ -688,7 +686,7 @@ tags: technology
 <p>Autour de lui grouille une ménagerie de créatures si étranges — Opabinia et ses cinq yeux, Hallucigenia et ses épines — que leurs découvreurs crurent d'abord à des erreurs de la nature.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Haikouichthys_NT.jpg" alt="Haikouichthys" width="400">
+  <img src="/assets/img/Haikouichthys_NT.webp" alt="Haikouichthys" width="400" loading="lazy" decoding="async" height="161" />
 </p>
 
 <p style="display:block;text-align:center">(Haikouichthys)</p>
@@ -704,7 +702,7 @@ tags: technology
 <p>Cette tige — la corde dorsale, ancêtre de la colonne vertébrale — semble bien modeste. Pikaia n'est même pas le premier de sa lignée : Haikouichthys, plus poisson que lui, nageait déjà dix millions d'années plus tôt. Mais Pikaia illustre à merveille le plan de base dont tout est parti — et c'est de ce plan-là que descendront les poissons, les dinosaures, et nous.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/metaspriggina.jpg" alt="Metaspriggina" width="400">
+  <img src="/assets/img/metaspriggina.webp" alt="Metaspriggina" width="400" loading="lazy" decoding="async" height="225" />
 </p>
 
 <p style="display:block;text-align:center">(Metaspriggina, l'un des premiers poissons)</p>
@@ -712,11 +710,11 @@ tags: technology
 <p>Burgess conserve aussi Metaspriggina, un poisson de quelques centimètres aux fossiles d'une netteté stupéfiante : on y distingue ses deux yeux, ses muscles en chevrons, ses arcs branchiaux. Il a une bouche, mais pas de mâchoires — il se nourrit probablement en filtrant l'eau et les particules. Et il sait nager, vite : dans un océan patrouillé par des prédateurs comme Anomalocaris, la vitesse est une assurance-vie. Détail lourd d'avenir : parmi ses arcs branchiaux, la première paire est légèrement épaissie — c'est de ces structures que naîtront, des dizaines de millions d'années plus tard, les mâchoires.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/lamprey.jpg" alt="Lamproie" width="400">
+  <img src="/assets/img/lamprey.webp" alt="Lamproie" width="400" loading="lazy" decoding="async" height="267" />
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/myxine.jpg" alt="Myxine" width="400">
+  <img src="/assets/img/myxine.webp" alt="Myxine" width="400" loading="lazy" decoding="async" height="179" />
 </p>
 
 <p style="display:block;text-align:center">(Les vertébrés les plus primitifs vivants aujourd'hui, les lamproies et les myxines, n'ont — comme les premiers poissons — pas de mâchoires)</p>
@@ -736,7 +734,7 @@ tags: technology
 <p>Pendant que la vie marine explose, un événement discret change la face des continents : les premières plantes s'installent sur la terre ferme. Descendantes d'algues vertes d'eau douce, elles ressemblent aux mousses et aux hépatiques actuelles. Ce sont des plantes non-vasculaires : ni racines, ni tiges, ni vraies feuilles — juste de petits tapis verts accrochés aux rochers humides, incapables de vivre loin de l'eau.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/ozone.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ozone.mp4"/>
 </p>
 
@@ -747,7 +745,7 @@ tags: technology
 # -444 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/ordovicien.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ordovicien.mp4"/>
 </p>
 
@@ -766,7 +764,7 @@ tags: technology
 <p>Dans les mers, les poissons se diversifient. Beaucoup portent une armure de denticules — des écailles construites exactement comme des dents, avec dentine et émail — pour se protéger des prédateurs. Et c'est vers cette époque qu'apparaît l'une des inventions les plus lourdes de conséquences de l'évolution : la mâchoire, née de la transformation du premier arc branchial. Selon une hypothèse classique, les dents qui la garnissent dériveraient des denticules de la peau — des dents externes « rentrées » dans la bouche.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/jaekelopterus.jpg" alt="Jaekelopterus" width="400">
+  <img src="/assets/img/jaekelopterus.webp" alt="Jaekelopterus" width="400" loading="lazy" decoding="async" height="267" />
 </p>
 
 <p style="display:block;text-align:center">(Jaekelopterus, le plus grand des scorpions de mer, vivra au Dévonien : jusqu'à 2,5 mètres de long)</p>
@@ -778,7 +776,7 @@ tags: technology
 # -425 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/cooksonia.png" alt="Cooksonia" width="400">
+  <img src="/assets/img/cooksonia.webp" alt="Cooksonia" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p style="display:block;text-align:center">(Cooksonia)</p>
@@ -800,17 +798,17 @@ tags: technology
 # -420 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/placoderm.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/placoderm.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/placoderme.jpg" alt="Placoderme" width="400">
+  <img src="/assets/img/placoderme.webp" alt="Placoderme" width="400" loading="lazy" decoding="async" height="158" />
 </p>
 
 <p style="display:block;text-align:center">(Placoderme)</p>
 
-<p>La mâchoire, inventée quelques millions d'années plus tôt, trouve ses premiers champions : les placodermes, des poissons cuirassés dont la tête et l'avant du corps sont recouverts de plaques osseuses. Pas de vraies dents chez eux : leurs mâchoires se terminent par des lames osseuses tranchantes, qui s'auto-affûtent à l'usage — un peu à la manière du bec des tortues modernes, mais en version cisaille, capable de trancher les proies les plus coriaces.</p>
+<p>La mâchoire, inventée une vingtaine de millions d'années plus tôt, trouve ses premiers champions : les placodermes, des poissons cuirassés dont la tête et l'avant du corps sont recouverts de plaques osseuses. Pas de vraies dents chez eux : leurs mâchoires se terminent par des lames osseuses tranchantes, qui s'auto-affûtent à l'usage — un peu à la manière du bec des tortues modernes, mais en version cisaille, capable de trancher les proies les plus coriaces.</p>
 
 <p>Ces poissons ne sont ni des requins ni des poissons osseux, mais un groupe à part — dont certains membres sont proches de l'origine de tous les vertébrés à mâchoires. Leur règne ne fait que commencer : au Dévonien, ils domineront les océans et produiront de véritables monstres.</p>
 
@@ -837,7 +835,7 @@ tags: technology
 # -380 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/panderichthys.jpg" alt="Panderichthys" width="400">
+  <img src="/assets/img/panderichthys.webp" alt="Panderichthys" width="400" loading="lazy" decoding="async" height="284" />
 </p>
 
 <p style="display:block;text-align:center">(Panderichthys)</p>
@@ -851,7 +849,7 @@ tags: technology
 # -365 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/ichthyostegalia.jpg" alt="Ichthyostega" width="400">
+  <img src="/assets/img/ichthyostegalia.webp" alt="Ichthyostega" width="400" loading="lazy" decoding="async" height="152" />
 </p>
 
 <p style="display:block;text-align:center">(Ichthyostega)</p>
@@ -873,7 +871,7 @@ tags: technology
 # -360 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/devonian.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/devonian.mp4"/>
 </p>
 
@@ -894,7 +892,7 @@ tags: technology
 # -320 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/reptile.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/reptile.mp4"/>
 </p>
 
@@ -903,7 +901,7 @@ tags: technology
 <p>C'est la rupture définitive. Les amphibiens restent attachés aux points d'eau par leurs pontes ; les amniotes, eux, peuvent vivre et se reproduire n'importe où sur la terre ferme. Ce sont les premiers vertébrés cent pour cent terrestres — les arthropodes, eux, avaient pris de l'avance depuis longtemps.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/hylonomus.jpg" alt="Hylonomus" width="400">
+  <img src="/assets/img/hylonomus.webp" alt="Hylonomus" width="400" loading="lazy" decoding="async" height="169" />
 </p>
 
 <p style="display:block;text-align:center">(Hylonomus)</p>
@@ -927,12 +925,12 @@ tags: technology
 <p>Tout n'a pas disparu. Le long des côtes, des deltas et des lagunes intérieures, les dernières grandes jungles marécageuses subsistent — des refuges chauds et humides, hérissés d'arbres géants, où se concentre la vie luxuriante d'autrefois. C'est dans ces îlots que l'ancien monde du Carbonifère joue ses derniers actes — et quels actes.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/meganeura.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/meganeura.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/meganeura.jpg" alt="Meganeura" width="400">
+  <img src="/assets/img/meganeura.webp" alt="Meganeura" width="400" loading="lazy" decoding="async" height="251" />
 </p>
 
 <p style="display:block;text-align:center">(Meganeura)</p>
@@ -940,7 +938,7 @@ tags: technology
 <p>Car l'air porte encore l'héritage des grandes forêts : leur règne de millions d'années a saturé l'atmosphère d'oxygène, dont le taux atteint 30 à 35 % — bien au-dessus des 21 % actuels. Et cet air enrichi permet des monstres. Les insectes, qui respirent par un réseau de fins tuyaux (les trachées) où l'air diffuse passivement, sont d'ordinaire limités en taille ; avec un air si riche, la limite explose. Voici le temps des arthropodes géants : mille-pattes de deux mètres (Arthropleura), scorpions démesurés — et surtout Meganeura, cousin géant des libellules, dont les ailes dépassent 70 centimètres d'envergure. C'est le plus grand insecte volant de tous les temps ; il patrouille les jungles marécageuses, près des rivières et des lagunes, chassant d'autres insectes en plein vol.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/charbon.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/charbon.mp4"/>
 </p>
 
@@ -957,7 +955,7 @@ tags: technology
 # -255 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/scutosaure.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/scutosaure.mp4"/>
 </p>
 
@@ -968,7 +966,7 @@ tags: technology
 # -252 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/permian.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/permian.mp4"/>
 </p>
 
@@ -989,7 +987,7 @@ tags: technology
 <p>Mais la concurrence se réorganise vite. Parmi les reptiles qui se diversifient dans ce monde à reconstruire, un groupe monte en puissance : les archosaures — les « reptiles dominants ». De leurs rangs sortiront les crocodiles, les ptérosaures… et, d'ici quelques millions d'années, les premiers dinosaures. Le monde d'après la Grande Mort est en train de choisir ses nouveaux maîtres.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/thetis.jpg" alt="La Pangée et la mer Téthys" width="400">
+  <img src="/assets/img/thetis.webp" alt="La Pangée et la mer Téthys" width="400" loading="lazy" decoding="async" height="209" />
 </p>
 
 <p style="display:block;text-align:center">(La Pangée, toujours intacte au Trias, et la mer Téthys)</p>
@@ -1027,14 +1025,14 @@ tags: technology
 # -190 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/pangeeBrisure.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pangeeBrisure.mp4"/>
 </p>
 
 <p>La déchirure entamée dix millions d'années plus tôt — celle-là même qui avait déclenché l'extinction de la fin du Trias — poursuit son travail. Les eaux marines s'engouffrent dans la grande fissure : un jeune océan est en train de naître, qui deviendra l'Atlantique.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/pangee.jpg" alt="Pangée" width="400">
+  <img src="/assets/img/pangee.webp" alt="Pangée" width="400" loading="lazy" decoding="async" height="210" />
 </p>
 
 <p style="display:block;text-align:center">(Pangée)</p>
@@ -1044,21 +1042,21 @@ tags: technology
 # -175 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/atlantique.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/atlantique.mp4"/>
 </p>
 
 <p>La déchirure de la Pangée s'élargit : le jeune Atlantique n'est encore qu'un long bras de mer étroit, coincé entre les deux moitiés du monde. Et cette géographie particulière — des mers jeunes, confinées, aux eaux calmes et mal brassées — est en train de fabriquer, sans que personne ne s'en doute, un trésor pour un lointain futur.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/petroleDebut.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petroleDebut.mp4"/>
 </p>
 
 <p>Dans ces eaux tièdes prolifère le plancton — des nuées d'algues microscopiques. Quand il meurt, il pleut vers des fonds si pauvres en oxygène que rien ne le décompose : la matière organique s'accumule, couche après couche, et les sédiments l'ensevelissent. Enfouie toujours plus profond, pressée et chauffée pendant des millions d'années, cette boue organique va lentement se transformer... en pétrole.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/petrole.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/petrole.mp4"/>
 </p>
 
@@ -1070,7 +1068,7 @@ tags: technology
 
 <p>Détail surprenant : il n'existe encore aucune fleur sur Terre. Les plantes de ce monde sont des gymnospermes — conifères, cycas et leurs parents — qui exposent leurs graines à nu et comptent d'ordinaire sur le vent pour disperser leur pollen. Mais certaines ont inventé mieux : des gouttelettes sucrées qui attirent les insectes, transformant ces visiteurs gourmands en livreurs de pollen bien plus précis que le vent.</p>
 
-<p>Parmi ces pionniers, les kalligrammatides, cousins des chrysopes : de grandes ailes ornées d'ocelles, une longue trompe pour aspirer le nectar — de véritables « papillons du Jurassique »… 50 millions d'années avant les premiers papillons. L'évolution inventera deux fois la même silhouette pour le même métier.</p>
+<p>Parmi ces pionniers, les kalligrammatides, cousins des chrysopes : de grandes ailes ornées d'ocelles, une longue trompe pour aspirer le nectar — de véritables « papillons du Jurassique »… des dizaines de millions d'années avant les premiers papillons. L'évolution inventera deux fois la même silhouette pour le même métier.</p>
 
 <p>Ce partenariat plantes-insectes est un galop d'essai. Le jour où apparaîtront les fleurs, il deviendra l'une des plus formidables alliances de l'histoire du vivant.</p>
 
@@ -1084,8 +1082,6 @@ tags: technology
 
 # -150 000 000 d'années
 
-<p style="display:block;text-align:center"></p>
-
 <p>Dans les lagunes de l'actuelle Bavière vit un animal qui fera couler plus d'encre qu'aucun autre fossile : Archaeopteryx. La taille d'un corbeau, des plumes et des ailes — mais aussi des dents, des griffes au bout des ailes et une longue queue osseuse. Mi-dinosaure, mi-oiseau : c'est exactement ce qu'il est.</p>
 
 <p>Car c'est l'une des grandes révélations de la paléontologie moderne : les oiseaux sont des dinosaures. Non pas des cousins, non pas des descendants lointains — des dinosaures à part entière, issus de petits théropodes carnivores, le groupe même du futur T. rex. Les plumes, d'ailleurs, ne sont pas nées pour voler : de nombreux dinosaures en portaient, d'abord pour l'isolation ou la parade. Le vol est venu ensuite, récupérant l'outil pour un nouvel usage.</p>
@@ -1098,7 +1094,7 @@ tags: technology
 
 <p>La fleur, c'est l'organe sexuel de ces nouvelles plantes — et la plupart cumulent les deux rôles : les étamines produisent le pollen, le pistil abrite les ovules. Mais son génie est ailleurs : c'est une publicité. Couleurs vives, parfums, nectar sucré offert en récompense — tout est fait pour attirer les insectes. Le vieux partenariat né au Jurassique change d'échelle : l'insecte qui vient boire repart poudré de pollen et le dépose sur la fleur suivante ; quand un grain de pollen atteint le pistil d'une fleur de la même espèce, un ovule est fécondé — et il se transforme en fruit, contenant les graines.</p>
 
-<p>Le fruit est la deuxième invention géniale : une friandise qui paie les animaux pour disperser les graines au loin. Publicité pour les pollinisateurs, salaire pour les livreurs — les plantes à fleurs ont inventé le marketing 100 millions d'années avant nous.</p>
+<p>Le fruit est la deuxième invention géniale : une friandise qui paie les animaux pour disperser les graines au loin. Publicité pour les pollinisateurs, salaire pour les livreurs — les plantes à fleurs ont inventé le marketing 125 millions d'années avant nous.</p>
 
 <p>Le succès sera total : aujourd'hui, près de 9 espèces de plantes terrestres sur 10 sont des plantes à fleurs. Herbes, chênes, rosiers, blé, riz, pommiers — presque tout ce qui verdit et nourrit notre monde descend de ces modestes pionnières du Crétacé.</p>
 
@@ -1130,7 +1126,7 @@ tags: technology
 
 <p>Le règne des dinosaures est à son zénith — et il est planétaire. On trouve des dinosaures sur absolument toutes les terres, jusqu'aux pôles : en Alaska, des troupeaux d'herbivores affrontent des mois de nuit polaire et de neige, preuve que ces animaux n'ont rien des reptiles frileux qu'on a longtemps imaginés — beaucoup sont actifs, sociaux, et au sang au moins partiellement chaud ; nombre d'entre eux portent des plumes.</p>
 
-<p>Rien ne semble pouvoir ébranler ce monde. Les dinosaures ont survécu à tout : dérive des continents, crises climatiques, concurrents. Depuis 165 millions d'années, ils règnent — et leur dynastie s'apprête à produire son dernier-né, le plus légendaire de tous.</p>
+<p>Rien ne semble pouvoir ébranler ce monde. Les dinosaures ont survécu à tout : dérive des continents, crises climatiques, concurrents. Depuis cent trente millions d'années, ils règnent — et leur dynastie s'apprête à produire son dernier-né, le plus légendaire de tous.</p>
 
 # -68 000 000 d'années
 
@@ -1143,7 +1139,7 @@ tags: technology
 # -66 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/extinctionDynosaure.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/extinctionDynosaure.mp4"/>
 </p>
 
@@ -1164,12 +1160,12 @@ tags: technology
 <p>Car parmi les mammifères en pleine diversification émerge une nouvelle branche : les primates. Leur kit de survie est taillé pour les arbres : des mains préhensiles, aux doigts capables d'agripper les branches, avec des ongles plats à la place des griffes — et des yeux rapprochés vers l'avant du visage, pour voir en relief et jauger les distances avant de sauter de branche en branche. Des mains qui saisissent, des yeux qui mesurent : tout notre avenir tient déjà dans ce programme.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/purgatorius.jpg" alt="Purgatorius" width="400">
+  <img src="/assets/img/purgatorius.webp" alt="Purgatorius" width="400" loading="lazy" decoding="async" height="260" />
 </p>
 
 <p style="display:block;text-align:center">(Purgatorius)</p>
 
-<p>Le plus ancien candidat au titre de premier primate s'appelle Purgatorius : une minuscule créature arboricole, mangeuse d'insectes et de fruits — apparue quasi immédiatement après l'astéroïde. Notre lignée est née dans les décombres, et elle a grimpé aux arbres.</p>
+<p>Le plus ancien candidat au titre de premier primate s'appelle Purgatorius : une minuscule créature arboricole, mangeuse d'insectes et de fruits, dont les plus anciens restes suivent de très près l'astéroïde. Notre lignée est née dans les décombres, et elle a grimpé aux arbres.</p>
 
 <p>Pendant ce temps, au sol, une autre révolution silencieuse : les fourmis inventent l'agriculture. Certaines espèces découpent et transportent des feuilles — non pour les manger, mais pour en faire le terreau de petits champignons qu'elles cultivent et dont elles se nourrissent. Au fil de l'évolution, ces champignons deviennent incapables de survivre sans leurs fermières : ils sont, littéralement, domestiqués. L'agriculture existe donc sur Terre depuis environ 60 millions d'années — les fourmis ont pris 60 millions d'années d'avance sur nous.</p>
 
@@ -1191,7 +1187,7 @@ tags: technology
 
 # -50 000 000 d'années
 
-<p>Il aura fallu 300 millions d'années aux vertébrés pour sortir de l'eau. Certains mammifères décident — évolutivement parlant — d'y retourner. C'est le début de l'une des transformations les plus spectaculaires de toute l'histoire de l'évolution : celle qui mène du mammifère terrestre à la baleine.</p>
+<p>Il aura fallu 150 millions d'années aux vertébrés pour sortir de l'eau. Certains mammifères décident — évolutivement parlant — d'y retourner. C'est le début de l'une des transformations les plus spectaculaires de toute l'histoire de l'évolution : celle qui mène du mammifère terrestre à la baleine.</p>
 
 <p>Le point de départ n'a rien d'un géant des mers : Pakicetus, au bord des rivières de l'actuel Pakistan, est un quadrupède de la taille d'un loup, qui patauge et pêche en eau peu profonde. Rien ne le désigne comme futur roi des océans — sauf son oreille, dont la structure unique le trahit : c'est déjà, anatomiquement, une baleine. </p>
 
@@ -1240,7 +1236,7 @@ tags: technology
 # -7 000 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/origineHomme.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/origineHomme.mp4"/>
 </p>
 
@@ -1253,13 +1249,13 @@ tags: technology
 <p>2 — Les canines des mâles et des femelles se ressemblent, alors que chez les autres grands singes, les mâles portent de grandes canines — un indice possible de sociétés moins fondées sur l'affrontement entre mâles.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/chimpanze.jpg" alt="Chimpanzé" width="400">
+  <img src="/assets/img/chimpanze.jpg" alt="Chimpanzé" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p style="display:block;text-align:center">(Chimpanzé)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/bonobo.jpg" alt="Bonobo" width="400">
+  <img src="/assets/img/bonobo.webp" alt="Bonobo" width="400" loading="lazy" decoding="async" height="397" />
 </p>
 
 <p style="display:block;text-align:center">(Bonobo)</p>
@@ -1311,18 +1307,18 @@ tags: technology
 <p>Le voici donc, le premier artisan clairement identifié : Homo habilis — « l'homme habile », baptisé ainsi précisément parce qu'on lui attribue les outils. Originaire d'Afrique de l'Est comme les australopithèques, il est petit — 1,20 à 1,50 mètre, la taille d'un enfant de dix ans — mais son cerveau entame la croissance promise : nettement plus gros que celui de Lucy. Omnivore, plus charognard que chasseur, il vit du régime mixte inauguré par ses prédécesseurs. Parlait-il ? Son crâne suggère des zones cérébrales du langage un peu plus développées que chez un grand singe — de quoi imaginer une communication plus riche, mais un vrai langage articulé reste très improbable à ce stade.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/lameSilex.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/lameSilex.mp4"/>
 </p>
 
 <p>Sa technique, elle, est bien connue. Pour fabriquer le plus simple des outils, il faut un bloc de roche dure aux bonnes propriétés mécaniques — comme le silex — et un percuteur, une autre pierre, pour frapper le bloc de façon à en détacher un éclat. Le geste produit deux tranchants d'un coup : sur le bloc taillé et sur l'éclat détaché — tous deux utilisables. C'est simple en apparence ; en réalité, viser le bon angle, doser la frappe, lire la pierre demande un apprentissage réel — essayez, vous verrez.</p>
 
-<p>Cet éclat de pierre est peut-être le premier objet manufacturé de l'histoire. Son apparition marque le début du Paléolithique — « l'âge de la pierre ancienne » — qui durera jusqu'à l'invention de l'agriculture, il y a environ 12 000 ans : plus de 99 % de l'histoire technique de l'humanité s'écrira en pierre taillée.</p>
+<p>Ces éclats de pierre, apparus deux cents millénaires plus tôt, sont peut-être les premiers objets manufacturés de l'histoire. Leur apparition marque le début du Paléolithique — « l'âge de la pierre ancienne » — qui durera jusqu'à l'invention de l'agriculture, il y a environ 12 000 ans : plus de 99 % de l'histoire technique de l'humanité s'écrira en pierre taillée.</p>
 
 # -1 800 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/feuHomoErectus.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuHomoErectus.mp4"/>
 </p>
 
@@ -1337,7 +1333,7 @@ tags: technology
 # -1 600 000 d'années
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/biface.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/biface.mp4"/>
 </p>
 
@@ -1348,7 +1344,7 @@ tags: technology
 <p>Son succès défie l'imagination : le biface sera produit presque sans changement pendant près d'un million et demi d'années, de l'Afrique à l'Europe et à l'Asie. Aucun objet humain n'a jamais eu une telle carrière — des dizaines de milliers de générations à tailler, transmettre et retailler la même forme d'amande.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/biface.jpg' | relative_url }}" alt="Biface acheuléen en silex" width="600" />
+  <img src="{{ '/assets/img/biface.webp' | relative_url }}" alt="Biface acheuléen en silex" width="600" loading="lazy" decoding="async" height="300" />
   <br /><small><em>Biface acheuléen en silex, Venerque (Haute-Garonne), trois vues. Photo Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1389,14 +1385,14 @@ tags: technology
 # -500 000 ans
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/neandertal.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neandertal.mp4"/>
 </p>
 
 <p>En Europe, la lignée qui mène à Néandertal prend forme : les descendants européens d'heidelbergensis, isolés par les glaciations, accumulent peu à peu les traits de leur futur visage — face projetée en avant, corps trapu taillé pour le froid.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/feuneanderthal.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/feuneanderthal.mp4"/>
 </p>
 
@@ -1413,11 +1409,11 @@ tags: technology
 # -350 000 ans
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/neanderthal.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/neanderthal.mp4"/>
 </p>
 
-<p>La taille de la pierre franchit un nouveau cap intellectuel : la méthode Levallois — nommée d'après Levallois-Perret, près de Paris, où l'on en a trouvé des exemples typiques. Néandertaliens en Europe, premiers sapiens en Afrique : les deux lignées la pratiquent.</p>
+<p>La taille de la pierre franchit un nouveau cap intellectuel : la méthode Levallois — nommée d'après Levallois-Perret, près de Paris, où l'on en a trouvé des exemples typiques. Néandertaliens en Europe, populations africaines dont sortira bientôt sapiens : les deux lignées la pratiquent.</p>
 
 <p>Son génie tient à un renversement. Le biface, on le sculptait directement. Ici, on sculpte le noyau — la pierre-mère — pour que l'outil en sorte préformé, d'un seul coup :</p>
 
@@ -1432,7 +1428,7 @@ tags: technology
 <p>Tout le travail est dans la préparation ; l'outil, lui, naît en un instant. C'est penser à l'envers, plusieurs coups à l'avance — les archéologues y voient l'un des meilleurs marqueurs de la planification mentale complexe. Et le procédé est rentable : d'un seul noyau bien préparé sortent plusieurs éclats standardisés, couteaux tout prêts pour découper la viande, racler les peaux, armer des pointes. La pierre devient une chaîne de production de précision.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/levallois.jpg' | relative_url }}" alt="Nucléus Levallois et l'éclat qui en a été détaché" width="600" />
+  <img src="{{ '/assets/img/levallois.webp' | relative_url }}" alt="Nucléus Levallois et l'éclat qui en a été détaché" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Un nucléus Levallois et l'éclat qui en est sorti, préformé par la préparation du bloc. Wikimedia Commons, auteur inconnu, CC BY-SA 3.0.</em></small>
 </p>
 
@@ -1475,7 +1471,7 @@ tags: technology
 # -74 000 ans
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/supervolcan.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/supervolcan.mp4"/>
 </p>
 
@@ -1517,7 +1513,7 @@ tags: technology
 
 <p>Sapiens s'installe sous tous les climats, des steppes glaciales de l'Asie aux déserts — aucun autre grand mammifère n'a jamais occupé une telle gamme de milieux.</p>
 
-<p>Et sur sa route, sapiens fait plus que croiser les autres humanités : il fonde des familles avec elles. Au Proche-Orient et en Europe, des couples sapiens-Néandertal ont des enfants — la trace en est gravée dans notre ADN : les populations non africaines portent aujourd'hui encore environ 2 % de gènes néandertaliens. Vous qui lisez ceci en portez probablement.</p>
+<p>Et sur sa route, sapiens fait plus que croiser les autres humanités : il fonde des familles avec elles. Au Proche-Orient et en Europe, des couples sapiens-Néandertal ont des enfants — la trace en est gravée dans notre ADN : les populations non africaines portent aujourd'hui encore de 1 à 4 % de gènes néandertaliens. Vous qui lisez ceci en portez probablement.</p>
 
 <p>Plus à l'est, en Asie, autre rencontre : les Dénisoviens — cette humanité fantôme, connue presque uniquement par son ADN, extrait d'un minuscule os de doigt dans une grotte de Sibérie. Première espèce de l'histoire découverte par son génome avant son squelette. Leur héritage vit surtout chez les peuples d'Asie et d'Océanie — jusqu'à 4 à 6 % du génome des Papous et des Aborigènes d'Australie. Et cet héritage n'est pas un fossile inerte : le gène EPAS1, qui permet aux Tibétains de vivre sans peine en haute altitude, est un cadeau dénisovien ; d'autres gènes hérités de ces cousins renforcent encore nos défenses immunitaires.</p>
 
@@ -1527,7 +1523,7 @@ tags: technology
 
 <p>En Europe, les Néandertaliens sont au sommet de leur art. La preuve la plus spectaculaire : ils chassent le lion des cavernes — le plus grand prédateur du continent, plus massif que le lion actuel. Un squelette retrouvé en Allemagne porte la marque d'un coup de lance porté de bas en haut, en combat rapproché ; ailleurs, des phalanges de pattes suggèrent des peaux conservées avec leurs griffes — trophées, parures ou symboles. Affronter un tel animal à la lance exige coordination, sang-froid et confiance absolue dans ses compagnons : c'est un exploit de groupe autant qu'un acte de bravoure.</p>
 
-<p>Portrait de ces cousins au sommet : plus petits que sapiens mais bien plus massifs, taillés pour le froid — un corps trapu qui conserve la chaleur, une puissante musculature. Ce moteur a un coût : un Néandertalien doit avaler chaque jour quelques centaines de calories de plus qu'un sapiens — l'équivalent d'un hamburger quotidien supplémentaire. Sprinteur puissant plutôt que coureur de fond, chasseur d'embuscade plutôt que d'endurance, il excelle dans les forêts et les vallées glaciaires d'Europe, qu'il connaît depuis 200 000 ans.</p>
+<p>Portrait de ces cousins au sommet : plus petits que sapiens mais bien plus massifs, taillés pour le froid — un corps trapu qui conserve la chaleur, une puissante musculature. Ce moteur a un coût : un Néandertalien doit avaler chaque jour quelques centaines de calories de plus qu'un sapiens — l'équivalent d'un hamburger quotidien supplémentaire. Sprinteur puissant plutôt que coureur de fond, chasseur d'embuscade plutôt que d'endurance, il excelle dans les forêts et les vallées glaciaires d'Europe, qu'il connaît depuis près de 300 000 ans.</p>
 
 <p>Et son esprit n'a rien à envier au nôtre : outils Levallois raffinés, feu quotidien, soins aux blessés et aux vieillards (des squelettes d'handicapés ayant survécu des années en témoignent), sépultures, parures de griffes d'aigle et de coquillages, pigments. Un cerveau en moyenne légèrement plus volumineux que le nôtre. Quand les sapiens arriveront en nombre en Europe, ils ne trouveront pas des brutes — ils trouveront des égaux, chez eux depuis toujours.</p>
 
@@ -1535,14 +1531,14 @@ tags: technology
 
 <p>Les sapiens font irruption en Europe — sur plusieurs fronts à la fois, de la Bulgarie à l'Italie, bientôt jusqu'à l'Espagne. Venus d'Afrique via le Proche-Orient, ils s'y installent durablement pour la première fois, profitant des répits tempérés d'un climat instable, à l'approche du dernier maximum glaciaire, où chaque redoux ouvre des corridors aux hommes comme aux troupeaux.</p>
 
-<p>Mais l'Europe n'est pas une terre vierge : c'est le domaine des Néandertaliens, qui y sont chez eux depuis 200 000 ans, dans des paysages qu'ils connaissent vallée par vallée. Commence alors une cohabitation d'environ 5 000 ans — un temps immense à l'échelle d'une vie, un battement de cils à celle de l'histoire. Les deux humanités se croisent, s'évitent, échangent parfois — des gènes, on le sait ; des idées et des techniques, peut-être.</p>
+<p>Mais l'Europe n'est pas une terre vierge : c'est le domaine des Néandertaliens, qui y sont chez eux depuis près de 300 000 ans, dans des paysages qu'ils connaissent vallée par vallée. Commence alors une cohabitation d'environ 5 000 ans — un temps immense à l'échelle d'une vie, un battement de cils à celle de l'histoire. Les deux humanités se croisent, s'évitent, échangent parfois — des gènes, on le sait ; des idées et des techniques, peut-être.</p>
 
 <p>Les nouveaux venus ont pourtant des atouts qui vont peser : des réseaux sociaux plus vastes — des groupes reliés entre eux sur de longues distances, qui font circuler objets, partenaires et informations —, une démographie plus dynamique, des armes de jet perfectionnées. Rien ne dit qu'une guerre eut lieu ; mais l'équilibre, lui, a commencé à basculer.</p>
 
 # -42 000 ans
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/thorin.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/thorin.mp4"/>
 </p>
 
@@ -1552,12 +1548,12 @@ tags: technology
 
 # -40 000 ans
 
-<p>Après plus de 300 000 ans de règne européen, les Néandertaliens s'éteignent. Non dans une guerre, mais dans un lent effacement démographique — dilués et débordés plutôt que vaincus. Les causes se sont additionnées : un climat brutal aux oscillations violentes ; un corps coûteux, exigeant chaque jour plus de calories que celui d'un sapiens — un fardeau quand la nourriture manque ; la concurrence des nouveaux venus sur le même gibier ; et cet isolement des groupes, révélé par Thorin, qui interdisait tout secours. Chaque hiver terrible emportait un clan ; aucun réseau ne le remplaçait.</p>
+<p>Après près de 300 000 ans de règne européen, les Néandertaliens s'éteignent. Non dans une guerre, mais dans un lent effacement démographique — dilués et débordés plutôt que vaincus. Les causes se sont additionnées : un climat brutal aux oscillations violentes ; un corps coûteux, exigeant chaque jour plus de calories que celui d'un sapiens — un fardeau quand la nourriture manque ; la concurrence des nouveaux venus sur le même gibier ; et cet isolement des groupes, révélé par Thorin, qui interdisait tout secours. Chaque hiver terrible emportait un clan ; aucun réseau ne le remplaçait.</p>
 
-<p>Pour la première fois depuis des centaines de milliers d'années, il ne reste plus qu'une seule humanité sur les continents — la nôtre. Et elle porte les autres en elle : 1 à 4 % de l'ADN des non-Africains d'aujourd'hui est néandertalien. Ils ne sont pas tout à fait partis.</p>
+<p>Pour la première fois depuis des centaines de milliers d'années, il ne reste plus qu'une seule humanité sur les continents — la nôtre. Et elle porte les autres en elle : ces 1 à 4 % d'ADN néandertalien que chaque non-Africain transporte encore. Ils ne sont pas tout à fait partis.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/styleprehistoire.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/styleprehistoire.mp4"/>
 </p>
 
@@ -1569,7 +1565,7 @@ tags: technology
 
 # -36 000 ans
 
-<p>Dans une grotte de l'Ardèche — Chauvet — des artistes réalisent un chef-d'œuvre, jusqu'à sa découverte en 1994. Des centaines d'animaux couvrent les parois : chevaux aux naseaux frémissants, lions de caverne en pleine chasse, rhinocéros s'affrontant, ours, mammouths. Et quelle main : les artistes préparent les parois en les raclant, utilisent l'estompe pour modeler les volumes, exploitent les reliefs de la roche pour donner du corps aux bêtes, multiplient les pattes pour suggérer le mouvement — des techniques qu'on croyait bien plus tardives.</p>
+<p>Dans une grotte de l'Ardèche — Chauvet — des artistes réalisent un chef-d'œuvre que personne ne reverra avant sa découverte, en 1994. Des centaines d'animaux couvrent les parois : chevaux aux naseaux frémissants, lions de caverne en pleine chasse, rhinocéros s'affrontant, ours, mammouths. Et quelle main : les artistes préparent les parois en les raclant, utilisent l'estompe pour modeler les volumes, exploitent les reliefs de la roche pour donner du corps aux bêtes, multiplient les pattes pour suggérer le mouvement — des techniques qu'on croyait bien plus tardives.</p>
 
 <p>Longtemps, on a imaginé l'art naissant maladroit, se perfectionnant peu à peu. Chauvet a pulvérisé cette idée : dès ses débuts européens, l'art pariétal est déjà magistral. Ces peintres de la glaciation n'étaient pas des balbutiants — c'étaient des maîtres.</p>
 
@@ -1588,7 +1584,7 @@ tags: technology
 <p>Cette mobilité tisse un réseau continental. D'un bout à l'autre de l'Europe circulent les mêmes objets : outils de silex, parures d'ivoire, coquillages marins retrouvés à 800 kilomètres des côtes — preuves d'échanges au long cours. Et surtout, la tradition des Vénus, inaugurée par la figurine de Hohle Fels, devient une véritable mode continentale : de la France à la Sibérie, des dizaines de statuettes féminines aux formes généreuses, étonnamment semblables, sortent des mains gravettiennes. Une Europe glaciaire, clairsemée — mais connectée par des fils invisibles d'idées partagées.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/venushohlefels.jpg' | relative_url }}" alt="Vénus de Hohle Fels, statuette en ivoire de mammouth" width="380" />
+  <img src="{{ '/assets/img/venushohlefels.webp' | relative_url }}" alt="Vénus de Hohle Fels, statuette en ivoire de mammouth" width="380" loading="lazy" decoding="async" height="568" />
   <br /><small><em>La Vénus de Hohle Fels, taillée dans l'ivoire de mammouth — la plus ancienne représentation humaine connue. Photo Ramessos, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1599,6 +1595,8 @@ tags: technology
 <p>Pour les campements, le bénéfice est immédiat : la nuit, il devient une sentinelle qui ne dort jamais, aboyant à l'approche des bêtes sauvages comme des intrus. Il traque le gibier, portera plus tard les charges, ira au combat. Mais tous ces usages reposent sur une chose unique : entre l'homme et le chien s'installe une compréhension mutuelle qu'aucun autre animal ne partage. Les chiens les plus habiles à lire les intentions humaines survivent le mieux — et le résultat est stupéfiant : le chien est sans doute le seul animal capable de comprendre spontanément un doigt pointé. Même un chimpanzé, notre plus proche cousin, ne le fait pas.</p>
 
 # -21 000 av. J.-C.
+
+<p><em>(À partir d'ici, les dates ne sont plus comptées en années avant aujourd'hui mais en années avant notre ère — soit environ deux mille ans de moins.)</em></p>
 
 <p>Au bord du lac de Tibériade, dans l'actuel Israël, un campement de pêcheurs-cueilleurs va léguer un trésor : submergé par la montée des eaux, Ohalo II a été conservé comme aucun site de cet âge — six huttes de branchages (les plus anciennes si bien préservées, jusqu'à leur litière d'herbe en guise de matelas), des foyers, et plus de 150 000 restes de plantes intacts.</p>
 
@@ -1616,19 +1614,19 @@ tags: technology
 
 # -17 000 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QKpcGQMin5M" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QKpcGQMin5M" data-id="QKpcGQMin5M" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/QKpcGQMin5M/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>En Dordogne, la grotte de Lascaux devient le théâtre d'une intense activité artistique — près de 2 000 figures peintes et gravées, qui en font la « chapelle Sixtine de la préhistoire ». Des taureaux surtout — les aurochs géants de la Salle des Taureaux dépassent 5 mètres, les plus grandes figures de tout l'art paléolithique —, des chevaux, des cerfs, des bouquetins, accompagnés de signes abstraits et de motifs géométriques dont le sens nous échappe. Les techniques sont d'une maturité totale : pigments naturels soufflés ou appliqués, ombres, perspectives, mouvement.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lascaux.jpg' | relative_url }}" alt="Peintures de la Salle des Taureaux, grotte de Lascaux" width="600" />
+  <img src="{{ '/assets/img/lascaux.webp' | relative_url }}" alt="Peintures de la Salle des Taureaux, grotte de Lascaux" width="600" loading="lazy" decoding="async" height="393" />
   <br /><small><em>La Salle des Taureaux, grotte de Lascaux. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Et l'exploit est aussi logistique. Ces salles sont plongées dans le noir absolu, loin de l'entrée : les artistes s'éclairaient avec des lampes à graisse — plus d'une centaine ont été retrouvées, de simples pierres creusées où brûlait une mèche dans la graisse animale — et montaient sur des échafaudages dont les parois gardent les traces d'ancrage. On n'improvise pas Lascaux : on le planifie, on l'équipe, on y travaille en équipe.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lampegraisse.jpg' | relative_url }}" alt="Lampe à graisse en grès retrouvée à Lascaux" width="600" />
+  <img src="{{ '/assets/img/lampegraisse.webp' | relative_url }}" alt="Lampe à graisse en grès retrouvée à Lascaux" width="600" loading="lazy" decoding="async" height="435" />
   <br /><small><em>La lampe à graisse en grès retrouvée à Lascaux : une cuvette creusée où brûlait une mèche dans la graisse animale. Photo Sémhur, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1647,7 +1645,7 @@ tags: technology
 <p>Sa signature : le travail de l'os, du bois de renne et de l'ivoire. Plus souples à tailler que la pierre, mais solides, durables et légers, ces matériaux permettent des formes complexes que le silex interdit : aiguilles fines, poinçons, pointes de projectiles — et surtout deux inventions qui changent la chasse. Le harpon à barbelures, dont les crochets retiennent le poisson ou le gibier blessé ; et le propulseur : un simple levier prolongeant le bras, qui démultiplie la force du lancer et double la portée des sagaies. Le chasseur magdalénien touche sa proie là où son grand-père devait encore s'approcher.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/lampe.jpg" alt="Lampe à graisse" width="400">
+  <img src="/assets/img/lampe.webp" alt="Lampe à graisse" width="400" loading="lazy" decoding="async" height="449" />
 </p>
 
 <p>Le quotidien s'équipe : bols et récipients de pierre, d'os ou de bois pour stocker, transporter, consommer ; et les lampes à graisse — celles qui éclairaient déjà Lascaux — se perfectionnent et se multiplient, prolongeant la journée dans les campements comme au fond des grottes.</p>
@@ -1657,7 +1655,7 @@ tags: technology
 # -12 500 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/village.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/village.mp4"/>
 </p>
 
@@ -1666,7 +1664,7 @@ tags: technology
 <p>Or voici le point capital : ils ne cultivent rien. Ce sont des chasseurs-cueilleurs — mais dans une région si généreuse (blé et orge sauvages à moissonner, gazelles, glands, poissons) qu'une ressource abondante et stable rend le nomadisme inutile. Leurs faucilles à lames de silex fauchent les céréales sauvages, leurs meules broient le grain : toute la panoplie du paysan, sans un seul champ. La leçon renverse le vieux récit : ce n'est pas l'agriculture qui a créé le village — c'est le village qui, bientôt, exigera l'agriculture.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/meulesnatoufiennes.jpg' | relative_url }}" alt="Mortiers natoufiens en basalte et calcaire, Eynan" width="600" />
+  <img src="{{ '/assets/img/meulesnatoufiennes.webp' | relative_url }}" alt="Mortiers natoufiens en basalte et calcaire, Eynan" width="600" loading="lazy" decoding="async" height="415" />
   <br /><small><em>Mortiers natoufiens en basalte et en calcaire, Eynan (Israël), vers -12 500 : la panoplie du paysan, sans un seul champ. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1693,14 +1691,14 @@ tags: technology
 # -9 500 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/templetepe.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/templetepe.mp4"/>
 </p>
 
 <p>Sur une colline du sud-est de la Turquie s'élève un monument qui a bouleversé notre compréhension des origines : Göbekli Tepe. Des enceintes de piliers de calcaire en forme de T — certains de plus de cinq mètres et dix tonnes — sculptés de renards, de serpents, de sangliers, de vautours, de scorpions. Le plus ancien ensemble monumental de l'humanité… érigé par des chasseurs-cueilleurs, avant l'agriculture, avant la poterie, avant les villages dignes de ce nom.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/gobeklitepe.jpg' | relative_url }}" alt="Le site de Göbekli Tepe et ses enceintes de piliers en T" width="600" />
+  <img src="{{ '/assets/img/gobeklitepe.webp' | relative_url }}" alt="Le site de Göbekli Tepe et ses enceintes de piliers en T" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>Göbekli Tepe : les enceintes circulaires et leurs piliers de calcaire en forme de T. Photo Teomancimit, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1709,10 +1707,10 @@ tags: technology
 # -9 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/croissantfertile.jpg" alt="Le Croissant fertile" width="400">
+  <img src="/assets/img/croissantfertile.jpg" alt="Le Croissant fertile" width="400" loading="lazy" decoding="async" height="289" />
 </p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/brAf_1Q5-44" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=brAf_1Q5-44" data-id="brAf_1Q5-44" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/brAf_1Q5-44/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans un croissant de terres généreuses qui s'incurve d'Israël et de Jordanie vers la Syrie, la Turquie et l'Irak — le Croissant fertile —, des sapiens franchissent le pas : ils ne se contentent plus de récolter, ils sèment. L'agriculture commence, et le blé en est la première vedette.</p>
 
@@ -1729,7 +1727,7 @@ tags: technology
 <p>Et après les plantes, les animaux. À Ganj Dareh, dans le Zagros iranien, les habitants élèvent des chèvres — le premier herbivore domestiqué de l'histoire (le chien, compagnon de chasse, jouait dans une autre catégorie). Viande, lait, peaux : le troupeau est un garde-manger sur pattes. Moutons, porcs et bœufs suivront de peu — la ferme est en train de s'inventer, espèce par espèce.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/jericho.jpg" alt="Jéricho" width="400">
+  <img src="/assets/img/jericho.jpg" alt="Jéricho" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
 <p>Dans la vallée du Jourdain, Jéricho — fondée par les Natoufiens, habitée presque sans interruption depuis : souvent citée comme la plus ancienne ville continue du monde — change d'échelle. Plusieurs centaines d'habitants y vivent de l'agriculture naissante, et surtout, ils bâtissent : un mur d'enceinte de pierre et une tour massive de huit mètres et demi, à l'escalier intérieur — la plus ancienne architecture monumentale de l'humanité. Défense, protection contre les crues, prestige, observatoire rituel ? On en débat. Mais une communauté capable de mobiliser tant de bras pour un ouvrage commun n'est plus un campement : c'est une société organisée.</p>
@@ -1741,7 +1739,7 @@ tags: technology
 # -7 000 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/argile.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/argile.mp4"/>
 </p>
 
@@ -1756,11 +1754,11 @@ tags: technology
 # -6 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/briquecrue.jpg" alt="Brique crue" width="400">
+  <img src="/assets/img/briquecrue.webp" alt="Brique crue" width="400" loading="lazy" decoding="async" height="196" />
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/briquecuite.jpg" alt="Brique cuite" width="400">
+  <img src="/assets/img/briquecuite.jpg" alt="Brique cuite" width="400" loading="lazy" decoding="async" height="265" />
 </p>
 
 <p>La brique — dont Jéricho et Çatalhöyük ont déjà monté les murs — se perfectionne et conquiert le monde, à commencer par la Mésopotamie (l'Irak actuel), pays sans pierre ni grand bois, mais à l'argile inépuisable. La recette est d'une simplicité géniale : de la terre argileuse, de l'eau, un peu de paille pour lier — on pétrit, on tasse dans un moule de bois, on démoule, et le soleil fait le reste. C'est la brique crue (l'adobe), et le moule change tout : des briques identiques, produites en série, empilables à l'infini — la standardisation entre dans la construction.</p>
@@ -1787,12 +1785,12 @@ tags: technology
 
 # -4 500 av. J.-C.
 
-<p>Sur les steppes au nord de la mer Noire et de la Caspienne — l'actuelle Ukraine orientale, le sud de la Russie, l'ouest du Kazakhstan — vivent des populations d'éleveurs dont l'importance sera immense : c'est d'elles qu'émergera le proto-indo-européen, la langue-mère dont descendent le français, l'anglais, le russe, le persan, le hindi et des centaines d'autres. Leur richesse n'est pas la terre mais le troupeau — moutons et bovins sur les grandes plaines herbeuses. Pas de royaumes ni d'États : des tribus et des clans menés par chefs guerriers et anciens. Leur identité tient dans leur langue et leurs mythes, transmis de bouche en bouche — et promis à conquérir la moitié du monde.</p>
+<p>Sur les steppes au nord de la mer Noire et de la Caspienne — l'actuelle Ukraine orientale, le sud de la Russie, l'ouest du Kazakhstan — vivent des populations d'éleveurs dont l'importance sera immense : c'est d'elles qu'émergera le proto-indo-européen, la langue-mère dont nous reparlerons. Leur richesse n'est pas la terre mais le troupeau — moutons et bovins sur les grandes plaines herbeuses. Pas de royaumes ni d'États : des tribus et des clans menés par chefs guerriers et anciens. Leur identité tient dans leur langue et leurs mythes, transmis de bouche en bouche.</p>
 
 <p>À l'autre bout du continent, sur la façade atlantique — Bretagne, péninsule Ibérique —, le grand mouvement mégalithique bat son plein : dolmens, menhirs et tumulus géants dressent leurs pierres de plusieurs tonnes face à l'océan — des architectures funéraires et cérémonielles antérieures aux pyramides de plus d'un millénaire, témoins de communautés paysannes capables d'œuvres collectives durables et d'un rapport aux morts et au ciel dont le sens exact nous échappe encore.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/carnac.jpg' | relative_url }}" alt="Alignements mégalithiques de Kermario, Carnac" width="600" />
+  <img src="{{ '/assets/img/carnac.webp' | relative_url }}" alt="Alignements mégalithiques de Kermario, Carnac" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Les alignements de Kermario, à Carnac (Bretagne). Photo Pinpin, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1819,7 +1817,7 @@ tags: technology
 <p>Le chemin part des humbles jetons d'argile qui comptaient les biens depuis des millénaires. On les enfermait dans des enveloppes d'argile scellées ; puis on eut l'idée d'imprimer leur forme sur l'enveloppe pour savoir ce qu'elle contenait sans la briser ; puis on comprit que l'empreinte suffisait — adieu les jetons. Sur des tablettes d'argile fraîche, un roseau taillé en biseau trace désormais des signes en coins : le cunéiforme. Les premières tablettes d'Uruk ne racontent ni dieux ni batailles ; elles comptent des sacs d'orge, des têtes de bétail — et des rations de bière, dont le pictogramme, une jarre pointue, est l'un des plus fréquents de ces archives. L'écriture est née de la comptabilité ; la poésie viendra après.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tabletteuruk.jpg' | relative_url }}" alt="Tablette d'argile mésopotamienne à signes pictographiques, vers -3200" width="420" />
+  <img src="{{ '/assets/img/tabletteuruk.webp' | relative_url }}" alt="Tablette d'argile mésopotamienne à signes pictographiques, vers -3200" width="420" loading="lazy" decoding="async" height="466" />
   <br /><small><em>Tablette d'argile mésopotamienne, vers -3200 : des pictogrammes et des encoches de comptage, avant même le cunéiforme. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1827,22 +1825,22 @@ tags: technology
 
 <p>Or au même moment, à deux mille kilomètres au nord, un tout autre monde prépare lui aussi sa conquête — et par les moyens exactement inverses. Sur les steppes qui s'étendent au nord de la mer Noire et de la Caspienne, dans l'actuelle Ukraine et le sud de la Russie, une culture d'éleveurs prend son essor. Les archéologues l'appellent Yamnaya, du mot russe désignant les fosses funéraires qu'ils creusaient et recouvraient de tumulus.</p>
 
-<p>Rien ne semble les distinguer : ni villes, ni écriture, ni temples, ni monuments. Mais ils possèdent trois choses décisives — le cheval, le chariot à roues pleines, et un mode de vie entièrement mobile qui leur permet d'exploiter d'immenses étendues d'herbe où l'agriculture est impossible. Leur richesse n'est pas dans le sol, elle est dans les troupeaux ; et les troupeaux se déplacent.</p>
+<p>Rien ne semble les distinguer : ni villes, ni écriture, ni temples, ni monuments. Mais ils possèdent trois choses décisives — le bétail, le chariot à roues pleines, et un mode de vie entièrement mobile qui leur permet d'exploiter d'immenses étendues d'herbe où l'agriculture est impossible. Leur richesse n'est pas dans le sol, elle est dans les troupeaux ; et les troupeaux se déplacent.</p>
 
 <p>Ils parlent une langue dont personne n'a jamais entendu un mot, mais que les linguistes ont partiellement reconstituée en comparant ses descendantes : le proto-indo-européen. De cette souche naîtront le sanskrit, le persan, le grec, le latin, le celtique, le germanique, le slave — et par eux le français, l'anglais, le russe, le hindi. Aujourd'hui, près de la moitié de l'humanité parle une langue issue de ces campements.</p>
 
-<p>Deux manières de traverser les millénaires se mettent ainsi en place la même année. Uruk lègue au monde ses tablettes ; la steppe lui lègue ses mots. Ni l'une ni l'autre ne sait que l'autre existe.</p>
+<p>Deux manières de traverser les millénaires se mettent ainsi en place au même moment. Uruk lègue au monde ses tablettes ; la steppe lui lègue ses mots. Ni l'une ni l'autre ne sait que l'autre existe.</p>
 
 # -3 100 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/hieroglyphe.jpg" alt="Hiéroglyphes égyptiens" width="400">
+  <img src="/assets/img/hieroglyphe.webp" alt="Hiéroglyphes égyptiens" width="400" loading="lazy" decoding="async" height="300" />
 </p>
 
 <p>L'Égypte n'est pas en reste : presque au même moment — invention indépendante ou idée voyageuse, on en débat — apparaissent les hiéroglyphes, ces « paroles divines » qui mêlent images et sons, gravées sur l'ivoire, la pierre et bientôt le papyrus. Et le long du Nil, l'histoire s'accélère : les royaumes rivaux de la vallée s'unifient en un seul État sous un premier pharaon — la tradition retiendra le nom de Narmer, représenté sur sa célèbre palette coiffant les deux couronnes, celle du Sud et celle du Nord. Le royaume d'Égypte est né : il durera, dynastie après dynastie, trois millénaires — l'État le plus durable que l'humanité ait jamais bâti.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/palettenarmer.jpg' | relative_url }}" alt="Palette de Narmer, face au roi massacrant un ennemi" width="380" />
+  <img src="{{ '/assets/img/palettenarmer.webp' | relative_url }}" alt="Palette de Narmer, face au roi massacrant un ennemi" width="380" loading="lazy" decoding="async" height="561" />
   <br /><small><em>La palette de Narmer, face principale : le roi coiffé de la couronne blanche du Sud abat un ennemi. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1851,12 +1849,12 @@ tags: technology
 # -2 900 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/uruk.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/uruk.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/mesopotamie.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/mesopotamie.mp4"/>
 </p>
 
@@ -1887,7 +1885,7 @@ tags: technology
 # -2 600 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/indus.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/indus.mp4"/>
 </p>
 
@@ -1896,7 +1894,7 @@ tags: technology
 <p>Et pourtant, cette grande civilisation est une énigme. Son écriture — de brefs signes gravés sur des sceaux — résiste à tout déchiffrement. On n'y trouve ni palais somptueux, ni tombes royales, ni temples grandioses, ni scènes de gloire militaire : pas de pharaon visible, pas de roi-dieu — une prospérité étrangement égalitaire et paisible, organisée on ne sait comment. Elle commercera avec la Mésopotamie pendant des siècles, puis déclinera doucement, sans effondrement brutal — en laissant plus de questions que de réponses.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/egypteancienne.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/egypteancienne.mp4"/>
 </p>
 
@@ -1905,12 +1903,12 @@ tags: technology
 # -2 560 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/kheops.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/kheops.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/pyramide.jpg" alt="La Grande Pyramide de Gizeh" width="400">
+  <img src="/assets/img/pyramide.webp" alt="La Grande Pyramide de Gizeh" width="400" loading="lazy" decoding="async" height="266" />
 </p>
 
 <p>Sur le plateau de Gizeh, l'Égypte accomplit l'inimaginable : la Grande Pyramide de Khéops — 146 mètres de haut, 2,3 millions de blocs de plusieurs tonnes chacun, un alignement sur les points cardinaux d'une précision stupéfiante. Fils des expérimentations de Snéfrou, ce monument — la seule des Sept Merveilles du monde antique encore debout — restera le plus haut édifice du monde pendant près de 4 000 ans.</p>
@@ -1934,12 +1932,12 @@ tags: technology
 # -2 375 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/ounas.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/ounas.mp4"/>
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/ounas.jpg" alt="Ounas" width="400">
+  <img src="/assets/img/ounas.webp" alt="Ounas" width="400" loading="lazy" decoding="async" height="471" />
 </p>
 
 <p>Le pharaon Ounas, dernier souverain de la Ve dynastie, monte sur le trône. Son règne voit l'autorité royale ralentir et l'administration se disperser — les germes, à long terme, de la fragilisation de l'Ancien Empire. Mais son œuvre traverse les âges : dans sa pyramide de Saqqara (« Les lieux d'Ounas sont parfaits ») apparaissent pour la première fois les célèbres Textes des Pyramides, gravés sur les parois internes pour accompagner le roi dans l'au-delà. C'est l'un des premiers corpus religieux écrits de l'humanité : résurrection, union du roi avec les dieux — Osiris en tête —, tout un au-delà couché par écrit.</p>
@@ -1959,7 +1957,7 @@ tags: technology
 <p>Ur, l'antique cité du sud sumérien, vit son heure de gloire : sa troisième dynastie règne sur toute la Mésopotamie. Le roi Ur-Nammu y dresse la grande ziggurat — dont la masse restaurée impressionne encore aujourd'hui — et promulgue le plus ancien code de lois connu de l'histoire, précédant Hammurabi de trois siècles. Son empire est une merveille de bureaucratie : des dizaines de milliers de tablettes comptables enregistrent tout — moutons, rations, journées de travail — avec une minutie d'inspecteur des impôts. Puis, comme tout empire, il tombe : les Élamites pillent Ur, et les scribes composeront sur sa chute l'une des premières grandes élégies de la littérature — la Lamentation sur la destruction d'Ur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/zigguratur.jpg' | relative_url }}" alt="Ziggurat d'Ur restaurée" width="600" />
+  <img src="{{ '/assets/img/zigguratur.webp' | relative_url }}" alt="Ziggurat d'Ur restaurée" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>La ziggurat d'Ur, dressée par Ur-Nammu et partiellement restaurée. Photo Hardnfast, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -1974,7 +1972,7 @@ tags: technology
 # -1 890 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/babylone.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/babylone.mp4"/>
 </p>
 
@@ -1985,7 +1983,7 @@ tags: technology
 <p>Avec le temps, les récits sumériens de Gilgamesh sont compilés et traduits en akkadien : la version akkadienne les fond en une seule épopée, cohérente et structurée — celle qui traversera les siècles, avec sa quête d'immortalité et son déluge.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/ninkasi.jpg" alt="Ninkasi" width="400">
+  <img src="/assets/img/ninkasi.webp" alt="Ninkasi" width="400" loading="lazy" decoding="async" height="287" />
 </p>
 
 <p>De la même époque date la plus ancienne recette de bière connue : l'Hymne à Ninkasi, poème sumérien en l'honneur de la déesse de la bière, qui décrit en détail le processus de brassage — la théologie et le mode d'emploi dans le même chant.</p>
@@ -1994,7 +1992,7 @@ tags: technology
 
 <p>Presque toutes nos lettres ont une histoire semblable : la maison (« bet ») est devenue « B », l'eau (« mem ») est devenue « M », le serpent (« noun ») est devenu « N ». C'est la naissance de l'alphabet — et son génie est économique : au lieu de centaines de signes, une trentaine suffisent, puisqu'on n'écrit plus les choses mais les sons. Vingt-cinq à trente signes pour tout dire. On peut y voir un immense progrès de simplicité — ou, comme certains le soutiennent, un appauvrissement de l'imaginaire, qui a peut-être toujours besoin d'images pour exprimer certaines pensées.</p>
 
-<p>À noter que l'alphabet latin n'est qu'un alphabet parmi d'autres : l'hébreu, l'arabe, le cyrillique, l'arménien, le devanagari, le coréen... La parenté ne saute pas aux yeux, mais elle est réelle — presque tous descendent de cette invention de travailleurs migrants. Plus tard, les Phéniciens, peuple de commerçants et de marins, s'en empareront et le diffuseront à travers tout le Moyen-Orient et la Méditerranée, où il sera adopté par les Grecs, puis les Romains. Une écriture enfin accessible au plus grand nombre : c'est le tout début de la démocratisation de l'écrit.</p>
+<p>À noter que l'alphabet latin n'est qu'un alphabet parmi d'autres : l'hébreu, l'arabe, le cyrillique, l'arménien, le devanagari... La parenté ne saute pas aux yeux, mais elle est réelle — presque tous descendent de cette invention de travailleurs migrants. (Le hangul coréen fait exception : il a été conçu de toutes pièces au XVe siècle, sans aucun lien avec cette lignée.) Plus tard, les Phéniciens, peuple de commerçants et de marins, s'en empareront et le diffuseront à travers tout le Moyen-Orient et la Méditerranée, où il sera adopté par les Grecs, puis les Romains. Une écriture enfin accessible au plus grand nombre : c'est le tout début de la démocratisation de l'écrit.</p>
 
 <p>En haute Mésopotamie, pendant ce temps, Shamshi-Adad Ier unifie plusieurs cités assyriennes autour d'Assur : le premier royaume assyrien prend forme. Et les scribes babyloniens commencent à consigner les présages célestes — les premières tablettes de ce qui deviendra l'Enuma Anu Enlil, une compilation de milliers de présages reliant les phénomènes du ciel aux événements terrestres. L'astrologie naissante est une affaire d'État : elle sert à prédire l'avenir des rois et des royaumes.</p>
 
@@ -2003,7 +2001,7 @@ tags: technology
 <p>Hammurabi, roi de Babylone, fait graver son célèbre code de lois — l'un des premiers grands ensembles législatifs de l'histoire, dressé sur une stèle de basalte noir de plus de deux mètres. Justice, commerce, mariage, propriété : près de trois cents articles fixent les comportements et les peines, selon le fameux principe du talion — « œil pour œil, dent pour dent ». Son originalité : standardiser le droit à travers tout un empire, une idée qui influencera les principes juridiques pour des siècles.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hammurabi.jpg' | relative_url }}" alt="Stèle du code de Hammurabi, musée du Louvre" width="350" />
+  <img src="{{ '/assets/img/hammurabi.webp' | relative_url }}" alt="Stèle du code de Hammurabi, musée du Louvre" width="350" loading="lazy" decoding="async" height="576" />
   <br /><small><em>La stèle du code de Hammurabi, plus de deux mètres de basalte noir : en haut le roi devant le dieu Shamash, en dessous près de trois cents articles. Photo Mbzt, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2020,7 +2018,6 @@ tags: technology
 <p>Car ce n'est pas seulement une invention mécanique, c'est un système. Il faut des chevaux dressés à supporter le bruit et la mêlée, un charron capable de cintrer le bois, un cocher et un archer entraînés ensemble pendant des années à tirer depuis une plateforme lancée au galop. Chaque pièce coûte cher, et seul un homme riche peut entretenir l'ensemble.</p>
 
 <p>Le char crée donc une caste. Partout où il arrive, une aristocratie de combattants se détache du reste de la population — et cette structure, quelques hommes puissants au-dessus d'une masse de paysans, devient la forme normale du pouvoir dans tout le Proche-Orient.</p>
-
 
 <p>En Crète s'épanouit la première civilisation d'Europe : celle qu'on appelle minoenne, du nom légendaire du roi Minos. Ses palais — Cnossos, Phaistos, Malia — sont des ensembles labyrinthiques de centaines de pièces, avec escaliers monumentaux, canalisations, entrepôts immenses et fresques d'une gaieté déconcertante : dauphins, lys, femmes en robes à volants, jeunes gens sautant par-dessus des taureaux.</p>
 
@@ -2062,7 +2059,7 @@ tags: technology
 
 <p>Les Grecs du continent cessent d'être des marginaux. Ils s'organisent, s'enrichissent, bâtissent leurs premières citadelles — et l'on retrouvera dans leurs tombes de cette époque, à Mycènes, des masques d'or, des armes ouvragées et des trésors qui disent une élite soudain très riche.</p>
 
-<p>Le moment est propice, car la Crète chancelle. Une série de catastrophes naturelles — dont l'éruption de Théra, qui ravage l'île de Santorin et déverse des cendres sur toute la région — affaiblit durablement la civilisation minoenne. Ses palais sont reconstruits, puis détruits à nouveau.</p>
+<p>Le moment est propice, car la Crète chancelle. Une série de catastrophes naturelles — dont l'éruption de Théra — l'actuelle Santorin — qui déverse des cendres sur toute la région — affaiblit durablement la civilisation minoenne. Ses palais sont reconstruits, puis détruits à nouveau.</p>
 
 <p>Les Grecs sont prêts à recueillir la succession.</p>
 
@@ -2075,7 +2072,7 @@ tags: technology
 <p>Les chiens, eux, sont partout dans les foyers aristocratiques et royaux. Les Égyptiens en élèvent plusieurs types : le Tesem, fin et haut sur pattes comme un lévrier, compagnon de chasse aux gazelles et aux oiseaux ; des molosses trapus qui gardent maisons et temples ; et des chiens de compagnie, souvent représentés couchés aux pieds de leurs maîtres dans les tombes. Certains sont associés aux dieux — Anubis, dieu des morts, a la tête d'un chacal ou d'un chien noir — et des milliers seront momifiés, notamment à Saqqarah, pour accompagner leurs maîtres dans l'au-delà.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/pretre.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/pretre.mp4"/>
 </p>
 
@@ -2083,16 +2080,14 @@ tags: technology
 
 # -1 500 av. J.-C.
 
-<p>Des éleveurs venus des steppes franchissent les cols de l'Hindou Kouch et descendent vers les plaines du nord de l'Inde. D'autres, partis du même monde, s'installent sur le plateau iranien. Ils se donnent un nom : <em>ārya</em>.</p>
-
-<p>Chez ceux qui l'employaient, il signifie « noble », « honorable », « des nôtres », et sépare les initiés du culte de ceux qui y sont étrangers. Le mot « Iran » en descend directement : le pays des Aryens.</p>
+<p>Des éleveurs venus des steppes franchissent les cols de l'Hindou Kouch et descendent vers les plaines du nord de l'Inde. D'autres, partis du même monde, s'installent sur le plateau iranien. Ce sont ceux qui se donnaient le nom d'<em>ārya</em> — « noble », comme on l'a vu.</p>
 
 <p>Ils n'apportent ni villes ni écriture ni monuments — rien que des troupeaux, des chars, une langue et des hymnes. Ce sont pourtant ces hymnes qui vont façonner deux civilisations : d'un côté les Védas de l'Inde, de l'autre l'Avesta de l'Iran. La parenté entre les deux est si étroite qu'on peut souvent traduire une phrase de l'un dans la langue de l'autre en changeant simplement les sons — preuve qu'ils viennent d'une même souche.</p>
 
 # -1 479 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/hatchepsout.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/hatchepsout.mp4"/>
 </p>
 
@@ -2103,13 +2098,13 @@ tags: technology
 <p>Les Mycéniens s'imposent sur Cnossos, en Crète, et prennent le contrôle des routes commerciales crétoises. Ils adoptent et transforment l'écriture minoenne (le linéaire A, toujours indéchiffré) pour créer le linéaire B — et c'est un événement : c'est la plus ancienne trace écrite de la langue grecque. Rien de littéraire dans ces tablettes : des troupeaux, des inventaires, des offrandes aux dieux — la comptabilité, encore et toujours. Ces Mycéniens, probables descendants des peuples indo-européens arrivés dans la péninsule, sont les ancêtres directs de la Grèce classique.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lineaireb.jpg' | relative_url }}" alt="Tablette d'argile en linéaire B" width="600" />
+  <img src="{{ '/assets/img/lineaireb.webp' | relative_url }}" alt="Tablette d'argile en linéaire B" width="600" loading="lazy" decoding="async" height="366" />
   <br /><small><em>Tablette d'argile en linéaire B : la plus ancienne écriture du grec ne note que des inventaires. Photo Marsyas, CC BY 2.5, via Wikimedia Commons.</em></small>
 </p>
 
 # -1 400 av. J.-C.
 
-<p>Les Mycéniens dominent désormais le monde égéen. Venus du continent grec, ils ont pris le contrôle de la Crète et récupéré l'héritage minoen — y compris son écriture, qu'ils adaptent à leur propre langue : ce sera le linéaire B, la plus ancienne forme connue du grec.</p>
+<p>Les Mycéniens dominent désormais le monde égéen. Maîtres de la Crète et de son héritage, ils en font pourtant tout autre chose.</p>
 
 <p>Mais ils en font tout autre chose. Là où les Minoens avaient des palais ouverts et des fresques de dauphins, les Mycéniens bâtissent des citadelles. À Mycènes, Pylos, Tirynthe et Thèbes s'élèvent de vastes palais fortifiés, aux murailles si massives que les Grecs des siècles suivants les croiront bâties par des cyclopes. Tombes monumentales, chars de guerre importés de l'empire hittite, armures, épées : la puissance s'affiche par la démonstration militaire, et leur art ne figure guère que des chasses et des combats.</p>
 
@@ -2134,7 +2129,7 @@ tags: technology
 # -1 341 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/toutankamon.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/toutankamon.mp4"/>
 </p>
 
@@ -2159,7 +2154,7 @@ tags: technology
 <p>Ce schéma n'a rien d'exceptionnel dans la région — la religion du Proche-Orient est traversée de récits de guerres, de duels et de batailles entre dieux. Créer y suppose d'abord de vaincre : l'ordre ne s'installe qu'en soumettant un chaos qui résiste.</p>
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video poster="/assets/img/posters/nefertari.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/nefertari.mp4"/>
 </p>
 
@@ -2180,10 +2175,10 @@ tags: technology
 # -1 250 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/ossecaille.png" alt="Écriture ossécaille" width="400">
+  <img src="/assets/img/ossecaille.webp" alt="Écriture ossécaille" width="400" loading="lazy" decoding="async" height="400" />
 </p>
 
-<p>En Chine, sous la dynastie Shang, l'écriture entre dans l'histoire par la divination : sur des carapaces de tortues et des omoplates de bœufs, les devins gravent des questions aux ancêtres — c'est l'écriture ossécaille, l'ancêtre direct des caractères chinois actuels. Son principe rejoint celui des hiéroglyphes : des images devenues sons. Mais le chinois va plus loin en précision, grâce au déterminant — un signe classificateur qui indique dans quelle catégorie lire un caractère, et donc comment l'interpréter : comme un son ou comme une image. Ces classificateurs, très fréquents, font toute la finesse du système — qui est aujourd'hui la plus ancienne écriture du monde encore en usage continu.</p>
+<p>Ces os oraculaires dont il a été question — omoplates de bœuf et carapaces de tortue gravées puis chauffées — portent la plus ancienne écriture chinoise connue : l'écriture ossécaille, l'ancêtre direct des caractères actuels. Son principe rejoint celui des hiéroglyphes : des images devenues sons. Mais le chinois va plus loin en précision, grâce au déterminant — un signe classificateur qui indique dans quelle catégorie lire un caractère, et donc comment l'interpréter : comme un son ou comme une image. Ces classificateurs, très fréquents, font toute la finesse du système — qui est aujourd'hui la plus ancienne écriture du monde encore en usage continu.</p>
 
 # -1 208 av. J.-C.
 
@@ -2192,7 +2187,7 @@ tags: technology
 <p>C'est aussi l'année où ce pharaon fait graver sur une stèle de granit la liste de ses victoires en Canaan. Parmi les vaincus figure une entité désignée non comme un pays, mais comme un peuple : Israël. « Israël est dévasté, sa semence n'est plus. » C'est la plus ancienne mention connue de ce nom — et elle est ironique, puisque le premier document qui parle d'Israël annonce sa disparition.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/stelemerenptah.jpg' | relative_url }}" alt="Stèle de Mérenptah, musée du Caire" width="400" />
+  <img src="{{ '/assets/img/stelemerenptah.webp' | relative_url }}" alt="Stèle de Mérenptah, musée du Caire" width="400" loading="lazy" decoding="async" height="533" />
   <br /><small><em>La stèle de Mérenptah, où figure la plus ancienne mention connue d'Israël. Photo Olaf Tausch, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2214,9 +2209,9 @@ tags: technology
 
 <p>Il ne faut pourtant pas idéaliser ces collines. Les fouilles racontent une vie rude et violente : la Méditerranée orientale traverse alors une période de chaos, et ces colons ont dû se battre pour les terres qu'ils défrichaient. Rien n'est donné, tout se dispute — l'eau, les pâturages, les cols.</p>
 
-<p>Un voisin, surtout, s'installe au même moment sur la côte méridionale : les Philistins, venus par mer dans le grand brassage des Peuples de la Mer. Ils apportent une culture matérielle raffinée, une céramique d'inspiration égéenne, des villes organisées — et ils tiennent la plaine fertile pendant qu'Israël tient les cailloux. Deux nouveaux venus arrivés la même décennie, occupant chacun ce que l'autre n'a pas, et qui vont se disputer ce pays pendant deux siècles.</p>
+<p>Un autre nouveau venu s'apprête à s'installer sur la côte méridionale, et il pèsera lourd : les Philistins, arrivés par mer dans le grand brassage des Peuples de la Mer. Nous les retrouverons.</p>
 
-<p>De cet affrontement viendra d'ailleurs la royauté israélite : c'est la pression philistine, et la nécessité d'un chef de guerre permanent, qui poussera ces tribus jalouses de leur autonomie à se donner un roi.</p>
+<p>Un voisin, bientôt, va leur disputer ce pays : les Philistins, dont l'installation sur la côte est racontée plus loin. De cet affrontement viendra la royauté israélite — c'est la pression philistine, et la nécessité d'un chef de guerre permanent, qui poussera ces tribus jalouses de leur autonomie à se donner un roi.</p>
 
 # -1 200 av. J.-C.
 
@@ -2224,7 +2219,7 @@ tags: technology
 
 <p>Les causes se sont additionnées : sécheresses, famines, migrations, raids des Peuples de la Mer, révoltes. Et surtout elles se sont enchaînées — quand chaque civilisation dépend des autres pour son métal, son blé et ses marchés, la chute de l'une entraîne les suivantes. Des langues et des écritures entières disparaissent avec les scribes qui les maîtrisaient.</p>
 
-<p>En Grèce, l'effondrement est spectaculaire. En une ou deux générations, toute la structure palatiale mycénienne s'évanouit : les villes se vident, les scribes disparaissent, les élites aussi. On cesse de bâtir en pierres cyclopéennes, on revient aux cabanes de briques crues. Le pays entre dans trois siècles d'obscurité dont il ne subsiste presque aucune trace écrite.</p>
+<p>En Grèce, l'effondrement est spectaculaire. En une ou deux générations, toute la structure palatiale mycénienne s'évanouit : les villes se vident, les scribes disparaissent, les élites aussi. On cesse de bâtir en pierres cyclopéennes, on revient aux cabanes de briques crues. Le pays entre dans quatre siècles d'obscurité dont il ne subsiste presque aucune trace écrite.</p>
 
 <p>Le char de guerre s'effondre avec ce monde. Ces équipages coûteux se révèlent soudain vulnérables face à des fantassins nombreux, armés de javelots : il suffit d'abattre un cheval pour immobiliser trois hommes et une fortune. Les aristocraties de chars s'effacent, l'infanterie revient au centre de la guerre et n'en sortira plus. Le char, lui, se réfugiera dans les cérémonies et les courses, où il finira sa carrière comme spectacle.</p>
 
@@ -2260,7 +2255,7 @@ tags: technology
 
 <p>C'est la date que les érudits grecs de l'Antiquité calculeront pour la chute de Troie. Troie occupait un site stratégique, au débouché des détroits menant à la mer Noire, et elle a été détruite puis reconstruite une dizaine de fois en trois millénaires. On ignore qui a mis fin à celle-ci. Et le moment complique tout : c'est exactement l'époque où les palais mycéniens brûlent eux aussi, où l'Empire hittite disparaît, où les cités du Levant sont rasées. L'idée d'une expédition grecque victorieuse s'accorde mal avec le fait que les Grecs s'effondraient au même moment.</p>
 
-<p>Ce qui est certain, c'est qu'un souvenir a survécu. Pendant quatre siècles sans écriture, des poètes ont chanté cette guerre de génération en génération, jusqu'à ce qu'on la fixe enfin par écrit. Et le texte trahit l'écart : les guerriers de l'Iliade combattent avec des armes de fer, vivent selon les mœurs de l'époque archaïque et ignorent tout des palais et de l'administration mycéniens. Les poètes décrivaient leur propre monde en croyant peindre celui de leurs ancêtres.</p>
+<p>Ce qui est certain, c'est qu'un souvenir a survécu. Pendant quatre siècles sans écriture, des poètes ont chanté cette guerre de génération en génération, jusqu'à ce qu'on la fixe enfin par écrit. Et le texte trahit l'écart : les guerriers de l'Iliade vivent selon les mœurs de l'époque archaïque et ignorent tout des palais et de l'administration mycéniens. Les poètes décrivaient leur propre monde en croyant peindre celui de leurs ancêtres.</p>
 
 <p>Reste le plus étonnant : c'est cette guerre incertaine, menée par des héros probablement inventés, contre une ville dont on ne sait presque rien, qui deviendra le récit fondateur de toute la littérature occidentale.</p>
 
@@ -2358,7 +2353,7 @@ tags: technology
 
 <p>Dans le Latium, sur les collines qui borderont le Tibre, des villages d'éleveurs et de paysans se forment : porcs, moutons, bœufs, vignes, oliviers, fèves et pois. Des centres proto-urbains émergent lentement — rien ne distingue encore ces hameaux de mille autres, mais l'un d'eux deviendra Rome.</p>
 
-<p>Babylone, elle, n'est plus la superpuissance d'Hammurabi : les raids des Araméens et des Sutéens coupent ses routes et affament parfois la cité. Mais son aura culturelle reste immense — c'est la « Ville Éternelle » de l'époque, et ses scribes sont les gardiens de la science. C'est vers ce moment qu'ils compilent et standardisent les grandes séries de textes médicaux, divinatoires et astronomiques, et qu'ils cartographient méthodiquement le ciel, préparant ce qui deviendra le zodiaque. Leurs mathématiques emploient le système sexagésimal, en base 60 : c'est grâce à eux que nous divisons encore nos heures en 60 minutes, nos minutes en 60 secondes et nos cercles en 360 degrés.</p>
+<p>Babylone, elle, n'est plus la superpuissance d'Hammurabi : les raids des Araméens et des Sutéens coupent ses routes et affament parfois la cité. Mais son aura culturelle reste immense — c'est la grande capitale savante du Proche-Orient, et ses scribes sont les gardiens de la science. C'est vers ce moment qu'ils compilent et standardisent les grandes séries de textes médicaux, divinatoires et astronomiques, et qu'ils cartographient méthodiquement le ciel, préparant ce qui deviendra le zodiaque. Leurs mathématiques emploient le système sexagésimal, en base 60 : c'est grâce à eux que nous divisons encore nos heures en 60 minutes, nos minutes en 60 secondes et nos cercles en 360 degrés.</p>
 
 <p>Les deux branches issues des steppes, séparées depuis des siècles, prennent alors chacune leur direction définitive.</p>
 
@@ -2366,15 +2361,7 @@ tags: technology
 
 <p>En Iran, les tribus qui parlaient l'avestique — la langue des hymnes de Zarathoustra — achèvent leur migration vers le sud et s'installent à l'est du plateau. Le zoroastrisme y prend racine et deviendra la foi de ce pays, avant d'être un jour la religion officielle des empires perses. Or Zarathoustra avait bâti toute sa prédication contre une figure précise : le pilleur de bétail. Ces bandes de jeunes guerriers qui razziaient les troupeaux et tuaient les bêtes sont, dans ses hymnes, les serviteurs du Mensonge — l'incarnation du mal qu'il combat ; la vache elle-même y crie vers le ciel pour réclamer un protecteur.</p>
 
-<p>À l'ouest, dans les collines de Canaan, un troisième héritage se met en place — et il tiendra en une dynastie. Une lignée s'installe à Jérusalem, celle de David, dont il faut dire un mot : ce personnage occupera dans la mémoire de son peuple une place que personne d'autre n'aura.</p>
-
-<p>La Bible en fait le second roi d'Israël : un jeune berger de Bethléem, cadet de sa fratrie, choisi par un prophète alors que rien ne le désignait ; le garçon qui abat le géant Goliath avec une fronde ; le musicien qui apaise les fureurs du roi Saül avant de lui succéder ; le conquérant qui prend Jérusalem et en fait sa capitale. Le récit ne cache pas ses fautes — il envoie l'un de ses officiers à la mort pour lui prendre sa femme —, ce qui est rare pour un roi fondateur et le rend étrangement humain.</p>
-
-<p>De son existence réelle, on ne sait presque rien. Une seule inscription, retrouvée à Tel Dan et gravée par un roi araméen un siècle et demi plus tard, mentionne la « maison de David » : cela prouve qu'une dynastie se réclamait alors de ce nom, sans rien dire de l'homme. Le royaume qu'on lui prête paraît d'ailleurs hors de proportion avec ce que montrent les fouilles de la Jérusalem de son temps — un gros village fortifié plutôt qu'une capitale.</p>
-
-<p>Ce qui compte, c'est ce que sa lignée installe. Le culte tourne désormais autour de la personne du roi, double terrestre du dieu guerrier, sacré par la relation qui l'unit à Yahvé. Le jour de son couronnement, il entre parmi les êtres saints : Yahvé l'adopte et lui déclare, selon la formule du rituel, « tu es mon fils, aujourd'hui je suis devenu ton père ».</p>
-
-<p>La formule surprend quand on connaît la suite, mais elle range ce petit royaume parmi ses voisins : en Égypte le pharaon est fils de Rê, en Mésopotamie le roi est choisi par le dieu de sa cité, en Chine le souverain sera fils du Ciel. L'adoption divine du roi est la manière normale, dans le monde antique, de fonder un pouvoir.</p>
+<p>À l'ouest, dans les collines de Canaan, un troisième héritage se met en place — et il tiendra en une dynastie. Une lignée s'installe à Jérusalem, celle de David : nous y reviendrons, car ce personnage occupera dans la mémoire de son peuple une place que personne d'autre n'aura.</p>
 
 # -950 av. J.-C.
 
@@ -2408,7 +2395,9 @@ tags: technology
 
 # -930 av. J.-C.
 
-<p>À partir de cette époque, deux entités coexistent dans les hauteurs de Canaan, et elles n'ont rien d'équivalent.</p>
+<p>La tradition biblique place ici la fin d'un royaume unifié. Après David aurait régné son fils Salomon — le roi bâtisseur, à qui l'on attribue le Temple de Jérusalem, un harem de princesses étrangères et une sagesse proverbiale ; à sa mort, les tribus du nord auraient refusé son héritier et fait sécession. Les fouilles ne confirment pas l'existence d'un tel empire : la Jérusalem de cette époque reste modeste. Mais que la scission ait été une rupture ou, plus probablement, deux royaumes qui n'ont jamais été vraiment un seul, le résultat est le même.</p>
+
+<p>À partir de cette époque, deux entités coexistent donc dans les hauteurs de Canaan, et elles n'ont rien d'équivalent.</p>
 
 <p>Au nord, le royaume d'Israël concentre l'essentiel de tout : près de neuf habitants sur dix, des terres fertiles et productives, des voies de communication faciles. Il tient surtout la vallée de Jizréel, par où passe depuis toujours la grande route commerciale reliant l'Égypte à la Mésopotamie. C'est un pays riche, ouvert, en contact permanent avec ses voisins — et c'est lui que les sources étrangères mentionneront, avec ses rois, ses chars et ses tributs.</p>
 
@@ -2416,13 +2405,11 @@ tags: technology
 
 <p>Juda est gouverné par les descendants de ce David dont il a été question plus haut — le berger de Bethléem devenu roi, dont l'existence historique se réduit, pour l'essentiel, à la mention d'une « maison de David » sur la stèle de Tel Dan.</p>
 
-
 <p>Peu importe, à vrai dire, pour la suite. C'est de sa lignée que Juda tire sa légitimité pendant quatre siècles ; c'est à elle qu'un prophète promettra un trône éternel ; et c'est de cette promesse que naîtra, bien plus tard, l'attente d'un descendant de David qui rétablirait le royaume.</p>
 
 <p>Nous connaissons mieux la religion de Juda que celle du nord, pour une raison simple : ce sont les scribes du sud qui ont écrit la Bible, et ils ont naturellement privilégié leur propre royaume. Cette religion, à ce stade, ressemble beaucoup à celle des voisins cananéens — c'est une monarchie sacrée comme il en existe partout dans la région.</p>
 
 <p>Le culte y tourne autour de la personne du roi, selon la logique d'adoption divine déjà décrite : descendant de David, il est le double terrestre du dieu guerrier, et le jour de son couronnement il entre parmi les êtres saints.</p>
-
 
 # -926 av. J.-C.
 
@@ -2446,7 +2433,7 @@ tags: technology
 
 <p>Pour un guerrier, la vie entière est une compétition où il peut laisser la peau à chaque fois. Depuis le temps des steppes, ces peuples pensaient que les meilleurs et les plus riches rejoindraient les dieux après leur mort ; on ajoute désormais une voie plus rapide — celui qui meurt noblement au combat y monte directement. La promesse a l'efficacité qu'on imagine sur des hommes dont le métier est de mourir, et elle traversera les siècles presque inchangée, du Valhalla scandinave aux paradis promis aux martyrs. Reste qu'elle n'a rien de garanti : le séjour céleste se nourrit des offrandes que font les vivants à leurs ancêtres, et un mort dont les descendants négligent les rites voit son crédit s'épuiser. Même au ciel, on dépend encore du sacrifice.</p>
 
-<p>En Grèce, pendant ce temps, on sort lentement de trois siècles d'obscurité. Les villages se repeuplent, mais la société reste rurale : pas de villes dignes de ce nom, pas d'États, pas d'administration — des domaines tenus par des chefs locaux, des troupeaux, des champs d'orge et d'oliviers. La richesse se compte en têtes de bétail, et le prestige d'un homme tient à sa table et au nombre de ceux qu'il peut nourrir.</p>
+<p>En Grèce, pendant ce temps, les premiers signes de reprise s'accumulent. Les villages se repeuplent, mais la société reste rurale : pas de villes dignes de ce nom, pas d'États, pas d'administration — des domaines tenus par des chefs locaux, des troupeaux, des champs d'orge et d'oliviers. La richesse se compte en têtes de bétail, et le prestige d'un homme tient à sa table et au nombre de ceux qu'il peut nourrir.</p>
 
 <p>Ce qui les a fait tenir pendant l'effondrement, ce sont les rites. Faute d'États et d'archives, ils ont conservé leurs fêtes : sacrifices communs, danses, concours, récits chantés. Ces cérémonies rassemblaient périodiquement des gens qui n'avaient plus d'autre lien, et donnaient une forme partagée à ce qu'ils avaient traversé. Ils en tireront leurs institutions les plus caractéristiques — les mystères d'Éleusis et les grandes fêtes qui rassemblent des cités ennemies.</p>
 
@@ -2456,7 +2443,7 @@ tags: technology
 
 <p>Le mot qui reviendra dans les poèmes est celui de démesure : celui qui s'élève trop haut sera abaissé, non parce qu'il a mal agi, mais parce qu'il a dépassé la mesure d'un homme. Les dieux tolèrent mal qu'on leur ressemble. De là un fond de pessimisme qui traversera toute la pensée grecque — rien n'est acquis, la fortune se retourne, les meilleurs tombent, et le seul conseil des sages sera de ne jamais dire d'un homme qu'il fut heureux avant de l'avoir vu mourir.</p>
 
-<p>Tout cela, nous le savons par les poèmes d'Homère, qui ne seront pas mis par écrit avant le siècle suivant. Ils prétendent raconter l'âge mycénien mais décrivent en réalité le monde de leurs auteurs : ces héros combattent avec des armes de fer et vivent dans des maisons de chefs, ignorant tout des palais et des scribes qu'ils sont censés incarner. Défaut pour l'histoire mycénienne, aubaine pour celle-ci — à défaut de documents, nous avons leur façon de dire ce qui compte : l'honneur, la parole donnée, la mort belle, l'hospitalité due à l'étranger.</p>
+<p>Tout cela, nous le savons par les poèmes d'Homère, qui ne seront pas mis par écrit avant le siècle suivant. Ils prétendent raconter l'âge mycénien mais décrivent en réalité le monde de leurs auteurs : ces héros vivent dans des maisons de chefs, ignorant tout des palais et des scribes qu'ils sont censés incarner. Défaut pour l'histoire mycénienne, aubaine pour celle-ci — à défaut de documents, nous avons leur façon de dire ce qui compte : l'honneur, la parole donnée, la mort belle, l'hospitalité due à l'étranger.</p>
 
 # -880 av. J.-C.
 
@@ -2466,7 +2453,7 @@ tags: technology
 
 <p>À l'autre bout du monde, une dynastie beaucoup plus ancienne suit le chemin inverse : la Chine des Zhou entre dans une période de grande faiblesse. Le vieux système d'apanages se désagrège, et le domaine royal subit les attaques constantes des peuples que les Chinois appellent barbares, installés tout autour.</p>
 
-<p>Le roi n'exerce plus qu'un contrôle nominal sur les cités de la plaine centrale. La monarchie a été remplacée en pratique par une confédération de seigneurs qui proclament leur loyauté aux Zhou et gouvernent chacun chez soi comme bon leur semble.</p>
+<p>Le roi n'exerce plus qu'un contrôle nominal sur les cités de la plaine centrale.</p>
 
 <p>La religion chinoise vise à préserver l'ordre du monde par des rites minutieusement réglés. Elle diffère profondément de ce qui s'invente au même moment au Proche-Orient : il n'y a pas ici de dieu situé hors du monde, qui l'aurait créé et le jugerait de l'extérieur. Le Ciel et la Terre sont complémentaires, et les ancêtres circulent entre les deux — les plus puissants siègent désormais auprès du souverain d'en haut, mais ils ont vécu ici-bas, on leur parle, on partage un repas avec eux.</p>
 
@@ -2480,7 +2467,7 @@ tags: technology
 
 # -874 av. J.-C.
 
-<p>Son fils Achab lui succède, et pousse la politique paternelle plus loin encore. Il agrandit Samarie et y bâtit un palais si richement décoré qu'on l'appellera la maison d'ivoire — les fouilles en ont retrouvé des centaines de fragments sculptés, dans un style phénicien. Il ouvre des relations commerciales avec la Phénicie, Chypre et la Grèce.</p>
+<p>Le fils d'Omri, Achab, lui succède, et pousse la politique paternelle plus loin encore. Il agrandit Samarie et y bâtit un palais si richement décoré qu'on l'appellera la maison d'ivoire — les fouilles en ont retrouvé des centaines de fragments sculptés, dans un style phénicien. Il ouvre des relations commerciales avec la Phénicie, Chypre et la Grèce.</p>
 
 <p>Et il épouse Jézabel, fille du roi de Tyr. C'est un succès diplomatique, et rien d'autre à l'époque : Israël a tout intérêt à s'intégrer dans la région et à tenir tête à Damas et à Moab. Rien de nouveau non plus — la tradition rapporte que Salomon avait fait de même, épousant des princesses étrangères, accueillant leurs dieux dans le culte royal et leur bâtissant des sanctuaires sur les collines de Jérusalem. On scelle les alliances par des mariages, et les mariages amènent les dieux de l'épouse.</p>
 
@@ -2523,12 +2510,12 @@ tags: technology
 <p>C'est le premier point solide de cette histoire — non pas ce que raconte la Bible, mais ce qu'écrivent les voisins. Deux autres inscriptions du même siècle viendront confirmer le tableau : une stèle du roi de Moab, qui se vante d'avoir secoué le joug israélite, et une autre, retrouvée à Tel Dan, où un roi araméen revendique une victoire sur la « maison de David ».</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/stelemesha.jpg' | relative_url }}" alt="Stèle de Mesha, roi de Moab, musée du Louvre" width="380" />
+  <img src="{{ '/assets/img/stelemesha.webp' | relative_url }}" alt="Stèle de Mesha, roi de Moab, musée du Louvre" width="380" loading="lazy" decoding="async" height="587" />
   <br /><small><em>La stèle de Mesha : le roi de Moab s'y vante d'avoir secoué le joug israélite. Photo Mbzt, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/steleteldan.jpg' | relative_url }}" alt="Fragments de la stèle de Tel Dan" width="600" />
+  <img src="{{ '/assets/img/steleteldan.webp' | relative_url }}" alt="Fragments de la stèle de Tel Dan" width="600" loading="lazy" decoding="async" height="528" />
   <br /><small><em>Les fragments de la stèle de Tel Dan, où un roi araméen revendique une victoire sur la « maison de David ». Photo בית השלום, licence Attribution, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2546,9 +2533,9 @@ tags: technology
 
 <p>Le roi Li est déposé et contraint à l'exil. Les sources chinoises rapportent une révolte contre sa tyrannie et son avidité — il aurait, entre autres, confisqué les ressources des forêts et des rivières dont vivait le peuple, et fait espionner ceux qui le critiquaient, jusqu'à ce que les habitants de la capitale ne se parlent plus que du regard.</p>
 
-<p>Une régence assurée par les grands seigneurs gouverne à sa place pendant quatorze ans — période que les historiens chinois retiendront comme la première dont ils possèdent une chronologie exacte, année par année. L'histoire chinoise datée commence ici.</p>
+<p>Une régence assurée par les grands seigneurs gouverne à sa place pendant quatorze ans — période que les historiens chinois retiendront comme la première dont ils possèdent une chronologie exacte, année par année : à partir de l'an suivant, −841, l'histoire chinoise est datée sans interruption.</p>
 
-<p>L'épisode illustre surtout ce que le Mandat du Ciel implique : un roi qui gouverne mal peut être chassé, et le fait qu'on l'ait chassé prouve rétrospectivement qu'il avait démérité. L'argument qui avait porté les Zhou au pouvoir se retourne maintenant contre eux.</p>
+<p>L'épisode illustre surtout ce que le Mandat du Ciel implique : un roi qui gouverne mal peut être chassé, et le fait qu'on l'ait chassé prouve rétrospectivement qu'il avait démérité.</p>
 
 # -841 av. J.-C.
 
@@ -2557,7 +2544,7 @@ tags: technology
 <p>Politiquement, Jéhu change de camp : il fait alliance avec l'Assyrie. La même année, Salmanazar écrase Damas et devient maître de la région. Une stèle assyrienne, retrouvée à Nimroud, montre un roi prosterné aux pieds du souverain, front contre terre, avec cette légende : tribut de Jéhu, fils d'Omri. C'est la seule image contemporaine d'un roi d'Israël qui nous soit parvenue — et elle le montre à plat ventre.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/obelisquenoir.jpg' | relative_url }}" alt="Panneau de l'obélisque noir de Salmanazar III montrant Jéhu prosterné" width="600" />
+  <img src="{{ '/assets/img/obelisquenoir.webp' | relative_url }}" alt="Panneau de l'obélisque noir de Salmanazar III montrant Jéhu prosterné" width="600" loading="lazy" decoding="async" height="529" />
   <br /><small><em>L'obélisque noir de Salmanazar III, retrouvé à Nimroud : Jéhu, fils d'Omri, front contre terre devant le roi assyrien. Photo Steven G. Johnson, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2588,7 +2575,7 @@ tags: technology
 # -800 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/Les%20Grecs%C2%A0I%20Quelle%20Histoire%20-%20TV5%20Monde%20%5BcVsQB4wpRBc%5D.mkv"/>
 </p>
 
@@ -2628,7 +2615,7 @@ tags: technology
 
 # -770 av. J.-C.
 
-<p>En un temps remarquablement court, la Grèce sort de ses siècles obscurs et pose les fondations d'une culture sans équivalent.</p>
+<p>En un temps remarquablement court, la Grèce pose les fondations d'une culture sans équivalent.</p>
 
 <p>Une circonstance y aide : l'Assyrie, qui écrase alors tout le Proche-Orient, ne s'intéresse pas à la mer Égée. Les Grecs peuvent donc développer leurs institutions sans menace d'invasion — ils commercent avec l'Orient sans en craindre les armées, et se montrent avides d'apprendre des peuples étrangers.</p>
 
@@ -2655,7 +2642,7 @@ tags: technology
 # -753 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="metadata" width="640" height="360"
+  <video controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/COMPRENDRE%20%EF%BC%9A%20La%20Rome%20antique%20%5Bu2AdfEHfV_U%5D.mkv"/>
 </p>
 
@@ -2679,7 +2666,7 @@ tags: technology
 
 <p>Ce n'est pourtant pas un poème triomphal. L'Iliade est un poème sur la colère et sur la mort, dont les personnages sont dominés par l'obligation de tuer ou d'être tué, et qui avance inexorablement vers l'anéantissement : la mort de Patrocle, celle d'Hector, celle d'Achille, et la destruction de la belle cité de Troie. Ceux qui le chantaient savaient exactement où cela menait.</p>
 
-<p>Ces poèmes conservent enfin l'histoire qui hantera le plus durablement les Grecs : celle de la maison d'Atrée. L'Odyssée y revient sans cesse — Agamemnon revenu vainqueur de Troie et assassiné chez lui par sa femme Clytemnestre, puis son fils Oreste tuant sa mère pour venger son père. Le poème loue Oreste sans hésiter : il fallait que le meurtre fût payé. Ces personnages n'ont pas le choix, et le texte ne le leur reproche pas — chaque acte appelle le suivant, et l'on ne s'en tire pas. Les Grecs, si puissants qu'ils deviennent, ne se sentiront jamais vraiment maîtres de leur destin.</p>
+<p>Ces poèmes conservent enfin l'histoire qui hantera le plus durablement les Grecs, et sur laquelle nous reviendrons : celle de la maison d'Atrée. L'Odyssée y revient sans cesse, et loue sans hésiter Oreste vengeant son père : il fallait que le meurtre fût payé. Ces personnages n'ont pas le choix, et le texte ne le leur reproche pas — chaque acte appelle le suivant, et l'on ne s'en tire pas. Les Grecs, si puissants qu'ils deviennent, ne se sentiront jamais vraiment maîtres de leur destin.</p>
 
 <p>En Chine, au même moment, on codifie aussi la conduite de l'homme de bien — mais dans un tout autre esprit. Une science nouvelle du rituel se développe dans les principautés de la grande plaine, et ceux qui l'élaborent ne sont pas ceux qu'on attendrait : de petits groupes de scribes, de devins, d'astronomes et d'archivistes.</p>
 
@@ -2709,7 +2696,7 @@ tags: technology
 
 <p>La cour de Jérusalem ne cherche pas son réconfort dans les traditions du nord, mais dans l'alliance éternelle que Yahvé aurait conclue avec David, et dans les traditions du Temple. Yahvé est roi à Jérusalem, et le souverain davidique est son représentant terrestre — ce qui rend la ville, pense-t-on, imprenable.</p>
 
-<p>C'est aussi vers cette époque, à la fin du siècle, que sont probablement mis par écrit les premiers éléments du Pentateuque, les cinq premiers livres de la Bible. L'écriture avait longtemps été tenue pour un savoir divin, inquiétant, potentiellement dangereux pour les hommes ; elle se répand désormais, et les rois y voient un instrument — consigner dans une bibliothèque les traditions qui servent leur pouvoir.</p>
+<p>C'est aussi vers cette époque, et plus sûrement vers la fin du siècle, que sont probablement mis par écrit les premiers éléments du Pentateuque, les cinq premiers livres de la Bible. L'écriture avait longtemps été tenue pour un savoir divin, inquiétant, potentiellement dangereux pour les hommes ; elle se répand désormais, et les rois y voient un instrument — consigner dans une bibliothèque les traditions qui servent leur pouvoir.</p>
 
 <p>Celui qui rédige ces premiers textes veut montrer une chose : avant Abraham, l'histoire n'était qu'une succession de désastres, l'humanité prise dans une spirale de révolte, de faute et de châtiment. L'alliance avec Abraham a inversé le mouvement — c'est le tournant de l'histoire. Et cet Abraham est un homme du sud : il s'est installé à Hébron, son fils vit à Beer-Sheva, et il a été béni par le roi de Salem, c'est-à-dire de Jérusalem. La généalogie sert la géographie.</p>
 
@@ -2745,7 +2732,7 @@ tags: technology
 
 # -700 av. J.-C.
 
-<p>Le monde grec sort définitivement des siècles de fragmentation qui ont suivi l'effondrement des palais mycéniens. Des communautés qui étaient restées relativement petites pendant des générations se structurent désormais en <em>poleis</em>, les cités-États. Les sanctuaires prennent de l'ampleur, les échanges maritimes s'intensifient et des Grecs fondent des établissements jusqu'en Italie du Sud et en Sicile. Une innovation récente accélère cette transformation : les Grecs utilisent un alphabet adapté de l'écriture phénicienne, auquel ils ont ajouté des signes pour noter les voyelles.</p>
+<p>Le mouvement s'accélère. Des communautés restées petites pendant des générations se structurent en <em>poleis</em>, les cités-États ; les sanctuaires prennent de l'ampleur, les échanges maritimes s'intensifient, et des Grecs fondent des établissements jusqu'en Italie du Sud et en Sicile.</p>
 
 <p>En Attique, Athènes s'affirme progressivement comme le centre politique et religieux d'un territoire composé auparavant de communautés locales. Les Athéniens attribueront plus tard cette unification — le <em>synœcisme</em> — à Thésée, le héros qui aurait tué le Minotaure. Mais nous ne pouvons pas dater historiquement un « jour de l'unification » : le processus semble avoir été beaucoup plus long, et les traditions littéraires qui l'attribuent à Thésée sont légendaires.</p>
 
@@ -2809,7 +2796,7 @@ tags: technology
 
 <p>Juda devient formellement vassal de l'Égypte, mais le pharaon est bien trop occupé à s'assurer le contrôle des routes commerciales des plaines cananéennes pour se soucier de ce petit royaume perché dans ses collines. Pour la première fois depuis des générations, Juda est livré à lui-même.</p>
 
-<p>Cette liberté inattendue va être mise à profit. Le jeune roi Josias entreprend d'étendre son autorité vers le nord, sur ces terres que l'Assyrie vient d'abandonner — et de faire de Jérusalem le centre unique d'un royaume réunifié.</p>
+<p>Cette liberté inattendue va être mise à profit. Une génération plus tard, un roi de Jérusalem entreprendra d'étendre son autorité vers le nord, sur ces terres que l'Assyrie vient d'abandonner, et de faire de sa capitale le centre unique d'un royaume réunifié. Il s'appellera Josias.</p>
 
 # -655 av. J.-C.
 
@@ -2859,7 +2846,7 @@ tags: technology
 
 # -630 av. J.-C.
 
-<p>Dans l'ouest de l'Anatolie, autour de la Lydie et des cités grecques d'Ionie, apparaît vers la fin du VIIe siècle av. J.-C. une innovation appelée à transformer durablement les échanges : la monnaie frappée.</p>
+<p>Dans l'ouest de l'Anatolie, autour de la Lydie et des cités grecques d'Ionie, apparaît dans le dernier tiers du VIIe siècle av. J.-C. une innovation appelée à transformer durablement les échanges : la monnaie frappée.</p>
 
 <p>Ces premières monnaies sont fabriquées en électrum, un alliage d'or et d'argent que l'on trouve naturellement dans la région, notamment dans les dépôts alluviaux associés au fleuve Pactole près de Sardes. La Lydie possède ainsi non seulement une position privilégiée sur les routes commerciales reliant la mer Égée à l'intérieur de l'Anatolie, mais aussi un accès exceptionnel aux métaux précieux.</p>
 
@@ -2917,7 +2904,7 @@ tags: technology
 
 # -597 av. J.-C.
 
-<p>Juda est un petit royaume coincé entre deux géants : l'Empire babylonien à l'est, l'Égypte au sud. Depuis un siècle, son aristocratie se déchire entre ceux qui prônent la soumission à la puissance mésopotamienne et ceux qui misent sur l'Égypte pour s'en libérer. Le roi de Jérusalem vient de choisir l'Égypte, et il s'est trompé.</p>
+<p>Le roi de Jérusalem, placé devant le choix décrit plus haut — Babylone ou l'Égypte —, vient de choisir l'Égypte. Il s'est trompé.</p>
 
 <p>Nabuchodonosor vient en personne rappeler qui commande. Il prend la ville, emporte les trésors du Temple, et déporte à Babylone le jeune roi Joiakin avec des milliers de notables, de prêtres, d'artisans et de soldats. Puis il installe sur le trône un oncle du roi déchu, Sédécias, avec mission d'obéir, et lui fait prêter serment de fidélité au nom de son propre dieu : rompre ce serment sera désormais un sacrilège autant qu'une trahison.</p>
 
@@ -2931,7 +2918,7 @@ tags: technology
 
 <p>À l'autre bout du monde, la même année, un autre monde bascule — mais celui-là vers la sauvagerie.</p>
 
-<p>Chu écrase les armées de la ligue des États chinois, et cette victoire fait entrer la région dans une forme de guerre entièrement nouvelle. Chu est une puissance du sud, longtemps tenue pour à demi barbare par les principautés de la plaine centrale, et elle n'a que faire de leurs conventions. Ces règles que la Chine s'était données — ne pas attaquer une armée qui n'a pas fini de se ranger, épargner les blessés, ne pas poursuivre un fuyard au-delà d'une certaine distance, tenir la victoire pour nulle si les rites n'ont pas été respectés — tout cela devient soudain sans objet.</p>
+<p>Chu écrase les armées de la ligue des États chinois, et cette victoire fait entrer la région dans une forme de guerre entièrement nouvelle. Chu est une puissance du sud, longtemps tenue pour à demi barbare par les principautés de la plaine centrale, et elle n'a que faire de leurs conventions. Toutes ces règles que la Chine s'était données et qu'on vient de décrire deviennent soudain sans objet.</p>
 
 <p>Les autres grands États comprennent vite. À quoi bon s'imposer des contraintes que l'adversaire ignore ? Ils rejettent à leur tour les limites de la tradition, décidés à s'étendre et à conquérir, quitte à détruire l'ennemi.</p>
 
@@ -2975,7 +2962,7 @@ tags: technology
 
 # -580 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2pf05bejNKs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2pf05bejNKs" data-id="2pf05bejNKs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/2pf05bejNKs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance de Pythagore. Il fondera dans le sud de l'Italie une école qui est à la fois une communauté philosophique, scientifique et religieuse : mathématiques, musique, astronomie et spiritualité s'y mêlent, sous des règles de vie strictes — végétarisme, interdiction de manger des fèves, silence et méditation.</p>
 
@@ -3017,7 +3004,7 @@ tags: technology
 
 <p>Sa nouveauté n'est pas militaire, elle est politique. Les Assyriens avaient gouverné par la terreur — déportations massives, villes rasées, supplices publics affichés sur les murs des palais. Cyrus fait l'inverse : il laisse aux peuples soumis leurs dieux, leurs langues, leurs coutumes et souvent leurs souverains locaux, à condition qu'ils paient le tribut et fournissent des soldats. Un empire qui n'exige pas qu'on cesse d'être soi-même coûte beaucoup moins cher à tenir.</p>
 
-<p>Cette politique, il l'appliquera bientôt aux exilés de Babylone. C'est pourquoi les textes bibliques feront de ce roi étranger et zoroastrien le seul non-Juif à recevoir le titre de messie — l'oint du Seigneur.</p>
+<p>Cette politique, il l'appliquera bientôt aux exilés de Babylone — avec des conséquences que personne n'a prévues.</p>
 
 # -547 av. J.-C.
 
@@ -3069,7 +3056,7 @@ tags: technology
 
 <p>Le premier est la secte orphique. Elle rejette l'esprit agressif de la cité et adopte l'idéal de non-violence : ses membres refusent de sacrifier un animal, même rituellement, et suivent un régime végétarien strict. Comme le sacrifice est au cœur de la vie politique — on ne délibère pas, on ne s'allie pas, on ne fonde rien sans immoler une bête —, ce refus les met en marge de la société. Ils croient à la transmigration des âmes et à une purification progressive, et cherchent une délivrance qui ressemble étrangement à ce qu'on formule au même moment en Inde, sans qu'on sache si les deux mondes ont communiqué.</p>
 
-<p>Le second mouvement naît à Milet, sur la côte d'Asie Mineure. Des hommes s'y demandent de quoi le monde est fait, et cherchent une réponse qui ne fasse appel à aucun dieu. Thalès avance que tout vient de l'eau ; Anaximène, que tout vient de l'air, qui se condense ou se raréfie.</p>
+<p>Le second mouvement naît à Milet, sur la côte d'Asie Mineure. Des hommes s'y demandent de quoi le monde est fait, et cherchent une réponse qui ne fasse appel à aucun dieu. Thalès, une génération plus tôt, avançait que tout vient de l'eau ; Anaximène, qui enseigne à cette date, que tout vient de l'air, qui se condense ou se raréfie.</p>
 
 <p>Leurs réponses sont fausses, et peu importe. Ce qui compte, c'est la forme de la question : chercher une cause unique et simple, tirée de la matière elle-même, vérifiable par le raisonnement plutôt que reçue de la tradition. Ces hommes commencent à penser comme des savants — et l'on peut dire qu'avec eux la science occidentale commence, dans une cité de marchands, à la lisière du monde grec.</p>
 
@@ -3133,7 +3120,6 @@ tags: technology
 
 <p>Dans la principauté de Lu, les ritualistes y voient bien pire qu'un dérèglement social : un sacrilège. Depuis des générations, ils enseignent que l'ordre du monde tient à la justesse des gestes — que chacun se place où il doit, se tienne comme il faut, offre ce qui lui revient d'offrir et pas davantage. Or c'est exactement ce que cette époque piétine. Un noble qui use d'honneurs réservés au duc, un duc qui usurpe ceux du roi, un homme qui étale une richesse hors de son rang : chacun de ces gestes défait un peu du tissu qui tenait le monde en place.</p>
 
-
 <p>La principauté de Lu est au bord de l'anarchie complète. Trois familles de barons ont usurpé le pouvoir du duc légitime, qui ne règne plus que de nom, et elles se déchirent entre elles pour la suprématie. Pire encore : les intendants de ces familles commencent à leur désobéir à leur tour, et l'un d'eux s'emparera bientôt du pouvoir réel.</p>
 
 <p>Chaque échelon usurpe celui du dessus. Le duc ne commande plus aux barons, les barons ne commandent plus à leurs propres serviteurs — et personne, à aucun niveau, n'occupe plus la place qui devrait être la sienne.</p>
@@ -3146,7 +3132,7 @@ tags: technology
 
 <p>En Inde survient l'un des retournements les plus inattendus de l'histoire religieuse. Les descendants des anciens éleveurs guerriers védiques, qui ont sacrifié des animaux pendant des siècles et célébré une religion de combattants, font progressivement émerger un idéal presque exactement inverse : l'<em>ahimsa</em>, la non-violence.</p>
 
-<p>Le mot signifie littéralement « ne pas nuire ». Il ne s'agit pas d'un simple idéal moral, mais d'une discipline exigeante : ne tuer aucun être vivant, éviter la chair animale et, chez les ascètes les plus stricts comme les moines jaïns, filtrer son eau, balayer le sol devant ses pas ou couvrir sa bouche afin de ne pas tuer accidentellement un insecte.</p>
+<p>Le mot signifie littéralement « ne pas nuire ». On a vu chez les ascètes jaïns jusqu'où la discipline peut aller ; ce qui frappe ici, c'est qu'elle cesse d'être l'affaire d'une secte pour devenir un idéal partagé.</p>
 
 <p>Cette exigence découle directement des nouvelles conceptions du karma et de la réincarnation. Si tout être renaît selon ses actes, tuer un animal peut signifier tuer un être engagé dans le même cycle que soi — peut-être même un ancien parent — et surtout accumuler une dette qui devra être payée dans une existence future. Le sacrifice sanglant, autrefois au cœur de la religion védique, devient alors problématique : les Upanishads le relativisent, le jaïnisme le rejette absolument et le bouddhisme le considère comme inutile.</p>
 
@@ -3154,11 +3140,7 @@ tags: technology
 
 <p>Le véritable soi serait normalement obscurci par les préoccupations quotidiennes, enfermé dans le corps, entraîné par les sensations et dominé par les instincts. Se libérer suppose donc moins d'acquérir quelque chose que de se dégager progressivement de ce qui nous attache. C'est dans ce milieu intellectuel que le yoga prend une forme systématique : son but originel n'est ni la santé ni la souplesse, mais la séparation du <em>purusha</em> d'avec la nature.</p>
 
-<p>Cette libération commence par une discipline morale. Avant même d'apprendre une posture, l'aspirant doit maîtriser les <em>yamas</em> et les <em>niyamas</em>. L'<em>ahimsa</em> en constitue la première exigence : il ne doit tuer ni blesser aucun être vivant, pas même un insecte, ni nuire aux autres par ses paroles. Il doit également se détacher des possessions, accepter simplement ce qu'on lui donne, rester propre, étudier l'enseignement de son maître et conserver envers tous une attitude calme, bienveillante et courtoise.</p>
-
-<p>Ce n'est qu'après cette préparation que commence le yoga proprement dit. L'aspirant apprend d'abord l'<em>asana</em> : rester assis, parfaitement immobile, afin de réduire progressivement l'emprise du corps et des sensations sur l'esprit. Puis vient le <em>pranayama</em>, le contrôle du souffle. Le yogin ralentit sa respiration et allonge les pauses entre l'expiration et l'inspiration ; son rythme cardiaque diminue et cette maîtrise d'une fonction normalement automatique produit un état inhabituel de calme, d'équilibre et de présence.</p>
-
-<p>Enfin vient l'<em>ekagrata</em>, la concentration « en un seul point ». Le yogin fixe entièrement son esprit sur un objet ou une idée — une fleur, une partie de son corps, un enseignement de son maître — et repousse toute pensée ou émotion étrangère. Le mouvement est toujours le même : réduire l'emprise du monde extérieur, du corps puis de la pensée elle-même, jusqu'à ce que le soi puisse apparaître dans sa pureté.</p>
+<p>Les pratiques qui deviendront le yoga s'élaborent dans ce milieu, mais elles n'ont encore rien d'un système : une discipline morale préalable, une posture assise tenue immobile, un travail sur le souffle, une concentration poussée jusqu'à l'exclusion de toute autre pensée. Il faudra plusieurs siècles pour que tout cela soit mis en ordre et codifié — nous y reviendrons.</p>
 
 <p>Le renversement historique est saisissant. Deux branches issues de peuples indo-iraniens apparentés suivent des trajectoires presque inverses : en Iran, la tradition qui avait condamné la violence des anciens razzieurs devient la religion officielle de puissants empires guerriers ; en Inde, la tradition héritée de ces mêmes peuples produit certaines des doctrines de non-violence et de renoncement les plus radicales de l'Antiquité. Vingt-cinq siècles plus tard, l'<em>ahimsa</em> réapparaîtra dans l'histoire mondiale lorsqu'un avocat indien, Mohandas Gandhi, en fera une méthode de lutte politique contre l'Empire britannique.</p>
 
@@ -3212,11 +3194,7 @@ tags: technology
 
 <p>Au même siècle, à près de cinq mille kilomètres vers l'est, la plaine du Gange connaît une révolution d'une tout autre nature. Des royaumes comme Magadha et Kosala rivalisent pour le contrôle des villes, des terres agricoles et des routes commerciales. Le fer est largement employé, les centres urbains se développent et les monnaies poinçonnées commencent à circuler. Sur les mêmes routes que les marchands voyagent des ascètes et des maîtres itinérants qui proposent des réponses concurrentes aux problèmes du karma, de la renaissance et de la libération.</p>
 
-<p>C'est dans ce milieu que doit être situé Siddhartha Gautama, le Bouddha.</p>
-
-<p>Selon les traditions bouddhiques, Gautama naît dans une famille dirigeante du clan des Shakya, près des contreforts de l'Himalaya. Il abandonne finalement la vie familiale pour rejoindre le monde des renonçants. Il étudie auprès de maîtres de méditation puis expérimente un ascétisme extrêmement sévère, réduisant notamment son alimentation jusqu'à mettre son corps en danger.</p>
-
-<p>Il finit cependant par rejeter cette mortification. Détruire le corps ne conduit pas davantage à la libération que satisfaire tous ses désirs. Après avoir atteint ce que la tradition décrit comme l'Éveil, il enseigne donc une « voie moyenne » entre la recherche du plaisir et l'ascétisme extrême.</p>
+<p>C'est le milieu dont est sorti Siddhartha Gautama, mort une poignée d'années plus tôt, et où son enseignement se diffuse désormais de bouche en bouche.</p>
 
 <p>La question religieuse est profondément déplacée. Le salut ne dépend pas d'un sacrifice animal correctement exécuté par un prêtre. Le Bouddha cherche la cause de la souffrance dans l'expérience humaine elle-même : le désir, l'attachement et l'ignorance entretiennent le cycle des renaissances. C'est donc par la conduite, la méditation et la compréhension que l'individu doit se transformer.</p>
 
@@ -3226,7 +3204,7 @@ tags: technology
 
 # -479 av. J.-C.
 
-<p>La guerre commencée l'année précédente n'est pas terminée. Après la défaite navale de Salamine, Xerxès est retourné en Asie avec une partie de ses forces, mais une importante armée perse commandée par Mardonios demeure en Grèce. Au printemps, les Perses occupent de nouveau Athènes, dont la population a une nouvelle fois été évacuée.</p>
+<p>La guerre commencée l'année précédente n'est pas terminée. Au printemps, l'armée de Mardonios occupe de nouveau Athènes, dont la population a une nouvelle fois été évacuée.</p>
 
 <p>À Platées, en Béotie, une grande coalition de cités grecques affronte finalement l'armée de Mardonios. Les effectifs transmis par les auteurs antiques sont difficiles à vérifier, mais il s'agit de l'un des plus grands rassemblements militaires grecs de l'époque. Spartiates, Athéniens, Corinthiens, Mégariens et contingents de nombreuses autres cités combattent ensemble sous le commandement général du Spartiate Pausanias.</p>
 
@@ -3240,7 +3218,7 @@ tags: technology
 
 # -477 av. J.-C.
 
-<p>Après les victoires de Platées et de Mycale, la menace d'une conquête perse de la Grèce continentale a disparu, mais la guerre contre l'Empire achéménide continue dans la mer Égée. De nombreuses cités grecques des îles et des côtes d'Asie Mineure restent exposées à la puissance perse. Sparte, grande puissance terrestre, se montre de moins en moins disposée à conduire des opérations lointaines en mer. Athènes, au contraire, possède désormais l'une des principales flottes du monde grec.</p>
+<p>De nombreuses cités grecques des îles et des côtes d'Asie Mineure restent exposées à la puissance perse. Sparte, grande puissance terrestre, se montre de moins en moins disposée à conduire des opérations lointaines en mer. Athènes, au contraire, possède désormais l'une des principales flottes du monde grec.</p>
 
 <p>Athènes prend ainsi la tête d'une nouvelle alliance que les historiens appelleront la ligue de Délos. Les cités membres jurent de poursuivre ensemble la guerre contre la Perse et de protéger les Grecs de l'Égée et d'Asie Mineure.</p>
 
@@ -3252,13 +3230,13 @@ tags: technology
 
 # -470 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/AzcZiQswnVI" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=AzcZiQswnVI" data-id="AzcZiQswnVI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/AzcZiQswnVI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance de Socrate, l'une des figures fondatrices de la pensée occidentale. Sa méthode : interroger inlassablement ses concitoyens sur les places d'Athènes — qu'est-ce que le courage ? la justice ? la vertu ? — et démonter leurs certitudes question après question, jusqu'à l'aveu d'ignorance d'où peut naître la vraie recherche. « Je sais que je ne sais rien » : la philosophie comme examen permanent de sa propre vie. Il n'a jamais rien écrit : nous le connaissons par ses disciples, Platon et Xénophon en tête.</p>
 
 # -460 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/CMvnB8Wda0M" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=CMvnB8Wda0M" data-id="CMvnB8Wda0M" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/CMvnB8Wda0M/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Vers cette date naît Hippocrate, le « père de la médecine ». Sa révolution : arracher la maladie aux dieux. Pour lui, les maladies ont des causes naturelles, qu'on découvre par l'observation systématique du patient — tous les sens mobilisés, y compris l'odorat, chaque indice comptant pour le diagnostic. Il fait de la médecine une profession à part entière, avec son éthique : le serment d'Hippocrate engage encore les médecins d'aujourd'hui.</p>
 
@@ -3274,7 +3252,7 @@ tags: technology
 
 # -428 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/RvbRSdjf9t4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=RvbRSdjf9t4" data-id="RvbRSdjf9t4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/RvbRSdjf9t4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance de Platon.</p>
 
@@ -3324,13 +3302,9 @@ tags: technology
 
 <p>Cette guerre stimule une profonde transformation technologique. Le fer se diffuse dans les outils agricoles et les armes, l'arbalète transforme le champ de bataille et les armées deviennent beaucoup plus nombreuses. Les États développent des bureaucraties, des systèmes fiscaux, des routes, des fortifications et de grands travaux hydrauliques. Plusieurs formes régionales de monnaie circulent. L'écriture, utilisée en Chine depuis de nombreux siècles, permet aux administrations et aux écoles de pensée d'accumuler et de transmettre des textes.</p>
 
-<p>C'est approximativement dans ce contexte que prennent forme les différentes couches du texte qui deviendra le <em>Daodejing</em>.</p>
+<p>C'est dans ce contexte, on l'a vu, que se sont formées les différentes couches du <em>Daodejing</em> — et le rapprochement est éclairant.</p>
 
-<p>La tradition attribuera plus tard l'ouvrage à Laozi, le « Vieux Maître », supposé avoir vécu avant ou à l'époque de Confucius. Elle raconte qu'il aurait été archiviste à la cour des Zhou et qu'en quittant la civilisation vers l'ouest, un gardien lui aurait demandé de mettre son enseignement par écrit. Laozi aurait alors rédigé quelque cinq mille caractères sur la Voie et la Vertu avant de disparaître.</p>
-
-<p>Il est plus prudent de considérer Laozi comme la figure traditionnelle autour de laquelle s'est cristallisé un ensemble d'enseignements plutôt que comme l'auteur historiquement certain d'un livre composé en une seule fois.</p>
-
-<p>Le contenu du <em>Daodejing</em> correspond remarquablement au monde des Royaumes combattants. Alors que les États deviennent plus puissants, plus administrés et plus interventionnistes, cette tradition se méfie précisément de la volonté de tout contrôler. Elle valorise la simplicité, la souplesse et le <em>wuwei</em>, le « non-agir » : non pas rester passif, mais éviter de forcer inutilement le cours des choses.</p>
+<p>Son éloge de l'eau, du vide et du non-agir prend en effet tout son sens ici : alors que les États deviennent plus puissants, plus administrés et plus interventionnistes, cette tradition se méfie précisément de la volonté de tout contrôler.</p>
 
 # -300 av. J.-C.
 
@@ -3364,15 +3338,13 @@ tags: technology
 
 <p>Archimède formule également ce que nous appelons aujourd'hui le principe d'Archimède : un corps immergé dans un fluide subit une poussée correspondant au poids du fluide déplacé.</p>
 
-<p>Il en va de même de la phrase « Donnez-moi un point d'appui et je soulèverai le monde », transmise sous différentes formes par des auteurs postérieurs. Elle exprime néanmoins correctement le principe mécanique qu'Archimède étudie : avec un levier suffisamment long et un point d'appui correctement placé, une petite force peut équilibrer une charge beaucoup plus importante.</p>
+<p>La tradition lui prête aussi la phrase « Donnez-moi un point d'appui et je soulèverai le monde », transmise sous différentes formes par des auteurs postérieurs. Elle exprime néanmoins correctement le principe mécanique qu'Archimède étudie : avec un levier suffisamment long et un point d'appui correctement placé, une petite force peut équilibrer une charge beaucoup plus importante.</p>
 
 # -258 av. J.-C.
 
 <p>Dans les années qui suivent Kalinga, Ashoka commence à utiliser l'inscription comme instrument de gouvernement. La chronologie exacte de ces premiers textes reste discutée : contrairement à une loi moderne portant une date absolue, les inscriptions d'Ashoka se réfèrent souvent aux années écoulées depuis son couronnement. Les convertir en notre calendrier dépend donc de la date retenue pour le début de son règne.</p>
 
 <p>Les édits rupestres mineurs appartiennent probablement aux premières phases de cette politique épigraphique. Dans certains d'entre eux, Ashoka parle de son engagement personnel envers le bouddhisme et explique être devenu disciple laïc. Il distingue même différentes étapes de son engagement religieux, ce qui montre que sa relation au bouddhisme ne doit pas être réduite à une conversion instantanée sur le champ de bataille de Kalinga.</p>
-
-<p>C'est une correction importante de la légende ultérieure : Ashoka ne semble pas avoir été un conquérant sanguinaire qui, immédiatement après avoir contemplé les cadavres de Kalinga, serait soudain devenu bouddhiste et pacifiste. Ses propres inscriptions suggèrent une évolution plus progressive. Kalinga constitue un tournant moral majeur dans son discours, mais son rapprochement avec le bouddhisme possède sa propre chronologie.</p>
 
 <p>La technologie choisie pour transmettre ce message est elle-même remarquable. Pendant des siècles, les traditions védiques ont conservé leurs textes grâce à une transmission orale extrêmement rigoureuse. Ashoka fait au contraire graver des paroles sur des surfaces rocheuses afin qu'elles demeurent physiquement présentes dans le paysage. L'écriture devient un instrument de communication impériale.</p>
 
@@ -3388,7 +3360,7 @@ tags: technology
 
 <p>La diversité de l'Empire maurya apparaît particulièrement clairement dans les inscriptions découvertes autour de Kandahar, dans l'actuel Afghanistan. Cette région avait appartenu à l'Empire achéménide avant les conquêtes d'Alexandre et abrite encore au IIIe siècle av. J.-C. des populations utilisant des langues issues de plusieurs traditions impériales.</p>
 
-<p>Ashoka ne cherche donc pas à communiquer partout dans une seule langue sacrée. La majorité de ses inscriptions sont rédigées dans différentes formes de prakrit, généralement écrites en brahmi ; dans le nord-ouest, le kharoshthi est également employé. À Kandahar, certains textes apparaissent en grec et en araméen.</p>
+<p>Ashoka ne cherche donc pas à communiquer partout dans une seule langue sacrée : à Kandahar, comme on l'a vu, le même pouvoir impérial change d'alphabet et de langue selon les populations auxquelles il s'adresse.</p>
 
 <p>Le détail est historiquement extraordinaire. À la même époque où les royaumes hellénistiques gouvernent l'Égypte, la Syrie et une partie de l'Asie centrale, les principes moraux d'un empereur indien peuvent être gravés en grec à plusieurs milliers de kilomètres d'Athènes. L'écriture devient ici une technologie d'adaptation politique : le même pouvoir impérial change de langue et de système graphique selon les populations auxquelles il s'adresse.</p>
 
@@ -3478,21 +3450,20 @@ tags: technology
 
 <p>Bataille de Zama : Scipion l'Africain, portant à son tour la guerre en Afrique, vainc Hannibal sur son propre sol. Carthage capitule — Rome devient la puissance dominante de la Méditerranée occidentale, et rien ne l'arrêtera plus.</p>
 
-
-<p>En Chine, la dynastie Han s'installe (fondée en 202 av. J.-C. par Liu Bang, un ancien paysan devenu empereur) : quatre siècles de stabilité et de prospérité commencent — si fondateurs que les Chinois se désignent encore aujourd'hui comme « le peuple Han ». C'est aussi de cette époque que datent les premières utilisations attestées du thé, d'abord comme plante médicinale — avant de devenir, bien plus tard, la boisson d'une civilisation.</p>
+<p>En Chine, la dynastie Han s'installe, fondée par Liu Bang, un ancien paysan devenu empereur : quatre siècles de stabilité et de prospérité commencent — si fondateurs que les Chinois se désignent encore aujourd'hui comme « le peuple Han ». C'est aussi de cette époque que datent les premières utilisations attestées du thé, d'abord comme plante médicinale — avant de devenir, bien plus tard, la boisson d'une civilisation.</p>
 
 # -196 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/otxP2DzHbbM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=otxP2DzHbbM" data-id="otxP2DzHbbM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/otxP2DzHbbM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/18eY-P2rCUE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=18eY-P2rCUE" data-id="18eY-P2rCUE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/18eY-P2rCUE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>En Égypte ptolémaïque, un décret royal est gravé pour commémorer le couronnement de Ptolémée V : les prêtres y proclament leur loyauté au pharaon en échange de privilèges — exemptions fiscales, dons —, et s'engagent à organiser des célébrations en son honneur. Rien que de très banal... sauf un détail : le texte est gravé en trois écritures — hiéroglyphes (la langue sacrée des prêtres), démotique (l'écriture courante des Égyptiens) et grec ancien (la langue administrative des Ptolémées) — pour que toutes les classes sociales puissent le lire.</p>
 
 <p>Ce caillou administratif est la Pierre de Rosette. Deux mille ans plus tard, c'est la comparaison avec le grec qui permettra à Jean-François Champollion, en 1822, de percer le secret des hiéroglyphes — rendant leur voix à trois millénaires d'Égypte. Le décret le plus important de l'histoire n'a rien décrété d'important : il a juste été écrit trois fois.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pierrerosette.jpg' | relative_url }}" alt="Pierre de Rosette, British Museum" width="450" />
+  <img src="{{ '/assets/img/pierrerosette.webp' | relative_url }}" alt="Pierre de Rosette, British Museum" width="450" loading="lazy" decoding="async" height="527" />
   <br /><small><em>La pierre de Rosette : le même décret en hiéroglyphes, en démotique et en grec. Photo Hans Hillewaert, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3506,7 +3477,7 @@ tags: technology
 
 # -120 av. J.-C.
 
-<p>À la cour des Han, un érudit du nom de Sima Tan occupe la charge de grand astrologue-archiviste — gardien des textes, des calendriers et de la mémoire de l'empire, et père du plus grand historien de la Chine, Sima Qian. Devant l'immense héritage intellectuel des siècles précédents, il entreprend de mettre de l'ordre : il classe la pensée chinoise en six grands courants — confucianistes, moïstes, légistes, logiciens, école du Yin-Yang — et forge une étiquette pour un ensemble de textes qui n'en avait pas : l'« école du Dao », la Voie.</p>
+<p>À la cour des Han, un érudit du nom de Sima Tan occupe la charge de grand astrologue-archiviste — gardien des textes, des calendriers et de la mémoire de l'empire, et père du plus grand historien de la Chine, Sima Qian. Devant l'immense héritage intellectuel des siècles précédents, il entreprend de mettre de l'ordre : il classe la pensée chinoise en six grands courants — confucianistes, moïstes, légistes, logiciens, école du Yin-Yang — et, pour le sixième, forge une étiquette pour un ensemble de textes qui n'en avait pas : l'« école du Dao », la Voie.</p>
 
 <p>C'est ainsi que naît le taoïsme — non par la volonté de ses fondateurs, mais par le classement d'un bibliothécaire. Car Laozi et Zhuangzi, séparés par les siècles et par le style, n'ont jamais fondé d'école ni prétendu appartenir au même mouvement : c'est Sima Tan qui repère leur air de famille — la méfiance envers l'artifice et les conventions, le non-agir, la relativité de toutes les valeurs, la Voie comme processus impersonnel du monde. Et il ne classe pas froidement : de ses six écoles, c'est celle-là qu'il préfère, et il le dit.</p>
 
@@ -3514,18 +3485,18 @@ tags: technology
 
 # -100 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/GFln1pn9Mhg" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GFln1pn9Mhg" data-id="GFln1pn9Mhg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/GFln1pn9Mhg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>De cette époque date la machine d'Anticythère — retrouvée en 1901 dans une épave au large de la Grèce, et si sophistiquée qu'on a longtemps refusé d'y croire : une trentaine d'engrenages de bronze d'une précision d'horloger, capables de calculer et prévoir les positions du Soleil et de la Lune, les éclipses, et même les dates des Jeux olympiques. C'est le premier ordinateur analogique connu — et un avertissement à notre arrogance : rien d'aussi complexe ne réapparaîtra avant les horloges astronomiques européennes... quatorze siècles plus tard.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/anticythere.jpg' | relative_url }}" alt="Fragment principal de la machine d'Anticythère" width="550" />
+  <img src="{{ '/assets/img/anticythere.webp' | relative_url }}" alt="Fragment principal de la machine d'Anticythère" width="550" loading="lazy" decoding="async" height="491" />
   <br /><small><em>Le fragment principal de la machine d'Anticythère et ses engrenages de bronze. Photo Marsyas, CC BY 2.5, via Wikimedia Commons.</em></small>
 </p>
 
 # -69 av. J.-C.
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/O_YGEILkdfI" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=O_YGEILkdfI" data-id="O_YGEILkdfI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/O_YGEILkdfI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance à Alexandrie de Cléopâtre VII Théa Philopator — Cléopâtre. Dernière reine de la dynastie ptolémaïque, d'origine macédonienne, qui règne sur l'Égypte depuis la mort d'Alexandre, elle sera bien plus que la séductrice de la légende : polyglotte (première de sa dynastie à parler égyptien), fine politique, elle jouera l'alliance avec les maîtres successifs de Rome — César, puis Marc Antoine — pour préserver l'indépendance de son royaume. Son intelligence et son charisme laisseront une empreinte durable dans l'histoire.</p>
 
@@ -3597,7 +3568,7 @@ tags: technology
 
 # -27 av. J.-C.
 
-<p>Le Sénat décerne à Octavien un titre qui n'existait pas : Augustus — « le vénérable », mot emprunté au vocabulaire religieux des augures. Il abandonne alors le nom sous lequel il a conquis le pouvoir. Fils adoptif de César, il s'était appelé César pour hériter de sa légitimité ; désormais il sera Auguste, et le nom deviendra celui de la fonction — tous ses successeurs le porteront après lui, pendant quinze siècles, jusqu'aux empereurs de Byzance et du Saint-Empire.</p>
+<p>Le Sénat décerne à Octavien un titre qui n'existait pas : Augustus — « le vénérable », mot emprunté au vocabulaire religieux des augures. Il abandonne alors le nom sous lequel il a conquis le pouvoir. Fils adoptif de César, il s'était appelé César pour hériter de sa légitimité ; désormais il sera Auguste, et le nom deviendra celui de la fonction — tous ses successeurs le porteront après lui, pendant près de dix-huit siècles, jusqu'aux empereurs de Byzance et du Saint-Empire.</p>
 
 <p>Officiellement, il « restaure la République ». En réalité, il en garde toutes les formes — le Sénat siège, les consuls sont élus, les rituels se perpétuent — et en vide la substance : il détient l'armée, les provinces clés, le trésor et le droit de veto. Il refuse le titre de roi, exécré à Rome depuis cinq siècles, et se présente en simple <em>princeps</em>, « premier citoyen ». Génie politique de la chose : personne ne peut le renverser au nom de la République, puisqu'il prétend l'incarner.</p>
 
@@ -3647,7 +3618,7 @@ tags: technology
 
 # 19 ans
 
-<p>Germanicus meurt en Orient, à trente-trois ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
+<p>Germanicus meurt en Orient, à trente-quatre ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
 
 # 21 ans
 
@@ -3665,7 +3636,7 @@ tags: technology
 
 # 43 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/dZwBb0tVktA" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=dZwBb0tVktA" data-id="dZwBb0tVktA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/dZwBb0tVktA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Quarante mille hommes traversent la Manche : Rome débarque en Bretagne. L'initiative revient à Claude, l'empereur le plus improbable de l'histoire romaine — bègue, boiteux, longtemps tenu pour un imbécile par sa propre famille, porté au pouvoir par les prétoriens qui l'avaient trouvé caché derrière un rideau après l'assassinat de Caligula. Un tel homme a un besoin urgent de gloire militaire : la Bretagne, île mystérieuse au bout du monde connu, que même César n'avait fait qu'effleurer, fera parfaitement l'affaire.</p>
 
@@ -3691,7 +3662,7 @@ tags: technology
 
 <p>Rome tient la Bretagne depuis seize ans, mais mal. Une partie des tribus vit sous le statut de royaumes clients : leurs rois gardent leur trône en échange de leur soumission. Ainsi Prasutagos, roi des Icènes, dans l'actuel Norfolk, riche et prudent — à sa mort, on découvre qu'il a légué par testament la moitié de son royaume à l'empereur Néron, espérant que ce cadeau garantirait l'autre moitié à ses filles.</p>
 
-<p>Le calcul échoue. Les fonctionnaires impériaux considèrent simplement que tout leur revient. Ils annexent le royaume, saisissent les terres des nobles, réclament le remboursement immédiat de prêts consentis par des créanciers romains — parmi lesquels le philosophe Sénèque, précepteur de Néron, qui avait placé là une fortune. Puis, devant la protestation de la veuve, ils vont plus loin : la reine Boudicca fut fouettée et ses filles violées. Le fouet est un châtiment d'esclave, infligé pour être vu — à travers ces corps, c'est la maison royale des Icènes que Rome efface.</p>
+<p>Le calcul échoue. Les fonctionnaires impériaux considèrent simplement que tout leur revient. Ils annexent le royaume, saisissent les terres des nobles, réclament le remboursement immédiat de prêts consentis par des créanciers romains — parmi lesquels le philosophe Sénèque, précepteur de Néron, qui avait placé là une fortune. Puis, devant la protestation de la veuve, ils vont plus loin : la reine Boudicca est fouettée et ses filles violées. Le fouet est un châtiment d'esclave, infligé pour être vu — à travers ces corps, c'est la maison royale des Icènes que Rome efface.</p>
 
 # 60 ans
 
@@ -3723,7 +3694,7 @@ tags: technology
 
 <p>Et c'est là que le calcul se retourne contre Néron. À force d'horreur, la foule cesse de haïr les condamnés : les Romains comprennent que ces gens ne meurent pas pour sauver la ville, mais pour distraire un homme. La persécution devait détourner les soupçons ; elle donne au christianisme ses premiers martyrs et sa première réputation d'innocence.</p>
 
-<p>C'est la première persécution d'État connue, et elle inaugure deux siècles d'un rapport ambigu : le pouvoir romain, d'ordinaire tolérant en matière de religions, ne sait que faire d'un culte qui refuse absolument de sacrifier aux dieux de l'Empire. La tradition situe dans ces années la mort de Pierre et de Paul à Rome. Le sang versé n'éteint rien — il donne au christianisme ses premiers martyrs, et une mémoire.</p>
+<p>C'est la première persécution d'État connue, et elle inaugure deux siècles d'un rapport ambigu : le pouvoir romain, d'ordinaire tolérant en matière de religions, ne sait que faire d'un culte qui refuse absolument de sacrifier aux dieux de l'Empire. La tradition situe dans ces années la mort de Pierre et de Paul à Rome. Le sang versé n'éteint rien.</p>
 
 # 67 ans
 
@@ -3747,7 +3718,7 @@ tags: technology
 
 # 100 ans
 
-<p>Pline l'Ancien signale un outil nouveau chez les paysans de Gaule et de Rhétie : un araire monté sur deux roues, muni d'un soc de fer. Le progrès semble modeste ; il ne l'est pas. Les roues permettent de régler la profondeur du sillon et d'attaquer des terres plus lourdes ; le fer, désormais assez répandu pour être gaspillé dans un outil agricole, coupe là où le bois se contentait de gratter.</p>
+<p>Pline l'Ancien avait signalé, peu avant sa mort au Vésuve, un outil nouveau chez les paysans de Gaule et de Rhétie : un araire monté sur deux roues, muni d'un soc de fer. Le progrès semble modeste ; il ne l'est pas. Les roues permettent de régler la profondeur du sillon et d'attaquer des terres plus lourdes ; le fer, désormais assez répandu pour être gaspillé dans un outil agricole, coupe là où le bois se contentait de gratter.</p>
 
 <p>Car l'agriculture antique laboure peu : l'araire ne retourne pas la terre, il l'ouvre — il écarte le sol de part et d'autre d'une pointe, sans jamais le renverser. Cela suffit dans les sols secs et légers du monde méditerranéen, où il faut surtout économiser l'humidité. Cela ne suffit pas dans les argiles lourdes et gorgées d'eau du Nord, qui demanderaient d'être découpées, soulevées, retournées — hors de portée de l'outillage romain.</p>
 
@@ -3913,7 +3884,7 @@ tags: technology
 
 <p>Second volet, plus radical : Théodose proscrit toute pratique païenne, y compris à domicile. Plus d'encens brûlé devant les statues de la maison, plus de libation de vin, plus de guirlande accrochée à un arbre. Ce que l'on faisait chez soi depuis mille ans devient un délit passible de confiscation.</p>
 
-<p>Les conséquences symboliques sont immenses. À Rome, le feu des vestales, entretenu sans interruption depuis les origines de la ville, est éteint. Les Jeux olympiques, célébrés tous les quatre ans depuis onze siècles, sont supprimés — ils ne renaîtront qu'en 1896.</p>
+<p>Les conséquences symboliques sont immenses. À Rome, le feu des vestales, entretenu sans interruption depuis les origines de la ville, est éteint. Les Jeux olympiques, célébrés tous les quatre ans depuis près de douze siècles, sont supprimés — ils ne renaîtront qu'en 1896.</p>
 
 <p>En moins d'un siècle, la religion qu'on suppliciait dans les jardins de Néron est devenue celle qui interdit toutes les autres. Et le mot « païen » — <em>paganus</em>, le paysan, le péquenaud des campagnes — dit assez le renversement : l'ancienne religion de l'Empire n'est plus qu'une survivance de culs-terreux.</p>
 
@@ -3931,11 +3902,9 @@ tags: technology
 
 <p>Le texte connu sous le nom de <em>Yoga Sutra</em> systématise à son tour des pratiques dont les origines sont beaucoup plus anciennes.</p>
 
-<p>Ce n'est qu'à ce stade qu'il devient raisonnable de présenter ensemble les étapes précises du yoga classique : les <em>yamas</em>, règles de conduite ; les <em>niyamas</em>, disciplines personnelles ; l'<em>asana</em>, la posture ; le <em>pranayama</em>, la maîtrise du souffle ; le retrait des sens ; la concentration ; la méditation ; et enfin l'absorption contemplative.</p>
+<p>C'est ici, et ici seulement, que ces pratiques éparses reçoivent une architecture fixe et un ordre canonique en huit membres : les <em>yamas</em>, règles de conduite ; les <em>niyamas</em>, disciplines personnelles ; l'<em>asana</em>, la posture ; le <em>pranayama</em>, la maîtrise du souffle ; le retrait des sens ; la concentration ; la méditation ; et enfin l'absorption contemplative.</p>
 
 <p>L'<em>ahimsa</em> vient avant les exercices corporels. Le yogin doit apprendre à ne pas nuire, à maîtriser ses désirs et à réduire son attachement aux possessions avant d'entreprendre les disciplines plus avancées. L'<em>asana</em> n'est encore nullement la succession complexe de postures que le monde moderne associera au yoga : il s'agit avant tout d'établir une posture stable permettant le travail méditatif.</p>
-
-<p>Vient ensuite le <em>pranayama</em>, la maîtrise du souffle. Le yogin apprend à modifier volontairement sa respiration, en contrôlant notamment inspiration, expiration et rétention. Puis la discipline devient essentiellement mentale : il retire son attention des sensations extérieures et apprend à maintenir sa concentration sans être continuellement emporté par les pensées qui surgissent.</p>
 
 # 402 ans
 
@@ -4139,7 +4108,7 @@ tags: technology
 
 # 742 ans
 
-<p>L'empire Tang est à son sommet. Xuanzong règne depuis trente ans sur peut-être cinquante millions de sujets, sa capitale Chang'an est la plus grande ville du monde, et les ambassades affluent du Japon, de Corée, d'Asie centrale, de Perse. Les caravanes de la route de la soie y déchargent l'ambre, le jade, les chevaux du Ferghana ; les ports du sud reçoivent les navires arabes et persans.</p>
+<p>L'empire Tang est à son sommet. Xuanzong règne depuis trente ans sur peut-être cinquante millions de sujets, sa capitale Chang'an est à son apogée, et les ambassades affluent du Japon, de Corée, d'Asie centrale, de Perse. Les caravanes de la route de la soie y déchargent l'ambre, le jade, les chevaux du Ferghana ; les ports du sud reçoivent les navires arabes et persans.</p>
 
 <p>C'est l'âge d'or de la poésie chinoise. Li Bai, l'ivrogne génial que la légende fera mourir noyé en voulant embrasser le reflet de la lune, et Du Fu, le grave, le témoin des malheurs du peuple, vivent à la même époque et se sont rencontrés — deux mille ans de littérature chinoise n'ont produit personne au-dessus d'eux. À la cour, l'empereur fonde une école d'acteurs et de musiciens, le Jardin des Poiriers, dont les comédiens chinois se disent encore aujourd'hui les enfants.</p>
 
@@ -4159,7 +4128,7 @@ tags: technology
 
 <p>Mais cette année-là, une révolution renverse la dynastie qui l'avait bâti. Les Omeyyades, installés à Damas, gouvernaient en aristocratie arabe : les Arabes de naissance occupaient les charges et les terres, tandis que les convertis non arabes — Persans, Berbères, Égyptiens — restaient des musulmans de seconde zone, souvent encore soumis à l'impôt réservé aux non-musulmans. Un empire où la majorité des croyants est traitée en subalterne ne peut pas tenir.</p>
 
-<p>La révolte part du Khorassan, à l'est, portée par ces convertis mécontents et par les partisans de la famille du Prophète. Elle amène au pouvoir les Abbassides, qui exterminent méthodiquement les Omeyyades — la tradition raconte qu'ils invitèrent les survivants à un banquet de réconciliation pour les massacrer sur place.</p>
+<p>La révolte part du Khorassan, à l'est, portée par ces convertis mécontents et par les partisans de la famille du Prophète. Elle amène au pouvoir les Abbassides, qui entreprennent d'exterminer méthodiquement les Omeyyades — nous y reviendrons.</p>
 
 # 755 ans
 
@@ -4183,7 +4152,7 @@ tags: technology
 
 <p>L'empereur atteindra le Sichuan. Mais son fils, resté en arrière, se fait proclamer empereur par les troupes du nord sans lui demander son avis — et Xuanzong, apprenant la nouvelle, n'a d'autre choix que de ratifier son propre effacement. Il finira ses jours comme empereur retiré, dans un palais, sous surveillance.</p>
 
-<p>Pendant ce temps, à l'autre bout du monde, un autre fuyard cherche son salut. En Syrie, cinq ans plus tôt, les Abbassides victorieux avaient entrepris d'exterminer la famille omeyyade jusqu'au dernier — non par simple cruauté, mais par calcul politique : tant qu'un prétendant légitime survit, une contre-révolution reste possible. On les traque un par un, et la tradition raconte qu'on invita les survivants à un banquet de réconciliation à Damas pour les massacrer une fois assis ; les convives furent tués sur des tapis, sous lesquels les vainqueurs achevèrent leur repas au son des agonies. On profana même les tombes des califes précédents.</p>
+<p>Pendant ce temps, à l'autre bout du monde, un autre fuyard cherche son salut. En Syrie, six ans plus tôt, les Abbassides victorieux avaient entrepris d'exterminer la famille omeyyade jusqu'au dernier — non par simple cruauté, mais par calcul politique : tant qu'un prétendant légitime survit, une contre-révolution reste possible. On les traque un par un ; du banquet de Damas, on ajoute que les convives furent tués sur des tapis, sous lesquels les vainqueurs achevèrent leur repas au son des agonies. On profana même les tombes des califes précédents.</p>
 
 <p>Un seul prince y échappa : Abd al-Rahman, vingt ans, petit-fils d'un calife. Les cavaliers abbassides le surprirent près de l'Euphrate ; il traversa le fleuve à la nage avec son jeune frère, mais celui-ci, rappelé par les poursuivants qui lui promettaient la vie sauve, fit demi-tour et fut égorgé sur la berge — Abd al-Rahman le regarda mourir depuis l'autre rive.</p>
 
@@ -4273,7 +4242,7 @@ tags: technology
 
 <p>Wuzong meurt à trente-deux ans, après six ans de règne. La cause est presque comique au regard de sa politique : les élixirs d'immortalité que lui préparaient ses maîtres taoïstes, à base de cinabre — c'est-à-dire de sulfure de mercure. Il en absorbait depuis des années, y perdant progressivement la raison et la parole. L'empereur qui avait détruit une religion au nom d'une autre est mort empoisonné par ses propres prêtres.</p>
 
-<p>Il n'est pas le premier : plusieurs empereurs Tang étaient morts de la même façon, en cherchant la vie éternelle dans des composés de mercure, d'arsenic et de plomb. L'alchimie chinoise, à force de chercher l'immortalité, avait surtout perfectionné l'art d'abréger les règnes — elle finira tout de même par produire, deux siècles plus tard, en mêlant salpêtre, soufre et charbon, une invention autrement conséquente : la poudre à canon.</p>
+<p>Il n'est pas le premier : plusieurs empereurs Tang étaient morts de la même façon, en cherchant la vie éternelle dans des composés de mercure, d'arsenic et de plomb. L'alchimie chinoise, à force de chercher l'immortalité, avait surtout perfectionné l'art d'abréger les règnes — elle finira tout de même par produire, quelques années plus tard à peine, en mêlant salpêtre, soufre et charbon, une invention autrement conséquente : la poudre à canon.</p>
 
 <p>Son successeur lève aussitôt les interdits et fait exécuter les alchimistes de la cour. Les monastères rouvrent, les moines reprennent l'habit — mais l'essentiel est perdu : les bibliothèques ont brûlé, les terres ont été redistribuées, les fondations ont disparu. Le bouddhisme chinois survivra sans jamais retrouver sa puissance, et ses grandes écoles savantes, qui vivaient de textes et de fortune, ne s'en relèveront pas.</p>
 
@@ -4287,7 +4256,7 @@ tags: technology
 
 <p>La recette voyagera ensuite vers l'ouest par les Mongols et le monde musulman. En Europe, elle fera plus que changer les armes : elle abattra les murailles, et avec elles le pouvoir des seigneurs retranchés dans leurs châteaux. Un château fort résistait des mois à une armée ; il tombera en quelques jours sous l'artillerie.</p>
 
-<p>Dans les plaines du Sistan — aux confins de l'Iran et de l'Afghanistan actuels —, les géographes arabes décrivent des machines qu'on ne trouve nulle part ailleurs. La région est balayée par un vent si constant qu'on l'appelle « le vent des cent vingt jours », et ses habitants l'ont mis au travail : des tours de brique percées de fentes qui canalisent le souffle vers un rotor tournant à l'horizontale, comme une porte à tambour, entraînant une meule à l'étage du dessous. On y moud le grain et on y pompe l'eau d'irrigation.</p>
+<p>La même époque voit naître, à l'autre bout du monde musulman, une invention d'un tout autre genre. Dans les plaines du Sistan — aux confins de l'Iran et de l'Afghanistan actuels —, les géographes arabes décrivent des machines qu'on ne trouve nulle part ailleurs. La région est balayée par un vent si constant qu'on l'appelle « le vent des cent vingt jours », et ses habitants l'ont mis au travail : des tours de brique percées de fentes qui canalisent le souffle vers un rotor tournant à l'horizontale, comme une porte à tambour, entraînant une meule à l'étage du dessous. On y moud le grain et on y pompe l'eau d'irrigation.</p>
 
 <p>La portée en est immense. Jusqu'ici, tout travail exigeait un muscle — humain, bovin ou équin — ou bien un cours d'eau, ce qui réservait les moulins aux vallées. Voici une force qui ne mange pas, ne dort pas, ne meurt pas et ne coûte rien. Depuis la voile, l'humanité n'avait pas fait pareille conquête.</p>
 
@@ -4325,7 +4294,7 @@ tags: technology
 
 # 941 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VvGlw2HCxbU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VvGlw2HCxbU" data-id="VvGlw2HCxbU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/VvGlw2HCxbU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Une flotte de plusieurs centaines de bateaux descend le Dniepr, traverse la mer Noire et se présente devant Constantinople. Ce sont les Rus' — des Scandinaves installés à Kiev depuis un siècle, mêlés aux populations slaves, dont le prince Igor mène l'expédition. Ils viennent pour le butin, comme leurs cousins vikings le font au même moment sur les côtes de France et d'Angleterre.</p>
 
@@ -4467,13 +4436,11 @@ tags: technology
 
 # 1202 ans
 
-<p>La quatrième croisade est lancée par le pape Innocent III dans le but de reconquérir Jérusalem, qui est alors sous le contrôle musulman.</p>
+<p>La quatrième croisade est lancée par le pape Innocent III. L'objectif militaire retenu n'est pas Jérusalem elle-même mais l'Égypte, tenue pour la clé de la Terre sainte : c'est en frappant le cœur de la puissance ayyoubide qu'on espère reprendre la ville.</p>
 
 # 1204 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4qOVh4R8lys" frameborder="0" allowfullscreen></iframe></p>
-
-<p>La ville de Constantinople est pillée et occupée par les croisés. En raison de diverses circonstances politiques et financières, les croisés se détournent de leur objectif initial et finissent par attaquer Constantinople, une ville chrétienne. Pendant plusieurs jours, ils dévastent la ville, détruisant de nombreux monuments et œuvres d'art, et volant d'innombrables trésors. Beaucoup de ces trésors sont emportés en Occident, notamment à Venise, qui joue un rôle clé dans la direction et le financement de la quatrième croisade.</p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4qOVh4R8lys" data-id="4qOVh4R8lys" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/4qOVh4R8lys/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Sac de Constantinople par la quatrième croisade : c'est ici que la séparation entre chrétientés latine et grecque devient irréversible. Détournée de son objectif initial (l'Égypte) par un jeu de dettes envers Venise et d'intrigues dynastiques byzantines, la croisade prend d'assaut la plus grande ville chrétienne du monde le 12 avril. Trois jours de pillage suivent : églises profanées, reliques et trésors emportés vers l'Occident, dont les chevaux de bronze de l'Hippodrome installés à Saint-Marc de Venise. Les croisés fondent un Empire latin d'Orient (1204–1261) et imposent un patriarche latin, reléguant la hiérarchie grecque en exil à Nicée.</p>
 
@@ -4481,7 +4448,7 @@ tags: technology
 
 # 1206 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/A9o_eh6qGOo" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=A9o_eh6qGOo" data-id="A9o_eh6qGOo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/A9o_eh6qGOo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Proclamation de l'Empire mongol. Temüjin se révèle être un leader charismatique et un stratège habile. Au fil des années, il réussit à unifier les tribus mongoles dissidentes, souvent par la force, mais aussi par la diplomatie et l'alliance. Lors d'un kurultai (une assemblée de chefs de clans), il est proclamé "Genghis Khan", signifiant "empereur universel".</p>
 
@@ -4491,7 +4458,7 @@ tags: technology
 
 # 1275 ans
 
-<p>La première horloge mécanique est inventée par les moines bénédictins du monastère de St. Albans en Angleterre. Cette horloge a un cadran pour afficher l'heure et son mécanisme est basé sur un système de poids et de rouages pour réguler le mouvement des aiguilles. Ces poids descendent lentement, fournissant l'énergie nécessaire pour faire tourner les roues. Un échappement, qui est un dispositif mécanique, est utilisé pour contrôler la vitesse à laquelle les roues tournent, régulant ainsi la vitesse de l'horloge. L'horloge a un cadran avec des aiguilles pour indiquer l'heure, généralement sur un cadran de 12 heures.</p>
+<p>Les premières horloges mécaniques à échappement apparaissent dans les monastères d'Europe occidentale ; la plus célèbre, celle de l'abbaye de St Albans en Angleterre, sera construite par l'abbé Richard de Wallingford vers 1330. Cette horloge a un cadran pour afficher l'heure et son mécanisme est basé sur un système de poids et de rouages pour réguler le mouvement des aiguilles. Ces poids descendent lentement, fournissant l'énergie nécessaire pour faire tourner les roues. Un échappement, qui est un dispositif mécanique, est utilisé pour contrôler la vitesse à laquelle les roues tournent, régulant ainsi la vitesse de l'horloge. L'horloge a un cadran avec des aiguilles pour indiquer l'heure, généralement sur un cadran de 12 heures.</p>
 
 <p>Les horloges mécaniques de cette époque sont souvent installées dans les églises et les monastères, où elles servent à marquer les heures pour les prières et les offices religieux. Elles ont également été utilisées pour réguler les activités quotidiennes dans les communautés locales.</p>
 
@@ -4501,7 +4468,7 @@ tags: technology
 
 # 1347 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/fbKCnLt1o-I" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=fbKCnLt1o-I" data-id="fbKCnLt1o-I" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/fbKCnLt1o-I/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La peste débarque une deuxième fois en Europe. Elle arrive d'Asie et va tuer presque 1/3 de la population européenne et presque la moitié de la population urbaine européenne.</p>
 
@@ -4529,11 +4496,11 @@ tags: technology
 
 # 1364 ans
 
-# France
+## France
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/mvIEA2dBKGA" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=mvIEA2dBKGA" data-id="mvIEA2dBKGA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/mvIEA2dBKGA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>A Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut a été composée probablement pour son installation comme chanoine à la cathédrale de Reims. Elle est donc chantée pour la première fois dans le cadre d’une célébration liturgique solennelle, sans doute en l’honneur de la Vierge Marie.</p>
+<p>À Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut a été composée probablement pour son installation comme chanoine à la cathédrale de Reims. Elle est donc chantée pour la première fois dans le cadre d’une célébration liturgique solennelle, sans doute en l’honneur de la Vierge Marie.</p>
 
 # 1388 ans
 
@@ -4553,16 +4520,16 @@ tags: technology
 
 <p>Johannes Gutenberg met au point sa première imprimerie en Allemagne. Les étapes de l'invention sont les suivantes:</p>
 
-1 créer un modèle ou un moule pour chaque lettre ou caractère que l'on souhaite imprimer. Ce moule peut être fait en bois, en plâtre ou en plastique, et il doit être assez précis pour permettre de produire des caractères de haute qualité<br/>
+1 créer un modèle ou un moule pour chaque lettre ou caractère que l'on souhaite imprimer. Ce moule est taillé dans un métal dur — un poinçon d'acier frappe une matrice de cuivre —, et il doit être assez précis pour permettre de produire des caractères de haute qualité<br/>
 2 couler du métal liquide dans chaque moule pour créer chaque caractère. Le métal doit être coulé de manière à remplir complètement le moule et à produire un caractère de haute qualité<br/>
 3 une fois que le métal refroidi et durci, on peut retirer chaque caractère du moule. Les caractères doivent être nettoyés et polis pour éliminer toutes les imperfections et les bavures de métal<br/>
 4 utiliser un mécanisme de levier pour actionner la presse et appliquer la pression nécessaire sur les caractères et le papier<br/>
 5 le levier est actionné par une personne qui tourne une manivelle ou une roue. Cette action fait bouger le levier de haut en bas, ce qui permet d'appliquer une pression sur les caractères mobiles et sur le papier<br/>
-6 le levier est relié à des rouleaux qui pressent sur les caractères mobiles et sur le papier. Ces rouleaux sont ajustables et peuvent être réglés pour produire une pression uniforme sur toute la page<br/>
+6 le levier abaisse une large plaque plane, la platine, qui presse d'un coup le papier sur toute la forme typographique<br/>
 
-<p>7 un rouleau permet de répartir la pression de manière plus uniforme sur toute la page. Si on utilisait un levier seul, la pression serait concentrée sur un seul point, ce qui pourrait endommager les caractères mobiles et le papier.</p>
+<p>C'est cette platine qui répartit la pression uniformément : appliquée en un seul point, elle écraserait les caractères et déchirerait le papier.</p>
 
-<p>Johannes Gutenberg imprime la Bible à l'aide de sa presse à imprimer. Cette Bible, connue sous le nom de la "Bible de Gutenberg" ou la "Bible à quarante-deux lignes", est le premier livre majeur imprimé en Europe à l'aide de la technologie de l'imprimerie. La Bible est un ouvrage largement demandé à l'époque, ce qui garantit un marché potentiel pour les exemplaires imprimés.</p>
+<p>Une quinzaine d'années plus tard, vers 1455, Gutenberg imprime la Bible à l'aide de sa presse. Cette Bible, connue sous le nom de la "Bible de Gutenberg" ou la "Bible à quarante-deux lignes", est le premier livre majeur imprimé en Europe à l'aide de la technologie de l'imprimerie. La Bible est un ouvrage largement demandé à l'époque, ce qui garantit un marché potentiel pour les exemplaires imprimés.</p>
 
 # 1453 ans
 
@@ -4574,13 +4541,13 @@ tags: technology
 
 # 1455 ans
 
-<p>Le Pape Nicolas V, dans son livre, Romanus Pontifex, légitimise le commerce des Africains. Le Vatican voit ici un intérêt économique évident. Mais l'intérêt est aussi religieux, en convertissant les africains au christianisme. Il accorde aux rois de Portugal le droit de "réduire en servitude" les Africains "païens" et de les emmener en Europe ou ailleurs pour les convertir au christianisme.</p>
+<p>Le pape Nicolas V, dans sa bulle Romanus Pontifex, légitimise le commerce des Africains. Le Vatican voit ici un intérêt économique évident. Mais l'intérêt est aussi religieux, en convertissant les africains au christianisme. Il accorde aux rois de Portugal le droit de "réduire en servitude" les Africains "païens" et de les emmener en Europe ou ailleurs pour les convertir au christianisme.</p>
 
 <p>Cette bulle papale est utilisée par les Portugais pour justifier leur expansion coloniale en Afrique et leur commerce des Africains comme esclaves.</p>
 
 # 1456 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/VD9vwdkoUm0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VD9vwdkoUm0" data-id="VD9vwdkoUm0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/VD9vwdkoUm0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de Valachie (actuelle Roumanie).</p>
 
@@ -4590,7 +4557,7 @@ tags: technology
 
 # 1470 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/_t-rAsC9IWc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=_t-rAsC9IWc" data-id="_t-rAsC9IWc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/_t-rAsC9IWc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Ecriture de la messe polyphonique Missa Prolationum qui est une innovation majeure parce qu’elle est entièrement construite sur des canons complexes, chaque voix imitant les autres à différentes vitesses et proportions (c’est-à-dire que la musique joue sur les durées relatives et les imitations croisées).</p>
 
@@ -4606,7 +4573,7 @@ tags: technology
 
 <p>En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, dernier bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista coïncide également avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cE0Khx9CgHQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cE0Khx9CgHQ" data-id="cE0Khx9CgHQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/cE0Khx9CgHQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Colomb débarque aux Antilles pour le compte de l'Espagne. Il découvre aussi Cuba.</p>
 
@@ -4622,7 +4589,7 @@ tags: technology
 
 # 1503 ans
 
-<p>Mise en place du système de l'« encomienda », qui permet aux colons espagnols d'obtenir le travail forcé des populations autochtones.</p>
+<p>Mise en place du système de l'« encomienda ». On regroupe sur un territoire donné les indigènes qu'on oblige à travailler dans les champs, les mines et les chantiers de construction, sous l'autorité d'un colon — officiellement chargé, en échange, de les protéger et de les évangéliser. Les populations des Antilles, d'Amérique centrale et du Sud sont ainsi réduites au travail forcé pour exploiter l'or et l'argent.</p>
 
 # 1510 ans
 
@@ -4635,7 +4602,7 @@ tags: technology
 
 # 1514 ans
 
-<p>Santiago de Cuba est fondé par le conquistador espagnol Diego Velázquez de Cuéllar. Santiago de Cuba est la première capitale de l'île et sert de base pour l'expansion espagnole dans les Caraïbes. Et en raison de sa position stratégique et de son excellent port naturel, La Havane devient rapidement un centre majeur pour le commerce et la flotte espagnole.</p>
+<p>Santiago de Cuba est fondé par le conquistador espagnol Diego Velázquez de Cuéllar. Santiago de Cuba est la première capitale de l'île et sert de base pour l'expansion espagnole dans les Caraïbes. Elle perdra ce rang quelques décennies plus tard au profit de La Havane, dont la position stratégique et l'excellent port naturel en feront le grand centre du commerce et de la flotte espagnole.</p>
 
 <p>Copernic rédige le Commentariolus, un court manuscrit dans lequel il présente pour la première fois son modèle héliocentrique selon lequel la Terre tourne autour du Soleil.</p>
 
@@ -4643,15 +4610,13 @@ tags: technology
 
 <p>Messe de Josquin des Prez.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vlB1HR4BgUg" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vlB1HR4BgUg" data-id="vlB1HR4BgUg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vlB1HR4BgUg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Cette messe est composée dans les dernières années de la vie de Josquin. Elle prend pour base l’hymne grégorien Pange lingua de Thomas d’Aquin, qu’il réinterprète librement dans chaque partie. L’innovation de cette œuvre est que Josquin ne se contente pas de citer simplement le chant original : il le transforme, le migre d’une voix à l’autre, l’intègre dans des imitations serrées et des textures polyphoniques très élaborées.</p>
 
 # 1517 ans
 
 <p>Martin Luther publie ses 95 thèses, événement traditionnellement considéré comme le début de la Réforme protestante.</p>
-
-<p>Les colons espagnoles mettent en place une forme de travail forcé afin d'exploiter les immenses richesses amérindiennes comme l'or et l'argent. On regroupe sur un territoire donné les indigènes qu'on oblige à travailler dans les champs, les mines et les chantiers de construction, sous l'autorité d'un colon. Les populations des antilles, d'amérique central et du sud sont ainsi réduites en esclavage.</p>
 
 # 1518 ans
 
@@ -4663,7 +4628,7 @@ tags: technology
 
 # 1521 ans
 
-<p>Chute de l'Empire aztéque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures, de fusils, et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.</p>
+<p>Chute de l'Empire aztèque. Le dernier empereur, Cuauhtémoc, est fait prisonnier. La supériorité technologique des Conquistadors est écrasante. Les archers aztèques font face à des Conquistadors équipés d'armures d'acier, d'arquebuses et de canons. L'utilisation des chiens et des chevaux pour la guerre effraie les guerriers aztèques, tout autant que le bruit des armes.</p>
 
 # 1524 ans
 
@@ -4695,31 +4660,31 @@ tags: technology
 
 # 1553 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Df5MLgLrL1w" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Df5MLgLrL1w" data-id="Df5MLgLrL1w" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Df5MLgLrL1w/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Naissance d'Henry IV.</p>
+<p>Naissance d'Henri IV.</p>
 
 # 1562 ans
 
-# Rome
+## Rome
 
 <p>Missa Papae Marcelli.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/BRfF7W4El60" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=BRfF7W4El60" data-id="BRfF7W4El60" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/BRfF7W4El60/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Cette messe est l’une des plus célèbres de la Renaissance. Elle est écrite dans le contexte des débats du concile de Trente, où certains craignent que la polyphonie rende les paroles incompréhensibles dans la liturgie. Palestrina montre ici qu’il est possible de composer une polyphonie riche mais claire : les voix se déploient harmonieusement, les textes restent audibles, et la musique sert la beauté — ce qui lui vaut de devenir un modèle incontournable de la musique sacrée catholique.</p>
 
 # 1572 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XXxFTsYdLpQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XXxFTsYdLpQ" data-id="XXxFTsYdLpQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XXxFTsYdLpQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Massacre de la Saint-Barthélemy. Il s'agit d'un massacre de grande ampleur de la communauté protestante française (appelée également les Huguenots) par les catholiques.</p>
 
 <p>Le massacre commence après l'ordre donné par Catherine de Médicis, la mère du roi Charles IX, de tuer les chefs protestants qui se trouvent à Paris pour les célébrations du mariage de leur chef, Henri de Navarre (futur Henri IV), avec la sœur du roi, Marguerite de Valois. Les protestants sont traqués et tués par des groupes de catholiques pendant plusieurs jours, non seulement à Paris mais aussi dans d'autres villes de France.</p>
 
-# 1582 ans
+# 1588 ans
 
-<p>Il y a à cette époque au Japon une séparation nette entre le paysan et le samurai. Le paysan ne peut pas devenir samurai et réciproquement. Cela veut donc dire que le guerrier ne peut plus cultiver un lopin de terre.</p>
+<p>Hideyoshi lance la « chasse aux sabres » : les paysans doivent rendre leurs armes, et une série d'édits fige la séparation entre le paysan et le samouraï. Le paysan ne peut pas devenir samurai et réciproquement. Cela veut donc dire que le guerrier ne peut plus cultiver un lopin de terre.</p>
 
 <p>Le statut de samouraï est aussi héréditaire et ne peut être acquis qu'en étant né dans une famille de samouraïs. Les paysans, qui n'appartiennent pas à cette classe, ne peuvent donc pas devenir samouraïs, même s'ils le souhaitent.</p>
 
@@ -4729,7 +4694,7 @@ tags: technology
 
 <p>Les Intermèdes de La Pellegrina.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/MeIG80r4yqM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=MeIG80r4yqM" data-id="MeIG80r4yqM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/MeIG80r4yqM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>On célèbre le mariage de Ferdinando de Médicis, grand-duc de Toscane, avec Christine de Lorraine, petite-fille de Catherine de Médicis. Les Médicis, mécènes puissants, veulent impressionner les invités venus de toute l’Europe. La cérémonie religieuse a lieu à la basilique San Lorenzo, mais le véritable clou des festivités est donné au théâtre des Uffizi : une représentation de la comédie La Pellegrina de Girolamo Bargagli, entrecoupée de six somptueux intermèdes musicaux et scéniques.</p>
 
@@ -4747,7 +4712,7 @@ tags: technology
 
 # 1602 ans
 
-<p>La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la compagnie néerlandaise des indes occidentales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Elle emploie plus de 1 000 000 de travailleurs partout en Europe ainsi que 4785 navires qui font le commerce de marchandises. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bateaux. Lorsque les bateaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.</p>
+<p>La bourse d'Amsterdam voit le jour. Le volume et la fluidité du marché financier s'agrandissent. Cette bourse ne sert qu'à la vente et l'achat d'actions de la Compagnie néerlandaise des Indes orientales (VOC). La branche législative du gouvernement des Pays-Bas garantit à cette entreprise un monopole de commerce de 21 ans en Asie. L'entreprise remporte un succès fulgurant pendant 200 ans d'existence. Sur ces deux siècles, elle emploiera au total près d'un million de personnes et armera quelque 4 800 navires. La compagnie finance ses expéditions maritimes par la vente d'actions. Ces dernières permettent de financer des bateaux. Lorsque les bateaux reviennent d'Asie chargés d'épices et de textiles, une part importante des bénéfices est divisée entre les actionnaires. La bourse d'Amsterdam joue donc un rôle fondamental dans la croissance du VOC puisqu'elle garantit aux investisseurs un espace bien réglementé dans lequel les investisseurs peuvent acheter et vendre leurs actions. Cette bourse rencontre un énorme succès et permet donc de diversifier ses produits financiers. Il est désormais possible de spéculer sur beaucoup de biens de consommations.</p>
 
 # 1603 ans
 
@@ -4755,19 +4720,19 @@ tags: technology
 
 # 1607 ans
 
-<p>La colonie anglaise la plus ancienne et la plus célèbre en Amérique est fondée à Jamestown, en Virginie. 7 millions d'amérindiens s'étendent entre les grands lacs et la Floride.</p>
+<p>La colonie anglaise la plus ancienne et la plus célèbre en Amérique est fondée à Jamestown, en Virginie. Les nouveaux venus ne débarquent pas sur une terre vide : entre les Grands Lacs et la Floride vivent alors plusieurs millions d'Amérindiens — les estimations varient beaucoup, et les épidémies apportées par les Européens en emporteront la plus grande part avant même que la colonisation ne progresse vers l'intérieur.</p>
 
-# Italie
+## Italie
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jUep3sqe35o" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jUep3sqe35o" data-id="jUep3sqe35o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/jUep3sqe35o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L’Orfeo est créé en 1607 à Mantoue, une petite cité du nord de l’Italie (en Lombardie actuelle). Mantoue n’est pas une capitale comme Rome ou Venise, mais une cour prestigieuse dirigée par les Gonzague, une famille princière très influente à la Renaissance. Le duc Vincenzo Gonzague veut rivaliser en éclat culturel avec Florence, qui a vu naître les premiers opéras (Peri, Caccini). Nous sommes ici en plein début du Baroque. Les intellectuels italiens, influencés par la Renaissance et l’Antiquité redécouverte, cherchent à réinventer la tragédie grecque en musique. C’est donc à Mantoue, dans une petite cour italienne mais très cultivée, que naît le premier opéra pleinement accompli de l’histoire.</p>
 
 # 1609 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/hvw1dFM_zqs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=hvw1dFM_zqs" data-id="hvw1dFM_zqs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/hvw1dFM_zqs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Galilée perfectionne le télescope et commence à l'utiliser pour observer le ciel. Grâce à ses observations, il fait plusieurs découvertes révolutionnaires :</p>
+<p>Galilée perfectionne le télescope et commence à l'utiliser pour observer le ciel. En quelques mois, entre la fin de cette année et 1610, il enchaîne les découvertes révolutionnaires :</p>
 
 <p>    Les cratères et montagnes de la Lune : Contrairement à la croyance populaire de l'époque, qui voyait la Lune comme un corps céleste parfaitement lisse et sphérique, Galilée observe des cratères et des montagnes, démontrant que la surface de la Lune était irrégulière.</p>
 
@@ -4781,7 +4746,7 @@ tags: technology
 
 <p>Claudio Monteverdi – Vespro della Beata Vergine.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/0FXECUmqBxQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=0FXECUmqBxQ" data-id="0FXECUmqBxQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/0FXECUmqBxQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Probablement chanté à Mantoue, dans le cadre de la chapelle ducale des Gonzague. Monteverdi combine l’héritage polyphonique de Palestrina avec de nouveaux styles (solistes, instruments, contrastes) qui annoncent l’opéra et la musique baroque. C’est considéré comme la première grande œuvre sacrée baroque, un chef-d’œuvre qui ouvre un monde nouveau.</p>
 
@@ -4799,15 +4764,15 @@ tags: technology
 
 # 1675 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ilWgr42sdjE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ilWgr42sdjE" data-id="ilWgr42sdjE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ilWgr42sdjE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Baruch Spinoza écrit son œuvre "Éthique". Bien qu'il l'achève en 1675, l'ouvrage ne sera publié qu'après sa mort en 1677, du fait de ses idées considérées comme controversées. Spinoza avance l'idée que Dieu et la Nature (ou l'univers) sont la même chose, ce qui s'oppose à la conception traditionnelle d'un Dieu transcendant. Cette idée est souvent qualifiée de panthéiste.</p>
 
 # 1685 ans
 
-<p>Colbert, ministre des finances de Louis XIV rédige le Code Noir, réglementant le rapport entre maître et esclave dans les colonies. A l'origine, il a pour but de réaffirmer l'autorité royale face aux colons afin de limiter les exactions sur les esclaves dans un but précis: favoriser la production pour engranger un maximum de bénéfices. Ce Code Noir autorise de fouetter des esclaves avec des cordes et non des batons pour ne pas leur casser les os. Le propriétaire peut les mutiler en cas de fuite. On peut couper une oreille et marquer une épaule au fer rouge. En cas de récidive, on coupe une jambe et on marque l'autre épaule de la même manière. Enfin en cas d'une troisième tentative de fuite, le maître a le droit d'ôter la vie de son esclave.</p>
+<p>Louis XIV promulgue le Code Noir, préparé par l'administration de Colbert (mort deux ans plus tôt) et achevé par son fils Seignelay, réglementant le rapport entre maître et esclave dans les colonies. A l'origine, il a pour but de réaffirmer l'autorité royale face aux colons afin de limiter les exactions sur les esclaves dans un but précis: favoriser la production pour engranger un maximum de bénéfices. Ce Code Noir autorise de fouetter des esclaves avec des cordes et non des batons pour ne pas leur casser les os. Le propriétaire peut les mutiler en cas de fuite. On peut couper une oreille et marquer une épaule au fer rouge. En cas de récidive, on coupe une jambe et on marque l'autre épaule de la même manière. Enfin en cas d'une troisième tentative de fuite, le maître a le droit d'ôter la vie de son esclave.</p>
 
-# Allemagne
+## Allemagne
 
 <p>Naissance à Eisenach, dans une grande famille de musiciens allemands (plusieurs générations d’organistes, violonistes et compositeurs) de Johann Sebastian Bach. Orphelin très jeune (à 10 ans), il est recueilli par son frère aîné Johann Christoph, organiste, qui lui transmet une partie de son savoir.</p>
 
@@ -4821,7 +4786,7 @@ tags: technology
 
 1 supprimant les lourdes taxes sur les manufactures<br/>
 2 instituant un impôt foncier de 20%<br/>
-3 créant une banque nationale d'Angleterre afin de soutenir le développement des manufactures par des prêts<br/>
+3 créant, quelques années plus tard (1694), la Banque d'Angleterre afin de soutenir le développement des manufactures par des prêts<br/>
 
 <p>La croissance économique qui suit est énorme. Tandis que l'Europe continentale s'enfonce de plus en plus dans la récession, ces réformes économiques (la révolution financière britannique) favorisent l'avènement de la révolution industrielle.</p>
 
@@ -4835,7 +4800,7 @@ tags: technology
 
 # 1721 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/HTm2kEAfo8o" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=HTm2kEAfo8o" data-id="HTm2kEAfo8o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/HTm2kEAfo8o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Bach offre Les Concertos Brandebourgeois au margrave de Brandebourg, d’où leur nom. Ce sont six concertos pour orchestre, chacun avec une instrumentation différente (clavecin soliste, violon, flûte, cors, trompettes, etc.). Bach traite chaque concerto comme une expérience unique, explorant toutes les couleurs possibles d’un orchestre baroque. C’est presque une démonstration de ce que pouvait faire la musique instrumentale de son temps. Jusqu’alors, le concerto était surtout italien (Vivaldi). Bach reprend la forme et la pousse à son extrême, en créant une variété inégalée. C’est l’équivalent d’un “album complet” de musique instrumentale baroque.</p>
 
@@ -4845,7 +4810,7 @@ tags: technology
 
 # 1725 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/GRxofEmo3HA" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GRxofEmo3HA" data-id="GRxofEmo3HA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/GRxofEmo3HA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Publication des 4 saisons de Vivaldi. Ce recueil est publié avec une dédicace à un noble italien (le comte Wenzel von Morzin), ce qui renforce sa diffusion dans les cercles aristocratiques européens.</p>
 
@@ -4853,7 +4818,7 @@ tags: technology
 
 <p>Carl Linnaeus publie le Systema Naturae, ouvrage qui contribue à diffuser les classifications raciales utilisées par les Européens pour justifier l'esclavage des Africains et les hiérarchies raciales dans les colonies américaines.</p>
 
-# 1740 ans
+# 1744 ans
 
 <p>Mohammed ben Abdelwahhab s'allie avec Mohammed Ibn Saoud pour donner une légitimité religieuse à la famille Al Saoud sur les autres tribus arabes. Sa doctrine religieuse, appelée wahhabisme, met l'accent sur la pureté de l'islam et la nécessité de retourner aux pratiques et croyances originales de l'islam, telles qu'elles sont décrites dans le Coran et la tradition prophétique (sunna). Il prône également l'obéissance absolue aux commandements de Dieu et à la loi islamique (sharia), ainsi que l'importance de l'enseignement de l'islam et de la diffusion de la doctrine islamique à travers le monde.</p>
 
@@ -4873,19 +4838,19 @@ tags: technology
 
 # 1757 ans
 
-<p style="text-align:center"><img src="/assets/img/mine.jpg" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/mine.webp" alt="" width="400" loading="lazy" decoding="async" height="246" /></p>
 
 <p>Dans le nord de la France, première société charbonnière créée par une association de nobles de la région. Cette société s'appelle: "Compagnie des mines d'Anzin".</p>
 
 # 1769 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LaYSECG6yIo" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LaYSECG6yIo" data-id="LaYSECG6yIo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/LaYSECG6yIo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction. Elles jouent un rôle important dans la révolution industrielle en fournissant une source d'énergie alternative aux moyens traditionnels tels que les chevaux et les eaux courantes.</p>
 
 # 1770 ans
 
-<p>Des soldats britanniques tirent sur une manifestation à Boston. On relève 7 morts.</p>
+<p>Des soldats britanniques tirent sur une foule à Boston. On relève 5 morts.</p>
 
 # 1774 ans
 
@@ -4901,7 +4866,7 @@ tags: technology
 
 <p>Publication de The Wealth of Nations (An Inquiry into the Nature and Causes of the Wealth of Nations). Adam Smith y développe les principes fondamentaux du libéralisme économique, notamment l'idée que la recherche du profit peut favoriser la croissance économique par l'investissement et la création d'emplois.</p>
 
-# Etats-Unis
+## Etats-Unis
 
 <p>Les États-Unis déclarent leur indépendance le 4 juillet 1776, lorsque la Déclaration d'Indépendance est adoptée par le Congrès Continental. La Déclaration d'Indépendance, rédigée par Thomas Jefferson, énonce les raisons pour lesquelles les colonies se séparent de l'Empire britannique et proclament leur indépendance en tant que nouveau pays, les États-Unis d'Amérique.</p>
 
@@ -4915,7 +4880,7 @@ tags: technology
 
 # 1781 ans
 
-<p>James Watt brevette sa première machine à vapeur dans le but de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.</p>
+<p>James Watt brevette sa machine à vapeur rotative — après le condenseur séparé de 1769, c'est elle qui permet enfin d'entraîner des machines tournantes, et non plus seulement de pomper. Le but est de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.</p>
 
 # 1783 ans
 
@@ -4937,7 +4902,7 @@ tags: technology
 
 # 1788 ans
 
-<p>Symington construit le "Charlotte Dundas", un bateau à vapeur expérimental propulsé par une machine à vapeur.</p>
+<p>William Symington fait naviguer sur le loch Dalswinton, en Écosse, un bateau à vapeur expérimental. Il construira quinze ans plus tard le « Charlotte Dundas », premier remorqueur à vapeur réellement opérationnel.</p>
 
 # 1790 ans
 
@@ -4947,11 +4912,11 @@ tags: technology
 
 # 1791 ans
 
-<p>Toussaint Louverture inflige une série de revers aux colons français. Il réussit notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions en Haïti et réussit à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.</p>
+<p>Toussaint Louverture inflige une série de revers aux colons français. Il réussit notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions de Saint-Domingue — l'île ne prendra le nom d'Haïti qu'à son indépendance, en 1804 — et réussit à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.</p>
 
 # 1793 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/FKnSmFTB4Cg" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=FKnSmFTB4Cg" data-id="FKnSmFTB4Cg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/FKnSmFTB4Cg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Une guerre civile en France oppose les forces révolutionnaires françaises aux forces royalistes et catholiques de la région de Vendée, dans l'ouest de la France. Cette guerre est communément appelée la Guerre de Vendée.</p>
 
@@ -4963,13 +4928,13 @@ tags: technology
 
 # 1794 ans
 
-<p>La France est le premier pays à abolir l'esclavage. Sauf en Martinique qui passe sous domination britannique.</p>
+<p>La Convention abolit l'esclavage dans les colonies françaises — l'une des toutes premières abolitions générales décidées par un État. Elle ne s'applique pas à la Martinique, passée sous domination britannique. Napoléon rétablira l'esclavage huit ans plus tard.</p>
 
 # 1796 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/cOSKe7JTavo" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cOSKe7JTavo" data-id="cOSKe7JTavo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/cOSKe7JTavo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/h63CYPjgwK0" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=h63CYPjgwK0" data-id="h63CYPjgwK0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/h63CYPjgwK0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le premier vaccin contre la variole est inventé par Edward Jenner. Le vaccin de Jenner est basé sur l'observation que les personnes ayant été exposées à la variole bovine (une maladie similaire à la variole humaine mais moins grave) sont moins susceptibles de développer la variole humaine. Le vaccin de Jenner est le premier vaccin de l'histoire et joue un rôle crucial dans la lutte contre la variole et la réduction de sa mortalité.</p>
 
@@ -4987,9 +4952,9 @@ tags: technology
 
 # 1802 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/jY9ug_p-B8g" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jY9ug_p-B8g" data-id="jY9ug_p-B8g" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/jY9ug_p-B8g/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>La Martinique redevient française, année où Napoléon rétablit l'esclavage. Il le rétablit également dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.</p>
+<p>La Martinique redevient françaisee, année où Napoléon rétablit l'esclavage. Il le rétablit également dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.</p>
 
 # 1807 ans
 
@@ -5001,7 +4966,7 @@ tags: technology
 
 # 1808 ans
 
-<p>L'esclavage est supprimé au Royaume-Uni. Cette loi est adoptée en réponse aux pressions exercées par les mouvements abolitionnistes et est l'une des premières lois de ce type adoptées en Europe.</p>
+<p>L'interdiction de la traite entre en application dans tout l'Empire britannique. L'esclavage lui-même, en revanche, n'y sera aboli qu'en 1833 : interdire le commerce des captifs et libérer ceux qui sont déjà réduits en servitude sont deux décisions distinctes, séparées d'un quart de siècle.</p>
 
 # 1810 ans
 
@@ -5015,7 +4980,7 @@ tags: technology
 
 # 1820 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2jHtTpLGn-4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2jHtTpLGn-4" data-id="2jHtTpLGn-4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/2jHtTpLGn-4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Trois dernières sonates pour piano de Beethoven, les Opus 109, 110 et 111, souvent considérées comme le sommet de son œuvre pianistique. Ces trois sonates ont été composées, alors que Beethoven avait environ 50 à 52 ans, presque totalement sourd. Elles marquent la dernière période créatrice du compositeur, dite période tardive, où son style devient à la fois introspectif, spirituel et expérimental. Son univers musical se détache des conventions classiques pour explorer de nouvelles formes, une liberté rythmique et harmonique.</p>
 
@@ -5031,7 +4996,7 @@ tags: technology
 
 # 1825 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/4r9cIp9vwCY" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4r9cIp9vwCY" data-id="4r9cIp9vwCY" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/4r9cIp9vwCY/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>A Haïti, le président Boyer signe un accord avec la France qui permet à Haïti de devenir officiellement reconnu comme une nation indépendante par la France. Toutefois, cet accord impose à Haïti de payer une indemnité de 150 millions de francs-or à la France en échange de cette reconnaissance. Cette somme considérable est perçue comme une forme de chantage économique par Haïti, qui doit emprunter de l'argent auprès de banques françaises pour la payer. Cette dette est un fardeau pour le pays pendant de nombreuses décennies et entrave son développement économique.</p>
 
@@ -5039,7 +5004,7 @@ tags: technology
 
 <p>La plus ancienne photographie de l'histoire. Cette image, connue sous le nom de "View from the Window at Le Gras", est prise depuis la fenêtre d'une maison de campagne près de Chalon-sur-Saône, en France.</p>
 
-<p style="text-align:center"><img src="/assets/img/viewfromwindow.png" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/viewfromwindow.webp" alt="" width="400" loading="lazy" decoding="async" height="278" /></p>
 
 # 1827 ans
 
@@ -5057,9 +5022,9 @@ tags: technology
 
 # 1831 ans
 
-<p>Invention de la moissonneuse-batteuse par Cyrus McCormick, un inventeur américain. Cette invention révolutionnaire transforme le processus de récolte des cultures céréalières telles que le blé, l'orge et l'avoine.</p>
+<p>Invention de la moissonneuse mécanique (le « reaper ») par Cyrus McCormick, un inventeur américain. Cette invention révolutionnaire transforme le processus de récolte des cultures céréalières telles que le blé, l'orge et l'avoine.</p>
 
-<p>La moissonneuse-batteuse est une machine tirée par des chevaux ou des bœufs, équipée d'une barre de coupe pour couper les tiges de céréales, et d'un mécanisme de battage pour séparer les grains de la paille. Avant l'invention du "Reaper", la récolte des céréales se fait à la main, ce qui est une tâche laborieuse et fastidieuse nécessitant de nombreuses mains-d'œuvre.</p>
+<p>La moissonneuse est une machine tirée par des chevaux ou des bœufs, équipée d'une barre de coupe qui tranche les tiges et d'un rabatteur qui les couche sur une plate-forme. Le battage, lui, reste une opération distincte : il faudra encore un demi-siècle pour que les deux soient réunis dans la moissonneuse-batteuse. Avant l'invention du "Reaper", la récolte des céréales se fait à la main, ce qui est une tâche laborieuse et fastidieuse nécessitant de nombreuses mains-d'œuvre.</p>
 
 # 1832 ans
 
@@ -5069,13 +5034,13 @@ tags: technology
 
 # 1835 ans
 
-<p>L'ascenseur à vapeur est inventé par le britannique Sir William Armstrong pour les mines et les usines.</p>
+<p>Les premiers monte-charges à vapeur équipent les mines et les usines britanniques. L'hydraulique, que William Armstrong développera à partir des années 1840, prendra bientôt le relais.</p>
 
 # 1837 ans
 
 <p>Samuel Morse invente le télégraphe électrique, un appareil qui permet de transmettre des messages codés à l'aide d'impulsions électriques le long d'un fil.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7e522NK7gcM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7e522NK7gcM" data-id="7e522NK7gcM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/7e522NK7gcM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le télégraphe de Samuel Morse fonctionne de la manière suivante:</p>
 
@@ -5085,13 +5050,13 @@ tags: technology
 
 # 1839 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/amQ3OLsf1Hc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=amQ3OLsf1Hc" data-id="amQ3OLsf1Hc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/amQ3OLsf1Hc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>En Chine, tout l'opium est détruit puis jeté à la mer. La destruction de l'opium est effectuée de manière spectaculaire, avec l'utilisation de navires et de bateaux pour jeter les réserves d'opium à la mer ou les brûler publiquement. Cette action est menée en présence de témoins et de journalistes étrangers, afin de montrer au monde la détermination de la Chine à mettre fin au trafic d'opium.</p>
 
-<p>Le Japon s'inquiète de la présence récurrente de navires étrangers autour de ses côtes et voit la menace se préciser après la première guerre de l'opium où le Royaume-Uni impose par la force un traité d'ouverture du commerce aux chinois (Traité de Nankin).</p>
+<p>Le Japon s'inquiète de la présence récurrente de navires étrangers autour de ses côtes. La menace se précisera trois ans plus tard, quand le Royaume-Uni imposera par la force aux Chinois, au terme de la première guerre de l'opium, un traité d'ouverture du commerce : le traité de Nankin.</p>
 
-<p>L'astronome français Alexandre-Edmond Becquerel observe que certains matériaux produisent une petite quantité de courant électrique lorsqu'ils sont exposés à la lumière. Parmi les matériaux qu'il étudie figurent l'or, l'argent et le platine. Il découvre que cet effet est dû à l'excitation des électrons dans les matériaux par la lumière.</p>
+<p>Le physicien français Alexandre-Edmond Becquerel observe que certains matériaux produisent une petite quantité de courant électrique lorsqu'ils sont exposés à la lumière. Parmi les matériaux qu'il étudie figurent l'or, l'argent et le platine. Il découvre que cet effet est dû à l'excitation des électrons dans les matériaux par la lumière.</p>
 
 # 1840 ans
 
@@ -5101,7 +5066,7 @@ tags: technology
 
 # 1841 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ybUbu-7l0Fc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ybUbu-7l0Fc" data-id="ybUbu-7l0Fc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ybUbu-7l0Fc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Cession de Hong-Kong. Hong-Kong passe au Royaume-Uni.</p>
 
@@ -5111,7 +5076,7 @@ tags: technology
 
 # 1844 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/o53cy136jTs" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=o53cy136jTs" data-id="o53cy136jTs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/o53cy136jTs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Alexandre Dumas, un écrivain et dramaturge français prolifique, publie deux de ses œuvres les plus célèbres : "Les Trois Mousquetaires" et "Le Comte de Monte-Cristo". Ces deux romans sont publiés sous forme de feuilletons dans des journaux français, ce qui était courant à l'époque.</p>
 
@@ -5125,7 +5090,7 @@ tags: technology
 
 # 1848 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vGZGx7c5jl8" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vGZGx7c5jl8" data-id="vGZGx7c5jl8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vGZGx7c5jl8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Des mines d'or sont découvertes en Californie. Attiré par la fortune, c'est le début de la célèbre ruée vers l'or qui suscite l'intérêt de nombreuses personnes désireuses de s'enrichir rapidement. Cela entraîne un afflux massif de population vers ces régions, qui voient leur population augmenter de façon spectaculaire en peu de temps.</p>
 
@@ -5135,9 +5100,7 @@ tags: technology
 
 # 1852 ans
 
-<p>John Snow établit que le choléra se propage par l'eau, et non par l'air et la puanteur comme on le croyait. L'eau ne doit donc plus seulement être acheminée, elle doit être traitée. On en veut partout, en quantité, et propre.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/UtkAJscxbZU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UtkAJscxbZU" data-id="UtkAJscxbZU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/UtkAJscxbZU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Elisha Otis invente un système de sécurité pour les ascenseurs à câble, empêchant la cabine de tomber si le câble principal se casse.</p>
 
@@ -5154,19 +5117,19 @@ tags: technology
 # 1854 ans
 
 <p>Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante.</p>
-<p>Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir trois ports aux américains.</p>
+<p>Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir deux ports aux américains : Shimoda et Hakodate.</p>
 
-<p>Epidémie de choléra à Londres. C'est la concentration urbaine qui pose problème.</p>
+<p>Épidémie de choléra à Londres : c'est la concentration urbaine qui pose problème. Un médecin du quartier de Soho, John Snow, relève l'adresse de chaque victime sur un plan et voit les décès se resserrer autour d'une seule pompe, rue Broad. Il fait démonter son bras, l'épidémie reflue — et il établit ainsi que le choléra se propage par l'eau, et non par l'air et la puanteur comme on le croyait. Il faudra encore trente ans pour qu'on identifie le microbe en cause, mais la conclusion pratique est déjà là : l'eau ne doit plus seulement être acheminée, elle doit être traitée. On en veut partout, en quantité, et propre.</p>
 
 # 1856 ans
 
-<p>Début de la seconde guerre de l'opium. Elle oppose la Chine à une coalition de puissances étrangères, principalement la Grande-Bretagne, la France et les États-Unis. Le conflit débute lorsque les autorités chinoises saisissent et brûlent une cargaison d'opium appartenant à des marchands britanniques.</p>
+<p>Début de la seconde guerre de l'opium. Elle oppose la Chine à une coalition de puissances étrangères, la Grande-Bretagne et la France. Le conflit débute avec l'affaire de l'Arrow : les autorités chinoises arraisonnent à Canton un navire battant pavillon britannique, accusé de contrebande et de piraterie.</p>
 
 # 1858 ans
 
 <p>Un émissaire américain revient au Japon et parvient à négocier un nouveau traité: le traité Harris.</p>
 
-1 4 nouveaux ports sont ouverts aux américains (ce qui en fait 7 au total)<br/>
+1 quatre nouveaux ports sont ouverts aux américains (ce qui en fait six au total)<br/>
 2 les droits de douanes sont faibles<br/>
 3 les américains sont jugés comme des américains au Japon<br/>
 
@@ -5196,7 +5159,7 @@ tags: technology
 
 <p>La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage. Par exemple, il prend une série de photographies intitulée "The Dead of Antietam", qui montre les soldats morts sur le champ de bataille de la bataille de Antietam.</p>
 
-<p>Abraham Lincoln abolit l'esclavage. Lincoln prend cette décision pour plusieurs raisons. Tout d'abord, il considère l'esclavage comme une injustice et un obstacle à la réalisation des idéaux de liberté et d'égalité auxquels il croit. Il déclare que tous les esclaves du Sud sont libres et ordonne aux forces militaires de l'Union de respecter cette décision. Cette proclamation a un impact immédiat sur les esclaves du Sud, qui commencent à fuir les plantations pour se joindre aux forces de l'Union.</p>
+<p>Abraham Lincoln proclame l'émancipation des esclaves des États en rébellion — l'abolition proprement dite ne viendra qu'avec le Treizième Amendement, deux ans plus tard. Lincoln prend cette décision pour plusieurs raisons. Tout d'abord, il considère l'esclavage comme une injustice et un obstacle à la réalisation des idéaux de liberté et d'égalité auxquels il croit. Il déclare que tous les esclaves du Sud sont libres et ordonne aux forces militaires de l'Union de respecter cette décision. Cette proclamation a un impact immédiat sur les esclaves du Sud, qui commencent à fuir les plantations pour se joindre aux forces de l'Union.</p>
 
 # 1864 ans
 
@@ -5208,7 +5171,7 @@ tags: technology
 
 <p>Le Congrès des États-Unis adopte le Treizième Amendement à la Constitution, qui abolit l'esclavage.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-GjrosEoZwc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-GjrosEoZwc" data-id="-GjrosEoZwc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-GjrosEoZwc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politiques de Lincoln concernant l'abolition de l'esclavage. L'assassinat de Lincoln est l'un des événements les plus marquants de l'histoire des États-Unis et a un impact profond sur le pays. Lincoln est considéré comme l'un des présidents les plus importants de l'histoire américaine et reste un symbole de l'unité et de l'égalité pour tous les Américains.</p>
 
@@ -5226,7 +5189,7 @@ tags: technology
 
 # 1870 ans
 
-<p>Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port d'arme des Samourai est interdit.</p>
+<p>Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port du sabre, lui, ne sera interdit qu'en 1876, par l'édit Haitōrei.</p>
 
 <p>Début de la sidérurgie aux Etats-Unis. La sidérurgie est l'industrie qui produit de l'acier à partir de matières premières telles que le minerai de fer et le charbon. L'acier est un alliage métallique composé principalement de fer et de carbone, et il est utilisé dans de nombreuses applications industrielles, y compris la construction de bâtiments, de ponts, de chemins de fer et d'autres infrastructures.</p>
 
@@ -5245,10 +5208,6 @@ tags: technology
 <p>Les japonais veulent mener une nouvelle guerre à la Corée dans un but impérialiste. Cette volonté est portée par les anciens fiefs rebelles peut-être dans le but de trouver un sens de leur ancien mode de vie guerrier. Le gouvernement refuse. Les révoltes éclatent alors.</p>
 
 <p>Naissance du jean Levi's à San Francisco.</p>
-
-# 1874 ans
-
-<p>Dernière pandémie de peste en Asie, également connue sous le nom de pandémie de peste de Hong Kong, qui fait 12 millions de morts.</p>
 
 # 1876 ans
 
@@ -5270,7 +5229,7 @@ tags: technology
 
 # 1882 ans
 
-<p>Première centrale hydroélectrique est construite en Suisse, par l'ingénieur suisse Francis Turbine.</p>
+<p>La première centrale hydroélectrique commerciale est mise en service à Appleton, dans le Wisconsin. Elle est équipée d'une turbine du type mis au point par l'ingénieur James B. Francis, dont le principe équipe encore aujourd'hui la majorité des barrages du monde.</p>
 
 <p>Voici comment fonctionne l'énergie hydraulique pour produire de l'électricité:</p>
 
@@ -5304,7 +5263,7 @@ tags: technology
 
 <p>Lors de la Conférence de Berlin, les puissances européennes reconnaissent l'État indépendant du Congo comme propriété personnelle du roi Léopold II. Cette période est marquée par l'exploitation intensive du caoutchouc et de l'ivoire ainsi que par de nombreuses violences contre les populations locales.</p>
 
-<p>L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps qu'il a développé en collaboration avec Gottlieb Daimler.</p>
+<p>L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps de sa propre conception — Gottlieb Daimler travaille au même moment sur le sien, à quelques dizaines de kilomètres de là, sans que les deux hommes se soient jamais rencontrés.</p>
 
 # 1886 ans
 
@@ -5312,7 +5271,7 @@ tags: technology
 
 # 1887 ans
 
-<p>Invention du premier moulin à vent moderne pour fabriquer de l'électricité. Il est construit en Norvège par Johan Gustave de Laval et fonctionne de la même manière que les éoliennes d'aujourd'hui.</p>
+<p>Invention du premier moulin à vent produisant de l'électricité. L'Écossais James Blyth en dresse un dans son jardin de Marykirk pour éclairer sa maison ; l'Américain Charles Brush en construit un bien plus grand à Cleveland l'année suivante. Le principe est celui des éoliennes d'aujourd'hui.</p>
 
 <p>Voici comment il fonctionne:</p>
 
@@ -5330,7 +5289,7 @@ tags: technology
 
 # 1890 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/V-Qv9TfG6dw" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V-Qv9TfG6dw" data-id="V-Qv9TfG6dw" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/V-Qv9TfG6dw/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La bicyclette devient extrêmement populaire parmi les femmes. Cette période est souvent appelée le "bicycle craze" ou la "bicyclette folie".</p>
 
@@ -5345,6 +5304,8 @@ tags: technology
 <p>Ford trouve assez de temps et d'argent pour étudier les moteurs à essence. Les moteurs de l'époque sont des moteurs à vapeur.</p>
 
 # 1894 ans
+
+<p>La troisième pandémie de peste, partie du Yunnan, atteint Hong Kong et se diffuse par voie maritime dans le monde entier ; elle fera une douzaine de millions de morts, surtout en Inde et en Chine. C'est au cours de cette épidémie que le bacille sera identifié à Hong Kong par Alexandre Yersin.</p>
 
 <p>Le Coca Cola a rapidement gagné en popularité et est commercialisé sous forme de boisson gazeuse en bouteille.</p>
 
@@ -5378,17 +5339,17 @@ tags: technology
 
 # 1901 ans
 
-<p>Marconi réussit à envoyer un signal radio transatlantique de l'Angleterre aux États-Unis. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.</p>
+<p>Marconi réussit à envoyer un signal radio transatlantique des Cornouailles anglaises à Terre-Neuve. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.</p>
 
 # 1903 ans
 
-<p>Premier vol motorisé de l'histoire. Le moteur parvient à parcourir une distance de 40 mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.</p>
+<p>Premier vol motorisé de l'histoire. L'appareil des frères Wright parcourt une quarantaine de mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.</p>
 
-<p>Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 000 dollars et produit son premier véhicule, le modèle A, en 1903. Il décide de créer une nouvelle méthode de travail qui consiste à décomposer le travail de l'ouvrier en tâches simples et élémentaires. Ca permet une simplification des gestes et donc une augmentation de la productivité.</p>
+<p>Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 000 dollars et produit son premier véhicule, le modèle A, en 1903. Dix ans plus tard, il imposera une méthode de travail nouvelle, qui consiste à décomposer la tâche de l'ouvrier en gestes simples et élémentaires : la chaîne de montage, et avec elle un bond de productivité.</p>
 
 <em>"L'homme qui place une pièce ne la fixe pas. L'homme qui place un boulon, ne met pas l'écrou. Et l'homme qui place l'écrou, ne le visse pas!".</em>
 
-# Russie
+## Russie
 
 <p>Lors du congrès du Parti ouvrier social-démocrate russe, le mouvement se divise entre Bolcheviks et Mencheviks.</p>
 
@@ -5400,13 +5361,13 @@ tags: technology
 
 <p>On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà connu pour ses propriétés désinfectantes, et les ingénieurs français développent un procédé pour l’utiliser à grande échelle dans le traitement de l’eau potable.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Qw5vKINE7WE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Qw5vKINE7WE" data-id="Qw5vKINE7WE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Qw5vKINE7WE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Einstein travaille sur sa théorie de la relativité restreinte, qui remet en question les notions classiques de l'espace et du temps. Cette théorie explique comment l'espace et le temps sont reliés et comment ils affectent la perception de la vitesse et de l'énergie. Il découvre aussi qu'une petite quantité de matière peut être convertie en une énorme quantité d'énergie.</p>
 
 # 1909 ans
 
-<p style="text-align:center"><img src="/assets/img/bleriotXI.jpg" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/bleriotXI.webp" alt="" width="400" loading="lazy" decoding="async" height="225" /></p>
 
 <p>Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.</p>
 
@@ -5420,7 +5381,7 @@ tags: technology
 
 # 1912 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/R3XcpqJ8Dbw" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=R3XcpqJ8Dbw" data-id="R3XcpqJ8Dbw" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/R3XcpqJ8Dbw/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans la nuit du 14 au 15 avril 1912, le Titanic heurte un iceberg dans l'Atlantique Nord, provoquant la rupture de sa coque et l'inondation de ses compartiments étanches. En moins de trois heures, le navire sombre, entraînant la mort de plus de 1 500 des 2 224 passagers et membres d'équipage à bord. Le naufrage du Titanic est l'une des plus grandes tragédies maritimes de l'histoire.</p>
 
@@ -5430,11 +5391,11 @@ tags: technology
 
 # 1914 ans
 
-<p>Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'Allemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, les États-Unis et d'autres pays d'Europe et d'Amérique du Nord de l'autre.</p>
+<p>Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'Allemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, la Russie et leurs alliés de l'autre — les États-Unis n'entrant dans le conflit qu'en 1917.</p>
 
 <p>Il est important de souligner que l'Allemagne commet des actes d'agression au début de la Première Guerre mondiale en envahissant le Luxembourg et la Belgique, ainsi qu'en déclarant la guerre à la France. Ces actes constituent une violation flagrante du droit international et de la souveraineté de ces États. Les pays agressés ne doivent pas être tenus responsables de leur propre agression, même s'ils ont décidé de s'armer pour se protéger. En effet, les États ont le droit souverain de se défendre, mais cela ne doit pas être considéré comme une justification ou une excuse pour l'agression initiale.</p>
 
-<p>En résumé, je conteste l'idée selon laquelle tous les pays sont en quelque sorte responsables de la Première Guerre mondiale et je pense que l'Allemagne commet des actes d'agression au début de la guerre qui en font un acteur clé dans le déclenchement de la guerre.</p>
+<p>L'idée selon laquelle tous les pays seraient également responsables du déclenchement de la Première Guerre mondiale mérite donc d'être discutée : les actes d'agression commis par l'Allemagne au début du conflit en font un acteur central de son déclenchement.</p>
 
 <p>Les avions ne peuvent pas transporter plus de deux passagers et ne peuvent pas emporter de bombes. Ils ne sont utilisés que pour collecter des informations sur les mouvements et les positions de l'ennemi. Ils sont équipés de caméras et de matériel de photographie pour capturer des images des positions ennemies et de leurs déplacements, qui sont ensuite utilisées pour établir des cartes et des plans de bataille. Les avions de chasse et de bombardement n'apparaissent que plus tard.</p>
 
@@ -5442,7 +5403,7 @@ tags: technology
 
 # 1915 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PumBUVxrhW8" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PumBUVxrhW8" data-id="PumBUVxrhW8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/PumBUVxrhW8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les autorités ottomanes se livrent à un crime de masse contre la communauté assyro-chaldéenne, cet épisode historique reste relativement méconnu.</p>
 
@@ -5450,35 +5411,35 @@ tags: technology
 
 <p>Après la confection des premiers avions de chasse, la première guerre mondiale se déplace progressivement dans les airs. Le taux de mortalité pour un aviateur est de 25%.</p>
 
-# 22 avril
+## 22 avril
 
 <p>Première utilisation massive de gaz toxiques par l'Allemagne lors de la Deuxième bataille d'Ypres en Belgique.</p>
 
 # 1916 ans
 
-# 15 septembre
+## 15 septembre
 
 <p>Première utilisation des chars d'assaut par l'armée britannique lors de la Bataille de la Somme.</p>
 
 # 1917 ans
 
-# 8 mars
+## 8 mars
 
 <p>Début de la Révolution de Février qui provoque la chute du tsar.</p>
 
-# 7 novembre
+## 7 novembre
 
 <p>Révolution d'Octobre. Les Bolcheviks dirigés par Vladimir Lénine prennent le pouvoir en Russie.</p>
 
 # 1918 ans
 
-<p>Fin de la première guerre mondiale. Un film qui dénonce l'horreur et la futilité de cette guerre est All Quiet on the Western Front sur netflix. Ce film montre qu'il n'y a aucune gloire, aucun honneur à chercher derrière une guerre. Juste de la tristesse, de l'horreur et de la désolation.</p>
+<p>Fin de la première guerre mondiale. Le roman d'Erich Maria Remarque À l'Ouest, rien de nouveau, et les films qui en seront tirés, dénonceront l'horreur et la futilité de cette guerre. Ils montrent qu'il n'y a aucune gloire, aucun honneur à chercher derrière une guerre. Juste de la tristesse, de l'horreur et de la désolation.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XruYsAmKLyU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XruYsAmKLyU" data-id="XruYsAmKLyU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XruYsAmKLyU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, près de la moitié de ces pilotes meurent ou disparaissent avec leur avion.</p>
 
-<p>La grippe espagnole est apparue pour la première fois en Espagne, d'où elle tire son nom, et se propage rapidement dans le reste de l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Il n'y a pas eu de grand confinement. Les raisons exactes de son apparition restent inconnues.</p>
+<p>La grippe espagnole ne vient pas d'Espagne : elle doit son nom au fait que la presse espagnole, seule à ne pas être censurée dans une Europe en guerre, fut la première à en parler librement. Elle se propage rapidement dans toute l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Il n'y a pas eu de grand confinement. Les raisons exactes de son apparition restent inconnues.</p>
 
 # 1919 ans
 
@@ -5492,7 +5453,7 @@ tags: technology
 
 # 1921 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/V591sz3jdmY" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V591sz3jdmY" data-id="V591sz3jdmY" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/V591sz3jdmY/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les populations locales du Congo auraient été infectées par le virus similaire au VIH présent chez les singes, puis auraient transmis le virus à d'autres populations par le biais de relations sexuelles non protégées et d'autres pratiques qui favorisent la transmission du virus.</p>
 
@@ -5500,13 +5461,13 @@ tags: technology
 
 <p>Publication du Roman Ulysse de James Joyce. Il est considéré comme l'un des romans les plus importants de la littérature moderne.</p>
 
-# Russie
+## Russie
 
 <p>Création de l'Union soviétique sous la direction du Parti bolchevik.</p>
 
 # 1923 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/vwf0DafQLnI" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vwf0DafQLnI" data-id="vwf0DafQLnI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vwf0DafQLnI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Période d'hyperinflation en Allemagne. Le gouvernement allemand commence à imprimer de l'argent en grandes quantités, ce qui entraîne une augmentation de la masse monétaire en circulation. L'augmentation de la masse monétaire entraîne une chute de la valeur de la monnaie allemande, le mark. Les prix commencent à augmenter de manière exponentielle, ce qui entraîne une spirale inflationniste.</p>
 
@@ -5516,8 +5477,7 @@ tags: technology
 
 # 1926 ans
 
-<p>L'une des premières compagnies aériennes à avoir réalisé des profits significatifs est la compagnie américaine United Airlines. En tant que forme de communication, je l’ai dit, la violence organisée appauvrit, simplifie radicalement et finalement empêche la communication ; et en tant que forme d’action, c’est en réalité une forme d’antiaction, car son objectif ultime est d’ôter aux autres la capacité d’agir (soit de certaines façons précises, soit, si
-on les tue, de toutes les façons possibles et à jamais).</p>
+<p>L'aviation commerciale devient rentable aux États-Unis. Ce n'est pas le transport de passagers qui y parvient le premier, mais le courrier : en confiant les lignes postales à des opérateurs privés, l'État leur garantit un revenu régulier. Les compagnies nées de ces contrats — parmi lesquelles celles qui formeront United Airlines — sont les premières à dégager des bénéfices significatifs. Les passagers viendront ensuite, d'abord comme un supplément au sac postal.</p>
 
 # 1928 ans
 
@@ -5535,7 +5495,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Il y a 2 milliards d'homo sapiens sur Terre.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/YfG2ajbFknM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=YfG2ajbFknM" data-id="YfG2ajbFknM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/YfG2ajbFknM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Sous le régime colonial britannique en Inde, la production et la vente du sel sont strictement réglementées, et les Indiens doivent payer une taxe sur le sel. Or le sel est une nécessité de base et est également largement disponible sur les côtes du pays.</p>
 
@@ -5565,9 +5525,9 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1935 ans
 
-# Allemagne
+## Allemagne
 
-# 15 septembre
+### 15 septembre
 
 <p>Adoption des lois de Nuremberg. Elles codifient la ségrégation : les juifs perdent la citoyenneté allemande et voient leur accès à la vie publique restreint. Dans ces années, les juifs sont progressivement exclus des associations culturelles, théâtres, concerts, piscines, parcs et bibliothèques municipales. Ces mesures donnent lieu à des affichages publics dans les écoles, piscines, parcs : « Juden unerwünscht » (« Juifs non admis »).</p>
 
@@ -5585,47 +5545,47 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>L'Allemagne et l'Union soviétique envahissent la Pologne et divisent le pays entre eux. L'invasion de la Pologne par l'Allemagne et l'Union soviétique est considérée comme le début de la Seconde Guerre mondiale.</p>
 
-<p>L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Guerre d'hiver. Elle veut récupérer certains territoires qui sont cédés à la Finlande lors de la Guerre civile russe de 1918. La Finlande résiste à l'invasion avec succès et réussit à repousser les troupes soviétiques, mais au prix de lourdes pertes.</p>
+<p>L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Guerre d'hiver. Moscou exige des territoires proches de Leningrad, perdus lorsque la Finlande a pris son indépendance dans le chaos de 1917-1918, et se les fait refuser. La Finlande résiste à l'invasion avec succès et réussit à repousser les troupes soviétiques, mais au prix de lourdes pertes.</p>
 
 # 1940 ans
 
 <p>La Finlande est finalement forcée de céder certains territoires à l'Union soviétique, lorsque les deux pays signent un traité de paix.</p>
 
-<p>Les Brigades Spéciales sont créées par le régime de Vichy, peu après l'installation du gouvernement de Vichy. Sous la direction de la Direction Centrale des Renseignements Généraux (DCRG), elles ont pour mission de lutter contre la Résistance française et de traquer les opposants au régime de Vichy et à l'occupation allemande. Leur création est une conséquence directe de la mise en place du régime de Vichy et de la collaboration avec les forces d'occupation allemandes en France.</p>
+<p>Les Brigades spéciales seront créées l'année suivante par le régime de Vichy. Sous la direction de la Direction Centrale des Renseignements Généraux (DCRG), elles ont pour mission de lutter contre la Résistance française et de traquer les opposants au régime de Vichy et à l'occupation allemande. Leur création est une conséquence directe de la mise en place du régime de Vichy et de la collaboration avec les forces d'occupation allemandes en France.</p>
 
 # 1941 ans
 
-# 22 juin
+## 22 juin
 
 <p>L'opération Barbarossa, nom de code de l'invasion allemande de l'Union soviétique, commence. L'opération Barbarossa est lancée avec environ 3,8 millions de soldats allemands, ce qui en fait la plus grande invasion de l'histoire. L'invasion allemande de l'Union soviétique brise le pacte de non-agression et conduit le PCF (Parti Communiste Français) à adopter une position plus combative envers l'occupant allemand et le gouvernement de Vichy.</p>
 
 <p>L’invasion de l’URSS déclenche une nouvelle étape. Les Einsatzgruppen (unités mobiles de tuerie) massacrent massivement les juifs dans les territoires conquis.</p>
 
-# Aout
+## Aout
 
 <p>Himmler assiste à une exécution de masse à Minsk, en est visiblement éprouvé, et exprime ensuite le souci de trouver une méthode moins « pénible » pour les exécutants. Ce souci a réellement contribué au passage des fusillades au gazage. L'attention de Himmler ne se portait que sur le confort psychique des bourreaux, jamais sur les victimes. La motivation n'était pas d'épargner une souffrance, mais de rendre le meurtre de masse plus efficace, plus rapide, et plus soutenable pour ceux qui devaient le commettre — afin que la machine génocidaire ne s'enraye pas. </p>
 
-# 19 septembre
+## 19 septembre
 
 <p>En Allemagne et dans le Protectorat de Bohême-Moravie (actuelle Tchéquie), un décret de la police impose à tous les juifs de plus de 6 ans de porter une étoile jaune avec le mot « Jude ».</p>
 
-# Octobre
+## Octobre
 
 <p>Les déportations de Juifs allemands commencent.</p>
 
-# 25 novembre
+## 25 novembre
 
 <p>La 11ᵉ ordonnance à la loi sur la citoyenneté du Reich (Verordnung zum Reichsbürgergesetz) prévoit que tout Juif quittant ou déporté hors du territoire perd automatiquement sa nationalité et voit ses biens confisqués au profit du Reich.</p>
 
 <p>C'est à partir de là (fin 1941 et surtout 1942) que se tiennent les ventes aux enchères publiques des effets personnels des déportés — les fameuses Judenauktionen. Des Allemands ordinaires viennent acheter à vil prix le mobilier et les ustensiles des familles raflées. </p>
 
-# 7 décembre
+## 7 décembre
 
 <p>L'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port. L'attaque est dévastatrice pour les États-Unis, qui subissent de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués. Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.</p>
 
 # 1942 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-i1yoM_ky5E" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1yoM_ky5E" data-id="-i1yoM_ky5E" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-i1yoM_ky5E/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Paul Eluard écrit "Liberté", pendant l'occupation allemande de la France lors de la Seconde Guerre mondiale. Ce poème est un symbole de résistance et de défiance face à l'oppression et à la tyrannie. Il exprime l'espoir et la foi dans la liberté, malgré les circonstances sombres de l'époque.</p>
 
@@ -5633,7 +5593,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Rafle du Vélodrome d'Hiver, souvent abrégée en Rafle du Vel' d'Hiv. Orchestrée par les autorités françaises sous l'occupation allemande, cette rafle aboutit à l'arrestation de plus de 13 000 Juifs, dont de nombreux enfants. Les personnes arrêtées sont détenues au Vélodrome d'Hiver, un stade de cyclisme à Paris, avant d'être déportées vers des camps de concentration et d'extermination nazis. La rafle du Vel' d'Hiv devient un symbole poignant de la collaboration du régime de Vichy avec les nazis et de la persécution des Juifs en France.</p>
 
-# Allemagne
+## Allemagne
 
 <p>La conférence de Wannsee, près de Berlin, officialise la « solution finale ». On y planifie la déportation de tous les juifs d’Europe vers des centres d’extermination.</p>
 
@@ -5643,35 +5603,35 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Laval instaure le Service du travail obligatoire (STO). Le STO a pour but d'envoyer des travailleurs français en Allemagne afin de combler les pénuries de main-d'œuvre dues à la mobilisation allemande de ses propres citoyens pour l'effort militaire. Beaucoup de jeunes Français refusent de participer au STO et rejoignent les maquis pour échapper à la conscription et lutter contre l'occupant allemand. Les maquis sont actifs dans toute la France, en particulier dans les zones rurales et montagneuses, où le terrain difficile offre une protection naturelle contre les forces d'occupation. Ils mènent des actions de sabotage, des attaques contre les forces allemandes et de Vichy.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/xokPRAHCx8s" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=xokPRAHCx8s" data-id="xokPRAHCx8s" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/xokPRAHCx8s/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La Milice française est créée par le gouvernement de Vichy, dirigé par le maréchal Philippe Pétain et son Premier ministre, Pierre Laval. La Milice est une organisation paramilitaire destinée à aider les autorités de Vichy et les forces d'occupation allemandes à lutter contre la Résistance française et à maintenir l'ordre en France.</p>
 
 # 1944 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/ndQhTOgPpw4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ndQhTOgPpw4" data-id="ndQhTOgPpw4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ndQhTOgPpw4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>La première fusée V2 opérationnelle est lancée le 7 septembre 1944, lorsqu'elle est utilisée pour bombarder la région de Paris, en France. Les Alliés n'ont pas d'arme équivalente aux fusées V2 en termes de technologie de missiles balistiques à longue portée.</p>
+<p>La première fusée V2 opérationnelle est tirée le 8 septembre 1944, contre la région de Paris puis contre Londres. Les Alliés n'ont pas d'arme équivalente aux fusées V2 en termes de technologie de missiles balistiques à longue portée.</p>
 
 <p>Friedrich Hayek, un économiste et philosophe autrichien, publie "La Route de la servitude" (The Road to Serfdom). La thèse principale de ce livre est que toute forme de planification centralisée et de contrôle gouvernemental de l'économie mène à une perte de liberté individuelle et conduit finalement à la tyrannie. Hayek soutient que le libre marché et la concurrence sont essentiels pour préserver la liberté et l'autonomie individuelle. Hayek met aussi en garde contre les dangers du socialisme et des économies planifiées, qui, selon lui, provoquent l'émergence de régimes totalitaires.</p>
 
 # 1945 ans
 
-<p>L'Union soviétique déclare la guerre au Japon. Cette déclaration de guerre intervient après la conférence de Potsdam, au cours de laquelle les Alliés, y compris l'Union soviétique, les États-Unis et le Royaume-Uni, exigent la reddition inconditionnelle du Japon.</p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=aG8qV0cEtKo" data-id="aG8qV0cEtKo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/aG8qV0cEtKo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>L'Union soviétique lance l'opération August Storm, une invasion massive de la Mandchourie (alors sous contrôle japonais), de la Corée, de la Chine du Nord et des îles Kouriles. Les forces soviétiques progressent rapidement et défont les troupes japonaises, contribuant ainsi à la reddition finale du Japon.</p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/aG8qV0cEtKo" frameborder="0" allowfullscreen></iframe></p>
-
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/zkUbelhnb9o" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=zkUbelhnb9o" data-id="zkUbelhnb9o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/zkUbelhnb9o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La première bombe atomique est larguée sur la ville japonaise d'Hiroshima. Cette bombe a été développée par les États-Unis pendant la Seconde Guerre mondiale dans le cadre du projet Manhattan, qui avait pour objectif de créer une arme nucléaire.</p>
 
 <p>On estime que la bombe tue environ 140 000 personnes au total, soit immédiatement dans l'explosion ou dans les semaines et les mois suivants en raison des blessures, des brûlures et des maladies liées à l'exposition à la radiation.</p>
 
+<p>L'Union soviétique déclare la guerre au Japon. Cette déclaration de guerre intervient après la conférence de Potsdam, au cours de laquelle les Alliés, y compris l'Union soviétique, les États-Unis et le Royaume-Uni, exigent la reddition inconditionnelle du Japon.</p>
+
+<p>L'Union soviétique lance l'opération August Storm, une invasion massive de la Mandchourie (alors sous contrôle japonais), de la Corée, de la Chine du Nord et des îles Kouriles. Les forces soviétiques progressent rapidement et défont les troupes japonaises, contribuant ainsi à la reddition finale du Japon.</p>
+
 <p>Les forces alliées décident de diviser temporairement la péninsule coréenne en deux zones d'occupation, séparées par le 38e parallèle. La zone au nord du 38e parallèle est occupée par l'Union soviétique, tandis que la zone au sud est occupée par les États-Unis.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/x9t9kLNbWJ4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=x9t9kLNbWJ4" data-id="x9t9kLNbWJ4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/x9t9kLNbWJ4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Invention de L'ENIAC. C'est l'un des premiers ordinateurs électroniques de grande échelle, capable d'être reprogrammé pour résoudre un large éventail de problèmes de calcul.</p>
 
@@ -5693,11 +5653,11 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1949 ans
 
-<p>Eugene Houdry invente le convertisseur catalytique. Houdry est un ingénieur chimiste français qui développe ce dispositif pour réduire les émissions de polluants causées par les véhicules à essence. Depuis, il devient un équipement standard sur la plupart des véhicules à essence et diesel dans le monde entier.</p>
+<p>Eugene Houdry, ingénieur chimiste français installé aux États-Unis, dépose le brevet du convertisseur catalytique pour réduire les émissions polluantes des véhicules à essence. L'invention devra attendre : elle est incompatible avec l'essence au plomb, et ne sera montée en série que dans les années 1970, une fois le plomb interdit.</p>
 
 <p>Le convertisseur catalytique utilise un catalyseur, généralement du platine, du palladium ou du rhodium, pour convertir ces polluants en substances moins nocives, comme l'eau et le dioxyde de carbone.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/3raimObEqK8" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3raimObEqK8" data-id="3raimObEqK8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/3raimObEqK8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Adi Dassler fonde officiellement Adidas.</p>
 
@@ -5711,7 +5671,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1951 ans
 
-<p>L'uranium est utilisé pour produire de l'électricité dans une centrale électrique de l'Etat de Pennsylvanie aux États-Unis. Cette centrale, connue sous le nom de "Shippingport Atomic Power Station", est la première centrale nucléaire du monde à être construite pour produire de l'électricité à des fins commerciales. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.</p>
+<p>Pour la première fois, l'uranium produit de l'électricité : le réacteur expérimental EBR-I, dans l'Idaho, allume quatre ampoules. La première centrale nucléaire américaine à vocation commerciale, Shippingport en Pennsylvanie, ne démarrera qu'en 1957. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.</p>
 
 <p>Il est important de noter que l'uranium est une source d'énergie potentiellement très propre, car il ne libère pas de gaz à effet de serre lorsqu'il est utilisé pour produire de l'électricité. Cependant, l'utilisation de l'uranium peut poser des problèmes de sécurité et de gestion des déchets radioactifs, et elle est souvent critiquée en raison de ses implications pour la santé humaine et l'environnement. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation de l'uranium et à se tourner vers d'autres sources d'énergie renouvelables.</p>
 
@@ -5733,15 +5693,15 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/p4C6oBdW1kM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=p4C6oBdW1kM" data-id="p4C6oBdW1kM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/p4C6oBdW1kM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Apparition de Godzilla à l'écran.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/Wo5ja19QCJc" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Wo5ja19QCJc" data-id="Wo5ja19QCJc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Wo5ja19QCJc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Au Nord du Vietnam, deux armées s'affrontent: l'armée française et l'armée populaire vietnamienne. C'est la bataille de Dien Bien Phu. Cette bataille fait plus de 10000 morts. Le Vietnam, le Laos et le Cambodge deviennent indépendants. C'est la fin de la guerre d'Indochine.</p>
 
-# Algérie
+## Algérie
 
 <p>Début de la Guerre d'Algérie avec les attaques de la « Toussaint rouge » menées par le Front de libération nationale (FLN).</p>
 
@@ -5759,7 +5719,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1960 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/tYQrfPTEk6E" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=tYQrfPTEk6E" data-id="tYQrfPTEk6E" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/tYQrfPTEk6E/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le chauffage central devient de plus en plus répandu dans les nouvelles constructions résidentielles, et de nombreux foyers commencent à installer des systèmes de chauffage central dans leurs maisons existantes.</p>
 
@@ -5771,25 +5731,25 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1962 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/gS6o_QNxc6k" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=gS6o_QNxc6k" data-id="gS6o_QNxc6k" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/gS6o_QNxc6k/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Rachel Carson publie "Printemps silencieux". Le livre dénonce les effets néfastes des pesticides et autres produits chimiques sur l'environnement et la vie sauvage, en particulier les oiseaux.</p>
 
 <p>Le livre a un impact majeur sur la prise de conscience du public concernant les dangers des produits chimiques et inspire des mouvements de protestation contre l'utilisation abusive de pesticides et d'autres produits chimiques dans l'agriculture et l'industrie.</p>
 
-# Algérie
+## Algérie
 
 <p>Indépendance officielle de l'Algérie.</p>
 
 # 1964 ans
 
-<p>L'un des premiers systèmes qui peut être qualifié de base de données informatisée est le "Integrated Data Store" (IDS), développé par Charles Bachman chez General Electric. IDS est un système de gestion de base de données hiérarchique, ce qui signifie que les données sont organisées en une structure d'arbre avec des "parents" et des "enfants". Cette structure est assez rigide, mais elle représente une avancée significative dans la manière dont les données peuvent être stockées et récupérées de manière efficace.</p>
+<p>L'un des premiers systèmes qui peut être qualifié de base de données informatisée est le "Integrated Data Store" (IDS), développé par Charles Bachman chez General Electric. IDS est un système de gestion de base de données en réseau : les données y sont reliées entre elles par des chaînes de pointeurs, ce qui permet à un enregistrement d'appartenir à plusieurs ensembles à la fois. Le modèle est rigide à modifier une fois en place, mais il représente une avancée significative dans la manière dont les données peuvent être stockées et récupérées de manière efficace.</p>
 
 <p>Les premières bases de données sont principalement utilisées par de grandes entreprises et institutions gouvernementales pour des applications telles que la gestion des comptes clients, les inventaires, ou les systèmes de réservation. Elles fonctionnent sur de grands ordinateurs centraux et sont souvent accessibles via des terminaux connectés à ces ordinateurs centraux.</p>
 
 # 1965 ans
 
-<p>L'organisme fédéral de régulation des télécommunications (FCC) statue que des équipements non-Bell peuvent être raccordés au système téléphonique « sans dommage pour le réseau ». Cette décision crée la possibilité de vendre des appareils se connectant au réseau via un coupleur de protection loué auprès d'AT&T, et ouvre le marché aux équipements installés chez le client. Autrement dit, AT&T conserve un temps un point de contrôle (le fameux coupleur), mais la brèche est ouverte — et c'est par cette brèche que passeront, plus tard, les modems et donc l'accès grand public à Internet.</p>
+<p>Après l'affaire Hush-A-Phone, la contestation du monopole d'AT&T sur les équipements raccordés au réseau s'installe ; elle aboutira en 1968 à la décision Carterfone, par laquelle l'organisme fédéral de régulation des télécommunications (FCC) statue que des équipements non-Bell peuvent être raccordés au système téléphonique « sans dommage pour le réseau ». Cette décision crée la possibilité de vendre des appareils se connectant au réseau via un coupleur de protection loué auprès d'AT&T, et ouvre le marché aux équipements installés chez le client. Autrement dit, AT&T conserve un temps un point de contrôle (le fameux coupleur), mais la brèche est ouverte — et c'est par cette brèche que passeront, plus tard, les modems et donc l'accès grand public à Internet.</p>
 
 # 1967 ans
 
@@ -5801,7 +5761,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1969 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/CqJ711E51tQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=CqJ711E51tQ" data-id="CqJ711E51tQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/CqJ711E51tQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".</p>
 
@@ -5811,15 +5771,15 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/g3jOJfrOknA" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=g3jOJfrOknA" data-id="g3jOJfrOknA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/g3jOJfrOknA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Ken Thompson et Dennis Ritchie inventent un système d'exploitation "Unix" (qui est un jeu de mots sur le mot "eunuchs", qui signifie "castré" en grec) au Bell Telephone Laboratories. L'objectif initial de Thompson et Ritchie est de développer un système d'exploitation qui peut être utilisé sur le matériel du laboratoire et qui est plus facile à utiliser que les systèmes d'exploitation existants de l'époque. Unix est basé sur le modèle client-serveur car même si la ligne de commande Unix s'exécute principalement sur un ordinateur local, sa conception et son utilisation ont été pensées pour communiquer sur des réseaux. Elle inclut un shell (un interpréteur de commandes) qui permet aux utilisateurs de taper des commandes pour lancer des programmes et accéder aux fichiers du système.</p>
+<p>Ken Thompson et Dennis Ritchie inventent un système d'exploitation "Unix" au Bell Telephone Laboratories. Le nom est un jeu de mots sur celui de Multics, le système tentaculaire auquel ils venaient de renoncer : leur version en était la déclinaison dépouillée, d'abord baptisée "Unics". L'objectif initial de Thompson et Ritchie est de développer un système d'exploitation qui peut être utilisé sur le matériel du laboratoire et qui est plus facile à utiliser que les systèmes d'exploitation existants de l'époque. Unix est d'emblée un système multi-utilisateurs : plusieurs personnes travaillent simultanément sur la même machine depuis des terminaux distincts, ce qui le prédisposera à l'usage en réseau. Elle inclut un shell (un interpréteur de commandes) qui permet aux utilisateurs de taper des commandes pour lancer des programmes et accéder aux fichiers du système.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/TifdpeYvv1k" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=TifdpeYvv1k" data-id="TifdpeYvv1k" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/TifdpeYvv1k/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11 emportant Neil Armstrong et Buzz Aldrin. Selon les estimations, environ 500 millions de personnes regardent le décollage de la mission en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.</p>
+<p>Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11, qui emporte Neil Armstrong, Buzz Aldrin et Michael Collins — ce dernier restant en orbite aux commandes du module de commande. Selon les estimations, environ 500 millions de personnes regardent les premiers pas sur la Lune en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.</p>
 
-<p>Le décollage de la mission Apollo 11 est diffusé en direct par plusieurs chaînes de télévision à travers le monde, et suscite un immense intérêt public. Les télévisions du monde entier couvrent l'événement en direct, et de nombreux Américains organisent des fêtes ou se sont rassemblés devant les écrans de télévision pour regarder l'historique décollage. Cet événement est considéré comme l'un des moments les plus marquants de l'histoire de la télévision et a suscité un intérêt sans précédent pour l'exploration spatiale.</p>
+<p>L'événement est diffusé en direct par les télévisions du monde entier et suscite un immense intérêt public ; de nombreux Américains organisent des fêtes ou se rassemblent devant les écrans pour regarder la scène. Cet événement est considéré comme l'un des moments les plus marquants de l'histoire de la télévision et a suscité un intérêt sans précédent pour l'exploration spatiale.</p>
 
 <p>Sous la pression d'une enquête antitrust du gouvernement américain (et de plaintes de concurrents), IBM annonce le unbundling: l'entreprise décide de facturer séparément le matériel d'un côté, les logiciels et les services de l'autre. C'est souvent décrit comme l'acte de naissance de l'industrie du logiciel telle qu'on la connaît. À partir du moment où le logiciel a un prix distinct, il devient possible pour des éditeurs tiers de vendre le leur en concurrence avec celui d'IBM. La voie est ouverte à tout ce qui suivra, jusqu'à des entreprises comme Microsoft. Puisque le logiciel n'est plus automatiquement fourni clé en main par IBM, les entreprises commencent — progressivement — à recruter et former leurs propres programmeurs, à développer un savoir-faire qu'elles n'avaient jamais eu besoin d'acquérir auparavant. Mais les habitudes mettent des années à franchir le seuil. Le unbundling est une condition nécessaire à l'émergence de l'industrie du logiciel et des compétences internes, mais pas suffisante pour la déclencher immédiatement. La transition se fait par glissement progressif sur les années 1970, pas par rupture brutale.</p>
 
@@ -5834,15 +5794,13 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1971 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/7_Xw5tWsOQo" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7_Xw5tWsOQo" data-id="7_Xw5tWsOQo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/7_Xw5tWsOQo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>« Choc Nixon » : dans une allocution télévisée, Richard Nixon annonce la suspension de la convertibilité du dollar en or. Cela met fin au système monétaire issu de la conférence de Bretton Woods (1ᵉʳ–22 juillet 1944), dans lequel le dollar est convertible en or à 35 dollars l'once et les autres monnaies arrimées au dollar. À partir de là, la monnaie n'est plus adossée à rien de métallique : elle devient purement fiduciaire (fiat money), garantie par le seul État émetteur.</p>
 
-<p></p>
-
 # 1972 ans
 
-<p>Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. C'est le premier langage facilement lisible pour un Homo Sapiens.</p>
+<p>Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. Assez proche de la machine pour rester rapide, assez lisible pour qu'un humain s'y retrouve : c'est ce compromis qui fera sa fortune.</p>
 
 <p>Les derniers Homo Sapiens à marcher sur le sol lunaire sont Harrison Schmitt et Eugene Cernan, lors de la mission Apollo 17.</p>
 
@@ -5852,35 +5810,35 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1974 ans
 
-<p>Des scientifiques de l'Université de Californie à Irvine publient une étude mettant en évidence une diminution significative de la concentration d'ozone dans la haute atmosphère au-dessus de l'Antarctique. Cette zone où l'ozone est considérablement réduit est appelée "trou de la couche d'ozone".</p>
+<p>Mario Molina et Sherwood Rowland, de l'Université de Californie à Irvine, publient une étude théorique montrant que les chlorofluorocarbones (CFC) rejetés par les aérosols et les réfrigérateurs détruisent l'ozone de la haute atmosphère. Personne n'a encore rien observé dans le ciel : ce n'est qu'un calcul. Il faudra attendre onze ans pour que la mesure leur donne raison.</p>
 
 # 1975 ans
 
 <p>Il y a 4 milliards d'homo sapiens sur Terre.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-i1DFU-7TMM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1DFU-7TMM" data-id="-i1DFU-7TMM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-i1DFU-7TMM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L'avortement est dépénalisé en France. Cette loi est une étape majeure dans la reconnaissance du droit des femmes à disposer de leur corps et met fin à la criminalisation de l'avortement.</p>
 
 <p>Fondation de microsoft. Microsoft vise à exploiter le potentiel naissant des ordinateurs personnels en fournissant des logiciels essentiels pour les rendre plus accessibles et utiles à un public plus large.</p>
 
-<p>C'est en voyant le microprocesseur Altair 8800 en couverture de Popular Electronics que Gates et Paul Allen écrivent un interpréteur BASIC pour lui, puis fondent Microsoft. La vision « a computer on every desk and in every home » structure dès l'origine la mission de l'entreprise — l'idée étant que si le matériel devient abordable, c'est le logiciel qui fait la valeur. La vision de Gates relève du logiciel et du marché, mais sa condition de possibilité est matérielle, et elle se situe très exactement où le microprocesseur rend le calcul bon marché.</p>
+<p>C'est en voyant l'ordinateur Altair 8800 en couverture de Popular Electronics que Gates et Paul Allen écrivent un interpréteur BASIC pour lui, puis fondent Microsoft. La vision « a computer on every desk and in every home » structure dès l'origine la mission de l'entreprise — l'idée étant que si le matériel devient abordable, c'est le logiciel qui fait la valeur. La vision de Gates relève du logiciel et du marché, mais sa condition de possibilité est matérielle, et elle se situe très exactement où le microprocesseur rend le calcul bon marché.</p>
 
 # 1976 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/XImzZe5qUTk" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XImzZe5qUTk" data-id="XImzZe5qUTk" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XImzZe5qUTk/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Le convertisseur catalytique est utilisé pour la première fois sur les véhicules à essence dans les années 1970. Il est maintenant utilisé sur la plupart des véhicules à essence et diesel dans le monde entier pour réduire les émissions de polluants. Il joue un rôle important dans la réduction de la pollution de l'air causée par les véhicules et contribue à protéger l'environnement et la santé humaine.</p>
+<p>Les premiers convertisseurs catalytiques sont montés en série sur les véhicules à essence américains — l'invention de Houdry, restée sans emploi pendant vingt-cinq ans, devient enfin utilisable grâce à l'interdiction de l'essence au plomb. Elle équipera bientôt la quasi-totalité du parc automobile mondial.</p>
 
 <p>Identification du virus Ebola, lors de deux épidémies simultanées en Afrique, une en République démocratique du Congo (alors Zaire) et l'autre en République du Soudan. Le virus Ebola est transmis par des animaux, notamment les chauves-souris, et peut être transmis de personne à personne par contact étroit avec les liquides corporels d'une personne infectée. Le virus Ebola peut causer une maladie grave et potentiellement mortelle appelée fièvre hémorragique à virus Ebola, qui se caractérise par de fortes fièvres, des maux de tête, de la fatigue et des saignements internes.</p>
 
 # 1977 ans
 
-<p style="text-align:center"><img src="/assets/img/apple2.jpg" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/apple2.webp" alt="" width="400" loading="lazy" decoding="async" height="400" /></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/EKrGqx8tB0Q" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=EKrGqx8tB0Q" data-id="EKrGqx8tB0Q" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/EKrGqx8tB0Q/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>L'Apple II est présenté pour la première fois par Steve Jobs et Steve Wozniak au West Coast Computer Faire, un salon professionnel de l'informatique qui se tient du 22 au 24 avril 1977 à San Francisco. Cet ordinateur est lancé sur le marché en avril 1977 et est l'un des premiers ordinateurs personnels de l'histoire. Il est également le premier ordinateur à être livré avec un kit de développement logiciel complet, ce qui permet aux utilisateurs de créer leurs propres programmes. Pour créer ces programmes, on utilise surtout le langage BASIC, le langage de programmation le plus couramment utilisé sur l'Apple II. Il est également possible de programmer en utilisant d'autres langages tels que le langage machine ou le langage assembleur. En utilisant ces langages de programmation, les utilisateurs peuvent créer des programmes simples, tels que des jeux vidéo, grâce à son écran couleur, ou des applications de base de données, ou des programmes plus complexes, tels que des outils de gestion de projets ou des applications de traitement de texte.</p>
+<p>L'Apple II est présenté pour la première fois par Steve Jobs et Steve Wozniak au West Coast Computer Faire, un salon professionnel de l'informatique qui se tient les 16 et 17 avril 1977 à San Francisco. Cet ordinateur est lancé sur le marché en avril 1977 et est l'un des premiers ordinateurs personnels de l'histoire. Il est également le premier ordinateur à être livré avec un kit de développement logiciel complet, ce qui permet aux utilisateurs de créer leurs propres programmes. Pour créer ces programmes, on utilise surtout le langage BASIC, le langage de programmation le plus couramment utilisé sur l'Apple II. Il est également possible de programmer en utilisant d'autres langages tels que le langage machine ou le langage assembleur. En utilisant ces langages de programmation, les utilisateurs peuvent créer des programmes simples, tels que des jeux vidéo, grâce à son écran couleur, ou des applications de base de données, ou des programmes plus complexes, tels que des outils de gestion de projets ou des applications de traitement de texte.</p>
 
 <p>Pour ouvrir un programme, la méthode la plus courante est de le charger à partir d'un disque de démarrage, qui est un disque de 5,25 pouces contenant un programme de démarrage et le programme qu'on souhaite exécuter. Pour charger le programme, on doit insérer le disque de démarrage dans le lecteur de disquettes de l'Apple II et redémarrer l'ordinateur. Le programme de démarrage chargé à partir du disque exécute alors le programme qu'on souhaite exécuter.</p>
 
@@ -5892,11 +5850,11 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1979 ans
 
-<p style="text-align:center"><img src="/assets/img/visicalc.png" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/visicalc.webp" alt="" width="400" loading="lazy" decoding="async" height="275" /></p>
 
 <p>VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calculs de manière simple et rapide, sans avoir à utiliser des feuilles de calcul papier. Pour démarrer VisiCalc sur un ordinateur Apple II, il faut d'abord insérer le disque contenant le logiciel dans le lecteur de disque de l'ordinateur. Ensuite, il faut appuyer sur la touche "reset" pour redémarrer l'ordinateur et charger le logiciel à partir du disque. Une fois que l'ordinateur a redémarré, le programme VisiCalc devrait s'ouvrir automatiquement. Si ce n'est pas le cas, vous pouvez essayer de le démarrer manuellement en tapant "VISICALC" sur la ligne de commande et en appuyant sur la touche "entrée".</p>
 
-<p style="text-align:center"><img src="/assets/img/compuserve.jpg" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/compuserve.webp" alt="" width="400" loading="lazy" decoding="async" height="304" /></p>
 
 <p>Lancement de CompuServe. C'est un service de communication accessible via un modem qui offre une variété de services, tels que l'accès à des forums de discussion, à des bases de données, à des services de courrier électronique et à des nouvelles en ligne. Le service est payant et les utilisateurs doivent s'abonner pour y avoir accès.</p>
 
@@ -5928,11 +5886,11 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.</p>
 
-<p>Le World Wide Web (WWW ou Web) est inventé à Genève, par Tim Berners-Lee, alors qu'il travaille au CERN (Conseil Européen pour la Recherche Nucléaire). Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Berners-Lee conçoit le Web comme un moyen de partager de l'information entre les scientifiques du CERN qui travaillent sur des projets collaboratifs. Il développe un système de liens hypertextes qui permettent aux utilisateurs de naviguer entre différents documents sur le réseau en cliquant sur des liens, et crée le premier navigateur Web, qui s'appelle WorldWideWeb. Ce navigateur permet aux utilisateurs de visualiser et d'interagir avec les documents sur le Web.</p>
+<p>Le World Wide Web (WWW ou Web) est inventé à Genève, par Tim Berners-Lee, alors qu'il travaille au CERN (Organisation européenne pour la recherche nucléaire). Internet devient désormais capable d'afficher un navigateur, des adresses, des pages, et même des images. Berners-Lee conçoit le Web comme un moyen de partager de l'information entre les scientifiques du CERN qui travaillent sur des projets collaboratifs. Il développe un système de liens hypertextes qui permettent aux utilisateurs de naviguer entre différents documents sur le réseau en cliquant sur des liens, et écrira l'année suivante le premier navigateur Web, qu'il appelle WorldWideWeb. Ce navigateur permet aux utilisateurs de visualiser et d'interagir avec les documents sur le Web.</p>
 
 # 1990 ans
 
-<p>AOL inonde la planète de CD et de disquettes promettant des heures de connexion gratuites — une campagne marketing d'une ampleur folle. Mais AOL n'est pas vraiment Internet : c'était un univers fermé et curaté auquel on accède via un abonnement. </p>
+<p>AOL lance le service grand public qui, dans les années qui suivent, inondera la planète de disquettes puis de CD promettant des heures de connexion gratuites — une campagne marketing d'une ampleur folle. Mais AOL n'est pas vraiment Internet : c'est un univers fermé et curaté auquel on accède par abonnement.</p>
 
 <p>Elinor Ostrom publie "Governing the commons". Elle s'intéresse aux systèmes de gestion des ressources naturelles qui sont utilisés dans les communautés locales à travers le monde. Elle s'efforce de démontrer que les ressources naturelles communes, telles que les pâturages, les forêts, les lieux de pêche et les puits d'eau, peuvent être gérées de manière efficace et durable par les communautés elles-mêmes, plutôt que d'être confiées à des gouvernements ou à des entreprises privées. Elle identifie huit principes de gestion des ressources naturelles communes:</p>
 
@@ -5951,7 +5909,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1991 ans
 
-<p>Fin de l'Union soviétique (URSS). Eltsine accepte sans violence le départ de l’Ukraine et de la Biélorussie, signant avec ses homologues ukrainien et biélorusse l'Acte final de la Conférence sur l'Unité et la Souveraineté de l'URSS.</p>
+<p>Fin de l'Union soviétique (URSS). Eltsine accepte sans violence le départ de l’Ukraine et de la Biélorussie, signant avec ses homologues ukrainien et biélorusse les accords de Belovej, qui actent la dissolution de l'URSS.</p>
 
 <p>Le premier serveur Web est mis en ligne, ce qui permet aux utilisateurs d'accéder au Web depuis n'importe quel ordinateur connecté à Internet. Pour mettre en ligne un serveur Web, il faut suivre les étapes suivantes:</p>
 
@@ -5980,17 +5938,17 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1995 ans
 
-<p>L'ingénieur Lou Montulli développe les cookies HTTP au sein de Netscape. Cette technologie permet à un site web de mémoriser certaines informations entre plusieurs visites ou pages consultées, comme un identifiant de session, un panier d'achat ou des préférences utilisateur. Les cookies deviennent rapidement un élément fondamental du fonctionnement du Web moderne, facilitant l'authentification des utilisateurs, le commerce électronique et, plus tard, le suivi publicitaire en ligne.</p>
+<p>L'ingénieur Lou Montulli a développé les cookies HTTP chez Netscape l'année précédente ; ils sont livrés dans le navigateur et se généralisent à partir de cette année. Cette technologie permet à un site web de mémoriser certaines informations entre plusieurs visites ou pages consultées, comme un identifiant de session, un panier d'achat ou des préférences utilisateur. Les cookies deviennent rapidement un élément fondamental du fonctionnement du Web moderne, facilitant l'authentification des utilisateurs, le commerce électronique et, plus tard, le suivi publicitaire en ligne.</p>
 
 # 1996 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/2I0K6kQtx6A" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2I0K6kQtx6A" data-id="2I0K6kQtx6A" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/2I0K6kQtx6A/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QdoU2tZYJbQ" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QdoU2tZYJbQ" data-id="QdoU2tZYJbQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/QdoU2tZYJbQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.</p>
 
-<p style="text-align:center"><img src="/assets/img/premiere-machine-google.jpg" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/premiere-machine-google.webp" alt="" width="400" loading="lazy" decoding="async" height="436" /></p>
 
 <p>Pour faire ceci, il faut procéder en 3 étapes:</p>
 
@@ -6011,7 +5969,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 1997 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/QRTN1i4iC2M" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QRTN1i4iC2M" data-id="QRTN1i4iC2M" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/QRTN1i4iC2M/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Netflix est fondé par Reed Hastings et Marc Randolph. À l'origine, l'entreprise offre un service de location de DVD par correspondance. Au fil du temps, Netflix évolue pour devenir un service de streaming en ligne.</p>
 
@@ -6023,11 +5981,11 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 2001 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/I8vsW6U8nnM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=I8vsW6U8nnM" data-id="I8vsW6U8nnM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/I8vsW6U8nnM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de gestion de contenu en ligne qui permet à n'importe qui de créer et de modifier des articles encyclopédiques. Ils lancent le projet avec un petit nombre d'articles, et ils encouragent les bénévoles à contribuer au projet en ajoutant et en mettant à jour des articles.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/JJ70vt3FQb4" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=JJ70vt3FQb4" data-id="JJ70vt3FQb4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/JJ70vt3FQb4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les États-Unis sont attaqués dans un acte de terrorisme coordonné d'une ampleur sans précédent. Deux avions de ligne, détournés par des membres d'Al-Qaïda, s'écrasent dans les tours jumelles du World Trade Center à New York, causant leur effondrement. Un troisième avion s'écrase sur le Pentagone, près de Washington, D.C. Un quatrième avion, United Airlines Vol 93, s'écrase en Pennsylvanie après que les passagers et l'équipage tentent de reprendre le contrôle de l'appareil des terroristes. Ces attaques entraînent la mort de près de 3 000 personnes et marquent un tournant majeur dans l'histoire mondiale, déclenchant des guerres en Afghanistan et en Irak et menant à d'importantes modifications des politiques de sécurité nationale et internationale.</p>
 
@@ -6035,15 +5993,15 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Il est actuellement considéré que ce virus est originaire des chauves-souris, plus précisément d'une espèce de chauve-souris appelée Rhinolophus affinis.</p>
 
-<p style="text-align:center"><img src="/assets/img/chauvesouris.jpg" alt="" width="400" /></p>
+<p style="text-align:center"><img src="/assets/img/chauvesouris.webp" alt="" width="400" loading="lazy" decoding="async" height="266" /></p>
 
-<p>Cependant, il est important de noter que les chauves-souris ne sont pas considérées comme étant responsables de la transmission directe du virus aux humains. Il est plutôt suggéré que l'interaction humaine avec les animaux infectés (tel que le pangolin) aurait conduit à la transmission du virus aux humains.</p>
+<p>Cependant, il est important de noter que les chauves-souris ne sont pas considérées comme étant responsables de la transmission directe du virus aux humains. Il est plutôt suggéré que l'interaction humaine avec un hôte intermédiaire infecté — la civette palmiste, vendue vivante sur les marchés du sud de la Chine — a conduit à la transmission du virus aux humains.</p>
 
 <p>Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui cause une pandémie mondiale en 2020.</p>
 
 # 2003 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/wdZiNyiPTPM" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=wdZiNyiPTPM" data-id="wdZiNyiPTPM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/wdZiNyiPTPM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les États-Unis, sous la présidence de George W. Bush, envahissent l'Irak. Cette action, officiellement nommée "Opération Liberté Irakienne", est lancée avec le soutien d'une "coalition des volontaires" incluant le Royaume-Uni et plusieurs autres alliés. L'invasion vise à destituer le président irakien Saddam Hussein, sous prétexte de la possession d'armes de destruction massive par l'Irak et de liens supposés avec le terrorisme, notamment Al-Qaïda. L'invasion suscite des controverses et des protestations à l'échelle internationale.</p>
 
@@ -6053,38 +6011,38 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 2006 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/UR9Cc5g-F9c" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UR9Cc5g-F9c" data-id="UR9Cc5g-F9c" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/UR9Cc5g-F9c/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Twitter est créé par Jack Dorsey, Biz Stone, Evan Williams et Noah Glass.</p>
 
 <p>Le slogan "Femme, Vie, Liberté" est scandé pour la première fois par des femmes kurdes en Turquie.</p>
 
-<p>Skype peut faire passer des appels téléphoniques de qualité gratuits, de PC à PC, par-dessus un réseau conçu pour transporter des paquets de données indifférenciés.</p>
+<p>Skype, lancé en 2003, s'impose : il fait passer des appels téléphoniques gratuits et de bonne qualité, de PC à PC, par-dessus un réseau conçu pour transporter des paquets de données indifférenciés.</p>
 
 # 2007 ans
 
 <p>Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvier 2007 lors d'une conférence de presse à San Francisco. L'événement, intitulé "Introducing iPhone", est diffusé en direct sur Internet et est suivi par des journalistes, des analystes et des fans d'Apple de partout dans le monde.</p>
 
-<p>Lors de cette conférence de presse, Steve Jobs présente le premier iPhone comme étant un téléphone révolutionnaire qui combine un téléphone mobile, un iPod et un appareil de navigation Internet en un seul et même appareil. Il présente également de nouvelles fonctionnalités telles que l'écran tactile, la reconnaissance vocale et l'accès à Internet à haut débit.</p>
+<p>Lors de cette conférence de presse, Steve Jobs présente le premier iPhone comme étant un téléphone révolutionnaire qui combine un téléphone mobile, un iPod et un appareil de navigation Internet en un seul et même appareil. Il présente également de nouvelles fonctionnalités telles que l'écran tactile multipoint, le défilement à l'inertie et l'accès à Internet à haut débit.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/3NR3RDedd5w" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3NR3RDedd5w" data-id="3NR3RDedd5w" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/3NR3RDedd5w/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le premier iPhone est lancé aux États-Unis le 29 juin 2007 et connaît un succès immédiat, devenant rapidement l'un des téléphones mobiles les plus populaires au monde. Depuis, Apple lance de nombreux modèles d'iPhone, chacun avec des fonctionnalités améliorées et de nouvelles technologies.</p>
 
-<p>Tor (The Onion Router) est développé par la US Navy en 2002 pour permettre une navigation sur Internet anonyme et protégée contre les utilisations malveillantes. Il est basé sur un système de routage en oignon, qui utilise plusieurs couches de cryptage pour masquer l'origine des données et les protéger contre les attaques de surveillance.</p>
+<p>Tor (The Onion Router), développé à partir de travaux du laboratoire de recherche de la marine américaine et rendu public en 2002, permet une navigation sur Internet anonyme et protégée contre les utilisations malveillantes. Il est basé sur un système de routage en oignon, qui utilise plusieurs couches de cryptage pour masquer l'origine des données et les protéger contre les attaques de surveillance.</p>
 
 <p>Tor est toujours utilisé aujourd'hui et est considéré comme l'un des moyens les plus efficaces pour naviguer anonymement sur Internet. Cependant, il est important de noter que même si Tor offre une certaine protection contre la surveillance, il n'est pas infaillible et il est important de prendre des mesures supplémentaires pour protéger son anonymat en ligne.</p>
 
 # 2008 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/eGGy2ocOLHE" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=eGGy2ocOLHE" data-id="eGGy2ocOLHE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/eGGy2ocOLHE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La crise des subprimes débute. Elle est le résultat d'une combinaison de facteurs, dont les principaux sont les suivants :</p>
 
-1 Les banques et les institutions financières accordent des prêts hypothécaires à des emprunteurs présentant un risque de crédit élevé, souvent sans vérifier adéquatement leur capacité de remboursement. Ces prêts à haut risque sont dits « subprimes ».
-2 Les prix de l'immobilier augmentent fortement, alimentant ainsi la demande de prêts hypothécaires. Les investisseurs et les spéculateurs participent à l'augmentation des prix, anticipant des gains rapides grâce à la hausse continue des prix de l'immobilier.
-3 Les prêts hypothécaires subprimes sont regroupés et transformés en produits financiers complexes, appelés titres adossés à des créances hypothécaires (MBS) et obligations adossées à des créances (CDO). Ces produits sont vendus à des investisseurs du monde entier, répartissant ainsi le risque lié à ces prêts sur les marchés financiers internationaux.
-4 Les taux d'intérêt bas encouragent l'endettement et l'investissement dans des actifs risqués, comme les prêts subprimes.
+1 Les banques et les institutions financières accordent des prêts hypothécaires à des emprunteurs présentant un risque de crédit élevé, souvent sans vérifier adéquatement leur capacité de remboursement. Ces prêts à haut risque sont dits « subprimes ».<br/>
+2 Les prix de l'immobilier augmentent fortement, alimentant ainsi la demande de prêts hypothécaires. Les investisseurs et les spéculateurs participent à l'augmentation des prix, anticipant des gains rapides grâce à la hausse continue des prix de l'immobilier.<br/>
+3 Les prêts hypothécaires subprimes sont regroupés et transformés en produits financiers complexes, appelés titres adossés à des créances hypothécaires (MBS) et obligations adossées à des créances (CDO). Ces produits sont vendus à des investisseurs du monde entier, répartissant ainsi le risque lié à ces prêts sur les marchés financiers internationaux.<br/>
+4 Les taux d'intérêt bas encouragent l'endettement et l'investissement dans des actifs risqués, comme les prêts subprimes.<br/>
 5 Le manque de régulation adéquate et de surveillance des institutions financières contribue à la prise de risques excessifs et à l'adoption de pratiques de prêt irresponsables.
 
 <p>Invention de la cryptomonnaie par une personne (ou un collectif) utilisant le nom de Satoshi Nakamoto. Satoshi Nakamoto publie un livre blanc en 2008 décrivant le fonctionnement du Bitcoin et comment il pourrait être utilisé pour créer une monnaie numérique sécurisée et décentralisée.</p>
@@ -6095,7 +6053,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 2009 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/-0JyEeH8rVU" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-0JyEeH8rVU" data-id="-0JyEeH8rVU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-0JyEeH8rVU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Satoshi Nakamoto lance le logiciel Bitcoin et commence à émettre des Bitcoins. La mise en œuvre initiale de la blockchain est lancée avec la création du premier bloc de la chaîne Bitcoin, appelé bloc de genèse. Ce bloc de genèse du Bitcoin contient une transaction unique qui attribue une récompense de 50 bitcoins à l'adresse de Satoshi Nakamoto. En outre, il contient un message encodé dans le champ "coinbase" de cette transaction. Ce message est un titre d'article du Times daté du 3 janvier 2009 : "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks". Le message fait référence à la crise financière de l'époque et est souvent interprété comme une critique du système financier traditionnel, ainsi qu'une justification de la création d'une monnaie décentralisée comme Bitcoin. Le minage implique la résolution d'un problème mathématique complexe qui nécessite une puissance de calcul considérable. Une fois le problème résolu, le bloc est ajouté à la chaîne et les transactions qu'il contient sont considérées comme validées.</p>
 
@@ -6107,7 +6065,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.</p>
 
-<p>Un séisme de magnitude a lieu à environ 130 km au large de la côte est du Japon, près de la ville de Sendai. Il est suivi d'un tsunami qui atteint une hauteur de 40,5 mètres dans certaines régions. Le tremblement de terre et le tsunami entraînent la mort de plus de 18 000 personnes et cause des dommages considérables aux infrastructures.</p>
+<p>Un séisme de magnitude 9,0 a lieu à environ 130 km au large de la côte est du Japon, près de la ville de Sendai. Il est suivi d'un tsunami qui atteint une hauteur de 40,5 mètres dans certaines régions. Le tremblement de terre et le tsunami entraînent la mort de plus de 18 000 personnes et cause des dommages considérables aux infrastructures.</p>
 
 <p>La centrale nucléaire de Fukushima Daiichi, située sur la côte est du Japon, est gravement endommagée par le tsunami qui a suivi le tremblement de terre. Les systèmes de refroidissement de la centrale sont endommagés, ce qui entraîne une surchauffe des réacteurs et une fuite de radionucléides dans l'environnement. L'accident de Fukushima est l'un des pires dans l'histoire de l'industrie nucléaire, avec la contamination de vastes zones autour de la centrale et l'évacuation de 160 000 personnes de la région. La décontamination et la reconstruction de la région continuent d'être des défis importants pour le Japon.</p>
 
@@ -6143,7 +6101,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 2018 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/6rCtJugNkfI" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=6rCtJugNkfI" data-id="6rCtJugNkfI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/6rCtJugNkfI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le mouvement des Gilets Jaunes est déclenché par une augmentation prévue des taxes sur les carburants, en particulier le diesel, dans le cadre de la transition énergétique du gouvernement français pour lutter contre le changement climatique. Cependant, le mouvement évolue rapidement pour englober des revendications plus larges concernant les inégalités économiques, le pouvoir d'achat, la justice sociale et la démocratie participative. Le mouvement est aussi caractérisé par son organisation horizontale et décentralisée, sans leader unique ou structure formelle.</p>
 
@@ -6151,11 +6109,11 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 2019 ans
 
-<p>Une étude hollandaise évoque une baisse de 75 % de la biomasse des insectes volants de 1992 à 2019.</p>
+<p>Une étude menée sur des réserves naturelles allemandes, publiée deux ans plus tôt, avait établi une baisse de 75 % de la biomasse des insectes volants entre 1989 et 2016. Le constat continue de se confirmer ailleurs en Europe.</p>
 
 <p>Le médecin chinois Li Wenliang signale aux autorités chinoises la maladie Covid 19, mais il n'est pas écouté. Ce médecin meurt des suites de cette maladie.</p>
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/PeMlggyqz0Y" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PeMlggyqz0Y" data-id="PeMlggyqz0Y" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/PeMlggyqz0Y/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>DeepMind, la filiale de recherche en intelligence artificielle de la société mère de Google, Alphabet, oppose un agent IA nommé AlphaStar à certains des meilleurs joueurs de StarCraft II au monde. AlphaStar bat 99,8% des joueurs humains.</p>
 
@@ -6163,7 +6121,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 # 2020 ans
 
-<p style="text-align:center"><iframe width="100%" height="315" src="https://www.youtube.com/embed/LHSSYoavZFg" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LHSSYoavZFg" data-id="LHSSYoavZFg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/LHSSYoavZFg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le monde est confronté à une pandémie de COVID-19, une maladie causée par le coronavirus SARS-CoV-2. La pandémie entraîne des restrictions de voyage et de rassemblement dans de nombreux pays, ainsi que la fermeture de nombreuses entreprises et écoles. Plusieurs vaccins contre le COVID-19 sont développés et commencent à être administrés à des millions de personnes dans le monde. Ces vaccins sont développés en un temps record grâce à la collaboration internationale.</p>
 
@@ -6187,6 +6145,8 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 
 <p>Le 7 octobre, environ 3 000 militants du Hamas franchissent la frontière vers le sud d'Israël. Ils ciblent un festival de musique et plusieurs kibboutz, causant la mort de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme la plus grande perte de vie juive depuis l'Holocauste.</p>
 
+<p><em>Cette chronologie s'arrête pour l'instant en 2023 ; les années suivantes restent à écrire.</em></p>
+
 - [Big Bang](https://fr.wikipedia.org/wiki/Big_Bang)
 - [Force électromagnétique](https://fr.wikipedia.org/wiki/Force_%C3%A9lectromagn%C3%A9tique)
 - [Intéraction élémentaire](https://fr.wikipedia.org/wiki/Interaction_%C3%A9l%C3%A9mentaire)
@@ -6200,7 +6160,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 - [Hydrogène](https://fr.wikipedia.org/wiki/Hydrog%C3%A8ne)
 - [Hélium](https://fr.wikipedia.org/wiki/H%C3%A9lium)
 - [Fond diffus cosmologique](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
-- [Etoile](https://fr.wikipedia.org/wiki/Fond_diffus_cosmologique)
+- [Étoile](https://fr.wikipedia.org/wiki/%C3%89toile)
 - [Galaxie](https://fr.wikipedia.org/wiki/Galaxie)
 - [Étoile de population II](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_II)
 - [Étoile de population III](https://fr.wikipedia.org/wiki/%C3%89toile_de_population_III)
@@ -6208,7 +6168,7 @@ on les tue, de toutes les façons possibles et à jamais).</p>
 - [Supernova](https://fr.wikipedia.org/wiki/Supernova)
 - [Trou noir](https://fr.wikipedia.org/wiki/Trou_noir)
 - [Système solaire](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
-- [Oxygène](https://fr.wikipedia.org/wiki/Syst%C3%A8me_solaire)
+- [Oxygène](https://fr.wikipedia.org/wiki/Oxyg%C3%A8ne)
 - [Cryptomonnaie](https://fr.wikipedia.org/wiki/Cryptomonnaie)
 - [Soleil](https://fr.wikipedia.org/wiki/Soleil)
 - [Lune](https://fr.wikipedia.org/wiki/Lune)

@@ -5,7 +5,7 @@ date: 2025-06-16 10:18:00
 tags: philosophy
 ---
 
-<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bureaucratie.jpg)</span>
+<span style="display:block;text-align:center">![Octocat]({{site.baseurl}}/assets/img/bureaucratie.webp)</span>
 
 «Le ministère de la Santé, la Direction générale de la santé, Santé publique France, la Haute Autorité de santé, les agences régionales de santé, l’Agence épidémiologie France,
 l’Agence nationale de sécurité du médicament et des produits de santé, le Conseil scientifique de la présidence de la République, le Haut Conseil de la santé publique,

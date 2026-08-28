@@ -1,7 +1,7 @@
 ---
 title: Felix Lambert
 layout: about
-profile_pic: "/assets/img/IMG-felix.jpg"
+profile_pic: "/assets/img/IMG-felix.webp"
 profile_pic_alt: ""
 short_bio: Hi this is Felix, a web, software, and mobile developer.
 ---
