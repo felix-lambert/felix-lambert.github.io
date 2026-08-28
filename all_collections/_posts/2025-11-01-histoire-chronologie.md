@@ -10,7 +10,7 @@ tags: technology
 # -13 800 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bigbang.webp' | relative_url }}" alt="Big Bang" loading="lazy" decoding="async" width="660" height="510" />
+  <img src="{{ '/assets/img/bigbang.webp' | relative_url }}" alt="Diagramme « Histoire de l'Univers » : le rayon de l'Univers observable s'évase depuis le Big Bang, en passant par les fluctuations quantiques, l'inflation, la formation des protons, la fusion nucléaire, le fond diffus cosmologique et la formation de l'hydrogène neutre, jusqu'à l'Univers moderne, sur un axe des âges allant de 0 à 13,8 milliards d'années" loading="lazy" decoding="async" width="660" height="510" />
   <br /><small><em>Le Big Bang n'est pas une explosion survenue dans l'espace, mais l'expansion de l'espace lui-même.</em></small>
 </p>
 
@@ -23,7 +23,7 @@ tags: technology
 <p>Dans cet univers, il y a 4 forces fondamentales:</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/force.webp' | relative_url }}" alt="Force" loading="lazy" decoding="async" width="1280" height="720" />
+  <img src="{{ '/assets/img/force.webp' | relative_url }}" alt="Planche des quatre forces fondamentales sur fond de galaxie : la gravitation illustrée par la Terre et la Lune, la force électromagnétique par un électron et le noyau d'un atome, l'interaction forte par deux quarks qui s'attirent, et l'interaction faible par un neutron se désintégrant en proton, électron et antineutrino" loading="lazy" decoding="async" width="1280" height="720" />
   <br /><small><em>Les quatre forces fondamentales : électromagnétique, gravitationnelle, nucléaire faible et nucléaire forte.</em></small>
 </p>
 
@@ -48,7 +48,7 @@ tags: technology
 <p>Ces 4 forces fondamentales se séparent les unes des autres et le cosmos démarre une phase d’inflation cosmique à une vitesse beaucoup plus rapide que la lumière au cours de laquelle l'espace fait passer l'univers de la taille d'un proton à un volume au moins 10^26 fois plus grand.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/quark.webp' | relative_url }}" alt="Quark" loading="lazy" decoding="async" width="585" height="183" />
+  <img src="{{ '/assets/img/quark.webp' | relative_url }}" alt="Schéma en zooms successifs allant de la matière au quark : un bloc de matière, puis un atome, l'électron, le noyau, le neutron et le proton, jusqu'aux quarks qui les composent" loading="lazy" decoding="async" width="585" height="183" />
   <br /><small><em>Quarks et gluons : les constituants des protons et des neutrons, seuls présents dans la soupe des premiers instants.</em></small>
 </p>
 
@@ -63,7 +63,7 @@ tags: technology
 <p>Ces interactions continues se sont poursuivies durant 380000 ans, jusqu'à ce que l'Univers soit suffisamment refroidi par sa propre extension. La température chute alors à moins de 2 700 °C. Les étoiles et les galaxies n’existent pas encore.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Big Bang" loading="lazy" decoding="async" width="1008" height="630" />
+  <img src="{{ '/assets/img/helium.png' | relative_url }}" alt="Schéma comparant deux atomes : l'hydrogène, un proton bleu entouré d'un électron (masse 1 u), et l'hélium, deux protons et deux neutrons entourés de deux électrons (masse 4 u), avec la légende des couleurs pour l'électron, le proton et le neutron" loading="lazy" decoding="async" width="1008" height="630" />
   <br /><small><em>La nucléosynthèse primordiale : en vingt minutes, l'univers se retrouve fait de 75 % d'hydrogène et de 25 % d'hélium.</em></small>
 </p>
 
@@ -76,12 +76,12 @@ tags: technology
 <p>Il fait désormais assez froid (~3 000 K) pour qu'un proton, de charge positive, capture un électron, de charge négative, et forme un atome d'hydrogène (un proton + un électron, sans neutron). Se forment de même l'hélium, puis des traces de lithium. C'est le nombre de protons dans le noyau qui détermine l'élément chimique et ses propriétés (hydrogène, hélium, lithium, carbone, oxygène, azote…).</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Atome d'hydrogène" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/VbQk7UzSrryWjuF7Yb/giphy.gif" alt="Modèle animé de l'atome d'hydrogène : un unique électron parcourt une orbite autour d'un noyau réduit à un proton ; la fiche indique le numéro atomique 1, le symbole H et la masse 1,008" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>L'atome d'hydrogène : un proton, un électron — l'élément le plus simple et le plus abondant de l'univers.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Atome d'hélium" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/YPEXWPopZcBKiEbWgq/giphy.gif" alt="Modèle animé de l'atome d'hélium : deux électrons sur une même orbite autour d'un noyau de deux protons et deux neutrons ; la fiche indique le numéro atomique 2, le symbole He et la masse 4,002" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>L'hélium : deux protons, deux neutrons — le deuxième élément, formé dès les premières minutes.</em></small>
 </p>
 
@@ -109,17 +109,17 @@ tags: technology
 <p>Sous l'effet de la gravité — dominée par la matière noire —, le gaz primordial tombe dans des halos de matière noire, s'y refroidit et s'y condense en étoiles : ainsi naissent les premières galaxies. De petits halos se forment d'abord, puis fusionnent les uns avec les autres (c'est le scénario hiérarchique, « bottom-up »). Ces premières galaxies sont gorgées de gaz et dominées par des étoiles bleues, massives et bien plus chaudes que la plupart des étoiles actuelles. On y trouve aussi des étoiles de population II, formées à partir du gaz enrichi en métaux par les supernovæ de la population III.</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Atome de carbone" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/Z8k6qo0AVIsPdROQNd/giphy.gif" alt="Modèle animé de l'atome de carbone : six électrons répartis sur deux couches autour d'un noyau de six protons et six neutrons ; la fiche indique le numéro atomique 6, le symbole C et la masse 12,011" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le carbone, six protons : forgé au cœur des étoiles, il est la base de toute la chimie du vivant.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif" alt="Atome d'oxygène" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/W2KU5PKZJHnbF4pwc2/giphy.gif" alt="Modèle animé de l'atome d'oxygène : huit électrons répartis sur deux couches autour d'un noyau de huit protons et huit neutrons ; la fiche indique le numéro atomique 8, le symbole O et la masse 15,999" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>L'oxygène, huit protons : troisième élément le plus abondant de l'univers, lui aussi cuisiné dans les étoiles.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Atome de zinc" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/gLQslDCTCupVZa6apV/giphy-downsized-large.gif" alt="Modèle animé de l'atome de zinc : trente électrons répartis sur quatre couches autour d'un noyau volumineux de trente protons et trente-cinq neutrons ; la fiche indique le numéro atomique 30 et le symbole Zn" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le zinc, trente protons : au-delà du fer, les éléments ne se forment plus que dans les explosions stellaires.</em></small>
 </p>
 
@@ -130,7 +130,7 @@ tags: technology
 <p>Dans les étoiles massives, le cœur de fer s'accumule jusqu'à dépasser une masse critique (environ 1,4 fois celle du Soleil) : la pression qui le soutenait cède, et il s'effondre sur lui-même en une fraction de seconde. Le rebond du cœur et l'intense bouffée de neutrinos projettent alors les couches externes dans une gigantesque explosion : une supernova à effondrement de cœur. Ces explosions dispersent dans l'Univers les éléments forgés par l'étoile — et en synthétisent de nouveaux, plus lourds que le fer. C'est ainsi que l'espace s'enrichit en oxygène, troisième élément le plus abondant de l'Univers en masse, après l'hydrogène et l'hélium.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/supernova.webp" alt="Une supernova" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/supernova.webp" alt="Photographie d'une supernova : le point lumineux isolé, en bas à gauche, brille presque autant que toute la galaxie spirale vue par la tranche à côté de laquelle l'étoile a explosé" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Une supernova : l'explosion disperse les éléments forgés par l'étoile et en synthétise de plus lourds que le fer.</em></small>
 </p>
 
@@ -146,7 +146,7 @@ tags: technology
 <p>Il y a aussi beaucoup de trous noirs, tout comme il y a beaucoup de supernovæ. La gravité d'un trou noir est si intense qu'au-delà d'une certaine limite (l'horizon des événements), rien ne peut s'en échapper, pas même la lumière. Les trous noirs peuvent fusionner entre eux et « dévorer » des étoiles qui s'en approchent trop. La plupart des grandes galaxies abritent en leur centre un trou noir supermassif. Le trou noir central influence son évolution, notamment en régulant la formation d'étoiles.</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif" alt="Atome d'uranium" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/J3y2WnZau1hfH3xyeV/giphy-downsized-large.gif" alt="Modèle animé de l'atome d'uranium : quatre-vingt-douze électrons répartis sur sept couches concentriques autour d'un gros noyau de 92 protons et 146 neutrons ; la fiche indique le symbole U et la masse 238,029" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>L'uranium, quatre-vingt-douze protons : les noyaux les plus lourds naissent dans les supernovæ et les fusions d'étoiles à neutrons.</em></small>
 </p>
 
@@ -155,7 +155,7 @@ tags: technology
 # -12 700 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/mathusalem.webp" alt="L'étoile de Mathusalem, l'une des plus vieilles connues" width="700" loading="lazy" decoding="async" height="382" />
+  <img src="/assets/img/mathusalem.webp" alt="Infographie « Mathusalem : la plus vieille planète connue (12,7 milliards d'années) » : une frise du contexte cosmologique depuis le Big Bang, un schéma de son système — un pulsar et une naine blanche au cœur de l'amas globulaire M4, avec la géante gazeuse de 2,5 masses de Jupiter — et un encadré sur ce que sa précocité nous apprend de la formation des planètes" width="700" loading="lazy" decoding="async" height="382" />
   <br /><small><em>L'étoile de Mathusalem, l'une des plus vieilles connues : sa pauvreté en éléments lourds trahit une naissance très précoce.</em></small>
 </p>
 
@@ -190,7 +190,7 @@ tags: technology
 <p>Le taux net de formation d'étoiles atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu en abondance. C'est une période connue sous le nom de « midi cosmique » (l'époque de formation maximale des étoiles), durant laquelle plus de la moitié des étoiles de l'Univers actuel se sont formées. Selon les observations de galaxies lointaines, le taux de formation stellaire y est environ dix fois plus élevé qu'aujourd'hui.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/fusionKraken.webp" alt="La fusion dite du Kraken" width="700" loading="lazy" decoding="async" height="382" />
+  <img src="/assets/img/fusionKraken.webp" alt="Infographie « La fusion fondatrice : l'événement clé du midi cosmique » : la proto-Voie lactée, il y a environ 11 milliards d'années, entre en collision avec la galaxie « Kraken » ; une large flèche mène à la Voie lactée mature d'aujourd'hui, dont plus de la moitié des étoiles se sont formées à cette époque, les amas globulaires fossiles servant de preuve de la fusion" width="700" loading="lazy" decoding="async" height="382" />
   <br /><small><em>La fusion dite du Kraken : les grandes galaxies se sont bâties en absorbant leurs voisines, l'une après l'autre.</em></small>
 </p>
 
@@ -212,7 +212,7 @@ tags: technology
 # -9 000 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/gazFroid.svg" alt="Le gaz froid tombe vers le centre de la galaxie et y alimente la formation des é" width="700" loading="lazy" decoding="async" />
+  <img src="/assets/img/gazFroid.svg" alt="Schéma « Pourquoi le gaz froid diminue » : au centre, le stock de gaz froid, le seul qui puisse former des étoiles ; une seule entrée, le ravitaillement en gaz neuf, faiblit à mesure que l'Univers s'étend, tandis que trois sorties continuent — le gaz se verrouille dans les étoiles, il est éjecté hors de la galaxie par les supernovæ, ou chauffé à des millions de degrés et rendu inutilisable" width="700" loading="lazy" decoding="async" />
   <br /><small><em>Le gaz froid tombe vers le centre de la galaxie et y alimente la formation des étoiles.</em></small>
 </p>
 
@@ -228,7 +228,7 @@ tags: technology
 <p>Le taux de formation d'étoiles dans la Voie lactée commence à décliner. La galaxie entre dans une phase plus calme : les grandes fusions sont derrière elle, et le gaz qu'elle continue d'accréter peut enfin se déposer tranquillement. Il s'organise en un disque mince, dynamiquement froid, en rotation rapide et ordonnée autour du centre galactique : le disque mince de notre galaxie — celui où naîtra le Soleil, et où réside aujourd'hui l'essentiel de la formation stellaire — commence à se mettre en place.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/disque.svg" alt="Le gaz accrété finit par s'organiser en un disque mince" width="700" loading="lazy" decoding="async" height="412" />
+  <img src="/assets/img/disque.svg" alt="Schéma de la Voie lactée vue par la tranche : le bulbe central, le disque épais qui l'enveloppe (étoiles anciennes aux orbites agitées, pauvres en fer et riches en oxygène et magnésium) et, en son milieu, le disque mince (étoiles plus jeunes, à rotation ordonnée et riches en métaux)" width="700" loading="lazy" decoding="async" height="412" />
   <br /><small><em>Le gaz accrété finit par s'organiser en un disque mince : c'est là que naîtront la plupart des étoiles de la Voie lactée.</em></small>
 </p>
 
@@ -239,7 +239,7 @@ tags: technology
 <p>Les grandes fusions du passé de la Voie lactée sont terminées : depuis Gaïa-Encelade, notre galaxie n'a plus connu de fusion majeure — une tranquillité inhabituelle pour une galaxie de sa taille (des accrétions plus modestes, comme celle du Sagittaire, se poursuivent néanmoins, et de grandes fusions l'attendent dans le futur). La Voie lactée est la deuxième plus grande galaxie de notre groupe de galaxies, le Groupe local. La plus grande, Andromède, est une immense galaxie spirale, semblable à la Voie lactée mais environ deux fois plus étendue et plus riche en étoiles — même si, en masse totale, les deux sont comparables.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/energiesombre.webp" alt="L'énergie sombre" width="700" loading="lazy" decoding="async" height="718" />
+  <img src="/assets/img/energiesombre.webp" alt="Graphique de la taille de l'Univers du Big Bang à aujourd'hui : la courbe monte en ralentissant tant que la matière domine, puis s'infléchit vers le haut au point de bascule, il y a environ 6 milliards d'années, quand l'énergie sombre prend le dessus et accélère l'expansion" width="700" loading="lazy" decoding="async" height="718" />
   <br /><small><em>L'énergie sombre : à partir de cette époque, l'expansion de l'univers cesse de ralentir et se met à accélérer.</em></small>
 </p>
 
@@ -266,7 +266,7 @@ tags: technology
 <p>Dans la zone chaude, près du Soleil, seuls les éléments réfractaires (roches et métaux) peuvent se condenser. La gravité assemble peu à peu ces roches en corps de plus en plus gros, jusqu'à former des planètes rocheuses, dites telluriques : Mercure, Vénus, la Terre et Mars.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Solarsystem3DJupiter.webp" alt="Le système solaire en formation" width="400" loading="lazy" decoding="async" height="405" />
+  <img src="/assets/img/Solarsystem3DJupiter.webp" alt="Vue en trois dimensions du système solaire posé sur une grille d'espace-temps déformée : le Soleil creuse le puits central, la Terre et Jupiter sont repérées sur leurs orbites" width="400" loading="lazy" decoding="async" height="405" />
   <br /><small><em>Le système solaire en formation : près du Soleil, seuls les métaux et les roches résistent à la chaleur.</em></small>
 </p>
 
@@ -293,21 +293,21 @@ tags: technology
 <p>L'orbite d'une planète de la taille de Mars, appelée Theia, la mène droit sur la Terre : c'est l'impact géant. La collision projette dans l'espace une énorme quantité de matière, issue à la fois de la Terre et de Theia. Pendant quelques millions d'années, notre planète possède des anneaux de débris, comme Saturne. Puis ces anneaux s'agglomèrent pour donner naissance à un nouveau monde : la Lune, l'unique satellite naturel permanent de la Terre.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/impactgeant.webp" alt="L'impact géant" width="400" loading="lazy" decoding="async" height="118" />
+  <img src="/assets/img/impactgeant.webp" alt="Schéma en quatre étapes de l'impact géant : la protoplanète Théia fonce vers la Terre, la percute, les débris arrachés forment un disque autour de la planète, puis s'accrètent en un satellite unique, la Lune" width="400" loading="lazy" decoding="async" height="118" />
   <br /><small><em>L'impact géant : une planète de la taille de Mars percute la Terre, et les débris s'assemblent en Lune.</em></small>
 </p>
 
 <p>La Lune, en rotation synchrone, présente toujours la même face à la Terre. Fait remarquable : elle a presque exactement la même taille apparente que le Soleil dans le ciel (environ un demi-degré chacun). C'est une coïncidence — le Soleil est environ 400 fois plus grand que la Lune, mais aussi 400 fois plus loin, si bien que les deux disques paraissent identiques. C'est ce qui permet à la Lune, lorsqu'elle passe entre la Terre et le Soleil, de masquer ce dernier presque parfaitement : c'est l'éclipse totale. Cette correspondance n'est toutefois que temporaire — la Lune s'éloigne de la Terre d'environ 3,8 cm par an, et dans un lointain futur, elle sera trop petite dans le ciel pour produire des éclipses totales.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/cachée_lune.webp" alt="La face cachée de la Lune" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/cachée_lune.webp" alt="Photographie de la face cachée de la Lune : une surface grise saturée de cratères de toutes tailles, presque dépourvue des grandes mers sombres de basalte" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>La face cachée de la Lune : privée des grandes mers de basalte, elle est bien plus cratérisée que l'autre.</em></small>
 </p>
 
 <p>Caché</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/visible_lune.webp" alt="La face visible de la Lune" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/visible_lune.webp" alt="Photographie de la face visible de la Lune : les vastes mers sombres de basalte tranchent sur les hautes terres claires criblées de cratères" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>La face visible de la Lune : la rotation synchrone lui fait toujours présenter le même côté à la Terre.</em></small>
 </p>
 
@@ -316,7 +316,7 @@ tags: technology
 # -4 400 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/zircon.webp' | relative_url }}" alt="Zircon de Jack Hills" loading="lazy" decoding="async" width="513" height="422" />
+  <img src="{{ '/assets/img/zircon.webp' | relative_url }}" alt="Photographie macro d'un cristal de zircon : un grain prismatique brun translucide de quelques millimètres, posé sur un support de verre" loading="lazy" decoding="async" width="513" height="422" />
   <br /><small><em>Un cristal de zircon : ces grains quasi indestructibles sont les plus vieux fragments connus de la croûte terrestre.</em></small>
 </p>
 
@@ -349,7 +349,7 @@ tags: technology
 # -4 000 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bombardementtardif.webp' | relative_url }}" alt="Grand bombardement tardif" loading="lazy" decoding="async" width="1200" height="1508" />
+  <img src="{{ '/assets/img/bombardementtardif.webp' | relative_url }}" alt="Vue d'artiste du grand bombardement tardif : la Terre encore rougeoyante encaisse un impact qui projette de la matière en fusion, tandis que des comètes traversent le ciel ; au premier plan, la Lune reçoit la même pluie de projectiles" loading="lazy" decoding="async" width="1200" height="1508" />
   <br /><small><em>Le grand bombardement tardif : une pluie d'astéroïdes qui apporte aussi de l'eau et des molécules organiques.</em></small>
 </p>
 
@@ -377,7 +377,7 @@ tags: technology
 # -3 500 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/stromatolithes.webp' | relative_url }}" alt="Stromatolites" loading="lazy" decoding="async" width="900" height="669" />
+  <img src="{{ '/assets/img/stromatolithes.webp' | relative_url }}" alt="Photographie d'un champ de stromatolithes : des dômes bruns et rugueux, larges de quelques dizaines de centimètres, émergeant d'une eau peu profonde le long d'un rivage à marée basse" loading="lazy" decoding="async" width="900" height="669" />
   <br /><small><em>Des stromatolithes : des dômes bâtis couche après couche par des tapis de cyanobactéries.</em></small>
 </p>
 
@@ -443,7 +443,7 @@ tags: technology
 <p>Les êtres vivants se rassemblent en filaments verdâtres, fins comme des cheveux, et en tapis visqueux qui recouvrent les fonds peu profonds, construits par des organismes microscopiques appelés cyanobactéries — les mêmes créatures qui forment l'écume bleu-vert sur les étangs aujourd'hui.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/cyanobacterie.webp" alt="Cyanobactéries" width="400" loading="lazy" decoding="async" height="225" />
+  <img src="/assets/img/cyanobacterie.webp" alt="Photographie d'une efflorescence de cyanobactéries : une écume vert intense recouvrant la surface d'une mare bordée de rochers et d'arbres" width="400" loading="lazy" decoding="async" height="225" />
   <br /><small><em>Des cyanobactéries : les organismes qui inventent la photosynthèse — et qui vont, sans le vouloir, saturer l'atmosphère d'oxygène.</em></small>
 </p>
 
@@ -467,7 +467,7 @@ tags: technology
 # -2 400 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ferrubane.webp' | relative_url }}" alt="Formation de fer rubané" loading="lazy" decoding="async" width="900" height="598" />
+  <img src="{{ '/assets/img/ferrubane.webp' | relative_url }}" alt="Photographie d'une formation de fer rubané : une roche polie où alternent, en plis serrés, des bandes rouge vif d'oxyde de fer et des lits gris argenté de silice" loading="lazy" decoding="async" width="900" height="598" />
   <br /><small><em>Un fer rubané : chaque bande est de l'oxygène produit par les cyanobactéries, aussitôt capté par le fer dissous dans l'océan.</em></small>
 </p>
 
@@ -484,7 +484,7 @@ tags: technology
 # -2 100 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/volcanco2.webp' | relative_url }}" alt="Éruption volcanique" loading="lazy" decoding="async" width="1200" height="882" />
+  <img src="{{ '/assets/img/volcanco2.webp' | relative_url }}" alt="Photographie aérienne d'une éruption volcanique : un panache de cendres brunes s'élève du cratère et se couche sous le vent au-dessus des flancs du volcan" loading="lazy" decoding="async" width="1200" height="882" />
   <br /><small><em>Les volcans réinjectent sans cesse du CO2 dans l'atmosphère : c'est le thermostat de long terme de la planète.</em></small>
 </p>
 
@@ -508,7 +508,7 @@ tags: technology
 <p>Une grande cellule engloutit une petite bactérie… mais ne la digère pas. La bactérie survit à l'intérieur, et les deux y trouvent leur compte : la petite sait utiliser l'oxygène pour produire de l'énergie en grande quantité, la grande lui offre abri et nutriments. Au fil des générations, la bactérie devient un composant permanent de sa cellule hôte : la mitochondrie, la centrale énergétique de la cellule.</p>
 
 <p style="text-align:center">
-  <img src="https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif" alt="Cellule eucaryote" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="https://media.giphy.com/media/mRI1hW0ZBVUly/giphy.gif" alt="Schéma animé d'une cellule eucaryote : un disque violet légendé « Cell », dont le cytoplasme entoure un noyau bleu délimité par une membrane en pointillés" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Une cellule eucaryote : son ADN est enfermé dans un noyau, contrairement à celui des bactéries.</em></small>
 </p>
 
@@ -521,7 +521,7 @@ tags: technology
 # -1 500 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chloroplaste.webp' | relative_url }}" alt="Chloroplaste" loading="lazy" decoding="async" width="900" height="469" />
+  <img src="{{ '/assets/img/chloroplaste.webp' | relative_url }}" alt="Photographie au microscope de cellules végétales : des cellules rectangulaires alignées, chacune remplie de chloroplastes vert vif plaqués contre la paroi" loading="lazy" decoding="async" width="900" height="469" />
   <br /><small><em>Le chloroplaste : une ancienne cyanobactérie avalée puis conservée, devenue l'usine à sucre de toutes les plantes.</em></small>
 </p>
 
@@ -538,7 +538,7 @@ tags: technology
 # -1 400 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bangiomorpha.webp' | relative_url }}" alt="Bangiomorpha, première algue rouge" loading="lazy" decoding="async" width="447" height="1169" />
+  <img src="{{ '/assets/img/bangiomorpha.webp' | relative_url }}" alt="Photographie au microscope du fossile de Bangiomorpha : un filament sombre fait de cellules empilées en chapelet dans la roche claire, avec une barre d'échelle sous l'image" loading="lazy" decoding="async" width="447" height="1169" />
   <br /><small><em>Bangiomorpha : la plus ancienne algue rouge connue, et l'un des premiers organismes à reproduction sexuée.</em></small>
 </p>
 
@@ -549,7 +549,7 @@ tags: technology
 # -1 300 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/champignons.webp' | relative_url }}" alt="Mycélium" loading="lazy" decoding="async" width="1200" height="540" />
+  <img src="{{ '/assets/img/champignons.webp' | relative_url }}" alt="Photographie macro d'un mycélium : un feutrage de filaments blancs colonisant du bois mort et de la matière organique en décomposition" loading="lazy" decoding="async" width="1200" height="540" />
   <br /><small><em>Le mycélium : un réseau de filaments qui digère la matière organique là où il pousse.</em></small>
 </p>
 
@@ -558,7 +558,7 @@ tags: technology
 # -1 200 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/reproductionsexuee.webp' | relative_url }}" alt="Méiose" loading="lazy" decoding="async" width="1200" height="974" />
+  <img src="{{ '/assets/img/reproductionsexuee.webp' | relative_url }}" alt="Planche décrivant la méiose : la méiose I (prophase, métaphase, anaphase, télophase et cytocinèse) puis la méiose II, étape par étape, jusqu'aux quatre gamètes obtenus, chaque cellule étant schématisée avec ses chromosomes et son fuseau" loading="lazy" decoding="async" width="1200" height="974" />
   <br /><small><em>La reproduction sexuée : deux individus mêlent leurs gènes, et la diversité des descendants explose.</em></small>
 </p>
 
@@ -578,7 +578,7 @@ tags: technology
 <p>Les continents, eux, n'ont jamais cessé de bouger. Portés par les lents mouvements du manteau, ils dérivent de quelques centimètres par an — assez, sur des centaines de millions d'années, pour redessiner entièrement le globe. Nuna s'est fragmenté ; ses morceaux, après une longue dérive, entrent en collision les uns avec les autres et se soudent en un nouveau supercontinent : Rodinia. C'est le cycle des supercontinents — assemblage, fragmentation, réassemblage — qui rythmera toute l'histoire de la planète.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Rodinia.webp" alt="Rodinia" width="400" loading="lazy" decoding="async" height="431" />
+  <img src="/assets/img/Rodinia.webp" alt="Reconstitution paléogéographique du globe à l'époque de Rodinia : les blocs continentaux, en relief ocre et vert bordés de plateaux continentaux bleu clair, sont soudés en une seule masse au centre de la planète" width="400" loading="lazy" decoding="async" height="431" />
   <br /><small><em>Rodinia : le supercontinent dont la fragmentation prépare les grandes glaciations qui suivront.</em></small>
 </p>
 
@@ -591,28 +591,28 @@ tags: technology
 <p>La rupture s'accompagne d'éruptions colossales, qui déversent à la surface d'immenses quantités de roche volcanique — principalement du basalte, une roche ignée sombre.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/basalte.webp" alt="Basalte" width="400" loading="lazy" decoding="async" height="300" />
+  <img src="/assets/img/basalte.webp" alt="Photographie d'un échantillon de basalte : un bloc de roche volcanique noire et bulleuse posé sur fond neutre, avec une échelle de 1 cm dessinée dessous" width="400" loading="lazy" decoding="async" height="300" />
   <br /><small><em>Le basalte : la roche volcanique sombre dont sont faits les planchers océaniques.</em></small>
 </p>
 
 <p style="text-align:center">(Basalte)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/basalteocean.webp" alt="Basalte au fond de l'océan" width="400" loading="lazy" decoding="async" height="242" />
+  <img src="/assets/img/basalteocean.webp" alt="Photographie sous-marine de laves en coussins : de gros bourrelets arrondis de basalte empilés sur le fond, dans une eau bleu-vert" width="400" loading="lazy" decoding="async" height="242" />
   <br /><small><em>Des coussins de basalte au fond de l'océan : la lave, refroidie brutalement au contact de l'eau, fige en boules empilées.</em></small>
 </p>
 
 <p style="display:block;text-align:center">(Basalte vu au fond de l'océan)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/lavebasaltique.jpg" alt="Coulée de lave basaltique" width="400" loading="lazy" decoding="async" height="300" />
+  <img src="/assets/img/lavebasaltique.jpg" alt="Photographie d'une coulée de lave basaltique refroidie : une étendue de roche noire ridée et craquelée à perte de vue, bordée de végétation à l'horizon" width="400" loading="lazy" decoding="async" height="300" />
   <br /><small><em>Une coulée de lave basaltique : très fluide, elle s'étale sur de grandes distances avant de figer.</em></small>
 </p>
 
 <p style="display:block;text-align:center">(Coulée de lave basaltique refroidie)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/cathedralebasalte.webp" alt="Cathédrale Saint-Étienne d'Agde" width="400" loading="lazy" decoding="async" height="600" />
+  <img src="/assets/img/cathedralebasalte.webp" alt="Photographie de la cathédrale Saint-Étienne d'Agde : le haut mur fortifié en blocs de basalte sombre, percé d'étroites ouvertures, se détache sur un ciel bleu" width="400" loading="lazy" decoding="async" height="600" />
   <br /><small><em>La cathédrale d'Agde, bâtie en basalte : la roche des grandes éruptions, réemployée en pierre de taille.</em></small>
 </p>
 
@@ -630,7 +630,7 @@ tags: technology
 <p>C'est peut-être vers cette époque — les analyses génétiques le suggèrent, même si les fossiles clairs n'apparaîtront que bien plus tard — qu'émergent les éponges de mer : les tout premiers animaux de l'histoire de la Terre. Fixées au fond des mers, elles inaugurent une nouvelle branche du vivant, celle qui mènera un jour aux poissons, aux dinosaures et à nous.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/eponges.webp" alt="Éponges de mer" width="400" loading="lazy" decoding="async" height="300" />
+  <img src="/assets/img/eponges.webp" alt="Photographie sous-marine d'une éponge de mer : une masse arrondie gris-beige percée de larges orifices, fixée sur un fond rocheux au milieu du corail" width="400" loading="lazy" decoding="async" height="300" />
   <br /><small><em>Des éponges de mer : fixées au fond, sans organes ni système nerveux — les tout premiers animaux.</em></small>
 </p>
 
@@ -643,7 +643,7 @@ tags: technology
 # -740 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/rodinia.webp' | relative_url }}" alt="Le supercontinent Rodinia" loading="lazy" decoding="async" width="800" height="800" />
+  <img src="{{ '/assets/img/rodinia.webp' | relative_url }}" alt="Reconstitution paléogéographique du globe pendant la dislocation de Rodinia : les cratons, en relief ocre et vert cernés de plateaux continentaux, commencent à se disperser sur la sphère quadrillée de méridiens" loading="lazy" decoding="async" width="800" height="800" />
   <br /><small><em>Rodinia : le supercontinent dont la dislocation entraînera la Terre vers ses plus grandes glaciations.</em></small>
 </p>
 
@@ -656,7 +656,7 @@ tags: technology
 # -720 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/trapsfranklin.webp' | relative_url }}" alt="Trapp volcanique" loading="lazy" decoding="async" width="1200" height="797" />
+  <img src="{{ '/assets/img/trapsfranklin.webp' | relative_url }}" alt="Photographie d'un affleurement de trapp volcanique : une falaise où des bancs de basalte sombre, patinés d'ocre, s'empilent sur plusieurs mètres au-dessus d'un éboulis" loading="lazy" decoding="async" width="1200" height="797" />
   <br /><small><em>Un trapp volcanique : des éruptions si vastes qu'elles noient des régions entières sous le basalte.</em></small>
 </p>
 
@@ -667,7 +667,7 @@ tags: technology
 # -717 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/terreboulendeneige.webp' | relative_url }}" alt="Terre boule de neige" loading="lazy" decoding="async" width="500" height="469" />
+  <img src="{{ '/assets/img/terreboulendeneige.webp' | relative_url }}" alt="Carte de simulation climatique intitulée « Snowball Earth Scenario » : un globe du Néoprotérozoïque où l'échelle de couleurs indique une couverture de neige et de glace de 0 à 100 %, la glace descendant jusqu'aux tropiques ; les paramètres du modèle NASA/GISS sont indiqués (CO₂ = 40 ppm, constante solaire 0,94)" loading="lazy" decoding="async" width="500" height="469" />
   <br /><small><em>La Terre boule de neige : les glaces descendent jusqu'aux tropiques, et il faudra des millions d'années de CO2 volcanique pour les faire fondre.</em></small>
 </p>
 
@@ -680,7 +680,7 @@ tags: technology
 # -660 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/volcanglace.webp' | relative_url }}" alt="Volcan sous la glace" loading="lazy" decoding="async" width="1200" height="797" />
+  <img src="{{ '/assets/img/volcanglace.webp' | relative_url }}" alt="Photographie d'un volcan sous la glace : un panache de vapeur s'échappe d'un cratère ouvert au milieu d'une calotte glaciaire crevassée, au bord d'une mer sombre" loading="lazy" decoding="async" width="1200" height="797" />
   <br /><small><em>Un volcan sous la glace : sous la carapace, les éruptions continuent d'injecter du CO2 dans l'atmosphère.</em></small>
 </p>
 
@@ -707,7 +707,7 @@ tags: technology
 # -630 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/capcarbonate.webp' | relative_url }}" alt="Efflorescence d'algues" loading="lazy" decoding="async" width="1200" height="1240" />
+  <img src="{{ '/assets/img/capcarbonate.webp' | relative_url }}" alt="Image satellite d'une efflorescence d'algues : d'immenses volutes vert émeraude tourbillonnent dans une mer sombre autour d'une île allongée" loading="lazy" decoding="async" width="1200" height="1240" />
   <br /><small><em>Une efflorescence d'algues : à la fonte des glaces, les nutriments arrachés aux roches nourrissent une explosion de vie.</em></small>
 </p>
 
@@ -737,7 +737,7 @@ tags: technology
 # -575 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ediacara.webp' | relative_url }}" alt="Faune d'Édiacara" loading="lazy" decoding="async" width="900" height="600" />
+  <img src="{{ '/assets/img/ediacara.webp' | relative_url }}" alt="Diorama reconstituant la faune d'Édiacara : des frondes dressées en forme de plumes, des disques mous posés sur le sable et des organismes en tube, sur un fond marin peu profond et sans prédateurs" loading="lazy" decoding="async" width="900" height="600" />
   <br /><small><em>La faune d'Ediacara, reconstituée en diorama : des organismes mous et plats, sans bouche ni yeux.</em></small>
 </p>
 
@@ -750,7 +750,7 @@ tags: technology
 # -555 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/kimberella.webp' | relative_url }}" alt="Kimberella" loading="lazy" decoding="async" width="1200" height="1625" />
+  <img src="{{ '/assets/img/kimberella.webp' | relative_url }}" alt="Photographie d'un fossile de Kimberella : l'empreinte d'un petit organisme ovale et segmenté, imprimée en creux dans un grès clair" loading="lazy" decoding="async" width="1200" height="1625" />
   <br /><small><em>Kimberella : quelques centimètres, probable ancêtre des mollusques, qui raclait les tapis microbiens des fonds marins.</em></small>
 </p>
 
@@ -761,7 +761,7 @@ tags: technology
 # -550 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cloudina.webp' | relative_url }}" alt="Cloudina" loading="lazy" decoding="async" width="800" height="600" />
+  <img src="{{ '/assets/img/cloudina.webp' | relative_url }}" alt="Reconstitution en 3D de Cloudina : un tube annelé fait de cônes emboîtés, dressé sur un fond marin sableux et couronné d'une collerette" loading="lazy" decoding="async" width="800" height="600" />
   <br /><small><em>Cloudina : de petits cônes empilés, l'une des toutes premières coquilles minérales — certaines portent des trous de prédateurs.</em></small>
 </p>
 
@@ -774,7 +774,7 @@ tags: technology
 # -539 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/explosioncambrienne.webp' | relative_url }}" alt="Explosion cambrienne" loading="lazy" decoding="async" width="1200" height="691" />
+  <img src="{{ '/assets/img/explosioncambrienne.webp' | relative_url }}" alt="Illustration d'un radiodonte du Cambrien vu de profil : deux appendices préhensiles articulés à l'avant, de gros yeux pédonculés et une rangée de lobes natatoires le long du corps" loading="lazy" decoding="async" width="1200" height="691" />
   <br /><small><em>L'explosion cambrienne : en trente millions d'années, presque tous les grands plans d'organisation animale apparaissent.</em></small>
 </p>
 
@@ -789,7 +789,7 @@ tags: technology
 # -521 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/trilobite.webp" alt="Trilobite" width="400" loading="lazy" decoding="async" height="228" />
+  <img src="/assets/img/trilobite.webp" alt="Illustration d'un fond marin du Cambrien : un grand trilobite au corps segmenté rampe sur le sable clair, entouré de vers, d'éponges, d'animaux filtreurs pédonculés et de nageurs qui passent au-dessus de lui" width="400" loading="lazy" decoding="async" height="228" />
   <br /><small><em>Un trilobite : carapace articulée et yeux composés — l'un des grands succès du Cambrien, pour trois cents millions d'années.</em></small>
 </p>
 
@@ -808,7 +808,7 @@ tags: technology
 <p>Le gisement de Chengjiang, en Chine, nous offre un instantané extraordinaire de ce monde en pleine ébullition — des fossiles si fins qu'on y voit les yeux, les pattes, parfois les organes internes.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/anomacolis.webp" alt="Anomalocaris" width="400" loading="lazy" decoding="async" height="309" />
+  <img src="/assets/img/anomacolis.webp" alt="Reconstitution en 3D d'Anomalocaris : un prédateur allongé aux flancs bordés de lobes natatoires, doté de deux appendices épineux repliés devant la bouche et d'une queue en éventail" width="400" loading="lazy" decoding="async" height="309" />
   <br /><small><em>Anomalocaris : jusqu'à un mètre de long et deux appendices préhensiles — l'un des premiers grands prédateurs.</em></small>
 </p>
 
@@ -824,7 +824,7 @@ tags: technology
 <p>Autour de lui grouille une ménagerie de créatures si étranges — Opabinia et ses cinq yeux, Hallucigenia et ses épines — que leurs découvreurs crurent d'abord à des erreurs de la nature.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Haikouichthys_NT.webp" alt="Haikouichthys" width="400" loading="lazy" decoding="async" height="161" />
+  <img src="/assets/img/Haikouichthys_NT.webp" alt="Illustration d'Haikouichthys : un animal long de quelques centimètres, en forme de petit poisson translucide, dont on distingue la corde dorsale et les segments musculaires en chevrons" width="400" loading="lazy" decoding="async" height="161" />
   <br /><small><em>Haikouichthys : quelques centimètres, une corde dorsale — l'un des tout premiers vertébrés.</em></small>
 </p>
 
@@ -841,7 +841,7 @@ tags: technology
 <p>Cette tige — la corde dorsale, ancêtre de la colonne vertébrale — semble bien modeste. Pikaia n'est même pas le premier de sa lignée : Haikouichthys, plus poisson que lui, nageait déjà dix millions d'années plus tôt. Mais Pikaia illustre à merveille le plan de base dont tout est parti — et c'est de ce plan-là que descendront les poissons, les dinosaures, et nous.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/metaspriggina.webp" alt="Metaspriggina" width="400" loading="lazy" decoding="async" height="225" />
+  <img src="/assets/img/metaspriggina.webp" alt="Illustration de Metaspriggina : un poisson sans mâchoires au corps fuselé et sombre, aux gros yeux placés en avant et à la rangée d'ouvertures branchiales bien visible, nageant dans une eau verte" width="400" loading="lazy" decoding="async" height="225" />
   <br /><small><em>Metaspriggina : un poisson sans mâchoires, dont les fossiles conservent les yeux et les arcs branchiaux.</em></small>
 </p>
 
@@ -850,12 +850,12 @@ tags: technology
 <p>Burgess conserve aussi Metaspriggina, un poisson de quelques centimètres aux fossiles d'une netteté stupéfiante : on y distingue ses deux yeux, ses muscles en chevrons, ses arcs branchiaux. Il a une bouche, mais pas de mâchoires — il se nourrit probablement en filtrant l'eau et les particules. Et il sait nager, vite : dans un océan patrouillé par des prédateurs comme Anomalocaris, la vitesse est une assurance-vie. Détail lourd d'avenir : parmi ses arcs branchiaux, la première paire est légèrement épaissie — c'est de ces structures que naîtront, des dizaines de millions d'années plus tard, les mâchoires.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/lamprey.webp" alt="Lamproie" width="400" loading="lazy" decoding="async" height="267" />
+  <img src="/assets/img/lamprey.webp" alt="Photographie d'une lamproie : un corps anguille brun marbré, dont on voit la bouche circulaire sans mâchoires et la file de sept orifices branchiaux derrière l'œil" width="400" loading="lazy" decoding="async" height="267" />
   <br /><small><em>La lamproie : l'un des rares survivants actuels des vertébrés sans mâchoires.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/myxine.webp" alt="Myxine" width="400" loading="lazy" decoding="async" height="179" />
+  <img src="/assets/img/myxine.webp" alt="Photographie d'une myxine : un animal allongé, sans mâchoires ni nageoires paires, au corps brun-rose replié en U sur fond bleu" width="400" loading="lazy" decoding="async" height="179" />
   <br /><small><em>La myxine : avec la lamproie, le dernier témoin vivant des poissons sans mâchoires.</em></small>
 </p>
 
@@ -868,7 +868,7 @@ tags: technology
 # -500 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/paleogeocambrien.webp' | relative_url }}" alt="Paléogéographie du Cambrien" loading="lazy" decoding="async" width="1200" height="602" />
+  <img src="{{ '/assets/img/paleogeocambrien.webp' | relative_url }}" alt="Carte paléogéographique du Cambrien en projection ovale : quelques continents dispersés dans l'hémisphère sud, cernés de vastes plateaux continentaux peu profonds en bleu clair, au milieu d'un océan unique" loading="lazy" decoding="async" width="1200" height="602" />
   <br /><small><em>La paléogéographie du Cambrien : des continents dispersés et de vastes mers peu profondes, propices à la vie.</em></small>
 </p>
 
@@ -911,7 +911,7 @@ tags: technology
 <p>Dans les mers, les poissons se diversifient. Beaucoup portent une armure de denticules — des écailles construites exactement comme des dents, avec dentine et émail — pour se protéger des prédateurs. Et c'est vers cette époque qu'apparaît l'une des inventions les plus lourdes de conséquences de l'évolution : la mâchoire, née de la transformation du premier arc branchial. Selon une hypothèse classique, les dents qui la garnissent dériveraient des denticules de la peau — des dents externes « rentrées » dans la bouche.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/jaekelopterus.webp" alt="Jaekelopterus" width="400" loading="lazy" decoding="async" height="267" />
+  <img src="/assets/img/jaekelopterus.webp" alt="Illustration de Jaekelopterus : un scorpion de mer au long corps segmenté rose violacé, terminé par une palette natatoire et armé à l'avant de deux grandes pinces dentées" width="400" loading="lazy" decoding="async" height="267" />
   <br /><small><em>Jaekelopterus : un scorpion de mer de deux mètres et demi, le plus grand arthropode ayant jamais existé.</em></small>
 </p>
 
@@ -924,7 +924,7 @@ tags: technology
 # -425 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/cooksonia.webp" alt="Cooksonia" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/cooksonia.webp" alt="Reconstitution en 3D de Cooksonia : de fines tiges vertes sans feuilles ni racines, hautes de quelques centimètres, chacune terminée par un sporange en forme de coupe, sur un sol humide" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Cooksonia : quelques centimètres de tiges nues, sans feuilles ni racines — l'une des premières plantes terrestres.</em></small>
 </p>
 
@@ -952,7 +952,7 @@ tags: technology
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/placoderme.webp" alt="Placoderme" width="400" loading="lazy" decoding="async" height="158" />
+  <img src="/assets/img/placoderme.webp" alt="Illustration d'un placoderme : un poisson au bouclier de plaques osseuses recouvrant la tête et l'avant du corps, la gueule ouverte sur des lames tranchantes tenant lieu de dents" width="400" loading="lazy" decoding="async" height="158" />
   <br /><small><em>Un placoderme : une tête cuirassée de plaques osseuses, et les premières vraies mâchoires.</em></small>
 </p>
 
@@ -969,7 +969,7 @@ tags: technology
 <p>La terre ferme se peuple pour de bon. Aux mille-pattes pionniers se joignent les proches parents des araignées — les trigonotarbes — ainsi que les premiers insectes, encore sans ailes. Le gisement de Rhynie, en Écosse, nous conserve un instantané fabuleux de ce monde : tout un écosystème — plantes, champignons, arachnides, mille-pattes — pétrifié dans la silice d'anciennes sources chaudes, avec un détail si fin qu'on y voit les cellules.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/rhynie.webp' | relative_url }}" alt="Le chert de Rhynie, en Écosse" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/rhynie.webp' | relative_url }}" alt="Photographie d'un échantillon de chert de Rhynie : un bloc de roche siliceuse beige et grise, portant un numéro d'inventaire peint en rouge, dans lequel est figé un écosystème dévonien entier" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Le chert de Rhynie, en Écosse : une tourbière silicifiée qui a figé tout un écosystème terrestre du Dévonien, plantes et arthropodes compris. Jpwilson at English Wikipedia, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -980,7 +980,7 @@ tags: technology
 # -385 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/archaeopteris.webp' | relative_url }}" alt="Archaeopteris" loading="lazy" decoding="async" width="788" height="900" />
+  <img src="{{ '/assets/img/archaeopteris.webp' | relative_url }}" alt="Photographie d'un fossile d'Archaeopteris : l'empreinte sombre d'un rameau et de ses frondes finement découpées, conservée sur une dalle de schiste exposée en vitrine" loading="lazy" decoding="async" width="788" height="900" />
   <br /><small><em>Archaeopteris : un tronc de bois véritable et un feuillage de fougère — l'arbre des premières forêts.</em></small>
 </p>
 
@@ -995,7 +995,7 @@ tags: technology
 # -380 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/panderichthys.webp" alt="Panderichthys" width="400" loading="lazy" decoding="async" height="284" />
+  <img src="/assets/img/panderichthys.webp" alt="Illustration de Panderichthys : un poisson au corps aplati et à la tête large, muni de nageoires charnues qui lui servent d'appuis, glissant au ras d'un fond de sable ridé" width="400" loading="lazy" decoding="async" height="284" />
   <br /><small><em>Panderichthys : un poisson à nageoires charnues, déjà taillé pour les eaux peu profondes.</em></small>
 </p>
 
@@ -1010,7 +1010,7 @@ tags: technology
 # -365 000 000 d'années
 
 <p style="text-align:center">
-  <img src="/assets/img/ichthyostegalia.webp" alt="Ichthyostega" width="400" loading="lazy" decoding="async" height="152" />
+  <img src="/assets/img/ichthyostegalia.webp" alt="Illustration d'Ichthyostega : un tétrapode au dos bleu sombre rayé, pourvu de quatre membres à doigts mais gardant une queue de poisson bordée d'une nageoire" width="400" loading="lazy" decoding="async" height="152" />
   <br /><small><em>Ichthyostega : quatre membres et des doigts, mais encore une queue de poisson — l'un des premiers tétrapodes.</em></small>
 </p>
 
@@ -1046,7 +1046,7 @@ tags: technology
 # -350 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/foretcarbonifere.webp' | relative_url }}" alt="Forêt du Carbonifère" loading="lazy" decoding="async" width="1200" height="424" />
+  <img src="{{ '/assets/img/foretcarbonifere.webp' | relative_url }}" alt="Peinture d'un paysage primitif : une coulée de lave incandescente dévale une falaise sombre jusqu'à la mer, d'où montent de nombreux panaches de vapeur, sous un ciel embrumé barré de reliefs lointains" loading="lazy" decoding="async" width="1200" height="424" />
   <br /><small><em>Une forêt du Carbonifère : des arbres de quarante mètres dont les troncs enfouis deviendront le charbon.</em></small>
 </p>
 
@@ -1068,7 +1068,7 @@ tags: technology
 <p>C'est la rupture définitive. Les amphibiens restent attachés aux points d'eau par leurs pontes ; les amniotes, eux, peuvent vivre et se reproduire n'importe où sur la terre ferme. Ce sont les premiers vertébrés cent pour cent terrestres — les arthropodes, eux, avaient pris de l'avance depuis longtemps.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/hylonomus.webp" alt="Hylonomus" width="400" loading="lazy" decoding="async" height="169" />
+  <img src="/assets/img/hylonomus.webp" alt="Illustration d'Hylonomus : un petit reptile vert olive tacheté d'orange, à longue queue et pattes écartées, l'un des premiers vertébrés entièrement terrestres" width="400" loading="lazy" decoding="async" height="169" />
   <br /><small><em>Hylonomus : un petit reptile dont l'œuf à coquille dispense définitivement de retourner à l'eau.</em></small>
 </p>
 
@@ -1081,7 +1081,7 @@ tags: technology
 # -310 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/appalaches.webp' | relative_url }}" alt="Les Appalaches" loading="lazy" decoding="async" width="859" height="644" />
+  <img src="{{ '/assets/img/appalaches.webp' | relative_url }}" alt="Photographie des Appalaches au crépuscule : des croupes boisées arrondies s'étagent jusqu'à l'horizon sous un ciel nuageux, vestiges érodés d'une chaîne autrefois himalayenne" loading="lazy" decoding="async" width="859" height="644" />
   <br /><small><em>Les Appalaches : ce qui reste, érodé, de la chaîne soulevée par la collision qui a formé la Pangée.</em></small>
 </p>
 
@@ -1108,7 +1108,7 @@ tags: technology
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/meganeura.webp" alt="Meganeura" width="400" loading="lazy" decoding="async" height="251" />
+  <img src="/assets/img/meganeura.webp" alt="Illustration de Meganeura : une libellule géante aux quatre ailes nervurées translucides survole une végétation de fougères au coucher du soleil, d'autres insectes volant en arrière-plan" width="400" loading="lazy" decoding="async" height="251" />
   <br /><small><em>Meganeura : soixante-dix centimètres d'envergure, rendus possibles par un air exceptionnellement riche en oxygène.</em></small>
 </p>
 
@@ -1126,7 +1126,7 @@ tags: technology
 # -290 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/dimetrodon.webp' | relative_url }}" alt="Dimetrodon" loading="lazy" decoding="async" width="1200" height="744" />
+  <img src="{{ '/assets/img/dimetrodon.webp' | relative_url }}" alt="Photographie du squelette monté d'un Dimetrodon : un quadrupède dont les longues épines dorsales portaient une grande voile de peau, présenté sur fond noir" loading="lazy" decoding="async" width="1200" height="744" />
   <br /><small><em>Dimetrodon : malgré l'allure, ce n'est pas un dinosaure mais un synapside — plus proche de nous que des reptiles.</em></small>
 </p>
 
@@ -1171,7 +1171,7 @@ tags: technology
 <p>Mais la concurrence se réorganise vite. Parmi les reptiles qui se diversifient dans ce monde à reconstruire, un groupe monte en puissance : les archosaures — les « reptiles dominants ». De leurs rangs sortiront les crocodiles, les ptérosaures… et, d'ici quelques millions d'années, les premiers dinosaures. Le monde d'après la Grande Mort est en train de choisir ses nouveaux maîtres.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/thetis.webp" alt="La Pangée et la mer Téthys" width="400" loading="lazy" decoding="async" height="209" />
+  <img src="/assets/img/thetis.webp" alt="Carte paléogéographique du milieu du Jurassique (−180 millions d'années) en projection ovale : la Pangée encore soudée, l'océan Panthalassique à l'ouest et la mer Paléo-Téthys ouverte à l'est" width="400" loading="lazy" decoding="async" height="209" />
   <br /><small><em>La Pangée et la mer Téthys : un continent unique, ouvert à l'est sur un golfe immense.</em></small>
 </p>
 
@@ -1180,7 +1180,7 @@ tags: technology
 # -230 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/eoraptor.webp' | relative_url }}" alt="Eoraptor" loading="lazy" decoding="async" width="1200" height="893" />
+  <img src="{{ '/assets/img/eoraptor.webp' | relative_url }}" alt="Photographie du squelette monté d'un Eoraptor dans un musée : un petit dinosaure bipède d'environ un mètre, cou tendu et longue queue en équilibre" loading="lazy" decoding="async" width="1200" height="893" />
   <br /><small><em>Eoraptor : un mètre de long, bipède — l'un des tout premiers dinosaures connus.</em></small>
 </p>
 
@@ -1193,7 +1193,7 @@ tags: technology
 # -218 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/morganucodon.webp' | relative_url }}" alt="Morganucodon" loading="lazy" decoding="async" width="1200" height="587" />
+  <img src="{{ '/assets/img/morganucodon.webp' | relative_url }}" alt="Illustration de Morganucodon : un petit mammifère brun de la taille d'une musaraigne, au museau pointu garni de vibrisses et à la longue queue nue" loading="lazy" decoding="async" width="1200" height="587" />
   <br /><small><em>Morganucodon : la taille d'une musaraigne, nocturne et discret — l'un des tout premiers mammifères.</em></small>
 </p>
 
@@ -1212,7 +1212,7 @@ tags: technology
 # -201 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/camp.webp' | relative_url }}" alt="Basalte de la province magmatique centre-atlantique" loading="lazy" decoding="async" width="432" height="318" />
+  <img src="{{ '/assets/img/camp.webp' | relative_url }}" alt="Coupe géologique du bassin de Newark le long de l'Interstate 80, de Parsippany à New York : les formations sédimentaires basculées et les intrusions de diabase et de basalte de la province magmatique centre-atlantique, avec leur légende de couleurs et une échelle" loading="lazy" decoding="async" width="432" height="318" />
   <br /><small><em>Les basaltes de la province magmatique centre-atlantique : la déchirure de la Pangée noie des régions entières sous la lave.</em></small>
 </p>
 
@@ -1232,7 +1232,7 @@ tags: technology
 <p>La déchirure entamée dix millions d'années plus tôt — celle-là même qui avait déclenché l'extinction de la fin du Trias — poursuit son travail. Les eaux marines s'engouffrent dans la grande fissure : un jeune océan est en train de naître, qui deviendra l'Atlantique.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/pangee.webp" alt="Pangée" width="400" loading="lazy" decoding="async" height="210" />
+  <img src="/assets/img/pangee.webp" alt="Reconstitution du globe à l'époque de la Pangée : toutes les terres émergées, en relief vert et ocre, sont soudées en un unique continent en forme de C, cerné par un océan mondial" width="400" loading="lazy" decoding="async" height="210" />
   <br /><small><em>La Pangée commence à se déchirer : la fissure deviendra l'océan Atlantique.</em></small>
 </p>
 
@@ -1266,7 +1266,7 @@ tags: technology
 # -165 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pollinisation.webp' | relative_url }}" alt="Insecte pollinisateur" loading="lazy" decoding="async" width="1200" height="1068" />
+  <img src="{{ '/assets/img/pollinisation.webp' | relative_url }}" alt="Photographie macro d'une abeille sauvage noire posée au cœur d'une grande fleur jaune, couverte de pollen au milieu des étamines" loading="lazy" decoding="async" width="1200" height="1068" />
   <br /><small><em>La pollinisation par les insectes : un service rendu sans intention, qui deviendra l'une des grandes alliances du vivant.</em></small>
 </p>
 
@@ -1281,7 +1281,7 @@ tags: technology
 # -155 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/diplodocus.webp' | relative_url }}" alt="Diplodocus" loading="lazy" decoding="async" width="621" height="470" />
+  <img src="{{ '/assets/img/diplodocus.webp' | relative_url }}" alt="Photographie du squelette monté d'un Diplodocus dans le hall vitré d'un musée : un sauropode de vingt-sept mètres au très long cou et à la queue en fouet" loading="lazy" decoding="async" width="621" height="470" />
   <br /><small><em>Diplodocus : vingt-sept mètres de long, l'un des plus grands animaux ayant jamais marché sur la terre ferme.</em></small>
 </p>
 
@@ -1294,7 +1294,7 @@ tags: technology
 # -150 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/archaeopteryx.webp' | relative_url }}" alt="Archaeopteryx" loading="lazy" decoding="async" width="500" height="375" />
+  <img src="{{ '/assets/img/archaeopteryx.webp' | relative_url }}" alt="Reconstitution d'Archaeopteryx : un animal de la taille d'un corbeau, au plumage noir, ailes déployées et longue queue emplumée, posé sur une branche moussue en sous-bois" loading="lazy" decoding="async" width="500" height="375" />
   <br /><small><em>Archaeopteryx : des plumes et des ailes, mais aussi des dents, des griffes et une longue queue osseuse.</em></small>
 </p>
 
@@ -1307,7 +1307,7 @@ tags: technology
 # -125 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/archaefructus.webp' | relative_url }}" alt="Archaefructus" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/archaefructus.webp' | relative_url }}" alt="Photographie du fossile d'Archaefructus : la tige fine et les rameaux découpés de l'une des plus anciennes plantes à fleurs, imprimés sur une dalle calcaire claire" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>Archaefructus : l'une des plus anciennes plantes à fleurs connues, fossilisée en Chine.</em></small>
 </p>
 
@@ -1322,7 +1322,7 @@ tags: technology
 # -100 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/najash.webp' | relative_url }}" alt="Najash, serpent primitif" loading="lazy" decoding="async" width="1200" height="796" />
+  <img src="{{ '/assets/img/najash.webp' | relative_url }}" alt="Photographie d'un petit fossile posé au creux d'une paume : un fragment osseux blanchâtre de quelques centimètres, à peine plus grand qu'une phalange" loading="lazy" decoding="async" width="1200" height="796" />
   <br /><small><em>Najash : un serpent primitif qui possède encore ses pattes arrière.</em></small>
 </p>
 
@@ -1335,7 +1335,7 @@ tags: technology
 # -95 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/sarcosuchus.webp' | relative_url }}" alt="Sarcosuchus" loading="lazy" decoding="async" width="1200" height="1426" />
+  <img src="{{ '/assets/img/sarcosuchus.webp' | relative_url }}" alt="Illustration de Sarcosuchus : un crocodilien de plus de dix mètres au dos cuirassé d'écailles, corps recourbé et longues mâchoires ouvertes garnies de dents" loading="lazy" decoding="async" width="1200" height="1426" />
   <br /><small><em>Sarcosuchus : un crocodilien de plus de dix mètres, embusqué au bord de l'eau.</em></small>
 </p>
 
@@ -1348,7 +1348,7 @@ tags: technology
 # -80 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/merinterieure.webp' | relative_url }}" alt="La voie maritime intérieure de l'Ouest" loading="lazy" decoding="async" width="1200" height="1476" />
+  <img src="{{ '/assets/img/merinterieure.webp' | relative_url }}" alt="Carte paléogéographique de l'Amérique du Nord au Crétacé : la voie maritime intérieure de l'Ouest (Western Interior Seaway) coupe le continent en deux, séparant la Laramidia à l'ouest de l'Appalachia à l'est" loading="lazy" decoding="async" width="1200" height="1476" />
   <br /><small><em>La voie maritime intérieure de l'Ouest : au Crétacé, une mer coupe l'Amérique du Nord en deux.</em></small>
 </p>
 
@@ -1361,7 +1361,7 @@ tags: technology
 # -70 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/triceratops.webp' | relative_url }}" alt="Triceratops" loading="lazy" decoding="async" width="1200" height="554" />
+  <img src="{{ '/assets/img/triceratops.webp' | relative_url }}" alt="Photographie du squelette monté d'un Triceratops dans un musée : le crâne massif à trois cornes et large collerette osseuse, mis en valeur par un éclairage bleu" loading="lazy" decoding="async" width="1200" height="554" />
   <br /><small><em>Triceratops : trois cornes et une collerette osseuse, face aux prédateurs de la fin du Crétacé.</em></small>
 </p>
 
@@ -1372,7 +1372,7 @@ tags: technology
 # -68 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/trex.webp' | relative_url }}" alt="Tyrannosaurus rex" loading="lazy" decoding="async" width="900" height="555" />
+  <img src="{{ '/assets/img/trex.webp' | relative_url }}" alt="Photographie du squelette monté d'un Tyrannosaurus rex dans le hall d'un musée : treize mètres de long, gueule armée de dents en lame, petits bras à deux doigts et queue tendue à l'horizontale" loading="lazy" decoding="async" width="900" height="555" />
   <br /><small><em>Tyrannosaurus rex : treize mètres, huit tonnes, la morsure la plus puissante jamais mesurée chez un animal terrestre.</em></small>
 </p>
 
@@ -1406,7 +1406,7 @@ tags: technology
 <p>Car parmi les mammifères en pleine diversification émerge une nouvelle branche : les primates. Leur kit de survie est taillé pour les arbres : des mains préhensiles, aux doigts capables d'agripper les branches, avec des ongles plats à la place des griffes — et des yeux rapprochés vers l'avant du visage, pour voir en relief et jauger les distances avant de sauter de branche en branche. Des mains qui saisissent, des yeux qui mesurent : tout notre avenir tient déjà dans ce programme.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/purgatorius.webp" alt="Purgatorius" width="400" loading="lazy" decoding="async" height="260" />
+  <img src="/assets/img/purgatorius.webp" alt="Illustration de Purgatorius : un petit mammifère roux au museau effilé et à la longue queue touffue, grimpeur insectivore placé à la racine des primates" width="400" loading="lazy" decoding="async" height="260" />
   <br /><small><em>Purgatorius : un petit grimpeur insectivore, placé à la racine des primates.</em></small>
 </p>
 
@@ -1419,7 +1419,7 @@ tags: technology
 # -56 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/petm.webp' | relative_url }}" alt="Maximum thermique Paléocène-Éocène" loading="lazy" decoding="async" width="1200" height="800" />
+  <img src="{{ '/assets/img/petm.webp' | relative_url }}" alt="Carte mondiale des températures de juillet pendant l'optimum climatique de l'Éocène, calculées pour un taux de CO₂ six fois supérieur au niveau préindustriel : les continents apparaissent en rouge et orange, avec une échelle de température de −60 à +60 °C" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Le maximum thermique Paléocène-Éocène : un réchauffement brutal, déclenché par un relâchement massif de carbone.</em></small>
 </p>
 
@@ -1432,7 +1432,7 @@ tags: technology
 # -54 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/icaronycteris.webp' | relative_url }}" alt="Icaronycteris, chauve-souris fossile" loading="lazy" decoding="async" width="872" height="1215" />
+  <img src="{{ '/assets/img/icaronycteris.webp' | relative_url }}" alt="Photographie du fossile d'Icaronycteris : le squelette complet d'une chauve-souris conservé à plat dans la roche, ailes déployées et longs doigts qui tendaient la membrane" loading="lazy" decoding="async" width="872" height="1215" />
   <br /><small><em>Icaronycteris : une chauve-souris fossile qui volait déjà comme les actuelles.</em></small>
 </p>
 
@@ -1445,7 +1445,7 @@ tags: technology
 # -50 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pakicetus.webp' | relative_url }}" alt="Pakicetus" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/pakicetus.webp' | relative_url }}" alt="Photographie du squelette monté de Pakicetus dans un musée : un mammifère quadrupède de la taille d'un loup, au long crâne étroit — le point de départ de la lignée des baleines" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>Pakicetus : un mammifère à quatre pattes, au départ de la lignée qui donnera les baleines.</em></small>
 </p>
 
@@ -1458,7 +1458,7 @@ tags: technology
 # -47 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/himalaya.webp' | relative_url }}" alt="Himalaya" loading="lazy" decoding="async" width="900" height="232" />
+  <img src="{{ '/assets/img/himalaya.webp' | relative_url }}" alt="Photographie panoramique de l'Himalaya prise depuis l'espace : une succession de crêtes enneigées et de vallées glaciaires s'étirant sur tout le champ de vision" loading="lazy" decoding="async" width="900" height="232" />
   <br /><small><em>L'Himalaya : la chaîne née de la collision entre l'Inde et l'Eurasie, qui se poursuit encore aujourd'hui.</em></small>
 </p>
 
@@ -1471,7 +1471,7 @@ tags: technology
 # -45 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/separationaustralie.webp' | relative_url }}" alt="Séparation de l'Australie et de l'Antarctique" loading="lazy" decoding="async" width="788" height="849" />
+  <img src="{{ '/assets/img/separationaustralie.webp' | relative_url }}" alt="Carte de la dislocation du Gondwana dans l'océan Indien : les blocs de Madagascar, des Seychelles, de l'Inde et du Sri Lanka s'écartent de l'Afrique de l'Est et de l'Antarctique oriental le long des rifts, avec une échelle en milles et en kilomètres" loading="lazy" decoding="async" width="788" height="849" />
   <br /><small><em>L'Australie se détache de l'Antarctique et remonte vers le nord, avec sa cargaison de marsupiaux.</em></small>
 </p>
 
@@ -1482,7 +1482,7 @@ tags: technology
 # -34 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/passagedrake.webp' | relative_url }}" alt="Le passage de Drake" loading="lazy" decoding="async" width="1200" height="797" />
+  <img src="{{ '/assets/img/passagedrake.webp' | relative_url }}" alt="Photographie d'un iceberg tabulaire : une muraille de glace blanche aux parois verticales creusées de cavernes bleutées, dérivant sur une mer sombre" loading="lazy" decoding="async" width="1200" height="797" />
   <br /><small><em>Le passage de Drake s'ouvre : un courant se met à tourner autour de l'Antarctique et l'isole du reste du monde.</em></small>
 </p>
 
@@ -1497,7 +1497,7 @@ tags: technology
 # -30 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/prairies.webp' | relative_url }}" alt="Prairies et savanes" loading="lazy" decoding="async" width="1200" height="765" />
+  <img src="{{ '/assets/img/prairies.webp' | relative_url }}" alt="Photographie d'une savane : une plaine d'herbe verte parsemée de buissons et de petits arbres, traversée par une piste de terre rouge sous un ciel chargé" loading="lazy" decoding="async" width="1200" height="765" />
   <br /><small><em>Les prairies et les savanes gagnent du terrain : un monde plus frais, plus sec et plus ouvert.</em></small>
 </p>
 
@@ -1512,7 +1512,7 @@ tags: technology
 # -20 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/merychippus.webp' | relative_url }}" alt="Merychippus" loading="lazy" decoding="async" width="1200" height="1026" />
+  <img src="{{ '/assets/img/merychippus.webp' | relative_url }}" alt="Planche de l'évolution du cheval sur quatre étages : Mesohippus (Éocène supérieur), Merychippus (Miocène moyen), Pliohippus (Miocène supérieur) et Equus actuel, comparés par leur squelette entier, leur crâne et les os de leur patte, qui s'allongent et se réduisent à un seul doigt" loading="lazy" decoding="async" width="1200" height="1026" />
   <br /><small><em>Merychippus : des dents à croissance continue, pour brouter une herbe chargée de silice abrasive.</em></small>
 </p>
 
@@ -1536,14 +1536,14 @@ tags: technology
 <p>2 — Les canines des mâles et des femelles se ressemblent, alors que chez les autres grands singes, les mâles portent de grandes canines — un indice possible de sociétés moins fondées sur l'affrontement entre mâles.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/chimpanze.jpg" alt="Chimpanzé" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/chimpanze.jpg" alt="Portrait photographique d'un chimpanzé : le visage tourné vers l'objectif, oreilles écartées, arcades sourcilières marquées et menton clair" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le chimpanzé : avec le bonobo, notre plus proche parent vivant.</em></small>
 </p>
 
 <p style="display:block;text-align:center">(Chimpanzé)</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/bonobo.webp" alt="Bonobo" width="400" loading="lazy" decoding="async" height="397" />
+  <img src="/assets/img/bonobo.webp" alt="Photographie d'un bonobo accoudé à un poteau de bois, les mains croisées, devant un fond de feuillage vert" width="400" loading="lazy" decoding="async" height="397" />
   <br /><small><em>Le bonobo : aussi proche de nous que le chimpanzé, mais une société bien moins violente.</em></small>
 </p>
 
@@ -1558,7 +1558,7 @@ tags: technology
 # -4 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/australopitheques.webp' | relative_url }}" alt="Australopithèque" loading="lazy" decoding="async" width="750" height="632" />
+  <img src="{{ '/assets/img/australopitheques.webp' | relative_url }}" alt="Photographie d'un crâne fossile d'australopithèque sur fond noir, vu de trois quarts : boîte crânienne petite et arrondie, face projetée en avant et mâchoire massive" loading="lazy" decoding="async" width="750" height="632" />
   <br /><small><em>Les australopithèques : bipèdes accomplis au sol, mais encore bons grimpeurs.</em></small>
 </p>
 
@@ -1569,7 +1569,7 @@ tags: technology
 # -3 660 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/laetoli.webp' | relative_url }}" alt="Empreintes de Laetoli" loading="lazy" decoding="async" width="721" height="900" />
+  <img src="{{ '/assets/img/laetoli.webp' | relative_url }}" alt="Figure scientifique comparant trois empreintes de pied : une empreinte humaine actuelle, une empreinte expérimentale et l'empreinte fossile de Laetoli G1-37, chacune rendue par une carte de profondeur en courbes de niveau colorées accompagnée de son profil en coupe, avec des échelles de 5 cm" loading="lazy" decoding="async" width="721" height="900" />
   <br /><small><em>Les empreintes de Laetoli : la démarche bipède, lisible dans la cendre volcanique durcie.</em></small>
 </p>
 
@@ -1580,7 +1580,7 @@ tags: technology
 # -3 300 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lomekwi.webp' | relative_url }}" alt="Outils de Lomekwi" loading="lazy" decoding="async" width="992" height="735" />
+  <img src="{{ '/assets/img/lomekwi.webp' | relative_url }}" alt="Image satellite en fausses couleurs du lac Turkana, au Kenya : le long ruban vert du lac tranche sur les terres arides ocre et orangé du rift" loading="lazy" decoding="async" width="992" height="735" />
   <br /><small><em>Les outils de Lomekwi : des pierres taillées antérieures au genre Homo — si la datation tient.</em></small>
 </p>
 
@@ -1589,7 +1589,7 @@ tags: technology
 # -3 200 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lucy.webp' | relative_url }}" alt="Lucy" loading="lazy" decoding="async" width="373" height="900" />
+  <img src="{{ '/assets/img/lucy.webp' | relative_url }}" alt="Photographie du squelette fossile de Lucy : les os conservés — fragments de crâne, mandibule, côtes, bassin, fémurs et os des membres — disposés à leur place anatomique sur fond blanc" loading="lazy" decoding="async" width="373" height="900" />
   <br /><small><em>Lucy : 1,10 mètre, une trentaine de kilos, mi-marcheuse mi-grimpeuse.</em></small>
 </p>
 
@@ -1598,7 +1598,7 @@ tags: technology
 # -2 800 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ledigeraru.webp' | relative_url }}" alt="Mandibule de Ledi-Geraru" loading="lazy" decoding="async" width="1200" height="1302" />
+  <img src="{{ '/assets/img/ledigeraru.webp' | relative_url }}" alt="Photographie de la mandibule fossile de Ledi-Geraru en deux vues, de profil et par la face occlusale montrant la rangée de molaires, avec une réglette graduée en centimètres" loading="lazy" decoding="async" width="1200" height="1302" />
   <br /><small><em>La mandibule de Ledi-Geraru, en Éthiopie : le plus ancien fossile attribué au genre Homo.</em></small>
 </p>
 
@@ -1611,7 +1611,7 @@ tags: technology
 # -2 600 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/oldowayen.webp' | relative_url }}" alt="Galet aménagé oldowayen" loading="lazy" decoding="async" width="900" height="747" />
+  <img src="{{ '/assets/img/oldowayen.webp' | relative_url }}" alt="Photographie de trois galets aménagés de l'Oldowayen sur fond noir : des blocs de pierre dont quelques éclats détachés ont dégagé un tranchant vif" loading="lazy" decoding="async" width="900" height="747" />
   <br /><small><em>Un galet aménagé oldowayen : quelques éclats enlevés, et voilà un tranchant plus efficace qu'aucune dent.</em></small>
 </p>
 
@@ -1663,14 +1663,14 @@ tags: technology
 <p>Son succès défie l'imagination : le biface sera produit presque sans changement pendant près d'un million et demi d'années, de l'Afrique à l'Europe et à l'Asie. Aucun objet humain n'a jamais eu une telle carrière — des dizaines de milliers de générations à tailler, transmettre et retailler la même forme d'amande.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/biface.webp' | relative_url }}" alt="Biface acheuléen en silex" width="600" loading="lazy" decoding="async" height="300" />
+  <img src="{{ '/assets/img/biface.webp' | relative_url }}" alt="Photographie d'un biface acheuléen en silex présenté sous trois angles — face, revers et profil : un outil en amande taillé sur les deux faces, aux bords entièrement retouchés" width="600" loading="lazy" decoding="async" height="300" />
   <br /><small><em>Biface acheuléen en silex, Venerque (Haute-Garonne), trois vues. Photo Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 # -1 400 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/feuprehistorique.webp' | relative_url }}" alt="Foyer" loading="lazy" decoding="async" width="1200" height="1200" />
+  <img src="{{ '/assets/img/feuprehistorique.webp' | relative_url }}" alt="Photographie d'un feu de camp la nuit : des bûches embrasées dans un foyer, d'où jaillit une gerbe d'étincelles" loading="lazy" decoding="async" width="1200" height="1200" />
   <br /><small><em>Un foyer : os brûlés, sédiments chauffés, cendres — les premières traces sérieuses du feu entretenu.</em></small>
 </p>
 
@@ -1683,7 +1683,7 @@ tags: technology
 # -1 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/homoerectus.webp' | relative_url }}" alt="Homo erectus" loading="lazy" decoding="async" width="1200" height="1407" />
+  <img src="{{ '/assets/img/homoerectus.webp' | relative_url }}" alt="Planche de dessins scientifiques d'une calotte crânienne d'Homo erectus, présentée sous trois angles et légendée par ses numéros d'inventaire, avec le tracé des sutures et des reliefs osseux" loading="lazy" decoding="async" width="1200" height="1407" />
   <br /><small><em>Homo erectus : la première espèce humaine véritablement mondiale, de l'Afrique australe à Java.</em></small>
 </p>
 
@@ -1694,7 +1694,7 @@ tags: technology
 # -900 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/calottesglaciaires.webp' | relative_url }}" alt="Inlandsis du dernier maximum glaciaire" loading="lazy" decoding="async" width="1200" height="878" />
+  <img src="{{ '/assets/img/calottesglaciaires.webp' | relative_url }}" alt="Carte de l'Amérique du Nord au dernier maximum glaciaire : les inlandsis laurentidien, de la Cordillère et du Groenland recouvrent le nord du continent, avec une échelle d'altitude en couleurs et le tracé des dômes de glace" loading="lazy" decoding="async" width="1200" height="878" />
   <br /><small><em>Les inlandsis : quand ils avancent, ils emprisonnent assez d'eau pour faire chuter la mer de plus de cent mètres.</em></small>
 </p>
 
@@ -1705,7 +1705,7 @@ tags: technology
 # -780 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/gesherbenot.webp' | relative_url }}" alt="Gesher Benot Yaaqov" loading="lazy" decoding="async" width="1200" height="1196" />
+  <img src="{{ '/assets/img/gesherbenot.webp' | relative_url }}" alt="Photographie en noir et blanc de quatre outils de pierre du site de Gesher Benot Ya'aqov, disposés sur un fond clair : galets aménagés et éclats aux tranchants dégagés" loading="lazy" decoding="async" width="1200" height="1196" />
   <br /><small><em>Gesher Benot Ya'aqov, au bord du Jourdain : des foyers entretenus au même endroit pendant des générations.</em></small>
 </p>
 
@@ -1716,7 +1716,7 @@ tags: technology
 # -600 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/heidelbergensis.webp' | relative_url }}" alt="Homo heidelbergensis" loading="lazy" decoding="async" width="1200" height="1800" />
+  <img src="{{ '/assets/img/heidelbergensis.webp' | relative_url }}" alt="Photographie d'un crâne d'Homo heidelbergensis exposé en vitrine : un fort bourrelet sus-orbitaire, de vastes orbites et une face projetée, sous un cartel indiquant 600 à 150 milliers d'années" loading="lazy" decoding="async" width="1200" height="1800" />
   <br /><small><em>Homo heidelbergensis : plus grand et plus encéphalisé qu'erectus, chasseur de gros gibier armé d'épieux.</em></small>
 </p>
 
@@ -1747,7 +1747,7 @@ tags: technology
 # -430 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/simahuesos.webp' | relative_url }}" alt="Sima de los Huesos" loading="lazy" decoding="async" width="445" height="900" />
+  <img src="{{ '/assets/img/simahuesos.webp' | relative_url }}" alt="Planche des dix-sept crânes de la Sima de los Huesos, à Atapuerca, photographiés sous le même angle et numérotés sur fond noir, avec une échelle" loading="lazy" decoding="async" width="445" height="900" />
   <br /><small><em>Les crânes de la Sima de los Huesos : une trentaine d'individus au fond d'un puits de treize mètres.</em></small>
 </p>
 
@@ -1777,14 +1777,14 @@ tags: technology
 <p>Tout le travail est dans la préparation ; l'outil, lui, naît en un instant. C'est penser à l'envers, plusieurs coups à l'avance — les archéologues y voient l'un des meilleurs marqueurs de la planification mentale complexe. Et le procédé est rentable : d'un seul noyau bien préparé sortent plusieurs éclats standardisés, couteaux tout prêts pour découper la viande, racler les peaux, armer des pointes. La pierre devient une chaîne de production de précision.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/levallois.webp' | relative_url }}" alt="Nucléus Levallois et l'éclat qui en a été détaché" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/levallois.webp' | relative_url }}" alt="Photographie d'un nucléus Levallois et de l'éclat qui en a été détaché, posés côte à côte sur fond vert : la préparation du bloc a prédéterminé la forme de l'éclat obtenu" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Un nucléus Levallois et l'éclat qui en est sorti, préformé par la préparation du bloc. Wikimedia Commons, auteur inconnu, CC BY-SA 3.0.</em></small>
 </p>
 
 # -300 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/jebelirhoud.webp' | relative_url }}" alt="Crâne de Jebel Irhoud" loading="lazy" decoding="async" width="900" height="597" />
+  <img src="{{ '/assets/img/jebelirhoud.webp' | relative_url }}" alt="Photographie du crâne de Jebel Irhoud vu de face : un visage court et plat déjà moderne, surmonté d'une boîte crânienne encore basse et allongée" loading="lazy" decoding="async" width="900" height="597" />
   <br /><small><em>Le crâne de Jebel Irhoud : le visage est déjà le nôtre, la boîte crânienne encore allongée.</em></small>
 </p>
 
@@ -1803,7 +1803,7 @@ tags: technology
 # -110 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ngandong.webp' | relative_url }}" alt="Homo erectus de Ngandong" loading="lazy" decoding="async" width="1200" height="870" />
+  <img src="{{ '/assets/img/ngandong.webp' | relative_url }}" alt="Photographie d'une calotte crânienne d'Homo erectus de Ngandong exposée en vitrine : un os épais et bas, au bourrelet sus-orbitaire saillant" loading="lazy" decoding="async" width="1200" height="870" />
   <br /><small><em>Les derniers Homo erectus de Ngandong, à Java : l'espèce s'éteint après près de deux millions d'années.</em></small>
 </p>
 
@@ -1814,7 +1814,7 @@ tags: technology
 # -100 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/glaciationwurm.webp' | relative_url }}" alt="Glaciation de Würm" loading="lazy" decoding="async" width="1200" height="333" />
+  <img src="{{ '/assets/img/glaciationwurm.webp' | relative_url }}" alt="Graphique des températures reconstituées au Groenland depuis 20 000 ans : la longue phase froide du Pléistocène et du dernier maximum glaciaire, le réchauffement brutal du Bølling-Allerød, la rechute du Dryas récent, puis le plateau tempéré de l'Holocène marqué par l'événement froid de 8 200 ans" loading="lazy" decoding="async" width="1200" height="333" />
   <br /><small><em>La glaciation de Würm : près de quatre-vingt-dix mille ans de froid, qui redessinent la carte du vivant.</em></small>
 </p>
 
@@ -1827,7 +1827,7 @@ tags: technology
 # -90 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/blombos.webp' | relative_url }}" alt="Ocre gravée de Blombos" loading="lazy" decoding="async" width="600" height="900" />
+  <img src="{{ '/assets/img/blombos.webp' | relative_url }}" alt="Photographie de la falaise calcaire de Blombos, en Afrique du Sud : l'entrée sombre de la grotte s'ouvre au pied d'un versant broussailleux dominant la côte" loading="lazy" decoding="async" width="600" height="900" />
   <br /><small><em>Le site de Blombos, en Afrique du Sud : il a livré des blocs d'ocre gravés de motifs abstraits.</em></small>
 </p>
 
@@ -1851,7 +1851,7 @@ tags: technology
 # -70 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/diepkloof.webp' | relative_url }}" alt="Coquille d'œuf d'autruche gravée" loading="lazy" decoding="async" width="1200" height="674" />
+  <img src="{{ '/assets/img/diepkloof.webp' | relative_url }}" alt="Photographie de quatre fragments de coquille d'œuf d'autruche gravés, posés sur un fond clair : chacun porte des lignes parallèles et des hachures incisées formant un motif répété" loading="lazy" decoding="async" width="1200" height="674" />
   <br /><small><em>Une coquille d'œuf d'autruche gravée : un contenant décoré de motifs répétés, il y a soixante-dix mille ans.</em></small>
 </p>
 
@@ -1864,7 +1864,7 @@ tags: technology
 # -65 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lignewallace.webp' | relative_url }}" alt="La ligne Wallace" loading="lazy" decoding="async" width="1200" height="548" />
+  <img src="{{ '/assets/img/lignewallace.webp' | relative_url }}" alt="Carte de l'Asie du Sud-Est insulaire : la ligne Wallace, en tirets, sépare Bornéo et Bali à l'ouest de Sulawesi et Lombok à l'est, frontière biologique jamais franchie par la faune terrestre" loading="lazy" decoding="async" width="1200" height="548" />
   <br /><small><em>La ligne Wallace : une frontière biologique que la mer profonde a toujours interdite — sauf aux navigateurs.</em></small>
 </p>
 
@@ -1877,7 +1877,7 @@ tags: technology
 # -60 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pointeemmanchee.webp' | relative_url }}" alt="Pointe emmanchée" loading="lazy" decoding="async" width="1200" height="1410" />
+  <img src="{{ '/assets/img/pointeemmanchee.webp' | relative_url }}" alt="Photographie d'une pointe de projectile préhistorique présentée sous quatre angles sur fond noir : une lame allongée à base amincie, destinée à être collée et ligaturée sur une hampe" loading="lazy" decoding="async" width="1200" height="1410" />
   <br /><small><em>Une pointe emmanchée : la pierre collée à la résine et ligaturée sur une hampe — une arme composite.</em></small>
 </p>
 
@@ -1888,7 +1888,7 @@ tags: technology
 # -51 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/sulawesi.webp' | relative_url }}" alt="Peintures rupestres de Sulawesi" loading="lazy" decoding="async" width="1200" height="675" />
+  <img src="{{ '/assets/img/sulawesi.webp' | relative_url }}" alt="Photographie d'une paroi de grotte de Sulawesi portant une peinture rupestre à l'ocre rouge, en partie effacée par les concrétions calcaires" loading="lazy" decoding="async" width="1200" height="675" />
   <br /><small><em>Les peintures de Sulawesi : les plus anciennes scènes figuratives connues, où des figures chassent des cochons sauvages.</em></small>
 </p>
 
@@ -1901,7 +1901,7 @@ tags: technology
 # -50 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/paleolithiquesuperieur.webp' | relative_url }}" alt="Outils du Paléolithique supérieur" loading="lazy" decoding="async" width="948" height="1320" />
+  <img src="{{ '/assets/img/paleolithiquesuperieur.webp' | relative_url }}" alt="Photographie d'une vitrine de musée consacrée au Paléolithique supérieur : des dizaines de lames, burins, grattoirs et nucléus alignés sur un panneau, et trois grands outils présentés sur socles" loading="lazy" decoding="async" width="948" height="1320" />
   <br /><small><em>L'outillage du Paléolithique supérieur : de longues lames fines détachées en série d'un même nucléus.</em></small>
 </p>
 
@@ -1916,7 +1916,7 @@ tags: technology
 # -48 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/liondescavernes.webp' | relative_url }}" alt="Lion des cavernes" loading="lazy" decoding="async" width="1200" height="765" />
+  <img src="{{ '/assets/img/liondescavernes.webp' | relative_url }}" alt="Photographie d'un crâne de lion des cavernes sur fond noir, vu de profil : une tête massive aux canines puissantes, plus grande que celle du lion actuel" loading="lazy" decoding="async" width="1200" height="765" />
   <br /><small><em>Le lion des cavernes : plus massif que le lion actuel — et chassé par les Néandertaliens.</em></small>
 </p>
 
@@ -1929,7 +1929,7 @@ tags: technology
 # -45 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/aurignacien.webp' | relative_url }}" alt="L'Aurignacien" loading="lazy" decoding="async" width="1200" height="2133" />
+  <img src="{{ '/assets/img/aurignacien.webp' | relative_url }}" alt="Photographie d'une statuette aurignacienne en ivoire de mammouth représentant un être debout à tête de félin, haute d'une trentaine de centimètres et recollée à partir de nombreux fragments" loading="lazy" decoding="async" width="1200" height="2133" />
   <br /><small><em>L'Aurignacien : la première culture des sapiens d'Europe, riche en outils sur lames et en objets d'art.</em></small>
 </p>
 
@@ -1970,7 +1970,7 @@ tags: technology
 # -36 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chauvet.webp' | relative_url }}" alt="Grotte Chauvet" loading="lazy" decoding="async" width="400" height="300" />
+  <img src="{{ '/assets/img/chauvet.webp' | relative_url }}" alt="Photographie du panneau des chevaux de la grotte Chauvet : quatre têtes de chevaux dessinées au fusain, aux crinières estompées et aux volumes ombrés, superposées à des aurochs gravés" loading="lazy" decoding="async" width="400" height="300" />
   <br /><small><em>Les chevaux de la grotte Chauvet : perspective, mouvement, estompe — un art déjà pleinement maîtrisé.</em></small>
 </p>
 
@@ -1981,7 +1981,7 @@ tags: technology
 # -33 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/amputationborneo.webp' | relative_url }}" alt="Grotte de Bornéo" loading="lazy" decoding="async" width="1200" height="1600" />
+  <img src="{{ '/assets/img/amputationborneo.webp' | relative_url }}" alt="Photographie de l'intérieur d'une grotte de Bornéo : une échelle appuyée sous la vaste ouverture par laquelle tombe la lumière du jour, au-dessus d'un sol d'éboulis moussus" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>La grotte de Bornéo où fut pratiquée, il y a trente-trois mille ans, la plus ancienne amputation réussie connue.</em></small>
 </p>
 
@@ -1998,14 +1998,14 @@ tags: technology
 <p>Cette mobilité tisse un réseau continental. D'un bout à l'autre de l'Europe circulent les mêmes objets : outils de silex, parures d'ivoire, coquillages marins retrouvés à 800 kilomètres des côtes — preuves d'échanges au long cours. Et surtout, la tradition des Vénus, inaugurée par la figurine de Hohle Fels, devient une véritable mode continentale : de la France à la Sibérie, des dizaines de statuettes féminines aux formes généreuses, étonnamment semblables, sortent des mains gravettiennes. Une Europe glaciaire, clairsemée — mais connectée par des fils invisibles d'idées partagées.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/venushohlefels.webp' | relative_url }}" alt="Vénus de Hohle Fels, statuette en ivoire de mammouth" width="380" loading="lazy" decoding="async" height="568" />
+  <img src="{{ '/assets/img/venushohlefels.webp' | relative_url }}" alt="Photographie de la Vénus de Hohle Fels : une statuette en ivoire de mammouth de six centimètres, aux seins et au ventre très marqués, sans tête mais munie d'un anneau de suspension" width="380" loading="lazy" decoding="async" height="568" />
   <br /><small><em>La Vénus de Hohle Fels, taillée dans l'ivoire de mammouth — la plus ancienne représentation humaine connue. Photo Ramessos, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 # -26 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/loup.webp' | relative_url }}" alt="Le loup gris" loading="lazy" decoding="async" width="1200" height="1498" />
+  <img src="{{ '/assets/img/loup.webp' | relative_url }}" alt="Photographie d'un loup gris couché sur un rocher, la tête dressée et le regard tourné vers l'objectif" loading="lazy" decoding="async" width="1200" height="1498" />
   <br /><small><em>Le loup gris : l'ancêtre du chien, et la plus ancienne alliance de l'humanité avec une autre espèce.</em></small>
 </p>
 
@@ -2015,7 +2015,7 @@ tags: technology
 
 # -21 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ohalo2.webp' | relative_url }}" alt="Le lac de Tibériade" loading="lazy" decoding="async" width="1200" height="1800" />
+<p style="text-align:center"><img src="{{ '/assets/img/ohalo2.webp' | relative_url }}" alt="Photographie de la rive du lac de Tibériade : une plage de sable clair envahie de roseaux, l'eau calme et les collines à l'horizon" loading="lazy" decoding="async" width="1200" height="1800" />
   <br /><small><em>La rive du lac de Tibériade. C'est ici, sous les eaux basses, qu'a été fouillé le campement d'Ohalo II : des huttes de branchages, des foyers et des milliers de graines carbonisées, conservés par la vase pendant vingt-trois mille ans.</em></small></p>
 
 <p><em>(À partir d'ici, les dates ne sont plus comptées en années avant aujourd'hui mais en années avant notre ère — soit environ deux mille ans de moins.)</em></p>
@@ -2029,7 +2029,7 @@ tags: technology
 # -19 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/maximumglaciaire.webp' | relative_url }}" alt="Dernier maximum glaciaire" loading="lazy" decoding="async" width="650" height="472" />
+  <img src="{{ '/assets/img/maximumglaciaire.webp' | relative_url }}" alt="Carte CLIMAP du dernier maximum glaciaire : un planisphère où l'échelle de couleurs donne l'écart de température par rapport à aujourd'hui, de −10 à +4 °C, les océans refroidis apparaissant en bleu et les calottes de glace en gris" loading="lazy" decoding="async" width="650" height="472" />
   <br /><small><em>Le dernier maximum glaciaire : la mer est cent vingt mètres plus bas, et les calottes descendent loin vers le sud.</em></small>
 </p>
 
@@ -2041,19 +2041,19 @@ tags: technology
 
 # -17 000 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QKpcGQMin5M" data-id="QKpcGQMin5M" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/QKpcGQMin5M/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QKpcGQMin5M" data-id="QKpcGQMin5M" rel="noopener" aria-label="Lire la vidéo YouTube : Je visite la grotte de Lascaux !"><img src="https://i.ytimg.com/vi/QKpcGQMin5M/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Je visite la grotte de Lascaux ! »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>En Dordogne, la grotte de Lascaux devient le théâtre d'une intense activité artistique — près de 2 000 figures peintes et gravées, qui en font la « chapelle Sixtine de la préhistoire ». Des taureaux surtout — les aurochs géants de la Salle des Taureaux dépassent 5 mètres, les plus grandes figures de tout l'art paléolithique —, des chevaux, des cerfs, des bouquetins, accompagnés de signes abstraits et de motifs géométriques dont le sens nous échappe. Les techniques sont d'une maturité totale : pigments naturels soufflés ou appliqués, ombres, perspectives, mouvement.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lascaux.webp' | relative_url }}" alt="Peintures de la Salle des Taureaux, grotte de Lascaux" width="600" loading="lazy" decoding="async" height="393" />
+  <img src="{{ '/assets/img/lascaux.webp' | relative_url }}" alt="Photographie de la Salle des Taureaux, à Lascaux : sur la voûte calcaire claire, de grands aurochs noirs aux cornes en lyre, des chevaux et des cerfs peints à l'ocre se poursuivent en frise" width="600" loading="lazy" decoding="async" height="393" />
   <br /><small><em>La Salle des Taureaux, grotte de Lascaux. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Et l'exploit est aussi logistique. Ces salles sont plongées dans le noir absolu, loin de l'entrée : les artistes s'éclairaient avec des lampes à graisse — plus d'une centaine ont été retrouvées, de simples pierres creusées où brûlait une mèche dans la graisse animale — et montaient sur des échafaudages dont les parois gardent les traces d'ancrage. On n'improvise pas Lascaux : on le planifie, on l'équipe, on y travaille en équipe.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lampegraisse.webp' | relative_url }}" alt="Lampe à graisse en grès retrouvée à Lascaux" width="600" loading="lazy" decoding="async" height="435" />
+  <img src="{{ '/assets/img/lampegraisse.webp' | relative_url }}" alt="Photographie de la lampe à graisse en grès de Lascaux : une cuvette creusée dans la pierre, prolongée par un manche gravé de chevrons, avec une échelle sous l'objet" width="600" loading="lazy" decoding="async" height="435" />
   <br /><small><em>La lampe à graisse en grès retrouvée à Lascaux : une cuvette creusée où brûlait une mèche dans la graisse animale. Photo Sémhur, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2062,7 +2062,7 @@ tags: technology
 # -16 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/fil.webp' | relative_url }}" alt="Filage au fuseau" loading="lazy" decoding="async" width="1200" height="851" />
+  <img src="{{ '/assets/img/fil.webp' | relative_url }}" alt="Photographie d'un fuseau chargé de fil de laine, posé au-dessus d'une touffe de fibres brutes non encore filées" loading="lazy" decoding="async" width="1200" height="851" />
   <br /><small><em>Le filage au fuseau : tordre des fibres pour en faire un fil continu — une technologie qui ne laisse presque aucune trace.</em></small>
 </p>
 
@@ -2077,7 +2077,7 @@ tags: technology
 <p>Sa signature : le travail de l'os, du bois de renne et de l'ivoire. Plus souples à tailler que la pierre, mais solides, durables et légers, ces matériaux permettent des formes complexes que le silex interdit : aiguilles fines, poinçons, pointes de projectiles — et surtout deux inventions qui changent la chasse. Le harpon à barbelures, dont les crochets retiennent le poisson ou le gibier blessé ; et le propulseur : un simple levier prolongeant le bras, qui démultiplie la force du lancer et double la portée des sagaies. Le chasseur magdalénien touche sa proie là où son grand-père devait encore s'approcher.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/lampe.webp" alt="Lampe à graisse" width="400" loading="lazy" decoding="async" height="449" />
+  <img src="/assets/img/lampe.webp" alt="Planche comparant trois types de lampes à graisse paléolithiques — à circuit ouvert, à circuit fermé et à manche sculpté — chacune montrée par un dessin de sa mèche allumée et par la photographie de la lampe correspondante" width="400" loading="lazy" decoding="async" height="449" />
   <br /><small><em>Une lampe à graisse : la lumière portative sans laquelle on ne peint pas au fond d'une grotte.</em></small>
 </p>
 
@@ -2097,14 +2097,14 @@ tags: technology
 <p>Or voici le point capital : ils ne cultivent rien. Ce sont des chasseurs-cueilleurs — mais dans une région si généreuse (blé et orge sauvages à moissonner, gazelles, glands, poissons) qu'une ressource abondante et stable rend le nomadisme inutile. Leurs faucilles à lames de silex fauchent les céréales sauvages, leurs meules broient le grain : toute la panoplie du paysan, sans un seul champ. La leçon renverse le vieux récit : ce n'est pas l'agriculture qui a créé le village — c'est le village qui, bientôt, exigera l'agriculture.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/meulesnatoufiennes.webp' | relative_url }}" alt="Mortiers natoufiens en basalte et calcaire, Eynan" width="600" loading="lazy" decoding="async" height="415" />
+  <img src="{{ '/assets/img/meulesnatoufiennes.webp' | relative_url }}" alt="Photographie de mortiers natoufiens en basalte et en calcaire exposés en vitrine : de hauts godets de pierre creusés, servant à piler les céréales sauvages" width="600" loading="lazy" decoding="async" height="415" />
   <br /><small><em>Mortiers natoufiens en basalte et en calcaire, Eynan (Israël), vers -12 500 : la panoplie du paysan, sans un seul champ. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small>
 </p>
 
 # -12 200 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bonnoberkassel.webp' | relative_url }}" alt="Le chien de Bonn-Oberkassel" loading="lazy" decoding="async" width="1200" height="714" />
+  <img src="{{ '/assets/img/bonnoberkassel.webp' | relative_url }}" alt="Photographie de la sépulture de Bonn-Oberkassel exposée en musée : les os du chien disposés à leur place anatomique sur un panneau gris, accompagnés d'un schéma explicatif" loading="lazy" decoding="async" width="1200" height="714" />
   <br /><small><em>Le chien de Bonn-Oberkassel : enterré avec deux humains, après des mois de soins qui ne servaient à rien d'utile.</em></small>
 </p>
 
@@ -2113,7 +2113,7 @@ tags: technology
 # -10 900 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/dryasrecent.webp' | relative_url }}" alt="Le Dryas récent" loading="lazy" decoding="async" width="1200" height="927" />
+  <img src="{{ '/assets/img/dryasrecent.webp' | relative_url }}" alt="Carte de l'Europe pendant le Dryas récent (12 900 à 11 700 BP) : les bandes de végétation — désert polaire, toundra-steppe, steppe boisée, forêt tempérée, steppe sèche et semi-désert — descendent très au sud, avec la banquise et les glaciers au nord" loading="lazy" decoding="async" width="1200" height="927" />
   <br /><small><em>Le Dryas récent : en quelques décennies, l'hémisphère Nord rebascule dans des conditions quasi glaciaires.</em></small>
 </p>
 
@@ -2124,7 +2124,7 @@ tags: technology
 # -10 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/megafaune.webp' | relative_url }}" alt="Mammouth laineux" loading="lazy" decoding="async" width="946" height="611" />
+  <img src="{{ '/assets/img/megafaune.webp' | relative_url }}" alt="Gravure d'un mammouth laineux vu de profil : longue toison, oreilles courtes, dos bossu et défenses recourbées" loading="lazy" decoding="async" width="946" height="611" />
   <br /><small><em>Le mammouth laineux : comme la plupart des géants, il disparaît peu après l'arrivée des hommes.</em></small>
 </p>
 
@@ -2133,7 +2133,7 @@ tags: technology
 # -9 700 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/holocene.webp' | relative_url }}" alt="L'Holocène" loading="lazy" decoding="async" width="600" height="400" />
+  <img src="{{ '/assets/img/holocene.webp' | relative_url }}" alt="Graphique des variations de température de l'Holocène sur douze mille ans : plusieurs reconstructions régionales en couleurs et leur moyenne en trait noir, montrant la sortie de la dernière période glaciaire, l'optimum climatique puis un long plateau, avec en encart les données récentes jusqu'en 2016" loading="lazy" decoding="async" width="600" height="400" />
   <br /><small><em>L'Holocène : une période chaude et exceptionnellement stable — celle où tient toute l'histoire humaine.</em></small>
 </p>
 
@@ -2151,7 +2151,7 @@ tags: technology
 <p>Sur une colline du sud-est de la Turquie s'élève un monument qui a bouleversé notre compréhension des origines : Göbekli Tepe. Des enceintes de piliers de calcaire en forme de T — certains de plus de cinq mètres et dix tonnes — sculptés de renards, de serpents, de sangliers, de vautours, de scorpions. Le plus ancien ensemble monumental de l'humanité… érigé par des chasseurs-cueilleurs, avant l'agriculture, avant la poterie, avant les villages dignes de ce nom.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/gobeklitepe.webp' | relative_url }}" alt="Le site de Göbekli Tepe et ses enceintes de piliers en T" width="600" loading="lazy" decoding="async" height="399" />
+  <img src="{{ '/assets/img/gobeklitepe.webp' | relative_url }}" alt="Photographie du chantier de fouilles de Göbekli Tepe : des enceintes circulaires dégagées dans la colline, hérissées de piliers de calcaire en forme de T" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>Göbekli Tepe : les enceintes circulaires et leurs piliers de calcaire en forme de T. Photo Teomancimit, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2160,11 +2160,11 @@ tags: technology
 # -9 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/croissantfertile.jpg" alt="Le Croissant fertile" width="400" loading="lazy" decoding="async" height="289" />
+  <img src="/assets/img/croissantfertile.jpg" alt="Carte du Croissant fertile : la bande de terres cultivables, teintée de rose, s'incurve de l'Égypte et de la Méditerranée jusqu'au golfe Persique en passant par la Mésopotamie, avec les cités d'Ourouk, Our, Babylone, Ninive et Assour situées le long du Tigre et de l'Euphrate" width="400" loading="lazy" decoding="async" height="289" />
   <br /><small><em>Le Croissant fertile : l'arc de terres où naissent l'agriculture puis les premières villes.</em></small>
 </p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=brAf_1Q5-44" data-id="brAf_1Q5-44" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/brAf_1Q5-44/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=brAf_1Q5-44" data-id="brAf_1Q5-44" rel="noopener" aria-label="Lire la vidéo YouTube : L'invention de l'agriculture au Néolithique"><img src="https://i.ytimg.com/vi/brAf_1Q5-44/hqdefault.jpg" alt="Miniature de la vidéo YouTube « L'invention de l'agriculture au Néolithique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans un croissant de terres généreuses qui s'incurve d'Israël et de Jordanie vers la Syrie, la Turquie et l'Irak — le Croissant fertile —, des sapiens franchissent le pas : ils ne se contentent plus de récolter, ils sèment. L'agriculture commence, et le blé en est la première vedette.</p>
 
@@ -2181,7 +2181,7 @@ tags: technology
 <p>Et après les plantes, les animaux. À Ganj Dareh, dans le Zagros iranien, les habitants élèvent des chèvres — le premier herbivore domestiqué de l'histoire (le chien, compagnon de chasse, jouait dans une autre catégorie). Viande, lait, peaux : le troupeau est un garde-manger sur pattes. Moutons, porcs et bœufs suivront de peu — la ferme est en train de s'inventer, espèce par espèce.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/jericho.jpg" alt="Jéricho" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/jericho.jpg" alt="Photographie du chantier de fouilles de Jéricho : les murs de pierre et de brique crue des maisons dégagés au fond d'une tranchée creusée dans le tell" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Jéricho : une tour et un mur de pierre dressés par des villageois bien avant l'invention de la poterie.</em></small>
 </p>
 
@@ -2190,7 +2190,7 @@ tags: technology
 # -7 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chatsauvage.webp' | relative_url }}" alt="Chat sauvage africain" loading="lazy" decoding="async" width="1200" height="1442" />
+  <img src="{{ '/assets/img/chatsauvage.webp' | relative_url }}" alt="Lithographie ancienne d'un chat sauvage africain assis de profil : un pelage fauve tacheté et rayé, aux longues pattes et à la queue annelée" loading="lazy" decoding="async" width="1200" height="1442" />
   <br /><small><em>Le chat sauvage africain : il s'est domestiqué lui-même, en suivant les rongeurs jusque dans les greniers.</em></small>
 </p>
 
@@ -2214,12 +2214,12 @@ tags: technology
 # -6 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/briquecrue.webp" alt="Brique crue" width="400" loading="lazy" decoding="async" height="196" />
+  <img src="/assets/img/briquecrue.webp" alt="Photographie de deux briques crues : des blocs d'argile mêlée de paille, séchés au soleil, aux arêtes vives et à la surface ocre mate" width="400" loading="lazy" decoding="async" height="196" />
   <br /><small><em>La brique crue : argile et paille séchées au soleil — le matériau des premières villes.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/briquecuite.jpg" alt="Brique cuite" width="400" loading="lazy" decoding="async" height="265" />
+  <img src="/assets/img/briquecuite.jpg" alt="Photographie d'un mur de briques cuites : des rangées régulières de briques rouges jointoyées au mortier" width="400" loading="lazy" decoding="async" height="265" />
   <br /><small><em>La brique cuite : passée au four, elle résiste à l'eau, et reste longtemps réservée aux ouvrages prestigieux.</em></small>
 </p>
 
@@ -2230,7 +2230,7 @@ tags: technology
 # -6 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/irrigation.webp' | relative_url }}" alt="Canal d'irrigation" loading="lazy" decoding="async" width="1200" height="769" />
+  <img src="{{ '/assets/img/irrigation.webp' | relative_url }}" alt="Plan ancien d'un système d'irrigation par rigoles : depuis un lac, un canal principal alimente une dérivation puis un fossé de tête, d'où partent les sillons qui arrosent les parcelles" loading="lazy" decoding="async" width="1200" height="769" />
   <br /><small><em>Un canal d'irrigation : dans une plaine sans pluie, il transforme le fleuve en récolte.</em></small>
 </p>
 
@@ -2241,7 +2241,7 @@ tags: technology
 # -5 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cuivre.webp' | relative_url }}" alt="Métallurgie du cuivre" loading="lazy" decoding="async" width="480" height="380" />
+  <img src="{{ '/assets/img/cuivre.webp' | relative_url }}" alt="Photographie en noir et blanc d'une fonderie de cuivre : des ouvriers alignés devant le four et les conduits de coulée, dans la fumée, au-dessus des moules alignés au sol" loading="lazy" decoding="async" width="480" height="380" />
   <br /><small><em>La métallurgie du cuivre : chauffer le minerai pour en tirer le métal — probablement découvert dans les fours des potiers.</em></small>
 </p>
 
@@ -2262,14 +2262,14 @@ tags: technology
 <p>À l'autre bout du continent, sur la façade atlantique — Bretagne, péninsule Ibérique —, le grand mouvement mégalithique bat son plein : dolmens, menhirs et tumulus géants dressent leurs pierres de plusieurs tonnes face à l'océan — des architectures funéraires et cérémonielles antérieures aux pyramides de plus d'un millénaire, témoins de communautés paysannes capables d'œuvres collectives durables et d'un rapport aux morts et au ciel dont le sens exact nous échappe encore.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/carnac.webp' | relative_url }}" alt="Alignements mégalithiques de Kermario, Carnac" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/carnac.webp' | relative_url }}" alt="Photographie des alignements de Kermario, à Carnac : de longues files de menhirs de granit traversent un pré vallonné bordé de maisons et d'arbres" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Les alignements de Kermario, à Carnac (Bretagne). Photo Pinpin, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 # -3 700 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hierakonpolis.webp' | relative_url }}" alt="Poterie prédynastique égyptienne" loading="lazy" decoding="async" width="1066" height="1600" />
+  <img src="{{ '/assets/img/hierakonpolis.webp' | relative_url }}" alt="Photographie d'une poterie prédynastique égyptienne exposée en vitrine : un vase à panse effilée, à la terre rouge polie et au bord noirci par la cuisson" loading="lazy" decoding="async" width="1066" height="1600" />
   <br /><small><em>Une poterie prédynastique de Hiérakonpolis : ses parois gardent la trace chimique du beurre.</em></small>
 </p>
 
@@ -2280,7 +2280,7 @@ tags: technology
 # -3 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/roue.webp' | relative_url }}" alt="La roue" loading="lazy" decoding="async" width="758" height="900" />
+  <img src="{{ '/assets/img/roue.webp' | relative_url }}" alt="Photographie d'une roue de charrette en bois à rayons, cerclée de fer, appuyée contre un tronc d'arbre" loading="lazy" decoding="async" width="758" height="900" />
   <br /><small><em>La roue : d'abord un plateau de potier, puis l'essieu et le transport.</em></small>
 </p>
 
@@ -2299,7 +2299,7 @@ tags: technology
 <p>Le chemin part des humbles jetons d'argile qui comptaient les biens depuis des millénaires. On les enfermait dans des enveloppes d'argile scellées ; puis on eut l'idée d'imprimer leur forme sur l'enveloppe pour savoir ce qu'elle contenait sans la briser ; puis on comprit que l'empreinte suffisait — adieu les jetons. Sur des tablettes d'argile fraîche, un roseau taillé en biseau trace désormais des signes en coins : le cunéiforme. Les premières tablettes d'Uruk ne racontent ni dieux ni batailles ; elles comptent des sacs d'orge, des têtes de bétail — et des rations de bière, dont le pictogramme, une jarre pointue, est l'un des plus fréquents de ces archives. L'écriture est née de la comptabilité ; la poésie viendra après.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tabletteuruk.webp' | relative_url }}" alt="Tablette d'argile mésopotamienne à signes pictographiques, vers -3200" width="420" loading="lazy" decoding="async" height="466" />
+  <img src="{{ '/assets/img/tabletteuruk.webp' | relative_url }}" alt="Photographie d'une tablette d'argile mésopotamienne : quelques pictogrammes en creux — un poisson, un disque barré, un rectangle — accompagnés d'encoches de comptage, avant l'invention du cunéiforme" width="420" loading="lazy" decoding="async" height="466" />
   <br /><small><em>Tablette d'argile mésopotamienne, vers -3200 : des pictogrammes et des encoches de comptage, avant même le cunéiforme. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2316,14 +2316,14 @@ tags: technology
 # -3 100 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/hieroglyphe.webp" alt="Hiéroglyphes égyptiens" width="400" loading="lazy" decoding="async" height="300" />
+  <img src="/assets/img/hieroglyphe.webp" alt="Photographie d'un relief égyptien gravé de hiéroglyphes sur deux registres : oiseaux, personnages assis, vases et signes géométriques taillés en creux dans le calcaire" width="400" loading="lazy" decoding="async" height="300" />
   <br /><small><em>Les hiéroglyphes égyptiens : des signes qui notent tantôt une chose, tantôt un son.</em></small>
 </p>
 
 <p>L'Égypte n'est pas en reste : presque au même moment — invention indépendante ou idée voyageuse, on en débat — apparaissent les hiéroglyphes, ces « paroles divines » qui mêlent images et sons, gravées sur l'ivoire, la pierre et bientôt le papyrus. Et le long du Nil, l'histoire s'accélère : les royaumes rivaux de la vallée s'unifient en un seul État sous un premier pharaon — la tradition retiendra le nom de Narmer, représenté sur sa célèbre palette coiffant les deux couronnes, celle du Sud et celle du Nord. Le royaume d'Égypte est né : il durera, dynastie après dynastie, trois millénaires — l'État le plus durable que l'humanité ait jamais bâti.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/palettenarmer.webp' | relative_url }}" alt="Palette de Narmer, face au roi massacrant un ennemi" width="380" loading="lazy" decoding="async" height="561" />
+  <img src="{{ '/assets/img/palettenarmer.webp' | relative_url }}" alt="Photographie de la palette de Narmer : une plaque de schiste vert sombre où le roi, coiffé de la couronne blanche de Haute-Égypte, brandit une massue au-dessus d'un ennemi agenouillé, encadré par deux têtes de vache et suivi de son porte-sandales" width="380" loading="lazy" decoding="async" height="561" />
   <br /><small><em>La palette de Narmer, face principale : le roi coiffé de la couronne blanche du Sud abat un ennemi. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2350,7 +2350,7 @@ tags: technology
 # -2 800 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/araire.webp' | relative_url }}" alt="Labour à l'araire en Égypte" loading="lazy" decoding="async" width="1200" height="831" />
+  <img src="{{ '/assets/img/araire.webp' | relative_url }}" alt="Peinture de tombe égyptienne : en haut, une file d'ânes chargés de sacs ; en bas, deux hommes labourent avec un araire tiré par un bœuf tacheté" loading="lazy" decoding="async" width="1200" height="831" />
   <br /><small><em>Le labour à l'araire : attelé aux bœufs, il démultiplie la surface qu'un paysan peut travailler.</em></small>
 </p>
 
@@ -2367,7 +2367,7 @@ tags: technology
 # -2 700 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/houe.webp' | relative_url }}" alt="Houe égyptienne" loading="lazy" decoding="async" width="473" height="613" />
+  <img src="{{ '/assets/img/houe.webp' | relative_url }}" alt="Photographie d'un outil agricole égyptien en bois exposé en vitrine : une pièce de bois recourbée assemblée par des ligatures, présentée sur un support transparent avec son cartel" loading="lazy" decoding="async" width="473" height="613" />
   <br /><small><em>Une houe à lame de cuivre : l'outil mord enfin dans le sol sec, là où le bois seul peinait.</em></small>
 </p>
 
@@ -2401,7 +2401,7 @@ tags: technology
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/pyramide.webp" alt="La Grande Pyramide de Gizeh" width="400" loading="lazy" decoding="async" height="266" />
+  <img src="/assets/img/pyramide.webp" alt="Photographie du plateau de Gizeh : les trois grandes pyramides alignées dans le désert, la plus proche portant encore des vestiges de son parement, sous un ciel bleu" width="400" loading="lazy" decoding="async" height="266" />
   <br /><small><em>La grande pyramide de Gizeh : 2,3 millions de blocs, et une vingtaine d'années de chantier.</em></small>
 </p>
 
@@ -2412,7 +2412,7 @@ tags: technology
 # -2 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/akkadiens.webp' | relative_url }}" alt="Tablette cunéiforme akkadienne" loading="lazy" decoding="async" width="1200" height="1324" />
+  <img src="{{ '/assets/img/akkadiens.webp' | relative_url }}" alt="Photographie d'une tablette d'argile akkadienne couverte de signes cunéiformes serrés, imprimés au calame sur toute la surface" loading="lazy" decoding="async" width="1200" height="1324" />
   <br /><small><em>Une tablette cunéiforme akkadienne : les Akkadiens adoptent l'écriture des Sumériens et l'adaptent à leur langue.</em></small>
 </p>
 
@@ -2423,7 +2423,7 @@ tags: technology
 # -2 400 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tombedeti.webp' | relative_url }}" alt="Mastaba de Ti à Saqqarah" loading="lazy" decoding="async" width="1200" height="1019" />
+  <img src="{{ '/assets/img/tombedeti.webp' | relative_url }}" alt="Reproduction ancienne, sur plaque de verre annotée, d'un relief du mastaba de Ti à Saqqarah : plusieurs registres superposés montrant les travaux des champs, l'élevage et le transport des offrandes" loading="lazy" decoding="async" width="1200" height="1019" />
   <br /><small><em>Le mastaba de Ti à Saqqarah : ses fresques détaillent les travaux des champs et le garde-manger égyptien.</em></small>
 </p>
 
@@ -2441,7 +2441,7 @@ tags: technology
 </p>
 
 <p style="text-align:center">
-  <img src="/assets/img/ounas.webp" alt="Ounas" width="400" loading="lazy" decoding="async" height="471" />
+  <img src="/assets/img/ounas.webp" alt="Photographie d'un fragment de relief égyptien en calcaire : un visage de profil coiffé d'une perruque striée, sculpté en léger relief, sur fond noir" width="400" loading="lazy" decoding="async" height="471" />
   <br /><small><em>La pyramide d'Ounas : ses murs portent les Textes des Pyramides, le plus ancien corpus religieux écrit.</em></small>
 </p>
 
@@ -2450,7 +2450,7 @@ tags: technology
 # -2 334 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/sargon.webp' | relative_url }}" alt="Sargon d'Akkad" loading="lazy" decoding="async" width="636" height="900" />
+  <img src="{{ '/assets/img/sargon.webp' | relative_url }}" alt="Photographie d'un relief mésopotamien usé : un personnage debout, barbu et vêtu d'une longue robe, gravé dans la pierre à côté d'une inscription cunéiforme" loading="lazy" decoding="async" width="636" height="900" />
   <br /><small><em>Sargon d'Akkad sur sa stèle de victoire : le fondateur du premier empire de l'histoire.</em></small>
 </p>
 
@@ -2459,7 +2459,7 @@ tags: technology
 # -2 200 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cheval.webp' | relative_url }}" alt="Cheval de Przewalski" loading="lazy" decoding="async" width="1200" height="800" />
+  <img src="{{ '/assets/img/cheval.webp' | relative_url }}" alt="Photographie d'un cheval de Przewalski dans une prairie : un cheval trapu à robe isabelle, crinière noire dressée en brosse, devant un groupe de zèbres" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Le cheval de Przewalski : le plus proche parent sauvage des chevaux domestiques.</em></small>
 </p>
 
@@ -2472,7 +2472,7 @@ tags: technology
 <p>Ur, l'antique cité du sud sumérien, vit son heure de gloire : sa troisième dynastie règne sur toute la Mésopotamie. Le roi Ur-Nammu y dresse la grande ziggurat — dont la masse restaurée impressionne encore aujourd'hui — et promulgue le plus ancien code de lois connu de l'histoire, précédant Hammurabi de trois siècles. Son empire est une merveille de bureaucratie : des dizaines de milliers de tablettes comptables enregistrent tout — moutons, rations, journées de travail — avec une minutie d'inspecteur des impôts. Puis, comme tout empire, il tombe : les Élamites pillent Ur, et les scribes composeront sur sa chute l'une des premières grandes élégies de la littérature — la Lamentation sur la destruction d'Ur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/zigguratur.webp' | relative_url }}" alt="Ziggurat d'Ur restaurée" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/zigguratur.webp' | relative_url }}" alt="Photographie de la ziggurat d'Ur restaurée : un massif à degrés en brique crue, dont le grand escalier frontal monte vers la terrasse supérieure, dans un paysage désertique" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>La ziggurat d'Ur, dressée par Ur-Nammu et partiellement restaurée. Photo Hardnfast, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2483,7 +2483,7 @@ tags: technology
 <p>Ils arrivent dans une région déjà occupée par une civilisation brillante, celle de la Crète minoenne — palais vastes et ouverts, fresques colorées, écriture, commerce maritime. Les nouveaux venus s'installent d'abord en marge de ce monde, subissant son influence sans le dominer.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/fresquedauphins.webp' | relative_url }}" alt="Fresque des dauphins, palais de Cnossos" width="600" loading="lazy" decoding="async" height="408" />
+  <img src="{{ '/assets/img/fresquedauphins.webp' | relative_url }}" alt="Photographie de la fresque des dauphins du palais de Cnossos : deux grands dauphins bleus nagent au milieu d'un banc de petits poissons colorés, sur un fond clair marbré" width="600" loading="lazy" decoding="async" height="408" />
   <br /><small><em>La fresque des dauphins de Cnossos : la Crète minoenne peint la mer quand ses voisins peignent des rois. Photo ArchaiOptix, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2503,7 +2503,7 @@ tags: technology
 <p>Avec le temps, les récits sumériens de Gilgamesh sont compilés et traduits en akkadien : la version akkadienne les fond en une seule épopée, cohérente et structurée — celle qui traversera les siècles, avec sa quête d'immortalité et son déluge.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/ninkasi.webp" alt="Ninkasi" width="400" loading="lazy" decoding="async" height="287" />
+  <img src="/assets/img/ninkasi.webp" alt="Photographie d'une tablette d'argile sumérienne exposée en vitrine : un rectangle de terre cuite claire réglé en cases, chacune remplie de signes cunéiformes" width="400" loading="lazy" decoding="async" height="287" />
   <br /><small><em>Ninkasi, déesse sumérienne de la bière : l'hymne qui lui est adressé est aussi une recette de brassage.</em></small>
 </p>
 
@@ -2514,7 +2514,7 @@ tags: technology
 <p>Presque toutes nos lettres ont une histoire semblable : la maison (« bet ») est devenue « B », l'eau (« mem ») est devenue « M », le serpent (« noun ») est devenu « N ». C'est la naissance de l'alphabet — et son génie est économique : au lieu de centaines de signes, une trentaine suffisent, puisqu'on n'écrit plus les choses mais les sons. Vingt-cinq à trente signes pour tout dire. On peut y voir un immense progrès de simplicité — ou, comme certains le soutiennent, un appauvrissement de l'imaginaire, qui a peut-être toujours besoin d'images pour exprimer certaines pensées.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/protosinaitique.webp' | relative_url }}" alt="Relevé d'une inscription proto-sinaïtique de Serabit el-Khadim" width="340" loading="lazy" decoding="async" height="495" />
+  <img src="{{ '/assets/img/protosinaitique.webp' | relative_url }}" alt="Relevé au trait d'une inscription proto-sinaïtique de Serabit el-Khadim : des signes dérivés des hiéroglyphes — main, œil, maison, silhouette humaine — gravés sur un bloc, employés cette fois pour noter des sons" width="340" loading="lazy" decoding="async" height="495" />
   <br /><small><em>Relevé d'une inscription proto-sinaïtique de Serabit el-Khadim : des signes empruntés aux hiéroglyphes, mais employés pour noter des sons. Relevé d'A. H. Gardiner, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2527,7 +2527,7 @@ tags: technology
 <p>Hammurabi, roi de Babylone, fait graver son célèbre code de lois — l'un des premiers grands ensembles législatifs de l'histoire, dressé sur une stèle de basalte noir de plus de deux mètres. Justice, commerce, mariage, propriété : près de trois cents articles fixent les comportements et les peines, selon le fameux principe du talion — « œil pour œil, dent pour dent ». Son originalité : standardiser le droit à travers tout un empire, une idée qui influencera les principes juridiques pour des siècles.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hammurabi.webp' | relative_url }}" alt="Stèle du code de Hammurabi, musée du Louvre" width="350" loading="lazy" decoding="async" height="576" />
+  <img src="{{ '/assets/img/hammurabi.webp' | relative_url }}" alt="Photographie de la stèle du code de Hammurabi au musée du Louvre : un haut monolithe de basalte noir, arrondi au sommet, où le roi se tient debout devant le dieu Shamash assis, au-dessus d'un long texte cunéiforme couvrant toute la colonne" width="350" loading="lazy" decoding="async" height="576" />
   <br /><small><em>La stèle du code de Hammurabi, plus de deux mètres de basalte noir : en haut le roi devant le dieu Shamash, en dessous près de trois cents articles. Photo Mbzt, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2540,7 +2540,7 @@ tags: technology
 # -1 700 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chardeguerre.webp' | relative_url }}" alt="Char de guerre" loading="lazy" decoding="async" width="436" height="162" />
+  <img src="{{ '/assets/img/chardeguerre.webp' | relative_url }}" alt="Photographie d'un panneau de mosaïque mésopotamienne en coquille et lapis-lazuli : sur fond bleu nuit, des chars tirés par des équidés piétinent des ennemis abattus, conducteurs et guerriers debout sur les caisses" loading="lazy" decoding="async" width="436" height="162" />
   <br /><small><em>Le char léger à roues à rayons : venu des steppes, il transforme la guerre au Proche-Orient.</em></small>
 </p>
 
@@ -2553,7 +2553,7 @@ tags: technology
 <p>En Crète s'épanouit la première civilisation d'Europe : celle qu'on appelle minoenne, du nom légendaire du roi Minos. Ses palais — Cnossos, Phaistos, Malia — sont des ensembles labyrinthiques de centaines de pièces, avec escaliers monumentaux, canalisations, entrepôts immenses et fresques d'une gaieté déconcertante : dauphins, lys, femmes en robes à volants, jeunes gens sautant par-dessus des taureaux.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cnossos.webp' | relative_url }}" alt="Entrée nord du palais de Cnossos" width="600" loading="lazy" decoding="async" height="399" />
+  <img src="{{ '/assets/img/cnossos.webp' | relative_url }}" alt="Photographie de l'entrée nord du palais de Cnossos, restaurée : un portique aux colonnes rouges à chapiteau noir, surmonté d'une grande fresque de taureau chargeant" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>L'entrée nord du palais de Cnossos, restaurée par Arthur Evans, avec sa fresque de taureau. Photo Jebulon, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2564,7 +2564,7 @@ tags: technology
 # -1 650 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hittites2.webp' | relative_url }}" alt="Empire hittite" loading="lazy" decoding="async" width="900" height="600" />
+  <img src="{{ '/assets/img/hittites2.webp' | relative_url }}" alt="Photographie de la porte des Lions de Hattusa : deux lions sculptés dans les blocs de pierre encadrent le passage étroit ménagé dans la muraille cyclopéenne" loading="lazy" decoding="async" width="900" height="600" />
   <br /><small><em>La porte des Lions de Hattusa, capitale hittite, en Anatolie centrale.</em></small>
 </p>
 
@@ -2577,7 +2577,7 @@ tags: technology
 # -1 600 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/shang.webp' | relative_url }}" alt="Dynastie Shang" loading="lazy" decoding="async" width="391" height="511" />
+  <img src="{{ '/assets/img/shang.webp' | relative_url }}" alt="Photographie d'un bronze rituel de la dynastie Shang : un vase tripode à long bec verseur, orné de motifs gravés et surmonté de deux montants coiffés de chapiteaux, à la patine verte" loading="lazy" decoding="async" width="391" height="511" />
   <br /><small><em>Un bronze rituel Shang : une maîtrise du moulage sans équivalent ailleurs à cette date.</em></small>
 </p>
 
@@ -2608,7 +2608,7 @@ tags: technology
 <p>Le moment est propice, car la Crète chancelle. Une série de catastrophes naturelles — dont l'éruption de Théra — l'actuelle Santorin — qui déverse des cendres sur toute la région — affaiblit durablement la civilisation minoenne. Ses palais sont reconstruits, puis détruits à nouveau.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/santorin.webp' | relative_url }}" alt="La caldeira de Santorin vue du ciel" width="600" loading="lazy" decoding="async" height="314" />
+  <img src="{{ '/assets/img/santorin.webp' | relative_url }}" alt="Photographie aérienne de la caldeira de Santorin : l'île en croissant enserre le vaste bassin marin laissé par l'effondrement du volcan, au milieu d'une mer d'un bleu profond" width="600" loading="lazy" decoding="async" height="314" />
   <br /><small><em>La caldeira de Santorin : le cratère laissé par l'éruption de Théra, qui couvrit la Crète de cendres. Photo Steve Jurvetson, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2621,7 +2621,7 @@ tags: technology
 <p>C'est alors qu'apparaît, sous sa forme complète, le Livre des Morts : un recueil de formules magiques, de prières et d'incantations destinées à guider le défunt dans son périlleux voyage vers l'au-delà et le royaume d'Osiris. Le mort peut s'y métamorphoser — hirondelle, lotus, serpent — pour voyager librement ; s'il réussit l'épreuve, il devient un esprit bienheureux dans les champs d'Ialou, une Égypte idéale où l'on cultive sans peine, en paix pour l'éternité.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/livredesmorts.webp' | relative_url }}" alt="La pesée du cœur, papyrus d'Ani" width="640" loading="lazy" decoding="async" height="329" />
+  <img src="{{ '/assets/img/livredesmorts.webp' | relative_url }}" alt="Détail du papyrus d'Ani : la pesée du cœur du défunt contre la plume de Maât, Anubis agenouillé à la balance, Thot notant le verdict et la Dévoreuse à l'affût, sous une rangée de dieux assis en jury" width="640" loading="lazy" decoding="async" height="329" />
   <br /><small><em>La pesée du cœur dans le papyrus d'Ani : le cœur du défunt contre la plume de Maât, Anubis à la balance et la Dévoreuse à l'affût. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2637,7 +2637,7 @@ tags: technology
 # -1 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/vedique.webp' | relative_url }}" alt="Période védique" loading="lazy" decoding="async" width="1200" height="1702" />
+  <img src="{{ '/assets/img/vedique.webp' | relative_url }}" alt="Illustration d'un couple de la période védique : deux personnages aux coiffures ornées et aux bijoux d'or, peints en couleurs vives" loading="lazy" decoding="async" width="1200" height="1702" />
   <br /><small><em>La période védique : des éleveurs venus des steppes s'installent dans les plaines du nord de l'Inde.</em></small>
 </p>
 
@@ -2655,7 +2655,7 @@ tags: technology
 <p>Hatchepsout accède au pouvoir — l'une des très rares femmes à régner en tant que pharaon, et l'une des plus grandes figures de l'Égypte antique. Régente devenue souveraine de plein droit, elle se fait représenter avec tous les attributs du pharaon, barbe postiche comprise. Son règne d'une vingtaine d'années est une ère de prospérité et de paix : grandes expéditions commerciales (dont la fameuse expédition vers le pays de Pount), chefs-d'œuvre d'architecture comme son temple de Deir el-Bahari. Ses successeurs tenteront d'effacer son nom des monuments — en vain : elle est aujourd'hui l'une des souveraines les plus admirées de l'histoire.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hatchepsout.webp' | relative_url }}" alt="Le temple d'Hatchepsout à Deir el-Bahari" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/hatchepsout.webp' | relative_url }}" alt="Photographie du temple funéraire d'Hatchepsout à Deir el-Bahari : les terrasses à colonnades superposées, reliées par une rampe centrale, adossées à la falaise thébaine" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le temple funéraire d'Hatchepsout à Deir el-Bahari, adossé à la falaise thébaine. Photo Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2664,14 +2664,14 @@ tags: technology
 <p>Les Mycéniens s'imposent sur Cnossos, en Crète, et prennent le contrôle des routes commerciales crétoises. Ils adoptent et transforment l'écriture minoenne (le linéaire A, toujours indéchiffré) pour créer le linéaire B — et c'est un événement : c'est la plus ancienne trace écrite de la langue grecque. Rien de littéraire dans ces tablettes : des troupeaux, des inventaires, des offrandes aux dieux — la comptabilité, encore et toujours. Ces Mycéniens, probables descendants des peuples indo-européens arrivés dans la péninsule, sont les ancêtres directs de la Grèce classique.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lineaireb.webp' | relative_url }}" alt="Tablette d'argile en linéaire B" width="600" loading="lazy" decoding="async" height="366" />
+  <img src="{{ '/assets/img/lineaireb.webp' | relative_url }}" alt="Photographie d'une tablette d'argile en linéaire B, brisée et recollée : des lignes de signes syllabiques incisés, dressant un inventaire" width="600" loading="lazy" decoding="async" height="366" />
   <br /><small><em>Tablette d'argile en linéaire B : la plus ancienne écriture du grec ne note que des inventaires. Photo Marsyas, CC BY 2.5, via Wikimedia Commons.</em></small>
 </p>
 
 # -1 400 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/mycenes.webp' | relative_url }}" alt="Mycènes" loading="lazy" decoding="async" width="900" height="599" />
+  <img src="{{ '/assets/img/mycenes.webp' | relative_url }}" alt="Photographie de la porte des Lionnes de Mycènes : deux lionnes affrontées de part et d'autre d'une colonne, sculptées sur le linteau triangulaire d'une porte encadrée de blocs cyclopéens" loading="lazy" decoding="async" width="900" height="599" />
   <br /><small><em>La porte des Lionnes de Mycènes : des murs si massifs que les Grecs classiques les croiront bâtis par des cyclopes.</em></small>
 </p>
 
@@ -2686,14 +2686,14 @@ tags: technology
 <p>C'est ce monde de rois guerriers que la légende retiendra comme celui d'Agamemnon.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/masqueagamemnon.webp' | relative_url }}" alt="Masque funéraire dit d'Agamemnon" width="440" loading="lazy" decoding="async" height="440" />
+  <img src="{{ '/assets/img/masqueagamemnon.webp' | relative_url }}" alt="Photographie du masque funéraire dit « d'Agamemnon » : un visage d'homme barbu battu dans une feuille d'or, aux yeux clos, aux oreilles détachées et à la moustache soigneusement rendue" width="440" loading="lazy" decoding="async" height="440" />
   <br /><small><em>Le masque d'or dit « d'Agamemnon », trouvé par Schliemann dans le cercle des tombes A de Mycènes — antérieur de trois siècles au roi de la légende. Photo Jebulon, CC0, via Wikimedia Commons.</em></small>
 </p>
 
 # -1 353 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/akhenaton.webp' | relative_url }}" alt="Akhenaton" loading="lazy" decoding="async" width="364" height="605" />
+  <img src="{{ '/assets/img/akhenaton.webp' | relative_url }}" alt="Photographie d'une statue colossale d'Akhenaton : le pharaon coiffé du némès et de la double couronne, au visage allongé, aux lèvres épaisses et au menton étiré, dans le style rompant avec les conventions égyptiennes" loading="lazy" decoding="async" width="364" height="605" />
   <br /><small><em>Akhenaton : le pharaon qui tenta d'imposer un dieu unique, et dont l'art rompt avec mille ans de conventions.</em></small>
 </p>
 
@@ -2702,7 +2702,7 @@ tags: technology
 # -1 348 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/aton.webp' | relative_url }}" alt="Le disque solaire Aton" loading="lazy" decoding="async" width="1200" height="751" />
+  <img src="{{ '/assets/img/aton.webp' | relative_url }}" alt="Photographie d'un relief égyptien d'Amarna : Akhenaton et Néfertiti, assis face à face avec leurs filles sur les genoux, sont baignés par les rayons du disque solaire Aton, qui se terminent en petites mains" loading="lazy" decoding="async" width="1200" height="751" />
   <br /><small><em>Aton, le disque solaire dont les rayons se terminent en mains : la divinité unique d'Akhenaton.</em></small>
 </p>
 
@@ -2713,7 +2713,7 @@ tags: technology
 <p>Le pharaon fonde une capitale entièrement nouvelle, dédiée au culte d'Aton : Akhetaton — l'actuelle Amarna —, bâtie en plein désert, à égale distance des anciens centres religieux.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/nefertiti.webp' | relative_url }}" alt="Buste de Néfertiti, Neues Museum de Berlin" width="380" loading="lazy" decoding="async" height="556" />
+  <img src="{{ '/assets/img/nefertiti.webp' | relative_url }}" alt="Photographie du buste de Néfertiti au Neues Museum de Berlin : un visage de femme au long cou, coiffé de la haute tiare bleue à bandeau coloré, au maquillage et aux traits d'une symétrie parfaite" width="380" loading="lazy" decoding="async" height="556" />
   <br /><small><em>Le buste de Néfertiti, retrouvé dans l'atelier du sculpteur Thoutmôsis à Amarna. Photo Philip Pikart, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2728,7 +2728,7 @@ tags: technology
 
 # -1 336 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/amarna.webp' | relative_url }}" alt="Les ruines d’Amarna" loading="lazy" decoding="async" width="1200" height="1677" />
+<p style="text-align:center"><img src="{{ '/assets/img/amarna.webp' | relative_url }}" alt="Plan gravé ancien des ruines de Tell el-Amarna : le tracé des palais, temples et quartiers de la ville d'Akhenaton entre le Nil et la falaise du désert, avec sa rose des vents" loading="lazy" decoding="async" width="1200" height="1677" />
   <br /><small><em>Plan des ruines de Tell el-Amarna relevé au XIXᵉ siècle. On y lit encore la trame d'une capitale bâtie d'un seul jet en plein désert : le grand temple d'Aton en haut, les palais le long du fleuve, les quartiers d'habitation dispersés.</em></small></p>
 
 <p>Mort d'Akhenaton. Sa révolution ne lui survivra pas : les élites religieuses et politiques entament la restauration des cultes traditionnels, et sa capitale du désert sera abandonnée.</p>
@@ -2736,7 +2736,7 @@ tags: technology
 # -1 332 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/toutankhamon.webp' | relative_url }}" alt="Toutânkhamon" loading="lazy" decoding="async" width="550" height="775" />
+  <img src="{{ '/assets/img/toutankhamon.webp' | relative_url }}" alt="Photographie du masque funéraire de Toutânkhamon : un visage d'or au némès rayé de bleu, portant le vautour et le cobra au front et une barbe postiche tressée" loading="lazy" decoding="async" width="550" height="775" />
   <br /><small><em>Le masque funéraire de Toutânkhamon : un pharaon mineur, devenu le plus célèbre parce que sa tombe a échappé aux pillards.</em></small>
 </p>
 
@@ -2760,14 +2760,14 @@ tags: technology
 <p>En Égypte, la même année, naît Néfertari, future épouse principale de Ramsès II. Son nom signifie « la plus belle, celle pour qui brille le soleil », et sa tombe, dans la Vallée des Reines, comptera parmi les plus somptueusement décorées du pays.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/nefertari.webp' | relative_url }}" alt="Néfertari en adoration, relevé de sa tombe" width="400" loading="lazy" decoding="async" height="534" />
+  <img src="{{ '/assets/img/nefertari.webp' | relative_url }}" alt="Relevé peint de la tombe de Néfertari : la reine agenouillée en robe blanche plissée, coiffée du vautour et des hautes plumes, lève les mains en signe d'adoration devant une colonne de hiéroglyphes" width="400" loading="lazy" decoding="async" height="534" />
   <br /><small><em>Néfertari en adoration : relevé de Nina de Garis Davies d'après les peintures de la tombe QV66, dans la Vallée des Reines. CC0, via Wikimedia Commons.</em></small>
 </p>
 
 # -1 274 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/qadesh.webp' | relative_url }}" alt="Bataille de Qadesh" loading="lazy" decoding="async" width="300" height="369" />
+  <img src="{{ '/assets/img/qadesh.webp' | relative_url }}" alt="Photographie d'un relief de temple égyptien : Ramsès II debout sur son char lancé au galop, l'arc bandé, tirant sur des ennemis dont les chars se renversent sous les chevaux" loading="lazy" decoding="async" width="300" height="369" />
   <br /><small><em>Ramsès II à Qadesh, tel qu'il fit graver la scène sur ses temples : la plus grande bataille de chars de l'histoire.</em></small>
 </p>
 
@@ -2782,14 +2782,14 @@ tags: technology
 <p>Coup de théâtre diplomatique : Égyptiens et Hittites, las de s'affronter, signent le premier traité de paix conservé de l'histoire. Non-agression, assistance mutuelle, libre circulation des marchands, extradition des fugitifs — tout y est, gravé en deux langues. Un mariage scelle l'alliance : Ramsès II épouse une princesse hittite, et la confiance s'installe. Plus jamais les deux empires ne se feront la guerre — une copie du traité orne aujourd'hui le siège des Nations unies, à New York.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/traitepaix.webp' | relative_url }}" alt="Tablette du traité égypto-hittite, musée d'Istanbul" width="380" loading="lazy" decoding="async" height="569" />
+  <img src="{{ '/assets/img/traitepaix.webp' | relative_url }}" alt="Photographie de la tablette d'argile du traité égypto-hittite, exposée sur un support transparent : un bloc de terre cuite brisé, couvert de cunéiforme akkadien" width="380" loading="lazy" decoding="async" height="569" />
   <br /><small><em>La version akkadienne du traité entre Ramsès II et Hattusili III : le plus ancien traité de paix conservé. Photo Osama Shukir Muhammed Amin, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 # -1 250 av. J.-C.
 
 <p style="text-align:center">
-  <img src="/assets/img/ossecaille.webp" alt="Écriture ossécaille" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/ossecaille.webp" alt="Reproduction agrandie d'un caractère chinois archaïque tracé en noir : la forme anguleuse des signes que les devins Shang gravaient sur les os et les écailles de tortue" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Une écaille de tortue gravée : les devins Shang y notaient les questions posées aux ancêtres — les plus anciens textes chinois.</em></small>
 </p>
 
@@ -2802,7 +2802,7 @@ tags: technology
 <p>C'est aussi l'année où ce pharaon fait graver sur une stèle de granit la liste de ses victoires en Canaan. Parmi les vaincus figure une entité désignée non comme un pays, mais comme un peuple : Israël. « Israël est dévasté, sa semence n'est plus. » C'est la plus ancienne mention connue de ce nom — et elle est ironique, puisque le premier document qui parle d'Israël annonce sa disparition.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/stelemerenptah.webp' | relative_url }}" alt="Stèle de Mérenptah, musée du Caire" width="400" loading="lazy" decoding="async" height="533" />
+  <img src="{{ '/assets/img/stelemerenptah.webp' | relative_url }}" alt="Photographie de la stèle de Mérenptah au musée du Caire : une grande dalle de granit gravée de nombreuses lignes de hiéroglyphes, surmontée d'une scène où le pharaon se tient devant les dieux" width="400" loading="lazy" decoding="async" height="533" />
   <br /><small><em>La stèle de Mérenptah, où figure la plus ancienne mention connue d'Israël. Photo Olaf Tausch, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2830,7 +2830,7 @@ tags: technology
 
 # -1 200 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/effondrementbronze.webp' | relative_url }}" alt="Les ruines d'Ougarit" loading="lazy" decoding="async" width="1200" height="900" />
+<p style="text-align:center"><img src="{{ '/assets/img/effondrementbronze.webp' | relative_url }}" alt="Photographie des ruines d'Ougarit : des murs de pierre arasés et des blocs épars affleurant au milieu des herbes, sur le site abandonné après l'effondrement de l'âge du Bronze" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Les ruines d'Ougarit, sur la côte syrienne. La cité brûle vers -1185 et n'est jamais rebâtie ; ses dernières tablettes, cuites par l'incendie qui les a détruites, réclament des secours qui ne viendront pas.</em></small></p>
 
 <p>Et tout s'effondre. En quelques décennies, le monde interconnecté de l'âge du Bronze — cet équilibre d'empires liés par le commerce de l'étain, les traités et les mariages royaux — s'écroule comme un château de cartes. L'Empire hittite disparaît corps et biens, les riches cités du Levant comme Ougarit sont détruites, l'Égypte survit mais amoindrie et repliée sur elle-même.</p>
@@ -2872,7 +2872,7 @@ tags: technology
 # -1 184 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/troie.webp' | relative_url }}" alt="Troie" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/troie.webp' | relative_url }}" alt="Photographie du site de Troie : les murailles de pierre et de brique dégagées par les fouilles, superposant plusieurs villes bâties au même endroit, longées par un chemin de visite" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>Le site de Troie : une dizaine de villes superposées, détruites et rebâties au même endroit.</em></small>
 </p>
 
@@ -2885,7 +2885,7 @@ tags: technology
 # -1 175 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/peuplesdelamer.webp' | relative_url }}" alt="Peuples de la Mer" loading="lazy" decoding="async" width="900" height="446" />
+  <img src="{{ '/assets/img/peuplesdelamer.webp' | relative_url }}" alt="Relevé au trait du relief de Médinet Habou : la bataille navale de Ramsès III contre les Peuples de la Mer, avec les navires enchevêtrés, les archers égyptiens et, à droite, le pharaon debout tirant à l'arc au-dessus des prisonniers" loading="lazy" decoding="async" width="900" height="446" />
   <br /><small><em>Relevé du relief de Médinet Habou : la bataille navale de Ramsès III contre les Peuples de la Mer.</em></small>
 </p>
 
@@ -2896,7 +2896,7 @@ tags: technology
 # -1 150 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/olmeques.webp' | relative_url }}" alt="Tête colossale olmèque" loading="lazy" decoding="async" width="600" height="900" />
+  <img src="{{ '/assets/img/olmeques.webp' | relative_url }}" alt="Photographie d'une tête colossale olmèque : un visage aux lèvres épaisses et au nez large, coiffé d'un casque ajusté, sculpté dans un bloc de basalte de plusieurs tonnes" loading="lazy" decoding="async" width="600" height="900" />
   <br /><small><em>Une tête colossale olmèque : plusieurs tonnes de basalte transportées sans roue ni animal de trait.</em></small>
 </p>
 
@@ -2911,7 +2911,7 @@ tags: technology
 <p>Dans le vide laissé par l'effondrement de l'âge du Bronze, de nouveaux peuples émergent. Les Araméens, sortis des steppes syriennes, s'installent dans les plaines fertiles de Syrie et de Mésopotamie — leur langue, l'araméen, deviendra un jour la langue commune de tout le Proche-Orient, celle que parlera Jésus.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/alphabetphenicien.webp' | relative_url }}" alt="L'alphabet phénicien" width="600" loading="lazy" decoding="async" height="539" />
+  <img src="{{ '/assets/img/alphabetphenicien.webp' | relative_url }}" alt="Tableau de l'alphabet phénicien : les vingt-deux signes tracés en colonnes, chacun accompagné de sa translittération, d'aleph et bet jusqu'à shin et taw" width="600" loading="lazy" decoding="async" height="539" />
   <br /><small><em>L'alphabet phénicien : vingt-deux signes, une seule règle — un signe, un son. Presque tous nos alphabets en descendent. Luca., domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2942,7 +2942,7 @@ tags: technology
 <p>Les premiers signes de reprise apparaissent, et ils sont modestes : de la poterie. Les artisans d'Athènes se remettent à produire des vases soignés, décorés de cercles concentriques tracés au compas, de bandes horizontales, de motifs réguliers — ce qu'on appellera le style protogéométrique.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/amphoredipylon.webp' | relative_url }}" alt="Amphore du Dipylon, style géométrique" width="380" loading="lazy" decoding="async" height="570" />
+  <img src="{{ '/assets/img/amphoredipylon.webp' | relative_url }}" alt="Photographie d'une amphore athénienne de style géométrique exposée en vitrine : un grand vase ovoïde à col haut, entièrement couvert de frises de méandres, de damiers et de bandes horizontales" width="380" loading="lazy" decoding="async" height="570" />
   <br /><small><em>L'amphore du Dipylon : la reprise athénienne commence par des vases, et par une géométrie tracée à l'instrument. Photo George E. Koronaios, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -2955,7 +2955,7 @@ tags: technology
 # -1 046 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/zhou.webp' | relative_url }}" alt="Dynastie Zhou" loading="lazy" decoding="async" width="900" height="600" />
+  <img src="{{ '/assets/img/zhou.webp' | relative_url }}" alt="Photographie de l'intérieur d'un bronze rituel des Zhou : une inscription en caractères archaïques coulée dans le métal, sous une patine verte et cuivrée" loading="lazy" decoding="async" width="900" height="600" />
   <br /><small><em>Une inscription coulée dans un bronze des Zhou : nos premières archives chinoises tiennent dans la vaisselle rituelle.</em></small>
 </p>
 
@@ -2973,7 +2973,7 @@ tags: technology
 
 # -1 042 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ducdezhou.webp' | relative_url }}" alt="Le duc de Zhou" loading="lazy" decoding="async" width="693" height="1080" />
+<p style="text-align:center"><img src="{{ '/assets/img/ducdezhou.webp' | relative_url }}" alt="Portrait dessiné à l'encre du duc de Zhou : un homme barbu en robe et coiffe de lettré, assis, les mains dans les manches, sous les caractères de son nom" loading="lazy" decoding="async" width="693" height="1080" />
   <br /><small><em>Le duc de Zhou, portrait traditionnel chinois à l'encre. Régent d'un roi enfant, il écrase la révolte des Shang et organise le système des apanages — Confucius en fera, mille ans plus tard, son modèle du ministre loyal.</em></small></p>
 
 <p>Le roi Wu meurt trois ans à peine après sa victoire, laissant un fils encore enfant. Le prince Shang, à qui l'on avait laissé l'administration des anciennes cités, saisit l'occasion et se révolte — rejoint par deux frères du roi défunt, qui préfèrent leur ambition à leur neveu.</p>
@@ -2988,7 +2988,7 @@ tags: technology
 
 # -1 030 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/mandatduciel.webp' | relative_url }}" alt="Le Mandat du Ciel" loading="lazy" decoding="async" width="1200" height="1200" />
+<p style="text-align:center"><img src="{{ '/assets/img/mandatduciel.webp' | relative_url }}" alt="Reproduction d'un sceau chinois : des caractères en écriture sigillaire, tracés en blanc dans un carré rouge, aux traits repliés en angles droits" loading="lazy" decoding="async" width="1200" height="1200" />
   <br /><small><em>Un sceau chinois en écriture sigillaire. C'est par ce genre d'empreinte que s'authentifiait l'autorité impériale, dont les Zhou viennent de fonder la légitimité sur une idée neuve : le Mandat du Ciel, révocable si le souverain gouverne mal.</em></small></p>
 
 <p>Une dispute éclate à la cour des Zhou sur la nature exacte du Mandat du Ciel — et l'enjeu est considérable, puisqu'il s'agit de savoir à quoi le pouvoir est tenu.</p>
@@ -3008,7 +3008,7 @@ tags: technology
 <p>C'est la pression philistine qui les y contraint. Installés depuis un siècle et demi sur la plaine côtière, ces voisins disposent de villes fortifiées, d'armes de fer et de troupes permanentes. Face à cela, une confédération de villages qui se rassemble au coup par coup ne tient pas. Il faut un chef qui reste en place, lève des soldats et commande sans discuter — c'est-à-dire précisément ce que ces tribus avaient toujours refusé.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/poteriephilistine.webp' | relative_url }}" alt="Céramique philistine bichrome" width="520" loading="lazy" decoding="async" height="501" />
+  <img src="{{ '/assets/img/poteriephilistine.webp' | relative_url }}" alt="Photographie d'une céramique philistine bichrome : un vase à deux anses en terre claire, décoré de spirales et de bandes brunes et rouges d'inspiration égéenne" width="520" loading="lazy" decoding="async" height="501" />
   <br /><small><em>Céramique philistine bichrome, d'inspiration égéenne — la trace matérielle de nouveaux venus sur la côte. Photo Hanay, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3018,7 +3018,7 @@ tags: technology
 
 # -1 000 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/latium.webp' | relative_url }}" alt="Cabane du Latium" loading="lazy" decoding="async" width="492" height="326" />
+<p style="text-align:center"><img src="{{ '/assets/img/latium.webp' | relative_url }}" alt="Photographie de la reconstitution d'une cabane du Latium : une hutte ovale aux parois de clayonnage et au haut toit de chaume descendant presque jusqu'au sol" loading="lazy" decoding="async" width="492" height="326" />
   <br /><small><em>Reconstitution grandeur nature d'une cabane du Latium à l'âge du fer : ossature de bois, torchis, toit de chaume à forte pente. Voilà l'habitat des villages qui, sur les collines du Tibre, deviendront Rome.</em></small></p>
 
 <p>Dans le Latium, sur les collines qui borderont le Tibre, des villages d'éleveurs et de paysans se forment : porcs, moutons, bœufs, vignes, oliviers, fèves et pois. Des centres proto-urbains émergent lentement — rien ne distingue encore ces hameaux de mille autres, mais l'un d'eux deviendra Rome.</p>
@@ -3035,7 +3035,7 @@ tags: technology
 
 # -950 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/bronzezhou.webp' | relative_url }}" alt="Bronze des Zhou occidentaux" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/bronzezhou.webp' | relative_url }}" alt="Photographie d'un objet en bronze des Zhou occidentaux exposé sur socle : une pièce coudée à la patine sombre, ornée de motifs gravés" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Bronze des Zhou occidentaux. Le travail du bronze reste sous cette dynastie un monopole aristocratique : la matière sert au rituel et au prestige, jamais à l'outil du paysan.</em></small></p>
 
 <p>Un siècle après la conquête, la dynastie Zhou décline, et l'on ne sait presque rien des rois qui ont succédé à Cheng — les sources se taisent, ce qui est en soi un signe.</p>
@@ -3068,7 +3068,7 @@ tags: technology
 
 # -930 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/salomon.webp' | relative_url }}" alt="Le Temple de Salomon" loading="lazy" decoding="async" width="1200" height="904" />
+<p style="text-align:center"><img src="{{ '/assets/img/salomon.webp' | relative_url }}" alt="Photographie d'une maquette du Temple de Salomon et de son enceinte : les cours à degrés, le sanctuaire à toit plat et les bâtiments annexes, vus d'en haut au milieu des remparts" loading="lazy" decoding="async" width="1200" height="904" />
   <br /><small><em>Maquette du Temple de Salomon et de son enceinte. Aucun vestige archéologique n'en subsiste — le mont du Temple n'est pas fouillable —, si bien que toutes les représentations de l'édifice sont des reconstitutions d'après le texte biblique.</em></small></p>
 
 <p>La tradition biblique place ici la fin d'un royaume unifié. Après David aurait régné son fils Salomon — le roi bâtisseur, à qui l'on attribue le Temple de Jérusalem, un harem de princesses étrangères et une sagesse proverbiale ; à sa mort, les tribus du nord auraient refusé son héritier et fait sécession. Les fouilles ne confirment pas l'existence d'un tel empire : la Jérusalem de cette époque reste modeste. Mais que la scission ait été une rupture ou, plus probablement, deux royaumes qui n'ont jamais été vraiment un seul, le résultat est le même.</p>
@@ -3089,7 +3089,7 @@ tags: technology
 
 # -926 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/sheshonq.webp' | relative_url }}" alt="Sheshonq Iᵉʳ à Karnak" loading="lazy" decoding="async" width="1200" height="1512" />
+<p style="text-align:center"><img src="{{ '/assets/img/sheshonq.webp' | relative_url }}" alt="Relevé au trait d'un relief de Karnak : le pharaon Sheshonq Iᵉʳ, massue levée, saisit un groupe d'ennemis par les cheveux devant un dieu qui lui tend l'arme de la victoire, entouré de colonnes de hiéroglyphes" loading="lazy" decoding="async" width="1200" height="1512" />
   <br /><small><em>Relevé du relief de Sheshonq Iᵉʳ à Karnak. Le pharaon y fait graver la liste des localités prises en Canaan : c'est la plus ancienne source égyptienne à recouper directement le récit biblique.</em></small></p>
 
 <p>Le pharaon Sheshonq envahit Canaan. Il pille Jérusalem, ravage cent cinquante localités dans les deux royaumes israélites — et surtout détruit les vieilles places fortes cananéennes de Megiddo, Rehob, Beth-Shéan et Taanak. C'est le seul événement de cette période attesté à la fois par la Bible et par une source étrangère : le pharaon en a fait graver la liste sur un mur de Karnak.</p>
@@ -3103,7 +3103,7 @@ tags: technology
 <p>Leur armée est la machine de guerre la plus perfectionnée de l'époque, et leur méthode est assumée : la terreur comme instrument de gouvernement. Villes rasées, populations entières déportées à l'autre bout de l'empire pour briser toute solidarité, supplices infligés aux chefs rebelles — et ces supplices gravés en détail sur les murs des palais, à la vue des ambassadeurs étrangers. La cruauté y est un message diplomatique, une politique destinée à rendre la révolte impensable.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/archersassyriens.webp' | relative_url }}" alt="Archers assyriens, relief de Nimroud" width="600" loading="lazy" decoding="async" height="541" />
+  <img src="{{ '/assets/img/archersassyriens.webp' | relative_url }}" alt="Photographie d'un relief assyrien de Nimroud : deux archers barbus bandent leur arc au milieu d'une palmeraie, tandis qu'un ennemi abattu gît à leurs pieds" width="600" loading="lazy" decoding="async" height="541" />
   <br /><small><em>Archers assyriens sur un relief de Nimroud : l'armée la plus perfectionnée de son temps, et la terreur érigée en méthode. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3131,7 +3131,7 @@ tags: technology
 
 # -880 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/samarie.webp' | relative_url }}" alt="Samarie" loading="lazy" decoding="async" width="1200" height="675" />
+<p style="text-align:center"><img src="{{ '/assets/img/samarie.webp' | relative_url }}" alt="Photographie aérienne du site de Samarie : les murs dégagés du palais royal sur la crête de la colline, au milieu des oliviers et des chemins de terre" loading="lazy" decoding="async" width="1200" height="675" />
   <br /><small><em>Vue aérienne des fouilles de Samarie, au milieu des oliviers. Omri a acheté cette colline pour en faire une capitale neuve — le détail est rapporté comme une transaction foncière ordinaire, sans intervention divine.</em></small></p>
 
 <p>Le roi Omri fonde une capitale neuve pour le royaume d'Israël : Samarie. Il achète la colline à son propriétaire — le détail est rapporté comme une transaction ordinaire — et y fait bâtir une acropole royale de deux hectares, aux murs de pierre de taille d'une qualité qu'on n'avait jamais vue dans la région.</p>
@@ -3148,7 +3148,7 @@ tags: technology
 
 # -876 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/tributphenicien.webp' | relative_url }}" alt="Tribut phénicien aux Assyriens" loading="lazy" decoding="async" width="1200" height="1800" />
+<p style="text-align:center"><img src="{{ '/assets/img/tributphenicien.webp' | relative_url }}" alt="Photographie d'un relief assyrien : deux personnages barbus s'avancent en portant le tribut, les bras chargés, au-dessus d'un long texte cunéiforme gravé dans la pierre" loading="lazy" decoding="async" width="1200" height="1800" />
   <br /><small><em>Relief assyrien : un dignitaire lève les mains en signe de soumission, le champ entier couvert d'inscriptions cunéiformes. Les cités phéniciennes paient d'abord en or, en argent et en cèdre ce qui n'est encore qu'un tribut.</em></small></p>
 
 <p>Le roi d'Assyrie soumet les cités phéniciennes de la côte méditerranéenne. Ce n'est encore qu'une expédition de tribut — on exige de l'or, de l'argent, du bois de cèdre, et l'on repart — mais elle inaugure quelque chose de nouveau.</p>
@@ -3157,7 +3157,7 @@ tags: technology
 
 # -874 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Ivoires de Samarie" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Photographie d'une vitrine de musée présentant deux petits fragments d'ivoire sculpté provenant de Samarie, posés sur fond sombre à côté de leur cartel" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Fragments d'incrustations d'ivoire de Nimroud, IXᵉ siècle av. J.-C. Ces plaques finement gravées ornaient les meubles des palais du Levant — la « maison d'ivoire » que les prophètes reprocheront aux rois d'Israël.</em></small></p>
 
 <p>Le fils d'Omri, Achab, lui succède, et pousse la politique paternelle plus loin encore. Il agrandit Samarie et y bâtit un palais si richement décoré qu'on l'appellera la maison d'ivoire — les fouilles en ont retrouvé des centaines de fragments sculptés, dans un style phénicien. Il ouvre des relations commerciales avec la Phénicie, Chypre et la Grèce.</p>
@@ -3168,7 +3168,7 @@ tags: technology
 
 # -860 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/elie.webp' | relative_url }}" alt="Le prophète Élie" loading="lazy" decoding="async" width="1200" height="917" />
+<p style="text-align:center"><img src="{{ '/assets/img/elie.webp' | relative_url }}" alt="Peinture représentant le prophète Élie : un homme en manteau rouge se tient au milieu de ruines antiques, dans un paysage aride sous un ciel de fin de jour, entouré de quelques personnages" loading="lazy" decoding="async" width="1200" height="917" />
   <br /><small><em>Le prophète Élie dans un paysage de ruines, peinture hollandaise du XVIIᵉ siècle. Élie est le premier personnage attesté à exiger qu'Israël ne serve que son seul dieu : ce qui passe alors pour du fanatisme deviendra l'orthodoxie.</em></small></p>
 
 <p>Un homme surgit dans le royaume d'Israël, et son nom est un programme : Élie signifie « Yahvé est mon Dieu ». C'est le premier personnage attesté à exiger que l'on n'adore que Yahvé, à l'exclusion de tout autre.</p>
@@ -3193,7 +3193,7 @@ tags: technology
 
 # -859 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/salmanazar.webp' | relative_url }}" alt="L'obélisque noir de Salmanazar III" loading="lazy" decoding="async" width="1200" height="1806" />
+<p style="text-align:center"><img src="{{ '/assets/img/salmanazar.webp' | relative_url }}" alt="Photographie de l'obélisque noir de Salmanazar III : une haute borne de calcaire noir à sommet en gradins, dont les faces s'étagent en registres sculptés montrant les porteurs de tribut et leurs animaux" loading="lazy" decoding="async" width="1200" height="1806" />
   <br /><small><em>L'obélisque noir de Salmanazar III, dans son entier. Ses cinq registres sculptés déroulent les tributs versés au roi d'Assyrie ; le deuxième porte la seule image contemporaine connue d'un roi d'Israël.</em></small></p>
 
 <p>Salmanazar III monte sur le trône d'Assyrie et reprend la marche vers l'ouest. Face à lui, les rois de la région comprennent qu'ils ne survivront pas séparément : une coalition se forme, menée par Hadadézer de Damas, qui est alors l'État le plus puissant du Levant.</p>
@@ -3209,12 +3209,12 @@ tags: technology
 <p>C'est le premier point solide de cette histoire — non pas ce que raconte la Bible, mais ce qu'écrivent les voisins. Deux autres inscriptions du même siècle viendront confirmer le tableau : une stèle du roi de Moab, qui se vante d'avoir secoué le joug israélite, et une autre, retrouvée à Tel Dan, où un roi araméen revendique une victoire sur la « maison de David ».</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/stelemesha.webp' | relative_url }}" alt="Stèle de Mesha, roi de Moab, musée du Louvre" width="380" loading="lazy" decoding="async" height="587" />
+  <img src="{{ '/assets/img/stelemesha.webp' | relative_url }}" alt="Photographie de la stèle de Mesha au musée du Louvre : une dalle de basalte noir arrondie au sommet, brisée puis recollée, couvrant toute sa surface d'une inscription en alphabet moabite" width="380" loading="lazy" decoding="async" height="587" />
   <br /><small><em>La stèle de Mesha : le roi de Moab s'y vante d'avoir secoué le joug israélite. Photo Mbzt, CC BY 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/steleteldan.webp' | relative_url }}" alt="Fragments de la stèle de Tel Dan" width="600" loading="lazy" decoding="async" height="528" />
+  <img src="{{ '/assets/img/steleteldan.webp' | relative_url }}" alt="Photographie des fragments de la stèle de Tel Dan : trois éclats de basalte clair portant des lignes d'écriture araméenne, remontés sur un support de musée" width="600" loading="lazy" decoding="async" height="528" />
   <br /><small><em>Les fragments de la stèle de Tel Dan, où un roi araméen revendique une victoire sur la « maison de David ». Photo בית השלום, licence Attribution, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3222,7 +3222,7 @@ tags: technology
 
 # -850 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/rituelzhou.webp' | relative_url }}" alt="Bronze rituel des Zhou" loading="lazy" decoding="async" width="1200" height="1598" />
+<p style="text-align:center"><img src="{{ '/assets/img/rituelzhou.webp' | relative_url }}" alt="Photographie d'un bronze rituel chinois des Zhou : un vase à pied évasé hérissé d'arêtes verticales et couvert de masques et de spirales en relief, à la patine verte" loading="lazy" decoding="async" width="1200" height="1598" />
   <br /><small><em>Vase rituel en bronze des Zhou, couvercle et anse zoomorphes, décor de masques taotie. Ces récipients servaient aux offrandes de nourriture et de vin adressées aux ancêtres — le culte par lequel le pouvoir se légitimait.</em></small></p>
 
 <p>Un changement discret transforme la religion chinoise : le rituel devient public. Sous les premiers Zhou, ces cérémonies royales étaient probablement des affaires privées, de famille ; on les accomplit désormais devant une nombreuse assistance, sous la direction de spécialistes — les <em>ru</em> — chargés de veiller à ce que tout soit exécuté correctement. Le peuple peut ainsi observer la mise en œuvre de la Voie, et y prendre part.</p>
@@ -3233,7 +3233,7 @@ tags: technology
 
 # -842 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/roili.webp' | relative_url }}" alt="Vase ding chinois" loading="lazy" decoding="async" width="1200" height="1092" />
+<p style="text-align:center"><img src="{{ '/assets/img/roili.webp' | relative_url }}" alt="Photographie d'un vase ding chinois en bronze : une panse ronde à trois pieds courts, munie de deux anses latérales et d'un couvercle à anneaux, à la patine vert-de-gris" loading="lazy" decoding="async" width="1200" height="1092" />
   <br /><small><em>Récipient rituel chinois en bronze, à couvercle et anneaux de préhension. Le règne du roi Li s'achève par une révolte et quatorze ans de régence : la première période de l'histoire chinoise dont on possède une chronologie sûre.</em></small></p>
 
 <p>Le roi Li est déposé et contraint à l'exil. Les sources chinoises rapportent une révolte contre sa tyrannie et son avidité — il aurait, entre autres, confisqué les ressources des forêts et des rivières dont vivait le peuple, et fait espionner ceux qui le critiquaient, jusqu'à ce que les habitants de la capitale ne se parlent plus que du regard.</p>
@@ -3249,7 +3249,7 @@ tags: technology
 <p>Politiquement, Jéhu change de camp : il fait alliance avec l'Assyrie. La même année, Salmanazar écrase Damas et devient maître de la région. Une stèle assyrienne, retrouvée à Nimroud, montre un roi prosterné aux pieds du souverain, front contre terre, avec cette légende : tribut de Jéhu, fils d'Omri. C'est la seule image contemporaine d'un roi d'Israël qui nous soit parvenue — et elle le montre à plat ventre.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/obelisquenoir.webp' | relative_url }}" alt="Panneau de l'obélisque noir de Salmanazar III montrant Jéhu prosterné" width="600" loading="lazy" decoding="async" height="529" />
+  <img src="{{ '/assets/img/obelisquenoir.webp' | relative_url }}" alt="Photographie d'un panneau de l'obélisque noir de Salmanazar III : le roi d'Israël Jéhu, prosterné front contre terre, baise le sol devant le roi assyrien debout sous les emblèmes divins ailés, tandis que des serviteurs apportent le tribut" width="600" loading="lazy" decoding="async" height="529" />
   <br /><small><em>L'obélisque noir de Salmanazar III, retrouvé à Nimroud : Jéhu, fils d'Omri, front contre terre devant le roi assyrien. Photo Steven G. Johnson, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3257,7 +3257,7 @@ tags: technology
 
 # -830 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/yahveseul.webp' | relative_url }}" alt="Inscription de Kuntillet Ajrud" loading="lazy" decoding="async" width="1186" height="1054" />
+<p style="text-align:center"><img src="{{ '/assets/img/yahveseul.webp' | relative_url }}" alt="Relevé au trait d'une inscription paléo-hébraïque de Kuntillet Ajrud : quelques lettres tracées à l'encre, aux jambages allongés, isolées sur fond blanc" loading="lazy" decoding="async" width="1186" height="1054" />
   <br /><small><em>Relevé d'une inscription de Kuntillet Ajrud, en écriture paléo-hébraïque. Ce site du Sinaï a livré des bénédictions « par Yahvé et son ashéra » — preuve gênante qu'à cette date, le dieu d'Israël était encore associé à une parèdre.</em></small></p>
 
 <p>Le mouvement du « Yahvé seul » gagne du terrain en Israël. Ses partisans exigent qu'on ne sacrifie qu'à ce dieu et qu'on ignore le culte de tous les autres.</p>
@@ -3268,7 +3268,7 @@ tags: technology
 
 # -828 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Char des Zhou" loading="lazy" decoding="async" width="1200" height="1800" />
+<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Photographie d'un bronze rituel chinois de l'époque des Zhou : un vase haut à deux ouvertures, dont la panse est couverte de dragons et de spirales en relief, à la patine sombre" loading="lazy" decoding="async" width="1200" height="1800" />
   <br /><small><em>Vase rituel en bronze de l'époque des Zhou, décor de masques taotie en fort relief. (L'attribut de la balise donne « char » : c'est bien un récipient rituel, pas un véhicule.)</em></small></p>
 
 <p>Le roi Li meurt en exil, et son fils est rétabli sur le trône. La dynastie se relève — mais l'épisode a montré ce qu'elle refusait de voir : les seigneurs peuvent se passer du roi.</p>
@@ -3276,7 +3276,7 @@ tags: technology
 # -814 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/phenicie.webp' | relative_url }}" alt="Phénicie" loading="lazy" decoding="async" width="900" height="598" />
+  <img src="{{ '/assets/img/phenicie.webp' | relative_url }}" alt="Carte de la côte levantine : le territoire phénicien, colorié en vert, s'étire en une mince bande le long de la Méditerranée, jalonné par Byblos, Sidon, Tyr, Beyrouth et Tripoli, face à Chypre et devant les villes de l'intérieur — Alep, Ebla, Qadesh, Damas" loading="lazy" decoding="async" width="900" height="598" />
   <br /><small><em>Les cités phéniciennes de la côte levantine : des marchands qui ont donné au monde son alphabet.</em></small>
 </p>
 
@@ -3316,7 +3316,7 @@ tags: technology
 <p>À Samarie, la noblesse habite des demeures luxueuses aux panneaux d'ivoire finement sculptés. Mais comme dans tout État agraire, la richesse reste confinée aux classes supérieures, et l'écart entre riches et pauvres devient criant. Dans les campagnes, les paysans dont le travail finance les projets du roi sont lourdement taxés et soumis à la corvée.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ivoirenimroud.webp' | relative_url }}" alt="Ivoire phénicien de Nimroud" width="600" loading="lazy" decoding="async" height="329" />
+  <img src="{{ '/assets/img/ivoirenimroud.webp' | relative_url }}" alt="Photographie d'une plaque d'ivoire phénicienne trouvée à Nimroud : deux sphinx affrontés, coiffés à l'égyptienne, encadrent un motif central, le tout dans un cadre à créneaux" width="600" loading="lazy" decoding="async" height="329" />
   <br /><small><em>Ivoire de style phénicien : deux sphinx encadrant un cartouche. Ces plaques ornaient les meubles des palais du Levant, comme ceux de Samarie. Photo Levi Clancy, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3325,7 +3325,7 @@ tags: technology
 # -776 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/jeuxolympiques.webp' | relative_url }}" alt="Jeux olympiques antiques" loading="lazy" decoding="async" width="679" height="900" />
+  <img src="{{ '/assets/img/jeuxolympiques.webp' | relative_url }}" alt="Photographie d'une amphore grecque à figures noires : des athlètes nus courent à grandes foulées, bras levés, sur la panse orangée du vase à deux anses" loading="lazy" decoding="async" width="679" height="900" />
   <br /><small><em>Les Jeux olympiques antiques : tous les quatre ans, une trêve sacrée suspend les guerres entre cités.</em></small>
 </p>
 
@@ -3333,7 +3333,7 @@ tags: technology
 
 # -771 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/zhouorientaux.webp' | relative_url }}" alt="Les Zhou orientaux" loading="lazy" decoding="async" width="1200" height="849" />
+<p style="text-align:center"><img src="{{ '/assets/img/zhouorientaux.webp' | relative_url }}" alt="Carte des principautés de la dynastie Zhou : le domaine royal, en rouge au centre, est entouré des grands États vassaux — Qi, Jin, Chu, Wu, Yue, Qin — délimités par des tirets, avec leur légende par rang d'importance" loading="lazy" decoding="async" width="1200" height="849" />
   <br /><small><em>Carte des principautés de la dynastie Zhou. Le domaine royal, au centre, n'est plus qu'une tache minuscule au milieu des grands États qui se disputent le pays : le roi règne encore, il ne gouverne plus.</em></small></p>
 
 <p>Les Rong, peuple des marges occidentales qui harcelait la cour des Zhou depuis plus de cinquante ans, prennent leur capitale et tuent le roi. La dynastie ne s'en relèvera pas.</p>
@@ -3344,7 +3344,7 @@ tags: technology
 
 # -770 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/kouros.webp' | relative_url }}" alt="Kouros archaïque" loading="lazy" decoding="async" width="1200" height="1950" />
+<p style="text-align:center"><img src="{{ '/assets/img/kouros.webp' | relative_url }}" alt="Photographie d'un kouros archaïque vu de dos : un jeune homme nu, debout, jambe gauche avancée et bras le long du corps, la chevelure taillée en longues nattes régulières descendant sur les épaules" loading="lazy" decoding="async" width="1200" height="1950" />
   <br /><small><em>Kouros archaïque en marbre, vu de dos. Ces jeunes hommes nus, debout, un pied en avant, empruntent leur frontalité à l'Égypte — mais les Grecs abandonnent vite le pilier dorsal et libèrent la statue de son bloc.</em></small></p>
 
 <p>En un temps remarquablement court, la Grèce pose les fondations d'une culture sans équivalent.</p>
@@ -3355,7 +3355,7 @@ tags: technology
 
 # -760 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chassechine.webp' | relative_url }}" alt="Scène de chasse chinoise" loading="lazy" decoding="async" width="1200" height="1202" />
+<p style="text-align:center"><img src="{{ '/assets/img/chassechine.webp' | relative_url }}" alt="Photographie d'une coupe métallique ancienne vue de dessus : autour de l'ombilic central, des animaux et des personnages en relief se poursuivent en frises concentriques" loading="lazy" decoding="async" width="1200" height="1202" />
   <br /><small><em>Miroir chinois en bronze, décor de chasse en relief. Le revers des miroirs a longtemps servi de support à ces scènes cynégétiques, plaisir aristocratique par excellence — jusqu'à ce que la raréfaction du gibier oblige à l'encadrer.</em></small></p>
 
 <p>La Chine découvre la rareté. Le défrichement massif des siècles précédents a détruit l'habitat de quantité d'espèces, et les expéditions de chasse rentrent désormais avec bien moins de gibier qu'au temps de l'abondance. L'élevage des moutons et des bovins a lui aussi fortement diminué.</p>
@@ -3398,7 +3398,7 @@ tags: technology
 <p>Contrairement à ce qu'on croit souvent, l'Iliade ne raconte ni toute la guerre de Troie, ni la chute de la ville, ni même le cheval de Troie. Elle se concentre sur quelques semaines de la dixième année de guerre, et sur une querelle : un choc d'orgueils entre Agamemnon, roi de Mycènes et chef de l'armée grecque, et Achille, qui commande l'un de ses contingents. Estimant son honneur bafoué, Achille retire ses hommes du combat et met en péril toute l'expédition ; dans la guerre qui suit, son meilleur ami Patrocle est tué par Hector, fils du roi de Troie. L'Odyssée, elle, se situe après la guerre et raconte les dix ans de voyage d'Ulysse à travers des terres étranges, jusqu'à retrouver sa femme à Ithaque.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/exekias.webp' | relative_url }}" alt="Achille et Ajax jouant aux dés, amphore d'Exékias" width="380" loading="lazy" decoding="async" height="570" />
+  <img src="{{ '/assets/img/exekias.webp' | relative_url }}" alt="Photographie d'une amphore attique à figures noires exposée en vitrine : deux guerriers casqués, lance à la main, se font face au-dessus d'un plateau de jeu, sous une frise de méandres" width="380" loading="lazy" decoding="async" height="570" />
   <br /><small><em>Achille et Ajax jouant aux dés, amphore signée d'Exékias : les héros d'Homère, la lance à la main, pendant une pause de la guerre. Photo Daderot, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3427,7 +3427,7 @@ tags: technology
 <p>Teglath-Phalasar III monte sur le trône d'Assyrie et invente un type d'empire entièrement nouveau. Il démantèle progressivement le vieux système de vassalité, où l'on laissait les rois locaux en place contre tribut, et incorpore les peuples soumis directement dans l'État assyrien.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/teglathphalasar.webp' | relative_url }}" alt="Relief assyrien de l'assaut d'une ville, règne de Teglath-Phalasar III" width="640" loading="lazy" decoding="async" height="335" />
+  <img src="{{ '/assets/img/teglathphalasar.webp' | relative_url }}" alt="Photographie d'un relief assyrien : le roi debout de profil, coiffé de la tiare royale et tenant son sceptre, sculpté sur une haute dalle de pierre sombre" width="640" loading="lazy" decoding="async" height="335" />
   <br /><small><em>Assaut d'une ville ennemie sous Teglath-Phalasar III : bélier sur rampe, échelles, déportés en file. Photo Allan Gluck, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3437,7 +3437,7 @@ tags: technology
 
 # -740 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/isaie.webp' | relative_url }}" alt="Le prophète Isaïe" loading="lazy" decoding="async" width="701" height="1168" />
+<p style="text-align:center"><img src="{{ '/assets/img/isaie.webp' | relative_url }}" alt="Photographie d'une fresque représentant le prophète Isaïe : un homme barbu drapé de jaune et de blanc, assis, déroulant un phylactère couvert de lettres hébraïques, encadré de deux putti" loading="lazy" decoding="async" width="701" height="1168" />
   <br /><small><em>Le prophète Isaïe, fresque de Raphaël à Sant'Agostino de Rome. Il tient un rouleau en hébreu : la vision qu'il reçoit dans le Temple ouvre trois siècles de prédication prophétique à Jérusalem.</em></small></p>
 
 <p>À Jérusalem, un homme a une vision dans le Temple et devient prophète : Isaïe. Le petit royaume de Juda est alors trop insignifiant pour attirer l'attention de l'Assyrie.</p>
@@ -3450,7 +3450,7 @@ tags: technology
 
 # -734 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/siegeassyrien.webp' | relative_url }}" alt="Siège assyrien" loading="lazy" decoding="async" width="1200" height="911" />
+<p style="text-align:center"><img src="{{ '/assets/img/siegeassyrien.webp' | relative_url }}" alt="Photographie d'un relief assyrien de siège : une mêlée serrée de soldats, d'archers et de fuyards sculptée sur toute la surface de la dalle, sous les murs de la ville attaquée" loading="lazy" decoding="async" width="1200" height="911" />
   <br /><small><em>Relief assyrien : archers et frondeurs progressent sous les murs d'une ville, la pente couverte d'écailles figurant le relief. La guerre de siège est le savoir-faire militaire majeur de l'Assyrie.</em></small></p>
 
 <p>Tout change pour Juda. Les rois d'Israël et de Damas organisent une coalition contre l'avance assyrienne, et quand le roi Achaz de Juda refuse de s'y joindre, ils envoient une armée assiéger Jérusalem pour le déposer et mettre sur le trône quelqu'un de plus accommodant.</p>
@@ -3459,7 +3459,8 @@ tags: technology
 
 # -732 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/damas732.webp' | relative_url }}" alt="Relief assyrien de déportation" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/damas732.webp' | relative_url }}" alt="Relief assyrien de déportation" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Reliefs assyriens d'un assaut : bélier monté sur rampe, échelle dressée, archers en couverture et fuyards écrasés sous les murs. C'est cette machine militaire que Teglath-Phalasar III lance sur Damas.</em></small></p>
 
 <p>L'Assyrien punit ses vassaux rebelles sans perdre de temps. Il fond sur Damas, exécute son roi, descend la côte méditerranéenne en détruisant toute cité qui semble prête à faire défection. Puis vient le tour d'Israël : l'armée assyrienne s'empare de la Galilée et de la vallée de Jizréel, et envahit les territoires de la rive est du Jourdain.</p>
 
@@ -3467,7 +3468,7 @@ tags: technology
 
 # -722 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/deportationassyrienne.webp' | relative_url }}" alt="Déportation assyrienne" loading="lazy" decoding="async" width="1200" height="801" />
+<p style="text-align:center"><img src="{{ '/assets/img/deportationassyrienne.webp' | relative_url }}" alt="Photographie d'un relief assyrien de déportation : une charrette à roues pleines tirée par des bœufs emporte des femmes et des enfants assis sur les bagages, encadrée par un soldat à pied" loading="lazy" decoding="async" width="1200" height="801" />
   <br /><small><em>Relief assyrien : des déportés emmenés sur un chariot à bœufs, femmes et enfants compris. La déportation n'est pas un débordement mais une politique — on vide un pays de ses cadres pour le rendre incapable de se révolter.</em></small></p>
 
 <p>L'Assyrie détruit le royaume d'Israël et déporte sa population — les fameuses « dix tribus perdues », qui se dissolvent dans les peuples voisins et disparaissent de l'histoire. C'est le sort normal des vaincus dans l'Antiquité : un peuple sans terre cesse d'exister, et son dieu, jugé faible, est abandonné pour celui du vainqueur.</p>
@@ -3483,7 +3484,7 @@ tags: technology
 <p>Lakish, deuxième ville du royaume, est rasée : quinze cents hommes, femmes et enfants seront retrouvés dans une fosse commune. Le roi assyrien fera sculpter le siège en détail sur les murs de son palais — la rampe d'assaut, les béliers, les défenseurs empalés, les files de déportés. C'est l'un des rares épisodes de la Bible dont nous possédions aussi l'image, vue du côté du vainqueur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Relief assyrien du siège de Lakish, British Museum" width="600" loading="lazy" decoding="async" height="455" />
+  <img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Relevé au trait d'un ostracon de Lakish : une lettre en écriture paléo-hébraïque, tracée à l'encre en six lignes sur un tesson de poterie, légendée « Carta de Tell ed-Duweir (Siglo VI a.C.) »" width="600" loading="lazy" decoding="async" height="455" />
   <br /><small><em>Archers et frondeurs assyriens à l'assaut de Lakish, relief du palais de Sennachérib à Ninive. Photo Ywpark2003, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3493,7 +3494,7 @@ tags: technology
 
 # -700 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/sanctuairegrec.webp' | relative_url }}" alt="Sanctuaire grec" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/sanctuairegrec.webp' | relative_url }}" alt="Photographie du chapiteau d'une colonne dorique dans un sanctuaire grec : le fût cannelé et son coussinet de pierre érodée se détachent sur un ciel bleu" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Chapiteau dorique se détachant sur le ciel. Le sanctuaire est l'institution qui structure le monde grec avant l'État : on y dépose des offrandes, on y concourt, et l'on y reconnaît des voisins comme des semblables.</em></small></p>
 
 <p>Le mouvement s'accélère. Des communautés restées petites pendant des générations se structurent en <em>poleis</em>, les cités-États ; les sanctuaires prennent de l'ampleur, les échanges maritimes s'intensifient, et des Grecs fondent des établissements jusqu'en Italie du Sud et en Sicile.</p>
@@ -3514,7 +3515,7 @@ tags: technology
 
 # -690 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/sparte.webp' | relative_url }}" alt="Sparte" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/sparte.webp' | relative_url }}" alt="Photographie du site de Sparte : des tambours de colonnes renversés dans l'herbe haute, au milieu des oliviers, devant les montagnes du Taygète" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>La plaine de Sparte au pied du Taygète, avec quelques tambours de colonnes dans l'herbe. La cité la plus redoutée de Grèce n'a presque rien bâti : Thucydide prévoyait qu'on n'y trouverait un jour aucune ruine à sa mesure.</em></small></p>
 
 <p>Le monde grec prospère, mais pas partout de la même façon. Athènes traîne encore derrière les autres ; ce sont les cités du Péloponnèse qui montent. C'est le siècle de Corinthe, admirablement placée pour le commerce méditerranéen, dotée d'un artisanat florissant, et qui, sous l'influence de l'Égypte, expérimente l'architecture monumentale.</p>
@@ -3525,7 +3526,7 @@ tags: technology
 
 # -680 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/hesiode.webp' | relative_url }}" alt="Hésiode" loading="lazy" decoding="async" width="744" height="1280" />
+<p style="text-align:center"><img src="{{ '/assets/img/hesiode.webp' | relative_url }}" alt="Photographie d'un buste antique en marbre représentant Hésiode : un visage d'homme mûr aux traits creusés et aux cheveux courts et bouclés, sur fond rouge" loading="lazy" decoding="async" width="744" height="1280" />
   <br /><small><em>Buste romain traditionnellement identifié comme Hésiode. Le poète se présente lui-même comme un paysan de Béotie en procès avec son frère — le premier auteur grec dont on connaisse la vie ordinaire plutôt que la légende.</em></small></p>
 
 <p>Hésiode compose en Béotie les œuvres qui lui sont traditionnellement attribuées, notamment la <em>Théogonie</em> et les <em>Travaux et les Jours</em>.</p>
@@ -3554,7 +3555,7 @@ tags: technology
 
 # -670 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/messenie.webp' | relative_url }}" alt="La Messénie" loading="lazy" decoding="async" width="1200" height="786" />
+<p style="text-align:center"><img src="{{ '/assets/img/messenie.webp' | relative_url }}" alt="Photographie des ruines de Messène : les grands murs d'appareil régulier et les bases de colonnes dégagés au pied d'une colline boisée" loading="lazy" decoding="async" width="1200" height="786" />
   <br /><small><em>Les remparts de l'antique Messène. Sparte s'est approprié ce pays voisin et a réduit ses habitants en hilotes ; c'est cette dépendance qui transformera la cité en camp militaire permanent.</em></small></p>
 
 <p>La Messénie se révolte contre Sparte. La guerre sera longue et brutale, et se terminera par une reconquête complète.</p>
@@ -3565,7 +3566,7 @@ tags: technology
 
 # -656 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/psammetique.webp' | relative_url }}" alt="Psammétique Iᵉʳ" loading="lazy" decoding="async" width="450" height="652" />
+<p style="text-align:center"><img src="{{ '/assets/img/psammetique.webp' | relative_url }}" alt="Photographie d'un buste égyptien en pierre sombre du pharaon Psammétique Iᵉʳ : le visage lisse encadré du némès rayé et surmonté de l'uræus, cassé à hauteur de poitrine" loading="lazy" decoding="async" width="450" height="652" />
   <br /><small><em>Buste en pierre dure d'un pharaon coiffé du némès, attribué à Psammétique Iᵉʳ. Son règne chasse les garnisons assyriennes du Levant et rend, pour une génération, sa liberté au petit royaume de Juda.</em></small></p>
 
 <p>Le pharaon Psammétique Iᵉʳ contraint les troupes assyriennes à évacuer le Levant. Les habitants de Juda voient avec stupeur et joie les Assyriens quitter les territoires de l'ancien royaume du nord, disparu depuis soixante ans.</p>
@@ -3576,7 +3577,7 @@ tags: technology
 
 # -655 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/corinthe.webp' | relative_url }}" alt="Corinthe" loading="lazy" decoding="async" width="538" height="720" />
+<p style="text-align:center"><img src="{{ '/assets/img/corinthe.webp' | relative_url }}" alt="Photographie des ruines de Corinthe : des murs de pierre et de brique dressés au pied de la montagne, abritant dans une niche une statue drapée sans tête" loading="lazy" decoding="async" width="538" height="720" />
   <br /><small><em>Ruines de Corinthe, statue drapée sans tête encastrée dans un mur. La cité la plus riche du Péloponnèse est aussi celle où un homme s'empare le premier du pouvoir sans y avoir droit — les Grecs l'appelleront tyrannos.</em></small></p>
 
 <p>Un homme s'empare du pouvoir à Corinthe sans y avoir droit — et d'autres cités suivront. Les Grecs l'appellent <em>tyrannos</em>, mot emprunté à l'Orient qui n'a pas encore le sens que nous lui donnons : il désigne simplement celui qui prend le pouvoir hors des règles et gouverne en dehors des lois établies, souvent en faveur du peuple et contre l'aristocratie.</p>
@@ -3586,7 +3587,7 @@ tags: technology
 # -650 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hoplite.webp' | relative_url }}" alt="Hoplite" loading="lazy" decoding="async" width="482" height="486" />
+  <img src="{{ '/assets/img/hoplite.webp' | relative_url }}" alt="Photographie du médaillon d'une coupe grecque à figures rouges : un hoplite casqué, la lance à la main, se tient derrière son grand bouclier rond, dans un cercle de méandres" loading="lazy" decoding="async" width="482" height="486" />
   <br /><small><em>L'hoplite : lance, bouclier rond, casque — et la phalange, où chacun protège de son bouclier le flanc de son voisin.</em></small>
 </p>
 
@@ -3618,7 +3619,7 @@ tags: technology
 
 # -640 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/guerrechinoise.webp' | relative_url }}" alt="Guerre des chars en Chine" loading="lazy" decoding="async" width="1200" height="1997" />
+<p style="text-align:center"><img src="{{ '/assets/img/guerrechinoise.webp' | relative_url }}" alt="Photographie d'un bronze chinois ancien : une pièce cylindrique dressée, couverte de dragons enroulés et d'incrustations d'or et de turquoise" loading="lazy" decoding="async" width="1200" height="1997" />
   <br /><small><em>Élément de char en bronze doré, décor de dragons ajourés. La guerre des chars chinoise obéit alors à des règles strictes : on n'attaque pas une armée qui n'a pas fini de se ranger, et vaincre en trichant ne prouve rien.</em></small></p>
 
 <p>La guerre chinoise, à la même époque, obéit à des principes qui paraissent d'un autre monde.</p>
@@ -3638,7 +3639,7 @@ tags: technology
 <p>Ces premières monnaies sont fabriquées en électrum, un alliage d'or et d'argent que l'on trouve naturellement dans la région, notamment dans les dépôts alluviaux associés au fleuve Pactole près de Sardes. La Lydie possède ainsi non seulement une position privilégiée sur les routes commerciales reliant la mer Égée à l'intérieur de l'Anatolie, mais aussi un accès exceptionnel aux métaux précieux.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/electrum.webp' | relative_url }}" alt="Statère d'électrum lydien à la tête de lion" width="520" loading="lazy" decoding="async" height="226" />
+  <img src="{{ '/assets/img/electrum.webp' | relative_url }}" alt="Photographie des deux faces d'une monnaie lydienne en électrum : au droit, une tête de lion rugissante au museau verruqueux ; au revers, deux carrés poinçonnés en creux" width="520" loading="lazy" decoding="async" height="226" />
   <br /><small><em>Trité d'électrum de Lydie, vers -610 : une tête de lion au droit, deux carrés poinçonnés au revers. Photo CNG Coins, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3652,7 +3653,7 @@ tags: technology
 
 # -622 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/josias.webp' | relative_url }}" alt="Le roi Josias et le livre de la Loi" loading="lazy" decoding="async" width="1200" height="975" />
+<p style="text-align:center"><img src="{{ '/assets/img/josias.webp' | relative_url }}" alt="Gravure ancienne montrant le roi Josias : à gauche, on lui présente le livre de la Loi retrouvé dans le Temple ; à droite, le roi déchire ses vêtements devant sa cour, sous une légende latine" loading="lazy" decoding="async" width="1200" height="975" />
   <br /><small><em>Le roi Josias écoutant la lecture du livre de la Loi, gravure du XVIᵉ siècle. Découvert au cours de travaux dans le Temple, ce livre — sans doute le noyau du Deutéronome — servira de programme à sa réforme religieuse.</em></small></p>
 
 <p>Josias lance de grands travaux sur le Temple de Salomon, ce mémorial de l'âge d'or supposé de Juda. C'est au cours de ces travaux qu'on découvrira le livre de la Loi qui déclenchera sa réforme.</p>
@@ -3660,7 +3661,7 @@ tags: technology
 # -612 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ninive.webp' | relative_url }}" alt="Ninive" loading="lazy" decoding="async" width="900" height="596" />
+  <img src="{{ '/assets/img/ninive.webp' | relative_url }}" alt="Photographie de la porte Mashki de Ninive, reconstruite en brique : une muraille crénelée percée d'un passage voûté, avec le panneau indiquant le nom du monument" loading="lazy" decoding="async" width="900" height="596" />
   <br /><small><em>Ninive : la capitale assyrienne, prise et rasée en 612 av. J.-C. par les Babyloniens et les Mèdes.</em></small>
 </p>
 
@@ -3670,7 +3671,7 @@ tags: technology
 
 # -610 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/nechao.webp' | relative_url }}" alt="Néchao II" loading="lazy" decoding="async" width="549" height="1339" />
+<p style="text-align:center"><img src="{{ '/assets/img/nechao.webp' | relative_url }}" alt="Photographie d'une statue égyptienne en pierre sombre représentant un pharaon agenouillé, les mains posées à plat sur les cuisses, coiffé du némès" loading="lazy" decoding="async" width="549" height="1339" />
   <br /><small><em>Statuette d'un pharaon agenouillé, attribuée à Néchao II. Sa marche vers l'Euphrate, au secours d'une Assyrie moribonde, coûte la vie au roi Josias, tué à Megiddo au premier engagement.</em></small></p>
 
 <p>Le pharaon Psammétique meurt, et son successeur Néchao marche l'année suivante à travers la Palestine pour porter secours au roi d'Assyrie, désormais aux abois — car l'Empire assyrien s'effondre, et Babylone monte.</p>
@@ -3682,7 +3683,7 @@ tags: technology
 # -605 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/nabuchodonosor.webp' | relative_url }}" alt="Nabuchodonosor II" loading="lazy" decoding="async" width="900" height="589" />
+  <img src="{{ '/assets/img/nabuchodonosor.webp' | relative_url }}" alt="Photographie d'un cylindre d'argile de Nabuchodonosor II : un tambour de terre cuite couvert de lignes serrées de cunéiforme, du genre que les rois enfouissaient dans les fondations de leurs temples" loading="lazy" decoding="async" width="900" height="589" />
   <br /><small><em>Un cylindre d'argile de Nabuchodonosor II : les rois de Babylone enfouissaient ces inscriptions dans les fondations de leurs temples.</em></small>
 </p>
 
@@ -3703,7 +3704,7 @@ tags: technology
 <p>Ces pièces sont technologiquement différentes des monnaies lydiennes. Elles sont souvent obtenues en préparant une feuille ou une barre d'argent, découpée afin d'atteindre un poids déterminé, puis marquée séparément par plusieurs poinçons. Les symboles peuvent certifier la validité ou l'origine de la pièce. Au fil des siècles, ce système de monnaies poinçonnées deviendra caractéristique d'une grande partie du sous-continent.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/monnaiepoinconnee.webp' | relative_url }}" alt="Monnaie indienne d'argent poinçonnée, période maurya" width="560" loading="lazy" decoding="async" height="224" />
+  <img src="{{ '/assets/img/monnaiepoinconnee.webp' | relative_url }}" alt="Photographie des deux faces d'une monnaie indienne en argent poinçonnée : un morceau de métal au poids ajusté, marqué de plusieurs symboles frappés séparément" width="560" loading="lazy" decoding="async" height="224" />
   <br /><small><em>Karshapana d'argent poinçonné, Inde, période maurya : un morceau de métal au poids ajusté, marqué de plusieurs poinçons. Photo Jean-Michel Moullec, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3717,7 +3718,7 @@ tags: technology
 
 # -597 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chroniquebabylonienne.webp' | relative_url }}" alt="Chronique babylonienne" loading="lazy" decoding="async" width="1014" height="627" />
+<p style="text-align:center"><img src="{{ '/assets/img/chroniquebabylonienne.webp' | relative_url }}" alt="Relevé au trait d'une tablette de la Chronique babylonienne : les lignes de cunéiforme, disposées en colonnes, notant année après année les campagnes du roi" loading="lazy" decoding="async" width="1014" height="627" />
   <br /><small><em>Relevé d'une tablette des Chroniques babyloniennes. Ces textes secs, année par année, sont ce que l'histoire du Proche-Orient possède de plus proche d'un procès-verbal : c'est par eux qu'on date la prise de Jérusalem.</em></small></p>
 
 <p>Le roi de Jérusalem, placé devant le choix décrit plus haut — Babylone ou l'Égypte —, vient de choisir l'Égypte. Il s'est trompé.</p>
@@ -3742,7 +3743,7 @@ tags: technology
 
 # -594 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/solon.webp' | relative_url }}" alt="Solon" loading="lazy" decoding="async" width="1200" height="1960" />
+<p style="text-align:center"><img src="{{ '/assets/img/solon.webp' | relative_url }}" alt="Photographie d'un buste antique en marbre représentant Solon : un homme âgé au front dégarni, à la barbe fournie et au regard sévère" loading="lazy" decoding="async" width="1200" height="1960" />
   <br /><small><em>Buste romain traditionnellement identifié comme Solon. Il annule les dettes, interdit l'esclavage pour dettes — puis refuse le pouvoir absolu qu'on lui offre pour imposer ses réformes.</em></small></p>
 
 <p>Athènes traverse une crise sociale grave : les petits paysans endettés perdent leurs terres, et beaucoup finissent réduits en esclavage pour dettes — vendus parfois à l'étranger. La cité est au bord de la guerre civile, et l'on confie à un homme le soin de tout réformer : Solon.</p>
@@ -3753,7 +3754,7 @@ tags: technology
 
 # -593 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/siegesong.webp' | relative_url }}" alt="Siège d'une ville chinoise" loading="lazy" decoding="async" width="800" height="685" />
+<p style="text-align:center"><img src="{{ '/assets/img/siegesong.webp' | relative_url }}" alt="Photographie de la reconstitution d'une machine de siège chinoise : une tour d'assaut en bois montée sur roues, avec sa rampe inclinée, devant une muraille" loading="lazy" decoding="async" width="800" height="685" />
   <br /><small><em>Reconstitution moderne d'une machine de siège chinoise à échelle roulante. Le siège de Song dure assez longtemps pour que ses habitants en viennent à manger leurs enfants — fait rapporté par les chroniques sans la moindre emphase.</em></small></p>
 
 <p>La ville de Song subit un siège interminable. Quand les vivres manquent, les habitants en viennent à manger leurs propres enfants.</p>
@@ -3762,7 +3763,8 @@ tags: technology
 
 # -589 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ostracalakish.webp' | relative_url }}" alt="Les ostraca de Lakish" loading="lazy" decoding="async" width="431" height="413" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ostracalakish.webp' | relative_url }}" alt="Les ostraca de Lakish" loading="lazy" decoding="async" width="431" height="413" />
+  <br /><small><em>Relevé d'un ostracon de Lakish, VIᵉ siècle av. J.-C. : un message militaire tracé à l'encre sur un tesson, pendant que l'armée babylonienne remonte vers Jérusalem.</em></small></p>
 
 <p>Un nouveau pharaon monte sur le trône d'Égypte et promet son soutien à quiconque se révoltera contre Babylone. Les États voisins s'agitent, une coalition se dessine, et les nobles de Jérusalem pressent Sédécias de rompre son serment.</p>
 
@@ -3772,7 +3774,7 @@ tags: technology
 
 # -586 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/destructionjerusalem.webp' | relative_url }}" alt="La destruction de Jérusalem" loading="lazy" decoding="async" width="1200" height="863" />
+<p style="text-align:center"><img src="{{ '/assets/img/destructionjerusalem.webp' | relative_url }}" alt="Peinture de la destruction de Jérusalem : la ville en flammes, le Temple s'effondrant dans la fumée, une foule de fuyards et de morts au premier plan" loading="lazy" decoding="async" width="1200" height="863" />
   <br /><small><em>« La destruction du Temple de Jérusalem », Francesco Hayez, 1867. La toile figure en réalité le sac romain de l'an 70 ; elle sert ici d'image du désastre que fut, six siècles plus tôt, l'incendie babylonien du premier Temple.</em></small></p>
 
 <p>Les Égyptiens viennent effectivement — le siège est levé quelques semaines, et la ville exulte. Puis ils repartent sans livrer bataille. Les Babyloniens reviennent, et cette fois ils restent dix-huit mois.</p>
@@ -3789,7 +3791,7 @@ tags: technology
 
 # -580 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2pf05bejNKs" data-id="2pf05bejNKs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/2pf05bejNKs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2pf05bejNKs" data-id="2pf05bejNKs" rel="noopener" aria-label="Lire la vidéo YouTube : Mathématiques - Petite biographie de Pythagore"><img src="https://i.ytimg.com/vi/2pf05bejNKs/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Mathématiques - Petite biographie de Pythagore »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance de Pythagore. Il fondera dans le sud de l'Italie une école qui est à la fois une communauté philosophique, scientifique et religieuse : mathématiques, musique, astronomie et spiritualité s'y mêlent, sous des règles de vie strictes — végétarisme, interdiction de manger des fèves, silence et méditation.</p>
 
@@ -3797,7 +3799,7 @@ tags: technology
 
 # -570 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/babylone.webp' | relative_url }}" alt="Babylone" loading="lazy" decoding="async" width="1200" height="732" />
+<p style="text-align:center"><img src="{{ '/assets/img/babylone.webp' | relative_url }}" alt="Photographie d'un panneau de briques émaillées de Babylone : un lion marchant, à la crinière ocre et au corps clair, se détache sur un fond bleu profond, entre deux frises de rosettes" loading="lazy" decoding="async" width="1200" height="732" />
   <br /><small><em>Lion en briques émaillées de la voie processionnelle de Babylone. Ces fauves jalonnaient l'avenue qui menait à la porte d'Ishtar — la ville où les déportés de Juda vont, contre toute attente, réinventer leur religion.</em></small></p>
 
 <p>À Babylone, les déportés font ce qu'aucun peuple vaincu n'avait fait : ils écrivent. Privés de temple, de terre et de roi, il ne leur reste que leur mémoire — et ils entreprennent de la sauver. Prêtres et scribes rassemblent les traditions anciennes, les lois, les généalogies, les récits des origines, les oracles des prophètes, et mettent tout cela en ordre.</p>
@@ -3808,14 +3810,14 @@ tags: technology
 
 # -563 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/lumbini.webp' | relative_url }}" alt="Lumbini" loading="lazy" decoding="async" width="1200" height="743" />
+<p style="text-align:center"><img src="{{ '/assets/img/lumbini.webp' | relative_url }}" alt="Photographie du temple de Maya Devi à Lumbini : le bâtiment blanc, couronné d'une flèche, se reflète dans le bassin sacré bordé de brique" loading="lazy" decoding="async" width="1200" height="743" />
   <br /><small><em>Le temple de Maya Devi à Lumbini, au Népal, et son bassin sacré. La tradition y place la naissance de Siddhartha Gautama ; un pilier d'Ashoka planté sur le site en fait l'un des lieux bouddhiques les mieux attestés.</em></small></p>
 
 <p>Naissance de Siddhartha Gautama dans une famille royale, dans la région de Lumbini, au Népal actuel (date traditionnelle — certaines chronologies le placent un siècle plus tard). Il grandit dans le luxe d'un palais, soigneusement tenu à l'écart de toute souffrance.</p>
 
 # -560 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/cresus.webp' | relative_url }}" alt="Monnaie de Crésus" loading="lazy" decoding="async" width="800" height="700" />
+<p style="text-align:center"><img src="{{ '/assets/img/cresus.webp' | relative_url }}" alt="Photographie d'une monnaie de Crésus : un lion et un taureau affrontés, sculptés en relief sur le flan de métal, museau contre museau" loading="lazy" decoding="async" width="800" height="700" />
   <br /><small><em>Monnaie lydienne : un lion et un taureau affrontés. Crésus introduit le premier bimétallisme en frappant séparément l'or et l'argent — une valeur désormais garantie par l'État plutôt que par la pesée.</em></small></p>
 
 <p>En Lydie, le roi Crésus — dont la richesse est restée proverbiale — perfectionne la monnaie : il introduit le premier bimétallisme, frappant séparément des pièces d'or pur et d'argent pur, aux valeurs standardisées. Un jalon majeur de l'histoire économique.</p>
@@ -3823,7 +3825,7 @@ tags: technology
 # -551 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/confucius.webp' | relative_url }}" alt="Confucius" loading="lazy" decoding="async" width="637" height="900" />
+  <img src="{{ '/assets/img/confucius.webp' | relative_url }}" alt="Portrait peint de Confucius : le maître assis dans un large fauteuil, en robe brune à manches amples, les mains jointes devant lui, avec son nom calligraphié à droite" loading="lazy" decoding="async" width="637" height="900" />
   <br /><small><em>Confucius : un lettré sans charge, convaincu que l'ordre du monde tient à la qualité morale de ceux qui gouvernent.</em></small>
 </p>
 
@@ -3833,7 +3835,7 @@ tags: technology
 
 # -550 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/jeremie.webp' | relative_url }}" alt="Le prophète Jérémie" loading="lazy" decoding="async" width="1200" height="1577" />
+<p style="text-align:center"><img src="{{ '/assets/img/jeremie.webp' | relative_url }}" alt="Gravure d'après Michel-Ange représentant le prophète Jérémie : le personnage assis, la tête appuyée sur la main, plongé dans la méditation, encadré par les figures architecturales de la voûte Sixtine" loading="lazy" decoding="async" width="1200" height="1577" />
   <br /><small><em>Le prophète Jérémie, gravure d'après la fresque de Michel-Ange à la chapelle Sixtine. Jérémie répète que la révolte contre Babylone est un suicide et que l'Égypte est un roseau brisé ; on l'écoute trop tard.</em></small></p>
 
 <p>La catastrophe reçoit alors une explication que les prophètes avaient préparée : Jérémie et d'autres l'avaient annoncée avant qu'elle n'arrive, disant que Dieu punirait l'infidélité de son peuple. Les vaincus tiennent donc leur défaite non pour la preuve que leur dieu était faible, mais pour la preuve qu'il avait raison — Nabuchodonosor n'est pas son vainqueur, il est son instrument.</p>
@@ -3844,7 +3846,7 @@ tags: technology
 
 # -549 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/cyrus.webp' | relative_url }}" alt="Cyrus le Grand" loading="lazy" decoding="async" width="783" height="1175" />
+<p style="text-align:center"><img src="{{ '/assets/img/cyrus.webp' | relative_url }}" alt="Photographie nocturne du tombeau de Cyrus à Pasargades : un petit édifice de pierre à toit à deux pentes, dressé sur six degrés et éclairé, sous la Voie lactée" loading="lazy" decoding="async" width="783" height="1175" />
   <br /><small><em>Le tombeau de Cyrus à Pasargades, sous la Voie lactée. Le fondateur de l'Empire perse gouverne par une méthode inverse de celle des Assyriens : restaurer les cultes locaux et renvoyer chez eux les peuples déportés.</em></small></p>
 
 <p>À l'est, un roi vassal de la Perse renverse son suzerain mède et fonde ce qui deviendra, en une génération, le plus vaste empire que le monde ait connu : Cyrus, que l'histoire appellera le Grand.</p>
@@ -3855,7 +3857,7 @@ tags: technology
 
 # -547 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/pisistrate.webp' | relative_url }}" alt="Pisistrate" loading="lazy" decoding="async" width="457" height="768" />
+<p style="text-align:center"><img src="{{ '/assets/img/pisistrate.webp' | relative_url }}" alt="Photographie d'un buste antique en marbre représentant Pisistrate : un homme barbu au visage large, sur fond noir" loading="lazy" decoding="async" width="457" height="768" />
   <br /><small><em>Buste antique traditionnellement identifié comme Pisistrate. Ce tyran d'Athènes prête aux paysans ruinés, lance de grands travaux et transforme l'Acropole en sanctuaire — la démocratie héritera de ses monuments.</em></small></p>
 
 <p>Un tyran s'empare d'Athènes. Pisistrate, venu de la cité voisine de Brauron, dont la famille contrôle les plaines du nord, se fait le champion des mécontents — et lui puis ses fils gouverneront la ville pendant près de quarante ans.</p>
@@ -3868,7 +3870,7 @@ tags: technology
 
 # -540 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/genese.webp' | relative_url }}" alt="La Genèse" loading="lazy" decoding="async" width="1200" height="1779" />
+<p style="text-align:center"><img src="{{ '/assets/img/genese.webp' | relative_url }}" alt="Page enluminée d'un manuscrit médiéval de la Genèse : une grande miniature circulaire figurant la création du monde, entourée de cercles concentriques colorés, au-dessus d'un texte sur deux colonnes à initiale ornée" loading="lazy" decoding="async" width="1200" height="1779" />
   <br /><small><em>Page enluminée du livre de la Genèse : la création figurée en cercles concentriques. Le récit a été écrit par des prêtres exilés à Babylone, en réponse polie et implacable au mythe guerrier de leurs vainqueurs.</em></small></p>
 
 <p>Un prêtre exilé à Babylone entreprend de raconter la création du monde — et son texte deviendra le premier chapitre de la Bible.</p>
@@ -3892,7 +3894,7 @@ tags: technology
 <p>Sa politique est aussitôt lisible. Il sacrifie aux dieux babyloniens, restaure leurs temples, se présente comme choisi par Marduk lui-même — et autorise les peuples déportés à rentrer chez eux avec leurs statues divines. Les exilés de Juda, qui n'ont pas de statue mais un temple à rebâtir, sont du nombre. Un roi étranger et zoroastrien recevra pour cela, dans les textes bibliques, un titre accordé à nul autre : l'oint du Seigneur, le messie.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cylindrecyrus.webp' | relative_url }}" alt="Cylindre de Cyrus, British Museum" width="600" loading="lazy" decoding="async" height="409" />
+  <img src="{{ '/assets/img/cylindrecyrus.webp' | relative_url }}" alt="Photographie du cylindre de Cyrus au British Museum : un cylindre d'argile ocre, ébréché, couvert de lignes serrées de cunéiforme, exposé sur un support transparent" width="600" loading="lazy" decoding="async" height="409" />
   <br /><small><em>Le cylindre de Cyrus : le roi perse y proclame la restauration des cultes et le retour des déportés. Photo Mike Peel, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -3900,7 +3902,7 @@ tags: technology
 
 # -534 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/quatrerencontres.webp' | relative_url }}" alt="Les quatre rencontres" loading="lazy" decoding="async" width="1200" height="900" />
+<p style="text-align:center"><img src="{{ '/assets/img/quatrerencontres.webp' | relative_url }}" alt="Photographie d'un relief bouddhique en pierre à plusieurs registres : des scènes de la vie du Bouddha sculptées en petites figures encadrées de colonnettes" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Relief en schiste du Gandhara illustrant la vie du Bouddha, dont son départ à cheval. Ces panneaux, sculptés aux confins gréco-indiens, comptent parmi les plus anciennes images figurées du personnage.</em></small></p>
 
 <p>Siddhartha Gautama sort de son palais et rencontre ce qu'on lui avait toujours caché : un vieillard, un malade, un mort. Bouleversé par la découverte de la souffrance universelle, il quitte la vie princière, sa femme et son fils, pour devenir ascète errant et chercher une issue à la douleur humaine.</p>
@@ -3913,7 +3915,7 @@ tags: technology
 
 # -530 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/pythagore.webp' | relative_url }}" alt="Pythagore" loading="lazy" decoding="async" width="1200" height="1733" />
+<p style="text-align:center"><img src="{{ '/assets/img/pythagore.webp' | relative_url }}" alt="Photographie d'un buste de Pythagore : un homme barbu coiffé d'un bandeau, le regard baissé, dans un marbre sombre" loading="lazy" decoding="async" width="1200" height="1733" />
   <br /><small><em>Buste en bronze de Pythagore. Son école du sud de l'Italie est à la fois communauté philosophique, scientifique et religieuse : on y étudie les nombres et l'on y croit à la transmigration des âmes.</em></small></p>
 
 <p>Deux mouvements marginaux apparaissent en Grèce, qui vont dans une direction toute différente de celle de la cité guerrière.</p>
@@ -3935,7 +3937,7 @@ tags: technology
 # -528 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bodhgaya.webp' | relative_url }}" alt="Bodh Gaya" loading="lazy" decoding="async" width="675" height="900" />
+  <img src="{{ '/assets/img/bodhgaya.webp' | relative_url }}" alt="Photographie du temple de la Mahabodhi à Bodh-Gaya : la haute tour pyramidale à degrés sculptés, entourée de stupas plus petits, avec des moines en robe safran au premier plan" loading="lazy" decoding="async" width="675" height="900" />
   <br /><small><em>Bodh-Gaya : le temple de la Mahabodhi, élevé à l'endroit où Siddhartha atteignit l'éveil.</em></small>
 </p>
 
@@ -3943,7 +3945,7 @@ tags: technology
 
 # -527 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/mahavira.webp' | relative_url }}" alt="Mahavira" loading="lazy" decoding="async" width="1200" height="1600" />
+<p style="text-align:center"><img src="{{ '/assets/img/mahavira.webp' | relative_url }}" alt="Photographie de l'intérieur d'un temple jaïn : un sanctuaire de marbre blanc finement sculpté, encadré de colonnes, abritant une statue sous un dais doré" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Intérieur d'un temple jaïn moderne, statue de Mahavira sur son autel. Le jaïnisme pousse l'ahimsa jusqu'à sa conséquence extrême : toute créature possède une âme, et toute violence attache l'âme à la matière.</em></small></p>
 
 <p>Dans la tradition jaïne, l'<em>ahimsa</em> est poussée jusqu'à une conséquence extraordinaire : toute créature vivante possède une âme, et toute violence produit du karma qui attache davantage celui qui la commet au cycle des renaissances. Tuer n'est donc pas seulement immoral ; c'est compromettre directement sa propre libération.</p>
@@ -3954,7 +3956,7 @@ tags: technology
 
 # -521 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/disciplesconfucius.webp' | relative_url }}" alt="Confucius et ses disciples" loading="lazy" decoding="async" width="1100" height="1600" />
+<p style="text-align:center"><img src="{{ '/assets/img/disciplesconfucius.webp' | relative_url }}" alt="Dessin à l'encre d'un lettré chinois assis en tailleur sur une estrade, en robe et coiffe, ses chaussures posées à côté de lui" loading="lazy" decoding="async" width="1100" height="1600" />
   <br /><small><em>Confucius, peinture à l'encre sur soie. Il accepte pour disciples tous ceux qui viennent, sans considérer leur naissance ni leur fortune — ce qui, à son époque, est proprement inouï.</em></small></p>
 
 <p>Kong Qiu a trente ans, et il maîtrise désormais la science des rites. C'est l'âge, dira-t-il en résumant sa vie, où il s'est tenu debout.</p>
@@ -3968,13 +3970,13 @@ tags: technology
 <p>L'Empire perse adopte officiellement la monnaie sous Darius Ier, qui centralise et standardise la frappe — la darique d'or — pour administrer et faire commercer un empire immense, de l'Indus à la Méditerranée. L'invention lydienne devient l'outil des empires.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/darique.webp' | relative_url }}" alt="Darique d'or achéménide à l'archer" width="330" loading="lazy" decoding="async" height="326" />
+  <img src="{{ '/assets/img/darique.webp' | relative_url }}" alt="Photographie d'une darique d'or achéménide : le Grand Roi représenté en archer, genou à terre, tenant l'arc et la lance, frappé en relief sur un flan d'or épais" width="330" loading="lazy" decoding="async" height="326" />
   <br /><small><em>Darique d'or achéménide : le Grand Roi en archer, genou à terre. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # -510 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/epeegoujian.webp' | relative_url }}" alt="L'épée de Goujian" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/epeegoujian.webp' | relative_url }}" alt="Photographie de l'épée de Goujian : une lame de bronze droite, restée brillante et sans rouille après vingt-cinq siècles, à la garde incrustée et au décor losangé" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>L'épée de Goujian, bronze à décor de losanges, retrouvée intacte et sans rouille après vingt-quatre siècles. Elle témoigne d'une métallurgie chinoise que l'on n'aurait pas soupçonnée si la lame n'avait pas survécu.</em></small></p>
 
 <p>L'équilibre chinois s'est déplacé. Chu, la puissance du sud qui avait fait basculer la région dans la guerre totale, a fini par être vaincue à son tour — et c'est désormais Qi, sur la côte orientale, qui domine la plaine.</p>
@@ -3983,7 +3985,7 @@ tags: technology
 
 # -509 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/republiqueromaine.webp' | relative_url }}" alt="Buste de Lucius Junius Brutus" loading="lazy" decoding="async" width="1200" height="1598" />
+<p style="text-align:center"><img src="{{ '/assets/img/republiqueromaine.webp' | relative_url }}" alt="Photographie d'un buste en bronze antique attribué à Lucius Junius Brutus : un homme mûr au visage sévère, à la barbe courte et aux yeux incrustés, drapé dans une toge" loading="lazy" decoding="async" width="1200" height="1598" />
   <br /><small><em>Buste de bronze dit « Brutus du Capitole », traditionnellement associé au fondateur de la République. Rome chasse son dernier roi et se donne des institutions faites pour empêcher à jamais le pouvoir d'un seul.</em></small></p>
 
 <p>À Rome, la monarchie tombe : le dernier roi, Tarquin le Superbe, est chassé, et l'élite comme le peuple veulent un système qui empêche à jamais le pouvoir d'un seul. Naît la République : deux consuls élus pour un an seulement et gouvernant ensemble, un Sénat pour conseiller, des assemblées populaires pour les grandes décisions — la séparation des pouvoirs avant la lettre. Ce régime portera Rome à la domination de la Méditerranée.</p>
@@ -3991,7 +3993,7 @@ tags: technology
 # -508 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pnyx.webp' | relative_url }}" alt="La Pnyx" loading="lazy" decoding="async" width="900" height="664" />
+  <img src="{{ '/assets/img/pnyx.webp' | relative_url }}" alt="Photographie de la Pnyx à Athènes : la vaste plateforme rocheuse taillée à flanc de colline, avec les degrés de la tribune, où se réunissait l'assemblée des citoyens" loading="lazy" decoding="async" width="900" height="664" />
   <br /><small><em>La Pnyx : la colline d'Athènes où l'assemblée des citoyens se réunissait pour voter.</em></small>
 </p>
 
@@ -3999,7 +4001,7 @@ tags: technology
 
 # -505 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/printempsautomnes.webp' | relative_url }}" alt="La période des Printemps et Automnes" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/printempsautomnes.webp' | relative_url }}" alt="Photographie d'un bassin rituel chinois en bronze : une large vasque peu profonde à la patine verte, munie d'anses latérales, exposée en vitrine" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Bassin rituel chinois en bronze. La période des Printemps et Automnes voit les hiérarchies se déliter : les barons usurpent le pouvoir des ducs, leurs intendants celui des barons, et plus personne n'occupe la place qui lui revient.</em></small></p>
 
 <p>Les structures politiques et sociales se disloquent, et la Chine semble se précipiter vers l'anarchie. Les nobles se révoltent contre leurs princes, les intendants prennent le pas sur les nobles, et dans certaines principautés le duc ne règne plus que de nom pendant que trois familles se partagent le pouvoir réel.</p>
@@ -4024,7 +4026,7 @@ tags: technology
 
 # -500 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ahimsa.webp' | relative_url }}" alt="L'ahimsa" loading="lazy" decoding="async" width="1200" height="2552" />
+<p style="text-align:center"><img src="{{ '/assets/img/ahimsa.webp' | relative_url }}" alt="Symbole jaïn de l'ahimsa : une main ouverte stylisée, dessinée en orange, portant en son creux une roue rayonnante marquée d'un mot en devanagari" loading="lazy" decoding="async" width="1200" height="2552" />
   <br /><small><em>Le symbole jaïn de l'ahimsa : une main ouverte portant la roue et le mot « ne pas nuire ». Le principe cesse à cette époque d'être l'affaire des seuls ascètes pour devenir une exigence proposée à tous.</em></small></p>
 
 <p>En Inde survient l'un des retournements les plus inattendus de l'histoire religieuse. Les descendants des anciens éleveurs guerriers védiques, qui ont sacrifié des animaux pendant des siècles et célébré une religion de combattants, font progressivement émerger un idéal presque exactement inverse : l'<em>ahimsa</em>, la non-violence.</p>
@@ -4051,7 +4053,7 @@ tags: technology
 
 # -497 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/confuciusroutes.webp' | relative_url }}" alt="Confucius" loading="lazy" decoding="async" width="698" height="1417" />
+<p style="text-align:center"><img src="{{ '/assets/img/confuciusroutes.webp' | relative_url }}" alt="Estampage d'une stèle chinoise représentant Confucius debout, en longue robe, les mains jointes dans les manches, tracé en blanc sur fond noir, avec une inscription en haut" loading="lazy" decoding="async" width="698" height="1417" />
   <br /><small><em>Estampage d'une gravure sur pierre représentant Confucius debout. Il quitte Lu vers cinquante ans et passe treize ans sur les routes à proposer ses services ; aucun prince ne le prendra vraiment au sérieux.</em></small></p>
 
 <p>Après quelques charges à Lu où il n'obtient jamais durablement l'oreille du prince, Kong Qiu quitte sa principauté et part sur les routes. Il a une cinquantaine d'années, et il voyagera treize ans de cour en cour pour proposer ses services aux souverains.</p>
@@ -4063,7 +4065,7 @@ tags: technology
 # -490 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/marathon.webp' | relative_url }}" alt="Bataille de Marathon" loading="lazy" decoding="async" width="675" height="900" />
+  <img src="{{ '/assets/img/marathon.webp' | relative_url }}" alt="Photographie du monument commémoratif de Marathon : une haute colonne blanche à chapiteau ionique, dressée seule au milieu de la plaine, entourée de cyprès" loading="lazy" decoding="async" width="675" height="900" />
   <br /><small><em>Le trophée dressé sur le champ de bataille de Marathon, où les Athéniens repoussèrent seuls le corps expéditionnaire de Darius.</em></small>
 </p>
 
@@ -4073,7 +4075,7 @@ tags: technology
 
 # -483 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/parinirvana.webp' | relative_url }}" alt="Le parinirvana du Bouddha" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/parinirvana.webp' | relative_url }}" alt="Photographie d'une grande statue de Bouddha couché, illustrant le parinirvana : la figure allongée sur le côté, tête posée sur la main, devant un autel couvert d'offrandes et de bâtons d'encens" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Bouddha couché monumental, sanctuaire chinois contemporain. La position figure le parinirvana — l'extinction complète — et non le sommeil : c'est la mort du Bouddha, à quatre-vingts ans environ.</em></small></p>
 
 <p>Mort du Bouddha, à environ quatre-vingts ans — le parinirvana, l'extinction complète. Ses disciples réunissent et mémorisent son enseignement, qui se répandra sur toute l'Asie.</p>
@@ -4081,7 +4083,7 @@ tags: technology
 # -480 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/thermopyles.webp' | relative_url }}" alt="Bataille des Thermopyles" loading="lazy" decoding="async" width="900" height="661" />
+  <img src="{{ '/assets/img/thermopyles.webp' | relative_url }}" alt="Carte de la bataille des Thermopyles : le camp perse et le camp grec de part et d'autre du défilé resserré entre la montagne et le golfe Maliaque, avec le mur défensif phocidien, les mouvements des deux armées en flèches et le sentier de contournement du mont Anopée" loading="lazy" decoding="async" width="900" height="661" />
   <br /><small><em>Les Thermopyles : un défilé étroit entre la montagne et la mer, où trois cents Spartiates retinrent l'armée de Xerxès.</em></small>
 </p>
 
@@ -4117,7 +4119,7 @@ tags: technology
 
 # -479 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/platees.webp' | relative_url }}" alt="La bataille de Platées" loading="lazy" decoding="async" width="1200" height="793" />
+<p style="text-align:center"><img src="{{ '/assets/img/platees.webp' | relative_url }}" alt="Gravure d'une bataille de l'Antiquité : deux lignes d'hoplites casqués s'affrontent lance en avant, boucliers serrés, au milieu des chevaux et des morts" loading="lazy" decoding="async" width="1200" height="793" />
   <br /><small><em>La bataille de Platées, illustration moderne. La phalange grecque, lances abaissées et boucliers joints, affronte une infanterie perse moins protégée : la défaite de Mardonios met fin à l'invasion lancée par Xerxès.</em></small></p>
 
 <p>La guerre commencée l'année précédente n'est pas terminée. Au printemps, l'armée de Mardonios occupe de nouveau Athènes, dont la population a une nouvelle fois été évacuée.</p>
@@ -4134,7 +4136,7 @@ tags: technology
 
 # -477 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/liguededelos.webp' | relative_url }}" alt="La ligue de Délos" loading="lazy" decoding="async" width="866" height="486" />
+<p style="text-align:center"><img src="{{ '/assets/img/liguededelos.webp' | relative_url }}" alt="Carte de la campagne d'Égypte de 460 à 454 av. J.-C. : le delta du Nil et la côte libyenne, avec les batailles de Memphis, Papremis et Prosopitis situées et datées, et le trajet de l'expédition tracé en pointillés" loading="lazy" decoding="async" width="866" height="486" />
   <br /><small><em>Carte de la campagne d'Égypte menée par la ligue de Délos, 460-454 av. J.-C. L'alliance formée contre la Perse commence à servir les ambitions propres d'Athènes, qui en tire un empire maritime.</em></small></p>
 
 <p>De nombreuses cités grecques des îles et des côtes d'Asie Mineure restent exposées à la puissance perse. Sparte, grande puissance terrestre, se montre de moins en moins disposée à conduire des opérations lointaines en mer. Athènes, au contraire, possède désormais l'une des principales flottes du monde grec.</p>
@@ -4149,19 +4151,19 @@ tags: technology
 
 # -470 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=AzcZiQswnVI" data-id="AzcZiQswnVI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/AzcZiQswnVI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=AzcZiQswnVI" data-id="AzcZiQswnVI" rel="noopener" aria-label="Lire la vidéo YouTube : Biographie: Socrate"><img src="https://i.ytimg.com/vi/AzcZiQswnVI/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Biographie: Socrate »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance de Socrate, l'une des figures fondatrices de la pensée occidentale. Sa méthode : interroger inlassablement ses concitoyens sur les places d'Athènes — qu'est-ce que le courage ? la justice ? la vertu ? — et démonter leurs certitudes question après question, jusqu'à l'aveu d'ignorance d'où peut naître la vraie recherche. La formule qu'on lui prête — « je sais que je ne sais rien » — ne se trouve pas telle quelle chez Platon, qui lui fait dire quelque chose de plus fin : ce qu'il ignore, au moins, il ne croit pas le savoir. La philosophie comme examen permanent de sa propre vie. Il n'a jamais rien écrit : nous le connaissons par ses disciples, Platon et Xénophon en tête.</p>
 
 # -460 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=CMvnB8Wda0M" data-id="CMvnB8Wda0M" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/CMvnB8Wda0M/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=CMvnB8Wda0M" data-id="CMvnB8Wda0M" rel="noopener" aria-label="Lire la vidéo YouTube : Serment d'Hippocrate : à l'origine de l'éthique médicale - #CulturePrime"><img src="https://i.ytimg.com/vi/CMvnB8Wda0M/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Serment d'Hippocrate : à l'origine de l'éthique médicale - #CulturePrime »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Vers cette date naît Hippocrate, le « père de la médecine ». Sa révolution : arracher la maladie aux dieux. Pour lui, les maladies ont des causes naturelles, qu'on découvre par l'observation systématique du patient — tous les sens mobilisés, y compris l'odorat, chaque indice comptant pour le diagnostic. Il fait de la médecine une profession à part entière, avec son éthique : le serment d'Hippocrate engage encore les médecins d'aujourd'hui.</p>
 
 # -458 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/eschyle.webp' | relative_url }}" alt="Eschyle" loading="lazy" decoding="async" width="1200" height="1600" />
+<p style="text-align:center"><img src="{{ '/assets/img/eschyle.webp' | relative_url }}" alt="Photographie d'un buste d'Eschyle en bronze sombre, dressé sur un socle de marbre gravé de son nom en grec, dans un jardin" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Buste d'Eschyle à Athènes, socle portant ses dates en grec. Avec l'Orestie, il fait ce que le monde archaïque n'aurait pas imaginé : arrêter la chaîne des vengeances en confiant le jugement à un tribunal de citoyens.</em></small></p>
 
 <p>Eschyle présente à Athènes l'<em>Orestie</em>, trois tragédies enchaînées qui reprennent l'histoire de la maison d'Atrée et lui donnent sa forme définitive.</p>
@@ -4174,7 +4176,7 @@ tags: technology
 
 # -428 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=RvbRSdjf9t4" data-id="RvbRSdjf9t4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/RvbRSdjf9t4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=RvbRSdjf9t4" data-id="RvbRSdjf9t4" rel="noopener" aria-label="Lire la vidéo YouTube : Biographie: Platon"><img src="https://i.ytimg.com/vi/RvbRSdjf9t4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Biographie: Platon »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance de Platon, dans une famille aristocratique d'Athènes, en pleine guerre du Péloponnèse. Il a vingt-huit ans quand la cité condamne Socrate à mort — et il ne s'en remettra pas : toute son œuvre part de cette question, comment une communauté peut-elle tuer le plus juste de ses membres en respectant scrupuleusement ses propres lois ?</p>
 
@@ -4184,7 +4186,7 @@ tags: technology
 
 # -400 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/narezushi.webp' | relative_url }}" alt="Narezushi" loading="lazy" decoding="async" width="1200" height="900" />
+<p style="text-align:center"><img src="{{ '/assets/img/narezushi.webp' | relative_url }}" alt="Photographie de narezushi : des tranches de poisson fermenté posées sur du riz, servies dans une assiette sombre" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Narezushi : du poisson salé, intercalé de riz cuit et laissé fermenter des mois. Le riz n'était d'abord qu'un agent de conservation, qu'on jetait — c'est de ce procédé chinois que descend, très indirectement, le sushi.</em></small></p>
 
 <p>En Chine, on met au point une technique de conservation promise à un destin savoureux : le poisson fermenté au riz. Vidé et abondamment salé, le poisson est intercalé dans du riz cuit, pressé sous des poids, et laissé à fermenter des semaines ou des mois — le riz n'est pas mangé : il sert uniquement à déclencher et contrôler la fermentation lactique qui préserve la chair. Cette pratique voyagera vers le Japon et évoluera, des siècles plus tard, pour donner naissance au sushi — où le riz vinaigré finira par remplacer la longue fermentation.</p>
@@ -4192,7 +4194,7 @@ tags: technology
 # -399 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/mortsocrate.webp' | relative_url }}" alt="La Mort de Socrate" loading="lazy" decoding="async" width="900" height="592" />
+  <img src="{{ '/assets/img/mortsocrate.webp' | relative_url }}" alt="Photographie du tableau « La Mort de Socrate » de David : le philosophe assis sur son lit, le doigt levé, saisit la coupe de ciguë sans cesser de parler, entouré de ses disciples effondrés dans la prison voûtée" loading="lazy" decoding="async" width="900" height="592" />
   <br /><small><em>La Mort de Socrate, par David : le philosophe saisit la ciguë en continuant de parler.</em></small>
 </p>
 
@@ -4201,7 +4203,7 @@ tags: technology
 # -384 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/aristote.webp' | relative_url }}" alt="Aristote" loading="lazy" decoding="async" width="674" height="900" />
+  <img src="{{ '/assets/img/aristote.webp' | relative_url }}" alt="Photographie d'une tête d'Aristote en marbre : un homme mûr au front ridé, à la barbe courte et aux cheveux ramenés en mèches, vu de trois quarts" loading="lazy" decoding="async" width="674" height="900" />
   <br /><small><em>Aristote : logique, physique, biologie, politique, éthique — il fonde à peu près toutes les disciplines à la fois.</em></small>
 </p>
 
@@ -4209,7 +4211,7 @@ tags: technology
 
 # -350 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Le Daodejing" loading="lazy" decoding="async" width="453" height="1000" />
+<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Photographie d'un manuscrit chinois ancien : un ensemble de fines lattes assemblées par des cordelettes, couvertes de caractères tracés à l'encre" loading="lazy" decoding="async" width="453" height="1000" />
   <br /><small><em>Manuscrit du Daodejing sur soie. Le texte fait l'éloge systématique de ce que son époque méprise — l'eau, le vide, le non-agir — au moment précis où les États chinois deviennent plus puissants et plus interventionnistes.</em></small></p>
 
 <p>C'est probablement à cette époque, pendant la période des Royaumes combattants, que se forme le texte lui-même : le <em>Daodejing</em>, ou <em>Livre de la Voie et de la Vertu</em>. Non pas écrit d'un jet par un homme, mais compilé progressivement — sentences rythmées, formules mémorisables, matériaux anciens transmis oralement puis rassemblés.</p>
@@ -4218,7 +4220,7 @@ tags: technology
 
 # -332 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ptolemees.webp' | relative_url }}" alt="L'Égypte ptolémaïque" loading="lazy" decoding="async" width="447" height="494" />
+<p style="text-align:center"><img src="{{ '/assets/img/ptolemees.webp' | relative_url }}" alt="Photographie en noir et blanc d'un relief égyptien d'époque ptolémaïque : un souverain de profil, coiffé d'une perruque tressée et d'un diadème, portant un large collier" loading="lazy" decoding="async" width="447" height="494" />
   <br /><small><em>Relief égyptien d'époque ptolémaïque. Les successeurs d'Alexandre gouvernent l'Égypte en pharaons : ils se font représenter selon les canons millénaires du pays tout en parlant grec à la cour d'Alexandrie.</em></small></p>
 
 <p>Alexandre le Grand conquiert l'Égypte, accueilli en libérateur du joug perse. Début de la domination grecque sur le pays : la dynastie des Ptolémées, issue d'un de ses généraux, régnera trois siècles sur le Nil.</p>
@@ -4226,7 +4228,7 @@ tags: technology
 # -331 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/phare.webp' | relative_url }}" alt="Phare d'Alexandrie" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/phare.webp' | relative_url }}" alt="Reconstitution en 3D du phare d'Alexandrie : une tour à trois étages superposés — base carrée, fût octogonal et lanterne cylindrique — dressée sur son îlot, un navire à voile passant au premier plan" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>Le phare d'Alexandrie, l'une des sept merveilles du monde antique, tel que les reconstitutions l'imaginent.</em></small>
 </p>
 
@@ -4235,7 +4237,7 @@ tags: technology
 # -330 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/alexandre.webp' | relative_url }}" alt="Alexandre le Grand" loading="lazy" decoding="async" width="630" height="900" />
+  <img src="{{ '/assets/img/alexandre.webp' | relative_url }}" alt="Photographie d'une tête d'Alexandre le Grand en marbre : un visage juvénile, la chevelure abondante rejetée en arrière et le regard levé" loading="lazy" decoding="async" width="630" height="900" />
   <br /><small><em>Alexandre le Grand : en dix ans de campagnes, de la Grèce à l'Indus.</em></small>
 </p>
 
@@ -4243,14 +4245,14 @@ tags: technology
 
 # -323 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/diadoques.webp' | relative_url }}" alt="Les royaumes des Diadoques" loading="lazy" decoding="async" width="1200" height="297" />
+<p style="text-align:center"><img src="{{ '/assets/img/diadoques.webp' | relative_url }}" alt="Reproduction d'une planche de cartes historiques en trois volets, montrant le partage de l'empire d'Alexandre entre ses généraux et l'évolution des royaumes hellénistiques, chaque royaume figuré dans une couleur différente" loading="lazy" decoding="async" width="1200" height="297" />
   <br /><small><em>Cartes anciennes des royaumes issus du partage de l'empire d'Alexandre. « Au plus fort », aurait-il soufflé en mourant sans héritier désigné : ses généraux mettront quarante ans à se départager.</em></small></p>
 
 <p>Alexandre meurt à Babylone, à trente-deux ans, sans héritier désigné — à qui l'empire ? « Au plus fort », aurait-il soufflé. Ses généraux se le déchirent en royaumes rivaux : l'Égypte aux Ptolémées, l'Asie aux Séleucides, la Macédoine aux Antigonides.</p>
 
 # -322 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/chandragupta.webp' | relative_url }}" alt="Chandragupta Maurya" loading="lazy" decoding="async" width="1200" height="1176" />
+<p style="text-align:center"><img src="{{ '/assets/img/chandragupta.webp' | relative_url }}" alt="Carte de l'Empire maurya de Chandragupta vers 290 av. J.-C. : le domaine impérial, en jaune, couvre presque tout le sous-continent indien, du Gandhara et de l'Arachosie au nord-ouest jusqu'au Kalinga et à l'Andhra, avec la capitale Pataliputra et les royaumes tamouls restés indépendants au sud" loading="lazy" decoding="async" width="1200" height="1176" />
   <br /><small><em>Carte de l'Empire maurya sous Chandragupta, vers -290. Pour la première fois, une puissance politique contrôle la plus grande partie du sous-continent indien — un État bâti sur l'agriculture intensive, le fer et l'impôt.</em></small></p>
 
 <p>Chandragupta Maurya s'empare de Magadha et fonde la dynastie Maurya. Pour la première fois, une puissance politique va parvenir à contrôler une grande partie du sous-continent indien. Quelques années auparavant, Alexandre le Grand avait atteint la vallée de l'Indus avant que son armée refuse de poursuivre vers l'est : l'Inde du Nord appartient désormais à un monde où les grands ensembles indien, iranien et hellénistique peuvent entrer en contact.</p>
@@ -4259,7 +4261,7 @@ tags: technology
 
 # -320 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/royaumescombattants.webp' | relative_url }}" alt="Les Royaumes combattants" loading="lazy" decoding="async" width="1200" height="800" />
+<p style="text-align:center"><img src="{{ '/assets/img/royaumescombattants.webp' | relative_url }}" alt="Photographie d'une plaque de bronze chinoise ancienne exposée en vitrine : une tablette rectangulaire à la patine verte, gravée d'un plan aux traits incrustés de métal clair" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Plaque de bronze incrustée d'or et d'argent : le plan d'un ensemble funéraire princier. C'est le plus ancien plan d'architecture à l'échelle conservé au monde, produit d'une époque où les États chinois s'administrent comme ils se combattent.</em></small></p>
 
 <p>À l'autre extrémité de l'Asie, la Chine traverse la période des Royaumes combattants. L'autorité de l'ancienne dynastie Zhou est devenue largement symbolique et plusieurs États territoriaux se livrent une compétition politique et militaire permanente.</p>
@@ -4273,7 +4275,7 @@ tags: technology
 # -300 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ecrituremaya.webp' | relative_url }}" alt="Écriture maya" loading="lazy" decoding="async" width="896" height="624" />
+  <img src="{{ '/assets/img/ecrituremaya.webp' | relative_url }}" alt="Photographie d'une inscription maya : des blocs de glyphes sculptés en relief dans la pierre, alignés en colonnes régulières, chaque cartouche combinant plusieurs signes" loading="lazy" decoding="async" width="896" height="624" />
   <br /><small><em>L'écriture maya : le seul système d'Amérique qui note pleinement une langue parlée.</em></small>
 </p>
 
@@ -4301,7 +4303,7 @@ tags: technology
 # -260 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/archimede.webp' | relative_url }}" alt="Archimède" loading="lazy" decoding="async" width="680" height="900" />
+  <img src="{{ '/assets/img/archimede.webp' | relative_url }}" alt="Peinture représentant Archimède : un vieil homme barbu penché sur sa table de travail, la main au front, entouré de manuscrits, d'un compas et d'instruments, dans une pièce sombre" loading="lazy" decoding="async" width="680" height="900" />
   <br /><small><em>Archimède : mathématicien, et l'ingénieur dont les machines tinrent la flotte romaine en échec deux ans durant.</em></small>
 </p>
 
@@ -4326,7 +4328,7 @@ tags: technology
 <p>La technologie choisie pour transmettre ce message est elle-même remarquable. Pendant des siècles, les traditions védiques ont conservé leurs textes grâce à une transmission orale extrêmement rigoureuse. Ashoka fait au contraire graver des paroles sur des surfaces rocheuses afin qu'elles demeurent physiquement présentes dans le paysage. L'écriture devient un instrument de communication impériale.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/editashoka.webp' | relative_url }}" alt="Édit rupestre d'Ashoka gravé en brahmi" width="600" loading="lazy" decoding="async" height="337" />
+  <img src="{{ '/assets/img/editashoka.webp' | relative_url }}" alt="Photographie d'un édit rupestre d'Ashoka : un long texte en écriture brahmi gravé à même la surface d'un rocher poli" width="600" loading="lazy" decoding="async" height="337" />
   <br /><small><em>Un édit rupestre d'Ashoka, gravé en brahmi à même le rocher. Photo Prof Ranga Sai, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -4346,7 +4348,7 @@ tags: technology
 <p>La diversité de l'Empire maurya apparaît particulièrement clairement dans les inscriptions découvertes autour de Kandahar, dans l'actuel Afghanistan. Cette région avait appartenu à l'Empire achéménide avant les conquêtes d'Alexandre et abrite encore au IIIe siècle av. J.-C. des populations utilisant des langues issues de plusieurs traditions impériales.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ashokakandahar.webp' | relative_url }}" alt="Inscription bilingue grec-araméen d'Ashoka à Kandahar" width="480" loading="lazy" decoding="async" height="504" />
+  <img src="{{ '/assets/img/ashokakandahar.webp' | relative_url }}" alt="Photographie de l'inscription bilingue d'Ashoka à Kandahar : le même édit gravé deux fois sur la pierre, en grec dans la partie supérieure et en araméen dans la partie inférieure" width="480" loading="lazy" decoding="async" height="504" />
   <br /><small><em>L'inscription bilingue de Kandahar : le même édit d'Ashoka en grec (en haut) et en araméen (en bas). Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -4359,7 +4361,7 @@ tags: technology
 <p>Au sommet de certains piliers se trouvent des chapiteaux sculptés représentant des animaux. Le plus célèbre, découvert à Sarnath, porte quatre lions adossés. Plus de deux millénaires plus tard, ce chapiteau deviendra l'emblème officiel de la République de l'Inde, tandis que la roue qui lui est associée figurera au centre du drapeau indien.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chapiteausarnath.webp' | relative_url }}" alt="Chapiteau aux lions d'Ashoka, musée de Sarnath" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/chapiteausarnath.webp' | relative_url }}" alt="Photographie du chapiteau aux lions d'Ashoka au musée de Sarnath : quatre lions adossés, dressés sur un abaque orné de roues, exposés au centre d'une salle sur un socle circulaire" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Le chapiteau aux quatre lions adossés retrouvé à Sarnath, aujourd'hui emblème de la République indienne. Photo Apurv013, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -4370,7 +4372,7 @@ tags: technology
 # -221 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/armeeterrecuite.webp' | relative_url }}" alt="Armée de terre cuite" loading="lazy" decoding="async" width="629" height="900" />
+  <img src="{{ '/assets/img/armeeterrecuite.webp' | relative_url }}" alt="Photographie de l'armée de terre cuite de Xi'an : des rangées serrées de fantassins grandeur nature, chacun au visage et à la coiffure différents, alignés dans la fosse" loading="lazy" decoding="async" width="629" height="900" />
   <br /><small><em>L'armée de terre cuite du Premier Empereur : des milliers de soldats grandeur nature, chacun au visage différent.</em></small>
 </p>
 
@@ -4379,7 +4381,7 @@ tags: technology
 # -218 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hannibal.webp' | relative_url }}" alt="Hannibal" loading="lazy" decoding="async" width="744" height="900" />
+  <img src="{{ '/assets/img/hannibal.webp' | relative_url }}" alt="Photographie en noir et blanc d'un buste antique identifié comme Hannibal : un homme au visage anguleux et à la barbe courte, coiffé d'un bonnet et drapé d'un manteau" loading="lazy" decoding="async" width="744" height="900" />
   <br /><small><em>Hannibal Barca : il franchit les Alpes et tiendra l'Italie en échec pendant quinze ans.</em></small>
 </p>
 
@@ -4411,7 +4413,7 @@ tags: technology
 # -216 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cannes.webp' | relative_url }}" alt="Bataille de Cannes" loading="lazy" decoding="async" width="900" height="629" />
+  <img src="{{ '/assets/img/cannes.webp' | relative_url }}" alt="Carte de la bataille de Cannes : le dispositif romain de Varron en colonnes rouges face à la ligne carthaginoise en croissant d'Hannibal, dont les ailes de cavalerie referment l'encerclement, le long de l'Aufide et de ses deux camps" loading="lazy" decoding="async" width="900" height="629" />
   <br /><small><em>Cannes, 216 av. J.-C. : l'encerclement d'Hannibal, resté le modèle de la bataille d'anéantissement.</em></small>
 </p>
 
@@ -4479,23 +4481,23 @@ tags: technology
 
 # -196 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=otxP2DzHbbM" data-id="otxP2DzHbbM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/otxP2DzHbbM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=otxP2DzHbbM" data-id="otxP2DzHbbM" rel="noopener" aria-label="Lire la vidéo YouTube : Comment Champollion a déchiffré la Pierre de Rosette - Booktubes du Patrimoine - S02E02"><img src="https://i.ytimg.com/vi/otxP2DzHbbM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment Champollion a déchiffré la Pierre de Rosette - Booktubes du Patrimoine - S02E02 »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=18eY-P2rCUE" data-id="18eY-P2rCUE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/18eY-P2rCUE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=18eY-P2rCUE" data-id="18eY-P2rCUE" rel="noopener" aria-label="Lire la vidéo YouTube : Comment Champollion déchiffre les hiéroglyphes ?"><img src="https://i.ytimg.com/vi/18eY-P2rCUE/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment Champollion déchiffre les hiéroglyphes ? »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>En Égypte ptolémaïque, un décret royal est gravé pour commémorer le couronnement de Ptolémée V : les prêtres y proclament leur loyauté au pharaon en échange de privilèges — exemptions fiscales, dons —, et s'engagent à organiser des célébrations en son honneur. Rien que de très banal... sauf un détail : le texte est gravé en trois écritures — hiéroglyphes (la langue sacrée des prêtres), démotique (l'écriture courante des Égyptiens) et grec ancien (la langue administrative des Ptolémées) — pour que toutes les classes sociales puissent le lire.</p>
 
 <p>Ce caillou administratif est la Pierre de Rosette. Deux mille ans plus tard, c'est la comparaison avec le grec qui permettra à Jean-François Champollion, en 1822, de percer le secret des hiéroglyphes — rendant leur voix à trois millénaires d'Égypte. Le décret le plus important de l'histoire n'a rien décrété d'important : il a juste été écrit trois fois.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pierrerosette.webp' | relative_url }}" alt="Pierre de Rosette, British Museum" width="450" loading="lazy" decoding="async" height="527" />
+  <img src="{{ '/assets/img/pierrerosette.webp' | relative_url }}" alt="Photographie de la pierre de Rosette au British Museum : une grande dalle de granodiorite sombre, brisée en haut, portant le même décret en trois écritures superposées — hiéroglyphes, démotique et grec" width="450" loading="lazy" decoding="async" height="527" />
   <br /><small><em>La pierre de Rosette : le même décret en hiéroglyphes, en démotique et en grec. Photo Hans Hillewaert, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 # -146 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/carthage.webp' | relative_url }}" alt="Carthage" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/carthage.webp' | relative_url }}" alt="Photographie du site de Carthage : les blocs et les fondations antiques au premier plan, dominant la ville moderne et le golfe de Tunis" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>Les ruines de Carthage : la ville fut rasée en 146 av. J.-C., sa population tuée ou vendue.</em></small>
 </p>
 
@@ -4521,18 +4523,18 @@ tags: technology
 
 # -100 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GFln1pn9Mhg" data-id="GFln1pn9Mhg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/GFln1pn9Mhg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GFln1pn9Mhg" data-id="GFln1pn9Mhg" rel="noopener" aria-label="Lire la vidéo YouTube : L' Anticythère, l'objet englouti qui a inspiré le « Cadran de la destinée » d’Indiana Jones"><img src="https://i.ytimg.com/vi/GFln1pn9Mhg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « L' Anticythère, l'objet englouti qui a inspiré le « Cadran de la destinée » d’Indiana Jones »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>De cette époque date la machine d'Anticythère — retrouvée en 1901 dans une épave au large de la Grèce, et si sophistiquée qu'on a longtemps refusé d'y croire : une trentaine d'engrenages de bronze d'une précision d'horloger, capables de calculer et prévoir les positions du Soleil et de la Lune, les éclipses, et même les dates des Jeux olympiques. C'est le premier ordinateur analogique connu — et un avertissement à notre arrogance : rien d'aussi complexe ne réapparaîtra avant les horloges astronomiques européennes... quatorze siècles plus tard.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/anticythere.webp' | relative_url }}" alt="Fragment principal de la machine d'Anticythère" width="550" loading="lazy" decoding="async" height="491" />
+  <img src="{{ '/assets/img/anticythere.webp' | relative_url }}" alt="Photographie du fragment principal de la machine d'Anticythère : une plaque de bronze corrodée et verdie, où apparaissent une grande roue dentée et plusieurs engrenages imbriqués" width="550" loading="lazy" decoding="async" height="491" />
   <br /><small><em>Le fragment principal de la machine d'Anticythère et ses engrenages de bronze. Photo Marsyas, CC BY 2.5, via Wikimedia Commons.</em></small>
 </p>
 
 # -69 av. J.-C.
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=O_YGEILkdfI" data-id="O_YGEILkdfI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/O_YGEILkdfI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=O_YGEILkdfI" data-id="O_YGEILkdfI" rel="noopener" aria-label="Lire la vidéo YouTube : La reine Cléopâtre est-elle ensevelie sous ce petit temple de Taposiris Magna ?"><img src="https://i.ytimg.com/vi/O_YGEILkdfI/hqdefault.jpg" alt="Miniature de la vidéo YouTube « La reine Cléopâtre est-elle ensevelie sous ce petit temple de Taposiris Magna ? »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance à Alexandrie de Cléopâtre VII Théa Philopator — Cléopâtre. Dernière reine de la dynastie ptolémaïque, d'origine macédonienne, qui règne sur l'Égypte depuis la mort d'Alexandre, elle sera bien plus que la séductrice de la légende : polyglotte (première de sa dynastie à parler égyptien), fine politique, elle jouera l'alliance avec les maîtres successifs de Rome — César, puis Marc Antoine — pour préserver l'indépendance de son royaume. Son intelligence et son charisme laisseront une empreinte durable dans l'histoire.</p>
 
@@ -4548,7 +4550,7 @@ tags: technology
 # -52 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/vercingetorix2.webp' | relative_url }}" alt="Vercingétorix" loading="lazy" decoding="async" width="900" height="600" />
+  <img src="{{ '/assets/img/vercingetorix2.webp' | relative_url }}" alt="Photographie du tableau de Lionel Royer « Vercingétorix jette ses armes aux pieds de César » : le chef gaulois, à cheval et vêtu de blanc, s'avance devant César assis en manteau rouge, entouré de légionnaires et d'armes jetées à terre" loading="lazy" decoding="async" width="900" height="600" />
   <br /><small><em>Vercingétorix jette ses armes aux pieds de César : la reconstitution romantique de Lionel Royer, peinte vingt siècles plus tard.</em></small>
 </p>
 
@@ -4585,7 +4587,7 @@ tags: technology
 # -44 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/mortcesar.webp' | relative_url }}" alt="La Mort de César" loading="lazy" decoding="async" width="900" height="529" />
+  <img src="{{ '/assets/img/mortcesar.webp' | relative_url }}" alt="Photographie d'un tableau représentant l'assassinat de César : le dictateur gît au sol dans la salle du Sénat désertée, tandis que les conjurés brandissent leurs poignards en s'éloignant" loading="lazy" decoding="async" width="900" height="529" />
   <br /><small><em>L'assassinat de César aux ides de mars : une soixantaine de sénateurs, vingt-trois coups de poignard.</em></small>
 </p>
 
@@ -4605,7 +4607,7 @@ tags: technology
 # -41 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cleopatre.webp' | relative_url }}" alt="Cléopâtre" loading="lazy" decoding="async" width="620" height="900" />
+  <img src="{{ '/assets/img/cleopatre.webp' | relative_url }}" alt="Photographie d'un buste de Cléopâtre en marbre : une femme au profil régulier, aux cheveux ramenés en chignon et ceints du diadème royal" loading="lazy" decoding="async" width="620" height="900" />
   <br /><small><em>Cléopâtre VII : dernière souveraine de l'Égypte hellénistique, et la seule des Ptolémées à avoir appris l'égyptien.</em></small>
 </p>
 
@@ -4641,7 +4643,7 @@ tags: technology
 # -27 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/auguste.webp' | relative_url }}" alt="Auguste" loading="lazy" decoding="async" width="578" height="900" />
+  <img src="{{ '/assets/img/auguste.webp' | relative_url }}" alt="Photographie d'un buste d'Auguste en marbre : un homme jeune au visage lisse et aux mèches soigneusement peignées sur le front, drapé dans un manteau" loading="lazy" decoding="async" width="578" height="900" />
   <br /><small><em>Auguste de Prima Porta : le premier empereur se fait représenter en général idéalisé, éternellement jeune.</em></small>
 </p>
 
@@ -4674,7 +4676,7 @@ tags: technology
 # 9 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/teutobourg.webp' | relative_url }}" alt="Bataille de Teutobourg" loading="lazy" decoding="async" width="900" height="587" />
+  <img src="{{ '/assets/img/teutobourg.webp' | relative_url }}" alt="Gravure de la bataille de Teutobourg : des légionnaires romains submergés par les guerriers germains dans une forêt marécageuse, boucliers et enseignes renversés" loading="lazy" decoding="async" width="900" height="587" />
   <br /><small><em>Teutobourg : trois légions anéanties dans les forêts de Germanie — Rome renoncera à la rive droite du Rhin.</em></small>
 </p>
 
@@ -4742,7 +4744,7 @@ tags: technology
 
 # 43 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=dZwBb0tVktA" data-id="dZwBb0tVktA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/dZwBb0tVktA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=dZwBb0tVktA" data-id="dZwBb0tVktA" rel="noopener" aria-label="Lire la vidéo YouTube : Comment l'invention du fer à cheval a transformé l'Empire romain"><img src="https://i.ytimg.com/vi/dZwBb0tVktA/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment l'invention du fer à cheval a transformé l'Empire romain »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Quarante mille hommes traversent la Manche : Rome débarque en Bretagne. L'initiative revient à Claude, l'empereur le plus improbable de l'histoire romaine — bègue, boiteux, longtemps tenu pour un imbécile par sa propre famille, porté au pouvoir par les prétoriens qui l'avaient trouvé caché derrière un rideau après l'assassinat de Caligula. Un tel homme a un besoin urgent de gloire militaire : la Bretagne, île mystérieuse au bout du monde connu, que même César n'avait fait qu'effleurer, fera parfaitement l'affaire.</p>
 
@@ -4782,7 +4784,7 @@ tags: technology
 # 60 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/boudicca.webp' | relative_url }}" alt="Boudicca" loading="lazy" decoding="async" width="495" height="345" />
+  <img src="{{ '/assets/img/boudicca.webp' | relative_url }}" alt="Photographie du monument à Boudicca : un groupe de bronze montrant la reine debout sur un char lancé par deux chevaux cabrés, bras levé, ses filles à ses côtés" loading="lazy" decoding="async" width="495" height="345" />
   <br /><small><em>Boudicca, reine des Icènes : sa révolte faillit chasser Rome de Bretagne.</em></small>
 </p>
 
@@ -4806,7 +4808,7 @@ tags: technology
 # 64 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/neron.webp' | relative_url }}" alt="Néron" loading="lazy" decoding="async" width="728" height="900" />
+  <img src="{{ '/assets/img/neron.webp' | relative_url }}" alt="Photographie d'un buste de Néron en marbre : un homme jeune au cou épais et au visage empâté, la frange peignée en mèches sur le front, sur fond noir" loading="lazy" decoding="async" width="728" height="900" />
   <br /><small><em>Néron : l'incendie de 64 lui offrira le terrain de sa Maison dorée — et aux chrétiens leur première persécution.</em></small>
 </p>
 
@@ -4848,7 +4850,7 @@ tags: technology
 <p>Et les corps. En creusant, on tomba sur des cavités vides dans la cendre durcie — la forme laissée par les chairs disparues. En les remplissant de plâtre, on obtint des moulages exacts des victimes à l'instant de leur mort : un homme couvrant son visage, une famille serrée dans un escalier, un chien tordu au bout de sa chaîne. Le seul cas où l'archéologie ne nous rend pas des os, mais des gestes.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pompeimoulages.webp' | relative_url }}" alt="Moulages de plâtre de victimes de l'éruption, Pompéi" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/pompeimoulages.webp' | relative_url }}" alt="Photographie de moulages de plâtre de victimes de Pompéi : des corps blancs figés dans leur dernière posture, recroquevillés au pied d'un mur de pierre" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Moulages de plâtre coulés dans les cavités laissées par les corps, Pompéi. Photo Sparrow (麻雀), CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -4866,7 +4868,7 @@ tags: technology
 # 122 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/murhadrien.webp' | relative_url }}" alt="Mur d'Hadrien" loading="lazy" decoding="async" width="900" height="598" />
+  <img src="{{ '/assets/img/murhadrien.webp' | relative_url }}" alt="Photographie du mur d'Hadrien : la muraille de pierre sèche court sur la crête d'un escarpement rocheux et se perd dans les collines à l'horizon" loading="lazy" decoding="async" width="900" height="598" />
   <br /><small><em>Le mur d'Hadrien : cent dix-sept kilomètres de pierre d'une côte à l'autre de la Bretagne.</em></small>
 </p>
 
@@ -4877,7 +4879,7 @@ tags: technology
 # 150 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/teotihuacan.webp' | relative_url }}" alt="Teotihuacan" loading="lazy" decoding="async" width="900" height="600" />
+  <img src="{{ '/assets/img/teotihuacan.webp' | relative_url }}" alt="Photographie de Teotihuacan : l'allée des Morts s'étire en ligne droite entre les basses plates-formes à degrés, avec la pyramide du Soleil qui domine la vallée à gauche" loading="lazy" decoding="async" width="900" height="600" />
   <br /><small><em>Teotihuacan : la pyramide du Soleil et l'allée des Morts, dans une ville aussi peuplée que la Rome d'alors.</em></small>
 </p>
 
@@ -4903,7 +4905,7 @@ tags: technology
 # 200 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pontdugard.webp' | relative_url }}" alt="Pont du Gard" loading="lazy" decoding="async" width="900" height="547" />
+  <img src="{{ '/assets/img/pontdugard.webp' | relative_url }}" alt="Photographie du pont du Gard : les trois étages d'arches en pierre blonde enjambent la rivière, dont les eaux calmes reflètent le monument sous un ciel nuageux" loading="lazy" decoding="async" width="900" height="547" />
   <br /><small><em>Le pont du Gard : une pente d'un quart de millimètre par mètre sur cinquante kilomètres, pour amener l'eau à Nîmes.</em></small>
 </p>
 
@@ -4944,7 +4946,7 @@ tags: technology
 <p>Shapur fait graver la scène en grand format sur les falaises de Naqch-e Rostam, à côté des tombeaux des rois achéménides : l'empereur romain agenouillé devant le cavalier perse. Le message est double — destiné aux Romains, et destiné aux Perses eux-mêmes, à qui l'on rappelle que la revanche sur l'Occident est accomplie. Ces reliefs existent toujours.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/naqscherostam.webp' | relative_url }}" alt="Relief de Shapur Iᵉʳ triomphant, Naqch-e Rostam" width="600" loading="lazy" decoding="async" height="397" />
+  <img src="{{ '/assets/img/naqscherostam.webp' | relative_url }}" alt="Photographie du relief rupestre de Naqch-e Rostam : Shapur Iᵉʳ, à cheval, reçoit la soumission de l'empereur romain agenouillé devant lui, un second Romain debout tenant sa main" width="600" loading="lazy" decoding="async" height="397" />
   <br /><small><em>Naqch-e Rostam : l'empereur romain Valérien agenouillé devant Shapur Iᵉʳ à cheval. Photo Carole Raddato, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -4953,7 +4955,7 @@ tags: technology
 # 312 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/constantin.webp' | relative_url }}" alt="Constantin" loading="lazy" decoding="async" width="597" height="900" />
+  <img src="{{ '/assets/img/constantin.webp' | relative_url }}" alt="Photographie de la tête colossale de Constantin : un visage de plusieurs mètres aux immenses yeux fixes tournés vers le haut, à la chevelure taillée en mèches régulières" loading="lazy" decoding="async" width="597" height="900" />
   <br /><small><em>La tête colossale de Constantin : l'empereur qui légalisa le christianisme et fonda Constantinople.</em></small>
 </p>
 
@@ -5014,7 +5016,7 @@ tags: technology
 # 330 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/constantinople.webp' | relative_url }}" alt="Constantinople" loading="lazy" decoding="async" width="900" height="812" />
+  <img src="{{ '/assets/img/constantinople.webp' | relative_url }}" alt="Plan de Constantinople à l'époque byzantine : la ville en triangle entre la Corne d'Or, le Bosphore et la mer de Marmara, avec ses quartiers, ses monuments et la ligne des murailles terrestres, accompagné d'une légende et d'une échelle" loading="lazy" decoding="async" width="900" height="812" />
   <br /><small><em>Constantinople : protégée par la mer sur trois côtés et, du côté terre, par la plus formidable muraille du monde.</em></small>
 </p>
 
@@ -5137,7 +5139,7 @@ tags: technology
 <p>C'est la dernière inscription hiéroglyphique de l'histoire. Après trois mille cinq cents ans d'usage continu, personne n'écrira plus jamais ces signes — et bientôt, plus personne ne saura les lire. Un système d'écriture ne meurt pas dans un incendie : il s'éteint quand meurt le dernier homme qui l'avait appris.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/graffitophilae.webp' | relative_url }}" alt="Graffito d'Esmet-Akhom, temple de Philae" width="380" loading="lazy" decoding="async" height="676" />
+  <img src="{{ '/assets/img/graffitophilae.webp' | relative_url }}" alt="Photographie du graffito d'Esmet-Akhom au temple de Philae : des hiéroglyphes maladroitement gravés sur la pierre, dernière inscription connue dans cette écriture" width="380" loading="lazy" decoding="async" height="676" />
   <br /><small><em>Le graffito d'Esmet-Akhom, gravé sur la porte d'Hadrien à Philae le 24 août 394 : la dernière inscription hiéroglyphique connue. Photo A. Parrot, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5172,7 +5174,7 @@ tags: technology
 # 410 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/sacrome410.webp' | relative_url }}" alt="Sac de Rome en 410" loading="lazy" decoding="async" width="532" height="653" />
+  <img src="{{ '/assets/img/sacrome410.webp' | relative_url }}" alt="Enluminure médiévale du sac de Rome : des guerriers escaladent et forcent les tours d'une ville aux hautes murailles blanches, tandis que les habitants tombent au premier plan" loading="lazy" decoding="async" width="532" height="653" />
   <br /><small><em>Le sac de Rome par Alaric en 410 : la ville n'avait pas été prise depuis huit cents ans.</em></small>
 </p>
 
@@ -5185,7 +5187,7 @@ tags: technology
 # 413 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/augustin.webp' | relative_url }}" alt="Saint Augustin" loading="lazy" decoding="async" width="585" height="900" />
+  <img src="{{ '/assets/img/augustin.webp' | relative_url }}" alt="Fresque représentant saint Augustin dans son cabinet : l'évêque assis à sa table de travail, la main au menton, entouré de livres et d'instruments, sous une architecture peinte" loading="lazy" decoding="async" width="585" height="900" />
   <br /><small><em>Augustin d'Hippone : vingt-deux livres pour répondre à ceux qui accusaient les chrétiens de la chute de Rome.</em></small>
 </p>
 
@@ -5205,7 +5207,7 @@ tags: technology
 # 451 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/attila.webp' | relative_url }}" alt="Attila" loading="lazy" decoding="async" width="716" height="900" />
+  <img src="{{ '/assets/img/attila.webp' | relative_url }}" alt="Peinture représentant Attila : un cavalier lancé au galop sur un cheval blanc, brandissant son arme au-dessus de corps étendus au premier plan" loading="lazy" decoding="async" width="716" height="900" />
   <br /><small><em>Attila et les Huns : des cavaliers venus des steppes, dont l'arc composite portait à deux cents mètres.</em></small>
 </p>
 
@@ -5245,7 +5247,7 @@ tags: technology
 # 496 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/clovis.webp' | relative_url }}" alt="Baptême de Clovis" loading="lazy" decoding="async" width="276" height="625" />
+  <img src="{{ '/assets/img/clovis.webp' | relative_url }}" alt="Relief en ivoire représentant le baptême de Clovis : le roi debout dans la cuve baptismale, les mains jointes, tandis que l'évêque lui verse l'eau et que la colombe descend au-dessus de sa tête" loading="lazy" decoding="async" width="276" height="625" />
   <br /><small><em>Le baptême de Clovis à Reims : seul roi germanique catholique parmi des rois ariens, il s'assure le soutien de l'Église.</em></small>
 </p>
 
@@ -5254,7 +5256,7 @@ tags: technology
 # 529 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/justinien.webp' | relative_url }}" alt="Justinien" loading="lazy" decoding="async" width="676" height="900" />
+  <img src="{{ '/assets/img/justinien.webp' | relative_url }}" alt="Détail de la mosaïque de Ravenne représentant Justinien : l'empereur de face, nimbé, couronné du diadème perlé et vêtu de pourpre, sur un fond d'or" loading="lazy" decoding="async" width="676" height="900" />
   <br /><small><em>Justinien, sur la mosaïque de Ravenne : il codifie le droit romain et fait rebâtir Sainte-Sophie.</em></small>
 </p>
 
@@ -5269,7 +5271,7 @@ tags: technology
 <p>Le résultat est un effet d'optique saisissant : la lumière qui entre par ces fenêtres efface visuellement le point d'appui de la coupole, si bien qu'elle semble ne reposer sur rien. Un contemporain écrit qu'elle paraît suspendue au ciel par une chaîne d'or. Les visiteurs, pendant des siècles, diront la même chose — qu'on ne sait plus si l'on est sur terre ou au ciel.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/saintesophie.webp' | relative_url }}" alt="Coupole de Sainte-Sophie vue de l'intérieur" width="600" loading="lazy" decoding="async" height="399" />
+  <img src="{{ '/assets/img/saintesophie.webp' | relative_url }}" alt="Photographie de la coupole de Sainte-Sophie vue de l'intérieur : la calotte centrale, ceinturée d'une couronne de fenêtres qui semble effacer ses appuis, entourée des demi-coupoles peintes" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>La coupole de Sainte-Sophie et sa couronne de fenêtres, qui efface visuellement son point d'appui. Photo Jorge Láscar, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5298,7 +5300,7 @@ tags: technology
 # 605 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/grandcanal.webp' | relative_url }}" alt="Grand Canal" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/grandcanal.webp' | relative_url }}" alt="Photographie du Grand Canal de Chine : un bief bordé de quais de pierre et de saules pleureurs, franchi par un petit pont en dos d'âne" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>Le Grand Canal : près de deux mille kilomètres creusés pour relier le fleuve Jaune au Yangzi.</em></small>
 </p>
 
@@ -5342,7 +5344,7 @@ tags: technology
 # 630 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/kaaba.webp' | relative_url }}" alt="La Kaaba" loading="lazy" decoding="async" width="900" height="675" />
+  <img src="{{ '/assets/img/kaaba.webp' | relative_url }}" alt="Photographie de la Kaaba à La Mecque : le cube drapé de noir et ceint d'une bande calligraphiée dorée, entouré d'une foule dense de pèlerins en vêtements blancs" loading="lazy" decoding="async" width="900" height="675" />
   <br /><small><em>La Kaaba, à La Mecque : sanctuaire des tribus arabes avant l'islam, elle en devient le centre.</em></small>
 </p>
 
@@ -5417,7 +5419,7 @@ tags: technology
 # 700 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/changan.webp' | relative_url }}" alt="Chang'an" loading="lazy" decoding="async" width="775" height="900" />
+  <img src="{{ '/assets/img/changan.webp' | relative_url }}" alt="Détail d'une peinture murale de tombe chinoise : une porte monumentale à plusieurs étages de toits, tracée à l'ocre rouge sur l'enduit écaillé" loading="lazy" decoding="async" width="775" height="900" />
   <br /><small><em>Les tours d'une porte de Chang'an, peintes vers 706 sur les murs du tombeau du prince Yide.</em></small>
 </p>
 
@@ -5438,7 +5440,7 @@ tags: technology
 # 711 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/gibraltar.webp' | relative_url }}" alt="Détroit de Gibraltar" loading="lazy" decoding="async" width="400" height="166" />
+  <img src="{{ '/assets/img/gibraltar.webp' | relative_url }}" alt="Photographie du rocher de Gibraltar : le promontoire calcaire abrupt dominant la ville et le détroit, vu depuis la mer" loading="lazy" decoding="async" width="400" height="166" />
   <br /><small><em>Le rocher de Gibraltar — Jebel Tariq, la montagne de Tariq — porte le nom du commandant berbère qui y débarqua en 711.</em></small>
 </p>
 
@@ -5453,7 +5455,7 @@ tags: technology
 # 732 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/poitiers732.webp' | relative_url }}" alt="Bataille de Poitiers" loading="lazy" decoding="async" width="900" height="741" />
+  <img src="{{ '/assets/img/poitiers732.webp' | relative_url }}" alt="Peinture du XIXᵉ siècle représentant la bataille de Poitiers : une mêlée de cavaliers et de fantassins autour d'une grande croix, chevaux cabrés et corps enchevêtrés au premier plan" loading="lazy" decoding="async" width="900" height="741" />
   <br /><small><em>Charles Martel à Poitiers, vu par le XIXᵉ siècle : une bataille dont la postérité grossira considérablement la portée.</em></small>
 </p>
 
@@ -5486,7 +5488,7 @@ tags: technology
 # 750 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/abbassides.webp' | relative_url }}" alt="Califat abbasside" loading="lazy" decoding="async" width="900" height="560" />
+  <img src="{{ '/assets/img/abbassides.webp' | relative_url }}" alt="Carte du califat abbasside vers 850 : le territoire sous l'autorité du calife, en vert, s'étend de l'Égypte et de l'Arabie jusqu'au Khorasan, au Sistan et au Sind, avec les provinces nommées et les dynasties autonomes distinguées en légende" loading="lazy" decoding="async" width="900" height="560" />
   <br /><small><em>L'empire abbasside à son apogée : de l'Atlantique aux frontières de l'Inde.</em></small>
 </p>
 
@@ -5548,7 +5550,7 @@ tags: technology
 # 762 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bagdad.webp' | relative_url }}" alt="Bagdad" loading="lazy" decoding="async" width="713" height="900" />
+  <img src="{{ '/assets/img/bagdad.webp' | relative_url }}" alt="Emblème de la municipalité de Bagdad : un médaillon circulaire bleu portant le nom de la ville en arabe et en anglais, autour d'une silhouette de monuments au bord de l'eau" loading="lazy" decoding="async" width="713" height="900" />
   <br /><small><em>Une scène de Bagdad peinte en 1237 : la capitale abbasside est alors le centre intellectuel du monde.</em></small>
 </p>
 
@@ -5558,7 +5560,8 @@ tags: technology
 
 # 763 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cavalerietang.webp' | relative_url }}" alt="Cavalerie des Tang" loading="lazy" decoding="async" width="1200" height="1431" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cavalerietang.webp' | relative_url }}" alt="Cavalerie des Tang" loading="lazy" decoding="async" width="1200" height="1431" />
+  <br /><small><em>Figurine funéraire en terre cuite d'un cavalier Tang. Ce sont des armées de frontière comme celle-ci que l'empire, faute de troupes d'État, devra louer à des gouverneurs devenus quasi indépendants.</em></small></p>
 
 <p>Ce ne sont pas les Tang qui ont vaincu les rebelles : ce sont les rebelles qui se sont détruits eux-mêmes.</p>
 
@@ -5574,7 +5577,8 @@ tags: technology
 
 # 782 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/verden.webp' | relative_url }}" alt="Le massacre de Verden" loading="lazy" decoding="async" width="1200" height="660" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/verden.webp' | relative_url }}" alt="Le massacre de Verden" loading="lazy" decoding="async" width="1200" height="660" />
+  <br /><small><em>Le massacre de Verden, gravure du XIXᵉ siècle. Le chiffre de quatre mille cinq cents décapités vient des annales de la cour de Charlemagne elle-même — sa propagande n'y voyait pas une tache.</em></small></p>
 
 <p>À Verden, en Saxe, Charlemagne fait décapiter quelque quatre mille cinq cents prisonniers saxons en une seule journée — le chiffre vient des annales de sa propre cour, qui le rapportent sans gêne.</p>
 
@@ -5587,7 +5591,7 @@ tags: technology
 <p>À Cordoue, le prince omeyyade qui a fui le massacre de sa famille en Syrie et refondé un émirat à l'autre bout du monde musulman fait bâtir une grande mosquée. Ses colonnes proviennent d'édifices romains et wisigoths démontés, et ses doubles arcs rouges et blancs, empruntés à l'aqueduc antique, créent un espace sans équivalent. Elle sera agrandie trois fois en deux siècles.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/mosqueecordoue.webp' | relative_url }}" alt="Arcs bicolores de la grande mosquée de Cordoue" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/mosqueecordoue.webp' | relative_url }}" alt="Photographie de la salle hypostyle de la grande mosquée de Cordoue : une forêt de colonnes portant des arcs superposés à claveaux alternés rouges et blancs, qui se répètent à perte de vue" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue et ses arcs bicolores superposés. Photo Alvaro Viñuela Carnicero, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5604,7 +5608,7 @@ tags: technology
 <p>Les copistes mettent alors au point une écriture nouvelle, claire, régulière, séparant les mots — la minuscule caroline. Elle est si lisible que les humanistes de la Renaissance la prendront pour de l'écriture romaine antique et la copieront ; les premiers imprimeurs en feront leurs caractères. Les lettres que tu lis en ce moment en descendent directement.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/minusculecaroline.webp' | relative_url }}" alt="Page manuscrite en minuscule caroline" width="480" loading="lazy" decoding="async" height="423" />
+  <img src="{{ '/assets/img/minusculecaroline.webp' | relative_url }}" alt="Photographie d'une page manuscrite en minuscule caroline : un texte latin tracé en lettres rondes et régulières, avec mots séparés et ponctuation, sous un titre en capitales rouges" width="480" loading="lazy" decoding="async" height="423" />
   <br /><small><em>Une page en minuscule caroline : lettres régulières, mots séparés, ponctuation — l'écriture qui a sauvé les textes antiques. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5613,7 +5617,7 @@ tags: technology
 # 800 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/charlemagne.webp' | relative_url }}" alt="Charlemagne" loading="lazy" decoding="async" width="900" height="900" />
+  <img src="{{ '/assets/img/charlemagne.webp' | relative_url }}" alt="Photographie d'un denier d'argent de Charlemagne : le buste lauré de l'empereur, drapé à l'antique, entouré de la légende KAROLVS IMP AVG" loading="lazy" decoding="async" width="900" height="900" />
   <br /><small><em>Charlemagne sur un denier d'argent : couronné empereur à Rome le jour de Noël 800.</em></small>
 </p>
 
@@ -5625,7 +5629,8 @@ tags: technology
 
 # 806 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/baijuyi.webp' | relative_url }}" alt="Bai Juyi" loading="lazy" decoding="async" width="1200" height="963" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/baijuyi.webp' | relative_url }}" alt="Bai Juyi" loading="lazy" decoding="async" width="1200" height="963" />
+  <br /><small><em>Le <em>Chant du regret éternel</em> de Bai Juyi dans une édition xylographique des Trois Cents Poèmes des Tang. Le poème raconte, un demi-siècle après, l'amour de l'empereur et de la favorite tuée à Mawei.</em></small></p>
 
 <p>Un demi-siècle après le drame, le poète Bai Juyi compose le <em>Chant du regret éternel</em>, qui raconte l'amour de l'empereur et de la favorite, sa mort à Mawei, et le vieil homme hanté par son fantôme. C'est devenu le plus célèbre poème d'amour de la littérature chinoise, appris par cœur pendant douze siècles, et repris jusqu'au Japon.</p>
 
@@ -5633,7 +5638,8 @@ tags: technology
 
 # 845 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/wuzong.webp' | relative_url }}" alt="L'empereur Wuzong" loading="lazy" decoding="async" width="500" height="776" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/wuzong.webp' | relative_url }}" alt="L'empereur Wuzong" loading="lazy" decoding="async" width="500" height="776" />
+  <br /><small><em>L'empereur Wuzong des Tang, portrait au trait. Il ordonne la destruction du bouddhisme en Chine : quatre mille monastères rasés, des centaines de milliers de moines renvoyés à la vie civile.</em></small></p>
 
 <p>L'empereur Wuzong ordonne la destruction du bouddhisme en Chine. Les chiffres officiels donnent la mesure : plus de quatre mille monastères rasés, quarante mille sanctuaires détruits, deux cent soixante mille moines et nonnes renvoyés à la vie laïque et réinscrits sur les registres fiscaux.</p>
 
@@ -5643,7 +5649,8 @@ tags: technology
 
 # 846 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/elixir.webp' | relative_url }}" alt="Alchimie chinoise" loading="lazy" decoding="async" width="1200" height="1800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/elixir.webp' | relative_url }}" alt="Alchimie chinoise" loading="lazy" decoding="async" width="1200" height="1800" />
+  <br /><small><em>Fourneau d'alchimiste chinois, planche d'un traité taoïste. C'est en cherchant l'élixir d'immortalité dans ces appareils que l'on mêla salpêtre, soufre et charbon — et que l'on trouva la poudre.</em></small></p>
 
 <p>Wuzong meurt à trente-deux ans, après six ans de règne. La cause est presque comique au regard de sa politique : les élixirs d'immortalité que lui préparaient ses maîtres taoïstes, à base de cinabre — c'est-à-dire de sulfure de mercure. Il en absorbait depuis des années, y perdant progressivement la raison et la parole. L'empereur qui avait détruit une religion au nom d'une autre est mort empoisonné par ses propres prêtres.</p>
 
@@ -5664,7 +5671,7 @@ tags: technology
 <p>La même époque voit naître, à l'autre bout du monde musulman, une invention d'un tout autre genre. Dans les plaines du Sistan — aux confins de l'Iran et de l'Afghanistan actuels —, les géographes arabes décrivent des machines qu'on ne trouve nulle part ailleurs. La région est balayée par un vent si constant qu'on l'appelle « le vent des cent vingt jours », et ses habitants l'ont mis au travail : des tours de brique percées de fentes qui canalisent le souffle vers un rotor tournant à l'horizontale, comme une porte à tambour, entraînant une meule à l'étage du dessous. On y moud le grain et on y pompe l'eau d'irrigation.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/moulinsnashtifan.webp' | relative_url }}" alt="Moulins à vent à axe vertical de Nashtifan, Iran" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/moulinsnashtifan.webp' | relative_url }}" alt="Photographie des moulins à vent de Nashtifan, en Iran : une longue rangée de tours de terre crue abritant des rotors de bois à axe vertical, dressée face au vent du désert" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Les moulins à vent à axe vertical de Nashtifan, dans le Sistan iranien — ils tournent encore. Photo Ali Vaseghnia, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5674,7 +5681,8 @@ tags: technology
 
 # 877 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/feodalite.webp' | relative_url }}" alt="L'hommage féodal" loading="lazy" decoding="async" width="1200" height="2026" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/feodalite.webp' | relative_url }}" alt="L'hommage féodal" loading="lazy" decoding="async" width="1200" height="2026" />
+  <br /><small><em>Château fort médiéval, gravure du XIXᵉ siècle. Quand le roi ne protège plus, c'est le seigneur voisin qui protège : celui qui a une forteresse et des cavaliers. La féodalité naît de ce report de confiance.</em></small></p>
 
 <p>Sous Charlemagne, un comte était un employé du roi. Le souverain le nommait à la tête d'une région, pouvait l'envoyer ailleurs ou le renvoyer, et choisissait son remplaçant à sa mort. La région appartenait au royaume, pas au comte.</p>
 
@@ -5688,7 +5696,8 @@ tags: technology
 
 # 890 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/alfred.webp' | relative_url }}" alt="Alfred le Grand" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/alfred.webp' | relative_url }}" alt="Alfred le Grand" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>La statue d'Alfred le Grand à Winchester. Plutôt que de restaurer le latin, ce roi fait traduire les livres essentiels en vieil anglais — et pose sans le savoir la première pierre de l'anglais littéraire.</em></small></p>
 
 <p>Alfred, roi du Wessex, écrit dans la préface d'un livre qu'il fait diffuser à travers son royaume un constat désolé : il se souvient du temps où l'Angleterre était pleine de savants, avant que les Vikings ne brûlent les monastères et leurs bibliothèques ; désormais, dit-il, il ne reste pas un seul prêtre au sud de la Tamise capable de comprendre une lettre en latin.</p>
 
@@ -5700,7 +5709,8 @@ tags: technology
 
 # 939 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/masakado.webp' | relative_url }}" alt="Taira no Masakado" loading="lazy" decoding="async" width="588" height="506" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/masakado.webp' | relative_url }}" alt="Taira no Masakado" loading="lazy" decoding="async" width="588" height="506" />
+  <br /><small><em>Portrait japonais traditionnel d'un chef de guerre en robe de cour. Taira no Masakado se proclame empereur dans le Kantō : un blasphème politique, dans un pays où la lignée impériale descend de la déesse du soleil.</em></small></p>
 
 <p>Dans la plaine du Kantō, à l'est du Japon, un chef de guerre provincial nommé Taira no Masakado se soulève contre la cour de Kyoto. Il s'empare des provinces voisines, chasse les gouverneurs impériaux — puis franchit une limite que personne n'avait jamais franchie : il se proclame nouvel empereur.</p>
 
@@ -5710,7 +5720,7 @@ tags: technology
 
 # 941 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VvGlw2HCxbU" data-id="VvGlw2HCxbU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/VvGlw2HCxbU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VvGlw2HCxbU" data-id="VvGlw2HCxbU" rel="noopener" aria-label="Lire la vidéo YouTube : Du &quot;cocktail Molotov&quot; au &quot;Bandera smoothie&quot; ukrainien : histoire d'une arme incendiaire"><img src="https://i.ytimg.com/vi/VvGlw2HCxbU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Du &quot;cocktail Molotov&quot; au &quot;Bandera smoothie&quot; ukrainien : histoire d'une arme incendiaire »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Une flotte de plusieurs centaines de bateaux descend le Dniepr, traverse la mer Noire et se présente devant Constantinople. Ce sont les Rus' — des Scandinaves installés à Kiev depuis un siècle, mêlés aux populations slaves, dont le prince Igor mène l'expédition. Ils viennent pour le butin, comme leurs cousins vikings le font au même moment sur les côtes de France et d'Angleterre.</p>
 
@@ -5719,7 +5729,7 @@ tags: technology
 <p>C'est le feu grégeois, l'arme secrète de Byzance — probablement à base de pétrole brut affleurant en mer Noire, épaissi de résines, chauffé et projeté sous pression. La recette était un secret d'État si bien gardé, transmis oralement dans quelques familles, qu'elle a fini par se perdre : personne aujourd'hui ne sait la reconstituer avec certitude. Elle avait déjà sauvé Constantinople des Arabes, elle la sauve encore.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/feugregeois.webp' | relative_url }}" alt="Feu grégeois, miniature du Skylitzès de Madrid" width="600" loading="lazy" decoding="async" height="307" />
+  <img src="{{ '/assets/img/feugregeois.webp' | relative_url }}" alt="Miniature byzantine du Skylitzès de Madrid : depuis la proue d'un navire, un siphon de bronze projette le feu grégeois sur une barque ennemie dont les occupants basculent à l'eau" width="600" loading="lazy" decoding="async" height="307" />
   <br /><small><em>Le feu grégeois projeté par un siphon de bronze, miniature du Skylitzès de Madrid. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5727,7 +5737,8 @@ tags: technology
 
 # 944 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/igor.webp' | relative_url }}" alt="Le feu grégeois" loading="lazy" decoding="async" width="1200" height="615" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/igor.webp' | relative_url }}" alt="Le feu grégeois" loading="lazy" decoding="async" width="1200" height="615" />
+  <br /><small><em>Le feu grégeois projeté par un siphon de bronze sur une barque des Rus', miniature du Skylitzès de Madrid. La recette exacte de ce liquide enflammé est perdue.</em></small></p>
 
 <p>Igor revient avec une armée bien plus nombreuse, grossie de mercenaires petchénègues. Cette fois, l'empereur ne l'attend pas devant ses murs : il envoie des ambassadeurs à sa rencontre, chargés d'or et de soieries, et lui propose un traité. Igor accepte sans combattre.</p>
 
@@ -5737,13 +5748,15 @@ tags: technology
 
 # 950 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cordoue.webp' | relative_url }}" alt="La grande mosquée de Cordoue" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cordoue.webp' | relative_url }}" alt="La grande mosquée de Cordoue" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue : des centaines de colonnes de remploi et deux étages d'arcs bicolores. Cordoue est alors la plus grande ville d'Europe occidentale.</em></small></p>
 
 <p>Cordoue est alors la plus grande ville d'Europe occidentale — peut-être cent mille habitants, quand Paris ou Rome en comptent quelques dizaines de milliers. Les califes y entretiennent une cour fastueuse, des ateliers d'ivoire et de soie, des astronomes et des médecins.</p>
 
 # 960 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/songtaizu.webp' | relative_url }}" alt="L'empereur Taizu des Song" loading="lazy" decoding="async" width="1200" height="1347" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/songtaizu.webp' | relative_url }}" alt="L'empereur Taizu des Song" loading="lazy" decoding="async" width="1200" height="1347" />
+  <br /><small><em>L'empereur Taizu des Song, portrait sur soie. Proclamé par ses propres troupes, il remplace l'aristocratie militaire par une administration recrutée sur examens — ouverte, en principe, à tout homme sachant lire.</em></small></p>
 
 <p>Un général nommé Zhao Kuangyin est proclamé empereur par ses propres troupes, qui lui passent de force la robe jaune — c'est du moins ce qu'il racontera. Il met fin à un demi-siècle de morcellement et fonde la dynastie Song. Son premier soin est instructif : il invite ses généraux à un banquet, leur explique posément que le pouvoir militaire est une malédiction, et les convainc de démissionner en échange de fortunes et de retraites dorées. Aucun sang versé, et le problème qui avait tué les Tang — les chefs de guerre provinciaux — se trouve réglé.</p>
 
@@ -5762,7 +5775,7 @@ tags: technology
 <p>Les forgerons japonais commencent à produire des lames courbes à un seul tranchant : le <em>tachi</em>, ancêtre direct du katana. Jusqu'ici, on utilisait des sabres droits d'influence chinoise, hérités du continent.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tachi.webp' | relative_url }}" alt="Lame de tachi japonais" width="600" loading="lazy" decoding="async" height="399" />
+  <img src="{{ '/assets/img/tachi.webp' | relative_url }}" alt="Photographie d'une lame de tachi japonais exposée sur un support blanc : une longue lame courbe à un seul tranchant, dont la ligne de trempe ondulée est visible le long du fil" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>Lame de tachi : courbe, à un seul tranchant, avec sa ligne de trempe visible — l'ancêtre du katana. Photo SLIMHANNYA, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5777,7 +5790,7 @@ tags: technology
 <p>À la cour de Kyoto, une dame d'honneur achève ce qu'on tient souvent pour le premier roman psychologique de l'histoire : le <em>Dit du Genji</em>. Murasaki Shikibu y suit sur cinquante-quatre chapitres la vie d'un prince séduisant, ses amours, ses disgrâces, son vieillissement, puis la génération qui lui succède — avec une attention aux états d'âme, aux silences et aux regrets qui n'a aucun équivalent ailleurs à cette époque.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/genji.webp' | relative_url }}" alt="Rouleau peint du Dit du Genji" width="600" loading="lazy" decoding="async" height="325" />
+  <img src="{{ '/assets/img/genji.webp' | relative_url }}" alt="Détail d'un rouleau peint du Dit du Genji : une scène d'intérieur de palais vue en plongée, les cloisons et les paravents découpant l'espace autour de personnages assis en costume de cour" width="600" loading="lazy" decoding="async" height="325" />
   <br /><small><em>Scène du Genji monogatari emaki, rouleau peint illustrant le Dit du Genji. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5794,7 +5807,7 @@ tags: technology
 <p>Cette année-là, l'État reprend le système à son compte et ouvre à Chengdu un bureau officiel d'émission. C'est le premier papier-monnaie garanti par un gouvernement dans l'histoire humaine : billets imprimés, sceaux, marques de sécurité contre la contrefaçon, et une menace explicite de mort pour les faussaires.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/jiaozi.webp' | relative_url }}" alt="Planche d'impression d'un jiaozi, dynastie Song" width="300" loading="lazy" decoding="async" height="483" />
+  <img src="{{ '/assets/img/jiaozi.webp' | relative_url }}" alt="Photographie d'une planche d'impression d'un jiaozi de la dynastie Song : une feuille gravée montrant des rangées de pièces de monnaie, une scène de marchands et des colonnes de caractères — le premier papier-monnaie garanti par un État" width="300" loading="lazy" decoding="async" height="483" />
   <br /><small><em>Un jiaozi de la dynastie Song : le premier papier-monnaie garanti par un État. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5805,7 +5818,7 @@ tags: technology
 # 1040 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bisheng.webp' | relative_url }}" alt="Bi Sheng" loading="lazy" decoding="async" width="900" height="522" />
+  <img src="{{ '/assets/img/bisheng.webp' | relative_url }}" alt="Photographie d'une reconstitution muséographique de l'atelier de Bi Sheng : une statue de l'artisan assis devant deux grandes tables rondes tournantes portant ses caractères mobiles" loading="lazy" decoding="async" width="900" height="522" />
   <br /><small><em>Des caractères mobiles chinois : l'imprimerie naît quatre siècles avant Gutenberg, mais il faut composer avec des milliers de signes.</em></small>
 </p>
 
@@ -5826,7 +5839,7 @@ tags: technology
 <p>Le monument central, qu'on appelle aujourd'hui le tertre des Moines, couvre à sa base une surface comparable à celle de la grande pyramide de Gizeh et s'élève à trente mètres. Il ne contient pas une seule pierre : c'est un demi-million de mètres cubes de terre, transportés panier après panier, sur le dos d'hommes et de femmes. Autour, une centaine d'autres tertres, et un cercle de grands poteaux de cèdre calé sur les levers du soleil aux solstices.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cahokia.webp' | relative_url }}" alt="Le tertre des Moines, Cahokia" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/cahokia.webp' | relative_url }}" alt="Photographie du tertre des Moines à Cahokia : une immense butte de terre à plusieurs paliers, couverte d'herbe, gravie par un escalier de bois, sous un ciel dégagé" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Le tertre des Moines à Cahokia : trente mètres de terre portée au panier, une emprise au sol comparable à celle de la grande pyramide de Gizeh. Photo Ethajek, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5836,13 +5849,15 @@ tags: technology
 
 # 1054 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/schisme1054.webp' | relative_url }}" alt="Le schisme de 1054" loading="lazy" decoding="async" width="1200" height="1284" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/schisme1054.webp' | relative_url }}" alt="Le schisme de 1054" loading="lazy" decoding="async" width="1200" height="1284" />
+  <br /><small><em>Carte du schisme de 1054 : en orange l'obédience romaine, en bleu l'obédience de Constantinople. La ligne tracée cette année-là partage encore l'Europe aujourd'hui.</em></small></p>
 
 <p>Excommunications réciproques entre Rome et Constantinople. Le 16 juillet, un légat du pape dépose sur l'autel de Sainte-Sophie une bulle excommuniant le patriarche Michel Cérulaire, qui excommunie les légats en retour. Ces condamnations visent des personnes, non les Églises, et les contemporains n'y voient pas une rupture. L'incident révèle pourtant des divergences anciennes — doctrine (le <em>Filioque</em>), autorité (primauté du pape contestée par l'Orient), pratiques liturgiques — entre un Occident latin et un Orient grec qui s'éloignent depuis des siècles. C'est rétrospectivement que 1054 sera retenue comme date symbolique du « Grand Schisme ».</p>
 
 # 1066 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/grenade1066.webp' | relative_url }}" alt="L'alcazaba de Grenade" loading="lazy" decoding="async" width="1200" height="860" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/grenade1066.webp' | relative_url }}" alt="L'alcazaba de Grenade" loading="lazy" decoding="async" width="1200" height="860" />
+  <br /><small><em>Les remparts de Grenade au pied de la Sierra Nevada. C'est là qu'une émeute tue le vizir juif Joseph ibn Naghrela et s'étend à toute la communauté.</em></small></p>
 
 <p>Joseph ibn Naghrela, le vizir juif de Grenade et fils de Samuel HaNagid, un célèbre poète et chef militaire, est une figure centrale de la communauté juive. Des rumeurs et des accusations contre Joseph et la communauté juive alimentent un climat de méfiance et de ressentiment parmi la population musulmane de la ville.</p>
 
@@ -5850,7 +5865,8 @@ tags: technology
 
 # 1095 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/clermont.webp' | relative_url }}" alt="L'appel de Clermont" loading="lazy" decoding="async" width="1200" height="1801" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/clermont.webp' | relative_url }}" alt="L'appel de Clermont" loading="lazy" decoding="async" width="1200" height="1801" />
+  <br /><small><em>L'appel de Clermont, enluminure française. Urbain II répond à une demande de secours de l'empereur byzantin — et déclenche un mouvement qui lui échappera complètement.</em></small></p>
 
 <p>Le pape Urbain II prononce l'appel de Clermont (27 novembre). Répondant à la demande de secours de l'empereur byzantin Alexis Ier, menacé par l'avancée des Turcs seldjoukides en Anatolie, il exhorte la chevalerie d'Occident à reprendre Jérusalem et le Saint-Sépulcre, sous domination musulmane depuis 638. Cet appel déclenche la première croisade.</p>
 
@@ -5859,7 +5875,7 @@ tags: technology
 <p>Un souverain khmer monte sur le trône et entreprend le plus vaste monument religieux jamais construit : Angkor Vat, cent soixante hectares enclos de douves, une montagne de grès dressée à la gloire de Vishnou — avant de devenir, quelques siècles plus tard, un sanctuaire bouddhiste, sans jamais cesser d'être fréquenté.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/angkor.webp' | relative_url }}" alt="Vue aérienne d'Angkor Vat et de ses douves" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/angkor.webp' | relative_url }}" alt="Photographie aérienne d'Angkor Vat : le temple et ses tours en épi au centre d'une vaste enceinte rectangulaire cernée de douves, au milieu de la forêt" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Angkor Vat et ses douves — cent soixante hectares, la vitrine d'un système hydraulique bien plus vaste. Photo shankar s., CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5872,7 +5888,7 @@ tags: technology
 # 1117 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/boussole.webp' | relative_url }}" alt="Boussole" loading="lazy" decoding="async" width="900" height="750" />
+  <img src="{{ '/assets/img/boussole.webp' | relative_url }}" alt="Photographie d'une boussole : un boîtier rond à couvercle transparent où l'aiguille aimantée, rouge et verte, pointe le nord sur une rose graduée en degrés" loading="lazy" decoding="async" width="900" height="750" />
   <br /><small><em>La boussole : une aiguille aimantée pour tenir un cap quand le ciel est couvert.</em></small>
 </p>
 
@@ -5880,7 +5896,8 @@ tags: technology
 
 # 1144 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/norwich.webp' | relative_url }}" alt="La cathédrale de Norwich" loading="lazy" decoding="async" width="1200" height="1072" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/norwich.webp' | relative_url }}" alt="La cathédrale de Norwich" loading="lazy" decoding="async" width="1200" height="1072" />
+  <br /><small><em>L'intérieur de la cathédrale de Norwich. C'est dans cette ville qu'un moine invente, après la mort d'un enfant, l'accusation de meurtre rituel — une calomnie qui fera des siècles de victimes en Europe.</em></small></p>
 
 <p>Après la mort mystérieuse d'un garçon chrétien nommé William, un moine local nommé Thomas de Monmouth écrit un récit détaillé accusant la communauté juive de Norwich d'avoir rituellement assassiné l'enfant. Bien qu'il n'y ait aucune preuve crédible pour étayer ces allégations, l'histoire de Thomas conduit à la propagation de l'accusation de meurtre rituel à travers l'Europe.</p>
 
@@ -5888,7 +5905,8 @@ tags: technology
 
 # 1150 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/tolede.webp' | relative_url }}" alt="L'école de traducteurs de Tolède" loading="lazy" decoding="async" width="1200" height="570" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/tolede.webp' | relative_url }}" alt="L'école de traducteurs de Tolède" loading="lazy" decoding="async" width="1200" height="570" />
+  <br /><small><em>Tolède, l'Alcázar et la cathédrale. C'est dans cette ville reconquise, et non dans l'Espagne musulmane à son apogée, qu'Aristote, Euclide et Ptolémée repassent en latin.</em></small></p>
 
 <p>À Tolède, reprise par les chrétiens en 1085, des équipes de traducteurs travaillent sous le patronage de l'archevêque : un savant chrétien, un lettré juif ou un mozarabe arabophone traduisent ensemble de l'arabe vers le castillan puis vers le latin. Gérard de Crémone, venu d'Italie pour y trouver l'astronomie de Ptolémée, y passera quarante ans et traduira plus de soixante-dix ouvrages.</p>
 
@@ -5898,13 +5916,15 @@ tags: technology
 
 # 1170 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lancelot.webp' | relative_url }}" alt="Lancelot" loading="lazy" decoding="async" width="1200" height="1005" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lancelot.webp' | relative_url }}" alt="Lancelot" loading="lazy" decoding="async" width="1200" height="1005" />
+  <br /><small><em>Enluminure du <em>Roman de Tristan</em> : la scène du philtre, bue en mer sur un échiquier. Les récits arthuriens diffusent alors dans toute l'Europe les valeurs de la chevalerie courtoise.</em></small></p>
 
 <p>Les récits de Chrétien de Troyes diffusent les figures de Lancelot, Guenièvre et les valeurs de la chevalerie courtoise dans toute l'Europe.</p>
 
 # 1180 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/taira.webp' | relative_url }}" alt="Taira no Kiyomori" loading="lazy" decoding="async" width="1137" height="1060" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/taira.webp' | relative_url }}" alt="Taira no Kiyomori" loading="lazy" decoding="async" width="1137" height="1060" />
+  <br /><small><em>Taira no Kiyomori, portrait japonais. Son clan domine la cour impériale et installe même son petit-fils sur le trône — jusqu'à la guerre qui portera les Minamoto au pouvoir.</em></small></p>
 
 <p>Au Japon, à la fin de la période Heian, le pouvoir impérial est affaibli. Le clan Taira, mené par Taira no Kiyomori, domine la cour impériale. Il installe même son petit-fils, l’empereur Antoku, sur le trône, ce qui suscite un fort mécontentement chez les autres nobles et clans guerriers, notamment les Minamoto. Le prince Mochihito, soutenu par Minamoto no Yorimasa, lance un appel à la révolte contre les Taira, marquant le début du conflit. La guerre de Genpei aboutit à la chute du clan Taira et à la montée en puissance des Minamoto, menant à la création du premier shogunat en 1192. Cela marque le début du règne militaire des samouraïs et la fin du pouvoir central de la cour impériale.</p>
 
@@ -5912,13 +5932,15 @@ tags: technology
 
 # 1190 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/boussoleeurope.webp' | relative_url }}" alt="Rose des vents d'un portulan" loading="lazy" decoding="async" width="1200" height="1179" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/boussoleeurope.webp' | relative_url }}" alt="Rose des vents d'un portulan" loading="lazy" decoding="async" width="1200" height="1179" />
+  <br /><small><em>Rose des vents d'une carte portulan, à la fleur de lys marquant le nord. La boussole, signalée en Chine dès 1117, apparaît dans les textes européens à la fin du XIIᵉ siècle.</em></small></p>
 
 <p>Première mention européenne de la boussole : le moine anglais Alexander Neckam décrit dans son <em>De naturis rerum</em> l'aiguille aimantée utilisée par les marins pour retrouver le nord lorsque le ciel est voilé. La transmission depuis la Chine s'est probablement faite par les routes commerciales, via les navigateurs du monde islamique ou directement le long des routes de la soie, sans que le trajet exact soit documenté.</p>
 
 # 1191 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/eisai.webp' | relative_url }}" alt="Eisai et le thé" loading="lazy" decoding="async" width="800" height="1414" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/eisai.webp' | relative_url }}" alt="Eisai et le thé" loading="lazy" decoding="async" width="800" height="1414" />
+  <br /><small><em>Portrait japonais du moine Eisai. Rentré de Chine, il introduit au Japon l'école chan — le zen — et rapporte dans ses bagages des graines de théier.</em></small></p>
 
 <p>Un moine japonais nommé Eisai rentre de Chine après des années d'étude et introduit au Japon l'école chan, dont le nom se prononce là-bas <em>zen</em>. Il rapporte aussi des graines de thé et un traité vantant ses vertus — les deux voyageront ensemble, et la cérémonie du thé naîtra de cette rencontre.</p>
 
@@ -5928,7 +5950,8 @@ tags: technology
 
 # 1192 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/yoritomo.webp' | relative_url }}" alt="Minamoto no Yoritomo" loading="lazy" decoding="async" width="1200" height="1495" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yoritomo.webp' | relative_url }}" alt="Minamoto no Yoritomo" loading="lazy" decoding="async" width="1200" height="1495" />
+  <br /><small><em>Minamoto no Yoritomo, portrait sur soie. Il n'renverse pas l'empereur : il le laisse régner et prend tout le reste — l'armée, la justice, l'impôt. Le montage durera sept siècles.</em></small></p>
 
 <p>Deux siècles et demi après la révolte de Masakado, ce que celle-ci annonçait s'accomplit. Après une guerre qui a opposé les Taira et les Minamoto, le vainqueur, Minamoto no Yoritomo, obtient de l'empereur le titre de <em>shōgun</em> — commandant en chef — et installe son gouvernement à Kamakura, loin de Kyoto.</p>
 
@@ -5939,7 +5962,7 @@ tags: technology
 # 1202 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/sacconstantinople.webp' | relative_url }}" alt="Quatrième croisade" loading="lazy" decoding="async" width="900" height="764" />
+  <img src="{{ '/assets/img/sacconstantinople.webp' | relative_url }}" alt="Peinture du sac de Constantinople : les galères croisées accostent au pied des murailles, échelles dressées et bannières déployées, dans la fumée de l'assaut" loading="lazy" decoding="async" width="900" height="764" />
   <br /><small><em>Le sac de Constantinople en 1204 : une croisade partie pour l'Égypte pille la première ville chrétienne du monde.</em></small>
 </p>
 
@@ -5947,7 +5970,7 @@ tags: technology
 
 # 1204 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4qOVh4R8lys" data-id="4qOVh4R8lys" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/4qOVh4R8lys/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4qOVh4R8lys" data-id="4qOVh4R8lys" rel="noopener" aria-label="Lire la vidéo YouTube : 1204 quand la croisade dérape"><img src="https://i.ytimg.com/vi/4qOVh4R8lys/hqdefault.jpg" alt="Miniature de la vidéo YouTube « 1204 quand la croisade dérape »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Sac de Constantinople par la quatrième croisade : c'est ici que la séparation entre chrétientés latine et grecque devient irréversible. Détournée de son objectif initial (l'Égypte) par un jeu de dettes envers Venise et d'intrigues dynastiques byzantines, la croisade prend d'assaut la plus grande ville chrétienne du monde le 12 avril. Trois jours de pillage suivent : églises profanées, reliques et trésors emportés vers l'Occident, dont les chevaux de bronze de l'Hippodrome installés à Saint-Marc de Venise. Les croisés fondent un Empire latin d'Orient (1204–1261) et imposent un patriarche latin, reléguant la hiérarchie grecque en exil à Nicée.</p>
 
@@ -5955,7 +5978,7 @@ tags: technology
 
 # 1206 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=A9o_eh6qGOo" data-id="A9o_eh6qGOo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/A9o_eh6qGOo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=A9o_eh6qGOo" data-id="A9o_eh6qGOo" rel="noopener" aria-label="Lire la vidéo YouTube : Gengis Khan et les Mongols, artisans de la première mondialisation de l'histoire"><img src="https://i.ytimg.com/vi/A9o_eh6qGOo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Gengis Khan et les Mongols, artisans de la première mondialisation de l'histoire »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Proclamation de l'Empire mongol. Temüjin se révèle être un leader charismatique et un stratège habile. Au fil des années, il réussit à unifier les tribus mongoles dissidentes, souvent par la force, mais aussi par la diplomatie et l'alliance. Lors d'un kurultai (une assemblée de chefs de clans), il est proclamé "Genghis Khan", signifiant "empereur universel".</p>
 
@@ -5964,7 +5987,7 @@ tags: technology
 <p>Le sultanat de Delhi installe durablement l'islam dans le nord de l'Inde, et avec lui le persan comme langue de cour, une architecture d'arcs et de coupoles, et le Qutb Minar, tour de brique de soixante-treize mètres bâtie avec les pierres de temples démontés — la conquête inscrite dans le matériau même.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/qutbminar.webp' | relative_url }}" alt="Le Qutb Minar, Delhi" width="400" loading="lazy" decoding="async" height="533" />
+  <img src="{{ '/assets/img/qutbminar.webp' | relative_url }}" alt="Photographie du Qutb Minar à Delhi : une tour de grès rouge de soixante-treize mètres, à fût cannelé divisé en cinq étages par des balcons à stalactites, dominant les arcades ruinées du site" width="400" loading="lazy" decoding="async" height="533" />
   <br /><small><em>Le Qutb Minar, élevé par le sultanat de Delhi fondé en 1206 par un ancien esclave militaire. Photo A.Savin, Free Art License, via Wikimedia Commons.</em></small>
 </p>
 
@@ -5973,7 +5996,7 @@ tags: technology
 # 1235 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/empiremali.webp' | relative_url }}" alt="Empire du Mali" loading="lazy" decoding="async" width="900" height="562" />
+  <img src="{{ '/assets/img/empiremali.webp' | relative_url }}" alt="Carte de l'empire du Mali : le territoire, en vert, s'étire de l'Atlantique au coude du Niger, avec Koumbi Saleh, Tombouctou, Djenné et Gao repérées le long du fleuve" loading="lazy" decoding="async" width="900" height="562" />
   <br /><small><em>L'empire du Mali : de l'Atlantique au coude du Niger, bâti sur l'or et le sel des routes sahariennes.</em></small>
 </p>
 
@@ -5987,7 +6010,8 @@ tags: technology
 
 # 1270 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/saintlouis.webp' | relative_url }}" alt="La mort de Saint Louis" loading="lazy" decoding="async" width="500" height="709" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/saintlouis.webp' | relative_url }}" alt="La mort de Saint Louis" loading="lazy" decoding="async" width="500" height="709" />
+  <br /><small><em>Saint Louis au combat pendant une croisade, peinture du XVIIIᵉ siècle. Il meurt devant Tunis, emporté par l'épidémie qui ravage son camp.</em></small></p>
 
 <p>Louis IX meurt devant Tunis, emporté par l'épidémie qui ravage son camp, au cours de la dernière des grandes croisades. Il avait déjà été fait prisonnier en Égypte vingt ans plus tôt et racheté à prix d'or ; il était reparti quand même. L'expédition s'effondre avant d'avoir livré bataille.</p>
 
@@ -5997,7 +6021,8 @@ tags: technology
 
 # 1275 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/horloge.webp' | relative_url }}" alt="Échappement d'horloge médiévale" loading="lazy" decoding="async" width="1200" height="1287" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/horloge.webp' | relative_url }}" alt="Échappement d'horloge médiévale" loading="lazy" decoding="async" width="1200" height="1287" />
+  <br /><small><em>Planches gravées d'échappements d'horloge. L'échappement à foliot découpe le temps en intervalles égaux : les monastères d'Occident cessent de lire l'heure au soleil pour la lire sur une machine.</em></small></p>
 
 <p>Les premières horloges mécaniques à échappement apparaissent dans les monastères d'Europe occidentale ; la plus célèbre, celle de l'abbaye de St Albans en Angleterre, sera construite par l'abbé Richard de Wallingford vers 1330. Cette horloge a un cadran pour afficher l'heure et son mécanisme est basé sur un système de poids et de rouages pour réguler le mouvement des aiguilles. Ces poids descendent lentement, fournissant l'énergie nécessaire pour faire tourner les roues. Un échappement, qui est un dispositif mécanique, est utilisé pour contrôler la vitesse à laquelle les roues tournent, régulant ainsi la vitesse de l'horloge. L'horloge a un cadran avec des aiguilles pour indiquer l'heure, généralement sur un cadran de 12 heures.</p>
 
@@ -6005,7 +6030,8 @@ tags: technology
 
 # 1279 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/yamen.webp' | relative_url }}" alt="Jonque de guerre chinoise" loading="lazy" decoding="async" width="1040" height="681" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yamen.webp' | relative_url }}" alt="Jonque de guerre chinoise" loading="lazy" decoding="async" width="1040" height="681" />
+  <br /><small><em>Bâtiments de guerre européens détruisant des jonques chinoises, estampe du XIXᵉ siècle. L'image représente en réalité la guerre de l'Opium ; elle est ici utilisée comme figure d'une bataille navale chinoise.</em></small></p>
 
 <p>Les forces Song résistantes sont défaites par les Mongols à la bataille de Yamen. C'est à cette bataille que le dernier empereur Song, l'empereur Bing, périt, mettant fin à la dynastie Song.</p>
 
@@ -6020,13 +6046,13 @@ tags: technology
 <p>Le voyage a un effet secondaire durable : le Mali entre sur les cartes. Un demi-siècle plus tard, l'atlas catalan dessiné à Majorque représente Mansa Moussa assis sur son trône, couronne en tête, tendant une pépite d'or à un marchand voilé. C'est la première image européenne d'un souverain africain — et pendant deux siècles, sur les portulans, l'Afrique de l'Ouest sera d'abord le pays de l'or.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/atlascatalan.webp' | relative_url }}" alt="Mansa Moussa dans l'atlas catalan de 1375" width="420" loading="lazy" decoding="async" height="479" />
+  <img src="{{ '/assets/img/atlascatalan.webp' | relative_url }}" alt="Détail de l'atlas catalan de 1375 : Mansa Moussa, couronné d'or et assis sur son trône, tend une grosse pépite d'or, au milieu des lignes de rhumbs rouges de la carte marine" width="420" loading="lazy" decoding="async" height="479" />
   <br /><small><em>Mansa Moussa sur son trône, une pépite d'or à la main : l'atlas catalan de 1375, dessiné à Majorque. Attribué à Abraham Cresques, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1347 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=fbKCnLt1o-I" data-id="fbKCnLt1o-I" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/fbKCnLt1o-I/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=fbKCnLt1o-I" data-id="fbKCnLt1o-I" rel="noopener" aria-label="Lire la vidéo YouTube : La grande peste noire du Moyen Âge"><img src="https://i.ytimg.com/vi/fbKCnLt1o-I/hqdefault.jpg" alt="Miniature de la vidéo YouTube « La grande peste noire du Moyen Âge »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La peste débarque une deuxième fois en Europe. Elle arrive d'Asie et va tuer presque 1/3 de la population européenne et presque la moitié de la population urbaine européenne.</p>
 
@@ -6039,7 +6065,7 @@ tags: technology
 # 1348 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pestenoire.webp' | relative_url }}" alt="Peste noire" loading="lazy" decoding="async" width="801" height="482" />
+  <img src="{{ '/assets/img/pestenoire.webp' | relative_url }}" alt="Enluminure médiévale de la peste noire : des habitants ensevelissent à la hâte les corps dans des cercueils alignés, sous un encadrement décoratif" loading="lazy" decoding="async" width="801" height="482" />
   <br /><small><em>La peste noire : en quatre ans, elle emporte peut-être un tiers de la population européenne.</em></small>
 </p>
 
@@ -6049,7 +6075,8 @@ tags: technology
 
 # 1349 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/strasbourg1349.webp' | relative_url }}" alt="Le massacre de Strasbourg" loading="lazy" decoding="async" width="1200" height="1252" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/strasbourg1349.webp' | relative_url }}" alt="Le massacre de Strasbourg" loading="lazy" decoding="async" width="1200" height="1252" />
+  <br /><small><em>Le massacre des Juifs de Strasbourg, gravure du XIXᵉ siècle. Deux logiques s'y mêlent : punir des coupables supposés de l'épidémie, ou croire que les tuer l'empêchera d'arriver.</em></small></p>
 
 <p>À Strasbourg, l'ensemble de la communauté juive fut brûlé publiquement. À Erfurt, les 21 et 22 mars 1349, un massacre fit plus d'une centaine de morts, certains Juifs mettant eux-mêmes le feu à leurs maisons pour échapper au lynchage.</p>
 
@@ -6062,7 +6089,7 @@ tags: technology
 <p>Le Grand Zimbabwe — le mot signifie « maisons de pierre » — abrite peut-être dix-huit mille habitants et commande l'arrière-pays des mines d'or du plateau. Il n'est pas isolé : on a exhumé sur le site des céladons chinois, des céramiques persanes et des monnaies arabes, arrivés par les ports swahilis de la côte de l'océan Indien. Un royaume de l'intérieur africain branché sur le même réseau commercial que Canton et Ormuz.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/grandzimbabwe.webp' | relative_url }}" alt="Mur de la grande enceinte, Grand Zimbabwe" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/grandzimbabwe.webp' | relative_url }}" alt="Photographie de la grande enceinte du Grand Zimbabwe : un haut mur courbe de blocs de granit empilés sans mortier, dressé au milieu de l'herbe et des arbres" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>La grande enceinte du Grand Zimbabwe : des centaines de milliers de blocs de granit empilés sans mortier. Photo Andrew Moore, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6072,7 +6099,8 @@ tags: technology
 
 # 1353 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/pestemoscou.webp' | relative_url }}" alt="La peste noire" loading="lazy" decoding="async" width="533" height="357" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/pestemoscou.webp' | relative_url }}" alt="La peste noire" loading="lazy" decoding="async" width="533" height="357" />
+  <br /><small><em>Malades couverts de bubons, miniature de la Bible de Toggenburg, 1411. C'est l'une des rares images contemporaines de la peste noire, qui met six ans à traverser le continent d'un bout à l'autre.</em></small></p>
 
 <p>La peste atteint Moscou, cinq ans après avoir ravagé l'Europe occidentale : elle a fait le tour du continent par le nord, en remontant par Novgorod et Pskov. Elle emporte le grand-prince Siméon le Fier, ses deux fils et son frère, en quelques semaines.</p>
 
@@ -6084,13 +6112,14 @@ tags: technology
 
 ## France
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=mvIEA2dBKGA" data-id="mvIEA2dBKGA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/mvIEA2dBKGA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=mvIEA2dBKGA" data-id="mvIEA2dBKGA" rel="noopener" aria-label="Lire la vidéo YouTube : Guillaume de Machaut - La Messe de Nostre Dame"><img src="https://i.ytimg.com/vi/mvIEA2dBKGA/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Guillaume de Machaut - La Messe de Nostre Dame »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>À Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut n’a pourtant pas été écrite pour une grande cérémonie. Chanoine de Reims depuis une trentaine d’années, Machaut la destine à la messe mariale hebdomadaire que son frère Jean et lui ont fondée à la cathédrale : elle devait être chantée chaque samedi à l’autel de Notre-Dame, pour le repos de leurs âmes. Le chef-d’œuvre est né d’une fondation funéraire privée.</p>
 
 # 1368 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/hongwu.webp' | relative_url }}" alt="L'empereur Hongwu" loading="lazy" decoding="async" width="823" height="1230" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/hongwu.webp' | relative_url }}" alt="L'empereur Hongwu" loading="lazy" decoding="async" width="823" height="1230" />
+  <br /><small><em>L'empereur Hongwu dans la version la plus rude de ses portraits. Fils de paysans sans terre, orphelin de la famine, moine mendiant puis chef rebelle, il fonde les Ming et gouverne seul, jusqu'à la paranoïa.</em></small></p>
 
 <p>La domination mongole sur la Chine n'aura pas tenu un siècle. Les Yuan, héritiers de Kubilai Khan, gouvernaient un pays qu'ils n'ont jamais assimilé : les Chinois y occupent le dernier échelon d'une hiérarchie ethnique à quatre étages, les grandes charges leur échappent, et le concours mandarinal — l'institution qui structurait la vie lettrée depuis les Tang — a été suspendu pendant des décennies. Il suffit de quelques mauvaises récoltes, d'une inflation du papier-monnaie et d'un changement de cours du fleuve Jaune qui noie des provinces entières pour que tout parte.</p>
 
@@ -6102,7 +6131,8 @@ tags: technology
 
 # 1388 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/vagabondage.webp' | relative_url }}" alt="Mendiant médiéval" loading="lazy" decoding="async" width="1200" height="1159" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/vagabondage.webp' | relative_url }}" alt="Mendiant médiéval" loading="lazy" decoding="async" width="1200" height="1159" />
+  <br /><small><em>Plaque émaillée de Limoges : saint Martin partage son manteau avec un mendiant. Au même moment, l'Angleterre fait du vagabondage un délit et oblige les sans-terre à rester dans leur paroisse.</em></small></p>
 
 <p>Le vagabondage est considéré comme un délit en Angleterre. La première loi significative à cet égard est introduite en réponse à la pénurie de main-d'œuvre et à l'inflation des salaires après la peste noire, qui a décimé la population.</p>
 
@@ -6110,13 +6140,15 @@ tags: technology
 
 # 1392 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/joseon.webp' | relative_url }}" alt="Taejo de Joseon" loading="lazy" decoding="async" width="650" height="928" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/joseon.webp' | relative_url }}" alt="Taejo de Joseon" loading="lazy" decoding="async" width="650" height="928" />
+  <br /><small><em>Taejo de Joseon en robe de dragon bleue. Le général Yi Seong-gye renverse la dynastie Goryeo et fonde un régime qui gouvernera la Corée pendant cinq siècles.</em></small></p>
 
 <p>La période Joseon, également appelée dynastie Joseon ou Chosŏn, débute en Corée. Elle est fondée par le général Yi Seong-gye, qui renverse la dynastie Goryeo et devient le premier roi de Joseon sous le nom de Taejo.</p>
 
 # 1400 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cafeyemen.webp' | relative_url }}" alt="Le café au Yémen" loading="lazy" decoding="async" width="744" height="391" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cafeyemen.webp' | relative_url }}" alt="Le café au Yémen" loading="lazy" decoding="async" width="744" height="391" />
+  <br /><small><em>Le port de Moka, gravure ancienne. C'est par cette rade du Yémen que le café, d'abord bu par des soufis pour tenir éveillés pendant les veillées, part à la conquête du monde.</em></small></p>
 
 <p>Le café commence à être cultivé et consommé sous forme de boisson au Yémen, principalement par des soufis, des religieux qui utilisent la boisson pour rester éveillés pendant les longues heures de prière et de méditation nocturnes.</p>
 
@@ -6133,7 +6165,7 @@ tags: technology
 <p>Il laisse aussi Samarcande, qu'il a couverte de coupoles turquoise avec les artisans déportés de tous les pays qu'il a détruits — et un petit-fils, Ulugh Beg, qui y bâtira l'un des meilleurs observatoires du monde et mesurera la durée de l'année à une minute près.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/samarcande.webp' | relative_url }}" alt="Coupoles turquoise du Registan, Samarcande" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/samarcande.webp' | relative_url }}" alt="Photographie du Registan de Samarcande : les portails monumentaux couverts de mosaïques et les coupoles turquoise nervurées des médersas, dominés par un minaret" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le Registan de Samarcande : les coupoles turquoise dont Tamerlan a couvert sa capitale avec les artisans déportés des pays qu'il détruisait. Photo Jean-Pierre Dalbéra, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6142,7 +6174,7 @@ tags: technology
 <p>Un eunuque musulman de la cour Ming prend la mer à la tête de la plus grande flotte que le monde ait vue : plusieurs centaines de navires, près de trente mille hommes. Les plus grands bâtiments — les « bateaux-trésors » — dépassent probablement les soixante mètres, quand les caravelles portugaises qui partiront un siècle plus tard en font vingt-cinq. Ils ont des cloisons étanches, un gouvernail d'étambot, la boussole, et des jonques entières chargées d'eau douce. L'homme s'appelle Zheng He.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/zhenghe.webp' | relative_url }}" alt="Maquette d'un navire-trésor de Zheng He" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/zhenghe.webp' | relative_url }}" alt="Photographie d'une maquette de navire-trésor de Zheng He exposée en vitrine : une immense jonque à neuf mâts gréés de voiles rouges à lattes, à la coque compartimentée" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Maquette d'un navire-trésor de la flotte de Zheng He. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6159,7 +6191,7 @@ tags: technology
 <p>Un orfèvre sans formation d'architecte emporte le concours : Filippo Brunelleschi. Sa solution tient en deux idées. Deux coques emboîtées, la plus légère portée par la plus épaisse ; et une maçonnerie en arêtes de poisson, où des briques posées de chant bloquent les rangées et empêchent l'ouvrage de glisser vers l'intérieur pendant qu'on monte. La coupole se soutient donc elle-même à chaque étape, et se construit sans cintre.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/coupoleflorence.webp' | relative_url }}" alt="La coupole de Brunelleschi, Florence" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/coupoleflorence.webp' | relative_url }}" alt="Photographie de la coupole de Brunelleschi à Florence : la calotte de brique à huit pans, cerclée de nervures blanches et couronnée de sa lanterne sous échafaudage, dominant les toits de la ville" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>La coupole de Brunelleschi : quarante-trois mètres de portée, bâtie sans cintre, en deux coques emboîtées. Photo Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6187,7 +6219,7 @@ tags: technology
 <p>Une quinzaine d'années plus tard, vers 1455, Gutenberg imprime la Bible à l'aide de sa presse. Cette Bible, connue sous le nom de la "Bible de Gutenberg" ou la "Bible à quarante-deux lignes", est le premier livre majeur imprimé en Europe à l'aide de la technologie de l'imprimerie. La Bible est un ouvrage largement demandé à l'époque, ce qui garantit un marché potentiel pour les exemplaires imprimés.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/biblegutenberg.webp' | relative_url }}" alt="Page de la Genèse, Bible à 42 lignes de Gutenberg" width="450" loading="lazy" decoding="async" height="633" />
+  <img src="{{ '/assets/img/biblegutenberg.webp' | relative_url }}" alt="Photographie d'une page de la Genèse dans la Bible à 42 lignes de Gutenberg : deux colonnes de texte imprimé en caractères gothiques, encadrées d'une bordure de rinceaux, de fleurs et d'oiseaux peints à la main, avec une grande initiale enluminée" width="450" loading="lazy" decoding="async" height="633" />
   <br /><small><em>La Genèse dans la Bible à 42 lignes : texte imprimé, décor peint à la main. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6196,7 +6228,7 @@ tags: technology
 <p>Constantinople, la capitale de l'Empire byzantin, est assiégée et conquise par les forces ottomanes dirigées par le sultan Mehmed II. L'évolution technologique de l'artillerie joue un rôle crucial dans la prise de Constantinople. Les Ottomans, dirigés par le sultan Mehmed utilisent des canons de siège massifs et innovants pour percer les remparts autrefois impénétrables de la ville. Les canons sont capables de tirer sur de longues distances avec une précision étonnante pour l'époque. Ils sont utilisés pour pilonner les murs de la ville pendant plusieurs semaines, créant des brèches qui permettent aux forces ottomanes d'entrer et de capturer Constantinople.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bombardedardanelles.webp' | relative_url }}" alt="Grande bombarde ottomane des Dardanelles" width="600" loading="lazy" decoding="async" height="450" />
+  <img src="{{ '/assets/img/bombardedardanelles.webp' | relative_url }}" alt="Photographie de la grande bombarde ottomane des Dardanelles : un canon de bronze massif, démonté en deux tronçons vissés posés sur des supports, dans une salle d'exposition" width="600" loading="lazy" decoding="async" height="450" />
   <br /><small><em>Bombarde de bronze ottomane du XVᵉ siècle, démontée en deux tronçons vissés. Photo Gaius Cornelius, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6206,7 +6238,8 @@ tags: technology
 
 # 1455 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/romanuspontifex.webp' | relative_url }}" alt="La bulle Romanus Pontifex" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/romanuspontifex.webp' | relative_url }}" alt="La bulle Romanus Pontifex" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Fragment de bulle de plomb pontificale, avec échelle. C'est le sceau qui authentifiait les actes du pape — comme la bulle <em>Romanus Pontifex</em>, qui légitima la traite portugaise.</em></small></p>
 
 <p>Le pape Nicolas V, dans sa bulle Romanus Pontifex, légitimise le commerce des Africains. Le Vatican voit ici un intérêt économique évident. Mais l'intérêt est aussi religieux, en convertissant les africains au christianisme. Il accorde aux rois de Portugal le droit de "réduire en servitude" les Africains "païens" et de les emmener en Europe ou ailleurs pour les convertir au christianisme.</p>
 
@@ -6214,7 +6247,7 @@ tags: technology
 
 # 1456 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VD9vwdkoUm0" data-id="VD9vwdkoUm0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/VD9vwdkoUm0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VD9vwdkoUm0" data-id="VD9vwdkoUm0" rel="noopener" aria-label="Lire la vidéo YouTube : Vlad l'empaleur, figure du prince barbare et hérétique"><img src="https://i.ytimg.com/vi/VD9vwdkoUm0/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Vlad l'empaleur, figure du prince barbare et hérétique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Vlad III s'installe sur le trône de Valachie, principauté coincée entre le royaume de Hongrie et un Empire ottoman qui a pris Constantinople trois ans plus tôt et pousse désormais vers le Danube.</p>
 
@@ -6224,7 +6257,8 @@ tags: technology
 
 # 1467 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/onin.webp' | relative_url }}" alt="La guerre d'Ōnin" loading="lazy" decoding="async" width="1200" height="1889" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/onin.webp' | relative_url }}" alt="La guerre d'Ōnin" loading="lazy" decoding="async" width="1200" height="1889" />
+  <br /><small><em>Plan ancien de Kyoto. La guerre d'Ōnin se déroule onze ans à l'intérieur même de la ville, qui en sort en cendres — et le pays entre dans un siècle et demi de provinces en guerre.</em></small></p>
 
 <p>Une querelle de succession chez les Ashikaga dégénère en guerre ouverte dans les rues de Kyoto. Deux coalitions de grandes familles s'affrontent onze ans durant à l'intérieur même de la capitale, qui brûle par quartiers entiers : temples, palais, archives, ateliers. La ville impériale, l'une des plus raffinées d'Asie orientale, est réduite à des terrains vagues où l'on finit par cultiver des légumes.</p>
 
@@ -6241,7 +6275,7 @@ tags: technology
 <p>Les livres, précisément. Autour de la mosquée de Sankoré s'organise un enseignement où l'on commente le droit, la théologie, la grammaire, l'astronomie et la médecine. Les manuscrits copiés là et dans les villes voisines se comptent aujourd'hui en centaines de milliers, conservés dans des bibliothèques familiales. Un voyageur du début du XVIᵉ siècle note que le commerce le plus rentable de la ville est celui des livres.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/sankore.webp' | relative_url }}" alt="La mosquée de Sankoré, Tombouctou" width="400" loading="lazy" decoding="async" height="533" />
+  <img src="{{ '/assets/img/sankore.webp' | relative_url }}" alt="Photographie de la mosquée de Sankoré à Tombouctou : le minaret pyramidal de terre crue, hérissé de poutres saillantes, dominant la cour et le portail de bois, devant lequel passent des femmes en boubous colorés" width="400" loading="lazy" decoding="async" height="533" />
   <br /><small><em>La mosquée de Sankoré à Tombouctou, autour de laquelle s'organisait l'enseignement du droit, de la théologie et de l'astronomie. Photo Ondřej Havelka, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6251,14 +6285,14 @@ tags: technology
 
 # 1470 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=_t-rAsC9IWc" data-id="_t-rAsC9IWc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/_t-rAsC9IWc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=_t-rAsC9IWc" data-id="_t-rAsC9IWc" rel="noopener" aria-label="Lire la vidéo YouTube : Johannes Ockeghem - Missa prolationum"><img src="https://i.ytimg.com/vi/_t-rAsC9IWc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Johannes Ockeghem - Missa prolationum »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Ecriture de la messe polyphonique Missa Prolationum qui est une innovation majeure parce qu’elle est entièrement construite sur des canons complexes, chaque voix imitant les autres à différentes vitesses et proportions (c’est-à-dire que la musique joue sur les durées relatives et les imitations croisées).</p>
 
 # 1473 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/copernic.webp' | relative_url }}" alt="Nicolas Copernic" loading="lazy" decoding="async" width="900" height="879" />
+  <img src="{{ '/assets/img/copernic.webp' | relative_url }}" alt="Portrait peint de Nicolas Copernic : un homme aux cheveux mi-longs, vêtu d'une robe rouge sur une chemise sombre, sur fond neutre" loading="lazy" decoding="async" width="900" height="879" />
   <br /><small><em>Nicolas Copernic : quarante ans d'astronomie privée avant d'oser publier.</em></small>
 </p>
 
@@ -6270,14 +6304,15 @@ tags: technology
 
 # 1475 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/maisondecafe.webp' | relative_url }}" alt="Une maison de café ottomane" loading="lazy" decoding="async" width="966" height="1484" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/maisondecafe.webp' | relative_url }}" alt="Une maison de café ottomane" loading="lazy" decoding="async" width="966" height="1484" />
+  <br /><small><em>Une maison de café ottomane, miniature turque. Ce n'est ni la famille ni la mosquée : c'est le premier lieu où des hommes s'assoient ensemble sans autre raison que d'y être — d'où l'inquiétude des autorités.</em></small></p>
 
 <p>La tradition place ici l'ouverture de la première maison de café (<em>qahveh khaneh</em>) à Constantinople — mais aucune source ne l'atteste, et les premiers cafés d'Istanbul solidement documentés datent en réalité des années 1550. Ces établissements, une fois installés, deviennent des lieux publics consacrés à la consommation de café. Ces établissements sont des lieux de rencontre pour les intellectuels, les artistes et les religieux.</p>
 
 # 1482 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/leonard.webp' | relative_url }}" alt="Léonard de Vinci" loading="lazy" decoding="async" width="628" height="900" />
+  <img src="{{ '/assets/img/leonard.webp' | relative_url }}" alt="Dessin à la sanguine représentant Léonard de Vinci de profil : un vieil homme à la longue barbe et aux cheveux ondulés, sous une inscription portant son nom" loading="lazy" decoding="async" width="628" height="900" />
   <br /><small><em>Léonard de Vinci : il se présente au maître de Milan comme ingénieur militaire, et ne mentionne la peinture qu'en dernier.</em></small>
 </p>
 
@@ -6293,14 +6328,14 @@ tags: technology
 
 <p>En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, dernier bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista coïncide également avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cE0Khx9CgHQ" data-id="cE0Khx9CgHQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/cE0Khx9CgHQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cE0Khx9CgHQ" data-id="cE0Khx9CgHQ" rel="noopener" aria-label="Lire la vidéo YouTube : Comment Christophe Colomb a découvert l'Amérique"><img src="https://i.ytimg.com/vi/cE0Khx9CgHQ/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment Christophe Colomb a découvert l'Amérique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Colomb débarque aux Antilles pour le compte de l'Espagne. Il découvre aussi Cuba.</p>
 
 # 1498 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/vascodegama.webp' | relative_url }}" alt="Vasco de Gama" loading="lazy" decoding="async" width="654" height="900" />
+  <img src="{{ '/assets/img/vascodegama.webp' | relative_url }}" alt="Portrait peint de Vasco de Gama : le navigateur en pourpoint sombre et manteau rouge, la main sur la garde de son épée, la croix de l'ordre du Christ brodée sur la poitrine" loading="lazy" decoding="async" width="654" height="900" />
   <br /><small><em>Vasco de Gama : la première liaison maritime directe entre l'Europe et l'Inde.</em></small>
 </p>
 
@@ -6312,7 +6347,8 @@ tags: technology
 
 # 1500 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cabral.webp' | relative_url }}" alt="Pedro Álvares Cabral" loading="lazy" decoding="async" width="827" height="1024" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cabral.webp' | relative_url }}" alt="Pedro Álvares Cabral" loading="lazy" decoding="async" width="827" height="1024" />
+  <br /><small><em>Pedro Álvares Cabral, portrait gravé. Parti pour les Indes, sa flotte s'écarte trop à l'ouest et touche une côte inconnue : le Brésil.</em></small></p>
 
 <p>Une flotte portugaise partie pour les Indes s'écarte trop à l'ouest et touche une côte inconnue : c'est le Brésil. Pedro Álvares Cabral y plante une croix, y laisse deux condamnés et repart — l'escale a duré neuf jours. Le hasard est moins grand qu'il n'y paraît : six ans plus tôt, à Tordesillas, Portugais et Castillans s'étaient partagé le monde à venir en traçant un méridien sur une carte, et cette terre-là tombe du bon côté.</p>
 
@@ -6322,7 +6358,8 @@ tags: technology
 
 # 1503 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/encomienda.webp' | relative_url }}" alt="Le travail forcé des Indiens" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/encomienda.webp' | relative_url }}" alt="Le travail forcé des Indiens" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Le Cerro Rico dominant Potosí. La montagne d'argent et l'encomienda relèvent de la même mécanique : un travail imposé aux populations locales sous couvert de contrat ou de protection.</em></small></p>
 
 <p>La Couronne d'Espagne formalise l'« encomienda ». Le principe est présenté comme un contrat : un colon reçoit un groupe d'Indiens, il en tire leur travail, et il doit en échange les protéger et les évangéliser. Personne n'est légalement esclave.</p>
 
@@ -6339,7 +6376,7 @@ tags: technology
 <p>Raphaël, vingt-cinq ans, décore les appartements du même pape. Dans son <em>École d'Athènes</em>, il réunit les philosophes grecs sous une voûte romaine et leur donne les visages de ses contemporains : Platon a les traits de Léonard, Héraclite ceux de Michel-Ange, et lui-même se glisse dans un coin du tableau. L'Antiquité n'est plus un passé qu'on admire à distance, c'est une famille dont on se réclame.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ecoleathenes.webp' | relative_url }}" alt="L'École d'Athènes de Raphaël" width="640" loading="lazy" decoding="async" height="496" />
+  <img src="{{ '/assets/img/ecoleathenes.webp' | relative_url }}" alt="Photographie de « L'École d'Athènes » de Raphaël : sous une vaste voûte à caissons, Platon et Aristote s'avancent au centre d'une assemblée de philosophes groupés en petits cercles de discussion" width="640" loading="lazy" decoding="async" height="496" />
   <br /><small><em><em>L'École d'Athènes</em> : Raphaël réunit les philosophes grecs sous une voûte romaine et leur prête les visages de ses contemporains. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6349,7 +6386,8 @@ tags: technology
 
 # 1510 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cafelecaire.webp' | relative_url }}" alt="Le café ottoman" loading="lazy" decoding="async" width="640" height="480" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cafelecaire.webp' | relative_url }}" alt="Le café ottoman" loading="lazy" decoding="async" width="640" height="480" />
+  <br /><small><em>Intérieur d'un café ottoman, estampe orientaliste du XIXᵉ siècle. Le café gagne La Mecque et Le Caire — et avec lui l'idée d'un espace public où l'on parle.</em></small></p>
 
 <p>Le café gagne La Mecque et Le Caire, et il y crée quelque chose qui n'existait pas : un lieu où l'on s'assoit entre hommes qui ne sont ni de la même famille ni de la même mosquée, pour parler.</p>
 
@@ -6359,7 +6397,8 @@ tags: technology
 
 # 1511 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cuba.webp' | relative_url }}" alt="Santiago de Cuba" loading="lazy" decoding="async" width="1200" height="898" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cuba.webp' | relative_url }}" alt="Santiago de Cuba" loading="lazy" decoding="async" width="1200" height="898" />
+  <br /><small><em>La cathédrale de Santiago de Cuba. Fondée par Velázquez, la ville sert de base arrière à tout ce qui suivra dans les Caraïbes — dont l'expédition de Cortés.</em></small></p>
 
 <p>Diego Velázquez conquiert Cuba, y fonde Santiago puis d'autres places, et fait de l'île la base arrière de tout ce qui suivra dans les Caraïbes. C'est de Cuba que partiront les expéditions vers le Mexique.</p>
 
@@ -6367,7 +6406,8 @@ tags: technology
 
 # 1514 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/commentariolus.webp' | relative_url }}" alt="Le Commentariolus" loading="lazy" decoding="async" width="1200" height="1592" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/commentariolus.webp' | relative_url }}" alt="Le Commentariolus" loading="lazy" decoding="async" width="1200" height="1592" />
+  <br /><small><em>Première page du <em>Commentariolus</em> de Copernic. Une quarantaine de pages manuscrites, sans nom d'auteur, qu'il fait seulement circuler entre amis : il attendra son lit de mort pour publier.</em></small></p>
 
 <p>À Frombork, sur la Baltique, un chanoine polonais fait circuler entre quelques amis un manuscrit d'une quarantaine de pages, sans nom d'auteur : le <em>Commentariolus</em>. Nicolas Copernic y avance que la Terre n'est pas immobile au centre du monde, mais qu'elle tourne sur elle-même et autour du Soleil.</p>
 
@@ -6377,7 +6417,7 @@ tags: technology
 
 # 1515 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vlB1HR4BgUg" data-id="vlB1HR4BgUg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vlB1HR4BgUg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vlB1HR4BgUg" data-id="vlB1HR4BgUg" rel="noopener" aria-label="Lire la vidéo YouTube : Josquin:  Missa Pange lingua (Tallis Scholars)"><img src="https://i.ytimg.com/vi/vlB1HR4BgUg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Josquin:  Missa Pange lingua (Tallis Scholars) »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Josquin des Prez, vieux et retiré à Condé, compose sa <em>Missa Pange lingua</em>. Il part d'un hymne grégorien de Thomas d'Aquin — une mélodie que tout le monde connaît — mais au lieu de la citer telle quelle dans une voix, il la démonte : chaque phrase du chant devient un motif que les quatre voix se passent, imitent, resserrent, étirent.</p>
 
@@ -6386,7 +6426,7 @@ tags: technology
 # 1517 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/luther.webp' | relative_url }}" alt="Martin Luther" loading="lazy" decoding="async" width="617" height="900" />
+  <img src="{{ '/assets/img/luther.webp' | relative_url }}" alt="Portrait peint de Martin Luther par Cranach : le réformateur de trois quarts, en robe noire et large béret, sur un fond vert" loading="lazy" decoding="async" width="617" height="900" />
   <br /><small><em>Martin Luther : ses quatre-vingt-quinze thèses devaient ouvrir un débat universitaire ; l'imprimerie en fit autre chose.</em></small>
 </p>
 
@@ -6402,7 +6442,8 @@ tags: technology
 
 # 1518 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/asiento.webp' | relative_url }}" alt="La traite atlantique" loading="lazy" decoding="async" width="800" height="591" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/asiento.webp' | relative_url }}" alt="La traite atlantique" loading="lazy" decoding="async" width="800" height="591" />
+  <br /><small><em>« À bord d'un navire négrier », gravure du XIXᵉ siècle. L'asiento est la licence royale qui autorise le transport direct de captifs africains vers l'Amérique, sans passer par Séville.</em></small></p>
 
 <p>Charles Quint accorde la première licence de transport direct de captifs africains vers les colonies d'Amérique : c'est l'<em>asiento</em>. Jusque-là, les convois transitaient par Séville ; désormais, les navires iront d'Afrique aux Antilles sans toucher l'Europe.</p>
 
@@ -6411,7 +6452,7 @@ tags: technology
 # 1519 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cortes.webp' | relative_url }}" alt="Hernán Cortés" loading="lazy" decoding="async" width="764" height="900" />
+  <img src="{{ '/assets/img/cortes.webp' | relative_url }}" alt="Portrait peint d'Hernán Cortés : un homme au visage émacié, barbe grise et fraise blanche, coiffé d'un béret noir, sous une inscription portant son nom" loading="lazy" decoding="async" width="764" height="900" />
   <br /><small><em>Hernán Cortés : cinq cents hommes, seize chevaux — et des dizaines de milliers d'alliés indigènes hostiles aux Mexicas.</em></small>
 </p>
 
@@ -6424,7 +6465,7 @@ tags: technology
 # 1520 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/soliman.webp' | relative_url }}" alt="Soliman le Magnifique" loading="lazy" decoding="async" width="451" height="763" />
+  <img src="{{ '/assets/img/soliman.webp' | relative_url }}" alt="Miniature ottomane représentant Soliman le Magnifique : le sultan assis sur son trône, coiffé d'un large turban blanc et vêtu d'un caftan brodé, devant un fond de carreaux bleus à motifs floraux" loading="lazy" decoding="async" width="451" height="763" />
   <br /><small><em>Soliman le Magnifique : quarante-six ans de règne sur l'État le plus puissant du bassin méditerranéen.</em></small>
 </p>
 
@@ -6441,7 +6482,7 @@ tags: technology
 <p>Tenochtitlán tombe le 13 août, après quatre-vingt-treize jours de siège. Le dernier souverain, Cuauhtémoc, est capturé sur le lac.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tenochtitlan.webp' | relative_url }}" alt="Tenochtitlán, gravée en Europe dès 1524 d'après un plan rapporté par Cortés" width="600" loading="lazy" decoding="async" height="383" />
+  <img src="{{ '/assets/img/tenochtitlan.webp' | relative_url }}" alt="Glyphe aztèque de Tenochtitlán : un figuier de Barbarie stylisé, ses raquettes vertes chargées de fruits rouges, poussant sur un rocher au trait noir et aux couleurs vives" width="600" loading="lazy" decoding="async" height="383" />
   <br /><small><em>Tenochtitlán, gravée en Europe dès 1524 d'après un plan rapporté par Cortés : une capitale bâtie sur un lac, reliée à la terre par des chaussées. Friedrich Peypus (1485–1534), probably after drawing made by one of Co, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6455,7 +6496,8 @@ tags: technology
 
 # 1522 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/elcano.webp' | relative_url }}" alt="La nef Victoria" loading="lazy" decoding="async" width="1200" height="801" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/elcano.webp' | relative_url }}" alt="La nef Victoria" loading="lazy" decoding="async" width="1200" height="801" />
+  <br /><small><em>Réplique moderne de la nef <em>Victoria</em>. Partis à deux cent trente-sept sur cinq navires, dix-huit hommes rentrent sur ce seul bateau — avec la preuve expérimentale que la date dépend du lieu où l'on se tient.</em></small></p>
 
 <p>Le 6 septembre, un navire délabré remonte le Guadalquivir avec dix-huit hommes à bord. Ils sont partis à deux cent trente-sept sur cinq bateaux. Juan Sebastián Elcano, qui a repris le commandement après la mort de Magellan, vient de boucler le premier tour du monde.</p>
 
@@ -6465,7 +6507,8 @@ tags: technology
 
 # 1526 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/panipat.webp' | relative_url }}" alt="La bataille de Panipat" loading="lazy" decoding="async" width="1173" height="2000" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/panipat.webp' | relative_url }}" alt="La bataille de Panipat" loading="lazy" decoding="async" width="1173" height="2000" />
+  <br /><small><em>La bataille de Panipat, miniature moghole. Bâbur y écrase avec ses canons une armée dix fois supérieure et fonde un empire qui régnera trois siècles sur l'Inde du Nord.</em></small></p>
 
 <p>Deux empires atteignent la même année le sommet de leur puissance, aux deux extrémités du monde musulman, et l'Europe ne comprend clairement que le premier.</p>
 
@@ -6478,7 +6521,7 @@ tags: technology
 # 1532 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/atahualpa.webp' | relative_url }}" alt="Atahualpa" loading="lazy" decoding="async" width="492" height="600" />
+  <img src="{{ '/assets/img/atahualpa.webp' | relative_url }}" alt="Portrait peint d'Atahualpa dans un cadre doré : le souverain inca de profil, coiffé de la mascapaicha à plume et paré de larges ornements d'oreilles, tenant une hache cérémonielle" loading="lazy" decoding="async" width="492" height="600" />
   <br /><small><em>Atahualpa : capturé au milieu de ses milliers d'hommes par cent soixante-huit Espagnols.</em></small>
 </p>
 
@@ -6492,7 +6535,8 @@ tags: technology
 
 # 1533 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/pizarro.webp' | relative_url }}" alt="Francisco Pizarro à Cuzco" loading="lazy" decoding="async" width="833" height="595" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/pizarro.webp' | relative_url }}" alt="Francisco Pizarro à Cuzco" loading="lazy" decoding="async" width="833" height="595" />
+  <br /><small><em>La bataille de Cajamarca, gravure du XVIᵉ siècle. Cent soixante-huit Espagnols capturent l'empereur inca au milieu de ses milliers d'hommes — mais la variole avait déjà fait le plus gros du travail.</em></small></p>
 
 <p>Pizarro entre dans Cuzco, capitale de l'empire, moins d'un an après Cajamarca. Il ne supprime pas la fonction d'Inca : il en installe un autre, choisi par lui, et gouverne à travers lui. La machine administrative inca — ses routes, ses greniers, son recensement — continue de fonctionner au profit des nouveaux maîtres.</p>
 
@@ -6503,7 +6547,7 @@ tags: technology
 <p>Trois navires portugais poussés par une tempête abordent Tanegashima, une île au sud du Japon. Les marchands ont à bord des arquebuses. Le seigneur local en achète deux à prix d'or et met ses forgerons à les copier.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tanegashima.webp' | relative_url }}" alt="Arquebuse japonaise de type tanegashima" width="640" loading="lazy" decoding="async" height="124" />
+  <img src="{{ '/assets/img/tanegashima.webp' | relative_url }}" alt="Photographie d'une arquebuse japonaise de type tanegashima : un fusil à mèche à long canon et crosse courte en bois, muni de son étiquette d'inventaire" width="640" loading="lazy" decoding="async" height="124" />
   <br /><small><em>Une arquebuse tanegashima, du nom de l'île où les Portugais en vendirent deux en 1543. Photo PHGCOM, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6514,14 +6558,14 @@ tags: technology
 <p>La même année paraît à Nuremberg, chez un imprimeur luthérien, le livre que Copernic n'osait pas publier : <em>Des révolutions des sphères célestes</em>. L'auteur meurt dans les semaines qui suivent. L'ouvrage passe d'abord pour un exercice technique d'astronome, utile pour calculer, sans qu'on prenne au sérieux l'idée que la Terre bouge vraiment — un éditeur prudent a même ajouté sans autorisation une préface expliquant qu'il ne s'agit que d'une hypothèse commode. Il faudra soixante-dix ans pour que l'Église s'aperçoive du danger.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/heliocentrisme.webp' | relative_url }}" alt="Schéma héliocentrique du De revolutionibus" width="560" loading="lazy" decoding="async" height="480" />
+  <img src="{{ '/assets/img/heliocentrisme.webp' | relative_url }}" alt="Reproduction du schéma héliocentrique du De revolutionibus de Copernic : une série de cercles concentriques légendés en latin, le Soleil au centre et la Terre sur la troisième orbite, accompagnée de la sphère des étoiles fixes" width="560" loading="lazy" decoding="async" height="480" />
   <br /><small><em>Le schéma héliocentrique du <em>De revolutionibus</em> : le Soleil au centre, la Terre troisième. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Et la même année encore paraît à Bâle un autre livre, qui fait pour le corps ce que Copernic fait pour le ciel. André Vésale a vingt-huit ans et enseigne à Padoue. Jusqu'à lui, le professeur d'anatomie lisait Galien à voix haute du haut de sa chaire, pendant qu'un barbier découpait le cadavre en contrebas et qu'un assistant désignait les organes ; quand le corps contredisait le texte, on en concluait que le corps s'était trompé, ou que l'homme avait dégénéré depuis l'Antiquité.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/vesale.webp' | relative_url }}" alt="Planche musculaire de la Fabrica de Vésale" width="340" loading="lazy" decoding="async" height="586" />
+  <img src="{{ '/assets/img/vesale.webp' | relative_url }}" alt="Planche de la Fabrica de Vésale : un écorché debout, tous les muscles superficiels dégagés, présenté en marcheur dans un paysage, sous un titre latin" width="340" loading="lazy" decoding="async" height="586" />
   <br /><small><em>Une planche de la <em>Fabrique du corps humain</em> de Vésale, 1543 : l'écorché marche dans un paysage. Wellcome Collection, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6534,7 +6578,7 @@ tags: technology
 <p>Dans les Andes boliviennes, à plus de quatre mille mètres, on découvre une montagne d'argent : le Cerro Rico de Potosí. Il n'y a rien autour — ni bois, ni eau, ni cultures. En quarante ans, une ville de cent cinquante mille habitants y pousse, aussi peuplée que Londres à la même date, ravitaillée à dos de lama sur des centaines de kilomètres.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/potosi.webp' | relative_url }}" alt="Le Cerro Rico dominant Potosí" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/potosi.webp' | relative_url }}" alt="Photographie du Cerro Rico dominant Potosí : la montagne conique et pelée aux teintes ocre, surplombant les toits de tuiles de la ville minière" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le Cerro Rico au-dessus de Potosí : la montagne d'argent qui a financé les Habsbourg et fini sa course en Chine. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6548,7 +6592,8 @@ tags: technology
 
 # 1550 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lascasas.webp' | relative_url }}" alt="Bartolomé de Las Casas" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lascasas.webp' | relative_url }}" alt="Bartolomé de Las Casas" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Rue d'une petite ville d'Amérique latine aujourd'hui. (L'attribut de la balise annonce un portrait de Las Casas : l'image ne correspond pas au sujet et mériterait d'être remplacée.)</em></small></p>
 
 <p>À Valladolid s'ouvre un débat public sans équivalent : une monarchie convoque des théologiens pour trancher la question de savoir si les guerres qu'elle mène sont justes.</p>
 
@@ -6562,7 +6607,7 @@ tags: technology
 
 # 1553 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Df5MLgLrL1w" data-id="Df5MLgLrL1w" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Df5MLgLrL1w/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Df5MLgLrL1w" data-id="Df5MLgLrL1w" rel="noopener" aria-label="Lire la vidéo YouTube : Henri IV I Quelle Histoire - TV5 Monde"><img src="https://i.ytimg.com/vi/Df5MLgLrL1w/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Henri IV I Quelle Histoire - TV5 Monde »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Naissance à Pau d'Henri de Bourbon, futur Henri IV. Élevé dans la religion réformée par sa mère Jeanne d'Albret, il devient roi de Navarre à dix-neuf ans, puis chef du parti protestant dans un royaume que les guerres de religion ont commencé à déchirer.</p>
 
@@ -6579,7 +6624,7 @@ tags: technology
 <p>Il va plus loin encore : dans sa nouvelle capitale de Fatehpur Sikri, il fait bâtir une salle de discussion où il convoque des théologiens musulmans sunnites et chiites, des brahmanes, des jaïns, des zoroastriens, et des jésuites venus de Goa, pour disputer devant lui. Il en tirera l'idée d'une paix universelle entre les religions, le <em>sulh-i kull</em>, et une doctrine de cour qui ne lui survivra pas.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/fatehpursikri.webp' | relative_url }}" alt="Le Diwan-i-Khas de Fatehpur Sikri" width="600" loading="lazy" decoding="async" height="348" />
+  <img src="{{ '/assets/img/fatehpursikri.webp' | relative_url }}" alt="Photographie du Diwan-i-Khas de Fatehpur Sikri : un pavillon carré de grès rouge coiffé de coupoles d'angle, au bout d'une esplanade plantée de gazon et de buis taillés" width="600" loading="lazy" decoding="async" height="348" />
   <br /><small><em>Le Diwan-i-Khas de Fatehpur Sikri, où Akbar faisait débattre théologiens musulmans, hindous, jaïns, zoroastriens et jésuites. Photo Clément Bardot, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6589,7 +6634,7 @@ tags: technology
 
 ## Rome
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=BRfF7W4El60" data-id="BRfF7W4El60" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/BRfF7W4El60/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=BRfF7W4El60" data-id="BRfF7W4El60" rel="noopener" aria-label="Lire la vidéo YouTube : Palestrina, Missa Papae Marcelli. The Tallis Scholars, Peter Phillips"><img src="https://i.ytimg.com/vi/BRfF7W4El60/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Palestrina, Missa Papae Marcelli. The Tallis Scholars, Peter Phillips »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le concile de Trente, réuni depuis dix-sept ans pour répondre à la Réforme, s'attaque à la musique. Le reproche est simple : à force d'entrelacer les voix, la polyphonie rend le texte sacré inaudible ; on n'entend plus que du son. Certains Pères veulent réduire la liturgie au chant grégorien.</p>
 
@@ -6600,7 +6645,7 @@ tags: technology
 # 1571 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lepante.webp' | relative_url }}" alt="Bataille de Lépante" loading="lazy" decoding="async" width="728" height="900" />
+  <img src="{{ '/assets/img/lepante.webp' | relative_url }}" alt="Photographie d'un tableau de la bataille de Lépante : en bas, des centaines de galères enchevêtrées dans la fumée des canons ; en haut, les saints protecteurs intercédant dans le ciel" loading="lazy" decoding="async" width="728" height="900" />
   <br /><small><em>Lépante, 1571 : plus de quatre cents galères engagées — la dernière grande bataille navale à la rame.</em></small>
 </p>
 
@@ -6612,7 +6657,7 @@ tags: technology
 
 # 1572 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XXxFTsYdLpQ" data-id="XXxFTsYdLpQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XXxFTsYdLpQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XXxFTsYdLpQ" data-id="XXxFTsYdLpQ" rel="noopener" aria-label="Lire la vidéo YouTube : &quot;La Reine Margot&quot; : la Saint-Barthélémy selon Dumas"><img src="https://i.ytimg.com/vi/XXxFTsYdLpQ/hqdefault.jpg" alt="Miniature de la vidéo YouTube « &quot;La Reine Margot&quot; : la Saint-Barthélémy selon Dumas »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Paris est plein de protestants : toute la noblesse huguenote est venue célébrer le mariage d'Henri de Navarre, leur chef, avec la sœur du roi — une union arrangée pour réconcilier le royaume après dix ans de guerre civile.</p>
 
@@ -6631,7 +6676,7 @@ tags: technology
 # 1577 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tychobrahe.webp' | relative_url }}" alt="Tycho Brahe" loading="lazy" decoding="async" width="730" height="900" />
+  <img src="{{ '/assets/img/tychobrahe.webp' | relative_url }}" alt="Portrait peint de Tycho Brahe : l'astronome en pourpoint noir et large fraise blanche, portant le collier de l'ordre de l'Éléphant, dans un cadre d'architecture peinte portant une inscription latine" loading="lazy" decoding="async" width="730" height="900" />
   <br /><small><em>Tycho Brahe : ses mesures à l'œil nu, les plus précises jamais faites, fourniront à Kepler la matière de ses lois.</em></small>
 </p>
 
@@ -6645,7 +6690,8 @@ tags: technology
 
 # 1588 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/chasseauxsabres.webp' | relative_url }}" alt="La chasse aux sabres" loading="lazy" decoding="async" width="1200" height="611" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/chasseauxsabres.webp' | relative_url }}" alt="La chasse aux sabres" loading="lazy" decoding="async" width="1200" height="611" />
+  <br /><small><em>Sabres japonais dans leurs fourreaux de laque rouge. Hideyoshi ordonne la « chasse aux sabres » : les paysans rendent leurs lames, et la frontière entre guerrier et cultivateur devient héréditaire.</em></small></p>
 
 <p>Deux États décident la même année ce qu'ils font des armes de leurs sujets, et prennent des routes opposées.</p>
 
@@ -6659,7 +6705,7 @@ tags: technology
 
 # 1589 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=MeIG80r4yqM" data-id="MeIG80r4yqM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/MeIG80r4yqM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=MeIG80r4yqM" data-id="MeIG80r4yqM" rel="noopener" aria-label="Lire la vidéo YouTube : CapriCCio Vocal Ensemble: Intermedi della Pellegrina, May, 26, 2023"><img src="https://i.ytimg.com/vi/MeIG80r4yqM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « CapriCCio Vocal Ensemble: Intermedi della Pellegrina, May, 26, 2023 »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Florence célèbre le mariage du grand-duc Ferdinand de Médicis avec Christine de Lorraine, et les Médicis entendent éblouir l'Europe entière. Le clou n'est pas la cérémonie mais le spectacle donné au théâtre des Uffizi : une comédie, <em>La Pellegrina</em>, entrecoupée de six intermèdes musicaux d'un luxe inouï — machineries, nuages descendants, chœurs, orchestre.</p>
 
@@ -6670,7 +6716,7 @@ tags: technology
 # 1591 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tombouctou.webp' | relative_url }}" alt="Tombouctou" loading="lazy" decoding="async" width="900" height="619" />
+  <img src="{{ '/assets/img/tombouctou.webp' | relative_url }}" alt="Photographie de la mosquée Djinguereber de Tombouctou : les murs de terre crue hérissés de poutres et le minaret pyramidal, devant lesquels passe une caravane d'ânes chargés" loading="lazy" decoding="async" width="900" height="619" />
   <br /><small><em>La mosquée Djinguereber de Tombouctou : au coude du Niger, une ville de manuscrits autant que de commerce.</em></small>
 </p>
 
@@ -6685,7 +6731,7 @@ tags: technology
 # 1598 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/editnantes.webp' | relative_url }}" alt="Édit de Nantes" loading="lazy" decoding="async" width="728" height="900" />
+  <img src="{{ '/assets/img/editnantes.webp' | relative_url }}" alt="Photographie de l'original manuscrit de l'édit de Nantes : un grand parchemin couvert d'une longue écriture cursive, au sceau pendant" loading="lazy" decoding="async" width="728" height="900" />
   <br /><small><em>L'édit de Nantes : la liberté de conscience accordée aux protestants, et des places fortes pour la garantir.</em></small>
 </p>
 
@@ -6697,7 +6743,8 @@ tags: technology
 
 # 1600 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/compagnieindes.webp' | relative_url }}" alt="Un East Indiaman" loading="lazy" decoding="async" width="944" height="698" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/compagnieindes.webp' | relative_url }}" alt="Un East Indiaman" loading="lazy" decoding="async" width="944" height="698" />
+  <br /><small><em>Un navire de la Compagnie des Indes par gros temps, peinture du XIXᵉ siècle. Rien n'annonce alors qu'une entreprise privée lèvera des armées et finira par administrer un sous-continent.</em></small></p>
 
 <p>Le dernier jour de l'année, Élisabeth Iʳᵉ accorde à un groupe de marchands londoniens le monopole du commerce à l'est du cap de Bonne-Espérance : la Compagnie anglaise des Indes orientales est née. Elle dispose de quelques navires et d'un capital modeste, et son ambition initiale est étroite — aller chercher le poivre là où il pousse plutôt que de l'acheter aux Portugais.</p>
 
@@ -6714,7 +6761,7 @@ tags: technology
 <p>Il faut donc un endroit pour cela. La Bourse d'Amsterdam ouvre la même année, et voit apparaître en quelques décennies tout ce que nous connaissons : la cotation continue, la spéculation à la hausse et à la baisse, la vente à découvert, les premières options — et les premières interdictions, aussitôt contournées, de ces pratiques.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/actionvoc.webp' | relative_url }}" alt="Action de la Compagnie néerlandaise des Indes orientales, 1606" width="600" loading="lazy" decoding="async" height="437" />
+  <img src="{{ '/assets/img/actionvoc.webp' | relative_url }}" alt="Photographie d'une action de la Compagnie néerlandaise des Indes orientales datée de 1606 : deux feuillets manuscrits, l'un portant le texte du titre, l'autre la longue colonne des versements successifs de l'actionnaire" width="600" loading="lazy" decoding="async" height="437" />
   <br /><small><em>Une action de la VOC datée du 9 septembre 1606 : la plus ancienne action connue, et l'acte de naissance du capitalisme actionnarial. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6725,7 +6772,7 @@ tags: technology
 # 1603 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tokugawa.webp' | relative_url }}" alt="Tokugawa Ieyasu" loading="lazy" decoding="async" width="451" height="900" />
+  <img src="{{ '/assets/img/tokugawa.webp' | relative_url }}" alt="Portrait japonais de Tokugawa Ieyasu : le shōgun assis en costume de cour noir, sabre à la ceinture, sur une estrade encadrée de rideaux armoriés, devant un paysage de montagnes" loading="lazy" decoding="async" width="451" height="900" />
   <br /><small><em>Tokugawa Ieyasu : le régime qu'il installe à Edo gouvernera le Japon pendant deux cent soixante-cinq ans.</em></small>
 </p>
 
@@ -6745,7 +6792,7 @@ tags: technology
 
 ## Italie
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jUep3sqe35o" data-id="jUep3sqe35o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/jUep3sqe35o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jUep3sqe35o" data-id="jUep3sqe35o" rel="noopener" aria-label="Lire la vidéo YouTube : Claudio Monteverdi - L`Orfeo"><img src="https://i.ytimg.com/vi/jUep3sqe35o/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Claudio Monteverdi - L`Orfeo »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>À Mantoue, petite cour du nord de l'Italie où les Gonzague veulent rivaliser d'éclat avec Florence, on donne <em>L'Orfeo</em> de Claudio Monteverdi. Ce n'est pas le premier ouvrage du genre, mais c'est le premier qui tient debout — et le premier qu'on joue encore.</p>
 
@@ -6755,7 +6802,7 @@ tags: technology
 
 # 1609 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=hvw1dFM_zqs" data-id="hvw1dFM_zqs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/hvw1dFM_zqs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=hvw1dFM_zqs" data-id="hvw1dFM_zqs" rel="noopener" aria-label="Lire la vidéo YouTube : Galilée, l'un des pères de l'astronomie moderne"><img src="https://i.ytimg.com/vi/hvw1dFM_zqs/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Galilée, l'un des pères de l'astronomie moderne »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Un professeur de mathématiques de Padoue entend parler d'un jouet hollandais qui fait paraître les objets plus proches. En quelques mois, Galilée en construit une version bien meilleure, la vend à la République de Venise pour ses usages militaires — et la pointe vers le ciel, ce que personne n'avait pris la peine de faire sérieusement.</p>
 
@@ -6764,7 +6811,7 @@ tags: technology
 <p>La Lune est couverte de montagnes et de cratères. Elle projette des ombres, et la longueur de ces ombres permet d'en mesurer le relief. Or les cieux étaient réputés parfaits, faits d'une matière incorruptible sans rapport avec la nôtre : voilà un astre qui ressemble à un caillou.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/galileelune.webp' | relative_url }}" alt="Gravure de la Lune, Sidereus Nuncius de Galilée" width="400" loading="lazy" decoding="async" height="672" />
+  <img src="{{ '/assets/img/galileelune.webp' | relative_url }}" alt="Gravure de la Lune dans le Sidereus Nuncius de Galilée : le disque lunaire dessiné avec le relief de ses montagnes et de ses cratères le long du terminateur, au-dessus du texte latin d'observation" width="400" loading="lazy" decoding="async" height="672" />
   <br /><small><em>La Lune telle que Galilée la dessine dans le <em>Sidereus Nuncius</em> : un relief de montagnes et de cratères, non une sphère lisse. Wellcome Collection, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6790,7 +6837,7 @@ tags: technology
 
 <p>La France entre dans une régence, et le pays qu'il laisse est pacifié mais pas réconcilié : les places fortes protestantes tiennent toujours, et Richelieu les réduira par les armes.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=0FXECUmqBxQ" data-id="0FXECUmqBxQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/0FXECUmqBxQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=0FXECUmqBxQ" data-id="0FXECUmqBxQ" rel="noopener" aria-label="Lire la vidéo YouTube : Monteverdi - Vespro della Beata Vergine - Gardiner"><img src="https://i.ytimg.com/vi/0FXECUmqBxQ/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Monteverdi - Vespro della Beata Vergine - Gardiner »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La même année, Monteverdi publie ses <em>Vêpres de la Bienheureuse Vierge</em>. L'ouvrage est une démonstration : il y fait tenir ensemble tout ce que la musique sait faire à cette date — la polyphonie savante héritée de Palestrina et la voix soliste expressive de l'opéra, le plain-chant ancien et les instruments modernes, l'archaïsme et l'invention.</p>
 
@@ -6798,7 +6845,8 @@ tags: technology
 
 # 1618 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/defenestration.webp' | relative_url }}" alt="La défenestration de Prague" loading="lazy" decoding="async" width="1200" height="892" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/defenestration.webp' | relative_url }}" alt="La défenestration de Prague" loading="lazy" decoding="async" width="1200" height="892" />
+  <br /><small><em>La défenestration de Prague, gravure d'époque. Les deux gouverneurs survivent à la chute — sur un tas de fumier, disent les protestants ; portés par des anges, disent les catholiques.</em></small></p>
 
 <p>Le 23 mai, à Prague, des nobles protestants jettent deux gouverneurs catholiques par une fenêtre du château. Les hommes survivent — ils tombent, selon le camp qu'on écoute, sur un tas de fumier ou dans les bras de la Vierge. C'est le début de la guerre de Trente Ans.</p>
 
@@ -6812,7 +6860,8 @@ tags: technology
 
 # 1620 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/novumorganum.webp' | relative_url }}" alt="Le Novum Organum" loading="lazy" decoding="async" width="1200" height="1954" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/novumorganum.webp' | relative_url }}" alt="Le Novum Organum" loading="lazy" decoding="async" width="1200" height="1954" />
+  <br /><small><em>Frontispice du <em>Novum Organum</em> de Bacon : un navire franchit les colonnes d'Hercule, avec la devise « beaucoup passeront, et la science s'accroîtra ».</em></small></p>
 
 <p>Francis Bacon publie le <em>Novum Organum</em>, le « nouvel instrument » — le titre annonce le programme : remplacer l'<em>Organon</em> d'Aristote, qui régentait le raisonnement depuis deux mille ans.</p>
 
@@ -6827,7 +6876,7 @@ tags: technology
 <p>Un médecin anglais publie à Francfort un petit livre de soixante-douze pages, mal imprimé sur mauvais papier : <em>De motu cordis</em>. William Harvey y démontre que le sang circule en boucle fermée dans le corps, propulsé par le cœur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/harvey.webp' | relative_url }}" alt="William Harvey" width="420" loading="lazy" decoding="async" height="495" />
+  <img src="{{ '/assets/img/harvey.webp' | relative_url }}" alt="Portrait peint de William Harvey dans un médaillon ovale : un homme barbu à large collerette de dentelle, vêtu de noir, avec son nom inscrit à droite" width="420" loading="lazy" decoding="async" height="495" />
   <br /><small><em>William Harvey : soixante-douze pages mal imprimées pour démontrer que le sang circule en boucle fermée. After Daniël Mijtens, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6842,7 +6891,7 @@ tags: technology
 <p>Galilée comparaît devant l'Inquisition à Rome. Il a soixante-neuf ans.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/galilee.webp' | relative_url }}" alt="Galilée devant l'Inquisition" width="420" loading="lazy" decoding="async" height="534" />
+  <img src="{{ '/assets/img/galilee.webp' | relative_url }}" alt="Portrait peint de Galilée âgé : un homme à la barbe blanche, vêtu de noir, tenant entre ses doigts l'oculaire d'une lunette" width="420" loading="lazy" decoding="async" height="534" />
   <br /><small><em>Galilée devant l'Inquisition : à soixante-neuf ans, il abjure — et l'affaire deviendra le symbole d'un conflit qu'elle n'était pas tout à fait. Justus Sustermans, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6859,7 +6908,7 @@ tags: technology
 <p>À Haarlem, le 3 février, une vente de bulbes de tulipes ne trouve pas preneur. En quelques jours, les prix s'effondrent d'un bout à l'autre des Provinces-Unies.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/semperaugustus.webp' | relative_url }}" alt="La tulipe Semper Augustus" width="360" loading="lazy" decoding="async" height="557" />
+  <img src="{{ '/assets/img/semperaugustus.webp' | relative_url }}" alt="Planche botanique du Semper Augustus : une tulipe dressée aux pétales blancs veinés de flammes rouges, dessinée sur fond clair avec ses feuilles engainantes" width="360" loading="lazy" decoding="async" height="557" />
   <br /><small><em>Le <em>Semper Augustus</em>, la variété la plus chère de la tulipomanie : ses flammes sont dues à un virus. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6873,7 +6922,8 @@ tags: technology
 
 # 1639 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/dejima.webp' | relative_url }}" alt="Dejima à Nagasaki" loading="lazy" decoding="async" width="1200" height="802" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/dejima.webp' | relative_url }}" alt="Dejima à Nagasaki" loading="lazy" decoding="async" width="1200" height="802" />
+  <br /><small><em>Le site de Dejima à Nagasaki aujourd'hui. Sur cet îlot artificiel, les Néerlandais furent pendant deux siècles la seule fenêtre du Japon fermé sur le monde extérieur.</em></small></p>
 
 <p>Le shogunat expulse les derniers Portugais et ferme le Japon. Aucun étranger ne peut entrer, aucun Japonais ne peut sortir sous peine de mort, aucun grand navire de haute mer ne peut plus être construit. Le christianisme, implanté depuis un siècle et fort de centaines de milliers de fidèles, est éradiqué par la persécution après la révolte de Shimabara.</p>
 
@@ -6885,7 +6935,8 @@ tags: technology
 
 # 1644 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lizicheng.webp' | relative_url }}" alt="L’empereur Chongzhen, dernier des Ming" loading="lazy" decoding="async" width="1170" height="1150" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lizicheng.webp' | relative_url }}" alt="L’empereur Chongzhen, dernier des Ming" loading="lazy" decoding="async" width="1170" height="1150" />
+  <br /><small><em>Sceau et calligraphie chinois. Les Ming s'effondrent sous le froid, la peste et la crise monétaire ; le dernier empereur se pend derrière son palais après avoir tué les femmes de sa famille.</em></small></p>
 
 <p>Une armée de paysans révoltés entre dans Pékin. Le dernier empereur Ming, abandonné de tous, se pend à un arbre de la colline derrière son palais après avoir tué les femmes de sa famille. La dynastie qui gouvernait la Chine depuis 1368 s'achève là.</p>
 
@@ -6900,7 +6951,7 @@ tags: technology
 <p>Après cinq ans de négociations menées dans deux villes de Westphalie — les catholiques dans l'une, les protestants dans l'autre, les diplomates faisant la navette pour ne pas avoir à se rencontrer —, on signe la paix. La guerre de Trente Ans est finie, et avec elle un siècle et demi de guerres de religion européennes.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/westphalie.webp' | relative_url }}" alt="La paix de Westphalie" width="600" loading="lazy" decoding="async" height="254" />
+  <img src="{{ '/assets/img/westphalie.webp' | relative_url }}" alt="Peinture de la célébration de la paix de Westphalie : les officiers de la garde civique attablés dans un banquet, verres et cornes à boire levés, drapeau déployé au fond" width="600" loading="lazy" decoding="async" height="254" />
   <br /><small><em>La paix de Westphalie : cinq ans de négociations, catholiques et protestants logés dans deux villes différentes pour ne pas se croiser. Bartholomeus van der Helst / Jan Vos, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6915,7 +6966,7 @@ tags: technology
 <p>Le 30 janvier, devant sa propre salle de banquet à Whitehall, on décapite le roi d'Angleterre. Charles Iᵉʳ meurt en public, après un procès public, condamné par un tribunal qui s'est arrogé le droit de juger un souverain.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/charles1er.webp' | relative_url }}" alt="L'exécution de Charles Iᵉʳ" width="420" loading="lazy" decoding="async" height="532" />
+  <img src="{{ '/assets/img/charles1er.webp' | relative_url }}" alt="Portrait peint de Charles Iᵉʳ d'Angleterre : le roi en armure damasquinée, l'écharpe rouge en travers de la poitrine, tenant le bâton de commandement" width="420" loading="lazy" decoding="async" height="532" />
   <br /><small><em>L'exécution de Charles Iᵉʳ : un roi jugé et décapité en public, par un tribunal qui s'est arrogé le droit de le juger. Workshop of Anthony van Dyck, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6927,7 +6978,8 @@ tags: technology
 
 # 1660 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/greshamcollege.webp' | relative_url }}" alt="Gresham College" loading="lazy" decoding="async" width="1200" height="1780" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/greshamcollege.webp' | relative_url }}" alt="Gresham College" loading="lazy" decoding="async" width="1200" height="1780" />
+  <br /><small><em>Gresham Street, dans la City de Londres. C'est après une conférence d'astronomie au Gresham College que douze gentilshommes décident de fonder un collège pour le savoir expérimental.</em></small></p>
 
 <p>Douze gentilshommes réunis à Londres après une conférence d'astronomie décident de fonder un collège pour la promotion du savoir expérimental. Ce sera la Royal Society, et elle se donne une devise qui vaut programme : <em>nullius in verba</em> — « sur la parole de personne ».</p>
 
@@ -6941,7 +6993,8 @@ tags: technology
 
 # 1661 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/kangxi.webp' | relative_url }}" alt="L'empereur Kangxi" loading="lazy" decoding="async" width="700" height="1089" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/kangxi.webp' | relative_url }}" alt="L'empereur Kangxi" loading="lazy" decoding="async" width="700" height="1089" />
+  <br /><small><em>L'empereur Kangxi à son bureau, pinceau en main. Soixante et un ans de règne, levé avant l'aube pour lire les rapports : l'exact contraire de Louis XIV se faisant peindre en Apollon.</em></small></p>
 
 <p>Deux enfants-rois entrent en scène la même année, aux deux bouts du continent eurasiatique, et régneront chacun plus d'un demi-siècle. Ce sont les deux plus longs règnes de souverains majeurs de toute l'histoire, et ils sont exactement contemporains.</p>
 
@@ -6956,7 +7009,7 @@ tags: technology
 <p>À Londres, une douzaine d'hommes qui se réunissaient depuis vingt ans pour faire des expériences obtiennent une charte royale. La Royal Society est née, et elle se donne une devise qui est une déclaration de guerre : <em>Nullius in verba</em> — sur la parole de personne.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/royalsociety.webp' | relative_url }}" alt="La Royal Society et sa devise" width="600" loading="lazy" decoding="async" height="568" />
+  <img src="{{ '/assets/img/royalsociety.webp' | relative_url }}" alt="Armoiries de la Royal Society : un écu aux trois lions d'Angleterre tenu par deux lévriers, surmonté d'un aigle en cimier, au-dessus d'un listel portant la devise « Nullius in verba »" width="600" loading="lazy" decoding="async" height="568" />
   <br /><small><em>La Royal Society et sa devise : nullius in verba — ne croire personne sur parole. Photo MostEpic, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6971,7 +7024,7 @@ tags: technology
 <p>Dans la nuit du 2 septembre, un feu part d'une boulangerie de Pudding Lane. Londres est une ville de bois et de poix, l'été a été sec, le vent souffle d'est : en quatre jours, le feu détruit les cinq sixièmes de la cité intra-muros — treize mille maisons, quatre-vingt-sept églises, la vieille cathédrale Saint-Paul. Une poignée de morts recensés, et peut-être cent mille sans-abri.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/incendielondres.webp' | relative_url }}" alt="Le grand incendie de 1666" width="600" loading="lazy" decoding="async" height="349" />
+  <img src="{{ '/assets/img/incendielondres.webp' | relative_url }}" alt="Peinture du grand incendie de Londres de 1666 : la ville en flammes sur toute la rive de la Tamise, la fumée noire envahissant le ciel nocturne, des barques chargées de fuyards au premier plan" width="600" loading="lazy" decoding="async" height="349" />
   <br /><small><em>Le grand incendie de 1666 : en quatre jours, les cinq sixièmes de la cité intra-muros disparaissent. Unknown artistUnknown artist, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6986,7 +7039,7 @@ tags: technology
 <p>À Delft, un drapier sans latin ni université, qui polit ses lentilles lui-même pour compter les fils des étoffes, regarde une goutte d'eau prise dans un lac voisin. Elle grouille. Antoni van Leeuwenhoek y voit des créatures qui nagent, tournent et se poursuivent — ses « animalcules ». Il en estime la taille : mille fois plus petites qu'un œil de pou.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/leeuwenhoek.webp' | relative_url }}" alt="Réplique d'un microscope de Leeuwenhoek" width="330" loading="lazy" decoding="async" height="549" />
+  <img src="{{ '/assets/img/leeuwenhoek.webp' | relative_url }}" alt="Photographie de la réplique d'un microscope de Leeuwenhoek : une petite plaque de laiton percée d'une lentille unique, montée sur une vis de réglage qui porte l'échantillon" width="330" loading="lazy" decoding="async" height="549" />
   <br /><small><em>Réplique d'un microscope de Leeuwenhoek : une lentille unique, à peine plus grande qu'une tête d'épingle, grossissant jusqu'à 270 fois. Photo Jeroen Rouwkema, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6996,7 +7049,7 @@ tags: technology
 
 # 1675 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ilWgr42sdjE" data-id="ilWgr42sdjE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ilWgr42sdjE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ilWgr42sdjE" data-id="ilWgr42sdjE" rel="noopener" aria-label="Lire la vidéo YouTube : Spinoza, le philosophe qui bouleversa notre conception de Dieu"><img src="https://i.ytimg.com/vi/ilWgr42sdjE/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Spinoza, le philosophe qui bouleversa notre conception de Dieu »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Baruch Spinoza écrit son œuvre "Éthique". Bien qu'il l'achève en 1675, l'ouvrage ne sera publié qu'après sa mort en 1677, du fait de ses idées considérées comme controversées. Spinoza avance l'idée que Dieu et la Nature (ou l'univers) sont la même chose, ce qui s'oppose à la conception traditionnelle d'un Dieu transcendant. Cette idée est souvent qualifiée de panthéiste.</p>
 
@@ -7005,7 +7058,7 @@ tags: technology
 <p>Louis XIV installe définitivement la cour et le gouvernement à Versailles. Ce n'est pas un caprice de bâtisseur : c'est un dispositif politique, et il faut le lire comme tel.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/versailles.webp' | relative_url }}" alt="La galerie des Glaces, château de Versailles" width="600" loading="lazy" decoding="async" height="399" />
+  <img src="{{ '/assets/img/versailles.webp' | relative_url }}" alt="Photographie de la galerie des Glaces de Versailles : la longue enfilade de miroirs et de fenêtres, les lustres de cristal, les torchères dorées et la voûte peinte, traversée par la lumière rasante" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>La galerie des Glaces : le décor d'un dispositif politique où l'absence coûte plus cher que la présence. Photo Myrabella, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7020,7 +7073,7 @@ tags: technology
 <p>Le 12 septembre, sur les hauteurs du Kahlenberg qui dominent Vienne, la plus grande charge de cavalerie de l'histoire dévale la pente : environ dix-huit mille cavaliers, hussards ailés polonais en tête, conduits par le roi Jean III Sobieski. En contrebas, l'armée ottomane assiège la ville depuis deux mois et ses sapeurs sont sur le point d'ouvrir la brèche décisive.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/vienne1683.webp' | relative_url }}" alt="Vienne, 1683" width="600" loading="lazy" decoding="async" height="255" />
+  <img src="{{ '/assets/img/vienne1683.webp' | relative_url }}" alt="Peinture de la bataille de Vienne en 1683 : la charge de la cavalerie polonaise dévalant la colline vers le camp ottoman, dans la poussière et la fumée" width="600" loading="lazy" decoding="async" height="255" />
   <br /><small><em>Vienne, 1683 : dix-huit mille cavaliers dévalent le Kahlenberg — la plus grande charge de cavalerie de l'histoire. Józef Brandt, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7032,7 +7085,8 @@ tags: technology
 
 # 1685 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/codenoir.webp' | relative_url }}" alt="Le Code Noir" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/codenoir.webp' | relative_url }}" alt="Le Code Noir" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Un exemplaire imprimé du Code Noir. Le texte règle par écrit le rapport entre maître et esclave dans les colonies françaises — et donne ainsi à l'esclavage la forme d'un droit.</em></small></p>
 
 <p>Louis XIV promulgue le Code Noir, préparé par l'administration de Colbert (mort deux ans plus tôt) et achevé par son fils Seignelay, réglementant le rapport entre maître et esclave dans les colonies. A l'origine, il a pour but de réaffirmer l'autorité royale face aux colons afin de limiter les exactions sur les esclaves dans un but précis: favoriser la production pour engranger un maximum de bénéfices. Ce Code Noir autorise de fouetter des esclaves avec des cordes et non des batons pour ne pas leur casser les os. Le propriétaire peut les mutiler en cas de fuite. On peut couper une oreille et marquer une épaule au fer rouge. En cas de récidive, on coupe une jambe et on marque l'autre épaule de la même manière. Enfin en cas d'une troisième tentative de fuite, le maître a le droit d'ôter la vie de son esclave.</p>
 
@@ -7045,7 +7099,7 @@ tags: technology
 <p>Isaac Newton publie les <em>Principia</em>. Le livre répond à une question qu'Edmond Halley était venu lui poser trois ans plus tôt : quelle courbe décrit une planète attirée par une force qui décroît comme le carré de la distance ? Newton répond aussitôt qu'il s'agit d'une ellipse — il l'a calculé, dit-il, et égaré ses papiers. Halley le pousse à refaire la démonstration, puis paiera l'impression de sa poche.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/principia.webp' | relative_url }}" alt="Les Principia de Newton" width="420" loading="lazy" decoding="async" height="582" />
+  <img src="{{ '/assets/img/principia.webp' | relative_url }}" alt="Photographie de la page de titre des Principia de Newton : « Philosophiae naturalis principia mathematica », avec le nom de l'auteur, l'imprimatur de Samuel Pepys et l'adresse londonienne de 1687" width="420" loading="lazy" decoding="async" height="582" />
   <br /><small><em>Les Principia de Newton : une même loi pour la pomme et pour la Lune. The original uploader was Zhaladshar at English Wikisource., domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7057,7 +7111,8 @@ tags: technology
 
 # 1688 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/glorieuserevolution.webp' | relative_url }}" alt="La Glorieuse Révolution" loading="lazy" decoding="async" width="1200" height="904" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/glorieuserevolution.webp' | relative_url }}" alt="La Glorieuse Révolution" loading="lazy" decoding="async" width="1200" height="904" />
+  <br /><small><em>« Le débarquement du prince d'Orange à Torbay », par Turner. Guillaume ne reçoit la couronne qu'en acceptant une Déclaration des droits : la monarchie passe sous la loi.</em></small></p>
 
 <p>Le Parlement anglais, redoutant un roi catholique et son héritier nouveau-né, invite un prince étranger à venir prendre le trône. Guillaume d'Orange débarque avec une armée ; Jacques II, abandonné de tous, s'enfuit en France. Presque aucun sang versé, d'où le nom qui restera : la Glorieuse Révolution.</p>
 
@@ -7069,7 +7124,8 @@ tags: technology
 
 # 1689 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/financesanglaises.webp' | relative_url }}" alt="La Banque d'Angleterre" loading="lazy" decoding="async" width="1200" height="697" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/financesanglaises.webp' | relative_url }}" alt="La Banque d'Angleterre" loading="lazy" decoding="async" width="1200" height="697" />
+  <br /><small><em>La Banque d'Angleterre, gravure de 1797. Un roi qui ne peut plus répudier ses dettes devient un emprunteur sûr — et un État qui emprunte à bas taux arme des flottes qu'aucun rival n'égale.</em></small></p>
 
 <p>Le nouveau régime réorganise ses finances de fond en comble : on allège les taxes qui pesaient sur les manufactures, on les remplace par un impôt foncier assis sur la terre — c'est-à-dire sur les propriétaires eux-mêmes, ceux-là mêmes qui siègent au Parlement et qui l'ont voté —, et l'on crée cinq ans plus tard la Banque d'Angleterre pour gérer la dette publique.</p>
 
@@ -7077,7 +7133,8 @@ tags: technology
 
 # 1690 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/saintdomingue.webp' | relative_url }}" alt="Moulin à sucre colonial" loading="lazy" decoding="async" width="750" height="444" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/saintdomingue.webp' | relative_url }}" alt="Moulin à sucre colonial" loading="lazy" decoding="async" width="750" height="444" />
+  <br /><small><em>Une habitation sucrière coloniale, gravure du XVIIIᵉ siècle. Trente mille esclaves et trois mille tonnes de sucre en 1690 ; un siècle plus tard, ce sera seize fois plus, sur la même île.</em></small></p>
 
 <p>Saint-Domingue compte trente mille esclaves et produit trois mille tonnes de sucre. Occupée de fait par les Français depuis des décennies — l'Espagne ne leur cédera officiellement la partie occidentale de l'île qu'en 1697 —, la colonie n'est encore qu'une périphérie de flibustiers en cours de reconversion agricole.</p>
 
@@ -7087,7 +7144,8 @@ tags: technology
 
 # 1707 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/aurangzeb.webp' | relative_url }}" alt="Aurangzeb" loading="lazy" decoding="async" width="1040" height="1920" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/aurangzeb.webp' | relative_url }}" alt="Aurangzeb" loading="lazy" decoding="async" width="1040" height="1920" />
+  <br /><small><em>Aurangzeb, miniature moghole. Il défait une à une les décisions d'Akbar — rétablit l'impôt sur les non-musulmans, écarte les hindous des charges — et lègue un empire qui s'effondrera en cinquante ans.</em></small></p>
 
 <p>Aurangzeb meurt à quatre-vingt-huit ans, après quarante-neuf ans de règne, dans un camp militaire du Deccan où il guerroyait depuis un quart de siècle. L'Empire moghol est à son extension maximale : il couvre presque tout le sous-continent, compte peut-être cent cinquante millions de sujets et produit, à lui seul, près du quart de la richesse mondiale.</p>
 
@@ -7102,7 +7160,7 @@ tags: technology
 <p>Dans une mine de charbon du Staffordshire, un quincaillier baptiste nommé Thomas Newcomen installe une machine qui va changer la face du monde, et il n'en tirera presque rien.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/newcomen.webp' | relative_url }}" alt="Schéma de la machine atmosphérique de Newcomen" width="520" loading="lazy" decoding="async" height="487" />
+  <img src="{{ '/assets/img/newcomen.webp' | relative_url }}" alt="Gravure schématique de la machine atmosphérique de Newcomen : la chaudière sous le cylindre, le balancier articulé au sommet, la pompe et la conduite d'eau froide qui condense la vapeur pour faire descendre le piston, chaque organe repéré par une lettre" width="520" loading="lazy" decoding="async" height="487" />
   <br /><small><em>La machine atmosphérique de Newcomen : la vapeur remplit le cylindre, l'eau froide la condense, et le vide tire le piston. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7117,7 +7175,7 @@ tags: technology
 <p>Le <em>Grand-Saint-Antoine</em>, revenu du Levant avec une cargaison de soie et d'étoffes, mouille devant Marseille. Des marins sont morts pendant la traversée. Le protocole existe pourtant, et il est rigoureux — Venise l'a inventé quatre siècles plus tôt : quarante jours d'isolement sur une île, d'où le mot quarantaine. Mais la cargaison est attendue pour la foire de Beaucaire, des notables qui y ont investi pressent les autorités, et l'on abrège.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pestemarseille.webp' | relative_url }}" alt="La peste de Marseille en 1720" width="600" loading="lazy" decoding="async" height="391" />
+  <img src="{{ '/assets/img/pestemarseille.webp' | relative_url }}" alt="Peinture de la peste de Marseille en 1720 : des cadavres entassés sur le pavé d'une place bordée de hautes façades, quelques survivants et chevaux au milieu des corps" width="600" loading="lazy" decoding="async" height="391" />
   <br /><small><em>La peste de Marseille en 1720 : la dernière grande épidémie de peste en Europe occidentale, entrée par un navire dont on avait levé la quarantaine. Michel Serre, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7127,7 +7185,7 @@ tags: technology
 
 # 1721 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=HTm2kEAfo8o" data-id="HTm2kEAfo8o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/HTm2kEAfo8o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=HTm2kEAfo8o" data-id="HTm2kEAfo8o" rel="noopener" aria-label="Lire la vidéo YouTube : Bach - Brandenburg Concertos (complete)"><img src="https://i.ytimg.com/vi/HTm2kEAfo8o/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Bach - Brandenburg Concertos (complete) »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Bach offre Les Concertos Brandebourgeois au margrave de Brandebourg, d’où leur nom. Ce sont six concertos pour orchestre, chacun avec une instrumentation différente (clavecin soliste, violon, flûte, cors, trompettes, etc.). Bach traite chaque concerto comme une expérience unique, explorant toutes les couleurs possibles d’un orchestre baroque. C’est presque une démonstration de ce que pouvait faire la musique instrumentale de son temps. Jusqu’alors, le concerto était surtout italien (Vivaldi). Bach reprend la forme et la pousse à son extrême, en créant une variété inégalée. C’est l’équivalent d’un “album complet” de musique instrumentale baroque.</p>
 
@@ -7136,13 +7194,13 @@ tags: technology
 <p>Bach s’installe à Leipzig comme cantor de l’église Saint-Thomas (poste qu’il occupera jusqu’à sa mort). Là, il compose chaque semaine de nouvelles cantates pour la liturgie, mais aussi ses grandes œuvres sacrées : Passion selon saint Matthieu, Messe en si mineur, etc. Il a l'obligation de produire une grande quantité de musique religieuse chaque semaine.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bach.webp' | relative_url }}" alt="Jean-Sébastien Bach" width="420" loading="lazy" decoding="async" height="545" />
+  <img src="{{ '/assets/img/bach.webp' | relative_url }}" alt="Portrait peint de Jean-Sébastien Bach par Haussmann : le compositeur en perruque et habit sombre, tenant à la main une feuille de musique manuscrite" width="420" loading="lazy" decoding="async" height="545" />
   <br /><small><em>Jean-Sébastien Bach : cantor à Leipzig, il composait une cantate nouvelle presque chaque semaine. Elias Gottlob Haussmann, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1725 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GRxofEmo3HA" data-id="GRxofEmo3HA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/GRxofEmo3HA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GRxofEmo3HA" data-id="GRxofEmo3HA" rel="noopener" aria-label="Lire la vidéo YouTube : Four Seasons ~ Vivaldi"><img src="https://i.ytimg.com/vi/GRxofEmo3HA/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Four Seasons ~ Vivaldi »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Publication des 4 saisons de Vivaldi. Ce recueil est publié avec une dédicace à un noble italien (le comte Wenzel von Morzin), ce qui renforce sa diffusion dans les cercles aristocratiques européens.</p>
 
@@ -7151,7 +7209,7 @@ tags: technology
 <p>Carl von Linné publie le <em>Systema Naturae</em>, et donne au vivant la grammaire qu'on lui applique encore. Chaque espèce reçoit deux mots latins — le genre puis l'espèce — et prend place dans un emboîtement de rangs : règne, classe, ordre, genre, espèce. Le système est si commode qu'il survivra à la révolution darwinienne, qui lui donnera après coup une justification que Linné n'imaginait pas : si les êtres se rangent en arbre, c'est qu'ils descendent les uns des autres.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/linne.webp' | relative_url }}" alt="Carl von Linné" width="420" loading="lazy" decoding="async" height="507" />
+  <img src="{{ '/assets/img/linne.webp' | relative_url }}" alt="Portrait peint de Carl von Linné : un homme en perruque poudrée et habit brun à gros boutons, avec sa signature en haut à droite" width="420" loading="lazy" decoding="async" height="507" />
   <br /><small><em>Carl von Linné : deux mots latins par espèce, et un emboîtement de rangs — la grammaire qu'on applique encore au vivant. Alexander Roslin, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7161,7 +7219,8 @@ tags: technology
 
 # 1739 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/nadershah.webp' | relative_url }}" alt="Nader Shah" loading="lazy" decoding="async" width="1200" height="1928" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/nadershah.webp' | relative_url }}" alt="Nader Shah" loading="lazy" decoding="async" width="1200" height="1928" />
+  <br /><small><em>Nader Shah, portrait persan. Il entre dans Delhi et repart avec le trésor de huit générations de Grands Moghols : le diamant Koh-i-Noor et le trône du Paon compris.</em></small></p>
 
 <p>Un aventurier persan, Nader Shah, franchit l'Indus, écrase l'armée moghole en trois heures à Karnal et entre dans Delhi. Une rumeur de sa mort déclenche une émeute où des soldats perses sont tués ; il ordonne le massacre de la ville. En une journée, des dizaines de milliers d'habitants sont égorgés.</p>
 
@@ -7173,7 +7232,8 @@ tags: technology
 
 # 1744 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/diriyah.webp' | relative_url }}" alt="Dariya, berceau des Saoud" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/diriyah.webp' | relative_url }}" alt="Dariya, berceau des Saoud" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Diriyah, berceau de la famille Saoud, mise en lumière aujourd'hui. C'est ici que l'alliance de 1744 entre un prédicateur et un chef de clan fonde un pouvoir qui dure encore.</em></small></p>
 
 <p>Mohammed ben Abdelwahhab s'allie avec Mohammed Ibn Saoud pour donner une légitimité religieuse à la famille Al Saoud sur les autres tribus arabes. Sa doctrine religieuse, appelée wahhabisme, met l'accent sur la pureté de l'islam et la nécessité de retourner aux pratiques et croyances originales de l'islam, telles qu'elles sont décrites dans le Coran et la tradition prophétique (sunna). Il prône également l'obéissance absolue aux commandements de Dieu et à la loi islamique (sharia), ainsi que l'importance de l'enseignement de l'islam et de la diffusion de la doctrine islamique à travers le monde.</p>
 
@@ -7181,7 +7241,8 @@ tags: technology
 
 # 1750 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/tombeaubach.webp' | relative_url }}" alt="La tombe de Bach à Saint-Thomas de Leipzig" loading="lazy" decoding="async" width="881" height="608" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/tombeaubach.webp' | relative_url }}" alt="La tombe de Bach à Saint-Thomas de Leipzig" loading="lazy" decoding="async" width="881" height="608" />
+  <br /><small><em>Plaque commémorative de la Thomaskirche de Leipzig. Bach y fut cantor vingt-sept ans ; sa musique tomba dans un demi-oubli après sa mort, avant que Mendelssohn ne la remette au jour.</em></small></p>
 
 <p>Mort de Bach à Leipzig. Sa musique tombe un peu dans l’oubli après sa mort, avant d’être redécouverte au XIXᵉ siècle, notamment grâce à Mendelssohn. Bach n’a jamais écrit d’opéra (contrairement à Händel ou Vivaldi). Son univers est davantage lié à l’orgue, à l’église et aux formes instrumentales savantes.</p>
 
@@ -7190,7 +7251,7 @@ tags: technology
 <p>Paraît le premier des vingt-huit volumes de l'<em>Encyclopédie</em>. Le projet a commencé comme la traduction d'un dictionnaire anglais ; Diderot et d'Alembert en font tout autre chose, et il leur faudra vingt ans, cent cinquante collaborateurs et deux interdictions royales pour l'achever.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/encyclopedie.webp' | relative_url }}" alt="Frontispice de l'Encyclopédie de Diderot et d'Alembert" width="420" loading="lazy" decoding="async" height="662" />
+  <img src="{{ '/assets/img/encyclopedie.webp' | relative_url }}" alt="Frontispice gravé de l'Encyclopédie de Diderot et d'Alembert : la Vérité rayonnante au sommet, dévoilée par la Raison et la Philosophie, entourée des figures allégoriques des arts et des sciences" width="420" loading="lazy" decoding="async" height="662" />
   <br /><small><em>Frontispice de l'<em>Encyclopédie</em>, gravé par Prévost d'après Cochin : la Vérité dévoilée par la Raison. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7207,7 +7268,7 @@ tags: technology
 <p>Le 1ᵉʳ novembre, jour de la Toussaint, alors que les églises de Lisbonne sont pleines, un séisme d'une magnitude estimée autour de 8,5 détruit la ville en dix minutes. Les cierges renversés allument un incendie qui brûle cinq jours ; les survivants qui se réfugient sur les quais sont emportés par un tsunami de plusieurs mètres. Entre trente et soixante mille morts dans l'une des plus riches capitales d'Europe.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/seismelisbonne.webp' | relative_url }}" alt="Gravure du tremblement de terre de Lisbonne, 1755" width="600" loading="lazy" decoding="async" height="357" />
+  <img src="{{ '/assets/img/seismelisbonne.webp' | relative_url }}" alt="Gravure du tremblement de terre de Lisbonne de 1755 : la ville effondrée et en flammes, les navires renversés par le raz-de-marée dans le port et les habitants fuyant au premier plan" width="600" loading="lazy" decoding="async" height="357" />
   <br /><small><em>Lisbonne le 1ᵉʳ novembre 1755 : le séisme, l'incendie et le raz-de-marée sur une gravure contemporaine. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7219,7 +7280,8 @@ tags: technology
 
 # 1756 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/septans.webp' | relative_url }}" alt="La guerre de Sept Ans" loading="lazy" decoding="async" width="1200" height="960" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/septans.webp' | relative_url }}" alt="La guerre de Sept Ans" loading="lazy" decoding="async" width="1200" height="960" />
+  <br /><small><em>Une charge de cavalerie au XVIIIᵉ siècle. La guerre de Sept Ans se joue en Amérique, aux Antilles, en Inde et aux Philippines autant qu'en Europe : c'est la première guerre véritablement mondiale.</em></small></p>
 
 <p>Un conflit colonial commencé deux ans plus tôt dans la vallée de l'Ohio embrase l'Europe, puis le monde. On se bat en Amérique du Nord, aux Antilles, en Inde, aux Philippines, en Afrique de l'Ouest et sur toutes les mers : c'est à bien des égards la première guerre mondiale, et Churchill l'appellera ainsi.</p>
 
@@ -7230,7 +7292,7 @@ tags: technology
 # 1757 ans
 
 <p style="text-align:center">
-  <img src="/assets/img/mine.webp" alt="La Compagnie des mines d'Anzin, fondée en 1757" width="400" loading="lazy" decoding="async" height="246" />
+  <img src="/assets/img/mine.webp" alt="Photographie ancienne de la fosse Saint-Louis de la Compagnie des mines d'Anzin : le chevalement du puits et sa cheminée dominant les bâtiments de brique" width="400" loading="lazy" decoding="async" height="246" />
   <br /><small><em>La Compagnie des mines d'Anzin, fondée en 1757 : la première grande société charbonnière du royaume, futur décor de Germinal.</em></small>
 </p>
 
@@ -7247,7 +7309,7 @@ tags: technology
 <p>Jean-Jacques Rousseau publie la même année deux livres qui seront tous deux condamnés et brûlés, à Paris comme à Genève, et dont l'un fournira son vocabulaire à la Révolution française.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/rousseau.webp' | relative_url }}" alt="Jean-Jacques Rousseau" width="420" loading="lazy" decoding="async" height="585" />
+  <img src="{{ '/assets/img/rousseau.webp' | relative_url }}" alt="Portrait peint de Jean-Jacques Rousseau : le philosophe de trois quarts, en habit brun et jabot blanc, les cheveux poudrés" width="420" loading="lazy" decoding="async" height="585" />
   <br /><small><em>Jean-Jacques Rousseau : deux livres publiés la même année, tous deux condamnés et brûlés à Paris comme à Genève. Maurice Quentin de La Tour, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7262,7 +7324,7 @@ tags: technology
 <p>Dans le Lancashire, un tisserand nommé James Hargreaves construit une machine qui fait tourner huit fuseaux à la fois au lieu d'un : la <em>spinning jenny</em>. En quelques années, on en fera tourner quatre-vingts.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/spinningjenny.webp' | relative_url }}" alt="Spinning jenny de Hargreaves" width="520" loading="lazy" decoding="async" height="437" />
+  <img src="{{ '/assets/img/spinningjenny.webp' | relative_url }}" alt="Photographie d'une spinning jenny : un châssis de bois portant une rangée de fuseaux garnis de fil, tous entraînés par une même roue à manivelle" width="520" loading="lazy" decoding="async" height="437" />
   <br /><small><em>Une spinning jenny : plusieurs fuseaux entraînés d'une seule roue, là où une fileuse n'en tenait qu'un. Photo Betty Longbottom, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7274,7 +7336,7 @@ tags: technology
 
 # 1769 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LaYSECG6yIo" data-id="LaYSECG6yIo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/LaYSECG6yIo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LaYSECG6yIo" data-id="LaYSECG6yIo" rel="noopener" aria-label="Lire la vidéo YouTube : Animation sur la machine de James Watt"><img src="https://i.ytimg.com/vi/LaYSECG6yIo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Animation sur la machine de James Watt »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction. Elles jouent un rôle important dans la révolution industrielle en fournissant une source d'énergie alternative aux moyens traditionnels tels que les chevaux et les eaux courantes.</p>
 
@@ -7285,7 +7347,7 @@ tags: technology
 <p>L'affaire est un fait divers ; elle devient une arme. Paul Revere en grave aussitôt une estampe montrant des soldats alignés qui tirent froidement sur des civils désarmés, sur ordre de leur officier. C'est faux, et l'image fera le tour des colonies. La propagande vient de naître en Amérique, et elle fonctionne.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bostonmassacre.webp' | relative_url }}" alt="L'estampe du massacre de Boston par Paul Revere" width="450" loading="lazy" decoding="async" height="525" />
+  <img src="{{ '/assets/img/bostonmassacre.webp' | relative_url }}" alt="Estampe de Paul Revere sur le massacre de Boston : une file de soldats britanniques faisant feu à bout portant sur des civils désarmés devant les bâtiments de la ville, avec un texte gravé sous l'image" width="450" loading="lazy" decoding="async" height="525" />
   <br /><small><em>L'estampe de Paul Revere : des soldats alignés tirant froidement sur des civils désarmés — une scène qui n'a pas eu lieu ainsi, et l'une des premières images de propagande de l'histoire moderne. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7296,7 +7358,7 @@ tags: technology
 <p>Le soir du 16 décembre, une cinquantaine d'hommes déguisés en Amérindiens montent à bord de trois navires dans le port de Boston et jettent à la mer trois cent quarante-deux caisses de thé appartenant à la Compagnie des Indes orientales.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bostonteaparty.webp' | relative_url }}" alt="La Boston Tea Party" width="600" loading="lazy" decoding="async" height="409" />
+  <img src="{{ '/assets/img/bostonteaparty.webp' | relative_url }}" alt="Lithographie de la Boston Tea Party : des hommes déguisés en Amérindiens éventrent les caisses de thé et les jettent par-dessus bord depuis les navires amarrés, sous les acclamations de la foule massée sur le quai" width="600" loading="lazy" decoding="async" height="409" />
   <br /><small><em>La Boston Tea Party : trois cent quarante-deux caisses de thé jetées au port par des hommes déguisés en Amérindiens. Copy of lithograph by Sarony & Major, 1846, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7306,7 +7368,8 @@ tags: technology
 
 # 1774 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/louisxvi.webp' | relative_url }}" alt="Louis XVI" loading="lazy" decoding="async" width="1200" height="1782" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/louisxvi.webp' | relative_url }}" alt="Louis XVI" loading="lazy" decoding="async" width="1200" height="1782" />
+  <br /><small><em>Louis XVI en habit de sacre, par Callet. Il hérite du royaume le plus peuplé d'Europe occidentale et d'un État dont les finances ne tiennent plus.</em></small></p>
 
 <p>Louis XVI monte sur le trône à dix-neuf ans, à la mort de son grand-père Louis XV. Il hérite du royaume le plus peuplé d'Europe occidentale et d'un État dont les finances ne se sont jamais redressées depuis la guerre de Sept Ans.</p>
 
@@ -7316,7 +7379,8 @@ tags: technology
 
 # 1775 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/thomaspaine.webp' | relative_url }}" alt="Thomas Paine" loading="lazy" decoding="async" width="1200" height="1562" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/thomaspaine.webp' | relative_url }}" alt="Thomas Paine" loading="lazy" decoding="async" width="1200" height="1562" />
+  <br /><small><em>Thomas Paine. Arrivé d'Angleterre à trente-huit ans, il réclame l'abolition immédiate de l'esclavage et pose l'objection qui embarrassera l'Amérique un siècle durant.</em></small></p>
 
 <p>Thomas Paine publie dans un journal de Philadelphie un texte réclamant l'abolition immédiate de l'esclavage dans les colonies. Il vient d'arriver d'Angleterre, il a trente-huit ans, et il n'a jusque-là rien réussi : corsetier, percepteur révoqué, boutiquier en faillite.</p>
 
@@ -7329,7 +7393,7 @@ tags: technology
 <p>Les colonies britanniques en Amérique du Nord décident de se séparer de l'Empire britannique et de devenir un pays indépendant. Cela est motivé par plusieurs facteurs, y compris le désir de liberté et d'autonomie des colonies, le mécontentement croissant envers le gouvernement britannique et la répression des colonies par les troupes britanniques.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/declarationindependance.webp' | relative_url }}" alt="La Déclaration d'indépendance" width="420" loading="lazy" decoding="async" height="498" />
+  <img src="{{ '/assets/img/declarationindependance.webp' | relative_url }}" alt="Photographie de la Déclaration d'indépendance des États-Unis : le parchemin manuscrit du 4 juillet 1776, avec son titre calligraphié et le bloc des signatures des délégués en bas" width="420" loading="lazy" decoding="async" height="498" />
   <br /><small><em>La Déclaration d'indépendance : « tous les hommes sont créés égaux » — écrit par des propriétaires d'esclaves. original: w:Second Continental Congress; reproduction: William Stone, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7341,7 +7405,8 @@ tags: technology
 
 # 1778 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/saratoga.webp' | relative_url }}" alt="La bataille de Saratoga" loading="lazy" decoding="async" width="1200" height="662" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/saratoga.webp' | relative_url }}" alt="La bataille de Saratoga" loading="lazy" decoding="async" width="1200" height="662" />
+  <br /><small><em>La reddition du général Burgoyne à Saratoga, gravure. C'est cette victoire américaine qui décide la France à entrer en guerre — au prix d'une dette qui la mènera à 1789.</em></small></p>
 
 <p>La France signe avec les insurgés américains un traité d'alliance et entre en guerre contre l'Angleterre. La décision est prise après Saratoga, la victoire américaine de l'automne précédent, qui a prouvé à Versailles que ces colons pouvaient l'emporter.</p>
 
@@ -7351,7 +7416,8 @@ tags: technology
 
 # 1780 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/antilles.webp' | relative_url }}" alt="Plantation aux Antilles" loading="lazy" decoding="async" width="976" height="802" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/antilles.webp' | relative_url }}" alt="Plantation aux Antilles" loading="lazy" decoding="async" width="976" height="802" />
+  <br /><small><em>La coupe de la canne, gravure du XIXᵉ siècle. Interdire la mutilation des esclaves aux Antilles ne change rien à ce travail : c'est le régime lui-même qui produit la violence.</em></small></p>
 
 <p>Les actes de mutilation contre les esclaves sont interdits aux Antilles. Dans ces colonies, les esclaves sont souvent soumis à des actes de violence et de mutilation pour les punir de diverses infractions. Par exemple, ils peuvent être marqués au fer rouge, mutilés ou tués pour s'être rebellés ou pour avoir tenté de s'échapper.</p>
 
@@ -7360,13 +7426,14 @@ tags: technology
 <p>James Watt brevette sa machine à vapeur rotative — après le condenseur séparé de 1769, c'est elle qui permet enfin d'entraîner des machines tournantes, et non plus seulement de pomper. Le but est de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/watt.webp' | relative_url }}" alt="James Watt" width="420" loading="lazy" decoding="async" height="526" />
+  <img src="{{ '/assets/img/watt.webp' | relative_url }}" alt="Portrait peint de James Watt : l'ingénieur assis, la main au menton, devant une table où sont posés des plans et un modèle de machine" width="420" loading="lazy" decoding="async" height="526" />
   <br /><small><em>James Watt : le condenseur séparé puis le mouvement rotatif — la vapeur cesse de pomper pour entraîner des machines. Carl Frederik von Breda, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1783 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/traitedeparis1783.webp' | relative_url }}" alt="Le traité de Paris" loading="lazy" decoding="async" width="1200" height="932" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/traitedeparis1783.webp' | relative_url }}" alt="Le traité de Paris" loading="lazy" decoding="async" width="1200" height="932" />
+  <br /><small><em>« Les commissaires américains », toile inachevée de Benjamin West : les négociateurs britanniques ayant refusé de poser, la moitié droite est restée blanche.</em></small></p>
 
 <p>Les États-Unis sont finalement reconnus comme un pays indépendant par le Royaume-Uni avec la signature du Traité de Paris.</p>
 
@@ -7377,7 +7444,7 @@ tags: technology
 <p>Emmanuel Kant publie un petit texte de moins d'une dizaine de pages: Qu'est-ce que les Lumières. C'est peut-être le moment dans lequel un mouvement philosophique a clairement été explicité. Ce mouvement se diffuse dans toute l'Europe occidentale (France, Allemagne, Angleterre, et par ricochet Etats-Unis). La symbolique principale des Lumières est probablement ce qu'on appelle "connaissance". Le projet est peut-être au fond de pouvoir diffuser la connaissance. Pourquoi la "connaissance" est si importante à cette époque ? Probablement parce que la grande partie de l'influence sur les esprits est exercée par la religion (christianisme en occident). Cette influence religieuse a un pouvoir énorme sur la culture et l'instruction à cette époque.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/kant.webp' | relative_url }}" alt="Emmanuel Kant" width="420" loading="lazy" decoding="async" height="548" />
+  <img src="{{ '/assets/img/kant.webp' | relative_url }}" alt="Portrait peint d'Emmanuel Kant : le philosophe en habit vert à gros boutons, tenant une feuille, sur fond sombre" width="420" loading="lazy" decoding="async" height="548" />
   <br /><small><em>Emmanuel Kant : « Sapere aude » — ose te servir de ton propre entendement. Dix pages qui définissent les Lumières. Johann Gottlieb Becker, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7387,7 +7454,8 @@ tags: technology
 
 # 1786 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/calonne.webp' | relative_url }}" alt="Charles Alexandre de Calonne" loading="lazy" decoding="async" width="1200" height="1435" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/calonne.webp' | relative_url }}" alt="Charles Alexandre de Calonne" loading="lazy" decoding="async" width="1200" height="1435" />
+  <br /><small><em>Calonne, par Élisabeth Vigée Le Brun. Il remet au roi un mémoire qu'aucun ministre n'avait osé écrire : l'État est en faillite, et il faut un impôt payé aussi par les nobles et le clergé.</em></small></p>
 
 <p>Le contrôleur général des finances Charles Alexandre de Calonne remet au roi un mémoire qu'aucun ministre n'avait osé écrire : l'État est en faillite. Le déficit atteint le quart des recettes, le service de la dette en absorbe près de la moitié, et il n'est plus possible d'emprunter — les guerres du siècle, dont l'intervention en Amérique, ont toutes été financées à crédit sans jamais créer l'impôt correspondant.</p>
 
@@ -7397,7 +7465,8 @@ tags: technology
 
 # 1788 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/symington.webp' | relative_url }}" alt="Le Charlotte Dundas" loading="lazy" decoding="async" width="1200" height="888" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/symington.webp' | relative_url }}" alt="Le Charlotte Dundas" loading="lazy" decoding="async" width="1200" height="888" />
+  <br /><small><em>Maquette d'un bateau à vapeur à roue à aubes. Symington fait naviguer un prototype sur un loch d'Écosse, puis construira le premier remorqueur à vapeur pratique.</em></small></p>
 
 <p>William Symington fait naviguer sur le loch Dalswinton, en Écosse, un bateau à vapeur expérimental. Il construira quinze ans plus tard le « Charlotte Dundas », premier remorqueur à vapeur réellement opérationnel.</p>
 
@@ -7412,7 +7481,7 @@ tags: technology
 <p>L'été emballe tout. Dans les campagnes, la Grande Peur soulève les paysans contre les châteaux. Dans la nuit du 4 août, les députés abolissent d'un coup les privilèges, les droits féodaux, les dîmes, les corporations — mille ans d'organisation sociale effacés en quelques heures. Le 26 août, ils votent la Déclaration des droits de l'homme et du citoyen : les hommes naissent libres et égaux en droits, la loi est l'expression de la volonté générale, nul ne doit être inquiété pour ses opinions.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ddhc.webp' | relative_url }}" alt="La Déclaration des droits de l'homme et du citoyen, 1789" width="430" loading="lazy" decoding="async" height="524" />
+  <img src="{{ '/assets/img/ddhc.webp' | relative_url }}" alt="Photographie du tableau de Le Barbier représentant la Déclaration des droits de l'homme et du citoyen : les dix-sept articles gravés sur deux tables encadrées de chaînes brisées, surmontées de la France et d'un génie ailé sous l'œil de la Raison" width="430" loading="lazy" decoding="async" height="524" />
   <br /><small><em>La Déclaration des droits de l'homme et du citoyen, peinte par Le Barbier : des principes énoncés comme valables partout et pour tout le monde. CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7422,7 +7491,8 @@ tags: technology
 
 # 1790 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/canneasucre.webp' | relative_url }}" alt="Récolte de la canne à sucre" loading="lazy" decoding="async" width="1200" height="653" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/canneasucre.webp' | relative_url }}" alt="Récolte de la canne à sucre" loading="lazy" decoding="async" width="1200" height="653" />
+  <br /><small><em>Une sucrerie coloniale, gravure du XIXᵉ siècle. Cinq cent mille esclaves et cent mille tonnes de sucre : Saint-Domingue est alors la colonie la plus rentable du monde.</em></small></p>
 
 <p>A Saint-Domingue 500 000 esclaves produisent 100 000 tonnes de sucre. Les esclaves sont principalement originaires d'Afrique subsaharienne et sont utilisés pour travailler dans les plantations de canne à sucre, de café, de coton et de tabac.</p>
 
@@ -7433,7 +7503,7 @@ tags: technology
 <p>Toussaint Louverture inflige une série de revers aux colons français. Il réussit notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions de Saint-Domingue — l'île ne prendra le nom d'Haïti qu'à son indépendance, en 1804 — et réussit à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/louverture.webp' | relative_url }}" alt="Toussaint Louverture" width="224" loading="lazy" decoding="async" height="398" />
+  <img src="{{ '/assets/img/louverture.webp' | relative_url }}" alt="Gravure représentant Toussaint Louverture : le général en uniforme, bicorne à plumet, écharpe blanche et sabre au côté, la main appuyée sur une canne" width="224" loading="lazy" decoding="async" height="398" />
   <br /><small><em>Toussaint Louverture : ancien esclave devenu général, il tiendra en échec les armées française, espagnole et britannique. Pierre-Charles Baquoy, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7442,7 +7512,7 @@ tags: technology
 <p>La Révolution bascule en trois mois d'été, et le déclencheur vient de l'extérieur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/valmy.webp' | relative_url }}" alt="Valmy" width="600" loading="lazy" decoding="async" height="366" />
+  <img src="{{ '/assets/img/valmy.webp' | relative_url }}" alt="Peinture de la bataille de Valmy : les lignes d'infanterie déployées dans la plaine sous la fumée de la canonnade, le moulin sur sa butte à gauche et des blessés au premier plan" width="600" loading="lazy" decoding="async" height="366" />
   <br /><small><em>Valmy : une canonnade plutôt qu'une bataille, mais l'armée des volontaires ne recule pas — la République est proclamée le lendemain. Horace Vernet, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7456,7 +7526,7 @@ tags: technology
 
 # 1793 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=FKnSmFTB4Cg" data-id="FKnSmFTB4Cg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/FKnSmFTB4Cg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=FKnSmFTB4Cg" data-id="FKnSmFTB4Cg" rel="noopener" aria-label="Lire la vidéo YouTube : &quot;Génocide vendéen&quot; : histoire d'un concept polémique"><img src="https://i.ytimg.com/vi/FKnSmFTB4Cg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « &quot;Génocide vendéen&quot; : histoire d'un concept polémique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le 21 janvier, Louis XVI est guillotiné place de la Révolution, condamné par la Convention à une voix de majorité sur l'application de la peine. L'Europe des rois se coalise ; la République décrète la levée de trois cent mille hommes.</p>
 
@@ -7477,7 +7547,7 @@ tags: technology
 <p>Le 27 juillet, Robespierre est mis en accusation, arrêté et guillotiné le lendemain sans jugement, avec une vingtaine de ses proches. Thermidor met fin à la Terreur ; la Révolution entre dans sa phase de reflux, qui se terminera cinq ans plus tard par un général.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/robespierre.webp' | relative_url }}" alt="Robespierre" width="420" loading="lazy" decoding="async" height="519" />
+  <img src="{{ '/assets/img/robespierre.webp' | relative_url }}" alt="Portrait peint de Robespierre : un homme au visage poudré, en habit rayé et large cravate blanche, sur fond neutre" width="420" loading="lazy" decoding="async" height="519" />
   <br /><small><em>Robespierre : arrêté le 9 thermidor, guillotiné le lendemain sans jugement — la Terreur s'achève avec celui qui l'incarnait. Photo Unidentified painter, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7485,9 +7555,9 @@ tags: technology
 
 # 1796 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cOSKe7JTavo" data-id="cOSKe7JTavo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/cOSKe7JTavo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cOSKe7JTavo" data-id="cOSKe7JTavo" rel="noopener" aria-label="Lire la vidéo YouTube : Edward Jenner, inventeur du vaccin"><img src="https://i.ytimg.com/vi/cOSKe7JTavo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Edward Jenner, inventeur du vaccin »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=h63CYPjgwK0" data-id="h63CYPjgwK0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/h63CYPjgwK0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=h63CYPjgwK0" data-id="h63CYPjgwK0" rel="noopener" aria-label="Lire la vidéo YouTube : Vaccins : comment juger leur impact ? | Data Science | ARTE"><img src="https://i.ytimg.com/vi/h63CYPjgwK0/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Vaccins : comment juger leur impact ? | Data Science | ARTE »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le premier vaccin contre la variole est inventé par Edward Jenner. Le vaccin de Jenner est basé sur l'observation que les personnes ayant été exposées à la variole bovine (une maladie similaire à la variole humaine mais moins grave) sont moins susceptibles de développer la variole humaine. Le vaccin de Jenner est le premier vaccin de l'histoire et joue un rôle crucial dans la lutte contre la variole et la réduction de sa mortalité.</p>
 
@@ -7497,7 +7567,8 @@ tags: technology
 
 # 1798 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/recensement.webp' | relative_url }}" alt="Un recensement" loading="lazy" decoding="async" width="1200" height="881" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/recensement.webp' | relative_url }}" alt="Un recensement" loading="lazy" decoding="async" width="1200" height="881" />
+  <br /><small><em>Feuille de recensement par ménage. Compter la population devient un instrument d'État : on demande l'âge, le métier, la maison — et l'on découvre qu'on peut gouverner par les chiffres.</em></small></p>
 
 <p>Le gouvernement britannique commence à élaborer des plans pour évaluer et renforcer les capacités de défense nationales. L'idée d'utiliser des questionnaires de masse pour évaluer la volonté des hommes à combattre en cas d'invasion est envisagée. Les questionnaires sont distribués à travers la Grande-Bretagne. Tous les hommes éligibles sont interrogés sur leur volonté et leur capacité à prendre les armes contre une potentielle invasion française.</p>
 
@@ -7506,7 +7577,7 @@ tags: technology
 <p>Le 9 novembre — 18 brumaire an VIII —, un général de trente ans rentré d'Égypte sans son armée renverse le Directoire avec la complicité de deux directeurs et de son frère, président du Conseil des Cinq-Cents. Le coup est mal mené : Bonaparte bafouille devant les députés, se fait bousculer, et c'est son frère qui sauve l'opération en lançant les grenadiers dans la salle.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/brumaire.webp' | relative_url }}" alt="Le 18 brumaire" width="420" loading="lazy" decoding="async" height="447" />
+  <img src="{{ '/assets/img/brumaire.webp' | relative_url }}" alt="Peinture du 18 brumaire : Bonaparte, entouré de grenadiers, fait irruption dans la salle du Conseil des Cinq-Cents où les députés en toge rouge se dressent en criant" width="420" loading="lazy" decoding="async" height="447" />
   <br /><small><em>Le 18 brumaire : un général de trente ans rentré d'Égypte sans son armée renverse le Directoire. François Bouchot, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7516,7 +7587,8 @@ tags: technology
 
 # 1800 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/populationmondiale.webp' | relative_url }}" alt="La croissance de la population mondiale" loading="lazy" decoding="async" width="1200" height="855" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/populationmondiale.webp' | relative_url }}" alt="La croissance de la population mondiale" loading="lazy" decoding="async" width="1200" height="855" />
+  <br /><small><em>Courbe de la population mondiale de 1700 à 2100. Le milliard est atteint vers 1800 ; ce qui bascule alors n'est pas la fécondité mais la mortalité — et presque tout ce qui suit en découle.</em></small></p>
 
 <p>La population humaine atteint le milliard d'individus. Il aura fallu à l'espèce deux cent mille ans pour y parvenir ; il lui faudra environ cent vingt ans pour le deuxième milliard, trente-trois pour le troisième, quatorze pour le quatrième.</p>
 
@@ -7526,7 +7598,7 @@ tags: technology
 
 # 1802 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jY9ug_p-B8g" data-id="jY9ug_p-B8g" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/jY9ug_p-B8g/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jY9ug_p-B8g" data-id="jY9ug_p-B8g" rel="noopener" aria-label="Lire la vidéo YouTube : Bicentenaire de la mort de Napoléon : l'empereur qui a rétabli l'esclavage dans les colonies"><img src="https://i.ytimg.com/vi/jY9ug_p-B8g/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Bicentenaire de la mort de Napoléon : l'empereur qui a rétabli l'esclavage dans les colonies »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La Martinique redevient française, l'année où Napoléon rétablit l'esclavage. Il le rétablit également dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.</p>
 
@@ -7535,7 +7607,7 @@ tags: technology
 <p>Fulton lance le "Clermont", le premier bateau à vapeur commercial réussi. Le "Clermont" navigue le long de la rivière Hudson, reliant New York à Albany.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/fulton.webp' | relative_url }}" alt="Robert Fulton" width="369" loading="lazy" decoding="async" height="446" />
+  <img src="{{ '/assets/img/fulton.webp' | relative_url }}" alt="Portrait peint de Robert Fulton : un homme aux cheveux bouclés, en habit noir et haute cravate blanche, sur fond sombre" width="369" loading="lazy" decoding="async" height="446" />
   <br /><small><em>Robert Fulton : son bateau à vapeur remonte l'Hudson de New York à Albany — la première ligne commerciale rentable. Circle of Thomas Sully, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7545,7 +7617,8 @@ tags: technology
 
 # 1808 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/abolitiontraite.webp' | relative_url }}" alt="L'abolition de la traite" loading="lazy" decoding="async" width="1200" height="743" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/abolitiontraite.webp' | relative_url }}" alt="L'abolition de la traite" loading="lazy" decoding="async" width="1200" height="743" />
+  <br /><small><em>L'<em>Histoire de l'abolition de la traite africaine</em> de Thomas Clarkson. Interdire le commerce des captifs n'est pas abolir l'esclavage : il faudra encore vingt-cinq ans à l'Empire britannique.</em></small></p>
 
 <p>L'interdiction de la traite entre en application dans tout l'Empire britannique. L'esclavage lui-même, en revanche, n'y sera aboli qu'en 1833 : interdire le commerce des captifs et libérer ceux qui sont déjà réduits en servitude sont deux décisions distinctes, séparées d'un quart de siècle.</p>
 
@@ -7556,7 +7629,7 @@ tags: technology
 <p>Francisco de Goya, en protestant contre la guerre d'indépendance espagnole, fustige la barbarie produite par tous conflits. Une de ses œuvres les plus célèbres qui dénonce la guerre est la série de gravures intitulée "Les Désastres de la Guerre", qui représente les horreurs de la guerre d'Indépendance espagnole et les souffrances infligées aux civils. Dans ces gravures, Goya utilise un style expressif et dramatique pour montrer les effets dévastateurs de la guerre sur les individus et sur la société.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/goya.webp' | relative_url }}" alt="Tres de Mayo de Goya" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/goya.webp' | relative_url }}" alt="Photographie du « Trois Mai 1808 » de Goya : face au peloton d'exécution, un insurgé en chemise blanche écarte les bras devant la lanterne, ses compagnons se cachant le visage au-dessus des corps déjà tombés" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em><em>Le Trois Mai 1808</em> de Goya : l'exécution des insurgés madrilènes. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7565,7 +7638,7 @@ tags: technology
 <p>Échappé de l'île d'Elbe, Napoléon reprend le pouvoir sans tirer un coup de feu : les régiments envoyés pour l'arrêter passent dans son camp. Ce sont les Cent-Jours. L'Europe coalisée refuse de traiter et lève des armées.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/waterloo.webp' | relative_url }}" alt="Waterloo" width="600" loading="lazy" decoding="async" height="397" />
+  <img src="{{ '/assets/img/waterloo.webp' | relative_url }}" alt="Peinture de la bataille de Waterloo : Wellington à cheval au centre du champ de bataille, entouré de son état-major, au milieu des lignes d'infanterie, des blessés et de la fumée" width="600" loading="lazy" decoding="async" height="397" />
   <br /><small><em>Waterloo : la fin des Cent-Jours, et de vingt-trois ans de guerres nées de la Révolution. Jan Willem Pieneman, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7575,13 +7648,14 @@ tags: technology
 
 # 1820 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2jHtTpLGn-4" data-id="2jHtTpLGn-4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/2jHtTpLGn-4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2jHtTpLGn-4" data-id="2jHtTpLGn-4" rel="noopener" aria-label="Lire la vidéo YouTube : Beethoven: Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo – Adagio..."><img src="https://i.ytimg.com/vi/2jHtTpLGn-4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Beethoven: Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo – Adagio... »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Trois dernières sonates pour piano de Beethoven, les Opus 109, 110 et 111, souvent considérées comme le sommet de son œuvre pianistique. Ces trois sonates ont été composées, alors que Beethoven avait environ 50 à 52 ans, presque totalement sourd. Elles marquent la dernière période créatrice du compositeur, dite période tardive, où son style devient à la fois introspectif, spirituel et expérimental. Son univers musical se détache des conventions classiques pour explorer de nouvelles formes, une liberté rythmique et harmonique.</p>
 
 # 1821 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mortnapoleon.webp' | relative_url }}" alt="Napoléon à Sainte-Hélène" loading="lazy" decoding="async" width="731" height="658" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mortnapoleon.webp' | relative_url }}" alt="Napoléon à Sainte-Hélène" loading="lazy" decoding="async" width="731" height="658" />
+  <br /><small><em>Napoléon dictant à ses officiers. Il meurt sur un rocher de l'Atlantique sud, vingt-trois ans de guerres presque continues derrière lui.</em></small></p>
 
 <p>Mort de Napoléon.</p>
 
@@ -7592,7 +7666,7 @@ tags: technology
 <p>Réunis à Épidaure, les insurgés grecs proclament l'indépendance et se donnent une constitution. Ils ne contrôlent qu'une partie du Péloponnèse et des îles, et la guerre durera encore sept ans.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/scio.webp' | relative_url }}" alt="Les massacres de Scio, par Delacroix" width="420" loading="lazy" decoding="async" height="499" />
+  <img src="{{ '/assets/img/scio.webp' | relative_url }}" alt="Photographie des « Scènes des massacres de Scio » de Delacroix : un groupe de captifs grecs, blessés et résignés, au premier plan d'un paysage d'île incendiée, avec un cavalier ottoman traînant une femme derrière lui" width="420" loading="lazy" decoding="async" height="499" />
   <br /><small><em>Les massacres de Scio, par Delacroix : le tableau qui rallia l'opinion européenne à la cause grecque. Eugène Delacroix, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7602,7 +7676,7 @@ tags: technology
 
 # 1825 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4r9cIp9vwCY" data-id="4r9cIp9vwCY" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/4r9cIp9vwCY/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4r9cIp9vwCY" data-id="4r9cIp9vwCY" rel="noopener" aria-label="Lire la vidéo YouTube : Quand les esclaves haïtiens étaient contraints de payer une dette à la France"><img src="https://i.ytimg.com/vi/4r9cIp9vwCY/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Quand les esclaves haïtiens étaient contraints de payer une dette à la France »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>A Haïti, le président Boyer signe un accord avec la France qui permet à Haïti de devenir officiellement reconnu comme une nation indépendante par la France. Toutefois, cet accord impose à Haïti de payer une indemnité de 150 millions de francs-or à la France en échange de cette reconnaissance. Cette somme considérable est perçue comme une forme de chantage économique par Haïti, qui doit emprunter de l'argent auprès de banques françaises pour la payer. Cette dette est un fardeau pour le pays pendant de nombreuses décennies et entrave son développement économique.</p>
 
@@ -7617,13 +7691,14 @@ tags: technology
 <p>Niépce mourra sans voir ce que son procédé deviendrait. Son associé Daguerre ramènera la pose à quelques minutes, et en dix ans l'Europe entière se fera tirer le portrait.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/viewfromwindow.webp" alt="Point de vue du Gras, par Niépce" width="400" loading="lazy" decoding="async" height="278" />
+  <img src="/assets/img/viewfromwindow.webp" alt="Photographie du « Point de vue du Gras » de Nicéphore Niépce : une image en noir et blanc très contrastée montrant les toits et les murs des bâtiments vus depuis une fenêtre, éclairés des deux côtés par un soleil qui a tourné pendant les heures de pose" width="400" loading="lazy" decoding="async" height="278" />
   <br /><small><em>Point de vue du Gras, par Niépce : la première photographie conservée, obtenue après des heures de pose.</em></small>
 </p>
 
 # 1827 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/navarin.webp' | relative_url }}" alt="La bataille de Navarin" loading="lazy" decoding="async" width="1200" height="759" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/navarin.webp' | relative_url }}" alt="La bataille de Navarin" loading="lazy" decoding="async" width="1200" height="759" />
+  <br /><small><em>La bataille de Navarin. Les flottes britannique, française et russe détruisent la flotte ottomano-égyptienne — l'aboutissement d'un mouvement d'opinion, le philhellénisme.</em></small></p>
 
 <p>En France, on adopte une loi interdisant la traite négrière et prévoyant des peines sévères pour les personnes qui s'y adonnent.</p>
 
@@ -7638,7 +7713,7 @@ tags: technology
 <p>La ligne ferroviaire Liverpool-Manchester est inaugurée en Angleterre. Première ligne ferroviaire moderne assurant un service régulier de voyageurs et de marchandises à l'aide de locomotives à vapeur, elle démontre la viabilité économique du transport ferroviaire. Son succès accélère le développement des chemins de fer au Royaume-Uni puis dans le reste du monde, transformant durablement les transports, le commerce et l'industrialisation au XIXe siècle.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/rocket.webp' | relative_url }}" alt="La locomotive Rocket de Stephenson" width="520" loading="lazy" decoding="async" height="363" />
+  <img src="{{ '/assets/img/rocket.webp' | relative_url }}" alt="Gravure de la locomotive Rocket de Stephenson : la machine à cheminée haute, suivie du tender chargé d'un tonneau d'eau, avec deux hommes debout à bord" width="520" loading="lazy" decoding="async" height="363" />
   <br /><small><em>La <em>Rocket</em> de Stephenson, qui remporta le concours ouvrant la ligne Liverpool-Manchester. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7647,7 +7722,7 @@ tags: technology
 <p>Invention de la moissonneuse mécanique (le « reaper ») par Cyrus McCormick, un inventeur américain. Cette invention révolutionnaire transforme le processus de récolte des cultures céréalières telles que le blé, l'orge et l'avoine.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/mccormick.webp' | relative_url }}" alt="La moissonneuse de McCormick" width="420" loading="lazy" decoding="async" height="533" />
+  <img src="{{ '/assets/img/mccormick.webp' | relative_url }}" alt="Portrait gravé de Cyrus McCormick : un homme âgé à la longue barbe blanche, en habit noir, dans un médaillon ovale" width="420" loading="lazy" decoding="async" height="533" />
   <br /><small><em>La moissonneuse de McCormick : un homme et un cheval font le travail de plusieurs équipes de faucheurs. George Smillie[2], domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7655,7 +7730,8 @@ tags: technology
 
 # 1832 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cholera.webp' | relative_url }}" alt="L'épidémie de choléra" loading="lazy" decoding="async" width="1200" height="793" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cholera.webp' | relative_url }}" alt="L'épidémie de choléra" loading="lazy" decoding="async" width="1200" height="793" />
+  <br /><small><em>« Un conseil de santé londonien à la chasse au choléra », caricature. On cherche la maladie dans les odeurs et les tas d'ordures : l'eau ne sera mise en cause que vingt ans plus tard.</em></small></p>
 
 <p>Épidémie de choléra : environ 100 000 morts en France, dont quelque 18 000 à 20 000 à Paris — la ville perd près de 3 % de sa population en quelques mois.</p>
 
@@ -7663,7 +7739,8 @@ tags: technology
 
 # 1835 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/montecharge.webp' | relative_url }}" alt="Treuil à vapeur de mine" loading="lazy" decoding="async" width="1200" height="869" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/montecharge.webp' | relative_url }}" alt="Treuil à vapeur de mine" loading="lazy" decoding="async" width="1200" height="869" />
+  <br /><small><em>Treuil de mine à moteur. Le principe est rudimentaire — un tambour, un câble — mais il lève une contrainte ancienne ; reste le verrou de la sécurité, qui interdit encore d'y monter des hommes.</em></small></p>
 
 <p>Les premiers monte-charges à vapeur équipent les mines et les usines britanniques. Le principe est rudimentaire — un tambour, un câble, une machine — mais il lève une contrainte qui limitait les bâtiments depuis toujours : au-delà de cinq ou six étages, personne ne monte, et rien de lourd ne monte non plus.</p>
 
@@ -7675,7 +7752,7 @@ tags: technology
 
 <p>Samuel Morse fait passer un courant dans un fil et le transforme en une suite de points et de traits. L'idée n'est pas d'envoyer une lettre : c'est d'envoyer instantanément ce qu'une lettre aurait mis des jours à porter.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7e522NK7gcM" data-id="7e522NK7gcM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/7e522NK7gcM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7e522NK7gcM" data-id="7e522NK7gcM" rel="noopener" aria-label="Lire la vidéo YouTube : Telegraphs and Telephones - How They Work"><img src="https://i.ytimg.com/vi/7e522NK7gcM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Telegraphs and Telephones - How They Work »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Son génie tient au code plus qu'à la machine. Morse et son associé Alfred Vail comptent les caractères dans la casse d'un imprimeur pour savoir lesquels reviennent le plus souvent, et attribuent aux plus fréquents les signaux les plus courts : un point pour le E, un trait pour le T. C'est exactement le principe qu'on redécouvrira un siècle plus tard en théorie de l'information, et qui gouverne aujourd'hui la compression de tout ce qui circule sur Internet.</p>
 
@@ -7687,7 +7764,7 @@ tags: technology
 
 # 1839 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=amQ3OLsf1Hc" data-id="amQ3OLsf1Hc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/amQ3OLsf1Hc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=amQ3OLsf1Hc" data-id="amQ3OLsf1Hc" rel="noopener" aria-label="Lire la vidéo YouTube : Mémoires - La guerre de l’opium enfume les relations"><img src="https://i.ytimg.com/vi/amQ3OLsf1Hc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Mémoires - La guerre de l’opium enfume les relations »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>En Chine, tout l'opium est détruit puis jeté à la mer. La destruction de l'opium est effectuée de manière spectaculaire, avec l'utilisation de navires et de bateaux pour jeter les réserves d'opium à la mer ou les brûler publiquement. Cette action est menée en présence de témoins et de journalistes étrangers, afin de montrer au monde la détermination de la Chine à mettre fin au trafic d'opium.</p>
 
@@ -7700,7 +7777,7 @@ tags: technology
 <p>Le développement de l'industrie ferroviaire nourrit encore plus la demande en charbon. L'industrie ferrovière a en effet besoin de charbon comme source d'énergie pour alimenter ses locomotives à vapeur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/locomotive.webp' | relative_url }}" alt="La locomotive à vapeur" width="600" loading="lazy" decoding="async" height="389" />
+  <img src="{{ '/assets/img/locomotive.webp' | relative_url }}" alt="Photographie d'une locomotive à vapeur : une grosse machine noire à haute cheminée, arrêtée sous un château d'eau, un panache de fumée s'échappant du foyer" width="600" loading="lazy" decoding="async" height="389" />
   <br /><small><em>La locomotive à vapeur : elle consomme le charbon qu'elle sert à transporter, et fait exploser la demande des deux côtés. Photo User:Malcolm Best, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7708,7 +7785,7 @@ tags: technology
 
 # 1841 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ybUbu-7l0Fc" data-id="ybUbu-7l0Fc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ybUbu-7l0Fc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ybUbu-7l0Fc" data-id="ybUbu-7l0Fc" rel="noopener" aria-label="Lire la vidéo YouTube : Le thé, l'opium et les origines de la domination britannique à Hong Kong"><img src="https://i.ytimg.com/vi/ybUbu-7l0Fc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Le thé, l'opium et les origines de la domination britannique à Hong Kong »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Un détachement britannique débarque sur une île rocheuse et peu peuplée de l'estuaire de la rivière des Perles, et y plante son drapeau. La cession sera officialisée l'année suivante par le traité de Nankin, qui clôt la première guerre de l'opium : la Chine cède Hong Kong « à perpétuité », ouvre cinq ports au commerce étranger et paie une lourde indemnité.</p>
 
@@ -7721,7 +7798,7 @@ tags: technology
 <p>Le traité de Nankin, signé en août, met fin à la première guerre de l'opium. Il n'interdit pas l'opium : il n'en parle même pas. La Chine cède Hong Kong, ouvre cinq ports, verse une indemnité qui couvre notamment la valeur de la drogue détruite en 1839 — et le trafic reprend aussitôt, plus important qu'avant, désormais couvert par des consuls et des canonnières.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/guerreopium.webp' | relative_url }}" alt="La première guerre de l'opium" width="600" loading="lazy" decoding="async" height="393" />
+  <img src="{{ '/assets/img/guerreopium.webp' | relative_url }}" alt="Peinture d'une bataille navale de la première guerre de l'opium : un vapeur cuirassé britannique canonne des jonques chinoises dont l'une explose, au milieu des embarcations et des naufragés" width="600" loading="lazy" decoding="async" height="393" />
   <br /><small><em>La première guerre de l'opium : des vapeurs cuirassés contre des jonques — la Chine cède Hong Kong et ouvre cinq ports. Edward Duncan, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7731,7 +7808,7 @@ tags: technology
 
 # 1844 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=o53cy136jTs" data-id="o53cy136jTs" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/o53cy136jTs/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=o53cy136jTs" data-id="o53cy136jTs" rel="noopener" aria-label="Lire la vidéo YouTube : Comment Alexandre Dumas a écrit &quot;Les Trois Mousquetaires&quot;"><img src="https://i.ytimg.com/vi/o53cy136jTs/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment Alexandre Dumas a écrit &quot;Les Trois Mousquetaires&quot; »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Alexandre Dumas, un écrivain et dramaturge français prolifique, publie deux de ses œuvres les plus célèbres : "Les Trois Mousquetaires" et "Le Comte de Monte-Cristo". Ces deux romans sont publiés sous forme de feuilletons dans des journaux français, ce qui était courant à l'époque.</p>
 
@@ -7750,7 +7827,7 @@ tags: technology
 <p>Le plus révoltant est ailleurs. Pendant les années de famine, l'Irlande continue d'exporter du blé, de l'orge et du bétail vers l'Angleterre — sous escorte armée par endroits, pour protéger les convois de ceux qui mouraient de faim en les regardant passer. Il y avait de la nourriture ; elle appartenait à d'autres. Londres s'en remet au marché, juge les secours démoralisants, et n'intervient qu'à contrecœur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/famineirlande.webp' | relative_url }}" alt="Gravure de la Grande Famine irlandaise, 1847" width="600" loading="lazy" decoding="async" height="283" />
+  <img src="{{ '/assets/img/famineirlande.webp' | relative_url }}" alt="Gravure de l'Illustrated London News de 1847 : un cortège funèbre pendant la Grande Famine irlandaise, un cercueil chargé sur une charrette et des villageois faméliques dans un paysage désolé" width="600" loading="lazy" decoding="async" height="283" />
   <br /><small><em>« Funérailles à Skibbereen », <em>Illustrated London News</em>, 1847 : l'Irlande exportait encore du blé et du bétail. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7758,7 +7835,8 @@ tags: technology
 
 # 1847 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/chloroforme.webp' | relative_url }}" alt="James Young Simpson et le chloroforme" loading="lazy" decoding="async" width="1200" height="1657" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/chloroforme.webp' | relative_url }}" alt="James Young Simpson et le chloroforme" loading="lazy" decoding="async" width="1200" height="1657" />
+  <br /><small><em>Simpson et ses assistants effondrés après avoir inhalé du chloroforme, illustration d'époque. Ils testaient les produits sur eux-mêmes : l'anesthésie transforme la chirurgie, qui cesse d'être une course de vitesse.</em></small></p>
 
 <p>À Édimbourg, l'obstétricien James Young Simpson cherche mieux que l'éther, dont l'odeur écœure et qui irrite les poumons. Il teste les produits sur lui-même et ses assistants, après dîner : un soir de novembre, ils inhalent du chloroforme et s'effondrent tous sous la table. Il l'emploie sur une patiente quelques jours plus tard.</p>
 
@@ -7768,7 +7846,7 @@ tags: technology
 
 # 1848 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vGZGx7c5jl8" data-id="vGZGx7c5jl8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vGZGx7c5jl8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vGZGx7c5jl8" data-id="vGZGx7c5jl8" rel="noopener" aria-label="Lire la vidéo YouTube : Dawson city et la ruée vers l'or - #CulturePrime"><img src="https://i.ytimg.com/vi/vGZGx7c5jl8/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Dawson city et la ruée vers l'or - #CulturePrime »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Des mines d'or sont découvertes en Californie. Attiré par la fortune, c'est le début de la célèbre ruée vers l'or qui suscite l'intérêt de nombreuses personnes désireuses de s'enrichir rapidement. Cela entraîne un afflux massif de population vers ces régions, qui voient leur population augmenter de façon spectaculaire en peu de temps.</p>
 
@@ -7786,7 +7864,7 @@ tags: technology
 
 # 1852 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UtkAJscxbZU" data-id="UtkAJscxbZU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/UtkAJscxbZU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UtkAJscxbZU" data-id="UtkAJscxbZU" rel="noopener" aria-label="Lire la vidéo YouTube : How Elevators Changed the World | Origins: The Journey of Humankind"><img src="https://i.ytimg.com/vi/UtkAJscxbZU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « How Elevators Changed the World | Origins: The Journey of Humankind »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Elisha Otis n'invente pas l'ascenseur — on hisse des charges depuis l'Antiquité. Il invente ce qui manquait : un cliquet qui bloque la cabine contre ses rails si le câble casse. Deux ans plus tard, à l'exposition de New York, il se fait monter sur une plateforme au-dessus de la foule et ordonne qu'on tranche la corde à la hache. La cabine descend de quelques centimètres et s'immobilise. « Tout est sûr, messieurs », dit-il.</p>
 
@@ -7803,7 +7881,7 @@ tags: technology
 <p>Début de la guerre de Crimée. Première guerre qui utilise la technique de la photographie. C'est le quotidien des soldats qui est saisi.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/crimee.webp' | relative_url }}" alt="La guerre de Crimée" width="600" loading="lazy" decoding="async" height="431" />
+  <img src="{{ '/assets/img/crimee.webp' | relative_url }}" alt="Lithographie de la guerre de Crimée intitulée « The attack on the Malakoff » : l'assaut d'un ouvrage fortifié sur une hauteur, les assaillants gravissant la pente sous la fusillade et le drapeau planté au sommet" width="600" loading="lazy" decoding="async" height="431" />
   <br /><small><em>La guerre de Crimée : le premier conflit photographié — ce sont surtout les campements et les visages qui sont saisis. William Simpson, artist (1823-1899) E[dmond]. Morin, lithographer (182, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7819,19 +7897,21 @@ tags: technology
 <p>Épidémie de choléra à Londres : c'est la concentration urbaine qui pose problème. Un médecin du quartier de Soho, John Snow, relève l'adresse de chaque victime sur un plan et voit les décès se resserrer autour d'une seule pompe, rue Broad. Il fait démonter son bras, l'épidémie reflue — et il établit ainsi que le choléra se propage par l'eau, et non par l'air et la puanteur comme on le croyait. Il faudra encore trente ans pour qu'on identifie le microbe en cause, mais la conclusion pratique est déjà là : l'eau ne doit plus seulement être acheminée, elle doit être traitée. On en veut partout, en quantité, et propre.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cartesnow.webp' | relative_url }}" alt="Carte du choléra de John Snow, Soho 1854" width="600" loading="lazy" decoding="async" height="563" />
+  <img src="{{ '/assets/img/cartesnow.webp' | relative_url }}" alt="Carte du choléra dressée par John Snow dans le quartier de Soho en 1854 : le plan des rues où chaque décès est marqué d'une barre noire devant les maisons, les barres s'entassant autour de la pompe à eau de Broad Street" width="600" loading="lazy" decoding="async" height="563" />
   <br /><small><em>La carte de John Snow : chaque barre noire est un mort, et l'amas désigne une pompe précise de Broad Street. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1856 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/palaisdete.webp' | relative_url }}" alt="Le sac du Palais d'été" loading="lazy" decoding="async" width="1200" height="1072" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/palaisdete.webp' | relative_url }}" alt="Le sac du Palais d'été" loading="lazy" decoding="async" width="1200" height="1072" />
+  <br /><small><em>Une pagode près du Palais d'été, photographiée par Felice Beato en 1860. Le palais sera pillé puis incendié par les troupes franco-britanniques.</em></small></p>
 
 <p>Début de la seconde guerre de l'opium. Elle oppose la Chine à une coalition de puissances étrangères, la Grande-Bretagne et la France. Le conflit débute avec l'affaire de l'Arrow : les autorités chinoises arraisonnent à Canton un navire battant pavillon britannique, accusé de contrebande et de piraterie.</p>
 
 # 1858 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/traiteharris.webp' | relative_url }}" alt="Townsend Harris" loading="lazy" decoding="async" width="1200" height="759" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/traiteharris.webp' | relative_url }}" alt="Townsend Harris" loading="lazy" decoding="async" width="1200" height="759" />
+  <br /><small><em>Occidentaux vus par un peintre japonais de Yokohama. Après Harris, la France, la Russie, le Royaume-Uni et les Pays-Bas obtiennent les mêmes droits — et les étrangers apportent le choléra.</em></small></p>
 
 <p>Un émissaire américain revient au Japon et parvient à négocier un nouveau traité: le traité Harris.</p>
 
@@ -7850,7 +7930,7 @@ tags: technology
 <p>Le 24 novembre paraît à Londres un livre tiré à 1 250 exemplaires, épuisés auprès des libraires le jour même : <em>De l'origine des espèces</em>. Charles Darwin y expose une idée d'une simplicité désarmante. Les individus d'une même espèce ne sont jamais identiques ; il naît toujours plus de descendants que le milieu ne peut en nourrir ; ceux dont les variations donnent le moindre avantage survivent un peu mieux et se reproduisent un peu plus. Répétez sur des millions d'années : vous obtenez des espèces nouvelles. C'est la sélection naturelle — un mécanisme sans intention, sans plan et sans but.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/darwin.webp' | relative_url }}" alt="Page de titre de L'Origine des espèces, 1859" width="330" loading="lazy" decoding="async" height="572" />
+  <img src="{{ '/assets/img/darwin.webp' | relative_url }}" alt="Photographie de la page de titre de « On the Origin of Species » de Charles Darwin, édition de 1859, avec le sous-titre sur la sélection naturelle et l'adresse de l'éditeur John Murray à Londres" width="330" loading="lazy" decoding="async" height="572" />
   <br /><small><em>La page de titre de <em>L'Origine des espèces</em>, 24 novembre 1859 : les 1 250 exemplaires furent épuisés le jour même. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7863,7 +7943,7 @@ tags: technology
 <p>Les premiers vélocipèdes à pédales sortent des ateliers parisiens : une machine en fer forgé, les pédales fixées directement sur la roue avant, sans transmission ni roue libre — si dure sur les pavés qu'on la surnommera la « machine à secouer les os ».</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/velocipede.webp' | relative_url }}" alt="Le vélocipède Michaux" width="597" loading="lazy" decoding="async" height="596" />
+  <img src="{{ '/assets/img/velocipede.webp' | relative_url }}" alt="Estampe humoristique du XIXᵉ siècle intitulée « Voyage à la lune » : un homme en haut-de-forme pédale sur un vélocipède fantaisiste à roues en hélice, soutenu par deux ballons et lorgnant dans une longue-vue" width="597" loading="lazy" decoding="async" height="596" />
   <br /><small><em>Le vélocipède Michaux : pédales fixées directement sur la roue avant, cadre de fer forgé — on le surnommera la « machine à casser les os ». Unknowable - Michaux staff or contract photographer from circa 1870s-8, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7876,7 +7956,7 @@ tags: technology
 <p>Début de la guerre de sécession. Elle oppose les États du Nord, qui forment l'Union, aux États du Sud, qui forment la Confédération. La guerre de Sécession est causée en raison de différences profondes entre les États du Nord et ceux du Sud sur la question de l'esclavage et de l'autonomie des États. Les États du Sud, qui sont principalement agricoles et qui ont besoin de main-d'œuvre bon marché, ont mis en place un système d'esclavage pour travailler dans les champs de coton, de tabac et de canne à sucre. Les États du Nord, qui sont principalement industriels et qui ont besoin de main-d'œuvre qualifiée, ont mis fin à l'esclavage.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/secession.webp' | relative_url }}" alt="La guerre de Sécession" width="554" loading="lazy" decoding="async" height="533" />
+  <img src="{{ '/assets/img/secession.webp' | relative_url }}" alt="Montage de trois images de la guerre de Sécession : une charge d'artillerie peinte, une photographie de soldats sur une position de rondins, et une gravure d'affrontement entre canonnières à vapeur sur un fleuve" width="554" loading="lazy" decoding="async" height="533" />
   <br /><small><em>La guerre de Sécession : six cent mille morts, et la première guerre industrielle de l'histoire. Hal Jespersen at en.wikipedia, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7899,7 +7979,7 @@ tags: technology
 <p>La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage. Par exemple, il prend une série de photographies intitulée "The Dead of Antietam", qui montre les soldats morts sur le champ de bataille de la bataille de Antietam.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/gardner.webp' | relative_url }}" alt="« A Harvest of Death », Gettysburg, 1863" width="600" loading="lazy" decoding="async" height="488" />
+  <img src="{{ '/assets/img/gardner.webp' | relative_url }}" alt="Photographie « A Harvest of Death » prise à Gettysburg en 1863 : des corps de soldats étendus dans un champ nu, au premier plan d'une plaine où des cavaliers se profilent dans la brume" width="600" loading="lazy" decoding="async" height="488" />
   <br /><small><em>« A Harvest of Death », Gettysburg : négatif de Timothy O'Sullivan, tirage d'Alexander Gardner. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7907,7 +7987,8 @@ tags: technology
 
 # 1864 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/shimonoseki.webp' | relative_url }}" alt="Le bombardement de Shimonoseki" loading="lazy" decoding="async" width="1200" height="905" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/shimonoseki.webp' | relative_url }}" alt="Le bombardement de Shimonoseki" loading="lazy" decoding="async" width="1200" height="905" />
+  <br /><small><em>Canons japonais capturés à Shimonoseki, photographie de Felice Beato, 1864. Une coalition occidentale bombarde le détroit pour forcer le Japon à l'ouverture.</em></small></p>
 
 <p>Une coalition bombarde Shimonoseki au Japon. Une flotte navale britannique, française et américaine est envoyée dans la baie de Shimonoseki pour obliger le Japon à accepter de nouvelles concessions commerciales. Les navires bombardent la ville et le port, causant de nombreux dégâts et tuant plusieurs centaines de personnes. Le Japon comprend qu'il est impossible de vaincre militairement les occidentaux. Cet événement est l'un des éléments déclencheurs de l'ouverture du Japon au monde extérieur et de sa modernisation forcée et rapide au cours du XIXe siècle.</p>
 
@@ -7917,7 +7998,7 @@ tags: technology
 
 <p>Le Congrès des États-Unis adopte le Treizième Amendement à la Constitution, qui abolit l'esclavage.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-GjrosEoZwc" data-id="-GjrosEoZwc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-GjrosEoZwc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-GjrosEoZwc" data-id="-GjrosEoZwc" rel="noopener" aria-label="Lire la vidéo YouTube : 14 avril 1865, assassinat d'Abraham Lincoln"><img src="https://i.ytimg.com/vi/-GjrosEoZwc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « 14 avril 1865, assassinat d'Abraham Lincoln »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Abraham Lincoln se fait assassiner. L'assassin est en désaccord avec les politiques de Lincoln concernant l'abolition de l'esclavage. L'assassinat de Lincoln est l'un des événements les plus marquants de l'histoire des États-Unis et a un impact profond sur le pays. Lincoln est considéré comme l'un des présidents les plus importants de l'histoire américaine et reste un symbole de l'unité et de l'égalité pour tous les Américains.</p>
 
@@ -7928,7 +8009,7 @@ tags: technology
 <p>Les travaux du premier chemin de fer transcontinental américain battent leur plein. Deux compagnies avancent l'une vers l'autre : l'Union Pacific part d'Omaha vers l'ouest à travers les Grandes Plaines ; la Central Pacific part de Sacramento vers l'est et doit franchir la Sierra Nevada, en perçant des tunnels dans le granit à la main et à la poudre noire, sous des hivers qui ensevelissent les chantiers.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/transcontinental.webp' | relative_url }}" alt="La jonction des deux compagnies à Promontory Summit, en 1869" width="600" loading="lazy" decoding="async" height="457" />
+  <img src="{{ '/assets/img/transcontinental.webp' | relative_url }}" alt="Carte des États-Unis montrant le tracé du premier chemin de fer transcontinental : la ligne du Central Pacific depuis Sacramento et celle de l'Union Pacific depuis Omaha se rejoignant à Promontory, dans l'Utah" width="600" loading="lazy" decoding="async" height="457" />
   <br /><small><em>La jonction des deux compagnies à Promontory Summit, en 1869 : l'Amérique se traverse désormais en une semaine au lieu de six mois. Andrew J. Russell / Adam Cuerden, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7941,7 +8022,7 @@ tags: technology
 <p>Ouverture du Japon à l'Occident, entraînant la dissolution progressive de la classe des samouraïs. Les réformes de l'ère Meiji abolissent les privilèges féodaux et conduisent à la modernisation de l'armée japonaise, rendant le rôle traditionnel des samouraïs obsolète.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/meiji.webp' | relative_url }}" alt="L'ère Meiji" width="420" loading="lazy" decoding="async" height="587" />
+  <img src="{{ '/assets/img/meiji.webp' | relative_url }}" alt="Photographie officielle du jeune empereur Meiji : le souverain assis, en costume de cour traditionnel et haute coiffe noire, tenant son sceptre" width="420" loading="lazy" decoding="async" height="587" />
   <br /><small><em>L'ère Meiji : en une génération, le Japon se dote d'une armée, de chemins de fer et d'une industrie occidentales. Uchida Kuichi, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7952,7 +8033,7 @@ tags: technology
 <p>Le 17 novembre, un cortège de navires pavoisés franchit un couloir d'eau de cent soixante kilomètres creusé en plein désert : le canal de Suez est ouvert. La Méditerranée touche la mer Rouge, et le trajet de l'Europe vers l'Inde raccourcit de plusieurs milliers de kilomètres — on n'a plus à contourner l'Afrique.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/canalsuez.webp' | relative_url }}" alt="L'inauguration du canal de Suez, 17 novembre 1869" width="600" loading="lazy" decoding="async" height="383" />
+  <img src="{{ '/assets/img/canalsuez.webp' | relative_url }}" alt="Peinture d'Édouard Riou représentant l'inauguration du canal de Suez : la foule et les pavillons dressés sur la berge, devant la file des navires pavoisés engagés dans le canal" width="600" loading="lazy" decoding="async" height="383" />
   <br /><small><em>L'inauguration du canal de Suez, peinte par Édouard Riou. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7961,7 +8042,7 @@ tags: technology
 <p>La même année, à Saint-Pétersbourg, un chimiste range les soixante-trois éléments connus par masse croissante et s'aperçoit que leurs propriétés reviennent à intervalles réguliers, comme les jours d'une semaine. Dmitri Mendeleïev en fait un tableau — et ose ce que personne n'ose : il y laisse des cases vides, en affirmant qu'on découvrira les éléments manquants, et en prédisant leur masse et leur comportement.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/mendeleiev.webp' | relative_url }}" alt="Le premier tableau périodique de Mendeleïev, 1869" width="640" loading="lazy" decoding="async" height="273" />
+  <img src="{{ '/assets/img/mendeleiev.webp' | relative_url }}" alt="Reproduction du premier tableau périodique de Mendeleïev de 1869 : une grille manuscrite d'éléments rangés par masse atomique, où plusieurs cases restent vides à l'emplacement d'éléments encore inconnus" width="640" loading="lazy" decoding="async" height="273" />
   <br /><small><em>Le premier tableau de Mendeleïev : les blancs laissés dans la grille sont des éléments qu'il prédit et qu'on découvrira en quinze ans. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7969,7 +8050,8 @@ tags: technology
 
 # 1870 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cheminsdeferjapon.webp' | relative_url }}" alt="Le chemin de fer au Japon Meiji" loading="lazy" decoding="async" width="1200" height="960" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cheminsdeferjapon.webp' | relative_url }}" alt="Le chemin de fer au Japon Meiji" loading="lazy" decoding="async" width="1200" height="960" />
+  <br /><small><em>Bâtiment ferroviaire de l'ère Meiji conservé au Japon. Télégraphe, chemin de fer, mode de vie occidental : en quelques années, le pays adopte ce qu'il avait refusé pendant deux siècles.</em></small></p>
 
 <p>Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port du sabre, lui, ne sera interdit qu'en 1876, par l'édit Haitōrei.</p>
 
@@ -7990,7 +8072,7 @@ tags: technology
 <p>La Commune gouverne soixante-douze jours. Elle sépare l'Église de l'État, rend l'école gratuite et l'ouvre aux filles, remet les loyers arriérés et les objets déposés au mont-de-piété, abolit le travail de nuit des boulangers, confie aux ouvriers les ateliers abandonnés par leurs patrons, et rend toutes les fonctions électives révocables à tout moment et payées au salaire d'un ouvrier. Des femmes y prennent la parole et les armes, ce que la République ne leur reconnaîtra pas avant longtemps.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/colonnevendome.webp' | relative_url }}" alt="La colonne Vendôme abattue, 1871" width="600" loading="lazy" decoding="async" height="457" />
+  <img src="{{ '/assets/img/colonnevendome.webp' | relative_url }}" alt="Photographie de la colonne Vendôme abattue en 1871 : le fût brisé en tronçons gisant sur un lit de fascines au milieu de la place, devant les façades intactes" width="600" loading="lazy" decoding="async" height="457" />
   <br /><small><em>La colonne Vendôme abattue par la Commune, photographiée par Franck en 1871. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8000,7 +8082,8 @@ tags: technology
 
 # 1873 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/seikanron.webp' | relative_url }}" alt="Le débat sur la Corée" loading="lazy" decoding="async" width="1200" height="592" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/seikanron.webp' | relative_url }}" alt="Le débat sur la Corée" loading="lazy" decoding="async" width="1200" height="592" />
+  <br /><small><em>Le débat sur la Corée, estampe japonaise en triptyque. Les anciens fiefs guerriers réclament une expédition — peut-être surtout pour trouver un emploi aux samouraïs que les réformes ont déclassés.</em></small></p>
 
 <p>Les japonais veulent mener une nouvelle guerre à la Corée dans un but impérialiste. Cette volonté est portée par les anciens fiefs rebelles peut-être dans le but de trouver un sens de leur ancien mode de vie guerrier. Le gouvernement refuse. Les révoltes éclatent alors.</p>
 
@@ -8011,7 +8094,7 @@ tags: technology
 <p>Léopold II fonde l'Association internationale africaine à Bruxelles. Officiellement, l'organisation vise l'exploration de l'Afrique centrale et la lutte contre la traite des esclaves.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/leopold2.webp' | relative_url }}" alt="Léopold II" width="420" loading="lazy" decoding="async" height="740" />
+  <img src="{{ '/assets/img/leopold2.webp' | relative_url }}" alt="Portrait peint de Léopold II : le roi debout en grand uniforme, décorations sur la poitrine, devant un trône doré et un manteau d'hermine" width="420" loading="lazy" decoding="async" height="740" />
   <br /><small><em>Léopold II : sous couvert de lutte contre l'esclavage, il fera du Congo sa propriété personnelle. Photo Unknown authorUnknown author, CC BY 2.5, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8021,7 +8104,8 @@ tags: technology
 
 # 1877 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/satsuma.webp' | relative_url }}" alt="La rébellion de Satsuma" loading="lazy" decoding="async" width="800" height="570" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/satsuma.webp' | relative_url }}" alt="La rébellion de Satsuma" loading="lazy" decoding="async" width="800" height="570" />
+  <br /><small><em>Caricature japonaise à l'encre de la guerre du Sud-Ouest. La nouvelle armée impériale de conscrits écrase la révolte des samouraïs : la caste des guerriers est militairement périmée.</em></small></p>
 
 <p>Les révoltes des anciens fiefs guerriers (qui veulent envahir la corée) du Japon sont matées par cette nouvelle armée impériale, bien entraînée et bien équipée. Cette défaite sonne la fin de l'ère des samourais.</p>
 
@@ -8032,7 +8116,7 @@ tags: technology
 <p>Ce n'est pas la première ampoule électrique : on en fabrique depuis quarante ans, et elles brillent quelques heures avant de griller. Thomas Edison trouve un filament qui tient — du fil de coton carbonisé, dans une ampoule vidée de son air — et qui brûle d'abord des dizaines d'heures, puis des centaines.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ampouleedison.webp' | relative_url }}" alt="Ampoule à filament de carbone d'Edison" width="340" loading="lazy" decoding="async" height="510" />
+  <img src="{{ '/assets/img/ampouleedison.webp' | relative_url }}" alt="Photographie d'une ampoule Edison à filament de carbone : un globe de verre soufflé, au culot vissé, dans lequel le filament en boucle rougeoie faiblement" width="340" loading="lazy" decoding="async" height="510" />
   <br /><small><em>Une ampoule Edison à filament de carbone. L'invention n'est pas l'ampoule mais le système entier : centrale, réseau, compteur, interrupteur. Photo Terren, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8047,13 +8131,14 @@ tags: technology
 <p>C'est l'âge du grand-bi : une roue avant démesurée, pour qu'un tour de pédale fasse le plus de chemin possible, et un cycliste juché à un mètre cinquante du sol. L'engin est rapide, coûteux et franchement dangereux — la moindre pierre projette son cavalier tête la première. Il ne se démocratisera jamais.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/grandbi.webp' | relative_url }}" alt="Le grand-bi" width="385" loading="lazy" decoding="async" height="381" />
+  <img src="{{ '/assets/img/grandbi.webp' | relative_url }}" alt="Photographie d'un grand-bi : un vélocipède à roue avant démesurée et minuscule roue arrière, la selle perchée très haut au-dessus du moyeu" width="385" loading="lazy" decoding="async" height="381" />
   <br /><small><em>Le grand-bi : une roue avant démesurée pour aller plus vite, et un cycliste juché à un mètre cinquante du sol. Photo Agnieszka Kwiecień, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 # 1882 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/appleton.webp' | relative_url }}" alt="La centrale d'Appleton" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/appleton.webp' | relative_url }}" alt="La centrale d'Appleton" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Le site de la centrale d'Appleton, dans le Wisconsin, aujourd'hui occupé par un restaurant. C'est ici qu'a fonctionné la première centrale hydroélectrique commerciale du monde.</em></small></p>
 
 <p>La première centrale hydroélectrique commerciale est mise en service à Appleton, dans le Wisconsin. Elle est équipée d'une turbine du type mis au point par l'ingénieur James B. Francis, dont le principe équipe encore aujourd'hui la majorité des barrages du monde.</p>
 
@@ -8086,7 +8171,7 @@ tags: technology
 <p>Eugène Poubelle, préfet de la Seine, impose aux propriétaires de fournir à leurs locataires des contenants en bois garnis de fer-blanc et munis d'un couvercle. Ces seaux hermétiques devront contenir tous les déchets ménagers, récupérés par les services municipaux.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/poubelle.webp' | relative_url }}" alt="Eugène Poubelle" width="420" loading="lazy" decoding="async" height="620" />
+  <img src="{{ '/assets/img/poubelle.webp' | relative_url }}" alt="Portrait photographique d'Eugène Poubelle : un homme à la barbe blanche fournie, en redingote sombre, avec sa signature au bas du tirage" width="420" loading="lazy" decoding="async" height="620" />
   <br /><small><em>Eugène Poubelle : le préfet dont l'arrêté sur les récipients à ordures a donné son nom à l'objet. Photo Nadar, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8097,7 +8182,7 @@ tags: technology
 <p>Le 6 juillet, un enfant alsacien de neuf ans, Joseph Meister, mordu quatorze fois par un chien enragé, est amené dans le laboratoire de Louis Pasteur. La rage est alors une condamnation à mort sans exception : une fois les symptômes déclarés, on meurt en quelques jours, étouffé et convulsé. Pasteur a mis au point sur le chien un vaccin obtenu à partir de moelles de lapins infectés puis desséchées, qui atténuent le virus. Il ne l'a jamais essayé sur un humain, et il n'est pas médecin — l'inoculer l'expose au procès. Il inocule.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/pasteur.webp' | relative_url }}" alt="Louis Pasteur dans son laboratoire, par Edelfelt" width="430" loading="lazy" decoding="async" height="523" />
+  <img src="{{ '/assets/img/pasteur.webp' | relative_url }}" alt="Photographie du tableau d'Albert Edelfelt représentant Louis Pasteur dans son laboratoire : le savant debout devant sa paillasse encombrée de flacons, examinant un bocal à la lumière" width="430" loading="lazy" decoding="async" height="523" />
   <br /><small><em>Louis Pasteur dans son laboratoire, peint par Albert Edelfelt en 1885 — l'année de Joseph Meister. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8110,19 +8195,21 @@ tags: technology
 <p>L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps de sa propre conception — Gottlieb Daimler travaille au même moment sur le sien, à quelques dizaines de kilomètres de là, sans que les deux hommes se soient jamais rencontrés.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/benz.webp' | relative_url }}" alt="Benz Patent-Motorwagen de 1886" width="600" loading="lazy" decoding="async" height="503" />
+  <img src="{{ '/assets/img/benz.webp' | relative_url }}" alt="Photographie du Benz Patent-Motorwagen exposé dans un musée : un tricycle à grandes roues à rayons, banquette de bois et moteur monocylindre apparent à l'arrière, entraînant la roue par une chaîne" width="600" loading="lazy" decoding="async" height="503" />
   <br /><small><em>Le Benz Patent-Motorwagen : trois roues, un moteur à explosion, une chaîne. Photo Stas Kozlovskiy, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 # 1886 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/cocacola.webp' | relative_url }}" alt="Coca-Cola" loading="lazy" decoding="async" width="1000" height="684" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/cocacola.webp' | relative_url }}" alt="Coca-Cola" loading="lazy" decoding="async" width="1000" height="684" />
+  <br /><small><em>Publicité rétrospective de Coca-Cola. La recette d'origine contenait des feuilles de coca et de la noix de kola — d'où le nom, et d'où la suite.</em></small></p>
 
 <p>Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets. La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.</p>
 
 # 1887 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/eolienneblyth.webp' | relative_url }}" alt="L'éolienne de James Blyth" loading="lazy" decoding="async" width="719" height="464" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/eolienneblyth.webp' | relative_url }}" alt="L'éolienne de James Blyth" loading="lazy" decoding="async" width="719" height="464" />
+  <br /><small><em>L'une des premières éoliennes productrices d'électricité, photographie d'époque. James Blyth en dresse une dans son jardin de Marykirk pour éclairer sa maison ; Charles Brush fait de même aux États-Unis.</em></small></p>
 
 <p>Invention du premier moulin à vent produisant de l'électricité. L'Écossais James Blyth en dresse un dans son jardin de Marykirk pour éclairer sa maison ; l'Américain Charles Brush en construit un bien plus grand à Cleveland l'année suivante. Le principe est celui des éoliennes d'aujourd'hui.</p>
 
@@ -8141,7 +8228,7 @@ tags: technology
 <p>À Belfast, un vétérinaire écossais nommé John Boyd Dunlop bricole pour le tricycle de son fils, qui se plaint des secousses : il enroule autour de la jante un tube de caoutchouc gonflé d'air, maintenu par une bande de toile. Il ignore qu'un autre Écossais, Robert William Thomson, avait breveté l'idée quarante ans plus tôt et qu'elle était tombée dans l'oubli faute d'un usage qui la justifie.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/dunlop.webp' | relative_url }}" alt="John Boyd Dunlop" width="420" loading="lazy" decoding="async" height="518" />
+  <img src="{{ '/assets/img/dunlop.webp' | relative_url }}" alt="Portrait photographique de John Boyd Dunlop : un homme à la très longue barbe blanche, assis, une feuille à la main" width="420" loading="lazy" decoding="async" height="518" />
   <br /><small><em>John Boyd Dunlop : un tube de caoutchouc gonflé d'air autour de la jante, pour le tricycle de son fils. domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8151,7 +8238,7 @@ tags: technology
 
 # 1890 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V-Qv9TfG6dw" data-id="V-Qv9TfG6dw" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/V-Qv9TfG6dw/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V-Qv9TfG6dw" data-id="V-Qv9TfG6dw" rel="noopener" aria-label="Lire la vidéo YouTube : How Bicycles Changed Women's Lives | Origins: The Journey of Humankind"><img src="https://i.ytimg.com/vi/V-Qv9TfG6dw/hqdefault.jpg" alt="Miniature de la vidéo YouTube « How Bicycles Changed Women's Lives | Origins: The Journey of Humankind »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La bicyclette devient extrêmement populaire parmi les femmes. Cette période est souvent appelée le "bicycle craze" ou la "bicyclette folie".</p>
 
@@ -8160,7 +8247,7 @@ tags: technology
 <p>Herman Hollerith crée un système de traitement de l'information en utilisant des cartes perforées pour stocker et traiter des données pour le recensement des États-Unis. Les cartes perforées peuvent être lues rapidement et facilement par la machine, ce qui permet de traiter de grandes quantités de données de manière rapide et efficace. Ces cartes sont des feuilles de papier perforées de manière à représenter des informations numériques. Chaque carte contient plusieurs colonnes de perforations, chacune représentant un chiffre ou une valeur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hollerith.webp' | relative_url }}" alt="Opératrice sur une perforatrice de cartes" width="400" loading="lazy" decoding="async" height="528" />
+  <img src="{{ '/assets/img/hollerith.webp' | relative_url }}" alt="Photographie ancienne d'un atelier de perforation de cartes : des opératrices assises devant leurs machines, perforant les cartes du recensement à partir des bordereaux posés devant elles" width="400" loading="lazy" decoding="async" height="528" />
   <br /><small><em>Opératrice sur une perforatrice : chaque trou code une réponse du recensement. Photo National Museum of Health and Medicine, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8168,7 +8255,8 @@ tags: technology
 
 # 1893 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/henryford.webp' | relative_url }}" alt="Henry Ford" loading="lazy" decoding="async" width="1200" height="1532" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/henryford.webp' | relative_url }}" alt="Henry Ford" loading="lazy" decoding="async" width="1200" height="1532" />
+  <br /><small><em>Henry Ford. Ingénieur en chef adjoint chez Edison à Détroit, il consacre ses soirées à un moteur à essence — alors que trois technologies se disputent encore l'avenir de l'automobile.</em></small></p>
 
 <p>Ingénieur en chef adjoint à la compagnie d'électricité Edison de Détroit, Ford dispose enfin d'un salaire régulier et d'un atelier. Il consacre ses soirées à un moteur à essence : la veille de Noël, il fait tourner sur l'évier de sa cuisine un petit monocylindre alimenté par un fil branché sur l'éclairage. Son unique enfant est né quelques semaines plus tôt.</p>
 
@@ -8178,7 +8266,8 @@ tags: technology
 
 # 1894 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/pestehongkong.webp' | relative_url }}" alt="La peste à Hong Kong" loading="lazy" decoding="async" width="1200" height="799" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/pestehongkong.webp' | relative_url }}" alt="La peste à Hong Kong" loading="lazy" decoding="async" width="1200" height="799" />
+  <br /><small><em>Médailles décernées pour services rendus pendant la peste de Hong Kong, 1894. Partie du Yunnan, la troisième pandémie se diffuse par voie maritime et fera une douzaine de millions de morts.</em></small></p>
 
 <p>La troisième pandémie de peste, partie du Yunnan, atteint Hong Kong et se diffuse par voie maritime dans le monde entier ; elle fera une douzaine de millions de morts, surtout en Inde et en Chine. C'est au cours de cette épidémie que le bacille sera identifié à Hong Kong par Alexandre Yersin.</p>
 
@@ -8189,7 +8278,7 @@ tags: technology
 <p>L'inventeur italien Guglielmo Marconi développe les premiers émetteurs et récepteurs radio. Il est l'un des premiers à comprendre que les ondes radio peuvent être utilisées pour la communication à distance et met au point un système de transmission de signaux à l'aide d'ondes radio à haute fréquence (HF).</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/marconi.webp' | relative_url }}" alt="Guglielmo Marconi" width="420" loading="lazy" decoding="async" height="466" />
+  <img src="{{ '/assets/img/marconi.webp' | relative_url }}" alt="Portrait photographique de Guglielmo Marconi : le jeune inventeur assis, la tête appuyée sur la main, à côté de son appareil de télégraphie sans fil posé sur la table" width="420" loading="lazy" decoding="async" height="466" />
   <br /><small><em>Guglielmo Marconi : les ondes hertziennes deviennent un moyen de communiquer, d'abord sur quelques mètres, puis d'un continent à l'autre. Photo Unidentified photographer. Smithsonian Institution from United States, No restrictions, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8199,13 +8288,15 @@ tags: technology
 
 # 1896 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/quadricycle.webp' | relative_url }}" alt="Le quadricycle de Ford" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/quadricycle.webp' | relative_url }}" alt="Le quadricycle de Ford" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Le quadricycle de Ford, son premier véhicule. Quatre roues de bicyclette, un moteur, une barre à la place du volant — et dix ans plus tard, la chaîne de montage.</em></small></p>
 
 <p>Ford construit un véhicule à moteur de 4 chevaux refroidi par eau. Un moteur de 4 chevaux refroidi par eau est un type de moteur qui utilise de l'eau comme fluide de refroidissement pour évacuer la chaleur générée par la combustion du carburant dans le moteur.</p>
 
 # 1898 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/hispanoamericaine.webp' | relative_url }}" alt="La guerre hispano-américaine" loading="lazy" decoding="async" width="1200" height="789" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/hispanoamericaine.webp' | relative_url }}" alt="La guerre hispano-américaine" loading="lazy" decoding="async" width="1200" height="789" />
+  <br /><small><em>Estampe commémorative de la guerre hispano-américaine de 1898. L'Espagne perd Cuba, Porto Rico, Guam et les Philippines : ses dernières colonies.</em></small></p>
 
 <p>Les Etats-Unis déclarent la guerre à l'Espagne, qui aboutit à la défaite de l'Espagne et à la perte de ses dernières colonies, dont Cuba, Porto Rico, Guam et les Philippines.</p>
 
@@ -8222,7 +8313,7 @@ tags: technology
 <p>Le 19 juillet, pour l'Exposition universelle, Paris inaugure la première ligne de son métro, entièrement électrique, de Porte Maillot à Porte de Vincennes. Le choix de l'électricité n'avait rien d'évident : Londres, qui a ouvert son métro trente-sept ans plus tôt, l'a fait à la vapeur, avec des tunnels enfumés qu'il fallait ventiler par des puits. Paris, arrivé tard, saute une génération technique.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/metroguimard.webp' | relative_url }}" alt="Édicule Guimard, station Porte Dauphine" width="600" loading="lazy" decoding="async" height="457" />
+  <img src="{{ '/assets/img/metroguimard.webp' | relative_url }}" alt="Photographie d'un édicule Guimard du métro parisien : l'entrée en fonte verte de style Art nouveau, coiffée d'une marquise en éventail vitrée et de l'enseigne « Métropolitain », au bord d'un parc" width="600" loading="lazy" decoding="async" height="457" />
   <br /><small><em>Un édicule Guimard du métro parisien, inauguré en 1900 pour l'Exposition universelle. Photo Moonik, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8230,7 +8321,8 @@ tags: technology
 
 # 1901 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/signalhill.webp' | relative_url }}" alt="Signal Hill à Terre-Neuve" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/signalhill.webp' | relative_url }}" alt="Signal Hill à Terre-Neuve" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Signal Hill, à Terre-Neuve. C'est ici que Marconi reçoit le premier signal radio transatlantique, envoyé depuis les Cornouailles.</em></small></p>
 
 <p>Marconi réussit à envoyer un signal radio transatlantique des Cornouailles anglaises à Terre-Neuve. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.</p>
 
@@ -8239,7 +8331,7 @@ tags: technology
 <p>Premier vol motorisé de l'histoire. L'appareil des frères Wright parcourt une quarantaine de mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/wrightflyer.webp' | relative_url }}" alt="Premier vol des frères Wright, 17 décembre 1903" width="600" loading="lazy" decoding="async" height="389" />
+  <img src="{{ '/assets/img/wrightflyer.webp' | relative_url }}" alt="Photographie du premier vol des frères Wright, le 17 décembre 1903 : le Flyer décollant à quelques dizaines de centimètres du sable, Orville allongé aux commandes et Wilbur courant à l'extrémité de l'aile" width="600" loading="lazy" decoding="async" height="389" />
   <br /><small><em>Le premier vol motorisé, Kitty Hawk, 17 décembre 1903 : Orville aux commandes, Wilbur courant à l'aile. Photo John T. Daniels, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8256,7 +8348,7 @@ tags: technology
 <p>La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/russojaponaise.webp' | relative_url }}" alt="La guerre russo-japonaise" width="420" loading="lazy" decoding="async" height="587" />
+  <img src="{{ '/assets/img/russojaponaise.webp' | relative_url }}" alt="Montage de photographies de la guerre russo-japonaise : un cuirassé touché en train de brûler, des colonnes de cavalerie et d'infanterie en marche, des ruines et une escadre en mer" width="420" loading="lazy" decoding="async" height="587" />
   <br /><small><em>La guerre russo-japonaise : pour la première fois, une puissance asiatique écrase une puissance européenne. Original uploader and author was Dustandshadow at en.wikipedia, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8264,14 +8356,14 @@ tags: technology
 
 <p>On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà connu pour ses propriétés désinfectantes, et les ingénieurs français développent un procédé pour l’utiliser à grande échelle dans le traitement de l’eau potable.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Qw5vKINE7WE" data-id="Qw5vKINE7WE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Qw5vKINE7WE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Qw5vKINE7WE" data-id="Qw5vKINE7WE" rel="noopener" aria-label="Lire la vidéo YouTube : Albert Einstein I Quelle Histoire - TV5 Monde"><img src="https://i.ytimg.com/vi/Qw5vKINE7WE/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Albert Einstein I Quelle Histoire - TV5 Monde »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Einstein travaille sur sa théorie de la relativité restreinte, qui remet en question les notions classiques de l'espace et du temps. Cette théorie explique comment l'espace et le temps sont reliés et comment ils affectent la perception de la vitesse et de l'énergie. Il découvre aussi qu'une petite quantité de matière peut être convertie en une énorme quantité d'énergie.</p>
 
 # 1909 ans
 
 <p style="text-align:center">
-  <img src="/assets/img/bleriotXI.webp" alt="Le Blériot XI" width="400" loading="lazy" decoding="async" height="225" />
+  <img src="/assets/img/bleriotXI.webp" alt="Photographie d'un Blériot XI en vol : un monoplan à fuselage découvert, aile haubanée et train à deux roues, filant au-dessus des arbres" width="400" loading="lazy" decoding="async" height="225" />
   <br /><small><em>Le Blériot XI : l'avion qui traverse la Manche en 1909, en trente-sept minutes.</em></small>
 </p>
 
@@ -8283,13 +8375,15 @@ tags: technology
 
 # 1910 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/annexioncoree.webp' | relative_url }}" alt="L'annexion de la Corée" loading="lazy" decoding="async" width="1200" height="841" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/annexioncoree.webp' | relative_url }}" alt="L'annexion de la Corée" loading="lazy" decoding="async" width="1200" height="841" />
+  <br /><small><em>Le traité d'annexion de la Corée par le Japon, 1910. L'empereur Sunjong est contraint d'abdiquer : cinq siècles de dynastie Joseon s'achèvent.</em></small></p>
 
 <p>La Corée est annexée par l'Empire japonais. Suite à l'annexion, l'empereur Sunjong est contraint d'abdiquer, mettant ainsi fin à la dynastie Joseon. Pendant l'occupation japonaise, les Coréens subissent de nombreuses politiques répressives et discriminatoires de la part du gouvernement colonial japonais. Les Coréens sont forcés d'apprendre et de parler le japonais, leur culture et leurs traditions sont supprimées, et de nombreux Coréens sont exploités pour le travail forcé et les ressources naturelles du pays sont pillées.</p>
 
 # 1911 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ctr.webp' | relative_url }}" alt="Cartes perforées" loading="lazy" decoding="async" width="1200" height="945" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ctr.webp' | relative_url }}" alt="Cartes perforées" loading="lazy" decoding="async" width="1200" height="945" />
+  <br /><small><em>Opératrice sur une perforatrice de cartes, avec son tambour de tri. C'est de ce métier que naîtra la Computing-Tabulating-Recording Company, future IBM.</em></small></p>
 
 <p>Un financier nommé Charles Ranlett Flint orchestre la fusion de la Tabulating Machine Company de Hollerith avec trois autres sociétés (qui fabriquaient des balances commerciales, des horloges pointeuses et d'autres équipements de bureau). De cette fusion naît la Computing-Tabulating-Recording Company, ou CTR.</p>
 
@@ -8299,13 +8393,14 @@ tags: technology
 
 # 1912 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=R3XcpqJ8Dbw" data-id="R3XcpqJ8Dbw" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/R3XcpqJ8Dbw/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=R3XcpqJ8Dbw" data-id="R3XcpqJ8Dbw" rel="noopener" aria-label="Lire la vidéo YouTube : Naufrage du Titanic, une rescapée témoigne"><img src="https://i.ytimg.com/vi/R3XcpqJ8Dbw/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Naufrage du Titanic, une rescapée témoigne »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans la nuit du 14 au 15 avril 1912, le Titanic heurte un iceberg dans l'Atlantique Nord, provoquant la rupture de sa coque et l'inondation de ses compartiments étanches. En moins de trois heures, le navire sombre, entraînant la mort de plus de 1 500 des 2 224 passagers et membres d'équipage à bord. Le naufrage du Titanic est l'une des plus grandes tragédies maritimes de l'histoire.</p>
 
 # 1913 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lenine.webp' | relative_url }}" alt="Lénine" loading="lazy" decoding="async" width="1000" height="689" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lenine.webp' | relative_url }}" alt="Lénine" loading="lazy" decoding="async" width="1000" height="689" />
+  <br /><small><em>Lénine devant une bannière rouge, par Brodski. Rien, en 1913, n'annonce 1917 : le parti compte quelques milliers de membres et son chef vit en exil.</em></small></p>
 
 <p>Les bolcheviks restent un groupe minoritaire et marginal. Lénine vit en exil, le parti compte quelques milliers de membres, sa presse est saisie, et la police politique l'a infiltré jusqu'au sommet — le chef du groupe bolchevique à la Douma est un agent de l'Okhrana.</p>
 
@@ -8318,7 +8413,7 @@ tags: technology
 <p>Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'Allemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, la Russie et leurs alliés de l'autre — les États-Unis n'entrant dans le conflit qu'en 1917.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/guerre1418.webp' | relative_url }}" alt="1914-1918" width="600" loading="lazy" decoding="async" height="480" />
+  <img src="{{ '/assets/img/guerre1418.webp' | relative_url }}" alt="Montage de photographies de la Première Guerre mondiale : des colonnes de fantassins casqués en marche, une pièce d'artillerie servie par ses hommes, un avion de chasse, des tranchées et des villages en ruine" width="600" loading="lazy" decoding="async" height="480" />
   <br /><small><em>1914-1918 : dix millions de soldats et sept millions de civils morts, et la fin de quatre empires. Photo Nangniot, CC0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8332,7 +8427,7 @@ tags: technology
 
 # 1915 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PumBUVxrhW8" data-id="PumBUVxrhW8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/PumBUVxrhW8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PumBUVxrhW8" data-id="PumBUVxrhW8" rel="noopener" aria-label="Lire la vidéo YouTube : Vers une reconnaissance du génocide assyro-chaldéen"><img src="https://i.ytimg.com/vi/PumBUVxrhW8/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Vers une reconnaissance du génocide assyro-chaldéen »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les autorités ottomanes se livrent à un crime de masse contre la communauté assyro-chaldéenne, cet épisode historique reste relativement méconnu.</p>
 
@@ -8351,7 +8446,7 @@ tags: technology
 <p>Sur la Somme, quarante-neuf engins blindés à chenilles avancent pour la première fois vers les lignes allemandes. Les Britanniques les ont fait construire dans le plus grand secret, sous le nom de couverture de « réservoirs d'eau » — <em>tanks</em> — et le nom leur est resté.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/charmarki.webp' | relative_url }}" alt="Char britannique Mark I sur la Somme, septembre 1916" width="600" loading="lazy" decoding="async" height="425" />
+  <img src="{{ '/assets/img/charmarki.webp' | relative_url }}" alt="Photographie d'un char britannique Mark I sur la Somme en 1916 : l'engin chenillé, hérissé de sponsons et traînant sa roue de direction arrière, immobilisé au milieu d'un terrain bouleversé où se tiennent des soldats" width="600" loading="lazy" decoding="async" height="425" />
   <br /><small><em>Un Mark I britannique sur la Somme, 25 septembre 1916 — la première apparition du char sur un champ de bataille. Photo Ernest Brooks, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8366,7 +8461,7 @@ tags: technology
 <p>Début de la Révolution de Février qui provoque la chute du tsar.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/octobre1917.webp' | relative_url }}" alt="Octobre 1917" width="600" loading="lazy" decoding="async" height="385" />
+  <img src="{{ '/assets/img/octobre1917.webp' | relative_url }}" alt="Photographie de la Garde rouge en 1917 : un groupe d'ouvriers armés posant devant leur usine sous une banderole en cyrillique, mitrailleuse installée au premier plan" width="600" loading="lazy" decoding="async" height="385" />
   <br /><small><em>Octobre 1917 : un parti de quelques milliers de membres en février prend le pouvoir en Russie huit mois plus tard. Viktor Bulla, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8378,7 +8473,7 @@ tags: technology
 
 <p>Fin de la première guerre mondiale. Le roman d'Erich Maria Remarque À l'Ouest, rien de nouveau, et les films qui en seront tirés, dénonceront l'horreur et la futilité de cette guerre. Ils montrent qu'il n'y a aucune gloire, aucun honneur à chercher derrière une guerre. Juste de la tristesse, de l'horreur et de la désolation.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XruYsAmKLyU" data-id="XruYsAmKLyU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XruYsAmKLyU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XruYsAmKLyU" data-id="XruYsAmKLyU" rel="noopener" aria-label="Lire la vidéo YouTube : German WWI veteran describes killing a French soldier in a bayonet charge"><img src="https://i.ytimg.com/vi/XruYsAmKLyU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « German WWI veteran describes killing a French soldier in a bayonet charge »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Première entreprise aéropostale pour acheminer le courrier entre la France métropolitaine et l'outre-mer. Mais les vols de l'aéropostale sont des opérations à haut risque. En trois ans, près de la moitié de ces pilotes meurent ou disparaissent avec leur avion.</p>
 
@@ -8389,7 +8484,7 @@ tags: technology
 <p>Le 28 juin, dans la galerie des Glaces de Versailles — là même où l'Empire allemand avait été proclamé en 1871 —, l'Allemagne signe un traité qu'elle n'a pas négocié. Elle perd environ un septième de son territoire et la totalité de ses colonies, voit son armée ramenée à cent mille hommes, et se voit imputer par l'article 231 la responsabilité de la guerre, qui sert de fondement juridique à des réparations colossales.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/traiteversailles.webp' | relative_url }}" alt="Le traité de Versailles, signé dans la galerie des Glaces" width="600" loading="lazy" decoding="async" height="435" />
+  <img src="{{ '/assets/img/traiteversailles.webp' | relative_url }}" alt="Photographie de la signature du traité de Versailles dans la galerie des Glaces : la foule des délégués et des invités serrés de part et d'autre de la longue table, sous les lustres et les fenêtres du château" width="600" loading="lazy" decoding="async" height="435" />
   <br /><small><em>Le traité de Versailles, signé dans la galerie des Glaces : l'Allemagne perd un septième de son territoire et toutes ses colonies. Helen Johns Kirtland, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8401,7 +8496,8 @@ tags: technology
 
 # 1920 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/aviateurs.webp' | relative_url }}" alt="Les pionniers de l'aviation" loading="lazy" decoding="async" width="1000" height="751" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/aviateurs.webp' | relative_url }}" alt="Les pionniers de l'aviation" loading="lazy" decoding="async" width="1000" height="751" />
+  <br /><small><em>Un biplane des débuts et son équipage. Le public adule ces pionniers : l'aviation devient le symbole d'un « homme nouveau » — et le taux de mortalité des aviateurs de guerre atteint 25 %.</em></small></p>
 
 <p>Le concept de l'homme nouveau qui incarne l'étape supérieure de la civilisation est étroitement lié à l'aviation. Le public adule ces premiers aviateurs. Beaucoup de gens de cette époque rêvent de devenir aviateur.</p>
 
@@ -8409,13 +8505,14 @@ tags: technology
 
 # 1921 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V591sz3jdmY" data-id="V591sz3jdmY" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/V591sz3jdmY/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V591sz3jdmY" data-id="V591sz3jdmY" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine du sida : le Congo colonisé des années 1930"><img src="https://i.ytimg.com/vi/V591sz3jdmY/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine du sida : le Congo colonisé des années 1930 »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les populations locales du Congo auraient été infectées par le virus similaire au VIH présent chez les singes, puis auraient transmis le virus à d'autres populations par le biais de relations sexuelles non protégées et d'autres pratiques qui favorisent la transmission du virus.</p>
 
 # 1922 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ulysse.webp' | relative_url }}" alt="Ulysse de James Joyce" loading="lazy" decoding="async" width="1200" height="820" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ulysse.webp' | relative_url }}" alt="Ulysse de James Joyce" loading="lazy" decoding="async" width="1200" height="820" />
+  <br /><small><em>Un exemplaire de l'édition originale d'<em>Ulysse</em>, dans sa couverture bleue. Joyce y enferme une seule journée dublinoise dans sept cents pages.</em></small></p>
 
 <p>Publication du Roman Ulysse de James Joyce. Il est considéré comme l'un des romans les plus importants de la littérature moderne.</p>
 
@@ -8425,30 +8522,33 @@ tags: technology
 
 # 1923 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vwf0DafQLnI" data-id="vwf0DafQLnI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vwf0DafQLnI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vwf0DafQLnI" data-id="vwf0DafQLnI" rel="noopener" aria-label="Lire la vidéo YouTube : 1923, les conséquences de l'hyperinflation"><img src="https://i.ytimg.com/vi/vwf0DafQLnI/hqdefault.jpg" alt="Miniature de la vidéo YouTube « 1923, les conséquences de l'hyperinflation »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Période d'hyperinflation en Allemagne. Le gouvernement allemand commence à imprimer de l'argent en grandes quantités, ce qui entraîne une augmentation de la masse monétaire en circulation. L'augmentation de la masse monétaire entraîne une chute de la valeur de la monnaie allemande, le mark. Les prix commencent à augmenter de manière exponentielle, ce qui entraîne une spirale inflationniste.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/billet1923.webp' | relative_url }}" alt="Billet de cent millions de marks, 1923" width="600" loading="lazy" decoding="async" height="349" />
+  <img src="{{ '/assets/img/billet1923.webp' | relative_url }}" alt="Photographie d'un billet allemand de cent millions de marks daté du 22 août 1923 : une coupure vert pâle à l'inscription « Einhundert Millionen Mark », frappée d'un numéro de série rouge" width="600" loading="lazy" decoding="async" height="349" />
   <br /><small><em>Un billet de cent millions de marks daté du 22 août 1923. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1924 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ibm.webp' | relative_url }}" alt="Thomas J. Watson, fondateur d'IBM" loading="lazy" decoding="async" width="1200" height="1172" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ibm.webp' | relative_url }}" alt="Thomas J. Watson, fondateur d'IBM" loading="lazy" decoding="async" width="1200" height="1172" />
+  <br /><small><em>Thomas J. Watson. Dix ans après son arrivée, il abandonne le nom terne de « Computing-Tabulating-Recording » pour un autre, beaucoup plus ambitieux : International Business Machines.</em></small></p>
 
 <p>Le conglomérat CTR est rebaptisé International Business Machines Corporation (IBM). Dix ans après son arrivée, Watson abandonne le nom terne et technique de « Computing-Tabulating-Recording Company » pour un nom volontairement grandiose. Le choix est purement programmatique, presque visionnaire : on parle d'« International » alors que l'activité reste très largement américaine, et de « Business Machines » pour affirmer une ambition globale dépassant la simple tabulatrice. Le nom précède donc la réalité — il décrit l'entreprise que Watson veut bâtir, pas celle qu'il dirige encore. C'est sous cette nouvelle identité qu'IBM s'impose comme l'acteur dominant du traitement de l'information pour le demi-siècle suivant.</p>
 
 # 1926 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/posteaerienne.webp' | relative_url }}" alt="La poste aérienne" loading="lazy" decoding="async" width="700" height="509" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/posteaerienne.webp' | relative_url }}" alt="La poste aérienne" loading="lazy" decoding="async" width="700" height="509" />
+  <br /><small><em>Remise d'un sac postal à un hydravion. Ce n'est pas le transport de passagers qui rend l'aviation commerciale rentable aux États-Unis, c'est le courrier.</em></small></p>
 
 <p>L'aviation commerciale devient rentable aux États-Unis. Ce n'est pas le transport de passagers qui y parvient le premier, mais le courrier : en confiant les lignes postales à des opérateurs privés, l'État leur garantit un revenu régulier. Les compagnies nées de ces contrats — parmi lesquelles celles qui formeront United Airlines — sont les premières à dégager des bénéfices significatifs. Les passagers viendront ensuite, d'abord comme un supplément au sac postal.</p>
 
 # 1928 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/alphabetturc.webp' | relative_url }}" alt="La réforme de l'alphabet turc" loading="lazy" decoding="async" width="800" height="1162" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/alphabetturc.webp' | relative_url }}" alt="La réforme de l'alphabet turc" loading="lazy" decoding="async" width="800" height="1162" />
+  <br /><small><em>Mustafa Kemal enseignant lui-même le nouvel alphabet latin au tableau noir. La réforme abandonne les caractères arabes et coupe en une génération l'accès aux textes ottomans.</em></small></p>
 
 <p>La Turquie adopte un alphabet latin pour l'écriture de sa langue nationale, le turc, en 1928. Cette décision est prise dans le cadre de la réforme linguistique de Mustafa Kemal Atatürk, qui vise à moderniser et à occidentaliser la Turquie en adoptant certaines caractéristiques de la culture et de la technologie occidentales.</p>
 
@@ -8461,7 +8561,7 @@ tags: technology
 <p>Crise économique, également connue sous le nom de Grande Dépression. De nombreux clients ont demandé à retirer leur argent en même temps, ce qui est connu sous le nom de "panique bancaire". Les banques sont incapables de rembourser tous les clients qui demandent leur argent en même temps, ce qui a conduit à un effondrement de la confiance dans le système bancaire. En outre, il y a également une forte incertitude économique à l'époque, causée par la surproduction, la baisse des prix, la baisse des salaires et le chômage croissant. Les gens sont préoccupés par leur capacité à rembourser leurs dettes et ont donc retiré leur argent des banques pour éviter tout risque de perte.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/krach1929.webp' | relative_url }}" alt="Le krach de 1929" width="420" loading="lazy" decoding="async" height="599" />
+  <img src="{{ '/assets/img/krach1929.webp' | relative_url }}" alt="Photographie du krach de 1929 : une foule dense envahissant la rue devant la Bourse de New York, vue en plongée entre les façades" width="420" loading="lazy" decoding="async" height="599" />
   <br /><small><em>Le krach de 1929 : les épargnants se pressent devant les banques qui ne peuvent plus rembourser. US-gov, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8469,7 +8569,7 @@ tags: technology
 
 <p>Il y a 2 milliards d'homo sapiens sur Terre.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=YfG2ajbFknM" data-id="YfG2ajbFknM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/YfG2ajbFknM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=YfG2ajbFknM" data-id="YfG2ajbFknM" rel="noopener" aria-label="Lire la vidéo YouTube : Gandhi : la non-violence comme arme"><img src="https://i.ytimg.com/vi/YfG2ajbFknM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Gandhi : la non-violence comme arme »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Sous le régime colonial britannique en Inde, la production et la vente du sel sont strictement réglementées, et les Indiens doivent payer une taxe sur le sel. Or le sel est une nécessité de base et est également largement disponible sur les côtes du pays.</p>
 
@@ -8477,7 +8577,8 @@ tags: technology
 
 # 1931 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mandchourie.webp' | relative_url }}" alt="L'invasion de la Mandchourie" loading="lazy" decoding="async" width="417" height="333" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mandchourie.webp' | relative_url }}" alt="L'invasion de la Mandchourie" loading="lazy" decoding="async" width="417" height="333" />
+  <br /><small><em>Troupes japonaises dans une rue chinoise, 1931. L'invasion de la Mandchourie est déclenchée par une explosion sur une voie ferrée — organisée par les envahisseurs eux-mêmes.</em></small></p>
 
 <p>Le gouvernement japonais envahit la Mandchourie, une région située dans le nord-est de la Chine. Le Japon, en tant qu'île avec des ressources limitées, cherche à étendre son territoire et à acquérir des ressources naturelles pour soutenir sa croissance économique et industrielle. La Mandchourie est riche en ressources, notamment en charbon, en fer et en terres arables, ce qui la rend très attractive pour le Japon.</p>
 
@@ -8485,7 +8586,8 @@ tags: technology
 
 # 1932 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/elections1932.webp' | relative_url }}" alt="Les élections allemandes de 1932" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/elections1932.webp' | relative_url }}" alt="Les élections allemandes de 1932" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Les élections allemandes de 1920 à 1933, carte par carte. Le brun envahit la carte en deux ans : en juillet 1932, le parti nazi devient le premier d'Allemagne avec 37,3 %.</em></small></p>
 
 <p>Aux élections de juillet, le parti nazi obtient 37,3 % des voix et devient le premier parti du Reichstag. Il n'a pas la majorité, et il ne l'obtiendra jamais dans une élection libre — son score reculera même au scrutin de novembre.</p>
 
@@ -8495,7 +8597,8 @@ tags: technology
 
 # 1933 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/haavara.webp' | relative_url }}" alt="L'accord Haavara" loading="lazy" decoding="async" width="570" height="823" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/haavara.webp' | relative_url }}" alt="L'accord Haavara" loading="lazy" decoding="async" width="570" height="823" />
+  <br /><small><em>Document de la Palästina Treuhandstelle, l'organisme de l'accord Haavara. Le régime nazi organise alors le départ des Juifs d'Allemagne, en leur faisant payer le transfert de leurs biens.</em></small></p>
 
 <p>Le gouvernement nazi met en place des politiques et des accords, tels que l'Accord Haavara de 1933, pour faciliter le départ des Juifs d'Allemagne, en particulier vers la région de la Palestine, sous mandat Britannique.</p>
 
@@ -8505,7 +8608,8 @@ tags: technology
 
 # 1934 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/kuznets.webp' | relative_url }}" alt="Simon Kuznets" loading="lazy" decoding="async" width="409" height="545" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/kuznets.webp' | relative_url }}" alt="Simon Kuznets" loading="lazy" decoding="async" width="409" height="545" />
+  <br /><small><em>Simon Kuznets, inventeur du produit intérieur brut. Il avertira lui-même que le bien-être d'une nation ne se déduit pas de cet indicateur — avertissement largement ignoré depuis.</em></small></p>
 
 <p>La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.</p>
 
@@ -8518,25 +8622,28 @@ tags: technology
 <p>Adoption des lois de Nuremberg. Elles codifient la ségrégation : les juifs perdent la citoyenneté allemande et voient leur accès à la vie publique restreint. Dans ces années, les juifs sont progressivement exclus des associations culturelles, théâtres, concerts, piscines, parcs et bibliothèques municipales. Ces mesures donnent lieu à des affichages publics dans les écoles, piscines, parcs : « Juden unerwünscht » (« Juifs non admis »).</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/loisnuremberg.webp' | relative_url }}" alt="Le congrès de Nuremberg de 1935, où sont proclamées les lois qui privent les juifs allemands de la citoyenneté" width="600" loading="lazy" decoding="async" height="420" />
+  <img src="{{ '/assets/img/loisnuremberg.webp' | relative_url }}" alt="Photographie du congrès de Nuremberg de 1935 : les dignitaires du régime alignés devant une tribune, face à une foule immense en uniforme, drapeaux à croix gammée déployés" width="600" loading="lazy" decoding="async" height="420" />
   <br /><small><em>Le congrès de Nuremberg de 1935, où sont proclamées les lois qui privent les juifs allemands de la citoyenneté. Photo UnknownUnknown, CC BY-SA 3.0 de, via Wikimedia Commons.</em></small>
 </p>
 
 # 1937 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/shanghai1937.webp' | relative_url }}" alt="La bataille de Shanghai" loading="lazy" decoding="async" width="1200" height="955" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/shanghai1937.webp' | relative_url }}" alt="La bataille de Shanghai" loading="lazy" decoding="async" width="1200" height="955" />
+  <br /><small><em>Soldats japonais masqués à Shanghai, 1937. L'une des premières et des plus longues batailles urbaines de la guerre.</em></small></p>
 
 <p>Offensive japonaise contre Shanghai, également connue sous le nom de Bataille de Shanghai. Cette bataille est l'une des premières et des plus longues batailles urbaines de la Seconde Guerre sino-japonaise. Cette offensive s'arrête avec la prise de contrôle de Shanghai par les forces japonaises.</p>
 
 # 1938 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/kristallnacht.webp' | relative_url }}" alt="La Nuit de Cristal" loading="lazy" decoding="async" width="1200" height="846" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/kristallnacht.webp' | relative_url }}" alt="La Nuit de Cristal" loading="lazy" decoding="async" width="1200" height="846" />
+  <br /><small><em>Synagogue saccagée après la Nuit de Cristal, novembre 1938. Les uniformes présents sur les lieux ne sont pas là pour empêcher : le pogrom est organisé.</em></small></p>
 
 <p>Le décret sur l'enregistrement des biens juifs (Verordnung über die Anmeldung des Vermögens von Juden) oblige tout Juif à déclarer ses biens au-dessus de 5 000 Reichsmark. C'est la base de données qui rend l'aryanisation systématique possible.</p>
 
 # 1939 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/boycottjuif.webp' | relative_url }}" alt="Le boycott des commerces juifs" loading="lazy" decoding="async" width="800" height="600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/boycottjuif.webp' | relative_url }}" alt="Le boycott des commerces juifs" loading="lazy" decoding="async" width="800" height="600" />
+  <br /><small><em>Vitrine placardée du mot d'ordre de boycott, avril 1933 : « Allemands, défendez-vous contre la propagande juive, n'achetez que chez des Allemands. »</em></small></p>
 
 <p>Le décret « pour l'élimination des Juifs de la vie économique allemande » (Verordnung zur Ausschaltung der Juden aus dem deutschen Wirtschaftsleben) impose la cession ou la liquidation forcée des entreprises juives, avec effet au 1er janvier 1939. </p>
 
@@ -8546,7 +8653,8 @@ tags: technology
 
 # 1940 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/finlande.webp' | relative_url }}" alt="La guerre d'Hiver" loading="lazy" decoding="async" width="1200" height="787" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/finlande.webp' | relative_url }}" alt="La guerre d'Hiver" loading="lazy" decoding="async" width="1200" height="787" />
+  <br /><small><em>Mitrailleurs finlandais en tenue de neige. L'Union soviétique envahit la Finlande pour récupérer des territoires ; elle l'emportera, mais au prix de pertes qui dissimuleront mal sa faiblesse.</em></small></p>
 
 <p>La Finlande est finalement forcée de céder certains territoires à l'Union soviétique, lorsque les deux pays signent un traité de paix.</p>
 
@@ -8559,7 +8667,7 @@ tags: technology
 <p>L'opération Barbarossa, nom de code de l'invasion allemande de l'Union soviétique, commence. L'opération Barbarossa est lancée avec environ 3,8 millions de soldats allemands, ce qui en fait la plus grande invasion de l'histoire. L'invasion allemande de l'Union soviétique brise le pacte de non-agression et conduit le PCF (Parti Communiste Français) à adopter une position plus combative envers l'occupant allemand et le gouvernement de Vichy.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/barbarossa.webp' | relative_url }}" alt="L'opération Barbarossa" width="420" loading="lazy" decoding="async" height="501" />
+  <img src="{{ '/assets/img/barbarossa.webp' | relative_url }}" alt="Montage de photographies de l'opération Barbarossa : des colonnes d'infanterie et de blindés progressant dans les plaines, des soldats à l'assaut sous la fumée et une formation de bombardiers survolant un fleuve" width="420" loading="lazy" decoding="async" height="501" />
   <br /><small><em>L'opération Barbarossa : 3,8 millions d'hommes lancés sur l'URSS, la plus grande invasion de l'histoire. Photo Bundesarchiv, Bild 146-1974-099-19 / Kempe / CC-BY-SA 3.0 Samaryi Gura, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8589,7 +8697,7 @@ tags: technology
 
 # 1942 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1yoM_ky5E" data-id="-i1yoM_ky5E" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-i1yoM_ky5E/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1yoM_ky5E" data-id="-i1yoM_ky5E" rel="noopener" aria-label="Lire la vidéo YouTube : Liberté de Paul Éluard, du poème d'amour à l'hymne de la Résistance"><img src="https://i.ytimg.com/vi/-i1yoM_ky5E/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Liberté de Paul Éluard, du poème d'amour à l'hymne de la Résistance »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Paul Eluard écrit "Liberté", pendant l'occupation allemande de la France lors de la Seconde Guerre mondiale. Ce poème est un symbole de résistance et de défiance face à l'oppression et à la tyrannie. Il exprime l'espoir et la foi dans la liberté, malgré les circonstances sombres de l'époque.</p>
 
@@ -8615,13 +8723,13 @@ tags: technology
 
 <p>Laval instaure le Service du travail obligatoire (STO). Le STO a pour but d'envoyer des travailleurs français en Allemagne afin de combler les pénuries de main-d'œuvre dues à la mobilisation allemande de ses propres citoyens pour l'effort militaire. Beaucoup de jeunes Français refusent de participer au STO et rejoignent les maquis pour échapper à la conscription et lutter contre l'occupant allemand. Les maquis sont actifs dans toute la France, en particulier dans les zones rurales et montagneuses, où le terrain difficile offre une protection naturelle contre les forces d'occupation. Ils mènent des actions de sabotage, des attaques contre les forces allemandes et de Vichy.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=xokPRAHCx8s" data-id="xokPRAHCx8s" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/xokPRAHCx8s/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=xokPRAHCx8s" data-id="xokPRAHCx8s" rel="noopener" aria-label="Lire la vidéo YouTube : La Milice française"><img src="https://i.ytimg.com/vi/xokPRAHCx8s/hqdefault.jpg" alt="Miniature de la vidéo YouTube « La Milice française »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La Milice française est créée par le gouvernement de Vichy, dirigé par le maréchal Philippe Pétain et son Premier ministre, Pierre Laval. La Milice est une organisation paramilitaire destinée à aider les autorités de Vichy et les forces d'occupation allemandes à lutter contre la Résistance française et à maintenir l'ordre en France.</p>
 
 # 1944 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ndQhTOgPpw4" data-id="ndQhTOgPpw4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/ndQhTOgPpw4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ndQhTOgPpw4" data-id="ndQhTOgPpw4" rel="noopener" aria-label="Lire la vidéo YouTube : Wernher von Braun, le nazi passé à la Nasa, inventeur du missile balistique"><img src="https://i.ytimg.com/vi/ndQhTOgPpw4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Wernher von Braun, le nazi passé à la Nasa, inventeur du missile balistique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La première fusée V2 opérationnelle est tirée le 8 septembre 1944, contre la région de Paris puis contre Londres. Les Alliés n'ont pas d'arme équivalente aux fusées V2 en termes de technologie de missiles balistiques à longue portée.</p>
 
@@ -8629,9 +8737,9 @@ tags: technology
 
 # 1945 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=aG8qV0cEtKo" data-id="aG8qV0cEtKo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/aG8qV0cEtKo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=aG8qV0cEtKo" data-id="aG8qV0cEtKo" rel="noopener" aria-label="Lire la vidéo YouTube : Einstein est-il le père de la bombe atomique ?"><img src="https://i.ytimg.com/vi/aG8qV0cEtKo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Einstein est-il le père de la bombe atomique ? »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=zkUbelhnb9o" data-id="zkUbelhnb9o" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/zkUbelhnb9o/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=zkUbelhnb9o" data-id="zkUbelhnb9o" rel="noopener" aria-label="Lire la vidéo YouTube : Les regrets de Robert Oppenheimer, le père de la bombe atomique"><img src="https://i.ytimg.com/vi/zkUbelhnb9o/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Les regrets de Robert Oppenheimer, le père de la bombe atomique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La première bombe atomique est larguée sur la ville japonaise d'Hiroshima. Cette bombe a été développée par les États-Unis pendant la Seconde Guerre mondiale dans le cadre du projet Manhattan, qui avait pour objectif de créer une arme nucléaire.</p>
 
@@ -8643,18 +8751,19 @@ tags: technology
 
 <p>Les forces alliées décident de diviser temporairement la péninsule coréenne en deux zones d'occupation, séparées par le 38e parallèle. La zone au nord du 38e parallèle est occupée par l'Union soviétique, tandis que la zone au sud est occupée par les États-Unis.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=x9t9kLNbWJ4" data-id="x9t9kLNbWJ4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/x9t9kLNbWJ4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=x9t9kLNbWJ4" data-id="x9t9kLNbWJ4" rel="noopener" aria-label="Lire la vidéo YouTube : L'histoire du tout premier ordinateur"><img src="https://i.ytimg.com/vi/x9t9kLNbWJ4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « L'histoire du tout premier ordinateur »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Invention de L'ENIAC. C'est l'un des premiers ordinateurs électroniques de grande échelle, capable d'être reprogrammé pour résoudre un large éventail de problèmes de calcul.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/eniac.webp' | relative_url }}" alt="L'ENIAC, université de Pennsylvanie" width="600" loading="lazy" decoding="async" height="452" />
+  <img src="{{ '/assets/img/eniac.webp' | relative_url }}" alt="Photographie de panneaux de l'ENIAC conservés à l'université de Pennsylvanie : deux armoires métalliques couvertes de tubes, de fiches et de câbles de connexion, présentées derrière une vitrine" width="600" loading="lazy" decoding="async" height="452" />
   <br /><small><em>Panneaux de l'ENIAC conservés à l'université de Pennsylvanie. Photo TexasDex, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 # 1946 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/haiphong.webp' | relative_url }}" alt="Haiphong" loading="lazy" decoding="async" width="1200" height="753" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/haiphong.webp' | relative_url }}" alt="Haiphong" loading="lazy" decoding="async" width="1200" height="753" />
+  <br /><small><em>Hô Chi Minh trinquant avec un officier français, 1946. Quelques mois plus tard, la guerre d'Indochine commence.</em></small></p>
 
 <p>À Haiphong, un différend douanier tourne au bombardement : la marine française tire sur la ville et fait plusieurs milliers de morts. En décembre, le Viêt Minh attaque à Hanoï. La guerre d'Indochine commence.</p>
 
@@ -8675,7 +8784,7 @@ tags: technology
 <p>Le premier transistor — dit « à pointes » — est mis au point le 23 décembre 1947 par John Bardeen et Walter Brattain, aux Bell Labs. Leur chef d'équipe, William Shockley, absent de la manipulation décisive, en conçoit l'année suivante une version bien plus robuste, le transistor à jonction, qui sera celle réellement produite en série ; les trois hommes partageront le prix Nobel. Leur invention marque une avancée majeure dans la technologie des semi-conducteurs et ouvre la voie à la miniaturisation et à l'amélioration des appareils électroniques.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/transistor.webp' | relative_url }}" alt="Réplique du premier transistor, Bell Labs 1947" width="380" loading="lazy" decoding="async" height="340" />
+  <img src="{{ '/assets/img/transistor.webp' | relative_url }}" alt="Photographie de la réplique du premier transistor : le petit montage de germanium et de contacts métalliques, monté sur son socle sous une cloche de verre, avec le cartouche des Bell Labs daté du 23 décembre 1947" width="380" loading="lazy" decoding="async" height="340" />
   <br /><small><em>Réplique du premier transistor, Bell Labs, 23 décembre 1947. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8686,7 +8795,7 @@ tags: technology
 <p>Le 14 mai, à Tel-Aviv, David Ben Gourion proclame l'indépendance de l'État d'Israël, quelques heures avant l'expiration du mandat britannique sur la Palestine. Les armées de cinq États arabes voisins entrent en guerre le lendemain.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/israel1948.webp' | relative_url }}" alt="Le 14 mai 1948 à Tel-Aviv" width="600" loading="lazy" decoding="async" height="400" />
+  <img src="{{ '/assets/img/israel1948.webp' | relative_url }}" alt="Photographie de la proclamation d'indépendance d'Israël à Tel-Aviv le 14 mai 1948 : Ben Gourion lisant la déclaration debout derrière une longue table, sous le portrait de Herzl encadré de deux drapeaux" width="600" loading="lazy" decoding="async" height="400" />
   <br /><small><em>Le 14 mai 1948 à Tel-Aviv : Ben Gourion proclame l'indépendance quelques heures avant l'expiration du mandat britannique. Rudi Weissenstein, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8702,7 +8811,7 @@ tags: technology
 
 <p>Le convertisseur catalytique utilise un catalyseur, généralement du platine, du palladium ou du rhodium, pour convertir ces polluants en substances moins nocives, comme l'eau et le dioxyde de carbone.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3raimObEqK8" data-id="3raimObEqK8" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/3raimObEqK8/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3raimObEqK8" data-id="3raimObEqK8" rel="noopener" aria-label="Lire la vidéo YouTube : Adidas contre Puma : la rivalité des frères Dassler à l'origine du &quot;sport business&quot;"><img src="https://i.ytimg.com/vi/3raimObEqK8/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Adidas contre Puma : la rivalité des frères Dassler à l'origine du &quot;sport business&quot; »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Adi Dassler fonde officiellement Adidas.</p>
 
@@ -8712,7 +8821,8 @@ tags: technology
 
 # 1950 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/toyota.webp' | relative_url }}" alt="Le siège de Toyota à Toyota City" loading="lazy" decoding="async" width="1000" height="1000" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/toyota.webp' | relative_url }}" alt="Le siège de Toyota à Toyota City" loading="lazy" decoding="async" width="1000" height="1000" />
+  <br /><small><em>Le siège de Toyota à Toyota City. C'est ici qu'un ingénieur, Taiichi Ohno, met au point le flux tendu — un principe d'organisation qui gagnera ensuite tous les secteurs industriels.</em></small></p>
 
 <p>Le concept de flux tendu est développé par l'ingénieur japonais Taiichi Ohno, alors qu'il travaille pour la société Toyota. Ce concept vise à optimiser la production en éliminant les gaspillages et en créant un flux de travail continu et sans interruption.</p>
 
@@ -8725,7 +8835,7 @@ tags: technology
 <p>Pour la première fois, l'uranium produit de l'électricité : le réacteur expérimental EBR-I, dans l'Idaho, allume quatre ampoules. La première centrale nucléaire américaine à vocation commerciale, Shippingport en Pennsylvanie, ne démarrera qu'en 1957. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ebr1.webp' | relative_url }}" alt="EBR-I, dans l'Idaho" width="420" loading="lazy" decoding="async" height="630" />
+  <img src="{{ '/assets/img/ebr1.webp' | relative_url }}" alt="Photographie de l'intérieur du réacteur EBR-I, dans l'Idaho : la salle de la machinerie avec ses passerelles métalliques, ses conduites et le tableau de commande sous les panneaux de signalisation" width="420" loading="lazy" decoding="async" height="630" />
   <br /><small><em>EBR-I, dans l'Idaho : pour la première fois, l'uranium allume quatre ampoules électriques. Photo Orange Suede Sofa, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8736,7 +8846,7 @@ tags: technology
 <p>Une période de smog intense s'installe dans la ville de Londres pendant plusieurs jours. Cette pollution est principalement causée par l'utilisation généralisée du charbon comme source d'énergie pour le chauffage et la production d'électricité. La visibilité est si faible que les gens ont du mal à se déplacer dans les rues et le trafic est presque complètement arrêté. La pollution a également des effets néfastes sur la santé, provoquant une augmentation considérable du nombre de décès dus à des problèmes respiratoires.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/smoglondres.webp' | relative_url }}" alt="La colonne Nelson dans le Grand Smog de 1952" width="600" loading="lazy" decoding="async" height="567" />
+  <img src="{{ '/assets/img/smoglondres.webp' | relative_url }}" alt="Photographie de la colonne Nelson pendant le Grand Smog de Londres en 1952 : la colonne et les arbres nus se devinant à peine dans un brouillard épais qui efface le reste de la place" width="600" loading="lazy" decoding="async" height="567" />
   <br /><small><em>La colonne Nelson dans le Grand Smog de 1952 : quatre jours de brouillard au charbon, plusieurs milliers de morts — et la première loi sur l'air. Photo N T Stobbs, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8744,7 +8854,8 @@ tags: technology
 
 # 1953 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/armisticecoree.webp' | relative_url }}" alt="L'armistice de Panmunjeom" loading="lazy" decoding="async" width="1200" height="1634" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/armisticecoree.webp' | relative_url }}" alt="L'armistice de Panmunjeom" loading="lazy" decoding="async" width="1200" height="1634" />
+  <br /><small><em>La dernière page de l'armistice de Panmunjeom, avec les signatures. Il n'a jamais été remplacé par un traité de paix : techniquement, la guerre de Corée n'est pas terminée.</em></small></p>
 
 <p>Mort de Staline.</p>
 
@@ -8764,11 +8875,11 @@ tags: technology
 
 <p>Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=p4C6oBdW1kM" data-id="p4C6oBdW1kM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/p4C6oBdW1kM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=p4C6oBdW1kM" data-id="p4C6oBdW1kM" rel="noopener" aria-label="Lire la vidéo YouTube : Godzilla, symbole des traumatismes du Japon"><img src="https://i.ytimg.com/vi/p4C6oBdW1kM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Godzilla, symbole des traumatismes du Japon »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Apparition de Godzilla à l'écran.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Wo5ja19QCJc" data-id="Wo5ja19QCJc" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/Wo5ja19QCJc/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Wo5ja19QCJc" data-id="Wo5ja19QCJc" rel="noopener" aria-label="Lire la vidéo YouTube : Dien Bien Phu : pourquoi la France a perdu cette bataille mythique"><img src="https://i.ytimg.com/vi/Wo5ja19QCJc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Dien Bien Phu : pourquoi la France a perdu cette bataille mythique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Au Nord du Vietnam, deux armées s'affrontent: l'armée française et l'armée populaire vietnamienne. C'est la bataille de Dien Bien Phu. Cette bataille fait plus de 10000 morts. Le Vietnam, le Laos et le Cambodge deviennent indépendants. C'est la fin de la guerre d'Indochine.</p>
 
@@ -8778,13 +8889,15 @@ tags: technology
 
 # 1955 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/castromexique.webp' | relative_url }}" alt="Fidel Castro et Che Guevara au Mexique" loading="lazy" decoding="async" width="1200" height="834" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/castromexique.webp' | relative_url }}" alt="Fidel Castro et Che Guevara au Mexique" loading="lazy" decoding="async" width="1200" height="834" />
+  <br /><small><em>Statues de Fidel Castro et d'Ernesto Guevara à Mexico. C'est en exil dans cette ville que les deux hommes se rencontrent — Guevara est alors un médecin argentin.</em></small></p>
 
 <p>Castro est libéré grâce à une amnistie. Il part en exil au Mexique avec son frère Raúl et d'autres partisans. Là, ils rencontrent Ernesto "Che" Guevara, un médecin argentin et révolutionnaire marxiste qui devient un membre clé du mouvement. Ensemble, ils planifient leur retour à Cuba pour renverser Batista.</p>
 
 # 1956 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/granma.webp' | relative_url }}" alt="Le Granma" loading="lazy" decoding="async" width="700" height="502" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/granma.webp' | relative_url }}" alt="Le Granma" loading="lazy" decoding="async" width="700" height="502" />
+  <br /><small><em>Le <em>Granma</em>, le yacht qui ramena Castro, Guevara et quatre-vingts hommes à Cuba. Presque tous furent tués ou capturés dans les jours suivant le débarquement.</em></small></p>
 
 <p>Castro, Guevara, Raúl Castro et environ 80 autres rebelles retournent à Cuba à bord d'un bateau. Leur objectif est de rejoindre des groupes de résistance sur place et de lancer une guérilla contre le régime de Batista. Cependant, les forces gouvernementales les attaquent rapidement et seuls 12 rebelles, dont les frères Castro et Guevara, réussissent à s'échapper dans les montagnes de la Sierra Maestra.</p>
 
@@ -8793,7 +8906,7 @@ tags: technology
 <p>Mao lance le Grand Bond en avant : la Chine doit rattraper la production d'acier du Royaume-Uni en quinze ans. Les campagnes sont regroupées en communes populaires de plusieurs milliers de foyers, où disparaissent la propriété privée, la cuisine familiale et souvent le repas pris chez soi. Des centaines de milliers de « hauts fourneaux de jardin » s'allument dans les villages ; les paysans y fondent leurs casseroles, leurs outils, parfois leurs charrues, pour produire une fonte inutilisable.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/grandbond.webp' | relative_url }}" alt="Un haut fourneau d'arrière-cour pendant le Grand Bond en avant" width="420" loading="lazy" decoding="async" height="630" />
+  <img src="{{ '/assets/img/grandbond.webp' | relative_url }}" alt="Photographie en noir et blanc d'un chantier du Grand Bond en avant : un enchevêtrement d'échafaudages de bois, de fours d'arrière-cour et de banderoles à idéogrammes, où s'affairent des dizaines de travailleurs" width="420" loading="lazy" decoding="async" height="630" />
   <br /><small><em>Un haut fourneau d'arrière-cour pendant le Grand Bond en avant : de l'acier inutilisable, produit en fondant les outils des paysans. Unknown authorUnknown author, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8808,13 +8921,13 @@ tags: technology
 <p>Batista fuit Cuba pour la République dominicaine, et les forces rebelles prennent le contrôle de La Havane. Le 8 janvier, Fidel Castro entre triomphalement dans la capitale cubaine. Après la prise de pouvoir, Castro met en place un gouvernement révolutionnaire et commence à mettre en œuvre des réformes sociales et économiques radicales, telles que la nationalisation des industries et la redistribution des terres.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/castro.webp' | relative_url }}" alt="Fidel Castro entre à La Havane en janvier 1959, après deux ans de guérilla dans la Sierra Maestra" width="420" loading="lazy" decoding="async" height="622" />
+  <img src="{{ '/assets/img/castro.webp' | relative_url }}" alt="Portrait photographique de Fidel Castro en 1959 : un homme jeune en vareuse militaire, barbe et cheveux noirs, regardant hors champ" width="420" loading="lazy" decoding="async" height="622" />
   <br /><small><em>Fidel Castro entre à La Havane en janvier 1959, après deux ans de guérilla dans la Sierra Maestra. Unknown, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1960 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=tYQrfPTEk6E" data-id="tYQrfPTEk6E" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/tYQrfPTEk6E/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=tYQrfPTEk6E" data-id="tYQrfPTEk6E" rel="noopener" aria-label="Lire la vidéo YouTube : Comment l'apparition du chauffage a bouleversé nos relations sociales"><img src="https://i.ytimg.com/vi/tYQrfPTEk6E/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment l'apparition du chauffage a bouleversé nos relations sociales »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le chauffage central devient de plus en plus répandu dans les nouvelles constructions résidentielles, et de nombreux foyers commencent à installer des systèmes de chauffage central dans leurs maisons existantes.</p>
 
@@ -8838,7 +8951,8 @@ tags: technology
 
 # 1961 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/b5000.webp' | relative_url }}" alt="Un grand système Burroughs" loading="lazy" decoding="async" width="800" height="940" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/b5000.webp' | relative_url }}" alt="Un grand système Burroughs" loading="lazy" decoding="async" width="800" height="940" />
+  <br /><small><em>Schéma de la gestion des piles et des tâches d'un système Burroughs. Le B5000 est conçu pour exécuter directement un langage évolué plutôt que du code machine — une idée en avance d'une génération.</em></small></p>
 
 <p>Conception de l'ordinateur B5000. Contrairement à beaucoup d'autres ordinateurs de l'époque, qui sont conçus principalement pour exécuter du code en langage machine ou en assembleur, le B5000 est conçu pour exécuter efficacement des langages de haut niveau. Il est particulièrement optimisé pour le langage ALGOL 60, un prédécesseur de nombreux langages de programmation modernes.</p>
 
@@ -8856,7 +8970,7 @@ tags: technology
 
 # 1962 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=gS6o_QNxc6k" data-id="gS6o_QNxc6k" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/gS6o_QNxc6k/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=gS6o_QNxc6k" data-id="gS6o_QNxc6k" rel="noopener" aria-label="Lire la vidéo YouTube : Rachel Carson, pionnière de la lutte contre les pesticides"><img src="https://i.ytimg.com/vi/gS6o_QNxc6k/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Rachel Carson, pionnière de la lutte contre les pesticides »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Rachel Carson publie "Printemps silencieux". Le livre dénonce les effets néfastes des pesticides et autres produits chimiques sur l'environnement et la vie sauvage, en particulier les oiseaux.</p>
 
@@ -8874,7 +8988,8 @@ tags: technology
 
 # 1964 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/bachman.webp' | relative_url }}" alt="Charles Bachman" loading="lazy" decoding="async" width="784" height="1200" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/bachman.webp' | relative_url }}" alt="Charles Bachman" loading="lazy" decoding="async" width="784" height="1200" />
+  <br /><small><em>Charles Bachman. Son Integrated Data Store est l'un des premiers systèmes que l'on puisse appeler une base de données : les informations cessent d'être enfermées dans le programme qui les traite.</em></small></p>
 
 <p>L'un des premiers systèmes qui peut être qualifié de base de données informatisée est le "Integrated Data Store" (IDS), développé par Charles Bachman chez General Electric. IDS est un système de gestion de base de données en réseau : les données y sont reliées entre elles par des chaînes de pointeurs, ce qui permet à un enregistrement d'appartenir à plusieurs ensembles à la fois. Le modèle est rigide à modifier une fois en place, mais il représente une avancée significative dans la manière dont les données peuvent être stockées et récupérées de manière efficace.</p>
 
@@ -8882,7 +8997,8 @@ tags: technology
 
 # 1965 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/att.webp' | relative_url }}" alt="Standard téléphonique du réseau Bell" loading="lazy" decoding="async" width="600" height="491" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/att.webp' | relative_url }}" alt="Standard téléphonique du réseau Bell" loading="lazy" decoding="async" width="600" height="491" />
+  <br /><small><em>Un standard téléphonique et ses opératrices. Le monopole d'AT&T portait aussi sur les appareils raccordés au réseau ; c'est ce verrou-là qui sautera, et qui ouvrira la voie aux modems.</em></small></p>
 
 <p>Après l'affaire Hush-A-Phone, la contestation du monopole d'AT&T sur les équipements raccordés au réseau s'installe ; elle aboutira en 1968 à la décision Carterfone, par laquelle l'organisme fédéral de régulation des télécommunications (FCC) statue que des équipements non-Bell peuvent être raccordés au système téléphonique « sans dommage pour le réseau ». Cette décision crée la possibilité de vendre des appareils se connectant au réseau via un coupleur de protection loué auprès d'AT&T, et ouvre le marché aux équipements installés chez le client. Autrement dit, AT&T conserve un temps un point de contrôle (le fameux coupleur), mais la brèche est ouverte — et c'est par cette brèche que passeront, plus tard, les modems et donc l'accès grand public à Internet.</p>
 
@@ -8891,7 +9007,7 @@ tags: technology
 <p>Affaibli par le désastre du Grand Bond et écarté de la gestion courante, Mao lance une révolution contre son propre parti. Il appelle la jeunesse à « bombarder le quartier général » — c'est-à-dire à s'en prendre aux cadres qui l'ont mis de côté. Des millions d'adolescents s'organisent en gardes rouges, obtiennent la gratuité des trains, et parcourent le pays pour dénoncer, humilier et frapper leurs professeurs, leurs directeurs, leurs voisins, parfois leurs parents.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/revolutionculturelle.webp' | relative_url }}" alt="La Révolution culturelle" width="323" loading="lazy" decoding="async" height="203" />
+  <img src="{{ '/assets/img/revolutionculturelle.webp' | relative_url }}" alt="Photographie de la Révolution culturelle : un long mur couvert de slogans peints en grands caractères chinois blancs, devant des bâtiments universitaires" width="323" loading="lazy" decoding="async" height="203" />
   <br /><small><em>La Révolution culturelle : Mao lance la jeunesse contre son propre parti — « bombarder le quartier général ». Villa Giulia, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8913,7 +9029,8 @@ tags: technology
 
 # 1967 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/garciamarquez.webp' | relative_url }}" alt="Gabriel García Márquez" loading="lazy" decoding="async" width="1200" height="1791" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/garciamarquez.webp' | relative_url }}" alt="Gabriel García Márquez" loading="lazy" decoding="async" width="1200" height="1791" />
+  <br /><small><em>Gabriel García Márquez. <em>Cent Ans de solitude</em> paraît en 1967 et fait entrer le réalisme magique latino-américain dans la littérature mondiale.</em></small></p>
 
 <p>Paraît à Buenos Aires <em>Cent Ans de solitude</em>, de Gabriel García Márquez. L'auteur, journaliste colombien sans le sou, a écrit le livre en dix-huit mois enfermé à Mexico pendant que sa femme faisait crédit chez les commerçants ; il n'avait pas de quoi affranchir le manuscrit entier et l'a expédié en deux fois.</p>
 
@@ -8923,13 +9040,14 @@ tags: technology
 
 # 1968 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mylai.webp' | relative_url }}" alt="Le massacre de My Lai" loading="lazy" decoding="async" width="1200" height="674" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mylai.webp' | relative_url }}" alt="Le massacre de My Lai" loading="lazy" decoding="async" width="1200" height="674" />
+  <br /><small><em>Le mémorial de My Lai, au Vietnam. Entre trois cent quarante-sept et cinq cent quatre civils désarmés y furent tués par des soldats américains.</em></small></p>
 
 <p>Massacre de My Lai pendant la guerre du Vietnam. Des soldats américains tuent entre 347 et 504 civils vietnamiens non armés dans le village de My Lai. Les victimes sont majoritairement des femmes, des enfants et des personnes âgées. L'événement a mis en lumière les atrocités commises en temps de guerre.</p>
 
 # 1969 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-rfSyV9n4v0" data-id="-rfSyV9n4v0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-rfSyV9n4v0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-rfSyV9n4v0" data-id="-rfSyV9n4v0" rel="noopener" aria-label="Lire la vidéo YouTube : Voici l'ancêtre d'internet (Arpanet) | Les Chroniques de Dr Nozman - Science &amp; Vie TV"><img src="https://i.ytimg.com/vi/-rfSyV9n4v0/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Voici l'ancêtre d'internet (Arpanet) | Les Chroniques de Dr Nozman - Science &amp; Vie TV »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".</p>
 
@@ -8940,20 +9058,20 @@ tags: technology
 <p>L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/arpanet.webp' | relative_url }}" alt="Carte logique de l'ARPANET, mars 1977" width="600" loading="lazy" decoding="async" height="429" />
+  <img src="{{ '/assets/img/arpanet.webp' | relative_url }}" alt="Reproduction de la carte logique de l'ARPANET de mars 1977 : un réseau de nœuds étiquetés par machine et par site, reliés par des lignes et des liaisons satellite, sans aucun centre" width="600" loading="lazy" decoding="async" height="429" />
   <br /><small><em>Carte logique de l'ARPANET en mars 1977, huit ans après les quatre premiers nœuds : aucun centre, des chemins multiples entre chaque machine. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=g3jOJfrOknA" data-id="g3jOJfrOknA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/g3jOJfrOknA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=g3jOJfrOknA" data-id="g3jOJfrOknA" rel="noopener" aria-label="Lire la vidéo YouTube : Pushing the Limits of Technology: The Ken Thompson and Dennis Ritchie Story"><img src="https://i.ytimg.com/vi/g3jOJfrOknA/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Pushing the Limits of Technology: The Ken Thompson and Dennis Ritchie Story »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Ken Thompson et Dennis Ritchie inventent un système d'exploitation "Unix" au Bell Telephone Laboratories. Le nom est un jeu de mots sur celui de Multics, le système tentaculaire auquel ils venaient de renoncer : leur version en était la déclinaison dépouillée, d'abord baptisée "Unics". L'objectif initial de Thompson et Ritchie est de développer un système d'exploitation qui peut être utilisé sur le matériel du laboratoire et qui est plus facile à utiliser que les systèmes d'exploitation existants de l'époque. Unix est d'emblée un système multi-utilisateurs : plusieurs personnes travaillent simultanément sur la même machine depuis des terminaux distincts, ce qui le prédisposera à l'usage en réseau. Elle inclut un shell (un interpréteur de commandes) qui permet aux utilisateurs de taper des commandes pour lancer des programmes et accéder aux fichiers du système.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=TifdpeYvv1k" data-id="TifdpeYvv1k" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/TifdpeYvv1k/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=TifdpeYvv1k" data-id="TifdpeYvv1k" rel="noopener" aria-label="Lire la vidéo YouTube : Le plan de vol d'Apollo 11 - Explore - Conquête spatiale"><img src="https://i.ytimg.com/vi/TifdpeYvv1k/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Le plan de vol d'Apollo 11 - Explore - Conquête spatiale »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11, qui emporte Neil Armstrong, Buzz Aldrin et Michael Collins — ce dernier restant en orbite aux commandes du module de commande. Selon les estimations, environ 500 millions de personnes regardent les premiers pas sur la Lune en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/apollo11.webp' | relative_url }}" alt="Buzz Aldrin sur la Lune, juillet 1969" width="480" loading="lazy" decoding="async" height="483" />
+  <img src="{{ '/assets/img/apollo11.webp' | relative_url }}" alt="Photographie de Buzz Aldrin sur la mer de la Tranquillité : l'astronaute en combinaison blanche debout dans la poussière lunaire, Armstrong et le module lunaire se reflétant dans sa visière dorée" width="480" loading="lazy" decoding="async" height="483" />
   <br /><small><em>Buzz Aldrin sur la mer de la Tranquillité — Armstrong et le module se reflètent dans sa visière. Photo Neil Armstrong / NASA, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8963,7 +9081,8 @@ tags: technology
 
 # 1970 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/petrolesaoudien.webp' | relative_url }}" alt="Le pétrole saoudien" loading="lazy" decoding="async" width="688" height="663" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/petrolesaoudien.webp' | relative_url }}" alt="Le pétrole saoudien" loading="lazy" decoding="async" width="688" height="663" />
+  <br /><small><em>Le gisement de Ghawar, le plus grand champ pétrolier du monde. C'est cette rente qui finance la diffusion internationale de mosquées, d'écoles et d'une doctrine religieuse.</em></small></p>
 
 <p>L'Arabie Saoudite utilise sa richesse pétrolière pour diffuser largement ses vues au niveau international, notamment en finançant la construction de mosquées, d'écoles coraniques et d'universités dans de nombreux pays à travers le monde. En outre, l'Arabie Saoudite et d'autres pays du Golfe financent des campagnes de da’wa,c'est-à-dire la diffusion de l'islam auprès des non-musulmans, en utilisant des médias, des livres et des sites Web pour promouvoir leurs vues sur l'islam.</p>
 
@@ -8974,7 +9093,7 @@ tags: technology
 
 # 1971 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7_Xw5tWsOQo" data-id="7_Xw5tWsOQo" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/7_Xw5tWsOQo/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7_Xw5tWsOQo" data-id="7_Xw5tWsOQo" rel="noopener" aria-label="Lire la vidéo YouTube : August 15, 1971 - Richard Nixon Closes the Gold Window"><img src="https://i.ytimg.com/vi/7_Xw5tWsOQo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « August 15, 1971 - Richard Nixon Closes the Gold Window »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>« Choc Nixon » : dans une allocution télévisée, Richard Nixon annonce la suspension de la convertibilité du dollar en or. Cela met fin au système monétaire issu de la conférence de Bretton Woods (1ᵉʳ–22 juillet 1944), dans lequel le dollar est convertible en or à 35 dollars l'once et les autres monnaies arrimées au dollar. À partir de là, la monnaie n'est plus adossée à rien de métallique : elle devient purement fiduciaire (fiat money), garantie par le seul État émetteur.</p>
 
@@ -8983,7 +9102,7 @@ tags: technology
 <p>Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. Assez proche de la machine pour rester rapide, assez lisible pour qu'un humain s'y retrouve : c'est ce compromis qui fera sa fortune.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ritchie.webp' | relative_url }}" alt="Dennis Ritchie" width="420" loading="lazy" decoding="async" height="540" />
+  <img src="{{ '/assets/img/ritchie.webp' | relative_url }}" alt="Photographie de Dennis Ritchie : un homme âgé à la barbe et aux cheveux blancs, en costume et cravate à pois, s'exprimant devant un micro" width="420" loading="lazy" decoding="async" height="540" />
   <br /><small><em>Dennis Ritchie : le langage C, assez proche de la machine pour rester rapide, assez lisible pour un humain. Photo Denise Panyik-Dale, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8994,13 +9113,14 @@ tags: technology
 <p>L'Organisation des pays exportateurs de pétrole (OPEP) souhaite réduire significativement la production et de faire augmenter les prix du pétrole. Cette décision est prise en réaction à la décision de l'administration américaine de fournir une aide militaire à Israël pendant la guerre du Kippour, qui oppose Israël à l'Égypte et à la Syrie. L'OPEP veut utiliser son pouvoir de contrôle sur l'offre de pétrole pour faire pression sur les États-Unis et leur faire changer d'avis sur leur soutien à Israël. Le premier choc pétrolier a conduit à une augmentation de la demande pour les sources d'énergie alternatives, telles que l'énergie solaire et éolienne.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chocpetrolier.webp' | relative_url }}" alt="Le choc pétrolier de 1973" width="386" loading="lazy" decoding="async" height="582" />
+  <img src="{{ '/assets/img/chocpetrolier.webp' | relative_url }}" alt="Photographie du choc pétrolier de 1973 : une personne lit un journal annonçant le rationnement de l'essence, devant une station-service où est accroché un panneau « Sorry, no gasoline »" width="386" loading="lazy" decoding="async" height="582" />
   <br /><small><em>Le choc pétrolier de 1973 : stations à sec et dimanches sans voiture — l'énergie bon marché n'est plus acquise. David Falconer, Photographer, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1974 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ozone.webp' | relative_url }}" alt="Le trou dans la couche d'ozone" loading="lazy" decoding="async" width="1200" height="1098" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ozone.webp' | relative_url }}" alt="Le trou dans la couche d'ozone" loading="lazy" decoding="async" width="1200" height="1098" />
+  <br /><small><em>Le trou dans la couche d'ozone au-dessus de l'Antarctique, mesuré par la NASA. Molina et Rowland avaient annoncé le mécanisme dès 1974, à partir d'un simple raisonnement chimique.</em></small></p>
 
 <p>Mario Molina et Sherwood Rowland, de l'Université de Californie à Irvine, publient une étude théorique montrant que les chlorofluorocarbones (CFC) rejetés par les aérosols et les réfrigérateurs détruisent l'ozone de la haute atmosphère. Personne n'a encore rien observé dans le ciel : ce n'est qu'un calcul. Il faudra attendre onze ans pour que la mesure leur donne raison.</p>
 
@@ -9008,7 +9128,7 @@ tags: technology
 
 <p>Il y a 4 milliards d'homo sapiens sur Terre.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1DFU-7TMM" data-id="-i1DFU-7TMM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-i1DFU-7TMM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1DFU-7TMM" data-id="-i1DFU-7TMM" rel="noopener" aria-label="Lire la vidéo YouTube : Avortement : depuis 1973, un droit encore fragile"><img src="https://i.ytimg.com/vi/-i1DFU-7TMM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Avortement : depuis 1973, un droit encore fragile »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L'avortement est dépénalisé en France. Cette loi est une étape majeure dans la reconnaissance du droit des femmes à disposer de leur corps et met fin à la criminalisation de l'avortement.</p>
 
@@ -9018,7 +9138,7 @@ tags: technology
 
 # 1976 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XImzZe5qUTk" data-id="XImzZe5qUTk" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/XImzZe5qUTk/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XImzZe5qUTk" data-id="XImzZe5qUTk" rel="noopener" aria-label="Lire la vidéo YouTube : Pot catalytique"><img src="https://i.ytimg.com/vi/XImzZe5qUTk/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Pot catalytique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les premiers convertisseurs catalytiques sont montés en série sur les véhicules à essence américains — l'invention de Houdry, restée sans emploi pendant vingt-cinq ans, devient enfin utilisable grâce à l'interdiction de l'essence au plomb. Elle équipera bientôt la quasi-totalité du parc automobile mondial.</p>
 
@@ -9027,11 +9147,11 @@ tags: technology
 # 1977 ans
 
 <p style="text-align:center">
-  <img src="/assets/img/apple2.webp" alt="L'Apple II" width="400" loading="lazy" decoding="async" height="400" />
+  <img src="/assets/img/apple2.webp" alt="Photographie d'un Apple II sur fond noir : le boîtier beige à clavier intégré, surmonté d'un moniteur monochrome et de deux lecteurs de disquettes" width="400" loading="lazy" decoding="async" height="400" />
   <br /><small><em>L'Apple II : l'un des premiers ordinateurs vendus prêts à l'emploi au grand public.</em></small>
 </p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=EKrGqx8tB0Q" data-id="EKrGqx8tB0Q" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/EKrGqx8tB0Q/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=EKrGqx8tB0Q" data-id="EKrGqx8tB0Q" rel="noopener" aria-label="Lire la vidéo YouTube : L'Apple II et la naissance du télétravail - #CulturePrime"><img src="https://i.ytimg.com/vi/EKrGqx8tB0Q/hqdefault.jpg" alt="Miniature de la vidéo YouTube « L'Apple II et la naissance du télétravail - #CulturePrime »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L'Apple II est présenté pour la première fois par Steve Jobs et Steve Wozniak au West Coast Computer Faire, un salon professionnel de l'informatique qui se tient les 16 et 17 avril 1977 à San Francisco. Cet ordinateur est lancé sur le marché en avril 1977 et est l'un des premiers ordinateurs personnels de l'histoire. Il est également le premier ordinateur à être livré avec un kit de développement logiciel complet, ce qui permet aux utilisateurs de créer leurs propres programmes. Pour créer ces programmes, on utilise surtout le langage BASIC, le langage de programmation le plus couramment utilisé sur l'Apple II. Il est également possible de programmer en utilisant d'autres langages tels que le langage machine ou le langage assembleur. En utilisant ces langages de programmation, les utilisateurs peuvent créer des programmes simples, tels que des jeux vidéo, grâce à son écran couleur, ou des applications de base de données, ou des programmes plus complexes, tels que des outils de gestion de projets ou des applications de traitement de texte.</p>
 
@@ -9041,7 +9161,8 @@ tags: technology
 
 # 1978 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/wordstar.webp' | relative_url }}" alt="WordStar" loading="lazy" decoding="async" width="522" height="307" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/wordstar.webp' | relative_url }}" alt="WordStar" loading="lazy" decoding="async" width="522" height="307" />
+  <br /><small><em>WordStar à l'écran, menu de commandes en haut. Le traitement de texte devient un produit autonome, acheté séparément et interchangeable : le logiciel se détache de la machine.</em></small></p>
 
 <p>Sortie de WordStar 1.0. C'est le moment où le logiciel de traitement de texte devient un produit autonome, acheté séparément, interchangeable. Le logiciel n'est plus soudé à une machine particulière. Il vit sa propre vie. On paye le logiciel pour lui-même — l'exact inverse du modèle « tout compris » d'IBM.</p>
 
@@ -9052,14 +9173,14 @@ tags: technology
 # 1979 ans
 
 <p style="text-align:center">
-  <img src="/assets/img/visicalc.webp" alt="VisiCalc" width="400" loading="lazy" decoding="async" height="275" />
+  <img src="/assets/img/visicalc.webp" alt="Capture d'écran de VisiCalc : une feuille de calcul en caractères verts sur fond noir, avec ses colonnes d'articles, de quantités et de prix, et le total calculé en bas" width="400" loading="lazy" decoding="async" height="275" />
   <br /><small><em>VisiCalc : le premier tableur — l'application qui, à elle seule, a justifié l'achat de milliers d'Apple II.</em></small>
 </p>
 
 <p>VisiCalc est crée pour l'Apple II. Il permet aux utilisateurs de faire des calculs de manière simple et rapide, sans avoir à utiliser des feuilles de calcul papier. Pour démarrer VisiCalc sur un ordinateur Apple II, il faut d'abord insérer le disque contenant le logiciel dans le lecteur de disque de l'ordinateur. Ensuite, il faut appuyer sur la touche "reset" pour redémarrer l'ordinateur et charger le logiciel à partir du disque. Une fois que l'ordinateur a redémarré, le programme VisiCalc devrait s'ouvrir automatiquement. Si ce n'est pas le cas, vous pouvez essayer de le démarrer manuellement en tapant "VISICALC" sur la ligne de commande et en appuyant sur la touche "entrée".</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/compuserve.webp" alt="CompuServe" width="400" loading="lazy" decoding="async" height="304" />
+  <img src="/assets/img/compuserve.webp" alt="Capture d'écran de CompuServe Information Manager : la fenêtre « Explore Services » et sa grille d'icônes — actualités, médias, informatique, sports, finance, voyages, achats —, sous une barre de menus et d'outils" width="400" loading="lazy" decoding="async" height="304" />
   <br /><small><em>CompuServe : l'un des tout premiers services en ligne grand public, accessible par modem téléphonique.</em></small>
 </p>
 
@@ -9069,7 +9190,8 @@ tags: technology
 
 # 1980 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/recyclage.webp' | relative_url }}" alt="Le tri des déchets" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/recyclage.webp' | relative_url }}" alt="Le tri des déchets" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Poubelles de tri sélectif. Les lois des années 1980 déplacent la question des déchets : il ne s'agit plus seulement de les évacuer, mais de les séparer et de les valoriser.</em></small></p>
 
 <p>Des lois visent à améliorer le tri, le recyclage et la valorisation des déchets. On cherche de plus en plus à adopter une approche énergétique plus responsable, à réduire l'impact carbone à optimiser la consommation énergétique, à améliorer le recyclage des matériaux, et à développer des systèmes locaux d'énergie verte.</p>
 
@@ -9077,13 +9199,15 @@ tags: technology
 
 # 1981 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/smartmodem.webp' | relative_url }}" alt="Le Hayes Smartmodem" loading="lazy" decoding="async" width="1200" height="695" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/smartmodem.webp' | relative_url }}" alt="Le Hayes Smartmodem" loading="lazy" decoding="async" width="1200" height="695" />
+  <br /><small><em>Le Hayes Smartmodem. Avec son jeu de commandes, le modem cesse d'être un appareil de spécialiste : n'importe quel logiciel peut désormais lui dire de composer un numéro.</em></small></p>
 
 <p>Hayes est une marque majeure du marché du modem dès l'introduction du Smartmodem original à 300 bits/s. C'est l'année où le modem cesse d'être un appareil de spécialiste pour devenir un produit qu'on peut acquérir et brancher nous-mêmes. L'utilisateur acquiert un terminal simple ou un PC, le branche sur la ligne téléphonique, et compose le numéro du service qu'il veut — la banque, puis un « service d'information » plus généraliste pour la météo ou les actualités interactives.</p>
 
 # 1983 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/servicesenligne.webp' | relative_url }}" alt="Un modem des années 1980" loading="lazy" decoding="async" width="1200" height="800" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/servicesenligne.webp' | relative_url }}" alt="Un modem des années 1980" loading="lazy" decoding="async" width="1200" height="800" />
+  <br /><small><em>Un poste des années 1980 : téléphone à cadran, coupleur acoustique, micro-ordinateur et lecteur de cassettes. Se connecter coûtait cher à l'heure, d'où les connexions nocturnes.</em></small></p>
 
 <p>CompuServe est l'un des tout premiers services en ligne commerciaux destinés au grand public. Pour s'y connecter, il faut un ordinateur personnel, un modem et une ligne téléphonique. On compose un numéro, et l'on entre dans un univers entièrement textuel, sans la moindre image.</p>
 
@@ -9096,13 +9220,14 @@ tags: technology
 <p>Des scientifiques britanniques publient un rapport qui attire l'attention du public sur la gravité du problème de la couche d'ozone et son impact potentiel sur la santé humaine et l'environnement. Le rapport montre que la diminution de la couche d'ozone est causé par les émissions de produits chimiques tels que les chlorofluorocarbones (CFC) utilisés dans les réfrigérateurs, les climatiseurs, les aérosols, etc.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/trouozone.webp' | relative_url }}" alt="Le trou dans la couche d'ozone au-dessus de l'Antarctique" width="600" loading="lazy" decoding="async" height="600" />
+  <img src="{{ '/assets/img/trouozone.webp' | relative_url }}" alt="Carte satellite du trou dans la couche d'ozone au-dessus de l'Antarctique : le continent vu du pôle, entouré d'un dégradé de couleurs où la vaste zone violette signale l'ozone le plus appauvri" width="600" loading="lazy" decoding="async" height="600" />
   <br /><small><em>Le trou dans la couche d'ozone au-dessus de l'Antarctique : un problème mondial identifié, puis effectivement résolu par un traité. NASA, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 # 1989 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/nsfnet.webp' | relative_url }}" alt="Le réseau NSFNET" loading="lazy" decoding="async" width="1200" height="725" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/nsfnet.webp' | relative_url }}" alt="Le réseau NSFNET" loading="lazy" decoding="async" width="1200" height="725" />
+  <br /><small><em>La dorsale NSFNET en 1992. Le réseau universitaire américain devient l'épine dorsale de l'Internet, juste avant son ouverture au commerce.</em></small></p>
 
 <p>100 000 ordinateurs sont connectés à Internet. Internet est principalement utilisé pour échanger de l'information et des données scientifiques. L'accès à Internet est limité et coûteux, et seuls quelques privilégiés ont accès à cette technologie. La plupart des gens ne peuvent accéder à Internet que via des ordinateurs professionnels coûteux et connectés à des serveurs distants. Les utilisateurs doivent utiliser des commandes complexes pour accéder à l'information en ligne.</p>
 
@@ -9118,7 +9243,8 @@ tags: technology
 
 # 1990 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/aol.webp' | relative_url }}" alt="Un CD-ROM America Online" loading="lazy" decoding="async" width="1200" height="1208" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/aol.webp' | relative_url }}" alt="Un CD-ROM America Online" loading="lazy" decoding="async" width="1200" height="1208" />
+  <br /><small><em>Un CD promotionnel America Online. AOL en a inondé la planète avec des heures gratuites — mais ce qu'il proposait était un jardin clos plutôt que l'Internet.</em></small></p>
 
 <p>AOL lance le service grand public qui, dans les années qui suivent, inondera la planète de disquettes puis de CD promettant des heures de connexion gratuites — une campagne marketing d'une ampleur folle. Mais AOL n'est pas vraiment Internet : c'est un univers fermé et curaté auquel on accède par abonnement.</p>
 
@@ -9142,7 +9268,7 @@ tags: technology
 <p>Fin de l'Union soviétique (URSS). Eltsine accepte sans violence le départ de l’Ukraine et de la Biélorussie, signant avec ses homologues ukrainien et biélorusse les accords de Belovej, qui actent la dissolution de l'URSS.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/finurss.webp' | relative_url }}" alt="Des chars dans Moscou en août 1991" width="600" loading="lazy" decoding="async" height="402" />
+  <img src="{{ '/assets/img/finurss.webp' | relative_url }}" alt="Deux photographies superposées du Grand Palais du Kremlin, prises depuis le même point de vue : sur la première flotte le drapeau rouge soviétique, sur la seconde le drapeau tricolore de la Fédération de Russie" width="600" loading="lazy" decoding="async" height="402" />
   <br /><small><em>Des chars dans Moscou en août 1991 : le putsch manqué contre Gorbatchev précipite la dissolution de l'URSS, quatre mois plus tard. Photo Ivan Simochkin, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -9161,7 +9287,8 @@ tags: technology
 
 # 1992 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/stationtravail.webp' | relative_url }}" alt="Une station de travail Sun" loading="lazy" decoding="async" width="1200" height="444" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/stationtravail.webp' | relative_url }}" alt="Une station de travail Sun" loading="lazy" decoding="async" width="1200" height="444" />
+  <br /><small><em>Une station de travail Sun. C'est sur des machines de ce genre que tournaient les premiers serveurs web, quand un million d'ordinateurs seulement étaient connectés.</em></small></p>
 
 <p>Un million d'ordinateurs sont connectés à Internet. Le réseau reste l'affaire des universités, des laboratoires et de quelques administrations : on y échange du courrier, des fichiers et des messages dans des forums, en mode texte, avec des commandes qu'il faut avoir apprises.</p>
 
@@ -9174,32 +9301,34 @@ tags: technology
 <p>Création au Rwanda de la radio des Mille Collines, une radio privée, juste avant le début du génocide rwandais. La radio diffuse des messages incitant au meurtre de Tutsis et de Hutu modérés.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/rwanda.webp' | relative_url }}" alt="Le génocide des Tutsi" width="600" loading="lazy" decoding="async" height="399" />
+  <img src="{{ '/assets/img/rwanda.webp' | relative_url }}" alt="Photographie d'un mémorial du génocide des Tutsi au Rwanda : une rangée de crânes alignés sur une étagère dans la pénombre" width="600" loading="lazy" decoding="async" height="399" />
   <br /><small><em>Le génocide des Tutsi : environ huit cent mille morts en cent jours, sur fond d'appels au meurtre diffusés à la radio. Photo Fanny Schertzer, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 # 1994 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/winsock.webp' | relative_url }}" alt="Un modem RTC" loading="lazy" decoding="async" width="1200" height="778" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/winsock.webp' | relative_url }}" alt="Un modem RTC" loading="lazy" decoding="async" width="1200" height="778" />
+  <br /><small><em>Un modem RTC à 2400 bits/s. Avec Trumpet Winsock, un PC ordinaire pouvait enfin parler TCP/IP et se connecter directement à l'Internet, sans passer par un service propriétaire.</em></small></p>
 
 <p>Trumpet Winsock sort et elle acquiert une réputation internationale comme le meilleur logiciel disponible pour se connecter à Internet. Concrètement : une fois Trumpet Winsock installé, on peut enfin faire tourner Netscape, Eudora ou WS_FTP sur son PC et accéder au web naissant, à l'e-mail et au transfert de fichiers.</p>
 
 # 1995 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/netscape.webp' | relative_url }}" alt="Netscape Navigator" loading="lazy" decoding="async" width="1117" height="699" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/netscape.webp' | relative_url }}" alt="Netscape Navigator" loading="lazy" decoding="async" width="1117" height="699" />
+  <br /><small><em>Netscape Navigator 2.02. C'est dans ce navigateur que sont livrés les cookies HTTP, qui donnent enfin une mémoire à un protocole conçu sans en avoir.</em></small></p>
 
 <p>L'ingénieur Lou Montulli a développé les cookies HTTP chez Netscape l'année précédente ; ils sont livrés dans le navigateur et se généralisent à partir de cette année. Cette technologie permet à un site web de mémoriser certaines informations entre plusieurs visites ou pages consultées, comme un identifiant de session, un panier d'achat ou des préférences utilisateur. Les cookies deviennent rapidement un élément fondamental du fonctionnement du Web moderne, facilitant l'authentification des utilisateurs, le commerce électronique et, plus tard, le suivi publicitaire en ligne.</p>
 
 # 1996 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2I0K6kQtx6A" data-id="2I0K6kQtx6A" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/2I0K6kQtx6A/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2I0K6kQtx6A" data-id="2I0K6kQtx6A" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine de Google, une ambition futuriste"><img src="https://i.ytimg.com/vi/2I0K6kQtx6A/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine de Google, une ambition futuriste »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QdoU2tZYJbQ" data-id="QdoU2tZYJbQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/QdoU2tZYJbQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QdoU2tZYJbQ" data-id="QdoU2tZYJbQ" rel="noopener" aria-label="Lire la vidéo YouTube : Comment Google est devenu un empire"><img src="https://i.ytimg.com/vi/QdoU2tZYJbQ/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment Google est devenu un empire »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Deux doctorants, Larry Page et Sergey Brin, s'intéressent aux grosses bases de données. Ils veulent inventer une technique qui permet d'aider les utilisateurs à trouver la meilleure information dans une très grande quantité de documents.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/premiere-machine-google.webp" alt="La première machine de Google, bricolée à Stanford" width="400" loading="lazy" decoding="async" height="436" />
+  <img src="/assets/img/premiere-machine-google.webp" alt="Photographie de la première machine de Google exposée en vitrine : un boîtier bricolé en briques Lego multicolores dans lequel sont empilés les disques durs, à côté du panneau explicatif" width="400" loading="lazy" decoding="async" height="436" />
   <br /><small><em>La première machine de Google, bricolée à Stanford : les disques durs tiennent dans un boîtier de Lego.</em></small>
 </p>
 
@@ -9222,13 +9351,14 @@ tags: technology
 
 # 1997 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QRTN1i4iC2M" data-id="QRTN1i4iC2M" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/QRTN1i4iC2M/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QRTN1i4iC2M" data-id="QRTN1i4iC2M" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine de Netflix : une archéologie de la paresse"><img src="https://i.ytimg.com/vi/QRTN1i4iC2M/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine de Netflix : une archéologie de la paresse »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Netflix est fondé par Reed Hastings et Marc Randolph. À l'origine, l'entreprise offre un service de location de DVD par correspondance. Au fil du temps, Netflix évolue pour devenir un service de streaming en ligne.</p>
 
 # 1998 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/google1998.webp' | relative_url }}" alt="Les débuts de Google" loading="lazy" decoding="async" width="1200" height="1600" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/google1998.webp' | relative_url }}" alt="Les débuts de Google" loading="lazy" decoding="async" width="1200" height="1600" />
+  <br /><small><em>Le premier serveur de Google, boîtiers empilés et câbles apparents. L'architecture — beaucoup de machines ordinaires plutôt qu'une grosse — restera celle de tous ses centres de données.</em></small></p>
 
 <p>Fondation de Google dans la Silicon Valley. Désormais, Google a une mission claire: aider les utilisateurs à trouver exactement ce qu'ils veulent sur Internet.</p>
 
@@ -9236,11 +9366,11 @@ tags: technology
 
 # 2001 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=I8vsW6U8nnM" data-id="I8vsW6U8nnM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/I8vsW6U8nnM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=I8vsW6U8nnM" data-id="I8vsW6U8nnM" rel="noopener" aria-label="Lire la vidéo YouTube : À l’origine de Wikipédia, deux visions du savoir qui s'opposent"><img src="https://i.ytimg.com/vi/I8vsW6U8nnM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l’origine de Wikipédia, deux visions du savoir qui s'opposent »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Jimmy Wales et Larry Sanger créent Wikipedia en développant un logiciel de gestion de contenu en ligne qui permet à n'importe qui de créer et de modifier des articles encyclopédiques. Ils lancent le projet avec un petit nombre d'articles, et ils encouragent les bénévoles à contribuer au projet en ajoutant et en mettant à jour des articles.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=JJ70vt3FQb4" data-id="JJ70vt3FQb4" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/JJ70vt3FQb4/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=JJ70vt3FQb4" data-id="JJ70vt3FQb4" rel="noopener" aria-label="Lire la vidéo YouTube : 11 septembre 2001 : L'attentat du World Trade Center à New York | Archive INA"><img src="https://i.ytimg.com/vi/JJ70vt3FQb4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « 11 septembre 2001 : L'attentat du World Trade Center à New York | Archive INA »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les États-Unis sont attaqués dans un acte de terrorisme coordonné d'une ampleur sans précédent. Deux avions de ligne, détournés par des membres d'Al-Qaïda, s'écrasent dans les tours jumelles du World Trade Center à New York, causant leur effondrement. Un troisième avion s'écrase sur le Pentagone, près de Washington, D.C. Un quatrième avion, United Airlines Vol 93, s'écrase en Pennsylvanie après que les passagers et l'équipage tentent de reprendre le contrôle de l'appareil des terroristes. Ces attaques entraînent la mort de près de 3 000 personnes et marquent un tournant majeur dans l'histoire mondiale, déclenchant des guerres en Afghanistan et en Irak et menant à d'importantes modifications des politiques de sécurité nationale et internationale.</p>
 
@@ -9249,7 +9379,7 @@ tags: technology
 <p>Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Il est actuellement considéré que ce virus est originaire des chauves-souris, plus précisément d'une espèce de chauve-souris appelée Rhinolophus affinis.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/chauvesouris.webp" alt="Les chauves-souris" width="400" loading="lazy" decoding="async" height="266" />
+  <img src="/assets/img/chauvesouris.webp" alt="Photographie d'une chauve-souris en vol : l'animal ailes déployées, oreilles dressées et museau en gros plan, sur un fond de végétation floue" width="400" loading="lazy" decoding="async" height="266" />
   <br /><small><em>Les chauves-souris : réservoir naturel de nombreux coronavirus, dont celui du SRAS.</em></small>
 </p>
 
@@ -9259,13 +9389,14 @@ tags: technology
 
 # 2003 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=wdZiNyiPTPM" data-id="wdZiNyiPTPM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/wdZiNyiPTPM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=wdZiNyiPTPM" data-id="wdZiNyiPTPM" rel="noopener" aria-label="Lire la vidéo YouTube : [Entrée des troupes américaines dans Bagdad]"><img src="https://i.ytimg.com/vi/wdZiNyiPTPM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « [Entrée des troupes américaines dans Bagdad] »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les États-Unis, sous la présidence de George W. Bush, envahissent l'Irak. Cette action, officiellement nommée "Opération Liberté Irakienne", est lancée avec le soutien d'une "coalition des volontaires" incluant le Royaume-Uni et plusieurs autres alliés. L'invasion vise à destituer le président irakien Saddam Hussein, sous prétexte de la possession d'armes de destruction massive par l'Irak et de liens supposés avec le terrorisme, notamment Al-Qaïda. L'invasion suscite des controverses et des protestations à l'échelle internationale.</p>
 
 # 2005 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/youtube.webp' | relative_url }}" alt="Le siège de YouTube" loading="lazy" decoding="async" width="1200" height="671" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/youtube.webp' | relative_url }}" alt="Le siège de YouTube" loading="lazy" decoding="async" width="1200" height="671" />
+  <br /><small><em>Le siège de YouTube à San Bruno. Lancé en 2005, le site fait passer la vidéo en ligne d'une prouesse technique à un geste ordinaire.</em></small></p>
 
 <p>Trois anciens employés de PayPal mettent en ligne un site qui ne fait qu'une chose : permettre à n'importe qui de publier une vidéo sans rien connaître à l'informatique. La première, dix-neuf secondes tournées devant l'enclos des éléphants du zoo de San Diego, est postée en avril par l'un des fondateurs.</p>
 
@@ -9275,7 +9406,7 @@ tags: technology
 
 # 2006 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UR9Cc5g-F9c" data-id="UR9Cc5g-F9c" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/UR9Cc5g-F9c/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UR9Cc5g-F9c" data-id="UR9Cc5g-F9c" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine de Twitter, pionnier du microblogging"><img src="https://i.ytimg.com/vi/UR9Cc5g-F9c/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine de Twitter, pionnier du microblogging »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Twitter est créé par Jack Dorsey, Biz Stone, Evan Williams et Noah Glass.</p>
 
@@ -9289,7 +9420,7 @@ tags: technology
 
 <p>Lors de cette conférence de presse, Steve Jobs présente le premier iPhone comme étant un téléphone révolutionnaire qui combine un téléphone mobile, un iPod et un appareil de navigation Internet en un seul et même appareil. Il présente également de nouvelles fonctionnalités telles que l'écran tactile multipoint, le défilement à l'inertie et l'accès à Internet à haut débit.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3NR3RDedd5w" data-id="3NR3RDedd5w" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/3NR3RDedd5w/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=3NR3RDedd5w" data-id="3NR3RDedd5w" rel="noopener" aria-label="Lire la vidéo YouTube : Comprendre la rareté des métaux rares | Data Science | ARTE"><img src="https://i.ytimg.com/vi/3NR3RDedd5w/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comprendre la rareté des métaux rares | Data Science | ARTE »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le premier iPhone est lancé aux États-Unis le 29 juin 2007 et connaît un succès immédiat, devenant rapidement l'un des téléphones mobiles les plus populaires au monde. Depuis, Apple lance de nombreux modèles d'iPhone, chacun avec des fonctionnalités améliorées et de nouvelles technologies.</p>
 
@@ -9299,7 +9430,7 @@ tags: technology
 
 # 2008 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=eGGy2ocOLHE" data-id="eGGy2ocOLHE" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/eGGy2ocOLHE/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=eGGy2ocOLHE" data-id="eGGy2ocOLHE" rel="noopener" aria-label="Lire la vidéo YouTube : La crise des subprimes expliquée"><img src="https://i.ytimg.com/vi/eGGy2ocOLHE/hqdefault.jpg" alt="Miniature de la vidéo YouTube « La crise des subprimes expliquée »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La crise des subprimes débute. Elle est le résultat d'une combinaison de facteurs, dont les principaux sont les suivants :</p>
 
@@ -9317,7 +9448,7 @@ tags: technology
 
 # 2009 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-0JyEeH8rVU" data-id="-0JyEeH8rVU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-0JyEeH8rVU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-0JyEeH8rVU" data-id="-0JyEeH8rVU" rel="noopener" aria-label="Lire la vidéo YouTube : Bitcoin : des usines de minage géantes au Texas"><img src="https://i.ytimg.com/vi/-0JyEeH8rVU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Bitcoin : des usines de minage géantes au Texas »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Satoshi Nakamoto lance le logiciel Bitcoin et commence à émettre des Bitcoins. La mise en œuvre initiale de la blockchain est lancée avec la création du premier bloc de la chaîne Bitcoin, appelé bloc de genèse. Ce bloc de genèse du Bitcoin contient une transaction unique qui attribue une récompense de 50 bitcoins à l'adresse de Satoshi Nakamoto. En outre, il contient un message encodé dans le champ "coinbase" de cette transaction. Ce message est un titre d'article du Times daté du 3 janvier 2009 : "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks". Le message fait référence à la crise financière de l'époque et est souvent interprété comme une critique du système financier traditionnel, ainsi qu'une justification de la création d'une monnaie décentralisée comme Bitcoin. Le minage implique la résolution d'un problème mathématique complexe qui nécessite une puissance de calcul considérable. Une fois le problème résolu, le bloc est ajouté à la chaîne et les transactions qu'il contient sont considérées comme validées.</p>
 
@@ -9327,7 +9458,8 @@ tags: technology
 
 # 2011 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/apple2011.webp' | relative_url }}" alt="Apple" loading="lazy" decoding="async" width="1200" height="1200" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/apple2011.webp' | relative_url }}" alt="Apple" loading="lazy" decoding="async" width="1200" height="1200" />
+  <br /><small><em>Rencontre publique dans un Apple Store. (L'attribut de la balise annonce « Apple » : l'image n'illustre pas directement l'événement de la section et gagnerait à être remplacée.)</em></small></p>
 
 <p>Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.</p>
 
@@ -9337,13 +9469,15 @@ tags: technology
 
 # 2012 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/mers.webp' | relative_url }}" alt="Le coronavirus du MERS" loading="lazy" decoding="async" width="537" height="537" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/mers.webp' | relative_url }}" alt="Le coronavirus du MERS" loading="lazy" decoding="async" width="537" height="537" />
+  <br /><small><em>Le coronavirus du MERS au microscope électronique, avec sa couronne de spicules. C'est de cette famille que viendra, sept ans plus tard, le SARS-CoV-2.</em></small></p>
 
 <p>Identification du syndrome respiratoire du Moyen-Orient (MERS) en Arabie saoudite, une maladie causée par un coronavirus appelé MERS-CoV. Le taux de mortalité de ce virus est élevé. Le virus MERS est transmis de personne à personne par voie respiratoire ou par des animaux, notamment les dromadaires. 850 décès sont attribués à ce virus.</p>
 
 # 2013 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/ranaplaza.webp' | relative_url }}" alt="L'effondrement du Rana Plaza" loading="lazy" decoding="async" width="800" height="534" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ranaplaza.webp' | relative_url }}" alt="L'effondrement du Rana Plaza" loading="lazy" decoding="async" width="800" height="534" />
+  <br /><small><em>Les secours sur les décombres du Rana Plaza, Bangladesh. Plus de mille cent morts dans un immeuble d'ateliers textiles dont les fissures avaient été signalées la veille.</em></small></p>
 
 <p>Les manifestations de la révolution du 30 juin en Egypte conduisent à la destitution du président élu Mohamed Morsi.</p>
 
@@ -9353,7 +9487,8 @@ tags: technology
 
 # 2014 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/parapluies.webp' | relative_url }}" alt="Le mouvement des parapluies" loading="lazy" decoding="async" width="1200" height="900" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/parapluies.webp' | relative_url }}" alt="Le mouvement des parapluies" loading="lazy" decoding="async" width="1200" height="900" />
+  <br /><small><em>Des parapluies suspendus sous une passerelle pendant le mouvement de 2014 à Hong Kong. L'objet, d'abord utilisé contre les gaz lacrymogènes, est devenu l'emblème du mouvement.</em></small></p>
 
 <p>À Hong Kong, des dizaines de milliers d'étudiants occupent le centre financier pendant soixante-dix-neuf jours pour réclamer un suffrage réellement universel : Pékin venait d'annoncer que les électeurs pourraient bien choisir leur chef de l'exécutif, mais parmi des candidats préalablement approuvés. Les manifestants ouvrent leurs parapluies contre le gaz lacrymogène — d'où le nom donné au mouvement. Ils obtiennent la sympathie du monde et aucune concession.</p>
 
@@ -9363,7 +9498,8 @@ tags: technology
 
 # 2015 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/dieselgate.webp' | relative_url }}" alt="Le Dieselgate" loading="lazy" decoding="async" width="1200" height="863" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/dieselgate.webp' | relative_url }}" alt="Le Dieselgate" loading="lazy" decoding="async" width="1200" height="863" />
+  <br /><small><em>L'entrée de la recherche et développement de Volkswagen à Wolfsburg. Le logiciel truqué détectait le banc d'essai et bridait les émissions le temps du test.</em></small></p>
 
 <p>Dieselgate. L'entreprise Volkswagen (VW) installe un logiciel dans certains de ses véhicules diesel qui permet de tricher sur les tests d'émission de gaz polluants. Le logiciel est conçu pour détecter lorsqu'un véhicule est soumis à des tests d'émission pour réduire temporairement les émissions de gaz polluants afin de passer les tests. En dehors de ces tests, cependant, les véhicules émettent des niveaux beaucoup plus élevés de gaz polluants, ce qui contrevient aux réglementations environnementales en vigueur.</p>
 
@@ -9374,7 +9510,7 @@ tags: technology
 <p>Le 23 juin, les Britanniques votent à 51,9 % la sortie de l'Union européenne. Le référendum avait été convoqué par un Premier ministre qui militait pour le maintien et pensait clore ainsi une querelle interne à son propre parti ; il démissionne le lendemain. Le résultat dessine une fracture qui n'est pas celle des partis : Londres et l'Écosse votent pour rester, les anciennes régions industrielles et les petites villes votent pour partir.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/brexit.webp' | relative_url }}" alt="Le Royaume-Uni quitte l'Union européenne, après un référendum gagné à 51,9 % par les partisans de la sortie" width="600" loading="lazy" decoding="async" height="459" />
+  <img src="{{ '/assets/img/brexit.webp' | relative_url }}" alt="Carte de l'Europe après le Brexit : les États membres de l'Union européenne en vert, le Royaume-Uni détaché en orange, le reste du continent en gris" width="600" loading="lazy" decoding="async" height="459" />
   <br /><small><em>Le Royaume-Uni quitte l'Union européenne, après un référendum gagné à 51,9 % par les partisans de la sortie. Photo Treehill, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -9384,7 +9520,7 @@ tags: technology
 
 # 2018 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=6rCtJugNkfI" data-id="6rCtJugNkfI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/6rCtJugNkfI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=6rCtJugNkfI" data-id="6rCtJugNkfI" rel="noopener" aria-label="Lire la vidéo YouTube : Gilets jaunes : comment un vêtement banal est devenu un puissant symbole"><img src="https://i.ytimg.com/vi/6rCtJugNkfI/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Gilets jaunes : comment un vêtement banal est devenu un puissant symbole »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le mouvement des Gilets Jaunes est déclenché par une augmentation prévue des taxes sur les carburants, en particulier le diesel, dans le cadre de la transition énergétique du gouvernement français pour lutter contre le changement climatique. Cependant, le mouvement évolue rapidement pour englober des revendications plus larges concernant les inégalités économiques, le pouvoir d'achat, la justice sociale et la démocratie participative. Le mouvement est aussi caractérisé par son organisation horizontale et décentralisée, sans leader unique ou structure formelle.</p>
 
@@ -9396,7 +9532,7 @@ tags: technology
 
 <p>Le médecin chinois Li Wenliang signale aux autorités chinoises la maladie Covid 19, mais il n'est pas écouté. Ce médecin meurt des suites de cette maladie.</p>
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PeMlggyqz0Y" data-id="PeMlggyqz0Y" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/PeMlggyqz0Y/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PeMlggyqz0Y" data-id="PeMlggyqz0Y" rel="noopener" aria-label="Lire la vidéo YouTube : Machine Learning Explained in 100 Seconds"><img src="https://i.ytimg.com/vi/PeMlggyqz0Y/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Machine Learning Explained in 100 Seconds »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>DeepMind, la filiale de recherche en intelligence artificielle de la société mère de Google, Alphabet, oppose un agent IA nommé AlphaStar à certains des meilleurs joueurs de StarCraft II au monde. AlphaStar bat 99,8% des joueurs humains.</p>
 
@@ -9404,7 +9540,7 @@ tags: technology
 
 # 2020 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LHSSYoavZFg" data-id="LHSSYoavZFg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/LHSSYoavZFg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LHSSYoavZFg" data-id="LHSSYoavZFg" rel="noopener" aria-label="Lire la vidéo YouTube : Quand on entendait parler du Covid pour la première fois, il y a 2 ans"><img src="https://i.ytimg.com/vi/LHSSYoavZFg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Quand on entendait parler du Covid pour la première fois, il y a 2 ans »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Le monde est confronté à une pandémie de COVID-19, une maladie causée par le coronavirus SARS-CoV-2. La pandémie entraîne des restrictions de voyage et de rassemblement dans de nombreux pays, ainsi que la fermeture de nombreuses entreprises et écoles. Plusieurs vaccins contre le COVID-19 sont développés et commencent à être administrés à des millions de personnes dans le monde. Ces vaccins sont développés en un temps record grâce à la collaboration internationale.</p>
 
@@ -9419,7 +9555,7 @@ tags: technology
 <p>La Terre compte approximativement 7,97 milliards d'habitants.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/ukraine2022.webp' | relative_url }}" alt="L'invasion de l'Ukraine en 2022" width="600" loading="lazy" decoding="async" height="404" />
+  <img src="{{ '/assets/img/ukraine2022.webp' | relative_url }}" alt="Carte de l'invasion russe de l'Ukraine depuis le 24 février 2022 : le territoire tenu par l'Ukraine en jaune, les zones occupées et les avancées russes en rouge et rose, avec la légende des symboles en encart" width="600" loading="lazy" decoding="async" height="404" />
   <br /><small><em>L'invasion de l'Ukraine en 2022 : le retour d'une guerre de haute intensité en Europe. Photo Viewsridge, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -9429,13 +9565,15 @@ tags: technology
 
 # 2023 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/gaza.webp' | relative_url }}" alt="La bande de Gaza" loading="lazy" decoding="async" width="1200" height="845" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/gaza.webp' | relative_url }}" alt="La bande de Gaza" loading="lazy" decoding="async" width="1200" height="845" />
+  <br /><small><em>Un quartier de Gaza réduit en gravats. La guerre déclenchée en octobre 2023 a détruit une part considérable du bâti de l'enclave.</em></small></p>
 
 <p>Le 7 octobre, environ 3 000 militants du Hamas franchissent la frontière vers le sud d'Israël. Ils ciblent un festival de musique et plusieurs kibboutz, causant la mort de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme la plus grande perte de vie juive depuis l'Holocauste.</p>
 
 # 2024 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/elections2024.webp' | relative_url }}" alt="Une année électorale mondiale" loading="lazy" decoding="async" width="1200" height="675" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/elections2024.webp' | relative_url }}" alt="Une année électorale mondiale" loading="lazy" decoding="async" width="1200" height="675" />
+  <br /><small><em>Un bulletin glissé dans une urne. 2024 aura été l'année électorale la plus chargée de l'histoire : près de la moitié de l'humanité appelée aux urnes.</em></small></p>
 
 <p>Année électorale sans précédent : une soixantaine de pays représentant près de la moitié de l'humanité sont appelés aux urnes — Inde, Union européenne, Royaume-Uni, Indonésie, Mexique, États-Unis. Le résultat d'ensemble est un rejet des sortants à peu près partout, quelle que soit leur couleur politique, dans un climat d'inflation héritée de la pandémie.</p>
 
@@ -9447,7 +9585,8 @@ tags: technology
 
 # 2025 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/iagenerative.webp' | relative_url }}" alt="Un centre de données" loading="lazy" decoding="async" width="1200" height="799" /></p>
+<p style="text-align:center"><img src="{{ '/assets/img/iagenerative.webp' | relative_url }}" alt="Un centre de données" loading="lazy" decoding="async" width="1200" height="799" />
+  <br /><small><em>Intérieur d'un bâtiment industriel désaffecté. (L'attribut de la balise annonce un centre de données : l'image ne correspond pas et mériterait d'être remplacée.)</em></small></p>
 
 <p>L'intelligence artificielle générative cesse d'être une curiosité pour devenir une infrastructure : elle s'installe dans les moteurs de recherche, les suites bureautiques, les outils de programmation. La course se joue désormais autant sur le coût que sur la performance — un modèle chinois publié en janvier, entraîné pour une fraction du budget des laboratoires américains, fait décrocher les marchés en une séance et rappelle qu'une avance technologique n'est pas un fossé.</p>
 
