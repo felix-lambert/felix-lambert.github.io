@@ -74,5 +74,8 @@ echo
 echo
 DONE=$(wc -l < "$DEST/downloaded.txt" 2>/dev/null | tr -d ' ' || echo 0)
 echo "Archivées : $DONE / $TOTAL"
-[ "$DONE" -lt "$TOTAL" ] && echo "Les manquantes sont indisponibles (privées/supprimées) — relance pour réessayer."
+if [ "$DONE" -lt "$TOTAL" ]; then
+  echo "Manquantes : le plus souvent du rate-limiting YouTube, pas une indisponibilité."
+  echo "Relance le script — il ne reprendra que les manquantes."
+fi
 du -sh "$DEST" 2>/dev/null

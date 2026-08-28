@@ -2583,7 +2583,7 @@ tags: technology
 # -800 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="none" width="640" height="360"
+  <video poster="/assets/img/posters/les-grecs-cVsQB4wpRBc.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/les-grecs-cVsQB4wpRBc.mp4"></video>
 </p>
 
@@ -2650,7 +2650,7 @@ tags: technology
 # -753 av. J.-C.
 
 <p style="text-align:center">
-  <video controls preload="none" width="640" height="360"
+  <video poster="/assets/img/posters/la-rome-antique-u2AdfEHfV_U.webp" controls preload="none" width="640" height="360"
       src="https://pub-c9b3a62a67a943bc875fe6a0cf9e9e98.r2.dev/la-rome-antique-u2AdfEHfV_U.mp4"></video>
 </p>
 
@@ -4521,6 +4521,11 @@ tags: technology
 
 <p>Le monument central, qu'on appelle aujourd'hui le tertre des Moines, couvre à sa base une surface comparable à celle de la grande pyramide de Gizeh et s'élève à trente mètres. Il ne contient pas une seule pierre : c'est un demi-million de mètres cubes de terre, transportés panier après panier, sur le dos d'hommes et de femmes. Autour, une centaine d'autres tertres, et un cercle de grands poteaux de cèdre calé sur les levers du soleil aux solstices.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cahokia.webp' | relative_url }}" alt="Le tertre des Moines, Cahokia" width="600" loading="lazy" decoding="async" height="450" />
+  <br /><small><em>Le tertre des Moines à Cahokia : trente mètres de terre portée au panier, une emprise au sol comparable à celle de la grande pyramide de Gizeh. Photo Ethajek, domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Cahokia compte peut-être quinze mille habitants — davantage que Londres à la même date. C'est de très loin la plus grande ville jamais bâtie au nord du Mexique avant l'arrivée des Européens.</p>
 
 <p>Sans écriture, aucun nom ne nous est parvenu : ni celui de la ville, ni celui d'un seul de ses habitants. Restent les tombes, et elles ne racontent pas une société douce — l'une d'elles associe un personnage couché sur vingt mille perles de coquillage à des fosses communes de jeunes femmes. Vers 1350, la ville est vide. On invoque la déforestation, les inondations, l'épuisement des sols, les tensions internes ; on ne tranche pas.</p>
@@ -4542,6 +4547,11 @@ tags: technology
 # 1113 ans
 
 <p>Un souverain khmer monte sur le trône et entreprend le plus vaste monument religieux jamais construit : Angkor Vat, cent soixante hectares enclos de douves, une montagne de grès dressée à la gloire de Vishnou — avant de devenir, quelques siècles plus tard, un sanctuaire bouddhiste, sans jamais cesser d'être fréquenté.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/angkor.webp' | relative_url }}" alt="Vue aérienne d'Angkor Vat et de ses douves" width="600" loading="lazy" decoding="async" height="450" />
+  <br /><small><em>Angkor Vat et ses douves — cent soixante hectares, la vitrine d'un système hydraulique bien plus vaste. Photo shankar s., CC BY 2.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Mais le temple n'est que la vitrine. Le vrai génie d'Angkor est hydraulique. Autour des sanctuaires s'étend un réseau de réservoirs géants — le plus grand fait huit kilomètres sur deux —, de canaux et de digues qui capte la mousson, la stocke et la redistribue. Ce système permet plusieurs récoltes de riz par an là où la nature n'en accorderait qu'une, et c'est lui qui nourrit tout le reste.</p>
 
@@ -4619,6 +4629,11 @@ tags: technology
 
 <p>Le sultanat de Delhi installe durablement l'islam dans le nord de l'Inde, et avec lui le persan comme langue de cour, une architecture d'arcs et de coupoles, et le Qutb Minar, tour de brique de soixante-treize mètres bâtie avec les pierres de temples démontés — la conquête inscrite dans le matériau même.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/qutbminar.webp' | relative_url }}" alt="Le Qutb Minar, Delhi" width="400" loading="lazy" decoding="async" height="533" />
+  <br /><small><em>Le Qutb Minar, élevé par le sultanat de Delhi fondé en 1206 par un ancien esclave militaire. Photo A.Savin, Free Art License, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Ironie que ces deux fondations de la même année réservent à l'histoire : c'est ce sultanat, et presque lui seul, qui arrêtera les descendants de Gengis Khan. Pendant un siècle, les armées mongoles se briseront devant Delhi sans jamais prendre la plaine du Gange. L'Inde du Nord sera l'un des très rares mondes que la vague mongole atteindra sans le submerger.</p>
 
 # 1235 ans
@@ -4659,6 +4674,11 @@ tags: technology
 
 <p>Le voyage a un effet secondaire durable : le Mali entre sur les cartes. Un demi-siècle plus tard, l'atlas catalan dessiné à Majorque représente Mansa Moussa assis sur son trône, couronne en tête, tendant une pépite d'or à un marchand voilé. C'est la première image européenne d'un souverain africain — et pendant deux siècles, sur les portulans, l'Afrique de l'Ouest sera d'abord le pays de l'or.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/atlascatalan.webp' | relative_url }}" alt="Mansa Moussa dans l'atlas catalan de 1375" width="420" loading="lazy" decoding="async" height="479" />
+  <br /><small><em>Mansa Moussa sur son trône, une pépite d'or à la main : l'atlas catalan de 1375, dessiné à Majorque. Attribué à Abraham Cresques, domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 # 1347 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=fbKCnLt1o-I" data-id="fbKCnLt1o-I" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/fbKCnLt1o-I/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
@@ -4688,6 +4708,11 @@ tags: technology
 <p>Sur un plateau entre le Zambèze et le Limpopo s'élève une capitale de pierre sèche. Aucun mortier : des centaines de milliers de blocs de granit taillés et empilés avec une précision telle que les murs tiennent debout sept siècles plus tard. Le plus grand enclos développe deux cent cinquante mètres de muraille sur onze mètres de haut, doublée d'une tour conique dont personne ne sait à quoi elle servait.</p>
 
 <p>Le Grand Zimbabwe — le mot signifie « maisons de pierre » — abrite peut-être dix-huit mille habitants et commande l'arrière-pays des mines d'or du plateau. Il n'est pas isolé : on a exhumé sur le site des céladons chinois, des céramiques persanes et des monnaies arabes, arrivés par les ports swahilis de la côte de l'océan Indien. Un royaume de l'intérieur africain branché sur le même réseau commercial que Canton et Ormuz.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/grandzimbabwe.webp' | relative_url }}" alt="Mur de la grande enceinte, Grand Zimbabwe" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em>La grande enceinte du Grand Zimbabwe : des centaines de milliers de blocs de granit empilés sans mortier. Photo Andrew Moore, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le site a subi ensuite un traitement révélateur. Quand les Européens le découvrent au XIXᵉ siècle, ils refusent d'y voir une œuvre africaine et l'attribuent tour à tour aux Phéniciens, au roi Salomon, à la reine de Saba. Les archéologues qui établissent dès les années 1900 son origine locale sont contredits, et le régime rhodésien ira jusqu'à faire pression sur ses propres chercheurs pour qu'ils taisent la conclusion.</p>
 
@@ -4745,9 +4770,19 @@ tags: technology
 
 <p>Il laisse aussi Samarcande, qu'il a couverte de coupoles turquoise avec les artisans déportés de tous les pays qu'il a détruits — et un petit-fils, Ulugh Beg, qui y bâtira l'un des meilleurs observatoires du monde et mesurera la durée de l'année à une minute près.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/samarcande.webp' | relative_url }}" alt="Coupoles turquoise du Registan, Samarcande" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em>Le Registan de Samarcande : les coupoles turquoise dont Tamerlan a couvert sa capitale avec les artisans déportés des pays qu'il détruisait. Photo Jean-Pierre Dalbéra, CC BY 2.0, via Wikimedia Commons.</em></small>
+</p>
+
 # 1405 ans
 
 <p>Un eunuque musulman de la cour Ming prend la mer à la tête de la plus grande flotte que le monde ait vue : plusieurs centaines de navires, près de trente mille hommes. Les plus grands bâtiments — les « bateaux-trésors » — dépassent probablement les soixante mètres, quand les caravelles portugaises qui partiront un siècle plus tard en font vingt-cinq. Ils ont des cloisons étanches, un gouvernail d'étambot, la boussole, et des jonques entières chargées d'eau douce. L'homme s'appelle Zheng He.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/zhenghe.webp' | relative_url }}" alt="Maquette d'un navire-trésor de Zheng He" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em>Maquette d'un navire-trésor de la flotte de Zheng He. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Sept expéditions en vingt-huit ans le mènent au Vietnam, à Java, à Ceylan, en Inde, à Ormuz, jusqu'aux côtes d'Afrique orientale. Il en rapporte des ambassadeurs, des épices et une girafe, qu'on présente à l'empereur comme la licorne des augures. Le but n'est ni la conquête ni le profit : c'est le prestige — faire reconnaître au monde la centralité de l'empire, et récolter les tributs qui l'attestent.</p>
 
@@ -4760,6 +4795,11 @@ tags: technology
 <p>Florence a un problème que personne ne sait résoudre. Sa cathédrale est ouverte depuis plus d'un siècle sur un trou de quarante-trois mètres de diamètre : on a bâti l'édifice en pariant qu'on trouverait bien, un jour, le moyen de le couvrir. Aucune charpente ne peut porter un cintre de cette portée, et il n'y a pas assez de bois en Toscane pour l'essayer.</p>
 
 <p>Un orfèvre sans formation d'architecte emporte le concours : Filippo Brunelleschi. Sa solution tient en deux idées. Deux coques emboîtées, la plus légère portée par la plus épaisse ; et une maçonnerie en arêtes de poisson, où des briques posées de chant bloquent les rangées et empêchent l'ouvrage de glisser vers l'intérieur pendant qu'on monte. La coupole se soutient donc elle-même à chaque étape, et se construit sans cintre.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/coupoleflorence.webp' | relative_url }}" alt="La coupole de Brunelleschi, Florence" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em>La coupole de Brunelleschi : quarante-trois mètres de portée, bâtie sans cintre, en deux coques emboîtées. Photo Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Reste à hisser des milliers de tonnes à cinquante mètres. Brunelleschi dessine pour cela des machines : un treuil à bœufs à renversement de marche, qui monte et descend sans qu'on ait à dételer, puis une grue à contrepoids pour poser les charges au doigt. Pour son bateau de transport de marbre, il obtient ce qu'on tient souvent pour le premier brevet d'invention de l'histoire.</p>
 
@@ -4834,6 +4874,11 @@ tags: technology
 
 <p>Les livres, précisément. Autour de la mosquée de Sankoré s'organise un enseignement où l'on commente le droit, la théologie, la grammaire, l'astronomie et la médecine. Les manuscrits copiés là et dans les villes voisines se comptent aujourd'hui en centaines de milliers, conservés dans des bibliothèques familiales. Un voyageur du début du XVIᵉ siècle note que le commerce le plus rentable de la ville est celui des livres.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/sankore.webp' | relative_url }}" alt="La mosquée de Sankoré, Tombouctou" width="400" loading="lazy" decoding="async" height="533" />
+  <br /><small><em>La mosquée de Sankoré à Tombouctou, autour de laquelle s'organisait l'enseignement du droit, de la théologie et de l'astronomie. Photo Ondřej Havelka, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Cela mérite d'être dit clairement, parce que le cliché inverse a la vie dure : l'Afrique de l'Ouest de cette époque n'est pas seulement une terre de transmission orale. Elle a des griots <em>et</em> des bibliothèques.</p>
 
 <p>La fin viendra du désert. En 1591, une armée envoyée par le sultan du Maroc traverse le Sahara et écrase les Songhaïs à Tondibi. Ils étaient bien plus nombreux ; les Marocains avaient des arquebuses. La poudre, sortie des officines des alchimistes taoïstes sept siècles plus tôt, achève ici sa traversée du monde.</p>
@@ -4905,6 +4950,11 @@ tags: technology
 <p>Michel-Ange, sculpteur qui répète à qui veut l'entendre qu'il n'est pas peintre, est contraint par le pape Jules II de couvrir la voûte de la chapelle Sixtine : cinq cents mètres carrés, quatre ans de travail, la tête renversée sur un échafaudage de sa propre conception, la peinture lui tombant dans les yeux. Il en tirera un poème sur ses douleurs de dos. Il en tirera aussi deux index qui ne se touchent pas, devenus l'image la plus reproduite de l'art occidental.</p>
 
 <p>Raphaël, vingt-cinq ans, décore les appartements du même pape. Dans son <em>École d'Athènes</em>, il réunit les philosophes grecs sous une voûte romaine et leur donne les visages de ses contemporains : Platon a les traits de Léonard, Héraclite ceux de Michel-Ange, et lui-même se glisse dans un coin du tableau. L'Antiquité n'est plus un passé qu'on admire à distance, c'est une famille dont on se réclame.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/ecoleathenes.webp' | relative_url }}" alt="L'École d'Athènes de Raphaël" width="640" loading="lazy" decoding="async" height="496" />
+  <br /><small><em><em>L'École d'Athènes</em> : Raphaël réunit les philosophes grecs sous une voûte romaine et leur prête les visages de ses contemporains. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Léonard de Vinci, lui, approche de la soixantaine et peint très peu. Il remplit des carnets — anatomie, vol des oiseaux, tourbillons de l'eau, machines de guerre — en écriture spéculaire, de droite à gauche. Il dissèque une trentaine de cadavres et dessine le cœur humain avec une précision qu'on ne retrouvera pas avant trois siècles. Il ne publie rien. Ses carnets seront dispersés à sa mort, et l'essentiel de son travail scientifique n'aura strictement aucun effet sur la science de son temps.</p>
 
@@ -5026,6 +5076,11 @@ tags: technology
 
 <p>Trois navires portugais poussés par une tempête abordent Tanegashima, une île au sud du Japon. Les marchands ont à bord des arquebuses. Le seigneur local en achète deux à prix d'or et met ses forgerons à les copier.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/tanegashima.webp' | relative_url }}" alt="Arquebuse japonaise de type tanegashima" width="640" loading="lazy" decoding="async" height="124" />
+  <br /><small><em>Une arquebuse tanegashima, du nom de l'île où les Portugais en vendirent deux en 1543. Photo PHGCOM, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Le pays est alors en pleine guerre civile — un siècle de provinces qui s'entredéchirent — et l'arme se répand à une vitesse que l'Europe n'a jamais connue. En trente ans, les armuriers japonais en produisent des dizaines de milliers, d'une qualité supérieure aux modèles importés ; en 1575, à Nagashino, trois mille arquebusiers tirant par salves détruisent la meilleure cavalerie du Japon. À la fin du siècle, il y a probablement plus d'armes à feu dans l'archipel que dans n'importe quel royaume d'Europe.</p>
 
 <p>Retenez ce chiffre : il rendra plus étonnant encore ce que le Japon décidera d'en faire.</p>
@@ -5039,6 +5094,11 @@ tags: technology
 
 <p>Et la même année encore paraît à Bâle un autre livre, qui fait pour le corps ce que Copernic fait pour le ciel. André Vésale a vingt-huit ans et enseigne à Padoue. Jusqu'à lui, le professeur d'anatomie lisait Galien à voix haute du haut de sa chaire, pendant qu'un barbier découpait le cadavre en contrebas et qu'un assistant désignait les organes ; quand le corps contredisait le texte, on en concluait que le corps s'était trompé, ou que l'homme avait dégénéré depuis l'Antiquité.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/vesale.webp' | relative_url }}" alt="Planche musculaire de la Fabrica de Vésale" width="340" loading="lazy" decoding="async" height="586" />
+  <br /><small><em>Une planche de la <em>Fabrique du corps humain</em> de Vésale, 1543 : l'écorché marche dans un paysage. Wellcome Collection, CC BY 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Vésale descend de la chaire et prend le couteau. Sa <em>Fabrique du corps humain</em>, illustrée de planches sorties d'un atelier vénitien que personne n'égalera, relève plus de deux cents erreurs chez Galien — lequel, on le comprend enfin, avait surtout disséqué des singes et des porcs. Le cœur n'a pas les pores qu'il y voyait ; le sternum n'a pas le nombre de segments qu'il annonçait.</p>
 
 <p>Deux livres, la même année, contre les deux plus grandes autorités héritées de l'Antiquité : Ptolémée et Galien. Aucun des deux auteurs ne se réclame de la nouveauté — tous deux se croient occupés à restaurer un savoir ancien mal transmis. Mais tous deux font le geste qui compte, et qui est le vrai commencement : ils vont voir eux-mêmes, et ils écrivent que le texte a tort.</p>
@@ -5046,6 +5106,11 @@ tags: technology
 # 1545 ans
 
 <p>Dans les Andes boliviennes, à plus de quatre mille mètres, on découvre une montagne d'argent : le Cerro Rico de Potosí. Il n'y a rien autour — ni bois, ni eau, ni cultures. En quarante ans, une ville de cent cinquante mille habitants y pousse, aussi peuplée que Londres à la même date, ravitaillée à dos de lama sur des centaines de kilomètres.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/potosi.webp' | relative_url }}" alt="Le Cerro Rico dominant Potosí" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em>Le Cerro Rico au-dessus de Potosí : la montagne d'argent qui a financé les Habsbourg et fini sa course en Chine. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le travail y est organisé par la <em>mita</em>, une corvée tournante empruntée aux Incas et retournée contre eux : chaque village andin doit fournir un septième de ses hommes adultes, qui montent à Potosí pour un an. Beaucoup ne redescendent pas. Aux effondrements et à la silice s'ajoute, à partir des années 1570, le mercure employé pour séparer l'argent du minerai — un poison dont on ignore alors les effets et qui tuera des générations de mineurs et de raffineurs.</p>
 
@@ -5084,6 +5149,11 @@ tags: technology
 <p>Sa décision la plus remarquable est prise à vingt-deux ans. Souverain musulman d'un empire très majoritairement hindou, il supprime la <em>jizya</em>, l'impôt payé par les non-musulmans, ainsi que la taxe sur les pèlerinages. Il ouvre l'administration et l'armée aux hindous, épouse des princesses rajputes sans exiger leur conversion, fait traduire en persan le <em>Mahabharata</em> et les Upanishads.</p>
 
 <p>Il va plus loin encore : dans sa nouvelle capitale de Fatehpur Sikri, il fait bâtir une salle de discussion où il convoque des théologiens musulmans sunnites et chiites, des brahmanes, des jaïns, des zoroastriens, et des jésuites venus de Goa, pour disputer devant lui. Il en tirera l'idée d'une paix universelle entre les religions, le <em>sulh-i kull</em>, et une doctrine de cour qui ne lui survivra pas.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/fatehpursikri.webp' | relative_url }}" alt="Le Diwan-i-Khas de Fatehpur Sikri" width="600" loading="lazy" decoding="async" height="348" />
+  <br /><small><em>Le Diwan-i-Khas de Fatehpur Sikri, où Akbar faisait débattre théologiens musulmans, hindous, jaïns, zoroastriens et jésuites. Photo Clément Bardot, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le contraste est brutal et il faut le poser franchement. Pendant qu'Akbar réunit des prêtres de cinq religions autour d'une même table pour les écouter s'affronter en paroles, la France entre dans quarante ans de guerres où l'on s'égorge entre chrétiens sur la manière de comprendre une cène. Aucun des deux mondes ne sait ce que fait l'autre.</p>
 
@@ -5190,6 +5260,11 @@ tags: technology
 <p>Son innovation n'est pas commerciale, elle est financière, et elle change tout. Jusque-là, on finançait une expédition, on attendait le retour des navires, on partageait le butin, et la société se dissolvait. La VOC, elle, garde son capital : les actionnaires ne récupèrent pas leur mise à la fin du voyage. Ils ont en échange un droit permanent sur les bénéfices — et, s'ils veulent sortir, ils doivent trouver quelqu'un à qui revendre leur part.</p>
 
 <p>Il faut donc un endroit pour cela. La Bourse d'Amsterdam ouvre la même année, et voit apparaître en quelques décennies tout ce que nous connaissons : la cotation continue, la spéculation à la hausse et à la baisse, la vente à découvert, les premières options — et les premières interdictions, aussitôt contournées, de ces pratiques.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/actionvoc.webp' | relative_url }}" alt="Action de la Compagnie néerlandaise des Indes orientales, 1606" width="600" loading="lazy" decoding="async" height="437" />
+  <br /><small><em>Une action de la VOC datée du 9 septembre 1606 : la plus ancienne action connue, et l'acte de naissance du capitalisme actionnarial. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>C'est ici que naît le capitalisme actionnarial. Une entreprise peut désormais vivre plus longtemps que ses fondateurs, immobiliser des sommes qu'aucune fortune privée ne réunirait, et faire porter le risque par des milliers d'inconnus dont aucun ne se ruine seul. La VOC tiendra deux siècles, emploiera au total près d'un million de personnes et armera quelque 4 800 navires.</p>
 
@@ -5312,6 +5387,11 @@ tags: technology
 
 <p>À Haarlem, le 3 février, une vente de bulbes de tulipes ne trouve pas preneur. En quelques jours, les prix s'effondrent d'un bout à l'autre des Provinces-Unies.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/semperaugustus.webp' | relative_url }}" alt="La tulipe Semper Augustus" width="360" loading="lazy" decoding="async" height="557" />
+  <br /><small><em>Le <em>Semper Augustus</em>, la variété la plus chère de la tulipomanie : ses flammes sont dues à un virus. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Ce qui s'est passé pendant les mois précédents tient de la fable économique parfaite. La tulipe, importée de l'Empire ottoman, est devenue un objet de prestige ; certaines variétés panachées — dont on ignore que la panachure est causée par un virus — atteignent des prix absurdes. Surtout, on ne vend plus des fleurs mais des promesses : les bulbes sont en terre de l'automne au printemps, et l'on échange pendant l'hiver des contrats sur des bulbes que personne ne voit ni ne livre. Les mêmes lots changent de main dix fois avant la floraison.</p>
 
 <p>On raconte volontiers qu'un bulbe valait une maison sur un canal d'Amsterdam et que le krach ruina le pays. Les deux sont exagérés : le marché ne concernait qu'un milieu restreint, et l'économie néerlandaise n'en fut pas ébranlée. Ce qui est vrai, et neuf, c'est le mécanisme — un actif sans usage, un marché de contrats déconnecté de la chose, des acheteurs qui n'achètent que parce que ça monte. Toutes les bulles ultérieures en seront la répétition.</p>
@@ -5406,6 +5486,11 @@ tags: technology
 
 <p>À Delft, un drapier sans latin ni université, qui polit ses lentilles lui-même pour compter les fils des étoffes, regarde une goutte d'eau prise dans un lac voisin. Elle grouille. Antoni van Leeuwenhoek y voit des créatures qui nagent, tournent et se poursuivent — ses « animalcules ». Il en estime la taille : mille fois plus petites qu'un œil de pou.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/leeuwenhoek.webp' | relative_url }}" alt="Réplique d'un microscope de Leeuwenhoek" width="330" loading="lazy" decoding="async" height="549" />
+  <br /><small><em>Réplique d'un microscope de Leeuwenhoek : une lentille unique, à peine plus grande qu'une tête d'épingle, grossissant jusqu'à 270 fois. Photo Jeroen Rouwkema, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Ses lentilles minuscules, à peine plus grandes qu'une tête d'épingle, grossissent jusqu'à deux cent soixante-dix fois — dix fois mieux que les meilleurs microscopes composés de son temps. Il ne dira jamais comment il les fabrique, et personne ne retrouvera son procédé avant le XIXᵉ siècle. Il examinera ensuite tout ce qui lui tombe sous la main : le tartre de ses propres dents, où il découvre les bactéries ; le sang, où il voit les globules rouges ; son sperme, où il trouve les spermatozoïdes — découverte qu'il rapporte à la Royal Society en s'excusant longuement.</p>
 
 <p>Le siècle aura donc doublé le monde visible deux fois, et dans les deux directions. La lunette de Galilée a montré qu'il existait des astres que personne n'avait vus ; les lentilles de Delft montrent qu'une goutte d'eau contient une population. Entre les deux, l'échelle humaine cesse d'être la mesure de quoi que ce soit. Et il faudra deux siècles encore pour comprendre que ces animalcules-là ont tué plus d'hommes que toutes les guerres.</p>
@@ -5419,6 +5504,11 @@ tags: technology
 # 1682 ans
 
 <p>Louis XIV installe définitivement la cour et le gouvernement à Versailles. Ce n'est pas un caprice de bâtisseur : c'est un dispositif politique, et il faut le lire comme tel.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/versailles.webp' | relative_url }}" alt="La galerie des Glaces, château de Versailles" width="600" loading="lazy" decoding="async" height="399" />
+  <br /><small><em>La galerie des Glaces : le décor d'un dispositif politique où l'absence coûte plus cher que la présence. Photo Myrabella, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le roi a douze ans quand la Fronde le chasse de Paris ; il n'oubliera jamais l'humiliation d'un souverain que sa capitale et ses grands seigneurs peuvent mettre dehors. Versailles est la réponse. En attirant la haute noblesse dans un palais où tout tourne autour de la personne royale, il la coupe de ses terres, de ses réseaux provinciaux et de ses moyens de nuire. Un duc qui passe ses journées à guetter une place dans le cortège du roi ne lève pas d'armée dans sa province.</p>
 
@@ -5491,6 +5581,11 @@ tags: technology
 # 1712 ans
 
 <p>Dans une mine de charbon du Staffordshire, un quincaillier baptiste nommé Thomas Newcomen installe une machine qui va changer la face du monde, et il n'en tirera presque rien.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/newcomen.webp' | relative_url }}" alt="Schéma de la machine atmosphérique de Newcomen" width="520" loading="lazy" decoding="async" height="487" />
+  <br /><small><em>La machine atmosphérique de Newcomen : la vapeur remplit le cylindre, l'eau froide la condense, et le vide tire le piston. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le problème qu'il résout est banal et coûteux : les mines se noient. Plus on creuse profond, plus l'eau monte, et l'on épuise des attelages de chevaux à la remonter par seaux. La machine de Newcomen fait le travail toute seule : on injecte de la vapeur sous un piston, on pulvérise de l'eau froide dans le cylindre, la vapeur se condense brutalement, le vide se fait, et la pression atmosphérique écrase le piston vers le bas. Un balancier transmet le mouvement aux pompes. C'est lourd, lent, et d'un rendement dérisoire — moins d'un pour cent de l'énergie du charbon.</p>
 
@@ -5571,6 +5666,11 @@ tags: technology
 
 <p>Le 1ᵉʳ novembre, jour de la Toussaint, alors que les églises de Lisbonne sont pleines, un séisme d'une magnitude estimée autour de 8,5 détruit la ville en dix minutes. Les cierges renversés allument un incendie qui brûle cinq jours ; les survivants qui se réfugient sur les quais sont emportés par un tsunami de plusieurs mètres. Entre trente et soixante mille morts dans l'une des plus riches capitales d'Europe.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/seismelisbonne.webp' | relative_url }}" alt="Gravure du tremblement de terre de Lisbonne, 1755" width="600" loading="lazy" decoding="async" height="357" />
+  <br /><small><em>Lisbonne le 1ᵉʳ novembre 1755 : le séisme, l'incendie et le raz-de-marée sur une gravure contemporaine. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Le désastre devient aussitôt un problème philosophique, et c'est ce qui en fait un événement de ce récit. Une ville catholique, un jour de fête religieuse, dans les églises : si le monde est gouverné par une providence bienveillante, comment expliquer cela ? Voltaire répond par un poème rageur qui refuse toute consolation, puis par <em>Candide</em> et sa démolition du « tout est pour le mieux ». Rousseau lui rétorque que la faute n'est pas au ciel mais aux hommes, qui ont entassé vingt mille maisons de six étages : la catastrophe est naturelle, le désastre est social. C'est, très exactement, l'argument que reprendront deux siècles et demi plus tard tous ceux qui étudient les risques.</p>
 
 <p>La réponse politique est aussi neuve que le débat. Le marquis de Pombal, qui dirige le gouvernement, aurait résumé son programme en six mots : enterrer les morts et nourrir les vivants. Il fait relever la ville sur un plan orthogonal, avec des rues assez larges pour l'évacuation et des bâtiments montés sur une ossature de bois testée en laboratoire — les premières constructions antisismiques de l'histoire moderne. Et il envoie aux paroisses du royaume un questionnaire : à quelle heure la secousse a-t-elle commencé, combien de temps a-t-elle duré, dans quel sens, la mer s'est-elle retirée ? Des centaines de réponses reviennent et sont dépouillées.</p>
@@ -5611,6 +5711,11 @@ tags: technology
 
 <p>Dans le Lancashire, un tisserand nommé James Hargreaves construit une machine qui fait tourner huit fuseaux à la fois au lieu d'un : la <em>spinning jenny</em>. En quelques années, on en fera tourner quatre-vingts.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/spinningjenny.webp' | relative_url }}" alt="Spinning jenny de Hargreaves" width="520" loading="lazy" decoding="async" height="437" />
+  <br /><small><em>Une spinning jenny : plusieurs fuseaux entraînés d'une seule roue, là où une fileuse n'en tenait qu'un. Photo Betty Longbottom, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Le goulot qu'il vient de faire sauter est ancien. Il faut environ cinq fileuses pour alimenter un seul tisserand ; le fil manque, il coûte cher, et toute l'Europe file à la main depuis le néolithique. La jenny, puis la <em>water frame</em> mue par une roue hydraulique, puis la <em>mule</em> qui combine les deux, effondrent le prix du fil de coton en une génération.</p>
 
 <p>Les conséquences se déplient dans trois directions et il faut les tenir ensemble. La production se rassemble là où se trouve la force motrice : c'est la naissance de l'usine, et d'un travail réglé par une horloge plutôt que par le jour. Le coton brut vient d'Amérique, et cette demande nouvelle relance l'esclavage des plantations du Sud au moment même où l'on croyait le voir décliner. Enfin, les cotonnades anglaises finiront par ruiner l'industrie textile indienne, celle-là même que la Compagnie était venue acheter deux siècles plus tôt.</p>
@@ -5628,6 +5733,11 @@ tags: technology
 <p>Le 5 mars, une sentinelle britannique postée devant la douane de Boston est prise à partie par une foule qui lui jette des boules de neige et des morceaux de glace. Le renfort arrive, la bousculade tourne mal, un soldat tire sans en avoir reçu l'ordre, les autres suivent. Cinq morts — dont Crispus Attucks, un docker noir que la mémoire américaine retiendra comme le premier tué de la Révolution.</p>
 
 <p>L'affaire est un fait divers ; elle devient une arme. Paul Revere en grave aussitôt une estampe montrant des soldats alignés qui tirent froidement sur des civils désarmés, sur ordre de leur officier. C'est faux, et l'image fera le tour des colonies. La propagande vient de naître en Amérique, et elle fonctionne.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/bostonmassacre.webp' | relative_url }}" alt="L'estampe du massacre de Boston par Paul Revere" width="450" loading="lazy" decoding="async" height="525" />
+  <br /><small><em>L'estampe de Paul Revere : des soldats alignés tirant froidement sur des civils désarmés — une scène qui n'a pas eu lieu ainsi, et l'une des premières images de propagande de l'histoire moderne. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Détail que l'on retient rarement : les soldats sont jugés, et défendus par John Adams, futur deuxième président des États-Unis, convaincu qu'un procès équitable importe plus que sa propre cause. Six sont acquittés, deux condamnés pour homicide. Adams écrira plus tard que ce fut l'un des actes les plus utiles de sa vie.</p>
 
@@ -5716,6 +5826,11 @@ tags: technology
 <p>Le 14 juillet, Paris prend la Bastille — une forteresse-prison qui ne détient plus que sept prisonniers, mais qui domine les faubourgs ouvriers et incarne l'arbitraire royal. L'événement est militairement dérisoire et politiquement immense : la capitale a désarmé le roi chez lui, et l'armée n'a pas tiré.</p>
 
 <p>L'été emballe tout. Dans les campagnes, la Grande Peur soulève les paysans contre les châteaux. Dans la nuit du 4 août, les députés abolissent d'un coup les privilèges, les droits féodaux, les dîmes, les corporations — mille ans d'organisation sociale effacés en quelques heures. Le 26 août, ils votent la Déclaration des droits de l'homme et du citoyen : les hommes naissent libres et égaux en droits, la loi est l'expression de la volonté générale, nul ne doit être inquiété pour ses opinions.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/ddhc.webp' | relative_url }}" alt="La Déclaration des droits de l'homme et du citoyen, 1789" width="430" loading="lazy" decoding="async" height="524" />
+  <br /><small><em>La Déclaration des droits de l'homme et du citoyen, peinte par Le Barbier : des principes énoncés comme valables partout et pour tout le monde. CC0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Il faut mesurer ce qui vient d'être écrit. Depuis des millénaires, le pouvoir se justifiait par en haut : le pharaon fils de Rê, le roi de Juda adopté par Yahvé le jour de son couronnement, le souverain chinois mandaté par le Ciel, le roi de France sacré à Reims. Ces lignes-là inversent la source. Le pouvoir ne descend plus : il monte de ceux sur qui il s'exerce.</p>
 
@@ -5888,6 +6003,11 @@ tags: technology
 
 <p>La ligne ferroviaire Liverpool-Manchester est inaugurée en Angleterre. Première ligne ferroviaire moderne assurant un service régulier de voyageurs et de marchandises à l'aide de locomotives à vapeur, elle démontre la viabilité économique du transport ferroviaire. Son succès accélère le développement des chemins de fer au Royaume-Uni puis dans le reste du monde, transformant durablement les transports, le commerce et l'industrialisation au XIXe siècle.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/rocket.webp' | relative_url }}" alt="La locomotive Rocket de Stephenson" width="520" loading="lazy" decoding="async" height="363" />
+  <br /><small><em>La <em>Rocket</em> de Stephenson, qui remporta le concours ouvrant la ligne Liverpool-Manchester. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 # 1831 ans
 
 <p>Invention de la moissonneuse mécanique (le « reaper ») par Cyrus McCormick, un inventeur américain. Cette invention révolutionnaire transforme le processus de récolte des cultures céréalières telles que le blé, l'orge et l'avoine.</p>
@@ -5976,6 +6096,11 @@ tags: technology
 
 <p>Le plus révoltant est ailleurs. Pendant les années de famine, l'Irlande continue d'exporter du blé, de l'orge et du bétail vers l'Angleterre — sous escorte armée par endroits, pour protéger les convois de ceux qui mouraient de faim en les regardant passer. Il y avait de la nourriture ; elle appartenait à d'autres. Londres s'en remet au marché, juge les secours démoralisants, et n'intervient qu'à contrecœur.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/famineirlande.webp' | relative_url }}" alt="Gravure de la Grande Famine irlandaise, 1847" width="600" loading="lazy" decoding="async" height="283" />
+  <br /><small><em>« Funérailles à Skibbereen », <em>Illustrated London News</em>, 1847 : l'Irlande exportait encore du blé et du bétail. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Un million de morts, un million de départs. L'Irlande comptait huit millions et demi d'habitants ; elle n'en a jamais retrouvé autant depuis, et c'est aujourd'hui encore le seul pays d'Europe moins peuplé qu'au XIXᵉ siècle. C'est de là que viennent les Irlandais de Boston, de New York et de Chicago — et une rancune envers Londres qui pèsera sur tout le siècle suivant.</p>
 
 # 1847 ans
@@ -6060,6 +6185,11 @@ tags: technology
 
 <p>Le 24 novembre paraît à Londres un livre tiré à 1 250 exemplaires, épuisés auprès des libraires le jour même : <em>De l'origine des espèces</em>. Charles Darwin y expose une idée d'une simplicité désarmante. Les individus d'une même espèce ne sont jamais identiques ; il naît toujours plus de descendants que le milieu ne peut en nourrir ; ceux dont les variations donnent le moindre avantage survivent un peu mieux et se reproduisent un peu plus. Répétez sur des millions d'années : vous obtenez des espèces nouvelles. C'est la sélection naturelle — un mécanisme sans intention, sans plan et sans but.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/darwin.webp' | relative_url }}" alt="Page de titre de L'Origine des espèces, 1859" width="330" loading="lazy" decoding="async" height="572" />
+  <br /><small><em>La page de titre de <em>L'Origine des espèces</em>, 24 novembre 1859 : les 1 250 exemplaires furent épuisés le jour même. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Darwin tenait sa théorie depuis vingt ans et ne publiait pas, mesurant ce qu'elle allait déclencher. Ce qui le décide, c'est une lettre : un jeune naturaliste fiévreux dans l'archipel malais, Alfred Russel Wallace, vient d'aboutir seul à la même conclusion et la lui envoie pour avis. Les deux hommes présentent leurs travaux ensemble devant la Société linnéenne en 1858 ; Darwin écrit son livre dans l'année qui suit.</p>
 
 <p>Le scandale ne vient pas de l'évolution — l'idée circulait déjà — mais de son moteur. Retirer l'intention du vivant, c'est retirer le dessein de la nature. Et une phrase glissée dans les dernières pages indique où cela mène : « une lumière sera jetée sur l'origine de l'homme et son histoire. » Tout ce que cette chronologie raconte depuis les premières cellules — les éponges, les trilobites, les poissons à nageoires charnues, les australopithèques — ne tient que par ce mécanisme-là. Il aura fallu attendre 1859 pour le nommer.</p>
@@ -6135,9 +6265,19 @@ tags: technology
 
 <p>Le 17 novembre, un cortège de navires pavoisés franchit un couloir d'eau de cent soixante kilomètres creusé en plein désert : le canal de Suez est ouvert. La Méditerranée touche la mer Rouge, et le trajet de l'Europe vers l'Inde raccourcit de plusieurs milliers de kilomètres — on n'a plus à contourner l'Afrique.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/canalsuez.webp' | relative_url }}" alt="L'inauguration du canal de Suez, 17 novembre 1869" width="600" loading="lazy" decoding="async" height="383" />
+  <br /><small><em>L'inauguration du canal de Suez, peinte par Édouard Riou. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Le chantier a duré dix ans et coûté des dizaines de milliers de vies égyptiennes, une bonne part en corvée forcée, à la pioche et au panier avant que les machines n'arrivent. L'Égypte s'y ruine, s'endette auprès des banques européennes, doit brader ses parts aux Britanniques — et se retrouve occupée par eux treize ans plus tard. Le canal creusé pour affirmer son indépendance aura servi à la lui faire perdre.</p>
 
 <p>La même année, à Saint-Pétersbourg, un chimiste range les soixante-trois éléments connus par masse croissante et s'aperçoit que leurs propriétés reviennent à intervalles réguliers, comme les jours d'une semaine. Dmitri Mendeleïev en fait un tableau — et ose ce que personne n'ose : il y laisse des cases vides, en affirmant qu'on découvrira les éléments manquants, et en prédisant leur masse et leur comportement.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/mendeleiev.webp' | relative_url }}" alt="Le premier tableau périodique de Mendeleïev, 1869" width="640" loading="lazy" decoding="async" height="273" />
+  <br /><small><em>Le premier tableau de Mendeleïev : les blancs laissés dans la grille sont des éléments qu'il prédit et qu'on découvrira en quinze ans. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>On les découvrira dans les quinze ans, à peu près comme annoncé. C'est la démonstration la plus spectaculaire qu'une bonne classification ne se contente pas de ranger ce qu'on sait : elle indique où chercher ce qu'on ignore. Le tableau ne livrera son sens complet qu'un demi-siècle plus tard, quand on comprendra que ce qui gouverne l'ordre n'est pas la masse mais le nombre de protons — celui-là même que les étoiles fabriquent.</p>
 
@@ -6160,6 +6300,11 @@ tags: technology
 <p>Paris, assiégé quatre mois et affamé au point d'y manger les animaux du Jardin des Plantes, refuse la capitulation que son gouvernement vient de signer. Quand celui-ci envoie l'armée récupérer les canons de la garde nationale sur la butte Montmartre, la foule s'interpose, les soldats refusent de tirer, et le pouvoir s'enfuit à Versailles. Paris se retrouve livré à lui-même.</p>
 
 <p>La Commune gouverne soixante-douze jours. Elle sépare l'Église de l'État, rend l'école gratuite et l'ouvre aux filles, remet les loyers arriérés et les objets déposés au mont-de-piété, abolit le travail de nuit des boulangers, confie aux ouvriers les ateliers abandonnés par leurs patrons, et rend toutes les fonctions électives révocables à tout moment et payées au salaire d'un ouvrier. Des femmes y prennent la parole et les armes, ce que la République ne leur reconnaîtra pas avant longtemps.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/colonnevendome.webp' | relative_url }}" alt="La colonne Vendôme abattue, 1871" width="600" loading="lazy" decoding="async" height="457" />
+  <br /><small><em>La colonne Vendôme abattue par la Commune, photographiée par Franck en 1871. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>La reprise est un massacre. Pendant la Semaine sanglante, en mai, l'armée fusille dans les rues et contre les murs : de dix à vingt mille morts selon les estimations, le chiffre exact étant introuvable parce qu'on a enterré à la hâte et dans des fosses. Des milliers de survivants sont déportés en Nouvelle-Calédonie.</p>
 
@@ -6188,6 +6333,11 @@ tags: technology
 # 1879 ans
 
 <p>Ce n'est pas la première ampoule électrique : on en fabrique depuis quarante ans, et elles brillent quelques heures avant de griller. Thomas Edison trouve un filament qui tient — du fil de coton carbonisé, dans une ampoule vidée de son air — et qui brûle d'abord des dizaines d'heures, puis des centaines.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/ampouleedison.webp' | relative_url }}" alt="Ampoule à filament de carbone d'Edison" width="340" loading="lazy" decoding="async" height="510" />
+  <br /><small><em>Une ampoule Edison à filament de carbone. L'invention n'est pas l'ampoule mais le système entier : centrale, réseau, compteur, interrupteur. Photo Terren, CC BY 2.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Mais l'ampoule n'est pas l'invention ; le système l'est. Edison comprend qu'une lampe ne sert à rien sans tout ce qui va avec, et il construit l'ensemble en même temps : une centrale, des câbles enterrés, des compteurs pour facturer, des interrupteurs, des fusibles, une grille tarifaire. Trois ans plus tard, sa station de Pearl Street éclaire un quartier de Manhattan. Il n'a pas vendu des lampes, il a vendu de la lumière au mois.</p>
 
@@ -6236,6 +6386,11 @@ tags: technology
 <p>Lors de la Conférence de Berlin, les puissances européennes reconnaissent l'État indépendant du Congo comme propriété personnelle du roi Léopold II. Cette période est marquée par l'exploitation intensive du caoutchouc et de l'ivoire ainsi que par de nombreuses violences contre les populations locales.</p>
 
 <p>Le 6 juillet, un enfant alsacien de neuf ans, Joseph Meister, mordu quatorze fois par un chien enragé, est amené dans le laboratoire de Louis Pasteur. La rage est alors une condamnation à mort sans exception : une fois les symptômes déclarés, on meurt en quelques jours, étouffé et convulsé. Pasteur a mis au point sur le chien un vaccin obtenu à partir de moelles de lapins infectés puis desséchées, qui atténuent le virus. Il ne l'a jamais essayé sur un humain, et il n'est pas médecin — l'inoculer l'expose au procès. Il inocule.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/pasteur.webp' | relative_url }}" alt="Louis Pasteur dans son laboratoire, par Edelfelt" width="430" loading="lazy" decoding="async" height="523" />
+  <br /><small><em>Louis Pasteur dans son laboratoire, peint par Albert Edelfelt en 1885 — l'année de Joseph Meister. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>L'enfant survit. En un an, plus de deux mille personnes viendront de toute l'Europe se faire traiter à Paris, et une souscription internationale financera l'Institut Pasteur.</p>
 
@@ -6334,6 +6489,11 @@ tags: technology
 <p>Trente pour cent des habitations parisiennes sont reliées aux égouts. Le chiffre paraît faible ; il est le résultat d'un demi-siècle de travaux et d'une bataille politique. Le raccordement obligatoire — le « tout-à-l'égout » — a été imposé par une loi de 1894 contre les propriétaires, qui refusaient d'en payer le coût, et contre les entreprises de vidange, dont il ruinait le métier.</p>
 
 <p>Le 19 juillet, pour l'Exposition universelle, Paris inaugure la première ligne de son métro, entièrement électrique, de Porte Maillot à Porte de Vincennes. Le choix de l'électricité n'avait rien d'évident : Londres, qui a ouvert son métro trente-sept ans plus tôt, l'a fait à la vapeur, avec des tunnels enfumés qu'il fallait ventiler par des puits. Paris, arrivé tard, saute une génération technique.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/metroguimard.webp' | relative_url }}" alt="Édicule Guimard, station Porte Dauphine" width="600" loading="lazy" decoding="async" height="457" />
+  <br /><small><em>Un édicule Guimard du métro parisien, inauguré en 1900 pour l'Exposition universelle. Photo Moonik, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Assainir et transporter : ce sont les deux fonctions qui rendent vivable une ville de plusieurs millions d'habitants. La médecine a compris vingt ans plus tôt que le choléra et la typhoïde se transmettent par l'eau ; l'ingénierie en tire enfin les conséquences, et la mortalité urbaine se met à baisser sans plus jamais remonter.</p>
 
@@ -6502,6 +6662,11 @@ tags: technology
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vwf0DafQLnI" data-id="vwf0DafQLnI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/vwf0DafQLnI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Période d'hyperinflation en Allemagne. Le gouvernement allemand commence à imprimer de l'argent en grandes quantités, ce qui entraîne une augmentation de la masse monétaire en circulation. L'augmentation de la masse monétaire entraîne une chute de la valeur de la monnaie allemande, le mark. Les prix commencent à augmenter de manière exponentielle, ce qui entraîne une spirale inflationniste.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/billet1923.webp' | relative_url }}" alt="Billet de cent millions de marks, 1923" width="600" loading="lazy" decoding="async" height="349" />
+  <br /><small><em>Un billet de cent millions de marks daté du 22 août 1923. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 # 1924 ans
 
@@ -6933,6 +7098,11 @@ tags: technology
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=TifdpeYvv1k" data-id="TifdpeYvv1k" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/TifdpeYvv1k/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les premiers humains posent le pied sur la Lune lors de la mission Apollo 11, qui emporte Neil Armstrong, Buzz Aldrin et Michael Collins — ce dernier restant en orbite aux commandes du module de commande. Selon les estimations, environ 500 millions de personnes regardent les premiers pas sur la Lune en direct à la télévision. Cela représentait environ un tiers de la population mondiale de l'époque.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/apollo11.webp' | relative_url }}" alt="Buzz Aldrin sur la Lune, juillet 1969" width="480" loading="lazy" decoding="async" height="483" />
+  <br /><small><em>Buzz Aldrin sur la mer de la Tranquillité — Armstrong et le module se reflètent dans sa visière. Photo Neil Armstrong / NASA, domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>L'événement est diffusé en direct par les télévisions du monde entier et suscite un immense intérêt public ; de nombreux Américains organisent des fêtes ou se rassemblent devant les écrans pour regarder la scène. Cet événement est considéré comme l'un des moments les plus marquants de l'histoire de la télévision et a suscité un intérêt sans précédent pour l'exploration spatiale.</p>
 
