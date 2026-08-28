@@ -5456,7 +5456,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/poitiers732.webp' | relative_url }}" alt="Peinture du XIXᵉ siècle représentant la bataille de Poitiers : une mêlée de cavaliers et de fantassins autour d'une grande croix, chevaux cabrés et corps enchevêtrés au premier plan" loading="lazy" decoding="async" width="900" height="741" />
-  <br /><small><em>Charles Martel à Poitiers, vu par le XIXᵉ siècle : une bataille dont la postérité grossira considérablement la portée.</em></small>
+  <br /><small><em>Charles Martel à Poitiers, peinture du XIXᵉ siècle. Les fantassins francs, serrés en masse compacte, tinrent la journée entière contre les charges de la cavalerie omeyyade ; l'émir Abd al-Rahman al-Ghafiqi y fut tué et l'armée se retira de nuit, abandonnant son camp et son butin.</em></small>
 </p>
 
 <p>La poussée ne s'était pas arrêtée aux Pyrénées : les Arabes avaient franchi la montagne, pris Narbonne et lancé des expéditions toujours plus au nord. Cette année-là, quelque part entre Poitiers et Tours, une armée franque commandée par Charles Martel leur barre la route et les défait ; leur chef y laisse la vie.</p>
@@ -5550,8 +5550,8 @@ tags: technology
 # 762 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bagdad.webp' | relative_url }}" alt="Emblème de la municipalité de Bagdad : un médaillon circulaire bleu portant le nom de la ville en arabe et en anglais, autour d'une silhouette de monuments au bord de l'eau" loading="lazy" decoding="async" width="713" height="900" />
-  <br /><small><em>Une scène de Bagdad peinte en 1237 : la capitale abbasside est alors le centre intellectuel du monde.</em></small>
+  <img src="{{ '/assets/img/bagdadmaqamat.webp' | relative_url }}" alt="Miniature des Maqamat d'al-Hariri : une caravane de pèlerins, bannières noires déployées, chameaux et litière, trompettes et tambour" width="600" loading="lazy" decoding="async" height="595" />
+  <br /><small><em>Une caravane, miniature des <em>Maqamat</em> d'al-Hariri peinte à Bagdad en 1237 par al-Wasiti. Ce manuscrit est l'une des rares sources figurées sur la vie quotidienne du monde abbasside : vêtements, montures, instruments et bannières y sont peints par quelqu'un qui les avait sous les yeux. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Les Abbassides abandonnent Damas et fondent une capitale neuve en Irak : Bagdad, la « ville ronde », bâtie en cercle parfait autour du palais du calife, sur les bords du Tigre.</p>
@@ -5592,7 +5592,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/mosqueecordoue.webp' | relative_url }}" alt="Photographie de la salle hypostyle de la grande mosquée de Cordoue : une forêt de colonnes portant des arcs superposés à claveaux alternés rouges et blancs, qui se répètent à perte de vue" width="600" loading="lazy" decoding="async" height="450" />
-  <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue et ses arcs bicolores superposés. Photo Alvaro Viñuela Carnicero, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+  <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue : des centaines de colonnes de remploi, surmontées de deux étages d'arcs bicolores qui rattrapent en hauteur ce que les fûts trop courts ne donnaient pas. Photo Alvaro Viñuela Carnicero, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 # 789 ans
@@ -5730,15 +5730,12 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/feugregeois.webp' | relative_url }}" alt="Miniature byzantine du Skylitzès de Madrid : depuis la proue d'un navire, un siphon de bronze projette le feu grégeois sur une barque ennemie dont les occupants basculent à l'eau" width="600" loading="lazy" decoding="async" height="307" />
-  <br /><small><em>Le feu grégeois projeté par un siphon de bronze, miniature du Skylitzès de Madrid. Domaine public, via Wikimedia Commons.</em></small>
+  <br /><small><em>Le feu grégeois projeté par un siphon de bronze sur une barque des Rus', miniature du Skylitzès de Madrid. La recette exacte de ce liquide enflammé, jalousement gardée, est perdue. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Les survivants rentrent à Kiev avec un récit qui fera le tour du Nord. Mais l'expédition, en échouant, ouvre paradoxalement autre chose : à partir de là, les Rus' et Byzance ne cesseront plus de se parler.</p>
 
 # 944 ans
-
-<p style="text-align:center"><img src="{{ '/assets/img/igor.webp' | relative_url }}" alt="Miniature byzantine du feu grégeois : depuis un navire, un siphon projette une gerbe de flammes sur une barque ennemie, sous une légende en grec" loading="lazy" decoding="async" width="1200" height="615" />
-  <br /><small><em>Le feu grégeois projeté par un siphon de bronze sur une barque des Rus', miniature du Skylitzès de Madrid. La recette exacte de ce liquide enflammé est perdue.</em></small></p>
 
 <p>Igor revient avec une armée bien plus nombreuse, grossie de mercenaires petchénègues. Cette fois, l'empereur ne l'attend pas devant ses murs : il envoie des ambassadeurs à sa rencontre, chargés d'or et de soieries, et lui propose un traité. Igor accepte sans combattre.</p>
 
@@ -5747,9 +5744,6 @@ tags: technology
 <p>La conséquence sera plus profonde que prévu. Chaque printemps, des convois de barques descendent le Dniepr chargés de fourrures, de miel, de cire et d'esclaves, et remontent chargés de vin, de soie et d'objets précieux. Des générations de Rus' découvrent ainsi la plus grande ville du monde chrétien — ses coupoles, ses processions, ses reliques. Le commerce prépare la conversion.</p>
 
 # 950 ans
-
-<p style="text-align:center"><img src="{{ '/assets/img/cordoue.webp' | relative_url }}" alt="Photographie de la salle de prière de la grande mosquée de Cordoue : la forêt de colonnes de marbre supportant les doubles arcs à claveaux rouges et blancs, qui se répètent en enfilade" loading="lazy" decoding="async" width="1200" height="800" />
-  <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue : des centaines de colonnes de remploi et deux étages d'arcs bicolores. Cordoue est alors la plus grande ville d'Europe occidentale.</em></small></p>
 
 <p>Cordoue est alors la plus grande ville d'Europe occidentale — peut-être cent mille habitants, quand Paris ou Rome en comptent quelques dizaines de milliers. Les califes y entretiennent une cour fastueuse, des ateliers d'ivoire et de soie, des astronomes et des médecins.</p>
 
@@ -5866,7 +5860,7 @@ tags: technology
 # 1095 ans
 
 <p style="text-align:center"><img src="{{ '/assets/img/clermont.webp' | relative_url }}" alt="Enluminure de l'appel de Clermont : le pape assis en chaire dans une église gothique, prêchant devant une foule dense de prélats et de seigneurs, avec sous l'image un texte à deux colonnes et une seconde scène d'assemblée" loading="lazy" decoding="async" width="1200" height="1801" />
-  <br /><small><em>L'appel de Clermont, enluminure française. Urbain II répond à une demande de secours de l'empereur byzantin — et déclenche un mouvement qui lui échappera complètement.</em></small></p>
+  <br /><small><em>L'appel de Clermont, enluminure française. Le 27 novembre 1095, Urbain II prêche en plein air, devant une foule trop nombreuse pour tenir dans la cathédrale ; il promet la rémission des péchés à ceux qui partiront, et fait coudre une croix d'étoffe sur leur épaule — d'où leur nom.</em></small></p>
 
 <p>Le pape Urbain II prononce l'appel de Clermont (27 novembre). Répondant à la demande de secours de l'empereur byzantin Alexis Ier, menacé par l'avancée des Turcs seldjoukides en Anatolie, il exhorte la chevalerie d'Occident à reprendre Jérusalem et le Saint-Sépulcre, sous domination musulmane depuis 638. Cet appel déclenche la première croisade.</p>
 
@@ -5888,8 +5882,8 @@ tags: technology
 # 1117 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/boussole.webp' | relative_url }}" alt="Photographie d'une boussole : un boîtier rond à couvercle transparent où l'aiguille aimantée, rouge et verte, pointe le nord sur une rose graduée en degrés" loading="lazy" decoding="async" width="900" height="750" />
-  <br /><small><em>La boussole : une aiguille aimantée pour tenir un cap quand le ciel est couvert.</em></small>
+  <img src="{{ '/assets/img/boussolechinoise.webp' | relative_url }}" alt="Boussole chinoise ancienne : une planchette de bois gravée, percée en haut d'un puits rond sous verre où pivote l'aiguille aimantée, et couverte en dessous de colonnes de caractères" width="340" loading="lazy" decoding="async" height="477" />
+  <br /><small><em>Boussole chinoise de géomancie, XIXᵉ siècle : l'aiguille aimantée pivote sous verre au centre d'un cadran gravé des directions. L'objet est tardif, mais il descend en droite ligne des aiguilles que les pilotes chinois emportaient déjà en mer au XIIᵉ siècle, quand le ciel couvert leur cachait les étoiles. Photo Emory University, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Premier témoignage attesté de l'usage maritime de la boussole : dans son <em>Pingzhou ketan</em>, Zhu Yu rapporte que les pilotes des navires marchands de Canton s'orientent grâce aux étoiles la nuit, au soleil le jour, et à l'aiguille aimantée par temps couvert. La boussole devient un instrument de navigation hauturière sur les routes commerciales de la mer de Chine et de l'océan Indien, complétant l'observation astronomique plutôt que la remplaçant.</p>
