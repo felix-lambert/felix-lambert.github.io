@@ -98,7 +98,7 @@ SIZE="$(du -h "$OUT" | cut -f1)"
 if [ "$DRYRUN" = "1" ]; then
   echo "4/5  --dry-run : pas d'upload (fichier pret : $OUT, $SIZE)"
 else
-  : "${R2_ACCOUNT_ID:?manque R2_ACCOUNT_ID (voir l'entete du script)}"
+  : "${R2_ACCOUNT_ID:?manque R2_ACCOUNT_ID - voir entete du script}"
   : "${R2_BUCKET:?manque R2_BUCKET}"
   echo "4/5  upload vers R2 ($SIZE)"
   aws s3 cp "$OUT" "s3://$R2_BUCKET/$SLUG.mp4" \

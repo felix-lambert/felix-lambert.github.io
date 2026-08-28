@@ -2734,6 +2734,11 @@ tags: technology
 
 <p>Lakish, deuxième ville du royaume, est rasée : quinze cents hommes, femmes et enfants seront retrouvés dans une fosse commune. Le roi assyrien fera sculpter le siège en détail sur les murs de son palais — la rampe d'assaut, les béliers, les défenseurs empalés, les files de déportés. C'est l'un des rares épisodes de la Bible dont nous possédions aussi l'image, vue du côté du vainqueur.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Relief assyrien du siège de Lakish, British Museum" width="600" loading="lazy" decoding="async" height="455" />
+  <br /><small><em>Archers et frondeurs assyriens à l'assaut de Lakish, relief du palais de Sennachérib à Ninive. Photo Ywpark2003, CC0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Puis l'armée encercle Jérusalem, et la ville paraît perdue. Au dernier moment, pourtant, le siège est levé — les textes bibliques y verront un miracle, les Assyriens parleront d'un tribut versé, les historiens évoquent une épidémie ou des troubles ailleurs dans l'empire.</p>
 
 <p>Ézéchias avait hérité d'un royaume prospère ; sa politique étrangère imprudente lui laisse une cité-État minuscule. Mais Jérusalem a tenu — et de cette survie inexpliquée naîtra une conviction qui pèsera lourd : cette ville est imprenable, car Dieu la protège.</p>
@@ -2858,6 +2863,11 @@ tags: technology
 
 <p>Ces premières monnaies sont fabriquées en électrum, un alliage d'or et d'argent que l'on trouve naturellement dans la région, notamment dans les dépôts alluviaux associés au fleuve Pactole près de Sardes. La Lydie possède ainsi non seulement une position privilégiée sur les routes commerciales reliant la mer Égée à l'intérieur de l'Anatolie, mais aussi un accès exceptionnel aux métaux précieux.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/electrum.webp' | relative_url }}" alt="Statère d'électrum lydien à la tête de lion" width="520" loading="lazy" decoding="async" height="226" />
+  <br /><small><em>Trité d'électrum de Lydie, vers -610 : une tête de lion au droit, deux carrés poinçonnés au revers. Photo CNG Coins, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>L'innovation n'est pas l'invention de l'argent lui-même. Depuis des millénaires, en Mésopotamie, en Égypte et ailleurs, l'or et surtout l'argent peuvent servir de moyens de paiement : on pèse simplement une certaine quantité de métal au moment de la transaction. La nouveauté consiste à préparer des morceaux de métal selon des poids standardisés et à leur apposer une marque officielle ou identifiable.</p>
 
 <p>La pièce ne supprime donc pas immédiatement la nécessité de peser ou de contrôler le métal, et sa valeur ne repose pas encore sur la seule autorité abstraite d'un État moderne. Mais elle simplifie considérablement les transactions répétées : le poids et l'origine du métal sont désormais en partie garantis par la forme et la marque de l'objet lui-même.</p>
@@ -2901,6 +2911,11 @@ tags: technology
 <p>La monnaie apparaît elle aussi progressivement dans cet environnement. Les premières monnaies indiennes connues sont principalement des morceaux d'argent de poids standardisé portant des marques poinçonnées.</p>
 
 <p>Ces pièces sont technologiquement différentes des monnaies lydiennes. Elles sont souvent obtenues en préparant une feuille ou une barre d'argent, découpée afin d'atteindre un poids déterminé, puis marquée séparément par plusieurs poinçons. Les symboles peuvent certifier la validité ou l'origine de la pièce. Au fil des siècles, ce système de monnaies poinçonnées deviendra caractéristique d'une grande partie du sous-continent.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/monnaiepoinconnee.webp' | relative_url }}" alt="Monnaie indienne d'argent poinçonnée, période maurya" width="560" loading="lazy" decoding="async" height="224" />
+  <br /><small><em>Karshapana d'argent poinçonné, Inde, période maurya : un morceau de métal au poids ajusté, marqué de plusieurs poinçons. Photo Jean-Michel Moullec, CC BY 2.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>La transformation économique accompagne une transformation religieuse tout aussi profonde. Dans ce monde de villes et de royaumes apparaissent ou deviennent plus visibles des groupes de renonçants que les sources appelleront <em>shramanas</em>. Ils quittent la maison et les obligations ordinaires pour rechercher une forme de délivrance par l'ascèse, la méditation ou la connaissance.</p>
 
@@ -3046,6 +3061,11 @@ tags: technology
 
 <p>Sa politique est aussitôt lisible. Il sacrifie aux dieux babyloniens, restaure leurs temples, se présente comme choisi par Marduk lui-même — et autorise les peuples déportés à rentrer chez eux avec leurs statues divines. Les exilés de Juda, qui n'ont pas de statue mais un temple à rebâtir, sont du nombre. Un roi étranger et zoroastrien recevra pour cela, dans les textes bibliques, un titre accordé à nul autre : l'oint du Seigneur, le messie.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cylindrecyrus.webp' | relative_url }}" alt="Cylindre de Cyrus, British Museum" width="600" loading="lazy" decoding="async" height="409" />
+  <br /><small><em>Le cylindre de Cyrus : le roi perse y proclame la restauration des cultes et le retour des déportés. Photo Mike Peel, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Mais cette conquête produit autre chose, que personne n'a voulu : elle met en présence deux univers religieux formés séparément. D'un côté, les exilés juifs, qui viennent d'élaborer à Babylone leur monothéisme strict. De l'autre, les Perses, héritiers lointains de Zarathoustra, dont la religion née des siècles plus tôt dans les steppes de l'est a gagné entre-temps l'ouest de l'Iran — les rois achéménides invoquent Ahura Mazda dans leurs inscriptions, sans qu'on sache jusqu'à quel point ils en suivaient la doctrine.</p>
 
 # -534 av. J.-C.
@@ -3099,6 +3119,11 @@ tags: technology
 # -515 av. J.-C.
 
 <p>L'Empire perse adopte officiellement la monnaie sous Darius Ier, qui centralise et standardise la frappe — la darique d'or — pour administrer et faire commercer un empire immense, de l'Indus à la Méditerranée. L'invention lydienne devient l'outil des empires.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/darique.webp' | relative_url }}" alt="Darique d'or achéménide à l'archer" width="330" loading="lazy" decoding="async" height="326" />
+  <br /><small><em>Darique d'or achéménide : le Grand Roi en archer, genou à terre. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 # -510 av. J.-C.
 
@@ -3240,7 +3265,7 @@ tags: technology
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=AzcZiQswnVI" data-id="AzcZiQswnVI" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/AzcZiQswnVI/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Naissance de Socrate, l'une des figures fondatrices de la pensée occidentale. Sa méthode : interroger inlassablement ses concitoyens sur les places d'Athènes — qu'est-ce que le courage ? la justice ? la vertu ? — et démonter leurs certitudes question après question, jusqu'à l'aveu d'ignorance d'où peut naître la vraie recherche. « Je sais que je ne sais rien » : la philosophie comme examen permanent de sa propre vie. Il n'a jamais rien écrit : nous le connaissons par ses disciples, Platon et Xénophon en tête.</p>
+<p>Naissance de Socrate, l'une des figures fondatrices de la pensée occidentale. Sa méthode : interroger inlassablement ses concitoyens sur les places d'Athènes — qu'est-ce que le courage ? la justice ? la vertu ? — et démonter leurs certitudes question après question, jusqu'à l'aveu d'ignorance d'où peut naître la vraie recherche. La formule qu'on lui prête — « je sais que je ne sais rien » — ne se trouve pas telle quelle chez Platon, qui lui fait dire quelque chose de plus fin : ce qu'il ignore, au moins, il ne croit pas le savoir. La philosophie comme examen permanent de sa propre vie. Il n'a jamais rien écrit : nous le connaissons par ses disciples, Platon et Xénophon en tête.</p>
 
 # -460 av. J.-C.
 
@@ -3360,6 +3385,11 @@ tags: technology
 
 <p>La technologie choisie pour transmettre ce message est elle-même remarquable. Pendant des siècles, les traditions védiques ont conservé leurs textes grâce à une transmission orale extrêmement rigoureuse. Ashoka fait au contraire graver des paroles sur des surfaces rocheuses afin qu'elles demeurent physiquement présentes dans le paysage. L'écriture devient un instrument de communication impériale.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/editashoka.webp' | relative_url }}" alt="Édit rupestre d'Ashoka gravé en brahmi" width="600" loading="lazy" decoding="async" height="337" />
+  <br /><small><em>Un édit rupestre d'Ashoka, gravé en brahmi à même le rocher. Photo Prof Ranga Sai, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 # -257 av. J.-C.
 
 <p>L'Empire maurya est immense et linguistiquement divers. La majorité des inscriptions d'Ashoka utilisent différentes formes de prakrit écrites en brahmi ; dans le nord-ouest, certaines emploient le kharoshthi. À Kandahar, aux frontières occidentales de l'empire, Ashoka fait même inscrire des textes en grec et en araméen, témoignage matériel d'un monde où l'Inde, l'ancien Empire perse et les royaumes hellénistiques sont désormais en contact.</p>
@@ -3372,6 +3402,11 @@ tags: technology
 
 <p>La diversité de l'Empire maurya apparaît particulièrement clairement dans les inscriptions découvertes autour de Kandahar, dans l'actuel Afghanistan. Cette région avait appartenu à l'Empire achéménide avant les conquêtes d'Alexandre et abrite encore au IIIe siècle av. J.-C. des populations utilisant des langues issues de plusieurs traditions impériales.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/ashokakandahar.webp' | relative_url }}" alt="Inscription bilingue grec-araméen d'Ashoka à Kandahar" width="480" loading="lazy" decoding="async" height="504" />
+  <br /><small><em>L'inscription bilingue de Kandahar : le même édit d'Ashoka en grec (en haut) et en araméen (en bas). Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Ashoka ne cherche donc pas à communiquer partout dans une seule langue sacrée : à Kandahar, comme on l'a vu, le même pouvoir impérial change d'alphabet et de langue selon les populations auxquelles il s'adresse.</p>
 
 <p>Le détail est historiquement extraordinaire. À la même époque où les royaumes hellénistiques gouvernent l'Égypte, la Syrie et une partie de l'Asie centrale, les principes moraux d'un empereur indien peuvent être gravés en grec à plusieurs milliers de kilomètres d'Athènes. L'écriture devient ici une technologie d'adaptation politique : le même pouvoir impérial change de langue et de système graphique selon les populations auxquelles il s'adresse.</p>
@@ -3379,6 +3414,11 @@ tags: technology
 <p>Ces monuments représentent une prouesse technique. Certains piliers sont taillés dans un seul bloc de grès, polis jusqu'à obtenir une surface presque brillante, puis transportés sur de longues distances avant d'être dressés. Plusieurs atteignent une dizaine de mètres de hauteur et pèsent plusieurs dizaines de tonnes. Leur fabrication et leur déplacement témoignent des capacités artisanales, logistiques et administratives de l'État maurya.</p>
 
 <p>Au sommet de certains piliers se trouvent des chapiteaux sculptés représentant des animaux. Le plus célèbre, découvert à Sarnath, porte quatre lions adossés. Plus de deux millénaires plus tard, ce chapiteau deviendra l'emblème officiel de la République de l'Inde, tandis que la roue qui lui est associée figurera au centre du drapeau indien.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/chapiteausarnath.webp' | relative_url }}" alt="Chapiteau aux lions d'Ashoka, musée de Sarnath" width="600" loading="lazy" decoding="async" height="450" />
+  <br /><small><em>Le chapiteau aux quatre lions adossés retrouvé à Sarnath, aujourd'hui emblème de la République indienne. Photo Apurv013, CC0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Les inscriptions des piliers poursuivent le programme moral d'Ashoka : administration plus attentive, modération, respect des différentes traditions religieuses et protection accrue de certains animaux. L'empereur évoque également des fonctionnaires chargés de questions liées au <em>dhamma</em>, signe que son projet ne se limite plus à une conviction personnelle mais possède désormais une dimension administrative.</p>
 
@@ -3728,6 +3768,11 @@ tags: technology
 
 <p>Et les corps. En creusant, on tomba sur des cavités vides dans la cendre durcie — la forme laissée par les chairs disparues. En les remplissant de plâtre, on obtint des moulages exacts des victimes à l'instant de leur mort : un homme couvrant son visage, une famille serrée dans un escalier, un chien tordu au bout de sa chaîne. Le seul cas où l'archéologie ne nous rend pas des os, mais des gestes.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/pompeimoulages.webp' | relative_url }}" alt="Moulages de plâtre de victimes de l'éruption, Pompéi" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em>Moulages de plâtre coulés dans les cavités laissées par les corps, Pompéi. Photo Sparrow (麻雀), CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 # 100 ans
 
 <p>Pline l'Ancien avait signalé, peu avant sa mort au Vésuve, un outil nouveau chez les paysans de Gaule et de Rhétie : un araire monté sur deux roues, muni d'un soc de fer. Le progrès semble modeste ; il ne l'est pas. Les roues permettent de régler la profondeur du sillon et d'attaquer des terres plus lourdes ; le fer, désormais assez répandu pour être gaspillé dans un outil agricole, coupe là où le bois se contentait de gratter.</p>
@@ -3791,6 +3836,11 @@ tags: technology
 <p>Près d'Édesse, l'impensable se produit : l'empereur romain Valérien est capturé vivant par Shapur Iᵉʳ. Aucun empereur n'était jamais tombé aux mains d'un ennemi. Il mourra en captivité, et la tradition perse — reprise avec délectation par les chrétiens, qui voyaient là le châtiment d'un persécuteur — voudra que le roi des rois se soit servi de son dos comme marchepied pour monter à cheval.</p>
 
 <p>Shapur fait graver la scène en grand format sur les falaises de Naqch-e Rostam, à côté des tombeaux des rois achéménides : l'empereur romain agenouillé devant le cavalier perse. Le message est double — destiné aux Romains, et destiné aux Perses eux-mêmes, à qui l'on rappelle que la revanche sur l'Occident est accomplie. Ces reliefs existent toujours.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/naqscherostam.webp' | relative_url }}" alt="Relief de Shapur Iᵉʳ triomphant, Naqch-e Rostam" width="600" loading="lazy" decoding="async" height="397" />
+  <br /><small><em>Naqch-e Rostam : l'empereur romain Valérien agenouillé devant Shapur Iᵉʳ à cheval. Photo Carole Raddato, CC BY-SA 2.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Rome et la Perse s'épuiseront l'une contre l'autre sur cette même frontière pendant quatre siècles, sans qu'aucune ne parvienne jamais à l'emporter. Jusqu'au jour où, exsangues toutes les deux, elles verront surgir du désert un troisième acteur qu'elles n'avaient pas vu venir.</p>
 
@@ -3934,6 +3984,11 @@ tags: technology
 
 <p>C'est la dernière inscription hiéroglyphique de l'histoire. Après trois mille cinq cents ans d'usage continu, personne n'écrira plus jamais ces signes — et bientôt, plus personne ne saura les lire. Un système d'écriture ne meurt pas dans un incendie : il s'éteint quand meurt le dernier homme qui l'avait appris.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/graffitophilae.webp' | relative_url }}" alt="Graffito d'Esmet-Akhom, temple de Philae" width="380" loading="lazy" decoding="async" height="676" />
+  <br /><small><em>Le graffito d'Esmet-Akhom, gravé sur la porte d'Hadrien à Philae le 24 août 394 : la dernière inscription hiéroglyphique connue. Photo A. Parrot, CC0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Le lieu n'est pas un hasard. Philae est une île perdue à l'extrême sud, aux confins de la Nubie, si loin de tout que les édits impériaux y arrivent avec des décennies de retard ; son temple d'Isis fonctionnera encore un siècle et demi. L'ancienne religion s'est retirée là comme dans une poche, et c'est dans cette poche que l'écriture des pharaons a écrit sa dernière ligne.</p>
 
 <p>Nul n'a su ce jour-là qu'il s'agissait d'une fin. Esmet-Akhom gravait une prière ordinaire ; il refermait, sans le savoir, une porte qui resterait close quatorze siècles.</p>
@@ -4017,6 +4072,11 @@ tags: technology
 <p>L'exploit est technique. Jusque-là, on savait poser une coupole ronde sur un bâtiment rond ; les architectes de Justinien la posent sur un carré, en comblant les angles par des triangles courbes — les pendentifs. La coupole atteint trente et un mètres de large et culmine à cinquante-cinq mètres de haut. Et pour l'alléger encore, ils la percent à sa base d'une couronne de quarante fenêtres.</p>
 
 <p>Le résultat est un effet d'optique saisissant : la lumière qui entre par ces fenêtres efface visuellement le point d'appui de la coupole, si bien qu'elle semble ne reposer sur rien. Un contemporain écrit qu'elle paraît suspendue au ciel par une chaîne d'or. Les visiteurs, pendant des siècles, diront la même chose — qu'on ne sait plus si l'on est sur terre ou au ciel.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/saintesophie.webp' | relative_url }}" alt="Coupole de Sainte-Sophie vue de l'intérieur" width="600" loading="lazy" decoding="async" height="399" />
+  <br /><small><em>La coupole de Sainte-Sophie et sa couronne de fenêtres, qui efface visuellement son point d'appui. Photo Jorge Láscar, CC BY 2.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Sainte-Sophie restera le plus vaste espace couvert du monde pendant près de mille ans. La tradition rapporte que Justinien, y entrant pour la première fois, aurait murmuré : « Salomon, je t'ai surpassé. » L'architecture chrétienne venait de trouver sa forme — et l'Empire d'Orient, son symbole.</p>
 
@@ -4250,6 +4310,11 @@ tags: technology
 
 <p>À Cordoue, le prince omeyyade qui a fui le massacre de sa famille en Syrie et refondé un émirat à l'autre bout du monde musulman fait bâtir une grande mosquée. Ses colonnes proviennent d'édifices romains et wisigoths démontés, et ses doubles arcs rouges et blancs, empruntés à l'aqueduc antique, créent un espace sans équivalent. Elle sera agrandie trois fois en deux siècles.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/mosqueecordoue.webp' | relative_url }}" alt="Arcs bicolores de la grande mosquée de Cordoue" width="600" loading="lazy" decoding="async" height="450" />
+  <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue et ses arcs bicolores superposés. Photo Alvaro Viñuela Carnicero, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 # 789 ans
 
 <p>Charlemagne promulgue un capitulaire qui ordonne quelque chose d'inédit : que chaque évêché et chaque monastère ouvre une école, et qu'on y enseigne à lire, à chanter et à compter — non seulement aux futurs clercs, mais à tous les enfants capables d'apprendre.</p>
@@ -4261,6 +4326,11 @@ tags: technology
 <p>Pour mener l'entreprise, il a fait venir des savants de toute l'Europe — d'Angleterre, d'Italie, d'Espagne — et confié la direction au plus brillant d'entre eux, Alcuin d'York. On corrige les textes, on rétablit un latin propre, et surtout on recopie massivement les manuscrits anciens qui pourrissaient dans les bibliothèques.</p>
 
 <p>Les copistes mettent alors au point une écriture nouvelle, claire, régulière, séparant les mots — la minuscule caroline. Elle est si lisible que les humanistes de la Renaissance la prendront pour de l'écriture romaine antique et la copieront ; les premiers imprimeurs en feront leurs caractères. Les lettres que tu lis en ce moment en descendent directement.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/minusculecaroline.webp' | relative_url }}" alt="Page manuscrite en minuscule caroline" width="480" loading="lazy" decoding="async" height="423" />
+  <br /><small><em>Une page en minuscule caroline : lettres régulières, mots séparés, ponctuation — l'écriture qui a sauvé les textes antiques. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le résultat dépasse de loin l'intention : une part considérable des textes latins antiques que nous possédons — Cicéron, Tacite, Virgile — ne nous est parvenue que par ces copies carolingiennes. Sans ces moines mis au travail par un empereur qui savait à peine écrire, une partie de l'Antiquité serait perdue.</p>
 
@@ -4306,6 +4376,11 @@ tags: technology
 
 <p>La même époque voit naître, à l'autre bout du monde musulman, une invention d'un tout autre genre. Dans les plaines du Sistan — aux confins de l'Iran et de l'Afghanistan actuels —, les géographes arabes décrivent des machines qu'on ne trouve nulle part ailleurs. La région est balayée par un vent si constant qu'on l'appelle « le vent des cent vingt jours », et ses habitants l'ont mis au travail : des tours de brique percées de fentes qui canalisent le souffle vers un rotor tournant à l'horizontale, comme une porte à tambour, entraînant une meule à l'étage du dessous. On y moud le grain et on y pompe l'eau d'irrigation.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/moulinsnashtifan.webp' | relative_url }}" alt="Moulins à vent à axe vertical de Nashtifan, Iran" width="600" loading="lazy" decoding="async" height="450" />
+  <br /><small><em>Les moulins à vent à axe vertical de Nashtifan, dans le Sistan iranien — ils tournent encore. Photo Ali Vaseghnia, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>La portée en est immense. Jusqu'ici, tout travail exigeait un muscle — humain, bovin ou équin — ou bien un cours d'eau, ce qui réservait les moulins aux vallées. Voici une force qui ne mange pas, ne dort pas, ne meurt pas et ne coûte rien. Depuis la voile, l'humanité n'avait pas fait pareille conquête.</p>
 
 <p>L'idée restera longtemps confinée à cette région : il faudra des siècles avant que le vent ne travaille ailleurs.</p>
@@ -4350,6 +4425,11 @@ tags: technology
 
 <p>C'est le feu grégeois, l'arme secrète de Byzance — probablement à base de pétrole brut affleurant en mer Noire, épaissi de résines, chauffé et projeté sous pression. La recette était un secret d'État si bien gardé, transmis oralement dans quelques familles, qu'elle a fini par se perdre : personne aujourd'hui ne sait la reconstituer avec certitude. Elle avait déjà sauvé Constantinople des Arabes, elle la sauve encore.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/feugregeois.webp' | relative_url }}" alt="Feu grégeois, miniature du Skylitzès de Madrid" width="600" loading="lazy" decoding="async" height="307" />
+  <br /><small><em>Le feu grégeois projeté par un siphon de bronze, miniature du Skylitzès de Madrid. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Les survivants rentrent à Kiev avec un récit qui fera le tour du Nord. Mais l'expédition, en échouant, ouvre paradoxalement autre chose : à partir de là, les Rus' et Byzance ne cesseront plus de se parler.</p>
 
 # 944 ans
@@ -4382,6 +4462,11 @@ tags: technology
 
 <p>Les forgerons japonais commencent à produire des lames courbes à un seul tranchant : le <em>tachi</em>, ancêtre direct du katana. Jusqu'ici, on utilisait des sabres droits d'influence chinoise, hérités du continent.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/tachi.webp' | relative_url }}" alt="Lame de tachi japonais" width="600" loading="lazy" decoding="async" height="399" />
+  <br /><small><em>Lame de tachi : courbe, à un seul tranchant, avec sa ligne de trempe visible — l'ancêtre du katana. Photo SLIMHANNYA, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Le changement vient du cheval. Les guerriers de cette époque combattent montés, à l'arc d'abord, au sabre ensuite — et une lame droite, à cheval, oblige à frapper d'estoc ou à s'arrêter pour tailler. Une lame courbe, elle, tranche en glissant, au passage, en exploitant la vitesse du galop. Le tachi se porte donc suspendu à la ceinture, tranchant vers le bas, à portée de la main du cavalier. Ce n'est que bien plus tard, quand les combats redeviendront des affaires de fantassins, qu'on portera l'arme glissée dans la ceinture tranchant vers le haut, pour dégainer et frapper d'un même geste — ce sera le katana.</p>
 
 <p>La technique de forge mise au point alors restera l'une des plus remarquables de l'histoire métallurgique. Le problème est ancien : un acier dur tranche bien mais casse, un acier doux plie sans casser mais ne coupe pas. Les forgerons japonais résolvent la contradiction en assemblant les deux — une enveloppe dure autour d'une âme souple —, en repliant l'acier des dizaines de fois pour en chasser les impuretés, puis en enrobant la lame d'argile de manière inégale avant la trempe : le tranchant, peu couvert, refroidit brutalement et durcit ; le dos, protégé, refroidit lentement et reste souple. Le refroidissement inégal fait se courber la lame toute seule, et laisse sur l'acier une ligne ondulée qui est la signature de chaque forgeron.</p>
@@ -4391,6 +4476,11 @@ tags: technology
 # 1008 ans
 
 <p>À la cour de Kyoto, une dame d'honneur achève ce qu'on tient souvent pour le premier roman psychologique de l'histoire : le <em>Dit du Genji</em>. Murasaki Shikibu y suit sur cinquante-quatre chapitres la vie d'un prince séduisant, ses amours, ses disgrâces, son vieillissement, puis la génération qui lui succède — avec une attention aux états d'âme, aux silences et aux regrets qui n'a aucun équivalent ailleurs à cette époque.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/genji.webp' | relative_url }}" alt="Rouleau peint du Dit du Genji" width="600" loading="lazy" decoding="async" height="325" />
+  <br /><small><em>Scène du Genji monogatari emaki, rouleau peint illustrant le Dit du Genji. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le contexte de son écriture est aussi remarquable que l'œuvre. Les hommes de la cour écrivent en chinois, langue savante et sérieuse ; les femmes, exclues de cet apprentissage, écrivent en japonais avec l'alphabet syllabique qu'on juge trop simple pour eux. Résultat : c'est dans la langue réputée mineure, et par des femmes, qu'est produite la grande littérature japonaise de ce siècle — le <em>Genji</em>, mais aussi les <em>Notes de chevet</em> de Sei Shōnagon, recueil d'impressions et de listes d'une modernité déconcertante.</p>
 
@@ -4403,6 +4493,11 @@ tags: technology
 <p>Les marchands avaient trouvé la parade : déposer leurs pièces chez un changeur et repartir avec un reçu de papier, le <em>jiaozi</em>, qui circulait de main en main comme la valeur elle-même. Le papier ne vaut rien, mais tout le monde sait qu'il donne droit au métal.</p>
 
 <p>Cette année-là, l'État reprend le système à son compte et ouvre à Chengdu un bureau officiel d'émission. C'est le premier papier-monnaie garanti par un gouvernement dans l'histoire humaine : billets imprimés, sceaux, marques de sécurité contre la contrefaçon, et une menace explicite de mort pour les faussaires.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/jiaozi.webp' | relative_url }}" alt="Planche d'impression d'un jiaozi, dynastie Song" width="300" loading="lazy" decoding="async" height="483" />
+  <br /><small><em>Un jiaozi de la dynastie Song : le premier papier-monnaie garanti par un État. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>La suite est instructive, et elle a été rejouée par tous les États depuis. Tant que les émissions restent adossées à une réserve, la confiance tient. Mais l'État découvre vite qu'il peut imprimer sans contrepartie pour financer ses guerres — et le fait. La valeur des billets s'effondre, la Chine connaît la première grande inflation de papier-monnaie de l'histoire, et l'expérience finira si mal que les Ming l'abandonneront pour revenir à l'argent métal pendant des siècles.</p>
 
@@ -4600,7 +4695,11 @@ tags: technology
 
 # 1353 ans
 
-<p>La peste est à Moscou.</p>
+<p>La peste atteint Moscou, cinq ans après avoir ravagé l'Europe occidentale : elle a fait le tour du continent par le nord, en remontant par Novgorod et Pskov. Elle emporte le grand-prince Siméon le Fier, ses deux fils et son frère, en quelques semaines.</p>
+
+<p>Cette hécatombe dynastique a une conséquence que personne ne mesure sur le moment. Elle concentre l'héritage sur un seul survivant de la lignée et accélère le rassemblement des principautés russes autour de Moscou, une bourgade forestière qui n'était rien un siècle plus tôt. Elle vide aussi les campagnes et affaiblit la Horde d'or, dont Moscou est encore tributaire.</p>
+
+<p>Il faut mesurer le trajet accompli : partie d'Asie centrale, l'épidémie aura mis six ans à parcourir le continent d'un bout à l'autre, à la vitesse des caravanes et des navires. C'est la première fois qu'un événement biologique frappe l'Eurasie entière comme un seul organisme.</p>
 
 # 1364 ans
 
@@ -4685,9 +4784,19 @@ tags: technology
 
 <p>Une quinzaine d'années plus tard, vers 1455, Gutenberg imprime la Bible à l'aide de sa presse. Cette Bible, connue sous le nom de la "Bible de Gutenberg" ou la "Bible à quarante-deux lignes", est le premier livre majeur imprimé en Europe à l'aide de la technologie de l'imprimerie. La Bible est un ouvrage largement demandé à l'époque, ce qui garantit un marché potentiel pour les exemplaires imprimés.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/biblegutenberg.webp' | relative_url }}" alt="Page de la Genèse, Bible à 42 lignes de Gutenberg" width="450" loading="lazy" decoding="async" height="633" />
+  <br /><small><em>La Genèse dans la Bible à 42 lignes : texte imprimé, décor peint à la main. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 # 1453 ans
 
 <p>Constantinople, la capitale de l'Empire byzantin, est assiégée et conquise par les forces ottomanes dirigées par le sultan Mehmed II. L'évolution technologique de l'artillerie joue un rôle crucial dans la prise de Constantinople. Les Ottomans, dirigés par le sultan Mehmed utilisent des canons de siège massifs et innovants pour percer les remparts autrefois impénétrables de la ville. Les canons sont capables de tirer sur de longues distances avec une précision étonnante pour l'époque. Ils sont utilisés pour pilonner les murs de la ville pendant plusieurs semaines, créant des brèches qui permettent aux forces ottomanes d'entrer et de capturer Constantinople.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/bombardedardanelles.webp' | relative_url }}" alt="Grande bombarde ottomane des Dardanelles" width="600" loading="lazy" decoding="async" height="450" />
+  <br /><small><em>Bombarde de bronze ottomane du XVᵉ siècle, démontée en deux tronçons vissés. Photo Gaius Cornelius, domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>L'utilisation de ces canons massifs et innovants marquent un tournant dans l'histoire de la guerre de siège et démontrent le potentiel des armes à feu et de l'artillerie pour révolutionner les tactiques de combat.</p>
 
@@ -4703,7 +4812,11 @@ tags: technology
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VD9vwdkoUm0" data-id="VD9vwdkoUm0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/VD9vwdkoUm0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Vlad III, également connu sous le nom de Vlad l'Empaleur devient le prince de Valachie (actuelle Roumanie).</p>
+<p>Vlad III s'installe sur le trône de Valachie, principauté coincée entre le royaume de Hongrie et un Empire ottoman qui a pris Constantinople trois ans plus tôt et pousse désormais vers le Danube.</p>
+
+<p>Sa méthode de gouvernement est le supplice du pal, qu'il applique aux boyards trop puissants, aux marchands saxons de Transylvanie et surtout aux envoyés du sultan. Ce n'est pas seulement de la cruauté : c'est une terreur calculée, celle d'un prince sans armée permanente qui doit tenir une noblesse turbulente et dissuader un voisin dix fois plus fort. Des libelles allemands, imprimés peu après, en feront le monstre de l'Europe.</p>
+
+<p>Quatre siècles plus tard, un romancier irlandais cherchant un nom pour son vampire tombera sur celui que Vlad tenait de son père, membre de l'ordre du Dragon : Dracul. En Roumanie, il est resté un héros national — le prince qui a dit non au sultan.</p>
 
 # 1467 ans
 
@@ -4919,6 +5032,11 @@ tags: technology
 
 <p>La même année paraît à Nuremberg, chez un imprimeur luthérien, le livre que Copernic n'osait pas publier : <em>Des révolutions des sphères célestes</em>. L'auteur meurt dans les semaines qui suivent. L'ouvrage passe d'abord pour un exercice technique d'astronome, utile pour calculer, sans qu'on prenne au sérieux l'idée que la Terre bouge vraiment — un éditeur prudent a même ajouté sans autorisation une préface expliquant qu'il ne s'agit que d'une hypothèse commode. Il faudra soixante-dix ans pour que l'Église s'aperçoive du danger.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/heliocentrisme.webp' | relative_url }}" alt="Schéma héliocentrique du De revolutionibus" width="560" loading="lazy" decoding="async" height="480" />
+  <br /><small><em>Le schéma héliocentrique du <em>De revolutionibus</em> : le Soleil au centre, la Terre troisième. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Et la même année encore paraît à Bâle un autre livre, qui fait pour le corps ce que Copernic fait pour le ciel. André Vésale a vingt-huit ans et enseigne à Padoue. Jusqu'à lui, le professeur d'anatomie lisait Galien à voix haute du haut de sa chaire, pendant qu'un barbier découpait le cadavre en contrebas et qu'un assistant désignait les organes ; quand le corps contredisait le texte, on en concluait que le corps s'était trompé, ou que l'homme avait dégénéré depuis l'Antiquité.</p>
 
 <p>Vésale descend de la chaire et prend le couteau. Sa <em>Fabrique du corps humain</em>, illustrée de planches sorties d'un atelier vénitien que personne n'égalera, relève plus de deux cents erreurs chez Galien — lequel, on le comprend enfin, avait surtout disséqué des singes et des porcs. Le cœur n'a pas les pores qu'il y voyait ; le sternum n'a pas le nombre de segments qu'il annonçait.</p>
@@ -5112,6 +5230,11 @@ tags: technology
 <p>Ce qu'il voit en quelques semaines démolit deux mille ans de physique.</p>
 
 <p>La Lune est couverte de montagnes et de cratères. Elle projette des ombres, et la longueur de ces ombres permet d'en mesurer le relief. Or les cieux étaient réputés parfaits, faits d'une matière incorruptible sans rapport avec la nôtre : voilà un astre qui ressemble à un caillou.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/galileelune.webp' | relative_url }}" alt="Gravure de la Lune, Sidereus Nuncius de Galilée" width="400" loading="lazy" decoding="async" height="672" />
+  <br /><small><em>La Lune telle que Galilée la dessine dans le <em>Sidereus Nuncius</em> : un relief de montagnes et de cratères, non une sphère lisse. Wellcome Collection, CC BY 4.0, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Jupiter est accompagné de quatre points lumineux qui changent de place chaque nuit. Ce sont des lunes, et elles tournent autour de lui. L'objection majeure à Copernic — si la Terre bougeait, elle perdrait la sienne en route — vient de tomber : voilà un corps qui se déplace sans rien perdre.</p>
 
@@ -5349,7 +5472,11 @@ tags: technology
 
 # 1690 ans
 
-<p>A Saint Domingue, il y a 30 000 esclaves qui produisent 3000 tonnes de sucre.</p>
+<p>Saint-Domingue compte trente mille esclaves et produit trois mille tonnes de sucre. Occupée de fait par les Français depuis des décennies — l'Espagne ne leur cédera officiellement la partie occidentale de l'île qu'en 1697 —, la colonie n'est encore qu'une périphérie de flibustiers en cours de reconversion agricole.</p>
+
+<p>Le chiffre n'a d'intérêt que rapporté à ce qu'il deviendra. Un siècle plus tard, la même île comptera cinq cent mille esclaves et produira cent mille tonnes de sucre : seize fois plus d'hommes, trente-trois fois plus de sucre. Saint-Domingue sera devenue la colonie la plus rentable du monde et le premier poste du commerce extérieur français.</p>
+
+<p>Toute la mécanique de la plantation est déjà là, en réduction : une culture unique destinée à l'exportation, une main-d'œuvre importée de force parce qu'aucune population locale n'a survécu, et une rentabilité qui croît avec la brutalité. Il ne manque que l'échelle.</p>
 
 # 1707 ans
 
@@ -5373,7 +5500,11 @@ tags: technology
 
 # 1720 ans
 
-<p>Dernière épidémie de peste en Europe. Elle se situe à Marseille et est introduite à Marseille par des navires venant d'Orient. Elle dure jusqu'en 1722, causant la mort de plus de 100 000 personnes.</p>
+<p>Le <em>Grand-Saint-Antoine</em>, revenu du Levant avec une cargaison de soie et d'étoffes, mouille devant Marseille. Des marins sont morts pendant la traversée. Le protocole existe pourtant, et il est rigoureux — Venise l'a inventé quatre siècles plus tôt : quarante jours d'isolement sur une île, d'où le mot quarantaine. Mais la cargaison est attendue pour la foire de Beaucaire, des notables qui y ont investi pressent les autorités, et l'on abrège.</p>
+
+<p>La peste tue près de la moitié des Marseillais en deux ans, et plus de cent mille personnes en Provence. Le Parlement d'Aix punit de mort toute communication avec la ville ; on construit à travers les collines un mur de pierre sèche gardé par des soldats, dont on voit encore les vestiges.</p>
+
+<p>C'est la dernière grande épidémie de peste en Europe occidentale — six siècles après son retour de 1347. Elle laisse une leçon qui n'a pas vieilli : le dispositif sanitaire était correct, connu et suffisant, et il a cédé devant l'intérêt commercial de quelques-uns.</p>
 
 # 1721 ans
 
@@ -5393,7 +5524,11 @@ tags: technology
 
 # 1735 ans
 
-<p>Carl Linnaeus publie le Systema Naturae, ouvrage qui contribue à diffuser les classifications raciales utilisées par les Européens pour justifier l'esclavage des Africains et les hiérarchies raciales dans les colonies américaines.</p>
+<p>Carl von Linné publie le <em>Systema Naturae</em>, et donne au vivant la grammaire qu'on lui applique encore. Chaque espèce reçoit deux mots latins — le genre puis l'espèce — et prend place dans un emboîtement de rangs : règne, classe, ordre, genre, espèce. Le système est si commode qu'il survivra à la révolution darwinienne, qui lui donnera après coup une justification que Linné n'imaginait pas : si les êtres se rangent en arbre, c'est qu'ils descendent les uns des autres.</p>
+
+<p>Il fait un geste que ses contemporains jugent scandaleux : il range l'homme parmi les animaux, dans le même ordre que les singes, et le nomme <em>Homo sapiens</em>. Sommé de justifier ce classement, il répond qu'il demande qu'on lui indique un seul caractère anatomique qui sépare l'homme du singe — et qu'il n'en connaît aucun.</p>
+
+<p>Le même livre porte cependant une part sombre et durable. Linné subdivise l'espèce humaine en variétés géographiques auxquelles il attribue des tempéraments et des vices : l'Européen ingénieux et gouverné par les lois, l'Africain indolent et gouverné par le caprice. Il croit décrire ; il fournit une caution savante. Ces pages seront citées pendant un siècle et demi pour justifier l'esclavage puis la colonisation, et il faudra la génétique du XXᵉ siècle pour établir que ces variétés n'ont aucune réalité biologique.</p>
 
 # 1739 ans
 
@@ -5417,7 +5552,30 @@ tags: technology
 
 # 1751 ans
 
-<p>L'Encyclopédie de Diderot et d'Alembert est publiée pour la première fois. Il s'agit d'un ouvrage encyclopédique qui comprend une collection de savoirs sur un large éventail de sujets, allant de la science et de la technique à la philosophie et aux arts. L'Encyclopédie est conçue comme un outil de diffusion du savoir et de la connaissance. Elle est perçue comme un symbole de la Révolution intellectuelle de l'époque.</p>
+<p>Paraît le premier des vingt-huit volumes de l'<em>Encyclopédie</em>. Le projet a commencé comme la traduction d'un dictionnaire anglais ; Diderot et d'Alembert en font tout autre chose, et il leur faudra vingt ans, cent cinquante collaborateurs et deux interdictions royales pour l'achever.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/encyclopedie.webp' | relative_url }}" alt="Frontispice de l'Encyclopédie de Diderot et d'Alembert" width="420" loading="lazy" decoding="async" height="662" />
+  <br /><small><em>Frontispice de l'<em>Encyclopédie</em>, gravé par Prévost d'après Cochin : la Vérité dévoilée par la Raison. Domaine public, via Wikimedia Commons.</em></small>
+</p>
+
+<p>La nouveauté n'est pas de rassembler le savoir — on le fait depuis Pline. Elle est double, et les deux moitiés sont politiques.</p>
+
+<p>D'abord, les métiers y entrent. Onze volumes de planches gravées décrivent comment on fond un canon, comment on tanne une peau, comment on monte un métier à tisser. Diderot est allé voir les ateliers, a interrogé les ouvriers, s'est plaint qu'ils sachent faire sans savoir dire. Jusque-là, le savoir noble était celui qu'on lisait ; il déclare que celui de l'artisan vaut autant, et il le publie. C'est une révolution silencieuse dans la hiérarchie des connaissances.</p>
+
+<p>Ensuite, les renvois. La censure surveille les articles sensibles, alors on écrit sagement à « Âme » et l'on glisse l'objection à « Aigle » ou à « Capuchon », en renvoyant d'un article à l'autre. Le lecteur attentif reconstitue une critique que nulle page ne porte à elle seule. Diderot l'a théorisé : les renvois, écrit-il, peuvent « changer la façon commune de penser ».</p>
+
+<p>Le pari de fond est celui des Lumières tout entières : mettre entre les mains de qui sait lire les moyens de juger par lui-même, sans passer par un clergé ni par un maître. Quatre mille exemplaires environ circuleront avant la Révolution — énorme pour l'époque, et lus bien au-delà de leurs acheteurs.</p>
+
+# 1755 ans
+
+<p>Le 1ᵉʳ novembre, jour de la Toussaint, alors que les églises de Lisbonne sont pleines, un séisme d'une magnitude estimée autour de 8,5 détruit la ville en dix minutes. Les cierges renversés allument un incendie qui brûle cinq jours ; les survivants qui se réfugient sur les quais sont emportés par un tsunami de plusieurs mètres. Entre trente et soixante mille morts dans l'une des plus riches capitales d'Europe.</p>
+
+<p>Le désastre devient aussitôt un problème philosophique, et c'est ce qui en fait un événement de ce récit. Une ville catholique, un jour de fête religieuse, dans les églises : si le monde est gouverné par une providence bienveillante, comment expliquer cela ? Voltaire répond par un poème rageur qui refuse toute consolation, puis par <em>Candide</em> et sa démolition du « tout est pour le mieux ». Rousseau lui rétorque que la faute n'est pas au ciel mais aux hommes, qui ont entassé vingt mille maisons de six étages : la catastrophe est naturelle, le désastre est social. C'est, très exactement, l'argument que reprendront deux siècles et demi plus tard tous ceux qui étudient les risques.</p>
+
+<p>La réponse politique est aussi neuve que le débat. Le marquis de Pombal, qui dirige le gouvernement, aurait résumé son programme en six mots : enterrer les morts et nourrir les vivants. Il fait relever la ville sur un plan orthogonal, avec des rues assez larges pour l'évacuation et des bâtiments montés sur une ossature de bois testée en laboratoire — les premières constructions antisismiques de l'histoire moderne. Et il envoie aux paroisses du royaume un questionnaire : à quelle heure la secousse a-t-elle commencé, combien de temps a-t-elle duré, dans quel sens, la mer s'est-elle retirée ? Des centaines de réponses reviennent et sont dépouillées.</p>
+
+<p>C'est la première enquête sismologique de l'histoire. En quelques mois, on est passé du châtiment divin au phénomène naturel qu'on mesure, qu'on cartographie et contre lequel on construit.</p>
 
 # 1756 ans
 
@@ -5431,7 +5589,33 @@ tags: technology
 
 <p style="text-align:center"><img src="/assets/img/mine.webp" alt="" width="400" loading="lazy" decoding="async" height="246" /></p>
 
-<p>Dans le nord de la France, première société charbonnière créée par une association de nobles de la région. Cette société s'appelle: "Compagnie des mines d'Anzin".</p>
+<p>Dans le nord de la France, des nobles de la région s'associent pour fonder la première grande société charbonnière du royaume : la Compagnie des mines d'Anzin. Elle emploiera bientôt des milliers d'ouvriers et restera, un siècle plus tard, le décor où Zola situera <em>Germinal</em>.</p>
+
+<p>La même année, à six mille kilomètres de là, une compagnie commerciale se transforme en puissance territoriale. Le 23 juin, à Plassey, au Bengale, Robert Clive aligne trois mille hommes contre les cinquante mille du nabab. Il ne gagne pas la bataille : il l'a achetée. Le commandant en chef adverse, Mir Jafar, a été soudoyé et reste immobile avec l'essentiel des troupes ; l'artillerie bengalie, dont on n'a pas couvert la poudre, est noyée par une averse de mousson. Quelques centaines de morts, et le Bengale change de maître.</p>
+
+<p>Ce que la Compagnie anglaise des Indes orientales obtient là dépasse tout ce qu'une entreprise privée avait jamais possédé : le droit de lever l'impôt sur une province de vingt à trente millions d'habitants, la plus riche de l'Inde. Elle cesse d'acheter les textiles bengalis avec de l'argent européen — elle les paie désormais avec les impôts prélevés sur ceux-là mêmes qui les tissent.</p>
+
+<p>La suite est aussi prévisible qu'atroce. Une administration dont l'unique mission est le rendement, une fiscalité maintenue pendant une sécheresse, et le Bengale perd en 1770 peut-être un tiers de sa population dans une famine. La Compagnie, elle, verse ses dividendes.</p>
+
+# 1762 ans
+
+<p>Jean-Jacques Rousseau publie la même année deux livres qui seront tous deux condamnés et brûlés, à Paris comme à Genève, et dont l'un fournira son vocabulaire à la Révolution française.</p>
+
+<p><em>Du contrat social</em> s'ouvre sur une phrase que tout le monde connaîtra : l'homme est né libre, et partout il est dans les fers. Rousseau y démonte l'idée que le pouvoir puisse venir de Dieu, de la naissance ou de la conquête. Un peuple ne se donne pas un maître, il se donne des lois : la souveraineté appartient à la volonté générale, elle est inaliénable, et aucun contrat ne peut légitimement transférer sa liberté à un roi. On retrouvera ces formules presque mot pour mot dans la Déclaration de 1789.</p>
+
+<p><em>Émile</em>, publié quelques semaines plus tôt, fait pour l'éducation ce que l'autre fait pour la politique : on n'y dresse pas un enfant à devenir un adulte, on le laisse apprendre par l'expérience et le désir. Le livre est brûlé pour son chapitre sur la religion, mais il change durablement la manière dont l'Europe regarde l'enfance — jusque-là un état imparfait qu'il fallait abréger.</p>
+
+<p>Il faut noter la contradiction, elle est saisissante : l'homme qui écrit le traité d'éducation le plus influent de l'histoire a déposé ses cinq enfants aux Enfants-Trouvés. Il l'avouera lui-même dans ses <em>Confessions</em>, autre invention de sa part — le premier livre où quelqu'un entreprend de se raconter tout entier, y compris ce qui le déshonore.</p>
+
+# 1764 ans
+
+<p>Dans le Lancashire, un tisserand nommé James Hargreaves construit une machine qui fait tourner huit fuseaux à la fois au lieu d'un : la <em>spinning jenny</em>. En quelques années, on en fera tourner quatre-vingts.</p>
+
+<p>Le goulot qu'il vient de faire sauter est ancien. Il faut environ cinq fileuses pour alimenter un seul tisserand ; le fil manque, il coûte cher, et toute l'Europe file à la main depuis le néolithique. La jenny, puis la <em>water frame</em> mue par une roue hydraulique, puis la <em>mule</em> qui combine les deux, effondrent le prix du fil de coton en une génération.</p>
+
+<p>Les conséquences se déplient dans trois directions et il faut les tenir ensemble. La production se rassemble là où se trouve la force motrice : c'est la naissance de l'usine, et d'un travail réglé par une horloge plutôt que par le jour. Le coton brut vient d'Amérique, et cette demande nouvelle relance l'esclavage des plantations du Sud au moment même où l'on croyait le voir décliner. Enfin, les cotonnades anglaises finiront par ruiner l'industrie textile indienne, celle-là même que la Compagnie était venue acheter deux siècles plus tôt.</p>
+
+<p>Hargreaves, lui, verra sa maison saccagée par des fileuses en colère et mourra sans fortune. C'est une constante des débuts industriels : les gains vont à ceux qui possèdent les bâtiments, pas à ceux qui ont eu l'idée.</p>
 
 # 1769 ans
 
@@ -5441,15 +5625,35 @@ tags: technology
 
 # 1770 ans
 
-<p>Des soldats britanniques tirent sur une foule à Boston. On relève 5 morts.</p>
+<p>Le 5 mars, une sentinelle britannique postée devant la douane de Boston est prise à partie par une foule qui lui jette des boules de neige et des morceaux de glace. Le renfort arrive, la bousculade tourne mal, un soldat tire sans en avoir reçu l'ordre, les autres suivent. Cinq morts — dont Crispus Attucks, un docker noir que la mémoire américaine retiendra comme le premier tué de la Révolution.</p>
+
+<p>L'affaire est un fait divers ; elle devient une arme. Paul Revere en grave aussitôt une estampe montrant des soldats alignés qui tirent froidement sur des civils désarmés, sur ordre de leur officier. C'est faux, et l'image fera le tour des colonies. La propagande vient de naître en Amérique, et elle fonctionne.</p>
+
+<p>Détail que l'on retient rarement : les soldats sont jugés, et défendus par John Adams, futur deuxième président des États-Unis, convaincu qu'un procès équitable importe plus que sa propre cause. Six sont acquittés, deux condamnés pour homicide. Adams écrira plus tard que ce fut l'un des actes les plus utiles de sa vie.</p>
+
+# 1773 ans
+
+<p>Le soir du 16 décembre, une cinquantaine d'hommes déguisés en Amérindiens montent à bord de trois navires dans le port de Boston et jettent à la mer trois cent quarante-deux caisses de thé appartenant à la Compagnie des Indes orientales.</p>
+
+<p>Le paradoxe est que le thé était devenu moins cher. Londres, pour sauver une Compagnie au bord de la faillite, venait de lui accorder le monopole de la vente directe dans les colonies : le prix baissait, mais la taxe restait — et l'accepter, c'eût été reconnaître au Parlement le droit de taxer des sujets qui n'y sont pas représentés. « Pas de taxation sans représentation » : la question n'est pas l'argent, elle est de savoir qui consent à l'impôt.</p>
+
+<p>Londres répond par des lois de coercition qui ferment le port et suspendent les libertés du Massachusetts. Les autres colonies, jusque-là indifférentes, se solidarisent et convoquent un congrès. En dix-huit mois, une querelle fiscale est devenue une révolution.</p>
 
 # 1774 ans
 
-<p>Louis XVI monte sur le trône à la mort de son grand-père, Louis XV.</p>
+<p>Louis XVI monte sur le trône à dix-neuf ans, à la mort de son grand-père Louis XV. Il hérite du royaume le plus peuplé d'Europe occidentale et d'un État dont les finances ne se sont jamais redressées depuis la guerre de Sept Ans.</p>
+
+<p>Le règne commence par deux gestes qui disent le problème : il rappelle les parlements que son grand-père avait brisés, et nomme Turgot au contrôle général des finances. Turgot veut libérer le commerce des grains, supprimer les corvées et les jurandes, et faire payer les privilégiés. Il sera renvoyé deux ans plus tard sous la pression de ceux qu'il voulait taxer.</p>
+
+<p>Le schéma se répétera avec chacun de ses ministres jusqu'en 1789 : le diagnostic est juste, la réforme est écrite, et elle échoue toujours au même endroit — le refus des ordres privilégiés de renoncer à leurs exemptions fiscales. Un souverain qui voit le problème et ne peut pas imposer la solution, c'est la définition même d'un régime à bout de course.</p>
 
 # 1775 ans
 
-<p>Thomas Paine rédige un article exigeant l'abolition immédiate de l'esclavage dans les colonies.</p>
+<p>Thomas Paine publie dans un journal de Philadelphie un texte réclamant l'abolition immédiate de l'esclavage dans les colonies. Il vient d'arriver d'Angleterre, il a trente-huit ans, et il n'a jusque-là rien réussi : corsetier, percepteur révoqué, boutiquier en faillite.</p>
+
+<p>L'argument qu'il pose embarrassera la Révolution américaine pendant un siècle : on ne peut pas réclamer sa liberté contre Londres en la refusant à ceux qu'on possède. Les colonies qui s'apprêtent à écrire que tous les hommes naissent égaux comptent alors un demi-million d'esclaves.</p>
+
+<p>L'année suivante, le même homme publiera <em>Le Sens commun</em>, pamphlet de quelques dizaines de pages tiré à des centaines de milliers d'exemplaires, qui fera basculer une opinion coloniale encore largement attachée à la couronne. Peu d'écrits auront à ce point déplacé un débat.</p>
 
 # 1776 ans
 
@@ -5463,7 +5667,11 @@ tags: technology
 
 # 1778 ans
 
-<p>Participation française à la Guerre d'indépendance américaine. Cette guerre accroît fortement l'endettement de l'État français.</p>
+<p>La France signe avec les insurgés américains un traité d'alliance et entre en guerre contre l'Angleterre. La décision est prise après Saratoga, la victoire américaine de l'automne précédent, qui a prouvé à Versailles que ces colons pouvaient l'emporter.</p>
+
+<p>Le calcul est une revanche : quinze ans plus tôt, la guerre de Sept Ans a coûté à la France le Canada et l'Inde. Il s'agit d'amputer l'Angleterre de son empire américain comme elle a amputé le sien. Militairement, l'opération réussit — c'est la flotte française qui, à la Chesapeake, empêchera les secours d'atteindre Yorktown et décidera de l'issue de la guerre.</p>
+
+<p>Financièrement, c'est un désastre. L'intervention est payée par l'emprunt, sans impôt nouveau, parce qu'aucun impôt n'est votable ; la dette enfle, et son service absorbera bientôt près de la moitié des recettes de l'État. Onze ans plus tard, c'est cette faillite qui obligera Louis XVI à convoquer les états généraux. La France aura financé une révolution au-dehors et déclenché la sienne au-dedans.</p>
 
 # 1780 ans
 
@@ -5489,7 +5697,11 @@ tags: technology
 
 # 1786 ans
 
-<p>Le contrôleur général des finances Charles Alexandre de Calonne présente au roi un rapport alarmant sur les finances du royaume et avertit d'un risque de faillite.</p>
+<p>Le contrôleur général des finances Charles Alexandre de Calonne remet au roi un mémoire qu'aucun ministre n'avait osé écrire : l'État est en faillite. Le déficit atteint le quart des recettes, le service de la dette en absorbe près de la moitié, et il n'est plus possible d'emprunter — les guerres du siècle, dont l'intervention en Amérique, ont toutes été financées à crédit sans jamais créer l'impôt correspondant.</p>
+
+<p>Sa solution est radicale et juste : une contribution foncière unique, payée par tous les propriétaires sans exception, nobles et clergé compris, en proportion de leurs revenus. C'est la fin du privilège fiscal.</p>
+
+<p>Sachant que les parlements refuseront, Calonne convainc le roi de convoquer une Assemblée des notables qu'il croit pouvoir manœuvrer. Elle se réunit en 1787, refuse tout, et exige que la nation soit consultée. L'engrenage qui mènera aux états généraux s'enclenche ici : pour taxer les privilégiés il faut une assemblée, et une assemblée ne se contente jamais de voter l'impôt.</p>
 
 # 1788 ans
 
@@ -5519,21 +5731,41 @@ tags: technology
 
 <p>Toussaint Louverture inflige une série de revers aux colons français. Il réussit notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions de Saint-Domingue — l'île ne prendra le nom d'Haïti qu'à son indépendance, en 1804 — et réussit à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.</p>
 
+# 1792 ans
+
+<p>La Révolution bascule en trois mois d'été, et le déclencheur vient de l'extérieur.</p>
+
+<p>La France a déclaré la guerre à l'Autriche au printemps, persuadée d'une promenade militaire. Elle est battue partout ; les Prussiens entrent en Champagne, et leur commandant fait publier un manifeste promettant à Paris une exécution militaire totale si la famille royale subit le moindre outrage. L'effet est exactement inverse de celui recherché : le texte prouve aux Parisiens que leur roi est l'allié de l'envahisseur.</p>
+
+<p>Le 10 août, les faubourgs et les fédérés marseillais prennent les Tuileries. Six cents Suisses de la garde sont massacrés, la royauté est suspendue. Début septembre, à l'annonce de la chute de Verdun et sur la rumeur d'un complot des prisonniers, des groupes armés entrent dans les prisons de Paris et y égorgent en quatre jours entre onze et quatorze cents détenus — prêtres réfractaires, aristocrates, mais aussi voleurs, prostituées et enfants du dépôt de Bicêtre, jugés sur place par des tribunaux improvisés.</p>
+
+<p>Le 20 septembre, à Valmy, l'armée française tient bon sous la canonnade et les Prussiens font demi-tour. Goethe, présent dans leur camp, aurait dit aux officiers ce soir-là qu'un nouvel âge du monde commençait et qu'ils pourraient dire y avoir assisté. Le lendemain, la Convention abolit la royauté et proclame la République.</p>
+
+<p>Il faut tenir les deux faits ensemble, parce que toute la période est là : la même semaine produit les massacres de septembre et la naissance de la République. Une révolution qui se croit assiégée invente très vite des raisons de tuer sans juger — et ce qui a commencé par une Déclaration des droits de l'homme va passer par quatorze mois de Terreur.</p>
+
 # 1793 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=FKnSmFTB4Cg" data-id="FKnSmFTB4Cg" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/FKnSmFTB4Cg/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Une guerre civile en France oppose les forces révolutionnaires françaises aux forces royalistes et catholiques de la région de Vendée, dans l'ouest de la France. Cette guerre est communément appelée la Guerre de Vendée.</p>
+<p>Le 21 janvier, Louis XVI est guillotiné place de la Révolution, condamné par la Convention à une voix de majorité sur l'application de la peine. L'Europe des rois se coalise ; la République décrète la levée de trois cent mille hommes.</p>
+
+<p>C'est cette conscription qui met le feu à l'Ouest. Une guerre civile oppose les forces révolutionnaires aux paysans royalistes et catholiques de Vendée, attachés à leurs prêtres réfractaires et hostiles à un pouvoir lointain qui leur prend leurs fils.</p>
 
 <p>Les vendéens, majoritairement des paysans, s'opposent aux réformes et aux politiques de la Révolution française, qui ont provoqué des troubles économiques, sociaux et religieux dans la région. Les vendéens forment des armées et commencent à attaquer les forces républicaines.</p>
 
 <p>En réponse, les forces républicaines lancent une campagne de répression massive connue sous le nom de "colonnes infernales". Les colonnes infernales sont des groupes de soldats qui parcourent la région en brûlant des villages et des fermes et en massacrant des civils.</p>
 
-<p>Les historiens estiment que le nombre de morts peut atteindre 250 000 personnes.</p>
+<p>Les estimations vont de cent soixante mille à deux cent cinquante mille morts, combattants et civils confondus — la question de savoir s'il faut parler de génocide divise encore les historiens français.</p>
+
+<p>Au même moment, à Paris, le Comité de salut public institue la Terreur comme mode de gouvernement. Le raisonnement de Robespierre est explicite et c'est ce qui le rend glaçant : la vertu sans la terreur est impuissante, la terreur sans la vertu est criminelle, donc la terreur n'est que la justice prompte au service de la vertu. Une loi de juin 1794 supprimera jusqu'au droit de se défendre devant le tribunal révolutionnaire. Environ dix-sept mille condamnations à mort prononcées, des dizaines de milliers de morts en prison — et parmi les guillotinés, Danton, puis Robespierre lui-même.</p>
+
+<p>C'est le paradoxe qui hantera les deux siècles suivants : le premier régime fondé sur les droits de l'homme est aussi le premier à organiser légalement l'élimination de ses opposants au nom du salut public.</p>
 
 # 1794 ans
 
-<p>La Convention abolit l'esclavage dans les colonies françaises — l'une des toutes premières abolitions générales décidées par un État. Elle ne s'applique pas à la Martinique, passée sous domination britannique. Napoléon rétablira l'esclavage huit ans plus tard.</p>
+<p>Le 27 juillet, Robespierre est mis en accusation, arrêté et guillotiné le lendemain sans jugement, avec une vingtaine de ses proches. Thermidor met fin à la Terreur ; la Révolution entre dans sa phase de reflux, qui se terminera cinq ans plus tard par un général.</p>
+
+<p>Quelques mois plus tôt, la Convention avait aboli l'esclavage dans les colonies françaises — l'une des toutes premières abolitions générales décidées par un État. Elle entérinait d'ailleurs un fait accompli : à Saint-Domingue, les esclaves révoltés depuis 1791 avaient déjà arraché leur liberté sur le terrain, et le commissaire de la République l'avait proclamée localement pour ne pas perdre l'île. Elle ne s'applique pas à la Martinique, passée sous domination britannique. Napoléon rétablira l'esclavage huit ans plus tard.</p>
 
 # 1796 ans
 
@@ -5543,7 +5775,7 @@ tags: technology
 
 <p>Le premier vaccin contre la variole est inventé par Edward Jenner. Le vaccin de Jenner est basé sur l'observation que les personnes ayant été exposées à la variole bovine (une maladie similaire à la variole humaine mais moins grave) sont moins susceptibles de développer la variole humaine. Le vaccin de Jenner est le premier vaccin de l'histoire et joue un rôle crucial dans la lutte contre la variole et la réduction de sa mortalité.</p>
 
-<p>Pour créer le vaccin, Jenner inocule du materiel infectieux prélevé sur des vaches atteintes de variole bovine à des personnes saines. Le vaccin de Jenner est donc basé sur l'exposition à un virus affaibli ou inoffensif qui, une fois introduit dans l'organisme, stimule la production d'anticorps et offre une protection contre la variole.</p>
+<p>Pour créer le vaccin, Jenner inocule du materiel infectieux prélevé sur des vaches atteintes de variole bovine à des personnes saines. Le principe n'est pas celui d'un virus atténué mais d'un virus <em>différent</em> et bénin chez l'humain : la vaccine est assez proche de la variole pour que les défenses acquises contre l'une protègent contre l'autre. Introduite dans l'organisme, elle stimule la production d'anticorps et offre une protection contre la variole.</p>
 
 <p>Depuis, de nombreux autres vaccins sont développés pour lutter contre d'autres maladies infectieuses, utilisant des techniques similaires basées sur l'exposition à des virus affaiblis ou inoffensifs pour stimuler la production d'anticorps et offrir une protection contre ces maladies.</p>
 
@@ -5551,9 +5783,21 @@ tags: technology
 
 <p>Le gouvernement britannique commence à élaborer des plans pour évaluer et renforcer les capacités de défense nationales. L'idée d'utiliser des questionnaires de masse pour évaluer la volonté des hommes à combattre en cas d'invasion est envisagée. Les questionnaires sont distribués à travers la Grande-Bretagne. Tous les hommes éligibles sont interrogés sur leur volonté et leur capacité à prendre les armes contre une potentielle invasion française.</p>
 
+# 1799 ans
+
+<p>Le 9 novembre — 18 brumaire an VIII —, un général de trente ans rentré d'Égypte sans son armée renverse le Directoire avec la complicité de deux directeurs et de son frère, président du Conseil des Cinq-Cents. Le coup est mal mené : Bonaparte bafouille devant les députés, se fait bousculer, et c'est son frère qui sauve l'opération en lançant les grenadiers dans la salle.</p>
+
+<p>Peu importe. Dix ans après la prise de la Bastille, la République se donne un maître, et le fait sans résistance notable — le pays est épuisé, il veut de l'ordre, et le nouveau régime promet de terminer la Révolution en gardant ses acquis. Cinq ans plus tard, Bonaparte se fera couronner empereur.</p>
+
+<p>L'année précédente, en Égypte, des soldats de son expédition avaient dégagé près de Rosette un bloc de granodiorite couvert de trois écritures. Un décret administratif sans intérêt — mais gravé en hiéroglyphes, en démotique et en grec. Champollion s'en servira pour rendre sa voix à trois millénaires d'Égypte, et cette pierre est déjà passée dans ce récit, quinze siècles plus tôt, le jour où le dernier prêtre de Philae grava les derniers hiéroglyphes de l'histoire.</p>
+
 # 1800 ans
 
-<p>Il y a 1 000 000 000 d'homo sapiens sur Terre.</p>
+<p>La population humaine atteint le milliard d'individus. Il aura fallu à l'espèce deux cent mille ans pour y parvenir ; il lui faudra environ cent vingt ans pour le deuxième milliard, trente-trois pour le troisième, quatorze pour le quatrième.</p>
+
+<p>Ce qui bascule à ce moment n'est pas la fécondité mais la mortalité. Pendant toute son histoire, l'humanité a fait beaucoup d'enfants dont une bonne moitié mourait avant l'âge adulte, et la population montait puis redescendait au rythme des famines et des épidémies. La pomme de terre et le maïs venus d'Amérique, de meilleurs rendements agricoles, la vaccination naissante et l'assainissement des villes brisent ce plafond. Les gens ne naissent pas plus nombreux : ils cessent de mourir aussi vite.</p>
+
+<p>Presque tout ce qui suit dans cette chronologie — l'exode rural, l'industrie, les empires coloniaux, la pression sur les ressources — découle de cette courbe qui vient de se redresser.</p>
 
 # 1802 ans
 
@@ -5565,7 +5809,7 @@ tags: technology
 
 <p>Fulton lance le "Clermont", le premier bateau à vapeur commercial réussi. Le "Clermont" navigue le long de la rivière Hudson, reliant New York à Albany.</p>
 
-<p>Le fonctionnement d'un bateau à vapeur repose sur l'utilisation de la vapeur d'eau pour actionner une turbine ou un piston, qui à son tour fait tourner une hélice ou des roues à aubes, propulsant ainsi le bateau à travers l'eau.</p>
+<p>Le fonctionnement d'un bateau à vapeur repose sur l'utilisation de la vapeur d'eau pour pousser un piston dans un cylindre ; une bielle transforme ce va-et-vient en rotation, qui entraîne les roues à aubes (l'hélice et la turbine viendront plus tard), propulsant ainsi le bateau à travers l'eau.</p>
 
 <p>Le Royaume-Uni interdit la traite négrière transatlantique.</p>
 
@@ -5578,6 +5822,11 @@ tags: technology
 <p>Début de la guerre d'indépendance hispano-américaine. Cette guerre est un conflit qui oppose les colonies espagnoles d'Amérique du Sud et d'Amérique centrale aux forces espagnoles, et qui aboutit à l'indépendance de ces colonies.</p>
 
 <p>Francisco de Goya, en protestant contre la guerre d'indépendance espagnole, fustige la barbarie produite par tous conflits. Une de ses œuvres les plus célèbres qui dénonce la guerre est la série de gravures intitulée "Les Désastres de la Guerre", qui représente les horreurs de la guerre d'Indépendance espagnole et les souffrances infligées aux civils. Dans ces gravures, Goya utilise un style expressif et dramatique pour montrer les effets dévastateurs de la guerre sur les individus et sur la société.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/goya.webp' | relative_url }}" alt="Tres de Mayo de Goya" width="600" loading="lazy" decoding="async" height="400" />
+  <br /><small><em><em>Le Trois Mai 1808</em> de Goya : l'exécution des insurgés madrilènes. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 # 1815 ans
 
@@ -5601,7 +5850,11 @@ tags: technology
 
 # 1822 ans
 
-<p>Les insurgés proclament officiellement l'indépendance de la Grèce.</p>
+<p>Réunis à Épidaure, les insurgés grecs proclament l'indépendance et se donnent une constitution. Ils ne contrôlent qu'une partie du Péloponnèse et des îles, et la guerre durera encore sept ans.</p>
+
+<p>La même année, la répression ottomane s'abat sur Chios : l'île, prospère et jusque-là épargnée, est ravagée, sa population massacrée ou vendue en esclavage — plusieurs dizaines de milliers de victimes. L'événement produit un effet que le sultan n'avait pas prévu. Delacroix en tire un tableau, Hugo et Byron des poèmes, et l'opinion européenne se passionne pour une cause qu'elle relit à travers l'Antiquité : on ne défend pas des paysans balkaniques, on défend Périclès.</p>
+
+<p>Ce philhellénisme est le premier grand mouvement d'opinion internationale de l'histoire, et il finira par forcer la main aux gouvernements — c'est lui qui amènera, cinq ans plus tard, les flottes française, anglaise et russe à détruire la flotte ottomane à Navarin.</p>
 
 # 1825 ans
 
@@ -5611,7 +5864,13 @@ tags: technology
 
 # 1826 ans
 
-<p>La plus ancienne photographie de l'histoire. Cette image, connue sous le nom de "View from the Window at Le Gras", est prise depuis la fenêtre d'une maison de campagne près de Chalon-sur-Saône, en France.</p>
+<p>Dans une maison de campagne près de Chalon-sur-Saône, Nicéphore Niépce cale devant sa fenêtre une plaque d'étain enduite de bitume de Judée. Le bitume durcit là où la lumière le frappe ; on lave le reste au solvant, et l'image demeure. Il aura fallu poser des heures — assez longtemps pour que le soleil se déplace et vienne éclairer les deux côtés de la cour à la fois.</p>
+
+<p>Le résultat est une plaque grise et brouillée où l'on distingue à peine un pigeonnier, un toit, un arbre. C'est la plus ancienne photographie conservée, et c'est la première fois qu'une image se fait toute seule.</p>
+
+<p>Il faut mesurer la rupture. Depuis Lascaux, toute image du monde passait par la main d'un humain qui regarde, interprète et choisit. Ici, personne n'a dessiné : la lumière a laissé sa trace. On vient d'inventer un témoin réputé sans opinion — d'où l'autorité écrasante que la photographie va prendre, et d'où viendront aussi tous les malentendus, car une photographie choisit son cadre, et un cadre est déjà un point de vue.</p>
+
+<p>Niépce mourra sans voir ce que son procédé deviendrait. Son associé Daguerre ramènera la pose à quelques minutes, et en dix ans l'Europe entière se fera tirer le portrait.</p>
 
 <p style="text-align:center"><img src="/assets/img/viewfromwindow.webp" alt="" width="400" loading="lazy" decoding="async" height="278" /></p>
 
@@ -5643,19 +5902,25 @@ tags: technology
 
 # 1835 ans
 
-<p>Les premiers monte-charges à vapeur équipent les mines et les usines britanniques. L'hydraulique, que William Armstrong développera à partir des années 1840, prendra bientôt le relais.</p>
+<p>Les premiers monte-charges à vapeur équipent les mines et les usines britanniques. Le principe est rudimentaire — un tambour, un câble, une machine — mais il lève une contrainte qui limitait les bâtiments depuis toujours : au-delà de cinq ou six étages, personne ne monte, et rien de lourd ne monte non plus.</p>
+
+<p>Ces appareils ne transportent d'abord que des marchandises, pour une raison simple : si le câble casse, la cabine tombe. C'est ce verrou-là, et non la puissance, qui interdit d'y mettre des passagers. Il faudra attendre le frein de sécurité d'Otis, en 1852, pour que l'ascenseur devienne un transport humain.</p>
+
+<p>L'hydraulique, que William Armstrong développera à partir des années 1840, prendra bientôt le relais de la vapeur. Et de ces machines à monter sortira, un demi-siècle plus tard, une conséquence architecturale que personne n'avait prévue : le gratte-ciel. Sans ascenseur, les étages élevés sont les moins chers ; avec lui, ils deviennent les plus chers.</p>
 
 # 1837 ans
 
-<p>Samuel Morse invente le télégraphe électrique, un appareil qui permet de transmettre des messages codés à l'aide d'impulsions électriques le long d'un fil.</p>
+<p>Samuel Morse fait passer un courant dans un fil et le transforme en une suite de points et de traits. L'idée n'est pas d'envoyer une lettre : c'est d'envoyer instantanément ce qu'une lettre aurait mis des jours à porter.</p>
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7e522NK7gcM" data-id="7e522NK7gcM" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/7e522NK7gcM/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Le télégraphe de Samuel Morse fonctionne de la manière suivante:</p>
+<p>Son génie tient au code plus qu'à la machine. Morse et son associé Alfred Vail comptent les caractères dans la casse d'un imprimeur pour savoir lesquels reviennent le plus souvent, et attribuent aux plus fréquents les signaux les plus courts : un point pour le E, un trait pour le T. C'est exactement le principe qu'on redécouvrira un siècle plus tard en théorie de l'information, et qui gouverne aujourd'hui la compression de tout ce qui circule sur Internet.</p>
 
-1 on utilise un appareil appelé émetteur, qui consiste en un clavier sur lequel on appuie sur des touches pour envoyer les signaux électriques<br/>
-2 Chaque touche correspond à un caractère ou à un symbole, qui est codé à l'aide de combinaisons de points et de traits<br/>
-3 Les signaux électriques sont envoyés le long d'un fil jusqu'à l'appareil récepteur, qui se trouve à l'autre bout du fil. L'appareil récepteur est relié à un autre clavier, appelé décodeur, qui permet de décoder les signaux et de les afficher sous forme de texte.
+<p>À l'arrivée, un électroaimant actionne un stylet qui imprime les points et les traits sur une bande de papier qui défile ; c'est l'opérateur, et non la machine, qui retranscrit ensuite en clair. Les télégraphistes expérimentés finiront par se passer de la bande et décoder à l'oreille, au son du récepteur.</p>
+
+<p>Ce que le télégraphe rompt, c'est le lien entre l'information et le transport. Depuis toujours, une nouvelle allait à la vitesse d'un cheval, d'un navire ou d'un coureur ; désormais elle va à celle de l'électricité. Les cours de la Bourse, les ordres militaires, les dépêches d'agence cessent d'arriver en retard sur les événements qu'ils décrivent. Quand le câble transatlantique fonctionnera enfin, une question posée à Londres recevra sa réponse de New York dans la journée, là où il fallait trois semaines.</p>
+
+<p>Le premier message officiel envoyé sur la ligne Washington-Baltimore sera une citation biblique : « Qu'est-ce que Dieu a forgé ? » On n'était pas loin de la bonne question.</p>
 
 # 1839 ans
 
@@ -5685,7 +5950,11 @@ tags: technology
 
 # 1842 ans
 
-<p>Le trafic d'opium reprend en Chine, contournant tous les interdits.</p>
+<p>Le traité de Nankin, signé en août, met fin à la première guerre de l'opium. Il n'interdit pas l'opium : il n'en parle même pas. La Chine cède Hong Kong, ouvre cinq ports, verse une indemnité qui couvre notamment la valeur de la drogue détruite en 1839 — et le trafic reprend aussitôt, plus important qu'avant, désormais couvert par des consuls et des canonnières.</p>
+
+<p>Le mécanisme mérite d'être regardé en face. La Grande-Bretagne achetait massivement du thé chinois et n'avait presque rien à vendre en échange ; son argent partait vers la Chine. L'opium cultivé au Bengale a renversé le flux : la Chine s'est mise à payer sa propre drogue en métal précieux. Une guerre a été livrée pour maintenir ce circuit.</p>
+
+<p>Les importations continueront de croître pendant des décennies, et la question ne sera pas réglée : elle produira une seconde guerre quatorze ans plus tard.</p>
 
 # 1844 ans
 
@@ -5695,7 +5964,11 @@ tags: technology
 
 # 1845 ans
 
-<p>Les américains ont cette mission de s'étendre vers l'Ouest afin d'y implanter ses institutions, ses industries et sa culture.</p>
+<p>Un journaliste new-yorkais, John O'Sullivan, écrit que les États-Unis ont pour « destinée manifeste » de se répandre sur le continent que la Providence leur a assigné. La formule est trouvée ; elle nommera pendant un siècle la conviction que l'expansion vers l'ouest n'est pas une conquête mais un accomplissement.</p>
+
+<p>L'année lui donne raison dans les faits : le Texas, république indépendante depuis neuf ans, est annexé en décembre. La guerre avec le Mexique suivra dans les mois qui viennent, et elle vaudra aux États-Unis la Californie, le Nouveau-Mexique et l'Arizona — plus de la moitié du territoire mexicain.</p>
+
+<p>Ce que la formule masque, c'est ce qui occupe déjà ces terres. Le continent n'est pas vide : il est habité par des nations que les traités successifs repoussent, cantonnent, puis dépossèdent. « Destinée manifeste » est le nom qu'on donne à cette dépossession pour qu'elle ait l'air d'un devoir.</p>
 
 <p>Une maladie venue d'Amérique — un microorganisme, <em>Phytophthora infestans</em> — débarque dans les ports européens et attaque les pommes de terre. Les tubercules noircissent et pourrissent en terre en quelques jours. En Irlande, où trois millions de personnes ne mangent presque que cela, c'est la catastrophe.</p>
 
@@ -5707,7 +5980,11 @@ tags: technology
 
 # 1847 ans
 
-<p>James Young Simpson introduit le chloroforme en médecine pour réduire la douleur pendant les opérations chirurgicales.</p>
+<p>À Édimbourg, l'obstétricien James Young Simpson cherche mieux que l'éther, dont l'odeur écœure et qui irrite les poumons. Il teste les produits sur lui-même et ses assistants, après dîner : un soir de novembre, ils inhalent du chloroforme et s'effondrent tous sous la table. Il l'emploie sur une patiente quelques jours plus tard.</p>
+
+<p>L'anesthésie change la nature même de la chirurgie. Jusque-là, l'opération était une course de vitesse : on amputait en moins d'une minute parce qu'un patient conscient, sanglé et hurlant ne pouvait pas supporter davantage — et cette hâte interdisait toute intervention délicate. Un patient endormi laisse au chirurgien le temps de bien faire.</p>
+
+<p>La résistance viendra des théologiens, pour qui la douleur de l'accouchement est prescrite par la Genèse. Simpson leur répond que Dieu avait endormi Adam avant de lui retirer une côte. L'affaire se tranchera en 1853, quand la reine Victoria acceptera le chloroforme pour la naissance de son huitième enfant : ce qui est bon pour la souveraine devient acceptable pour tout le monde.</p>
 
 # 1848 ans
 
@@ -5719,11 +5996,25 @@ tags: technology
 
 <p>L'esclavage est définitivement aboli en France.</p>
 
+<p>L'Europe s'embrase. En février, Paris chasse son roi ; en quelques semaines l'insurrection gagne Vienne, Berlin, Milan, Venise, Budapest, Prague. Une cinquantaine d'États sont touchés. Partout les mêmes mots reviennent : une constitution, un parlement, la liberté de la presse — et, chez les peuples sans État, le droit d'en avoir un.</p>
+
+<p>Presque partout, cela échoue en un an. Les armées reviennent, les rois rentrent, les meneurs prennent le chemin de l'exil ou de la prison. On a appelé 1848 le printemps des peuples ; le mot dit assez ce qu'il en resta sur le moment.</p>
+
+<p>Ce qui reste, c'est ce qui a été dit. Le suffrage universel masculin est instauré en France et n'en repartira plus vraiment ; le servage est aboli en Autriche et en Hongrie ; et les nationalismes allemand, italien et hongrois viennent de trouver leur programme — ils mettront vingt ans à l'exécuter.</p>
+
+<p>Au même moment paraît à Londres, en allemand, une brochure d'une vingtaine de pages commandée à deux exilés par une petite association d'ouvriers. Elle s'ouvre sur un spectre qui hante l'Europe et s'achève sur un appel aux prolétaires de tous les pays. Sur le moment, le <em>Manifeste du parti communiste</em> ne se vend presque pas et n'a aucun effet sur les révolutions en cours. Il propose pourtant quelque chose de neuf : relire toute l'histoire — celle que raconte cette chronologie — comme la succession des luttes entre ceux qui possèdent et ceux qui travaillent. L'idée aura, au siècle suivant, plus de conséquences que toutes les barricades de cette année-là.</p>
+
 # 1852 ans
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UtkAJscxbZU" data-id="UtkAJscxbZU" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/UtkAJscxbZU/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
-<p>Elisha Otis invente un système de sécurité pour les ascenseurs à câble, empêchant la cabine de tomber si le câble principal se casse.</p>
+<p>Elisha Otis n'invente pas l'ascenseur — on hisse des charges depuis l'Antiquité. Il invente ce qui manquait : un cliquet qui bloque la cabine contre ses rails si le câble casse. Deux ans plus tard, à l'exposition de New York, il se fait monter sur une plateforme au-dessus de la foule et ordonne qu'on tranche la corde à la hache. La cabine descend de quelques centimètres et s'immobilise. « Tout est sûr, messieurs », dit-il.</p>
+
+<p>C'est un problème de confiance avant d'être un problème de mécanique, et c'est pourquoi la démonstration compte plus que le brevet. Tant que personne n'accepte de monter, la ville reste plate.</p>
+
+<p>La conséquence est une révolution urbaine qu'on oublie de porter à son crédit. Jusque-là, un immeuble ne dépasse guère six étages, parce qu'au-delà personne ne veut monter à pied : les étages nobles sont les étages bas, et les pauvres logent sous les toits. L'ascenseur retourne la hiérarchie verticale et lève la limite. Combiné à la charpente d'acier, il rend le gratte-ciel possible.</p>
+
+<p>Les villes cessent alors de s'étendre seulement en surface. Chicago et New York vont se mettre à pousser vers le haut.</p>
 
 <p>Un décret ordonne que les maisons se connectent aux égouts existants.</p>
 
@@ -5741,6 +6032,11 @@ tags: technology
 <p>Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir deux ports aux américains : Shimoda et Hakodate.</p>
 
 <p>Épidémie de choléra à Londres : c'est la concentration urbaine qui pose problème. Un médecin du quartier de Soho, John Snow, relève l'adresse de chaque victime sur un plan et voit les décès se resserrer autour d'une seule pompe, rue Broad. Il fait démonter son bras, l'épidémie reflue — et il établit ainsi que le choléra se propage par l'eau, et non par l'air et la puanteur comme on le croyait. Il faudra encore trente ans pour qu'on identifie le microbe en cause, mais la conclusion pratique est déjà là : l'eau ne doit plus seulement être acheminée, elle doit être traitée. On en veut partout, en quantité, et propre.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/cartesnow.webp' | relative_url }}" alt="Carte du choléra de John Snow, Soho 1854" width="600" loading="lazy" decoding="async" height="563" />
+  <br /><small><em>La carte de John Snow : chaque barre noire est un mort, et l'amas désigne une pompe précise de Broad Street. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 # 1856 ans
 
@@ -5770,7 +6066,11 @@ tags: technology
 
 # 1860 ans
 
-<p>Les premières bicyclettes, appelées vélocipèdes, commencent à être populaires en Europe et aux États-Unis.</p>
+<p>Les premiers vélocipèdes à pédales sortent des ateliers parisiens : une machine en fer forgé, les pédales fixées directement sur la roue avant, sans transmission ni roue libre — si dure sur les pavés qu'on la surnommera la « machine à secouer les os ».</p>
+
+<p>L'objet est d'abord un jouet de gens fortunés et une attraction de manège. Mais il pose une question technique qui occupera les ingénieurs pendant trente ans : comment aller plus vite sans pédaler plus vite ? La première réponse sera d'agrandir démesurément la roue avant — c'est le grand-bi, spectaculaire et casse-cou. La seconde, la bonne, sera la transmission par chaîne, qui permettra de revenir à deux roues égales et basses.</p>
+
+<p>Alors seulement, une fois le pneumatique ajouté, la bicyclette deviendra ce qu'aucun véhicule n'avait jamais été : un transport individuel, silencieux, sans carburant ni animal, assez bon marché pour un ouvrier. Elle élargira littéralement le rayon de vie de millions de gens — et sera le premier moyen de locomotion dont les femmes s'empareront seules.</p>
 
 # 1861 ans
 
@@ -5782,9 +6082,22 @@ tags: technology
 
 <p>Le chemin de fer va permettre un développement rapide de la population dans les territoires de l'ouest des Etats-Unis. Il joue un rôle important dans l'évolution économique et sociale de l'Ouest des États-Unis et contribue à l'unification du pays.</p>
 
+<p>Au même moment, à l'autre bout du continent, un empereur libère vingt-trois millions de personnes d'un trait de plume. Alexandre II abolit le servage : les paysans russes cessent d'être attachés à la terre d'un maître, cédés avec elle et punissables par lui.</p>
+
+<p>Le tsar n'y vient pas par philanthropie. La guerre de Crimée a montré qu'une armée de serfs ne tient pas devant des armées de citoyens, et il a expliqué à sa noblesse qu'il valait mieux abolir le servage par en haut avant qu'il ne le soit par en bas. C'est l'aveu le plus lucide qu'un autocrate ait fait sur sa propre position.</p>
+
+<p>L'affranchissement est à moitié une escroquerie. Les paysans reçoivent la liberté, mais doivent racheter leur terre à leur ancien maître, sur quarante-neuf ans, à un prix supérieur à sa valeur. Ils sortent du servage endettés, et cette dette pèsera jusqu'à la révolution.</p>
+
+<p>Le rapprochement mérite d'être fait : la même année, aux deux extrémités du monde, deux empires s'attaquent au travail forcé — l'un par un décret signé en une matinée, l'autre par quatre ans de guerre et six cent mille morts.</p>
+
 # 1863 ans
 
 <p>La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage. Par exemple, il prend une série de photographies intitulée "The Dead of Antietam", qui montre les soldats morts sur le champ de bataille de la bataille de Antietam.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/gardner.webp' | relative_url }}" alt="« A Harvest of Death », Gettysburg, 1863" width="600" loading="lazy" decoding="async" height="488" />
+  <br /><small><em>« A Harvest of Death », Gettysburg : négatif de Timothy O'Sullivan, tirage d'Alexander Gardner. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Abraham Lincoln proclame l'émancipation des esclaves des États en rébellion — l'abolition proprement dite ne viendra qu'avec le Treizième Amendement, deux ans plus tard. Lincoln prend cette décision pour plusieurs raisons. Tout d'abord, il considère l'esclavage comme une injustice et un obstacle à la réalisation des idéaux de liberté et d'égalité auxquels il croit. Il déclare que tous les esclaves du Sud sont libres et ordonne aux forces militaires de l'Union de respecter cette décision. Cette proclamation a un impact immédiat sur les esclaves du Sud, qui commencent à fuir les plantations pour se joindre aux forces de l'Union.</p>
 
@@ -5806,7 +6119,11 @@ tags: technology
 
 # 1866 ans
 
-<p>Construction d'un chemin de fer transcontinental aux États-Unis.</p>
+<p>Les travaux du premier chemin de fer transcontinental américain battent leur plein. Deux compagnies avancent l'une vers l'autre : l'Union Pacific part d'Omaha vers l'ouest à travers les Grandes Plaines ; la Central Pacific part de Sacramento vers l'est et doit franchir la Sierra Nevada, en perçant des tunnels dans le granit à la main et à la poudre noire, sous des hivers qui ensevelissent les chantiers.</p>
+
+<p>La main-d'œuvre dit tout de l'époque : des milliers d'ouvriers chinois sur le versant ouest, des vétérans de la guerre de Sécession et des immigrants irlandais sur le versant est. Les compagnies sont payées au mille construit, ce qui produit des tracés inutilement sinueux et l'un des plus grands scandales de corruption du siècle.</p>
+
+<p>La jonction se fera en 1869 dans l'Utah. Ce qui prenait six mois en convoi de chariots prendra une semaine. La ligne ouvre les Plaines à la colonisation, permet l'expédition industrielle des peaux de bison vers l'est, et scelle du même coup le sort des nations qui vivaient de ces troupeaux. Elle ne traverse pas seulement un continent : elle le referme.</p>
 
 # 1868 ans
 
@@ -5814,13 +6131,23 @@ tags: technology
 
 <p>C’est la fin de la période Edo et le début de la période Meiji.</p>
 
+# 1869 ans
+
+<p>Le 17 novembre, un cortège de navires pavoisés franchit un couloir d'eau de cent soixante kilomètres creusé en plein désert : le canal de Suez est ouvert. La Méditerranée touche la mer Rouge, et le trajet de l'Europe vers l'Inde raccourcit de plusieurs milliers de kilomètres — on n'a plus à contourner l'Afrique.</p>
+
+<p>Le chantier a duré dix ans et coûté des dizaines de milliers de vies égyptiennes, une bonne part en corvée forcée, à la pioche et au panier avant que les machines n'arrivent. L'Égypte s'y ruine, s'endette auprès des banques européennes, doit brader ses parts aux Britanniques — et se retrouve occupée par eux treize ans plus tard. Le canal creusé pour affirmer son indépendance aura servi à la lui faire perdre.</p>
+
+<p>La même année, à Saint-Pétersbourg, un chimiste range les soixante-trois éléments connus par masse croissante et s'aperçoit que leurs propriétés reviennent à intervalles réguliers, comme les jours d'une semaine. Dmitri Mendeleïev en fait un tableau — et ose ce que personne n'ose : il y laisse des cases vides, en affirmant qu'on découvrira les éléments manquants, et en prédisant leur masse et leur comportement.</p>
+
+<p>On les découvrira dans les quinze ans, à peu près comme annoncé. C'est la démonstration la plus spectaculaire qu'une bonne classification ne se contente pas de ranger ce qu'on sait : elle indique où chercher ce qu'on ignore. Le tableau ne livrera son sens complet qu'un demi-siècle plus tard, quand on comprendra que ce qui gouverne l'ordre n'est pas la masse mais le nombre de protons — celui-là même que les étoiles fabriquent.</p>
+
 # 1870 ans
 
 <p>Les premières lignes télégraphiques sont construites au Japon. Il y a aussi les premiers chemins de fer. Le mode de vie occidental devient la norme. Le port du sabre, lui, ne sera interdit qu'en 1876, par l'édit Haitōrei.</p>
 
 <p>Début de la sidérurgie aux Etats-Unis. La sidérurgie est l'industrie qui produit de l'acier à partir de matières premières telles que le minerai de fer et le charbon. L'acier est un alliage métallique composé principalement de fer et de carbone, et il est utilisé dans de nombreuses applications industrielles, y compris la construction de bâtiments, de ponts, de chemins de fer et d'autres infrastructures.</p>
 
-<p>La sidérurgie utilise des fours pour produire de l'acier à partir du minerai de fer. Le minerai de fer est extrait des mines et transporté aux aciéries pour être transformé en acier puis il est chauffé avec du coke, qui est un combustible obtenu à partir de charbon de bois, pour produire du fer fondu. Le fer fondu est alors versé dans des moules pour produire des lingots d'acier.</p>
+<p>La sidérurgie utilise des fours pour produire de l'acier à partir du minerai de fer. Le minerai de fer est extrait des mines et transporté aux aciéries pour être transformé en acier puis il est chauffé avec du coke, un combustible obtenu en chauffant de la houille à l'abri de l'air, pour produire du fer fondu. Le fer fondu est alors versé dans des moules pour produire des lingots d'acier.</p>
 
 <p>Une fois que l'acier est produit, il peut être utilisé pour fabriquer divers produits tels que des barres, des tubes et des tôles.</p>
 
@@ -5829,6 +6156,14 @@ tags: technology
 # 1871 ans
 
 <p>Défaite significative de la France, marquée par la capture de Napoléon III et la chute de son empire. La défaite de la France dans cette guerre conduit à la proclamation de l'Empire allemand en janvier 1871 dans la Galerie des Glaces du château de Versailles, un acte symbolique marquant l'unification de l'Allemagne sous la Prusse. La France perd l'Alsace-Lorraine.</p>
+
+<p>Paris, assiégé quatre mois et affamé au point d'y manger les animaux du Jardin des Plantes, refuse la capitulation que son gouvernement vient de signer. Quand celui-ci envoie l'armée récupérer les canons de la garde nationale sur la butte Montmartre, la foule s'interpose, les soldats refusent de tirer, et le pouvoir s'enfuit à Versailles. Paris se retrouve livré à lui-même.</p>
+
+<p>La Commune gouverne soixante-douze jours. Elle sépare l'Église de l'État, rend l'école gratuite et l'ouvre aux filles, remet les loyers arriérés et les objets déposés au mont-de-piété, abolit le travail de nuit des boulangers, confie aux ouvriers les ateliers abandonnés par leurs patrons, et rend toutes les fonctions électives révocables à tout moment et payées au salaire d'un ouvrier. Des femmes y prennent la parole et les armes, ce que la République ne leur reconnaîtra pas avant longtemps.</p>
+
+<p>La reprise est un massacre. Pendant la Semaine sanglante, en mai, l'armée fusille dans les rues et contre les murs : de dix à vingt mille morts selon les estimations, le chiffre exact étant introuvable parce qu'on a enterré à la hâte et dans des fosses. Des milliers de survivants sont déportés en Nouvelle-Calédonie.</p>
+
+<p>L'épisode laissera deux héritages opposés et durables. Pour une partie de la gauche européenne, ce fut le premier gouvernement ouvrier de l'histoire ; pour les gouvernements, la preuve qu'une capitale peut basculer en une matinée. Marx en fera aussitôt le modèle de ce qu'il attendait ; Lénine, quarante-six ans plus tard, s'en servira comme d'un manuel — en concluant surtout qu'il ne fallait pas se montrer aussi doux.</p>
 
 # 1873 ans
 
@@ -5849,6 +6184,16 @@ tags: technology
 <p>Les révoltes des anciens fiefs guerriers (qui veulent envahir la corée) du Japon sont matées par cette nouvelle armée impériale, bien entraînée et bien équipée. Cette défaite sonne la fin de l'ère des samourais.</p>
 
 <p>Envahissement des Black Hills territoire des amérindiens. Les Black Hills sont considérées comme un territoire sacré par les Amérindiens de la région, en particulier les Lakotas et les Cheyennes, qui y ont vécu depuis des siècles. L'envahissement des Black Hills est déclenché par la découverte d'or dans la région. Des prospecteurs envahissent les Black Hills et commencent à exploiter l'or sans tenir compte des droits des Amérindiens sur le territoire.</p>
+
+# 1879 ans
+
+<p>Ce n'est pas la première ampoule électrique : on en fabrique depuis quarante ans, et elles brillent quelques heures avant de griller. Thomas Edison trouve un filament qui tient — du fil de coton carbonisé, dans une ampoule vidée de son air — et qui brûle d'abord des dizaines d'heures, puis des centaines.</p>
+
+<p>Mais l'ampoule n'est pas l'invention ; le système l'est. Edison comprend qu'une lampe ne sert à rien sans tout ce qui va avec, et il construit l'ensemble en même temps : une centrale, des câbles enterrés, des compteurs pour facturer, des interrupteurs, des fusibles, une grille tarifaire. Trois ans plus tard, sa station de Pearl Street éclaire un quartier de Manhattan. Il n'a pas vendu des lampes, il a vendu de la lumière au mois.</p>
+
+<p>Ce que l'électricité change dépasse de loin l'éclairage. Le gaz salit, chauffe et incendie les maisons ; l'électricité ne fait rien de tout cela, et elle rend la nuit ouvrable. Les usines cessent de dépendre du jour, les journées s'allongent, les villes cessent de dormir. Puis le courant fait tourner les machines, et l'atelier n'a plus besoin d'être bâti autour d'un arbre de transmission relié à une roue ou à une chaudière : chaque machine reçoit son propre moteur, et l'usine peut se réorganiser librement.</p>
+
+<p>Depuis le feu apprivoisé par Homo erectus, l'humanité n'avait pas repris autant de terrain sur la nuit.</p>
 
 # 1880 ans
 
@@ -5900,6 +6245,11 @@ tags: technology
 
 <p>L'ingénieur allemand Karl Benz construit la première automobile à moteur à essence fonctionnelle, connue sous le nom de Benz Patent-Motorwagen. C'est un véhicule à trois roues propulsé par un moteur à combustion interne, un moteur à quatre temps de sa propre conception — Gottlieb Daimler travaille au même moment sur le sien, à quelques dizaines de kilomètres de là, sans que les deux hommes se soient jamais rencontrés.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/benz.webp' | relative_url }}" alt="Benz Patent-Motorwagen de 1886" width="600" loading="lazy" decoding="async" height="503" />
+  <br /><small><em>Le Benz Patent-Motorwagen : trois roues, un moteur à explosion, une chaîne. Photo Stas Kozlovskiy, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+</p>
+
 # 1886 ans
 
 <p>Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets. La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.</p>
@@ -5912,15 +6262,19 @@ tags: technology
 
 1 Le vent souffle sur les pales du moulin à vent, ce qui les fait tourner<br/>
 
-2 Le mouvement de rotation de la pale est transmis à un moteur, qui convertit l'énergie mécanique en électricité grâce à un processus appelé induction électrique<br/>
+2 L'arbre entraîné par les pales fait tourner le rotor d'un générateur — un aimant tournant à l'intérieur de bobines de cuivre<br/>
 
-3 Le moteur actionne un générateur, qui transforme l'énergie électrique en courant électrique utilisable<br/>
+3 Le champ magnétique en mouvement induit un courant dans les bobines : c'est l'induction électromagnétique, qui convertit l'énergie mécanique en électricité<br/>
 
 4 Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local<br/>
 
 # 1888 ans
 
-<p>L'invention du pneu gonflable par John Boyd Dunlop rend la bicyclette plus confortable.</p>
+<p>À Belfast, un vétérinaire écossais nommé John Boyd Dunlop bricole pour le tricycle de son fils, qui se plaint des secousses : il enroule autour de la jante un tube de caoutchouc gonflé d'air, maintenu par une bande de toile. Il ignore qu'un autre Écossais, Robert William Thomson, avait breveté l'idée quarante ans plus tôt et qu'elle était tombée dans l'oubli faute d'un usage qui la justifie.</p>
+
+<p>Cette fois l'usage existe. Le pneumatique supprime d'un coup ce qui rendait la bicyclette pénible, et les temps s'effondrent en course dès la saison suivante — ce qui vaut mieux que n'importe quelle réclame. En cinq ans, la bicyclette devient un phénomène de masse.</p>
+
+<p>La portée dépasse le vélo. Sans pneumatique, l'automobile serait restée une voiture à roues cerclées de fer, lente et éreintante : c'est cette invention qui la rend praticable. Et la demande de caoutchouc qu'elle déclenche transformera l'économie de régions entières — Amazonie, Malaisie, et le Congo de Léopold II, où la récolte forcée du latex fera des centaines de milliers de morts.</p>
 
 # 1890 ans
 
@@ -5932,11 +6286,20 @@ tags: technology
 
 <p>Herman Hollerith crée un système de traitement de l'information en utilisant des cartes perforées pour stocker et traiter des données pour le recensement des États-Unis. Les cartes perforées peuvent être lues rapidement et facilement par la machine, ce qui permet de traiter de grandes quantités de données de manière rapide et efficace. Ces cartes sont des feuilles de papier perforées de manière à représenter des informations numériques. Chaque carte contient plusieurs colonnes de perforations, chacune représentant un chiffre ou une valeur.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/hollerith.webp' | relative_url }}" alt="Opératrice sur une perforatrice de cartes" width="400" loading="lazy" decoding="async" height="528" />
+  <br /><small><em>Opératrice sur une perforatrice : chaque trou code une réponse du recensement. Photo National Museum of Health and Medicine, CC BY 2.0, via Wikimedia Commons.</em></small>
+</p>
+
 <p>Pour lire les cartes perforées, la machine de Hollerith utilise un lecteur de cartes. Ce lecteur comprend plusieurs tiges métalliques qui passent à travers les perforations de la carte. Selon la position des perforations sur la carte, certaines tiges sont bloquées et d'autres non. En fonction de la combinaison de tiges bloquées ou non, la machine peut déterminer la valeur numérique représentée par la carte. Une fois que la machine a lu la carte, elle peut utiliser ces données pour effectuer des calculs et produire des résultats. Par exemple, si une carte représente un nombre de personnes et une autre représente un montant d'argent, la machine peut additionner ces valeurs pour obtenir un total.</p>
 
 # 1893 ans
 
-<p>Ford trouve assez de temps et d'argent pour étudier les moteurs à essence. Les moteurs de l'époque sont des moteurs à vapeur.</p>
+<p>Ingénieur en chef adjoint à la compagnie d'électricité Edison de Détroit, Ford dispose enfin d'un salaire régulier et d'un atelier. Il consacre ses soirées à un moteur à essence : la veille de Noël, il fait tourner sur l'évier de sa cuisine un petit monocylindre alimenté par un fil branché sur l'éclairage. Son unique enfant est né quelques semaines plus tôt.</p>
+
+<p>Le pari n'a rien d'évident. En 1893, l'automobile n'existe pratiquement pas, et trois technologies se disputent l'avenir : la vapeur, éprouvée mais lourde et lente à mettre en route ; l'électricité, silencieuse et propre mais prisonnière de l'autonomie de ses batteries ; l'essence, bruyante, sale et capricieuse, mais qui transporte dans quelques litres une quantité d'énergie qu'aucune batterie n'approche.</p>
+
+<p>C'est cette densité énergétique qui tranchera, et pour un siècle. Ford ne construira son premier véhicule que trois ans plus tard, et l'entreprise qui porte son nom dix ans après.</p>
 
 # 1894 ans
 
@@ -5968,9 +6331,11 @@ tags: technology
 
 # 1900 ans
 
-<p>30 % des habitations sont reliées aux égouts.</p>
+<p>Trente pour cent des habitations parisiennes sont reliées aux égouts. Le chiffre paraît faible ; il est le résultat d'un demi-siècle de travaux et d'une bataille politique. Le raccordement obligatoire — le « tout-à-l'égout » — a été imposé par une loi de 1894 contre les propriétaires, qui refusaient d'en payer le coût, et contre les entreprises de vidange, dont il ruinait le métier.</p>
 
-<p>Paris inaugure un métro entièrement électrique, ce qui était une révolution technologique et urbaine pour l’époque.</p>
+<p>Le 19 juillet, pour l'Exposition universelle, Paris inaugure la première ligne de son métro, entièrement électrique, de Porte Maillot à Porte de Vincennes. Le choix de l'électricité n'avait rien d'évident : Londres, qui a ouvert son métro trente-sept ans plus tôt, l'a fait à la vapeur, avec des tunnels enfumés qu'il fallait ventiler par des puits. Paris, arrivé tard, saute une génération technique.</p>
+
+<p>Assainir et transporter : ce sont les deux fonctions qui rendent vivable une ville de plusieurs millions d'habitants. La médecine a compris vingt ans plus tôt que le choléra et la typhoïde se transmettent par l'eau ; l'ingénierie en tire enfin les conséquences, et la mortalité urbaine se met à baisser sans plus jamais remonter.</p>
 
 # 1901 ans
 
@@ -5979,6 +6344,11 @@ tags: technology
 # 1903 ans
 
 <p>Premier vol motorisé de l'histoire. L'appareil des frères Wright parcourt une quarantaine de mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/wrightflyer.webp' | relative_url }}" alt="Premier vol des frères Wright, 17 décembre 1903" width="600" loading="lazy" decoding="async" height="389" />
+  <br /><small><em>Le premier vol motorisé, Kitty Hawk, 17 décembre 1903 : Orville aux commandes, Wilbur courant à l'aile. Photo John T. Daniels, domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Ford fonde la Ford Motor Company. L'entreprise démarre avec un capital de 28 000 dollars et produit son premier véhicule, le modèle A, en 1903. Dix ans plus tard, il imposera une méthode de travail nouvelle, qui consiste à décomposer la tâche de l'ouvrier en gestes simples et élémentaires : la chaîne de montage, et avec elle un bond de productivité.</p>
 
@@ -6004,7 +6374,11 @@ tags: technology
 
 <p style="text-align:center"><img src="/assets/img/bleriotXI.webp" alt="" width="400" loading="lazy" decoding="async" height="225" /></p>
 
-<p>Louis Blériot, constructeur de lanternes d'automobiles, d'avions, de motocyclettes et de chars à voile, est le premier à traverser la Manche en avion.</p>
+<p>Le 25 juillet, à l'aube, Louis Blériot décolle des Baraques, près de Calais, sur un monoplan de sa conception : trois cent cinquante kilos, un moteur de vingt-cinq chevaux, pas de boussole, pas de ceinture, pas de flotteur. Il vole trente-sept minutes au-dessus de l'eau, sans apercevoir aucune côte pendant une partie du trajet, et se pose durement dans un pré derrière le château de Douvres. Il a encore le pied bandé d'un accident récent.</p>
+
+<p>Le vol lui vaut le prix de mille livres offert par un journal londonien. Il en tire surtout une industrie : les commandes affluent, et il vendra des centaines d'exemplaires de son appareil.</p>
+
+<p>Mais l'essentiel est ailleurs, et la presse britannique le formule aussitôt : l'Angleterre n'est plus une île. Depuis 1066, aucune armée n'y a débarqué, protégée par une marine qui tenait la Manche. Un homme seul, dans une machine de bois et de toile, vient de démontrer que cette barrière a cessé d'exister. Cinq ans plus tard, la guerre commencera.</p>
 
 # 1910 ans
 
@@ -6026,7 +6400,11 @@ tags: technology
 
 # 1913 ans
 
-<p>Les Bolcheviks demeurent une faction révolutionnaire minoritaire et relativement marginale dans l'Empire russe.</p>
+<p>Les bolcheviks restent un groupe minoritaire et marginal. Lénine vit en exil, le parti compte quelques milliers de membres, sa presse est saisie, et la police politique l'a infiltré jusqu'au sommet — le chef du groupe bolchevique à la Douma est un agent de l'Okhrana.</p>
+
+<p>Rien, cette année-là, n'annonce 1917. L'Empire russe célèbre au contraire les trois cents ans de la dynastie Romanov, avec des cérémonies dans tout le pays et des foules qui acclament le tsar. L'industrie croît à l'un des rythmes les plus rapides du monde.</p>
+
+<p>Ce qui rendra l'improbable possible n'est pas la force de ce parti, c'est la guerre. Quatre ans plus tard, l'armée sera épuisée, les villes affamées, le régime sans soutien — et le seul groupe qui aura constamment réclamé la paix immédiate et sans conditions se trouvera être celui-là. On ne prévoit pas les révolutions : on constate après coup qui était prêt à ramasser le pouvoir.</p>
 
 # 1914 ans
 
@@ -6058,7 +6436,16 @@ tags: technology
 
 ## 15 septembre
 
-<p>Première utilisation des chars d'assaut par l'armée britannique lors de la Bataille de la Somme.</p>
+<p>Sur la Somme, quarante-neuf engins blindés à chenilles avancent pour la première fois vers les lignes allemandes. Les Britanniques les ont fait construire dans le plus grand secret, sous le nom de couverture de « réservoirs d'eau » — <em>tanks</em> — et le nom leur est resté.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/charmarki.webp' | relative_url }}" alt="Char britannique Mark I sur la Somme, septembre 1916" width="600" loading="lazy" decoding="async" height="425" />
+  <br /><small><em>Un Mark I britannique sur la Somme, 25 septembre 1916 — la première apparition du char sur un champ de bataille. Photo Ernest Brooks, domaine public, via Wikimedia Commons.</em></small>
+</p>
+
+<p>Ils répondent au problème qui bloque le front depuis deux ans : franchir une terre labourée par les obus, écraser les barbelés et encaisser la mitrailleuse, c'est-à-dire rendre à l'offensive l'avantage que la défense lui a pris. Sur les quarante-neuf, une trentaine seulement atteignent la ligne de départ ; les autres tombent en panne ou s'enlisent. L'effet de surprise est réel mais local, et beaucoup d'officiers jugent l'engin décevant.</p>
+
+<p>C'est pourtant la bonne réponse, employée trop tôt et en trop petit nombre. Il faudra attendre Cambrai, l'année suivante, pour un emploi massif — et 1940 pour que d'autres comprennent que ces machines ne doivent pas accompagner l'infanterie au pas, mais être rassemblées et lancées en profondeur. La bataille de la Somme, elle, s'achèvera en novembre : plus d'un million de morts et de blessés pour une dizaine de kilomètres.</p>
 
 # 1917 ans
 
@@ -6292,6 +6679,11 @@ tags: technology
 
 <p>Invention de L'ENIAC. C'est l'un des premiers ordinateurs électroniques de grande échelle, capable d'être reprogrammé pour résoudre un large éventail de problèmes de calcul.</p>
 
+<p style="text-align:center">
+  <img src="{{ '/assets/img/eniac.webp' | relative_url }}" alt="L'ENIAC, université de Pennsylvanie" width="600" loading="lazy" decoding="async" height="452" />
+  <br /><small><em>Panneaux de l'ENIAC conservés à l'université de Pennsylvanie. Photo TexasDex, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+</p>
+
 # 1946 ans
 
 <p>À Haiphong, un différend douanier tourne au bombardement : la marine française tire sur la ville et fait plusieurs milliers de morts. En décembre, le Viêt Minh attaque à Hanoï. La guerre d'Indochine commence.</p>
@@ -6310,13 +6702,24 @@ tags: technology
 
 <p>L'Inde est partitionnée en deux pays indépendants, l'Inde et le Pakistan.</p>
 
-<p>Le premier transistor est inventé par John Bardeen, Walter Brattain et William Shockley de Bell Labs. Leur invention marque une avancée majeure dans la technologie des semi-conducteurs et ouvre la voie à la miniaturisation et à l'amélioration des appareils électroniques.</p>
+<p>Le premier transistor — dit « à pointes » — est mis au point le 23 décembre 1947 par John Bardeen et Walter Brattain, aux Bell Labs. Leur chef d'équipe, William Shockley, absent de la manipulation décisive, en conçoit l'année suivante une version bien plus robuste, le transistor à jonction, qui sera celle réellement produite en série ; les trois hommes partageront le prix Nobel. Leur invention marque une avancée majeure dans la technologie des semi-conducteurs et ouvre la voie à la miniaturisation et à l'amélioration des appareils électroniques.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/transistor.webp' | relative_url }}" alt="Réplique du premier transistor, Bell Labs 1947" width="380" loading="lazy" decoding="async" height="340" />
+  <br /><small><em>Réplique du premier transistor, Bell Labs, 23 décembre 1947. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p>Le transistor remplace les tubes à vide (ou lampes électroniques) qui sont utilisés auparavant dans les appareils électroniques pour amplifier les signaux et effectuer des opérations de commutation. Les transistors offrent de nombreux avantages par rapport aux tubes à vide, tels que leur taille réduite, leur coût inférieur, leur consommation d'énergie plus faible et leur fiabilité accrue.</p>
 
 # 1948 ans
 
-<p>Établissement de l'État d'Israël. L'hébreu moderne est déclaré l'une des langues officielles de l'État nouvellement formé d'Israël, consolidant ainsi sa renaissance en tant que langue vivante et en évolution.</p>
+<p>Le 14 mai, à Tel-Aviv, David Ben Gourion proclame l'indépendance de l'État d'Israël, quelques heures avant l'expiration du mandat britannique sur la Palestine. Les armées de cinq États arabes voisins entrent en guerre le lendemain.</p>
+
+<p>Le projet remonte à la fin du XIXᵉ siècle et à un constat : dans une Europe où l'émancipation légale des juifs n'a pas fait reculer l'antisémitisme, l'assimilation ne protège de rien. La Shoah a transformé cette hypothèse en urgence. En novembre 1947, l'ONU a voté le partage du territoire en deux États ; les dirigeants juifs l'ont accepté, les dirigeants arabes l'ont refusé, jugeant qu'on disposait d'une terre habitée sans consulter la majorité de ceux qui y vivaient.</p>
+
+<p>La guerre qui suit fixe des frontières plus larges que le plan de partage et provoque le départ ou l'expulsion de plus de sept cent mille Palestiniens. Les Israéliens l'appellent la guerre d'Indépendance, les Palestiniens la <em>Nakba</em>, la catastrophe. Aucun État arabe ne naîtra dans la part restante. Le conflit ouvert cette année-là n'est toujours pas refermé.</p>
+
+<p>Détail sans équivalent connu : l'hébreu, langue liturgique et savante qui n'était plus la langue maternelle de personne depuis près de deux mille ans, devient la langue officielle du nouvel État. C'est le seul cas attesté de résurrection complète d'une langue morte.</p>
 
 # 1949 ans
 
@@ -6442,7 +6845,7 @@ tags: technology
 
 <p>Il tombera le 9 novembre 1989, en une soirée, sur un malentendu : un porte-parole est-allemand annonçant maladroitement une ouverture des frontières « immédiatement, sans délai », et une foule prenant l'annonce au mot devant des gardes sans consignes. Vingt-huit ans de béton emportés en quelques heures parce que personne n'osa tirer.</p>
 
-<p>Dans la nuit du 12 au 13 août, Berlin-Est se réveille coupée en deux par des barbelés, posés en quelques heures. Depuis 1949, près de trois millions de personnes ont quitté la RDA en passant simplement d'un secteur de la ville à l'autre — et ce sont les jeunes, les médecins, les ingénieurs. Un État qui perd un sixième de sa population ne tient pas.</p>
+<p>Un État qui perd ainsi un sixième de sa population ne tient pas.</p>
 
 <p>Les barbelés deviennent un mur de béton doublé d'un no man's land éclairé, miné et gardé. Il faut mesurer ce qu'il a de particulier : depuis Jéricho, un mur sert à empêcher d'entrer. Celui-ci sert à empêcher de sortir. En le bâtissant, le régime admet publiquement que ses citoyens le quitteraient s'ils le pouvaient — et il lui faudra vingt-huit ans pour que la conséquence lui revienne à la figure.</p>
 
@@ -6496,7 +6899,11 @@ tags: technology
 
 # 1967 ans
 
-<p>Publication du roman Cent Ans de solitude de Gabriel García Márquez.</p>
+<p>Paraît à Buenos Aires <em>Cent Ans de solitude</em>, de Gabriel García Márquez. L'auteur, journaliste colombien sans le sou, a écrit le livre en dix-huit mois enfermé à Mexico pendant que sa femme faisait crédit chez les commerçants ; il n'avait pas de quoi affranchir le manuscrit entier et l'a expédié en deux fois.</p>
+
+<p>Le roman suit six générations d'une même famille dans un village imaginaire, Macondo, où les morts reviennent bavarder, où une femme s'élève au ciel en pliant des draps, où il pleut quatre ans, onze mois et deux jours. Le procédé n'est pas de la fantaisie : ces événements sont racontés du même ton neutre que les naissances et les récoltes, tandis que les faits historiques — le massacre de milliers de grévistes des plantations de bananes, effacé ensuite des mémoires officielles — prennent l'allure de légendes. C'est le réalisme magique, et il dit quelque chose de précis sur un continent où la version officielle a longtemps été moins croyable que les récits de grand-mère.</p>
+
+<p>Le succès est immédiat et mondial. Il ouvre à la littérature latino-américaine une audience qu'elle n'avait jamais eue, et vaudra à son auteur le prix Nobel en 1982.</p>
 
 # 1968 ans
 
@@ -6504,7 +6911,7 @@ tags: technology
 
 # 1969 ans
 
-<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=CqJ711E51tQ" data-id="CqJ711E51tQ" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/CqJ711E51tQ/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
+<p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-rfSyV9n4v0" data-id="-rfSyV9n4v0" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/-rfSyV9n4v0/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>L'armée américaine arrive à faire en sorte que quatre ordinateurs puissent communiquer à distance. La technique qui permet de connecter ces quatre ordinateurs s'appelle "Arpanet".</p>
 
@@ -6513,6 +6920,11 @@ tags: technology
 <p>Le projet ARPANET est lancé dans le but de mettre en place un réseau de communication fiable et sécurisé pour les chercheurs et les scientifiques travaillant sur des projets de recherche avancés.</p>
 
 <p>L'ambition est d'inventer un nouveau système de communication qui permet à l'information de facilement passer entre des noeuds décentralisés. Si un noeud est détruit, l'information peut quand même passer via d'autres noeuds. Par cette méthode, la circulation de l'information et de la connaissance n'a plus de frontière. Le réseau va en quelque sorte libérer la circulation de l'information et dépasser les barrières des moyens de communication de l'époque.</p>
+
+<p style="text-align:center">
+  <img src="{{ '/assets/img/arpanet.webp' | relative_url }}" alt="Carte logique de l'ARPANET, mars 1977" width="600" loading="lazy" decoding="async" height="429" />
+  <br /><small><em>Carte logique de l'ARPANET en mars 1977, huit ans après les quatre premiers nœuds : aucun centre, des chemins multiples entre chaque machine. Domaine public, via Wikimedia Commons.</em></small>
+</p>
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=g3jOJfrOknA" data-id="g3jOJfrOknA" rel="noopener" aria-label="Lire la vidéo YouTube"><img src="https://i.ytimg.com/vi/g3jOJfrOknA/hqdefault.jpg" alt="" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6669,7 +7081,7 @@ tags: technology
 <p>Le premier serveur Web est mis en ligne, ce qui permet aux utilisateurs d'accéder au Web depuis n'importe quel ordinateur connecté à Internet. Pour mettre en ligne un serveur Web, il faut suivre les étapes suivantes:</p>
 
 1 Acheter ou louer un ordinateur qui sera utilisé comme serveur Web<br/>
-2 Installer un système d'exploitation sur le serveur (UNIX ou Windows)<br/>
+2 Installer un système d'exploitation de type UNIX (le tout premier serveur du Web tourne sur une station NeXT, sous NeXTSTEP)<br/>
 3 Installer un logiciel de serveur Web (CERN httpd) qui envoie le bon document demandé au navigateur, tels que des pages HTML, des images et des fichiers, tels que des images<br/>
 4 Configurer le serveur Web en spécifiant les détails de la configuration du réseau. Pour configurer les détails de la configuration du réseau dans CERN httpd, il faut ajouter ou modifier les options suivantes dans le fichier "httpd.conf" :<br/>
 
@@ -6681,7 +7093,11 @@ tags: technology
 
 # 1992 ans
 
-<p>1 000 000 d'ordinateurs sont connectés à Internet. Internet est principalement utilisé par les universités, les gouvernements et les entreprises pour la recherche et la communication.</p>
+<p>Un million d'ordinateurs sont connectés à Internet. Le réseau reste l'affaire des universités, des laboratoires et de quelques administrations : on y échange du courrier, des fichiers et des messages dans des forums, en mode texte, avec des commandes qu'il faut avoir apprises.</p>
+
+<p>Une décision prise cette année-là va pourtant tout ouvrir : le Congrès américain lève l'interdiction d'usage commercial qui pesait sur le réseau, jusque-là réservé par les règles de la National Science Foundation à la recherche et à l'enseignement. Les fournisseurs d'accès privés peuvent enfin exister.</p>
+
+<p>Deux autres verrous sauteront dans la foulée. En avril 1993, le CERN placera le World Wide Web dans le domaine public, sans brevet ni redevance — décision dont on mesure mal la portée : breveté, le Web serait resté un produit parmi d'autres, en concurrence avec des systèmes rivaux et incompatibles. La même année, le navigateur Mosaic affichera pour la première fois les images dans la page plutôt que dans une fenêtre séparée. Le nombre de sites passera alors de quelques centaines à plusieurs dizaines de milliers en deux ans.</p>
 
 # 1993 ans
 
@@ -6842,9 +7258,11 @@ tags: technology
 
 # 2014 ans
 
-<p>Manifestations pro-démocratie en Hong Kong, connues sous le nom du mouvement Umbrella.</p>
+<p>À Hong Kong, des dizaines de milliers d'étudiants occupent le centre financier pendant soixante-dix-neuf jours pour réclamer un suffrage réellement universel : Pékin venait d'annoncer que les électeurs pourraient bien choisir leur chef de l'exécutif, mais parmi des candidats préalablement approuvés. Les manifestants ouvrent leurs parapluies contre le gaz lacrymogène — d'où le nom donné au mouvement. Ils obtiennent la sympathie du monde et aucune concession.</p>
 
-<p>Les épidémies de fièvre Ebola en Afrique de l'Ouest tuent plus de 11 000 personnes.</p>
+<p>En Afrique de l'Ouest, l'épidémie d'Ebola tue plus de onze mille personnes en Guinée, au Liberia et en Sierra Leone. Le virus était connu depuis 1976, mais il n'avait jamais quitté des villages isolés d'Afrique centrale ; cette fois il atteint des capitales, et des systèmes de santé qui comptent quelques dizaines de médecins pour des millions d'habitants s'effondrent en quelques semaines.</p>
+
+<p>L'épidémie révèle surtout un défaut d'organisation mondiale : l'alerte est donnée en mars, la réponse internationale arrive en août. Elle laisse une leçon que la décennie suivante mettra à l'épreuve — face à une maladie qui double tous les vingt jours, le délai de réaction compte davantage que les moyens finalement engagés.</p>
 
 # 2015 ans
 
@@ -6854,9 +7272,11 @@ tags: technology
 
 # 2016 ans
 
-<p>Brexit. Le Royaume-Uni vote de quitter l'Union Européenne.</p>
+<p>Le 23 juin, les Britanniques votent à 51,9 % la sortie de l'Union européenne. Le référendum avait été convoqué par un Premier ministre qui militait pour le maintien et pensait clore ainsi une querelle interne à son propre parti ; il démissionne le lendemain. Le résultat dessine une fracture qui n'est pas celle des partis : Londres et l'Écosse votent pour rester, les anciennes régions industrielles et les petites villes votent pour partir.</p>
 
-<p>Donald Trump est élu président.</p>
+<p>Le 8 novembre, Donald Trump est élu président des États-Unis contre l'avis de la quasi-totalité des sondages, de la presse et de son propre appareil partisan. Il perd le vote populaire de près de trois millions de voix et emporte le collège électoral sur quelques dizaines de milliers de bulletins dans trois États industriels.</p>
+
+<p>Les deux scrutins, à cinq mois d'intervalle, ont assez en commun pour qu'on les lise ensemble : un vote majoritaire dans les territoires que la mondialisation a désindustrialisés, une défiance envers les institutions et les médias, et une campagne menée pour la première fois à grande échelle sur les réseaux sociaux, où l'information circule sans passer par les filtres traditionnels. C'est l'année où les instituts de sondage cessent d'être crus sur parole.</p>
 
 # 2018 ans
 
