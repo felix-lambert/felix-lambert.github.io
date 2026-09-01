@@ -156,7 +156,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="/assets/img/mathusalem.webp" alt="Infographie « Mathusalem : la plus vieille planète connue (12,7 milliards d'années) » : une frise du contexte cosmologique depuis le Big Bang, un schéma de son système — un pulsar et une naine blanche au cœur de l'amas globulaire M4, avec la géante gazeuse de 2,5 masses de Jupiter — et un encadré sur ce que sa précocité nous apprend de la formation des planètes" width="700" loading="lazy" decoding="async" height="382" />
-  <br /><small><em>L'étoile de Mathusalem, l'une des plus vieilles connues : sa pauvreté en éléments lourds trahit une naissance très précoce.</em></small>
+  <br /><small><em>Mathusalem, la plus vieille planète connue : une géante gazeuse née un milliard d'années à peine après le Big Bang.</em></small>
 </p>
 
 <p>Naît la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. Formée autour d'une étoile semblable au Soleil, elle finira capturée au cœur de l'amas globulaire M4, en orbite autour d'un pulsar et d'une naine blanche. L'univers n'a alors qu'environ un milliard d'années — et M4 est pourtant très pauvre en éléments lourds. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.</p>
@@ -537,7 +537,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/bangiomorpha.webp' | relative_url }}" alt="Photographie au microscope du fossile de Bangiomorpha : un filament sombre fait de cellules empilées en chapelet dans la roche claire, avec une barre d'échelle sous l'image" loading="lazy" decoding="async" width="447" height="1169" />
-  <br /><small><em>Bangiomorpha : la plus ancienne algue rouge connue, et l'un des premiers organismes à reproduction sexuée.</em></small>
+  <br /><small><em>Les premières algues rouges : de cette lignée sortira, bien plus tard, Bangiomorpha — l'un des premiers organismes à reproduction sexuée.</em></small>
 </p>
 
 <p>Les descendantes de la cellule au chloroplaste se diversifient : ce sont les premières algues, les premiers organismes photosynthétiques eucaryotes. On retrouve leurs fossiles dans les environnements marins peu profonds, là où la lumière pénètre. Parmi elles, les ancêtres des algues rouges, dont descendra Bangiomorpha — l'un des plus anciens organismes multicellulaires connus, que nous retrouverons.</p>
@@ -576,7 +576,7 @@ tags: technology
 <p>Les continents, eux, n'ont jamais cessé de bouger. Portés par les lents mouvements du manteau, ils dérivent de quelques centimètres par an — assez, sur des centaines de millions d'années, pour redessiner entièrement le globe. Nuna s'est fragmenté ; ses morceaux, après une longue dérive, entrent en collision les uns avec les autres et se soudent en un nouveau supercontinent : Rodinia. C'est le cycle des supercontinents — assemblage, fragmentation, réassemblage — qui rythmera toute l'histoire de la planète.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/Rodinia.webp" alt="Reconstitution paléogéographique du globe à l'époque de Rodinia : les blocs continentaux, en relief ocre et vert bordés de plateaux continentaux bleu clair, sont soudés en une seule masse au centre de la planète" width="400" loading="lazy" decoding="async" height="431" />
+  <img src="/assets/img/Rodinia.webp" alt="Reconstitution paléogéographique du globe à l'époque de Rodinia : les blocs continentaux, en relief ocre et vert bordés de plateaux continentaux bleu clair, sont soudés en une seule masse au centre de la planète" width="800" loading="lazy" decoding="async" height="800" />
   <br /><small><em>Rodinia : le supercontinent dont la fragmentation prépare les grandes glaciations qui suivront.</em></small>
 </p>
 
@@ -641,7 +641,7 @@ tags: technology
 # -740 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/rodinia.webp' | relative_url }}" alt="Reconstitution paléogéographique du globe pendant la dislocation de Rodinia : les cratons, en relief ocre et vert cernés de plateaux continentaux, commencent à se disperser sur la sphère quadrillée de méridiens" loading="lazy" decoding="async" width="800" height="800" />
+  <img src="{{ '/assets/img/Rodinia.webp' | relative_url }}" alt="Reconstitution paléogéographique du globe pendant la dislocation de Rodinia : les cratons, en relief ocre et vert cernés de plateaux continentaux, commencent à se disperser sur la sphère quadrillée de méridiens" loading="lazy" decoding="async" width="800" height="800" />
   <br /><small><em>Rodinia : le supercontinent dont la dislocation entraînera la Terre vers ses plus grandes glaciations.</em></small>
 </p>
 
@@ -1056,8 +1056,8 @@ tags: technology
 # -350 000 000 d'années
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/foretcarbonifere.webp' | relative_url }}" alt="Peinture d'un paysage primitif : une coulée de lave incandescente dévale une falaise sombre jusqu'à la mer, d'où montent de nombreux panaches de vapeur, sous un ciel embrumé barré de reliefs lointains" loading="lazy" decoding="async" width="1200" height="424" />
-  <br /><small><em>Une forêt du Carbonifère : des arbres de quarante mètres dont les troncs enfouis deviendront le charbon.</em></small>
+  <img src="{{ '/assets/img/foretcarbonifere.webp' | relative_url }}" alt="Gravure « Swamp Forest of the Carboniferous Age » : une forêt marécageuse du Carbonifère, aux troncs couverts d'écorce écailleuse et aux frondes de fougères arborescentes, où vole une grande libellule au-dessus d'une eau stagnante" loading="lazy" decoding="async" width="876" height="703" />
+  <br /><small><em>Une forêt marécageuse du Carbonifère, gravure de 1920 : lycopodes géants, fougères arborescentes, pas une seule fleur. Ces arbres de quarante mètres, enfouis avant de pourrir, deviendront le charbon. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Les feuilles larges — apparues timidement chez les premiers arbres comme Archaeopteris — se généralisent enfin dans le monde végétal. Leur principe : offrir un maximum de surface au soleil. Une feuille est un panneau solaire vivant, percé de milliers de pores microscopiques (les stomates) qui absorbent le CO2, et irrigué de nervures qui apportent l'eau et exportent les sucres fabriqués par la photosynthèse.</p>
@@ -1181,8 +1181,8 @@ tags: technology
 <p>Mais la concurrence se réorganise vite. Parmi les reptiles qui se diversifient dans ce monde à reconstruire, un groupe monte en puissance : les archosaures — les « reptiles dominants ». De leurs rangs sortiront les crocodiles, les ptérosaures… et, d'ici quelques millions d'années, les premiers dinosaures. Le monde d'après la Grande Mort est en train de choisir ses nouveaux maîtres.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/thetis.webp" alt="Carte paléogéographique du milieu du Jurassique (−180 millions d'années) en projection ovale : la Pangée encore soudée, l'océan Panthalassique à l'ouest et la mer Paléo-Téthys ouverte à l'est" width="400" loading="lazy" decoding="async" height="209" />
-  <br /><small><em>La Pangée et la mer Téthys : un continent unique, ouvert à l'est sur un golfe immense.</em></small>
+  <img src="{{ '/assets/img/thetis.webp' | relative_url }}" alt="Carte paléogéographique du milieu du Jurassique (−180 millions d'années) en projection ovale : la Pangée encore soudée, l'océan Panthalassique à l'ouest et la mer Paléo-Téthys ouverte à l'est" width="400" loading="lazy" decoding="async" height="209" />
+  <br /><small><em>La Pangée et la mer Téthys sur une carte du Jurassique moyen (-180 millions d'années) : un continent unique, ouvert à l'est sur un golfe immense. Au Trias, il est encore plus compact.</em></small>
 </p>
 
 <p style="display:block;text-align:center">(La Pangée, toujours intacte au Trias, et la mer Téthys)</p>
@@ -1248,7 +1248,7 @@ tags: technology
 <p>La déchirure entamée dix millions d'années plus tôt — celle-là même qui avait déclenché l'extinction de la fin du Trias — poursuit son travail. Les eaux marines s'engouffrent dans la grande fissure : un jeune océan est en train de naître, qui deviendra l'Atlantique.</p>
 
 <p style="text-align:center">
-  <img src="/assets/img/pangee.webp" alt="Reconstitution du globe à l'époque de la Pangée : toutes les terres émergées, en relief vert et ocre, sont soudées en un unique continent en forme de C, cerné par un océan mondial" width="400" loading="lazy" decoding="async" height="210" />
+  <img src="/assets/img/pangee.webp" alt="Reconstitution du globe à l'époque de la Pangée : toutes les terres émergées, en relief vert et ocre, sont soudées en un unique continent en forme de C, cerné par un océan mondial" width="1200" loading="lazy" decoding="async" height="600" />
   <br /><small><em>La Pangée commence à se déchirer : la fissure deviendra l'océan Atlantique.</em></small>
 </p>
 
@@ -1352,7 +1352,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/sarcosuchus.webp' | relative_url }}" alt="Illustration de Sarcosuchus : un crocodilien de plus de dix mètres au dos cuirassé d'écailles, corps recourbé et longues mâchoires ouvertes garnies de dents" loading="lazy" decoding="async" width="1200" height="1426" />
-  <br /><small><em>Sarcosuchus : un crocodilien de plus de dix mètres, embusqué au bord de l'eau.</em></small>
+  <br /><small><em>Sarcosuchus, un cousin géant des crocodiles du Crétacé inférieur : la formule de l'embusqué au ras de l'eau, avant même les crocodiliens modernes.</em></small>
 </p>
 
 <p>Les crocodiles nouvelle formule font leur entrée — les vrais, ceux dont descendent directement nos crocodiles, alligators et gavials.</p>
@@ -1488,7 +1488,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/separationaustralie.webp' | relative_url }}" alt="Carte de la dislocation du Gondwana dans l'océan Indien : les blocs de Madagascar, des Seychelles, de l'Inde et du Sri Lanka s'écartent de l'Afrique de l'Est et de l'Antarctique oriental le long des rifts, avec une échelle en milles et en kilomètres" loading="lazy" decoding="async" width="788" height="849" />
-  <br /><small><em>L'Australie se détache de l'Antarctique et remonte vers le nord, avec sa cargaison de marsupiaux.</em></small>
+  <br /><small><em>La dislocation du Gondwana dans l'océan Indien : Madagascar, les Seychelles et l'Inde s'écartent de l'Afrique et de l'Antarctique. À l'autre extrémité du continent, l'Australie se détache au même moment de l'Antarctique, avec sa cargaison de marsupiaux.</em></small>
 </p>
 
 <p>Les derniers morceaux du Gondwana achèvent de se dire adieu : l'Australie se détache de l'Antarctique et entame sa lente remontée vers le nord. Sur son radeau continental, une cargaison de marsupiaux évoluera désormais en vase clos, à l'abri de toute concurrence extérieure — c'est pourquoi kangourous, koalas et wombats n'existeront nulle part ailleurs au monde.</p>
@@ -1601,7 +1601,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/lomekwi.webp' | relative_url }}" alt="Image satellite en fausses couleurs du lac Turkana, au Kenya : le long ruban vert du lac tranche sur les terres arides ocre et orangé du rift" loading="lazy" decoding="async" width="992" height="735" />
-  <br /><small><em>Les outils de Lomekwi : des pierres taillées antérieures au genre Homo — si la datation tient.</em></small>
+  <br /><small><em>L'ouest du lac Turkana, au Kenya, vu par satellite. C'est sur ce rivage, à Lomekwi, qu'ont été mis au jour des éclats de pierre antérieurs au genre Homo — si la datation tient.</em></small>
 </p>
 
 <p>Surprise au bord du lac Turkana, au Kenya : des pierres taillées — frustes, lourdes, maladroites, mais indiscutablement façonnées. Or à cette date, le genre Homo n'existe pas encore. Si la découverte dit vrai (elle reste débattue), les premiers tailleurs de pierre seraient donc des australopithèques — la technologie serait plus vieille que l'humanité elle-même.</p>
@@ -1848,8 +1848,8 @@ tags: technology
 # -100 000 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/glaciationwurm.webp' | relative_url }}" alt="Graphique des températures reconstituées au Groenland depuis 20 000 ans : la longue phase froide du Pléistocène et du dernier maximum glaciaire, le réchauffement brutal du Bølling-Allerød, la rechute du Dryas récent, puis le plateau tempéré de l'Holocène marqué par l'événement froid de 8 200 ans" loading="lazy" decoding="async" width="1200" height="333" />
-  <br /><small><em>La glaciation de Würm : près de quatre-vingt-dix mille ans de froid, qui redessinent la carte du vivant.</em></small>
+  <img src="{{ '/assets/img/glaciationwurm.webp' | relative_url }}" alt="Graphique « Ice Age Temperature Changes » : les courbes de température reconstituées à partir des carottes de glace EPICA et Vostok, et celle du volume des glaces, sur les 450 000 dernières années, où se succèdent quatre cycles glaciaires" loading="lazy" decoding="async" width="564" height="377" />
+  <br /><small><em>Les cycles glaciaires des 450 000 dernières années, lus dans les carottes de glace antarctiques : la dernière glaciation s'installe il y a environ cent mille ans. CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>La planète entre dans sa dernière grande période glaciaire — la glaciation de Würm (dite de Wisconsin en Amérique du Nord). Le refroidissement s'installe pour près de 90 000 ans : la nourriture se raréfie, les migrations animales se déplacent, et les groupes humains, déjà clairsemés, traversent des heures difficiles — l'ADN de sapiens garde la trace d'un goulot d'étranglement où notre espèce entière s'est réduite à une poignée de survivants.</p>
@@ -2012,20 +2012,18 @@ tags: technology
 
 <p>Longtemps, on a imaginé l'art naissant maladroit, se perfectionnant peu à peu. Chauvet a pulvérisé cette idée : dès ses débuts européens, l'art pariétal est déjà magistral. Ces peintres de la glaciation n'étaient pas des balbutiants — c'étaient des maîtres.</p>
 
-# -33 000 ans
+# -31 000 ans
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/amputationborneo.webp' | relative_url }}" alt="Photographie de l'intérieur d'une grotte de Bornéo : une échelle appuyée sous la vaste ouverture par laquelle tombe la lumière du jour, au-dessus d'un sol d'éboulis moussus" loading="lazy" decoding="async" width="1200" height="1600" />
-  <br /><small><em>La grotte de Bornéo où fut pratiquée, il y a trente-trois mille ans, la plus ancienne amputation réussie connue.</em></small>
+  <br /><small><em>La grotte de Bornéo où fut pratiquée, il y a au moins trente et un mille ans, la plus ancienne amputation réussie connue.</em></small>
 </p>
 
 <p>Dans une grotte de Bornéo, en Indonésie, une communauté accomplit l'impensable : l'amputation chirurgicale de la jambe gauche d'un enfant. Et l'opération réussit — l'os a cicatrisé puis repoussé proprement, preuve que le jeune patient a survécu six à neuf ans après l'intervention, choyé par les siens dans un terrain montagneux où chaque déplacement exigeait de l'aide.</p>
 
 <p>C'est la plus ancienne chirurgie connue de l'humanité. Réussir une amputation suppose de connaître l'anatomie (veines, nerfs, muscles), de contenir l'hémorragie, et surtout d'empêcher l'infection, mortelle dans presque tous les cas : les forêts tropicales de Bornéo, pharmacie botanique exceptionnelle, ont probablement fourni antiseptiques et anesthésiques naturels. Derrière ce geste, il y a un savoir médical transmis — et une société qui juge qu'une vie diminuée vaut d'être sauvée, puis portée pendant des années.</p>
 
-# -31 000 ans
-
-<p>En Europe s'épanouit la culture gravettienne — du nom du site de La Gravette, en Dordogne. Ce n'est ni un empire ni un État : c'est une culture partagée, un même fonds d'outils, de symboles et de savoir-faire, reconnaissable d'un bout à l'autre du continent, en pleine période glaciaire.</p>
+<p>Au même moment, à l'autre bout du monde, une tout autre société laisse sa marque. En Europe s'épanouit la culture gravettienne — du nom du site de La Gravette, en Dordogne. Ce n'est ni un empire ni un État : c'est une culture partagée, un même fonds d'outils, de symboles et de savoir-faire, reconnaissable d'un bout à l'autre du continent, en pleine période glaciaire.</p>
 
 <p>Les Gravettiens sont des chasseurs de grands mammifères — renne, mammouth laineux —, dont ils tirent tout : viande, graisse, peaux, os et ivoire. Comme ces troupeaux migrent, les hommes suivent : leur vie est rythmée par des déplacements saisonniers le long de routes connues, entre des campements réoccupés année après année, parfois distants de centaines de kilomètres. Un semi-nomadisme organisé, plutôt qu'une errance — et à Dolní Věstonice (Moravie) ou Kostenki (Russie), certains habitats élaborés, aux structures semi-enterrées, sont même occupés des mois d'affilée.</p>
 
@@ -2275,8 +2273,8 @@ tags: technology
 # -5 000 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/cuivre.webp' | relative_url }}" alt="Photographie en noir et blanc d'une fonderie de cuivre : des ouvriers alignés devant le four et les conduits de coulée, dans la fumée, au-dessus des moules alignés au sol" loading="lazy" decoding="async" width="480" height="380" />
-  <br /><small><em>La métallurgie du cuivre : chauffer le minerai pour en tirer le métal — probablement découvert dans les fours des potiers.</em></small>
+  <img src="{{ '/assets/img/cuivre.webp' | relative_url }}" alt="Photographie d'une hache en cuivre néolithique exposée en vitrine : une lame massive à la patine verte, percée d'un trou d'emmanchement, posée sur un support clair" loading="lazy" decoding="async" width="1600" height="1200" />
+  <br /><small><em>Hache de cuivre du dépôt de Pločnik, en Serbie, vers -5000 à -4500 : l'un des plus anciens objets de cuivre fondu connus. Photo CryolophosaurusEllioti, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>En Anatolie et dans les Balkans, la métallurgie franchit son cap décisif. Le cuivre natif, martelé à froid depuis des millénaires pour des perles et des alênes, révèle enfin son vrai secret — probablement dans les fours des potiers, seuls assez chauds pour l'opérer : certaines pierres, chauffées ardemment, comme la malachite d'un beau vert profond, se mettent à pleurer du métal. C'est la fusion : on peut extraire le cuivre du minerai, le couler dans des moules, le refondre à l'infini. La métallurgie est née, fille inattendue de la céramique — et de véritables ateliers apparaissent, avec fours dédiés et artisans spécialisés : le forgeron entre dans l'histoire. Le cuivre seul reste tendre ; mais un jour, quelqu'un y mêlera un peu d'étain — et le bronze donnera son nom à une époque.</p>
@@ -2314,8 +2312,8 @@ tags: technology
 # -3 500 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/roue.webp' | relative_url }}" alt="Photographie d'une roue de charrette en bois à rayons, cerclée de fer, appuyée contre un tronc d'arbre" loading="lazy" decoding="async" width="758" height="900" />
-  <br /><small><em>La roue : d'abord un plateau de potier, puis l'essieu et le transport.</em></small>
+  <img src="{{ '/assets/img/roue.webp' | relative_url }}" alt="Photographie de la roue du marais de Ljubljana et de son essieu : un disque de bois massif assemblé à partir de deux planches maintenues par des traverses, exposé en vitrine à côté de son axe" loading="lazy" decoding="async" width="1600" height="1225" />
+  <br /><small><em>La roue du marais de Ljubljana, vers -3200 : la plus ancienne roue de bois conservée — un disque plein, avec son essieu, bien avant les rayons. Photo Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>En Mésopotamie tourne une invention qu'on croirait éternelle tant elle semble évidente — et qui ne l'est pas : la roue. Son premier emploi n'est probablement pas le transport mais l'atelier, avec le tour de potier, qui permet de monter des céramiques régulières à une vitesse inédite. Puis quelqu'un a l'idée de basculer la roue à la verticale, d'en accoupler deux sous une caisse : le chariot est né, bientôt attelé aux bœufs. Ce sont des disques pleins, découpés dans des planches assemblées, épais et lourds ; l'attelage avance au pas.</p>
@@ -2402,7 +2400,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/houe.webp' | relative_url }}" alt="Photographie d'un outil agricole égyptien en bois exposé en vitrine : une pièce de bois recourbée assemblée par des ligatures, présentée sur un support transparent avec son cartel" loading="lazy" decoding="async" width="473" height="613" />
-  <br /><small><em>Une houe à lame de cuivre : l'outil mord enfin dans le sol sec, là où le bois seul peinait.</em></small>
+  <br /><small><em>Houe égyptienne en bois, la lame liée au manche par des ligatures. C'est cet outil que la métallurgie va armer d'une lame de cuivre — il mord alors dans le sol sec, là où le bois seul peinait.</em></small>
 </p>
 
 <p>Avec l'essor de la métallurgie, les Égyptiens fabriquent des houes à lame de cuivre fixée sur un manche de bois — l'outil mord enfin dans le sol sec, là où le bois seul peinait.</p>
@@ -2574,8 +2572,8 @@ tags: technology
 # -1 700 av. J.-C.
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/chardeguerre.webp' | relative_url }}" alt="Photographie d'un panneau de mosaïque mésopotamienne en coquille et lapis-lazuli : sur fond bleu nuit, des chars tirés par des équidés piétinent des ennemis abattus, conducteurs et guerriers debout sur les caisses" loading="lazy" decoding="async" width="436" height="162" />
-  <br /><small><em>Le char léger à roues à rayons : venu des steppes, il transforme la guerre au Proche-Orient.</em></small>
+  <img src="{{ '/assets/img/chardeguerre.webp' | relative_url }}" alt="Photographie d'un char égyptien exposé en vitrine : une caisse légère au plancher tressé, montée sur deux roues à rayons et prolongée par un long timon" loading="lazy" decoding="async" width="1600" height="1048" />
+  <br /><small><em>Char égyptien de la XVIIIᵉ dynastie, musée archéologique de Florence : caisse légère, roues à rayons, un seul essieu — la machine venue des steppes, telle que l'adopte tout le Proche-Orient. Photo Khruner, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Le char quitte les steppes et descend vers le sud par les routes du Caucase, gagnant la Mésopotamie, l'Anatolie et la Syrie. Il y transforme la guerre — et la société.</p>
@@ -2709,7 +2707,7 @@ tags: technology
   <br /><small><em>La porte des Lionnes de Mycènes : des murs si massifs que les Grecs classiques les croiront bâtis par des cyclopes.</em></small>
 </p>
 
-<p>Les Mycéniens dominent désormais le monde égéen. Maîtres de la Crète et de son héritage, ils en font pourtant tout autre chose.</p>
+<p>Les Mycéniens dominent désormais le monde égéen, maîtres de la Crète et de son héritage.</p>
 
 <p>Mais ils en font tout autre chose. Là où les Minoens avaient des palais ouverts et des fresques de dauphins, les Mycéniens bâtissent des citadelles. À Mycènes, Pylos, Tirynthe et Thèbes s'élèvent de vastes palais fortifiés, aux murailles si massives que les Grecs des siècles suivants les croiront bâties par des cyclopes. Tombes monumentales, chars de guerre importés de l'empire hittite, armures, épées : la puissance s'affiche par la démonstration militaire, et leur art ne figure guère que des chasses et des combats.</p>
 
@@ -2977,7 +2975,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/amphoredipylon.webp' | relative_url }}" alt="Photographie d'une amphore athénienne de style géométrique exposée en vitrine : un grand vase ovoïde à col haut, entièrement couvert de frises de méandres, de damiers et de bandes horizontales" width="380" loading="lazy" decoding="async" height="570" />
-  <br /><small><em>L'amphore du Dipylon : la reprise athénienne commence par des vases, et par une géométrie tracée à l'instrument. Photo George E. Koronaios, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+  <br /><small><em>L'amphore du Dipylon, vers -750 : l'aboutissement du style géométrique dont la reprise athénienne pose ici les premières bases. Photo George E. Koronaios, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Le changement de goût est frappant. Les Mycéniens peignaient des pieuvres, des poissons, des spirales ; on peint désormais des figures abstraites tracées à l'instrument, où tout est mesure et symétrie. C'est le premier indice d'une sensibilité qui deviendra caractéristique : les Grecs chercheront partout la proportion juste, dans leurs temples, leurs statues et jusque dans leur philosophie.</p>
@@ -3191,8 +3189,8 @@ tags: technology
 
 # -874 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Photographie d'une vitrine de musée présentant deux petits fragments d'ivoire sculpté provenant de Samarie, posés sur fond sombre à côté de leur cartel" loading="lazy" decoding="async" width="1200" height="800" />
-  <br /><small><em>Fragments d'incrustations d'ivoire de Nimroud, IXᵉ siècle av. J.-C. Ces plaques finement gravées ornaient les meubles des palais du Levant — la « maison d'ivoire » que les prophètes reprocheront aux rois d'Israël.</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ivoiressamarie.webp' | relative_url }}" alt="Photographie d'incrustations d'ivoire de Samarie exposées en vitrine : une douzaine de rosettes finement sculptées aux pétales réguliers, accompagnées de deux disques percés" loading="lazy" decoding="async" width="1600" height="1067" />
+  <br /><small><em>Incrustations d'ivoire retrouvées à Samarie, IXᵉ-VIIIᵉ siècle av. J.-C. : ces rosettes ornaient les meubles du palais royal. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small></p>
 
 <p>Le fils d'Omri, Achab, lui succède, et pousse la politique paternelle plus loin encore. Il agrandit Samarie et y bâtit un palais si richement décoré qu'on l'appellera la maison d'ivoire — les fouilles en ont retrouvé des centaines de fragments sculptés, dans un style phénicien. Il ouvre des relations commerciales avec la Phénicie, Chypre et la Grèce.</p>
 
@@ -3292,7 +3290,7 @@ tags: technology
 # -830 av. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/yahveseul.webp' | relative_url }}" alt="Relevé au trait d'une inscription paléo-hébraïque de Kuntillet Ajrud : quelques lettres tracées à l'encre, aux jambages allongés, isolées sur fond blanc" loading="lazy" decoding="async" width="1186" height="1054" />
-  <br /><small><em>Relevé d'une inscription de Kuntillet Ajrud, en écriture paléo-hébraïque. Ce site du Sinaï a livré des bénédictions « par Yahvé et son ashéra » — preuve gênante qu'à cette date, le dieu d'Israël était encore associé à une parèdre.</em></small></p>
+  <br /><small><em>Relevé d'une inscription de Kuntillet Ajrud, en écriture paléo-hébraïque. Ce site du Sinaï, occupé au début du siècle suivant, a livré des bénédictions « par Yahvé et son ashéra » — preuve gênante que le dieu d'Israël était alors encore associé à une parèdre.</em></small></p>
 
 <p>Le mouvement du « Yahvé seul » gagne du terrain en Israël. Ses partisans exigent qu'on ne sacrifie qu'à ce dieu et qu'on ignore le culte de tous les autres.</p>
 
@@ -3302,8 +3300,8 @@ tags: technology
 
 # -828 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Photographie d'un bronze rituel chinois de l'époque des Zhou : un vase haut à deux ouvertures, dont la panse est couverte de dragons et de spirales en relief, à la patine sombre" loading="lazy" decoding="async" width="1200" height="1800" />
-  <br /><small><em>Vase rituel en bronze de l'époque des Zhou, décor de masques taotie en fort relief. (L'attribut de la balise donne « char » : c'est bien un récipient rituel, pas un véhicule.)</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/charzhou.webp' | relative_url }}" alt="Photographie d'une fosse funéraire chinoise : les empreintes de plusieurs chars alignés dans la terre, roues et caisses encore lisibles, avec les squelettes des chevaux attelés devant eux" loading="lazy" decoding="async" width="1600" height="1067" />
+  <br /><small><em>Fosse à chars et à chevaux des Zhou orientaux, à Luoyang. Sous cette dynastie, le char reste à la fois l'arme et l'insigne de l'aristocratie. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small></p>
 
 <p>Le roi Li meurt en exil, et son fils est rétabli sur le trône. La dynastie se relève — mais l'épisode a montré ce qu'elle refusait de voir : les seigneurs peuvent se passer du roi.</p>
 
@@ -3461,8 +3459,8 @@ tags: technology
 <p>Teglath-Phalasar III monte sur le trône d'Assyrie et invente un type d'empire entièrement nouveau. Il démantèle progressivement le vieux système de vassalité, où l'on laissait les rois locaux en place contre tribut, et incorpore les peuples soumis directement dans l'État assyrien.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/teglathphalasar.webp' | relative_url }}" alt="Photographie d'un relief assyrien : le roi debout de profil, coiffé de la tiare royale et tenant son sceptre, sculpté sur une haute dalle de pierre sombre" width="640" loading="lazy" decoding="async" height="335" />
-  <br /><small><em>Assaut d'une ville ennemie sous Teglath-Phalasar III : bélier sur rampe, échelles, déportés en file. Photo Allan Gluck, CC BY 4.0, via Wikimedia Commons.</em></small>
+  <img src="{{ '/assets/img/teglathphalasar.webp' | relative_url }}" alt="Photographie d'un relief assyrien : le roi debout de profil, coiffé de la tiare royale et tenant son sceptre, sculpté sur une haute dalle de pierre sombre" width="720" loading="lazy" decoding="async" height="1510" />
+  <br /><small><em>Un roi assyrien debout, sceptre en main, sur un relief de palais. Teglath-Phalasar III fait de l'Assyrie une machine à annexer : provinces administrées, garnisons, déportations systématiques. Photo Allan Gluck, CC BY 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>La méthode est implacable. Au premier signe de révolte, le roi vassal est remplacé par un gouverneur assyrien, l'armée envahit le pays, et toute la classe dirigeante est déportée puis remplacée par des gens venus d'autres provinces. On ne casse pas seulement les rébellions : on détruit les peuples en les mélangeant.</p>
@@ -3518,8 +3516,8 @@ tags: technology
 <p>Lakish, deuxième ville du royaume, est rasée : quinze cents hommes, femmes et enfants seront retrouvés dans une fosse commune. Le roi assyrien fera sculpter le siège en détail sur les murs de son palais — la rampe d'assaut, les béliers, les défenseurs empalés, les files de déportés. C'est l'un des rares épisodes de la Bible dont nous possédions aussi l'image, vue du côté du vainqueur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Relevé au trait d'un ostracon de Lakish : une lettre en écriture paléo-hébraïque, tracée à l'encre en six lignes sur un tesson de poterie, légendée « Carta de Tell ed-Duweir (Siglo VI a.C.) »" width="600" loading="lazy" decoding="async" height="455" />
-  <br /><small><em>Archers et frondeurs assyriens à l'assaut de Lakish, relief du palais de Sennachérib à Ninive. Photo Ywpark2003, CC0, via Wikimedia Commons.</em></small>
+  <img src="{{ '/assets/img/lakish.webp' | relative_url }}" alt="Photographie d'un relief assyrien du siège de Lakish : une machine de siège poussée sur une rampe attaque la muraille, entourée d'archers, de fuyards et de pieux, sous les créneaux garnis de défenseurs" width="1600" loading="lazy" decoding="async" height="1063" />
+  <br /><small><em>L'assaut de Lakish sur un relief du palais de Sennachérib à Ninive : bélier monté sur rampe, archers en couverture. Photo Osama Shukir Muhammed Amin, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Puis l'armée encercle Jérusalem, et la ville paraît perdue. Au dernier moment, pourtant, le siège est levé — les textes bibliques y verront un miracle, les Assyriens parleront d'un tribut versé, les historiens évoquent une épidémie ou des troubles ailleurs dans l'empire.</p>
@@ -3739,7 +3737,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/monnaiepoinconnee.webp' | relative_url }}" alt="Photographie des deux faces d'une monnaie indienne en argent poinçonnée : un morceau de métal au poids ajusté, marqué de plusieurs symboles frappés séparément" width="560" loading="lazy" decoding="async" height="224" />
-  <br /><small><em>Karshapana d'argent poinçonné, Inde, période maurya : un morceau de métal au poids ajusté, marqué de plusieurs poinçons. Photo Jean-Michel Moullec, CC BY 2.0, via Wikimedia Commons.</em></small>
+  <br /><small><em>Karshapana d'argent poinçonné, Inde : un morceau de métal au poids ajusté, marqué de plusieurs poinçons frappés séparément. Ce type de monnaie apparaît vers -600 et se frappera jusqu'à l'époque maurya. Photo Jean-Michel Moullec, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>La transformation économique accompagne une transformation religieuse tout aussi profonde. Dans ce monde de villes et de royaumes apparaissent ou deviennent plus visibles des groupes de renonçants que les sources appelleront <em>shramanas</em>. Ils quittent la maison et les obligations ordinaires pour rechercher une forme de délivrance par l'ascèse, la méditation ou la connaissance.</p>
@@ -4245,7 +4243,7 @@ tags: technology
 
 # -350 av. J.-C.
 
-<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Photographie d'un manuscrit chinois ancien : un ensemble de fines lattes assemblées par des cordelettes, couvertes de caractères tracés à l'encre" loading="lazy" decoding="async" width="453" height="1000" />
+<p style="text-align:center"><img src="{{ '/assets/img/daodejing.webp' | relative_url }}" alt="Photographie d'un manuscrit chinois sur soie : un pan de tissu ocre couvert de colonnes serrées de caractères tracés à l'encre, aux bords effrangés et troués" loading="lazy" decoding="async" width="453" height="1000" />
   <br /><small><em>Manuscrit du Daodejing sur soie. Le texte fait l'éloge systématique de ce que son époque méprise — l'eau, le vide, le non-agir — au moment précis où les États chinois deviennent plus puissants et plus interventionnistes.</em></small></p>
 
 <p>C'est probablement à cette époque, pendant la période des Royaumes combattants, que se forme le texte lui-même : le <em>Daodejing</em>, ou <em>Livre de la Voie et de la Vertu</em>. Non pas écrit d'un jet par un homme, mais compilé progressivement — sentences rythmées, formules mémorisables, matériaux anciens transmis oralement puis rassemblés.</p>
@@ -4752,7 +4750,7 @@ tags: technology
 # 19 ans
 
 <p style="text-align:center"><img src="{{ '/assets/img/mortgermanicus.webp' | relative_url }}" alt="Photographie de « La Mort de Germanicus » de Nicolas Poussin : le général agonisant sur son lit sous un dais bleu, entouré de sa famille éplorée et de ses officiers qui, le bras tendu, jurent de le venger" loading="lazy" decoding="async" width="1200" height="893" />
-  <br /><small><em>« La mort de Germanicus », Nicolas Poussin, 1627. Il meurt en Orient à trente-quatre ans, convaincu jusqu'au bout d'avoir été empoisonné sur ordre de Rome : son tort avait été d'être trop aimé.</em></small></p>
+  <br /><small><em>« La mort de Germanicus », Nicolas Poussin, 1627. Il meurt en Orient à trente-trois ans, convaincu jusqu'au bout d'avoir été empoisonné sur ordre de Rome : son tort avait été d'être trop aimé.</em></small></p>
 
 <p>Germanicus meurt en Orient, à trente-trois ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
 
@@ -4786,8 +4784,8 @@ tags: technology
 
 # 49 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/concilejerusalem.webp' | relative_url }}" alt="Photographie d'un collier byzantin en or et émaux cloisonnés : une file de médaillons circulaires figurant le Christ et les saints, montés sur des cadres d'or" loading="lazy" decoding="async" width="1200" height="787" />
-  <br /><small><em>Collier byzantin en or et émaux cloisonnés, médaillons du Christ et des saints. La réunion de Jérusalem dispense les non-Juifs de la circoncision et de l'essentiel de la Loi : un compromis technique qui fera du christianisme une religion à part.</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/concilejerusalem.webp' | relative_url }}" alt="Icône représentant les apôtres Pierre et Paul debout côte à côte sur fond d'or, portant ensemble une maquette d'église ; Pierre tient ses clés, Paul un livre" loading="lazy" decoding="async" width="418" height="551" />
+  <br /><small><em>Pierre et Paul, icône grecque du XIXᵉ siècle. Les deux hommes s'affrontent à Jérusalem sur une question qui paraît technique : faut-il devenir juif pour devenir chrétien ? Domaine public, via Wikimedia Commons.</em></small></p>
 
 <p>À Jérusalem se tient une réunion de quelques hommes dont dépendra le destin d'une religion mondiale. La question posée paraît technique : les non-Juifs qui veulent rejoindre le mouvement doivent-ils d'abord devenir juifs — c'est-à-dire se faire circoncire et observer l'intégralité de la Loi, y compris les interdits alimentaires ?</p>
 
@@ -5422,11 +5420,11 @@ tags: technology
 
 <p>Pour Byzance, la perte est définitive mais non mortelle : la Syrie, la Palestine puis l'Égypte lui échappent — la tradition prête à Héraclius cet adieu en quittant la région : « Adieu, Syrie, belle province — tu appartiens désormais à l'ennemi. » Ces terres étaient romaines depuis sept siècles ; elles ne le redeviendront jamais. L'Empire y perd son grenier à blé et ses provinces les plus riches, et survivra huit siècles encore, amputé de moitié.</p>
 
-<p>Pour la Perse, ce sera fatal. Son roi, Yazdgard III, a dix-neuf ans ; monté sur le trône à huit ans dans un empire qui venait de brûler quatre souverains en quatre ans, il n'a jamais vraiment gouverné. Il abandonne Ctésiphon, sa capitale aux palais immenses — les Arabes y trouveront des trésors qu'ils n'imaginaient pas, dont un tapis brodé de pierreries figurant un jardin, qu'ils débiteront en morceaux pour le partager. Le roi des rois part vers l'est avec sa cour, ses prêtres et ce qu'il peut emporter. Il ne reviendra plus.</p>
+<p>Pour la Perse, ce sera fatal. Son roi, Yazdgard III, a douze ans ; monté sur le trône à huit ans dans un empire qui venait de brûler quatre souverains en quatre ans, il n'a jamais vraiment gouverné. Il abandonne Ctésiphon, sa capitale aux palais immenses — les Arabes y trouveront des trésors qu'ils n'imaginaient pas, dont un tapis brodé de pierreries figurant un jardin, qu'ils débiteront en morceaux pour le partager. Le roi des rois part vers l'est avec sa cour, ses prêtres et ce qu'il peut emporter. Il ne reviendra plus.</p>
 
 # 642 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/nahavand.webp' | relative_url }}" alt="Photographie d'un plat d'argent sassanide : un cavalier lancé au galop transperce un fauve de sa lance, la scène ciselée en relief sur toute la coupe" loading="lazy" decoding="async" width="1186" height="1162" />
+<p style="text-align:center"><img src="{{ '/assets/img/nahavand.webp' | relative_url }}" alt="Photographie d'un plat d'argent sassanide : deux cavaliers s'affrontent à la lance au-dessus d'un cheval abattu, la scène ciselée en relief sur toute la coupe" loading="lazy" decoding="async" width="1186" height="1162" />
   <br /><small><em>Plat d'argent sassanide à scène de combat monté. À Nahavand, la Perse tente son dernier grand rassemblement militaire ; battue, elle n'oppose plus rien à l'avance arabe.</em></small></p>
 
 <p>À Nahavand, dans les montagnes du Zagros, la Perse tente son dernier grand rassemblement militaire. Elle est battue à nouveau, et cette fois plus rien ne s'oppose à l'avance arabe : les Arabes appelleront cette bataille « la victoire des victoires ».</p>
@@ -5846,7 +5844,7 @@ tags: technology
 # 1040 ans
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/bisheng.webp' | relative_url }}" alt="Photographie d'une reconstitution muséographique de l'atelier de Bi Sheng : une statue de l'artisan assis devant deux grandes tables rondes tournantes portant ses caractères mobiles" loading="lazy" decoding="async" width="900" height="522" />
+  <img src="{{ '/assets/img/bisheng.webp' | relative_url }}" alt="Photographie d'une reconstitution muséographique de l'atelier de Bi Sheng : une statue de l'artisan assis devant deux grandes tables rondes tournantes portant ses caractères mobiles" loading="lazy" decoding="async" width="596" height="900" />
   <br /><small><em>Des caractères mobiles chinois : l'imprimerie naît quatre siècles avant Gutenberg, mais il faut composer avec des milliers de signes.</em></small>
 </p>
 
@@ -5979,7 +5977,7 @@ tags: technology
 # 1192 ans
 
 <p style="text-align:center"><img src="{{ '/assets/img/yoritomo.webp' | relative_url }}" alt="Portrait japonais de Minamoto no Yoritomo : le premier shōgun assis en tenue de cour sombre, coiffe noire et sabre à la ceinture, sur fond neutre" loading="lazy" decoding="async" width="1200" height="1495" />
-  <br /><small><em>Minamoto no Yoritomo, portrait sur soie. Il n'renverse pas l'empereur : il le laisse régner et prend tout le reste — l'armée, la justice, l'impôt. Le montage durera sept siècles.</em></small></p>
+  <br /><small><em>Minamoto no Yoritomo, portrait sur soie. Il ne renverse pas l'empereur : il le laisse régner et prend tout le reste — l'armée, la justice, l'impôt. Le montage durera sept siècles.</em></small></p>
 
 <p>Deux siècles et demi après la révolte de Masakado, ce que celle-ci annonçait s'accomplit. Après une guerre qui a opposé les Taira et les Minamoto, le vainqueur, Minamoto no Yoritomo, obtient de l'empereur le titre de <em>shōgun</em> — commandant en chef — et installe son gouvernement à Kamakura, loin de Kyoto.</p>
 
@@ -6058,8 +6056,8 @@ tags: technology
 
 # 1279 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/yamen.webp' | relative_url }}" alt="Peinture d'une bataille navale : des jonques chinoises prises sous le feu, l'une d'elles en flammes au milieu de la fumée, tandis que des navires occidentaux manœuvrent au large" loading="lazy" decoding="async" width="1040" height="681" />
-  <br /><small><em>Bâtiments de guerre européens détruisant des jonques chinoises, estampe du XIXᵉ siècle. L'image représente en réalité la guerre de l'Opium ; elle est ici utilisée comme figure d'une bataille navale chinoise.</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/yamen.webp' | relative_url }}" alt="Gravure sur bois chinoise d'un navire de guerre à étages : un bâtiment à rames surmonté d'une tour crénelée et armé d'une catapulte à traction, entouré de colonnes de caractères" loading="lazy" decoding="async" width="1600" height="1199" />
+  <br /><small><em>Navire de guerre chinois à tour et catapulte, planche du Wujing Zongyao, le manuel militaire des Song. C'est une flotte de ce type qui est détruite à Yamen. Domaine public, via Wikimedia Commons.</em></small></p>
 
 <p>Les forces Song résistantes sont défaites par les Mongols à la bataille de Yamen. C'est à cette bataille que le dernier empereur Song, l'empereur Bing, périt, mettant fin à la dynastie Song.</p>
 
@@ -6527,7 +6525,7 @@ tags: technology
 <p>Tenochtitlán tombe le 13 août, après quatre-vingt-treize jours de siège. Le dernier souverain, Cuauhtémoc, est capturé sur le lac.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/tenochtitlan.webp' | relative_url }}" alt="Glyphe aztèque de Tenochtitlán : un figuier de Barbarie stylisé, ses raquettes vertes chargées de fruits rouges, poussant sur un rocher au trait noir et aux couleurs vives" width="600" loading="lazy" decoding="async" height="383" />
+  <img src="{{ '/assets/img/tenochtitlan.webp' | relative_url }}" alt="Plan gravé de Tenochtitlán publié en 1524 : la ville au milieu de son lac, ses chaussées rayonnantes et son enceinte cérémonielle au centre, avec à gauche une carte du golfe du Mexique" width="1600" loading="lazy" decoding="async" height="1014" />
   <br /><small><em>Tenochtitlán, gravée en Europe dès 1524 d'après un plan rapporté par Cortés : une capitale bâtie sur un lac, reliée à la terre par des chaussées. Friedrich Peypus (1485–1534), probably after drawing made by one of Co, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -6978,8 +6976,8 @@ tags: technology
 
 # 1644 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/lizicheng.webp' | relative_url }}" alt="Estampage d'un sceau chinois : un grand caractère tracé au pinceau en noir, superposé à un labyrinthe de traits rouges formant un carré" loading="lazy" decoding="async" width="1170" height="1150" />
-  <br /><small><em>Sceau et calligraphie chinois. Les Ming s'effondrent sous le froid, la peste et la crise monétaire ; le dernier empereur se pend derrière son palais après avoir tué les femmes de sa famille.</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/lizicheng.webp' | relative_url }}" alt="Photographie d'une statue équestre de Li Zicheng : le chef rebelle en manteau flottant, l'arme à la main, dressé sur un haut socle de pierre au milieu d'une ville" loading="lazy" decoding="async" width="1496" height="1039" />
+  <br /><small><em>Statue de Li Zicheng, le chef paysan qui entre dans Pékin en 1644. Les Ming s'effondrent sous le froid, la peste et la crise monétaire ; le dernier empereur se pend derrière son palais après avoir tué les femmes de sa famille. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small></p>
 
 <p>Une armée de paysans révoltés entre dans Pékin. Le dernier empereur Ming, abandonné de tous, se pend à un arbre de la colline derrière son palais après avoir tué les femmes de sa famille. La dynastie qui gouvernait la Chine depuis 1368 s'achève là.</p>
 
@@ -7028,10 +7026,6 @@ tags: technology
 
 <p>Tout est là. On ne croira plus une chose parce qu'Aristote l'a écrite, ni parce qu'un homme respectable l'affirme, mais parce qu'une expérience l'a montrée devant témoins et que d'autres peuvent la refaire. C'est exactement ce que Bacon réclamait quarante ans plus tôt, et cette fois c'est institutionnalisé : des séances régulières, des démonstrations publiques, des registres.</p>
 
-<p>Cinq ans plus tard paraît un objet entièrement neuf, les <em>Philosophical Transactions</em> : la première revue scientifique périodique. Elle invente au passage des règles que nous suivons encore — la publication datée qui établit l'antériorité d'une découverte, et la relecture d'un texte par d'autres savants avant impression.</p>
-
-<p>Le savoir cesse d'être un trésor qu'on garde. Léonard remplissait des carnets que personne n'a lus ; désormais, ne pas publier c'est ne pas exister. C'est peut-être le changement le plus important de toute la révolution scientifique, et ce n'est pas une découverte : c'est une procédure.</p>
-
 <p>La même année, la monarchie revient en Angleterre. Charles II, fils du décapité, remonte sur le trône — et devient l'un des premiers protecteurs de la Société.</p>
 
 # 1661 ans
@@ -7049,10 +7043,10 @@ tags: technology
 
 # 1662 ans
 
-<p>À Londres, une douzaine d'hommes qui se réunissaient depuis vingt ans pour faire des expériences obtiennent une charte royale. La Royal Society est née, et elle se donne une devise qui est une déclaration de guerre : <em>Nullius in verba</em> — sur la parole de personne.</p>
+<p>Deux ans après sa première réunion, la société obtient de Charles II une charte royale : elle devient officiellement la Royal Society, et sa devise — <em>Nullius in verba</em> — cesse d'être un mot d'ordre entre amis pour devenir celle d'une institution.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/royalsociety.webp' | relative_url }}" alt="Armoiries de la Royal Society : un écu aux trois lions d'Angleterre tenu par deux lévriers, surmonté d'un aigle en cimier, au-dessus d'un listel portant la devise « Nullius in verba »" width="600" loading="lazy" decoding="async" height="568" />
+  <img src="{{ '/assets/img/royalsociety.webp' | relative_url }}" alt="Armoiries de la Royal Society : un écu aux trois lions d'Angleterre tenu par deux lévriers, surmonté d'un aigle en cimier, au-dessus d'un listel portant la devise « Nullius in verba »" width="523" loading="lazy" decoding="async" height="569" />
   <br /><small><em>La Royal Society et sa devise : nullius in verba — ne croire personne sur parole. Photo MostEpic, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
@@ -7224,7 +7218,7 @@ tags: technology
 
 <p>La peste tue près de la moitié des Marseillais en deux ans, et plus de cent mille personnes en Provence. Le Parlement d'Aix punit de mort toute communication avec la ville ; on construit à travers les collines un mur de pierre sèche gardé par des soldats, dont on voit encore les vestiges.</p>
 
-<p>C'est la dernière grande épidémie de peste en Europe occidentale — six siècles après son retour de 1347. Elle laisse une leçon qui n'a pas vieilli : le dispositif sanitaire était correct, connu et suffisant, et il a cédé devant l'intérêt commercial de quelques-uns.</p>
+<p>C'est la dernière grande épidémie de peste en Europe occidentale — près de quatre siècles après son retour de 1347. Elle laisse une leçon qui n'a pas vieilli : le dispositif sanitaire était correct, connu et suffisant, et il a cédé devant l'intérêt commercial de quelques-uns.</p>
 
 # 1721 ans
 
@@ -7626,7 +7620,7 @@ tags: technology
 
 <p>Peu importe. Dix ans après la prise de la Bastille, la République se donne un maître, et le fait sans résistance notable — le pays est épuisé, il veut de l'ordre, et le nouveau régime promet de terminer la Révolution en gardant ses acquis. Cinq ans plus tard, Bonaparte se fera couronner empereur.</p>
 
-<p>L'année précédente, en Égypte, des soldats de son expédition avaient dégagé près de Rosette un bloc de granodiorite couvert de trois écritures. Un décret administratif sans intérêt — mais gravé en hiéroglyphes, en démotique et en grec. Champollion s'en servira pour rendre sa voix à trois millénaires d'Égypte, et cette pierre est déjà passée dans ce récit, quinze siècles plus tôt, le jour où le dernier prêtre de Philae grava les derniers hiéroglyphes de l'histoire.</p>
+<p>Quelques mois plus tôt, en Égypte, des soldats de son expédition avaient dégagé près de Rosette un bloc de granodiorite couvert de trois écritures. Un décret administratif sans intérêt — mais gravé en hiéroglyphes, en démotique et en grec. Champollion s'en servira pour rendre sa voix à trois millénaires d'Égypte, et cette pierre est déjà passée dans ce récit, quatorze siècles plus tôt, le jour où le dernier prêtre de Philae grava les derniers hiéroglyphes de l'histoire.</p>
 
 # 1800 ans
 
@@ -7841,8 +7835,8 @@ tags: technology
 <p>Le traité de Nankin, signé en août, met fin à la première guerre de l'opium. Il n'interdit pas l'opium : il n'en parle même pas. La Chine cède Hong Kong, ouvre cinq ports, verse une indemnité qui couvre notamment la valeur de la drogue détruite en 1839 — et le trafic reprend aussitôt, plus important qu'avant, désormais couvert par des consuls et des canonnières.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/guerreopium.webp' | relative_url }}" alt="Peinture d'une bataille navale de la première guerre de l'opium : un vapeur cuirassé britannique canonne des jonques chinoises dont l'une explose, au milieu des embarcations et des naufragés" width="600" loading="lazy" decoding="async" height="393" />
-  <br /><small><em>La première guerre de l'opium : des vapeurs cuirassés contre des jonques — la Chine cède Hong Kong et ouvre cinq ports. Edward Duncan, domaine public, via Wikimedia Commons.</em></small>
+  <img src="{{ '/assets/img/guerreopium.webp' | relative_url }}" alt="Estampe coloriée : le vapeur cuirassé britannique Nemesis canonne des jonques de guerre chinoises dont l'une explose, au milieu des chaloupes d'abordage et des naufragés" width="1040" loading="lazy" decoding="async" height="681" />
+  <br /><small><em>Le vapeur Nemesis détruisant des jonques dans la baie d'Anson, le 7 janvier 1841, estampe d'Edward Duncan. La première guerre de l'opium : des vapeurs cuirassés contre des jonques — la Chine cède Hong Kong et ouvre cinq ports. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Le mécanisme mérite d'être regardé en face. La Grande-Bretagne achetait massivement du thé chinois et n'avait presque rien à vendre en échange ; son argent partait vers la Chine. L'opium cultivé au Bengale a renversé le flux : la Chine s'est mise à payer sa propre drogue en métal précieux. Une guerre a été livrée pour maintenir ce circuit.</p>
@@ -7986,7 +7980,7 @@ tags: technology
 <p>Les premiers vélocipèdes à pédales sortent des ateliers parisiens : une machine en fer forgé, les pédales fixées directement sur la roue avant, sans transmission ni roue libre — si dure sur les pavés qu'on la surnommera la « machine à secouer les os ».</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/velocipede.webp' | relative_url }}" alt="Estampe humoristique du XIXᵉ siècle intitulée « Voyage à la lune » : un homme en haut-de-forme pédale sur un vélocipède fantaisiste à roues en hélice, soutenu par deux ballons et lorgnant dans une longue-vue" width="597" loading="lazy" decoding="async" height="596" />
+  <img src="{{ '/assets/img/velocipede.webp' | relative_url }}" alt="Photographie ancienne d'Ernest Michaux appuyé sur son vélocipède : un cadre de fer forgé, une grande roue avant munie de pédales fixées au moyeu et une roue arrière plus petite" width="597" loading="lazy" decoding="async" height="596" />
   <br /><small><em>Le vélocipède Michaux : pédales fixées directement sur la roue avant, cadre de fer forgé — on le surnommera la « machine à casser les os ». Unknowable - Michaux staff or contract photographer from circa 1870s-8, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8052,7 +8046,7 @@ tags: technology
 <p>Les travaux du premier chemin de fer transcontinental américain battent leur plein. Deux compagnies avancent l'une vers l'autre : l'Union Pacific part d'Omaha vers l'ouest à travers les Grandes Plaines ; la Central Pacific part de Sacramento vers l'est et doit franchir la Sierra Nevada, en perçant des tunnels dans le granit à la main et à la poudre noire, sous des hivers qui ensevelissent les chantiers.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/transcontinental.webp' | relative_url }}" alt="Carte des États-Unis montrant le tracé du premier chemin de fer transcontinental : la ligne du Central Pacific depuis Sacramento et celle de l'Union Pacific depuis Omaha se rejoignant à Promontory, dans l'Utah" width="600" loading="lazy" decoding="async" height="457" />
+  <img src="{{ '/assets/img/transcontinental.webp' | relative_url }}" alt="Carte des États-Unis montrant le tracé du premier chemin de fer transcontinental : la ligne du Central Pacific depuis Sacramento et celle de l'Union Pacific depuis Omaha se rejoignant à Promontory, dans l'Utah" width="900" loading="lazy" decoding="async" height="557" />
   <br /><small><em>La jonction des deux compagnies à Promontory Summit, en 1869 : l'Amérique se traverse désormais en une semaine au lieu de six mois. Andrew J. Russell / Adam Cuerden, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8313,8 +8307,8 @@ tags: technology
 <p>Herman Hollerith crée un système de traitement de l'information en utilisant des cartes perforées pour stocker et traiter des données pour le recensement des États-Unis. Les cartes perforées peuvent être lues rapidement et facilement par la machine, ce qui permet de traiter de grandes quantités de données de manière rapide et efficace. Ces cartes sont des feuilles de papier perforées de manière à représenter des informations numériques. Chaque carte contient plusieurs colonnes de perforations, chacune représentant un chiffre ou une valeur.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/hollerith.webp' | relative_url }}" alt="Photographie ancienne d'un atelier de perforation de cartes : des opératrices assises devant leurs machines, perforant les cartes du recensement à partir des bordereaux posés devant elles" width="400" loading="lazy" decoding="async" height="528" />
-  <br /><small><em>Opératrice sur une perforatrice : chaque trou code une réponse du recensement. Photo National Museum of Health and Medicine, CC BY 2.0, via Wikimedia Commons.</em></small>
+  <img src="{{ '/assets/img/hollerith.webp' | relative_url }}" alt="Gravure du Scientific American de 1890 : une employée du recensement assise devant une machine à compter électrique, un bordereau à la main, entourée de piles de cartes perforées et d'autres opérateurs au travail" width="622" loading="lazy" decoding="async" height="480" />
+  <br /><small><em>Les machines à compter électriques de Hollerith au recensement de 1890, gravure du Scientific American : chaque trou de la carte code une réponse, et la machine fait le total. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Pour lire les cartes perforées, la machine de Hollerith utilise un lecteur de cartes. Ce lecteur comprend plusieurs tiges métalliques qui passent à travers les perforations de la carte. Selon la position des perforations sur la carte, certaines tiges sont bloquées et d'autres non. En fonction de la combinaison de tiges bloquées ou non, la machine peut déterminer la valeur numérique représentée par la carte. Une fois que la machine a lu la carte, elle peut utiliser ces données pour effectuer des calculs et produire des résultats. Par exemple, si une carte représente un nombre de personnes et une autre représente un montant d'argent, la machine peut additionner ces valeurs pour obtenir un total.</p>
@@ -8344,7 +8338,7 @@ tags: technology
 <p>L'inventeur italien Guglielmo Marconi développe les premiers émetteurs et récepteurs radio. Il est l'un des premiers à comprendre que les ondes radio peuvent être utilisées pour la communication à distance et met au point un système de transmission de signaux à l'aide d'ondes radio à haute fréquence (HF).</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/marconi.webp' | relative_url }}" alt="Portrait photographique de Guglielmo Marconi : le jeune inventeur assis, la tête appuyée sur la main, à côté de son appareil de télégraphie sans fil posé sur la table" width="420" loading="lazy" decoding="async" height="466" />
+  <img src="{{ '/assets/img/marconi.webp' | relative_url }}" alt="Portrait photographique de Guglielmo Marconi : le jeune inventeur assis, la tête appuyée sur la main, à côté de son appareil de télégraphie sans fil posé sur la table" width="550" loading="lazy" decoding="async" height="341" />
   <br /><small><em>Guglielmo Marconi : les ondes hertziennes deviennent un moyen de communiquer, d'abord sur quelques mètres, puis d'un continent à l'autre. Photo Unidentified photographer. Smithsonian Institution from United States, No restrictions, via Wikimedia Commons.</em></small>
 </p>
 
@@ -8633,7 +8627,7 @@ tags: technology
 
 # 1930 ans
 
-<p>Il y a 2 milliards d'homo sapiens sur Terre.</p>
+<p>La population mondiale a franchi les 2 milliards d'êtres humains à la fin des années 1920.</p>
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=YfG2ajbFknM" data-id="YfG2ajbFknM" rel="noopener" aria-label="Lire la vidéo YouTube : Gandhi : la non-violence comme arme"><img src="https://i.ytimg.com/vi/YfG2ajbFknM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Gandhi : la non-violence comme arme »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8672,6 +8666,9 @@ tags: technology
 
 <p>SA et SS mènent des actions violentes contre les opposants politiques (communistes, sociaux-démocrates, syndicalistes). Les premières "expéditions punitives nazies" (1933) visent surtout les opposants politiques (communistes, sociaux-démocrates, syndicalistes), puis très vite les juifs et les violences contre leurs commerces.</p>
 
+<p style="text-align:center"><img src="{{ '/assets/img/boycottjuif.webp' | relative_url }}" alt="Photographie d'une vitrine de magasin pendant le boycott des commerces juifs : des mannequins en robes derrière la glace, sur laquelle une pancarte appelle les Allemands à n'acheter que dans des magasins allemands, avec sa traduction anglaise" loading="lazy" decoding="async" width="800" height="600" />
+  <br /><small><em>Vitrine placardée du mot d'ordre de boycott, avril 1933 : « Allemands, défendez-vous contre la propagande juive, n'achetez que chez des Allemands. »</em></small></p>
+
 # 1934 ans
 
 <p>La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.</p>
@@ -8692,21 +8689,21 @@ tags: technology
 # 1937 ans
 
 <p style="text-align:center"><img src="{{ '/assets/img/shanghai1937.webp' | relative_url }}" alt="Photographie de la bataille de Shanghai : une file de soldats casqués embusqués derrière un muret de briques dans une rue en ruine, arme au poing" loading="lazy" decoding="async" width="1200" height="955" />
-  <br /><small><em>Soldats japonais masqués à Shanghai, 1937. L'une des premières et des plus longues batailles urbaines de la guerre.</em></small></p>
+  <br /><small><em>Soldats japonais embusqués à Shanghai, 1937. L'une des premières et des plus longues batailles urbaines de la guerre.</em></small></p>
 
 <p>Offensive japonaise contre Shanghai, également connue sous le nom de Bataille de Shanghai. Cette bataille est l'une des premières et des plus longues batailles urbaines de la Seconde Guerre sino-japonaise. Cette offensive s'arrête avec la prise de contrôle de Shanghai par les forces japonaises.</p>
 
 # 1938 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/kristallnacht.webp' | relative_url }}" alt="Photographie des lendemains de la Nuit de Cristal : l'intérieur saccagé d'un magasin, meubles renversés et marchandises jetées à terre, tandis que des hommes en uniforme et en manteau circulent au milieu des débris" loading="lazy" decoding="async" width="1200" height="846" />
+<p style="text-align:center"><img src="{{ '/assets/img/kristallnacht.webp' | relative_url }}" alt="Photographie des lendemains de la Nuit de Cristal : l'intérieur saccagé d'une synagogue, bancs renversés et tissus liturgiques jetés au sol, tandis que des hommes en uniforme fouillent les décombres" loading="lazy" decoding="async" width="1200" height="846" />
   <br /><small><em>Synagogue saccagée après la Nuit de Cristal, novembre 1938. Les uniformes présents sur les lieux ne sont pas là pour empêcher : le pogrom est organisé.</em></small></p>
 
 <p>Le décret sur l'enregistrement des biens juifs (Verordnung über die Anmeldung des Vermögens von Juden) oblige tout Juif à déclarer ses biens au-dessus de 5 000 Reichsmark. C'est la base de données qui rend l'aryanisation systématique possible.</p>
 
 # 1939 ans
 
-<p style="text-align:center"><img src="{{ '/assets/img/boycottjuif.webp' | relative_url }}" alt="Photographie d'une vitrine de magasin pendant le boycott des commerces juifs : des mannequins en robes derrière la glace, sur laquelle une pancarte appelle les Allemands à n'acheter que dans des magasins allemands, avec sa traduction anglaise" loading="lazy" decoding="async" width="800" height="600" />
-  <br /><small><em>Vitrine placardée du mot d'ordre de boycott, avril 1933 : « Allemands, défendez-vous contre la propagande juive, n'achetez que chez des Allemands. »</em></small></p>
+<p style="text-align:center"><img src="{{ '/assets/img/ausschaltung1938.webp' | relative_url }}" alt="Photographie de la page du Reichsgesetzblatt du 12 novembre 1938 : le texte de la « Verordnung zur Ausschaltung der Juden aus dem deutschen Wirtschaftsleben », imprimé en caractères gothiques sur deux colonnes et signé Göring" loading="lazy" decoding="async" width="1024" height="1461" />
+  <br /><small><em>L'ordonnance « pour l'élimination des Juifs de la vie économique allemande », publiée au Reichsgesetzblatt du 12 novembre 1938 et signée Göring : interdiction d'exploiter commerces et ateliers à compter du 1ᵉʳ janvier 1939. Domaine public, via Wikimedia Commons.</em></small></p>
 
 <p>Le décret « pour l'élimination des Juifs de la vie économique allemande » (Verordnung zur Ausschaltung der Juden aus dem deutschen Wirtschaftsleben) impose la cession ou la liquidation forcée des entreprises juives, avec effet au 1er janvier 1939. </p>
 
@@ -9021,15 +9018,13 @@ tags: technology
 
 <p>Dans la nuit du 12 au 13 août, les Berlinois de l'Est se réveillent devant des barbelés. En quelques heures, l'armée est-allemande a coupé la ville en deux, rue par rue : on murera les fenêtres qui donnent du mauvais côté, on condamnera les bouches de métro, on séparera des familles pour vingt-huit ans.</p>
 
-<p>Le motif est une hémorragie. Depuis 1949, près de trois millions de personnes ont quitté la RDA en passant simplement à l'Ouest par Berlin — et ce sont les plus jeunes, les médecins, les ingénieurs. Aucun pays ne survit à cela. Le Mur n'est pas bâti pour empêcher d'entrer, mais pour empêcher de sortir : c'est la chose qu'un régime ne peut jamais avouer.</p>
+<p>Le motif est une hémorragie. Depuis 1949, près de trois millions de personnes ont quitté la RDA en passant simplement à l'Ouest par Berlin — et ce sont les plus jeunes, les médecins, les ingénieurs. Un État qui perd ainsi un sixième de sa population ne tient pas.</p>
+
+<p>Les barbelés deviennent un mur de béton doublé d'un no man's land éclairé, miné et gardé. Il faut mesurer ce qu'il a de particulier : depuis Jéricho, un mur sert à empêcher d'entrer. Celui-ci sert à empêcher de sortir. En le bâtissant, le régime admet publiquement que ses citoyens le quitteraient s'ils le pouvaient — c'est la chose qu'un pouvoir ne peut jamais avouer.</p>
 
 <p>Il deviendra l'image même de la guerre froide, et le meilleur argument jamais offert au camp d'en face — il suffisait de le montrer. Au moins cent trente-six personnes mourront en tentant de le franchir.</p>
 
 <p>Il tombera le 9 novembre 1989, en une soirée, sur un malentendu : un porte-parole est-allemand annonçant maladroitement une ouverture des frontières « immédiatement, sans délai », et une foule prenant l'annonce au mot devant des gardes sans consignes. Vingt-huit ans de béton emportés en quelques heures parce que personne n'osa tirer.</p>
-
-<p>Un État qui perd ainsi un sixième de sa population ne tient pas.</p>
-
-<p>Les barbelés deviennent un mur de béton doublé d'un no man's land éclairé, miné et gardé. Il faut mesurer ce qu'il a de particulier : depuis Jéricho, un mur sert à empêcher d'entrer. Celui-ci sert à empêcher de sortir. En le bâtissant, le régime admet publiquement que ses citoyens le quitteraient s'ils le pouvaient — et il lui faudra vingt-huit ans pour que la conséquence lui revienne à la figure.</p>
 
 # 1962 ans
 
@@ -9229,7 +9224,7 @@ tags: technology
 
 <p>Sortie de WordStar 1.0. C'est le moment où le logiciel de traitement de texte devient un produit autonome, acheté séparément, interchangeable. Le logiciel n'est plus soudé à une machine particulière. Il vit sa propre vie. On paye le logiciel pour lui-même — l'exact inverse du modèle « tout compris » d'IBM.</p>
 
-<p>En Chine, la même année, un homme de soixante-treize ans, deux fois purgé pendant la Révolution culturelle, prend la direction du pays. Deng Xiaoping ne change pas de régime : il change de critère. Les communes populaires sont démantelées, les paysans retrouvent le droit de vendre leur surplus, des « zones économiques spéciales » s'ouvrent sur la côte aux capitaux étrangers, les étudiants repartent à l'université et à l'étranger.</p>
+<p>En Chine, la même année, un homme de soixante-quatorze ans, deux fois purgé pendant la Révolution culturelle, prend la direction du pays. Deng Xiaoping ne change pas de régime : il change de critère. Les communes populaires sont démantelées, les paysans retrouvent le droit de vendre leur surplus, des « zones économiques spéciales » s'ouvrent sur la côte aux capitaux étrangers, les étudiants repartent à l'université et à l'étranger.</p>
 
 <p>La formule qu'on lui prête — peu importe que le chat soit noir ou blanc pourvu qu'il attrape les souris — dit assez le renversement : ce qui compte n'est plus la pureté idéologique, c'est le résultat. Ce qui suit sera la sortie de pauvreté la plus rapide et la plus massive de toute l'histoire humaine, plusieurs centaines de millions de personnes en une génération. Sans que le parti ne cède à aucun moment une once de pouvoir politique — et c'est exactement ce que 1989 viendra rappeler.</p>
 
@@ -9326,8 +9321,8 @@ tags: technology
 <p>Fin de l'Union soviétique (URSS). Eltsine accepte sans violence le départ de l’Ukraine et de la Biélorussie, signant avec ses homologues ukrainien et biélorusse les accords de Belovej, qui actent la dissolution de l'URSS.</p>
 
 <p style="text-align:center">
-  <img src="{{ '/assets/img/finurss.webp' | relative_url }}" alt="Deux photographies superposées du Grand Palais du Kremlin, prises depuis le même point de vue : sur la première flotte le drapeau rouge soviétique, sur la seconde le drapeau tricolore de la Fédération de Russie" width="600" loading="lazy" decoding="async" height="402" />
-  <br /><small><em>Des chars dans Moscou en août 1991 : le putsch manqué contre Gorbatchev précipite la dissolution de l'URSS, quatre mois plus tard. Photo Ivan Simochkin, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
+  <img src="{{ '/assets/img/finurss.webp' | relative_url }}" alt="Deux photographies superposées du Grand Palais du Kremlin, prises depuis le même point de vue : sur la première flotte le drapeau rouge soviétique, sur la seconde le drapeau tricolore de la Fédération de Russie" width="358" loading="lazy" decoding="async" height="538" />
+  <br /><small><em>Le Grand Palais du Kremlin avant et après : le drapeau rouge marqué « CCCP » descend le 25 décembre 1991, le tricolore russe le remplace. Photo Ivan Simochkin, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
 <p>Le premier serveur Web est mis en ligne, ce qui permet aux utilisateurs d'accéder au Web depuis n'importe quel ordinateur connecté à Internet. Pour mettre en ligne un serveur Web, il faut suivre les étapes suivantes:</p>
