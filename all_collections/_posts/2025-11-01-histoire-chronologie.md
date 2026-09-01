@@ -154,11 +154,6 @@ tags: technology
 
 # -12 700 000 000 d'années
 
-<p style="text-align:center">
-  <img src="/assets/img/mathusalem.webp" alt="Infographie « Mathusalem : la plus vieille planète connue (12,7 milliards d'années) » : une frise du contexte cosmologique depuis le Big Bang, un schéma de son système — un pulsar et une naine blanche au cœur de l'amas globulaire M4, avec la géante gazeuse de 2,5 masses de Jupiter — et un encadré sur ce que sa précocité nous apprend de la formation des planètes" width="700" loading="lazy" decoding="async" height="382" />
-  <br /><small><em>L'étoile de Mathusalem, l'une des plus vieilles connues : sa pauvreté en éléments lourds trahit une naissance très précoce.</em></small>
-</p>
-
 <p>Naît la plus vieille planète que nous connaissions : une géante gazeuse de 2,5 masses de Jupiter, surnommée Mathusalem. Formée autour d'une étoile semblable au Soleil, elle finira capturée au cœur de l'amas globulaire M4, en orbite autour d'un pulsar et d'une naine blanche. L'univers n'a alors qu'environ un milliard d'années — et M4 est pourtant très pauvre en éléments lourds. Elle nous apprend une chose : les planètes n'ont pas attendu. Elles se forment presque aussi tôt que les étoiles.</p>
 
 <p style="text-align:center">
@@ -188,11 +183,6 @@ tags: technology
 <p>Les galaxies sont beaucoup plus proches les unes des autres qu'elles ne le sont aujourd'hui.</p>
 
 <p>Le taux net de formation d'étoiles atteint son maximum. Des phénomènes tels que les explosions stellaires et les jets de matière provenant des trous noirs ont lieu en abondance. C'est une période connue sous le nom de « midi cosmique » (l'époque de formation maximale des étoiles), durant laquelle plus de la moitié des étoiles de l'Univers actuel se sont formées. Selon les observations de galaxies lointaines, le taux de formation stellaire y est environ dix fois plus élevé qu'aujourd'hui.</p>
-
-<p style="text-align:center">
-  <img src="/assets/img/fusionKraken.webp" alt="Infographie « La fusion fondatrice : l'événement clé du midi cosmique » : la proto-Voie lactée, il y a environ 11 milliards d'années, entre en collision avec la galaxie « Kraken » ; une large flèche mène à la Voie lactée mature d'aujourd'hui, dont plus de la moitié des étoiles se sont formées à cette époque, les amas globulaires fossiles servant de preuve de la fusion" width="700" loading="lazy" decoding="async" height="382" />
-  <br /><small><em>La fusion dite du Kraken : les grandes galaxies se sont bâties en absorbant leurs voisines, l'une après l'autre.</em></small>
-</p>
 
 <p>La Voie lactée, encore quatre fois moins massive qu'aujourd'hui, connaît la plus grande fusion de son histoire : la collision avec « Kraken », une galaxie aujourd'hui disparue, absorbée par la nôtre. Ce n'est pas la fusion qui apporta le plus d'étoiles en masse absolue, mais c'est la plus majeure par son rapport de masse: survenant très tôt, quand la galaxie hôte était encore petite, elle a profondément transformé la structure de la Voie lactée naissante.</p>
 
