@@ -7047,7 +7047,7 @@ tags: technology
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/royalsociety.webp' | relative_url }}" alt="Armoiries de la Royal Society : un écu aux trois lions d'Angleterre tenu par deux lévriers, surmonté d'un aigle en cimier, au-dessus d'un listel portant la devise « Nullius in verba »" width="523" loading="lazy" decoding="async" height="569" />
-  <br /><small><em>La Royal Society et sa devise : nullius in verba — ne croire personne sur parole. Photo MostEpic, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
+  <br /><small><em>Les armes de la Royal Society, gravées sur la page de titre de la Micrographia de Hooke (1665), et sa devise : nullius in verba — ne croire personne sur parole. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
 <p>C'est la réponse institutionnelle au problème qu'on a rencontré chez Léonard. Un homme seul, si génial soit-il, remplit des carnets qui se perdent. Ce qui manquait n'était pas l'intelligence, c'était le dispositif : un lieu où l'on refait devant témoins l'expérience d'un autre, une revue où l'on publie ce qu'on a trouvé et comment on l'a trouvé, une correspondance qui met en relation un Italien et un Hollandais qui ne se verront jamais.</p>

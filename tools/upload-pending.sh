@@ -50,11 +50,25 @@ elif [ "$PURGE" = "1" ]; then
   echo "suppression des .mkv :"
   printf '%s\n' "$MKV" | while IFS= read -r k; do
     [ -n "$k" ] || continue
+    if grep -rqF "$k" --include="*.md" --include="*.html" --include="*.yml" \
+         "$REPO/all_collections" "$REPO/_layouts" "$REPO/_includes" 2>/dev/null; then
+      echo "  ! conserve (encore reference) : $k"
+      continue
+    fi
     echo "  - $k"
     aws s3 rm "s3://$R2_BUCKET/$k" --endpoint-url "$EP" --only-show-errors
   done
 else
-  echo ".mkv encore presents (aucun n'est reference par le site) :"
-  printf '%s\n' "$MKV" | sed 's/^/  /'
-  echo "relance avec --purge-mkv pour les supprimer."
+  echo ".mkv encore presents dans le bucket :"
+  printf '%s\n' "$MKV" | while IFS= read -r k; do
+    [ -n "$k" ] || continue
+    # Verification reelle : le fichier est-il cite quelque part dans le site ?
+    if grep -rqF "$k" --include="*.md" --include="*.html" --include="*.yml" \
+         "$REPO/all_collections" "$REPO/_layouts" "$REPO/_includes" 2>/dev/null; then
+      echo "  [REFERENCE - NE PAS SUPPRIMER] $k"
+    else
+      echo "  [orphelin] $k"
+    fi
+  done
+  echo "relance avec --purge-mkv pour supprimer les orphelins."
 fi
