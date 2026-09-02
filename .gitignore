@@ -1,3 +1,4 @@
 _site/
 tools/videos-status.json
 tools/r2.env
+tools/r2-aws.conf
