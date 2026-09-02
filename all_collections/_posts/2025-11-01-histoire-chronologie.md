@@ -4695,7 +4695,7 @@ tags: technology
 
 <p>L'humanité aura donc bâti son calendrier universel sur une année approximative.</p>
 
-# 9 ans
+# 9 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/teutobourg.webp' | relative_url }}" alt="Gravure de la bataille de Teutobourg : des légionnaires romains submergés par les guerriers germains dans une forêt marécageuse, boucliers et enseignes renversés" loading="lazy" decoding="async" width="900" height="587" />
@@ -4710,7 +4710,7 @@ tags: technology
 
 <p>Auguste, vieillissant, ne s'en remit jamais. Suétone raconte qu'il laissa pousser sa barbe et ses cheveux pendant des mois.</p>
 
-# 14 ans
+# 14 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/mausoleeauguste.webp' | relative_url }}" alt="Photographie du mausolée d'Auguste à Rome : l'énorme tambour circulaire de maçonnerie antique, percé de son entrée voûtée, cerné de cyprès" loading="lazy" decoding="async" width="1200" height="857" />
   <br /><small><em>Le mausolée d'Auguste à Rome. L'empereur meurt à soixante-quinze ans dans son lit — exploit qu'aucun homme puissant n'avait réussi depuis des générations — en laissant un régime sans règle de succession.</em></small></p>
@@ -4719,7 +4719,7 @@ tags: technology
 
 <p>Il laisse un empire pacifié, une administration qui fonctionne — et un problème insoluble qu'il lègue à ses successeurs : ce régime n'a pas de règle de succession, puisqu'il n'est officiellement pas une monarchie. On se transmettra donc le pouvoir par adoption, par intrigue et, très souvent, par le meurtre. Son beau-fils Tibère lui succède. Rome ne redeviendra jamais une république.</p>
 
-# 15 ans
+# 15 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/germanicus.webp' | relative_url }}" alt="Photographie d'un buste romain en marbre de Germanicus : un homme jeune au visage régulier et à la coiffure en mèches courtes, le buste brisé sous les épaules" loading="lazy" decoding="async" width="1200" height="1494" />
   <br /><small><em>Buste romain de Germanicus. Neveu de Tibère et idole des légions, il ramène ses hommes sur le site de Teutobourg, six ans après le désastre, pour y ensevelir les ossements des trois légions perdues.</em></small></p>
@@ -4728,7 +4728,7 @@ tags: technology
 
 <p>Ce qu'ils découvrent est un cauchemar. Des ossements blanchis en tas, isolés ou groupés selon que les hommes avaient fui ou tenu bon. Des crânes cloués aux troncs d'arbres. Des autels de fortune où les officiers capturés avaient été égorgés en offrande aux dieux germaniques. Les soldats enterrent les restes de leurs camarades sans pouvoir distinguer les inconnus de leurs propres parents. Tacite tirera de cette scène l'une des grandes pages de la littérature latine.</p>
 
-# 16 ans
+# 16 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/idistaviso.webp' | relative_url }}" alt="Carte des campagnes de Germanicus en Germanie : l'Empire romain et ses alliés en vert, les peuples germains non soumis en jaune, avec les forteresses légionnaires, les batailles et les itinéraires des colonnes romaines" loading="lazy" decoding="async" width="1200" height="955" />
   <br /><small><em>Carte des campagnes de Germanicus en Germanie. On peut battre les tribus en rase campagne ; on ne peut pas les tenir — elles se dispersent, se reforment ailleurs et disparaissent dans les bois.</em></small></p>
@@ -4737,14 +4737,14 @@ tags: technology
 
 <p>Et pourtant, rien n'est réglé. Les tribus se dispersent, se reforment ailleurs, disparaissent dans les bois : on peut battre les Germains, on ne peut pas les tenir. Tibère en tire la conclusion et rappelle son neveu — mieux vaut consolider le Rhin que se ruiner à conquérir des marécages. La frontière de l'Empire est fixée pour quatre siècles.</p>
 
-# 19 ans
+# 19 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/mortgermanicus.webp' | relative_url }}" alt="Photographie de « La Mort de Germanicus » de Nicolas Poussin : le général agonisant sur son lit sous un dais bleu, entouré de sa famille éplorée et de ses officiers qui, le bras tendu, jurent de le venger" loading="lazy" decoding="async" width="1200" height="893" />
   <br /><small><em>« La mort de Germanicus », Nicolas Poussin, 1627. Il meurt en Orient à trente-trois ans, convaincu jusqu'au bout d'avoir été empoisonné sur ordre de Rome : son tort avait été d'être trop aimé.</em></small></p>
 
 <p>Germanicus meurt en Orient, à trente-trois ans, convaincu jusqu'à son dernier souffle d'avoir été empoisonné sur ordre de Rome. Son tort avait été d'être trop aimé : les légions l'adoraient, le peuple aussi, et Tibère ne pardonnait pas cette popularité. Sa mort déclenche à Rome une explosion de chagrin populaire et un procès retentissant. Le régime impérial vient de montrer sa mécanique : il n'y a pas de place pour deux hommes admirés.</p>
 
-# 21 ans
+# 21 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/arminius.webp' | relative_url }}" alt="Photographie de l'Hermannsdenkmal, dans la forêt de Teutobourg : une statue colossale en cuivre représentant un guerrier casqué et ailé brandissant son épée, dressée au sommet d'un socle circulaire" loading="lazy" decoding="async" width="1200" height="1800" />
   <br /><small><em>L'Hermannsdenkmal, monument colossal élevé au XIXᵉ siècle dans la forêt de Teutobourg. L'Allemagne romantique s'est choisi pour héros national un chef chérusque qui était, de son vivant, un citoyen romain de rang équestre.</em></small></p>
@@ -4753,7 +4753,7 @@ tags: technology
 
 <p>Tacite lui rendra un hommage qu'aucun ennemi de Rome n'avait reçu : celui d'un homme qui affronta l'Empire à son apogée, non à ses débuts, et qui ne fut jamais vaincu. Dix-huit siècles plus tard, l'Allemagne en quête d'unité nationale le ressuscitera sous le nom d'Hermann et lui dressera un colosse de cuivre de cinquante mètres, épée pointée vers l'ouest. Comme Vercingétorix en France, il aura fallu attendre le XIXᵉ siècle pour que le vaincu devienne un héros — et pour la même raison : les nations modernes avaient besoin d'ancêtres.</p>
 
-# 30 ans
+# 30 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/crucifixion.webp' | relative_url }}" alt="Photographie d'une icône de la Crucifixion sur fond d'or : le Christ en croix au centre, encadré par la Vierge et saint Jean debout dans de longues robes bleues" loading="lazy" decoding="async" width="1200" height="1535" />
   <br /><small><em>La Crucifixion, icône sur fond d'or. La croix n'est pas une peine religieuse mais un châtiment politique romain, réservé aux esclaves et aux séditieux — ce jour-là, rien ne signale un événement historique.</em></small></p>
@@ -4764,7 +4764,7 @@ tags: technology
 
 <p>Ils ne fondent pourtant aucune religion nouvelle : ce sont des Juifs qui fréquentent le Temple et observent la Loi, persuadés que le Messie promis est venu. Le christianisme n'existe pas encore ; il n'est qu'un courant minoritaire au sein du judaïsme, une secte de plus dans un judaïsme qui en compte beaucoup. Il faudra une génération, la destruction du Temple et surtout un homme — un pharisien nommé Paul, qui décidera d'annoncer ce message aux non-Juifs — pour que cette poignée de fidèles devienne autre chose. Personne, en l'an 30, ne pourrait imaginer que l'Empire qui vient de crucifier cet homme adoptera un jour sa religion.</p>
 
-# 43 ans
+# 43 apr. J.-C.
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=dZwBb0tVktA" data-id="dZwBb0tVktA" rel="noopener" aria-label="Lire la vidéo YouTube : Comment l'invention du fer à cheval a transformé l'Empire romain"><img src="https://i.ytimg.com/vi/dZwBb0tVktA/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment l'invention du fer à cheval a transformé l'Empire romain »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -4772,7 +4772,7 @@ tags: technology
 
 <p>Le calcul est bon. Claude vient personnellement recevoir la reddition de Camulodunum, escorté d'éléphants de guerre pour l'effet, et rentre triompher à Rome après seize jours passés sur l'île. La conquête réelle, elle, prendra des décennies — et ne sera jamais complète : les Romains tiendront le sud et le centre, mais les montagnes du nord, l'actuelle Écosse, leur resteront insoumises.</p>
 
-# 49 ans
+# 49 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/concilejerusalem.webp' | relative_url }}" alt="Icône représentant les apôtres Pierre et Paul debout côte à côte sur fond d'or, portant ensemble une maquette d'église ; Pierre tient ses clés, Paul un livre" loading="lazy" decoding="async" width="418" height="551" />
   <br /><small><em>Pierre et Paul, icône grecque du XIXᵉ siècle. Les deux hommes s'affrontent à Jérusalem sur une question qui paraît technique : faut-il devenir juif pour devenir chrétien ? Domaine public, via Wikimedia Commons.</em></small></p>
@@ -4783,7 +4783,7 @@ tags: technology
 
 <p>La décision tombe : les non-Juifs sont dispensés de la circoncision et de l'essentiel de la Loi. Quelques règles minimales suffisent. Sur le moment, ce n'est qu'un compromis pratique entre des gens qui se disputent ; en réalité, c'est le jour où le christianisme cesse d'être un judaïsme pour devenir une religion universelle — ouverte à quiconque y adhère, sans condition d'appartenance à un peuple. Sans cette décision, il serait probablement resté un courant marginal, éteint avec la destruction du Temple vingt ans plus tard. Avec elle, il peut se répandre dans tout l'Empire — ce qu'il fera.</p>
 
-# 50 ans
+# 50 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/saintpaul.webp' | relative_url }}" alt="Photographie du « Saint Paul » du Greco : l'apôtre barbu drapé de rouge et de bleu, tenant une épée d'une main et une lettre ouverte de l'autre" loading="lazy" decoding="async" width="1200" height="1133" />
   <br /><small><em>Saint Paul, par le Greco : l'épée du martyre et une épître à la main. Il parcourt l'Empire à pied et par bateau, vise les grands ports, fonde une communauté, s'en va — et garde le contact par lettres.</em></small></p>
@@ -4794,7 +4794,7 @@ tags: technology
 
 <p>Le voyage lui-même est un produit de l'Empire : les routes romaines, la sécurité relative des mers, le grec parlé partout comme langue commune, la citoyenneté qui le protège des magistrats locaux. Rome, sans le savoir, fournit à cette religion son réseau de diffusion — et finira, trois siècles plus tard, par l'adopter.</p>
 
-# 59 ans
+# 59 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/bretagneromaine.webp' | relative_url }}" alt="Carte de la Bretagne romaine : le réseau des voies romaines reliant les cités et les camps, avec le nom des peuples de l'île, sous le titre « Roman Britain »" loading="lazy" decoding="async" width="1200" height="1577" />
   <br /><small><em>Carte de la Bretagne romaine : routes, camps et cités. Rome tient l'île trois siècles et demi, mais jamais au-delà de la ligne fortifiée que trace Hadrien.</em></small></p>
@@ -4803,7 +4803,7 @@ tags: technology
 
 <p>Le calcul échoue. Les fonctionnaires impériaux considèrent simplement que tout leur revient. Ils annexent le royaume, saisissent les terres des nobles, réclament le remboursement immédiat de prêts consentis par des créanciers romains — parmi lesquels le philosophe Sénèque, précepteur de Néron, qui avait placé là une fortune. Puis, devant la protestation de la veuve, ils vont plus loin : la reine Boudicca est fouettée et ses filles violées. Le fouet est un châtiment d'esclave, infligé pour être vu — à travers ces corps, c'est la maison royale des Icènes que Rome efface.</p>
 
-# 60 ans
+# 60 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/boudicca.webp' | relative_url }}" alt="Photographie du monument à Boudicca : un groupe de bronze montrant la reine debout sur un char lancé par deux chevaux cabrés, bras levé, ses filles à ses côtés" loading="lazy" decoding="async" width="495" height="345" />
@@ -4818,7 +4818,7 @@ tags: technology
 
 <p>La vengeance est totale. Camulodunum tombe la première : ville de vétérans, symbole de la spoliation, sans murailles — on n'avait pas jugé utile d'en construire. Son temple, où la population se réfugie, résiste deux jours avant d'être pris et brûlé. Puis Londinium, le port marchand : le gouverneur, revenu en hâte avec sa cavalerie, juge la ville indéfendable et l'abandonne à son sort — il emmène qui peut le suivre, et laisse les autres. Puis Verulamium. Trois villes, presque aucun survivant — Tacite parle de soixante-dix mille morts. L'archéologie confirme : sous les rues de Londres court une couche d'argile rougie par l'incendie, qu'on appelle encore la « couche de Boudicca ».</p>
 
-# 61 ans
+# 61 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/watlingstreet.webp' | relative_url }}" alt="Photographie d'une reconstitution de légionnaires romains en formation de tortue : les soldats serrés joignent leurs boucliers rouges sur les côtés et au-dessus de leurs têtes, enseigne dressée au centre" loading="lazy" decoding="async" width="1200" height="838" />
   <br /><small><em>Reconstitution moderne de la tortue romaine, boucliers joints au-dessus des têtes. Face à Boudicca, Suetonius Paulinus choisit un défilé étroit qui interdit tout débordement : le rapport de force s'inverse en une journée.</em></small></p>
@@ -4827,7 +4827,7 @@ tags: technology
 
 <p>Rome gardera l'île trois siècles et demi, mais la leçon portera : Néron songe un instant à évacuer la Bretagne, et les gouverneurs suivants apprendront à ménager les élites locales. Quant à la reine vaincue, elle connaîtra le sort des grands vaincus — l'oubli, puis la résurrection. Redécouverte à la Renaissance, adoptée par l'Angleterre victorienne qui voyait en elle l'ancêtre d'une autre reine régnant sur un empire, elle trône aujourd'hui en bronze sur son char, face au Parlement de Londres. La femme qui brûla la ville en monte désormais la garde.</p>
 
-# 64 ans
+# 64 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/neron.webp' | relative_url }}" alt="Photographie d'un buste de Néron en marbre : un homme jeune au cou épais et au visage empâté, la frange peignée en mèches sur le front, sur fond noir" loading="lazy" decoding="async" width="728" height="900" />
@@ -4848,7 +4848,7 @@ tags: technology
 
 <p>C'est la première persécution d'État connue, et elle inaugure deux siècles d'un rapport ambigu : le pouvoir romain, d'ordinaire tolérant en matière de religions, ne sait que faire d'un culte qui refuse absolument de sacrifier aux dieux de l'Empire. La tradition situe dans ces années la mort de Pierre et de Paul à Rome. Le sang versé n'éteint rien.</p>
 
-# 67 ans
+# 67 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/templechevalblanc.webp' | relative_url }}" alt="Photographie du temple du Cheval blanc, à Luoyang : le pavillon d'entrée aux colonnes et portes rouges, sous ses larges toits de tuiles à angles relevés, devant lequel passent des visiteurs" loading="lazy" decoding="async" width="1200" height="859" />
   <br /><small><em>Le temple du Cheval blanc, à Luoyang. La tradition en fait le premier monastère bouddhique de Chine, fondé après le rêve d'un empereur — récit composé bien plus tard, pour donner au bouddhisme des lettres de naturalisation chinoises.</em></small></p>
@@ -4861,7 +4861,7 @@ tags: technology
 
 <p>L'événement, lui, reste immense : pour la première fois, une grande civilisation adopte une religion venue d'un monde étranger. L'adaptation prendra des siècles, car il faut traduire en chinois des concepts qui n'y existent pas — trouver des mots pour le karma, le nirvana, la réincarnation. Les premiers traducteurs empruntent au vocabulaire taoïste, quitte à déformer : le nirvana devient le « non-agir », et le Bouddha ressemble d'abord à un immortel taoïste de plus. C'est ainsi que voyagent les religions — non par conquête, mais par malentendus féconds, jusqu'à devenir autre chose. De cette greffe naîtront le bouddhisme chinois, puis coréen, puis japonais — et notamment le chan, que le Japon appellera zen.</p>
 
-# 79 ans
+# 79 apr. J.-C.
 
 <p>Le Vésuve explose. Une colonne de cendres et de pierre ponce s'élève à plus de trente kilomètres d'altitude, puis retombe sur les villes voisines — à Pompéi, les toits cèdent sous le poids. Au petit matin, la colonne s'effondre sur elle-même et dévale les pentes en nuées ardentes : un mélange de gaz et de cendres à plusieurs centaines de degrés, filant à la vitesse d'un train. Tout ce qu'elles touchent meurt en quelques secondes. Pompéi disparaît sous six mètres de débris, Herculanum sous vingt.</p>
 
@@ -4876,7 +4876,7 @@ tags: technology
   <br /><small><em>Moulages de plâtre coulés dans les cavités laissées par les corps, Pompéi. Photo Sparrow (麻雀), CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 100 ans
+# 100 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/charrue.webp' | relative_url }}" alt="Dessin au trait d'après un manuscrit médiéval : un paysan guide une charrue à versoir tirée par un attelage de bœufs, tandis qu'un autre homme conduit les bêtes à l'aiguillon" loading="lazy" decoding="async" width="1200" height="364" />
   <br /><small><em>Le labour à la charrue, dessin d'après un manuscrit médiéval. Contrairement à l'araire antique, qui ouvre le sol sans le retourner, la charrue à versoir renverse la terre — ce qui la rend enfin capable des sols lourds du Nord.</em></small></p>
@@ -4887,7 +4887,7 @@ tags: technology
 
 <p>L'engin qui saura le faire, la charrue à versoir, mettra encore des siècles à apparaître, et il ne s'imposera qu'au Moyen Âge, avec le collier d'épaule qui permettra enfin d'atteler des chevaux. Alors seulement, les grandes plaines du nord de l'Europe — jusque-là marginales — deviendront le grenier du continent, et le centre de gravité de l'Occident basculera de la Méditerranée vers le Nord. Tout cela commence ici, avec une pointe de fer et deux roues.</p>
 
-# 122 ans
+# 122 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/murhadrien.webp' | relative_url }}" alt="Photographie du mur d'Hadrien : la muraille de pierre sèche court sur la crête d'un escarpement rocheux et se perd dans les collines à l'horizon" loading="lazy" decoding="async" width="900" height="598" />
@@ -4898,7 +4898,7 @@ tags: technology
 
 <p>Le geste est un aveu autant qu'un ouvrage. Rome, qui avait passé cinq siècles à s'étendre, renonce ici officiellement à conquérir plus loin — comme elle l'avait fait sur le Rhin après Teutobourg, comme elle le fera sur l'Euphrate. L'Empire cesse d'être une entreprise de conquête pour devenir une entreprise de conservation. Et une frontière fortifiée, c'est aussi une frontière qu'on peut un jour ne plus tenir.</p>
 
-# 150 ans
+# 150 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/teotihuacan.webp' | relative_url }}" alt="Photographie de Teotihuacan : l'allée des Morts s'étire en ligne droite entre les basses plates-formes à degrés, avec la pyramide du Soleil qui domine la vallée à gauche" loading="lazy" decoding="async" width="900" height="600" />
@@ -4913,7 +4913,7 @@ tags: technology
 
 <p>Et pourtant, mystère complet — le même que celui de l'Indus. Aucun palais royal identifié, aucun portrait de souverain, aucune tombe dynastique, aucun texte qui nomme qui que ce soit. Une capitale immense dont nous ignorons jusqu'au nom que lui donnaient ses habitants, et jusqu'à la forme de son gouvernement. Vers 550, son centre cérémoniel est incendié. Des siècles plus tard, les Aztèques découvriront les ruines, jugeront qu'aucun homme n'a pu bâtir cela, et les baptiseront Teotihuacan : « le lieu où l'on devient dieu ».</p>
 
-# 184 ans
+# 184 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/turbansjaunes.webp' | relative_url }}" alt="Gravure sur bois chinoise figurant la révolte des Turbans jaunes : des combattants armés de lances et de sabres s'affrontent parmi les arbres, dans deux panneaux encadrés de colonnes de caractères" loading="lazy" decoding="async" width="500" height="413" />
   <br /><small><em>Gravure sur bois chinoise figurant les combats de la révolte des Turbans jaunes. La cour l'écrase, mais au prix d'une décision fatale : confier des armées aux gouverneurs de province, qui ne les rendront jamais.</em></small></p>
@@ -4924,7 +4924,7 @@ tags: technology
 
 <p>La cour finit par écraser la rébellion — mais au prix d'une décision fatale : pour y parvenir, elle a dû confier des armées aux gouverneurs et aux grandes familles de province. Ces généraux victorieux ne rendront jamais leurs troupes. L'empereur devient leur otage, puis leur prétexte. Le mécanisme mérite d'être noté : c'est en armant ses défenseurs qu'un pouvoir central se condamne. Rome fera exactement la même découverte avec ses généraux barbares.</p>
 
-# 200 ans
+# 200 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/pontdugard.webp' | relative_url }}" alt="Photographie du pont du Gard : les trois étages d'arches en pierre blonde enjambent la rivière, dont les eaux calmes reflètent le monument sous un ciel nuageux" loading="lazy" decoding="async" width="900" height="547" />
@@ -4939,7 +4939,7 @@ tags: technology
 
 <p>Ce niveau de confort urbain sera perdu avec l'Empire, et il faudra attendre le XIXᵉ siècle pour que les villes européennes retrouvent des égouts et une eau courante comparables. Entre-temps, pendant plus de mille ans, on aura vécu plus sale que sous les Romains.</p>
 
-# 220 ans
+# 220 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/troisroyaumes.webp' | relative_url }}" alt="Carte ancienne de la Chine à l'époque des Trois Royaumes : les territoires du Wei, du Shu et du Wu délimités en pointillés sur le tracé des côtes et des fleuves" loading="lazy" decoding="async" width="1200" height="935" />
   <br /><small><em>Carte de la Chine des Trois Royaumes. L'empire éclate pour près de quatre siècles — mais l'idée impériale survit intacte : personne ne songe à autre chose qu'à le reconstituer.</em></small></p>
@@ -4950,7 +4950,7 @@ tags: technology
 
 <p>Ces guerres fratricides laisseront un héritage inattendu : mille ans plus tard, elles deviendront le <em>Roman des Trois Royaumes</em>, chef-d'œuvre de la littérature chinoise dont les héros, les stratagèmes et les serments sont aussi familiers en Asie orientale que ceux de l'Iliade en Occident. Une période de chaos transformée en légende nationale.</p>
 
-# 224 ans
+# 224 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/ardachir.webp' | relative_url }}" alt="Photographie d'un relief rupestre sassanide : l'investiture d'Ardachir Iᵉʳ, le roi et le dieu Ahura Mazda face à face sur leurs chevaux, sculptés dans la paroi rocheuse au-dessus d'un ennemi terrassé" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Relief rupestre de l'investiture d'Ardachir Iᵉʳ : le roi reçoit à cheval l'anneau du pouvoir des mains du dieu Ahura Mazda. Avec les Sassanides, le zoroastrisme devient religion d'État et Rome trouve un adversaire centralisé.</em></small></p>
@@ -4961,7 +4961,7 @@ tags: technology
 
 <p>Pour Rome, c'est un adversaire d'un genre nouveau. Les Parthes étaient une confédération de nobles toujours prompts à se diviser ; les Sassanides sont un État centralisé, riche, doté d'une cavalerie cuirassée et d'une véritable stratégie. Pour la première fois depuis des siècles, l'Empire romain fait face à un égal.</p>
 
-# 260 ans
+# 260 apr. J.-C.
 
 <p>Près d'Édesse, l'impensable se produit : l'empereur romain Valérien est capturé vivant par Shapur Iᵉʳ. Aucun empereur n'était jamais tombé aux mains d'un ennemi. Il mourra en captivité, et la tradition perse — reprise avec délectation par les chrétiens, qui voyaient là le châtiment d'un persécuteur — voudra que le roi des rois se soit servi de son dos comme marchepied pour monter à cheval.</p>
 
@@ -4974,7 +4974,7 @@ tags: technology
 
 <p>Rome et la Perse s'épuiseront l'une contre l'autre sur cette même frontière pendant quatre siècles, sans qu'aucune ne parvienne jamais à l'emporter. Jusqu'au jour où, exsangues toutes les deux, elles verront surgir du désert un troisième acteur qu'elles n'avaient pas vu venir.</p>
 
-# 312 ans
+# 312 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/constantin.webp' | relative_url }}" alt="Photographie de la tête colossale de Constantin : un visage de plusieurs mètres aux immenses yeux fixes tournés vers le haut, à la chevelure taillée en mèches régulières" loading="lazy" decoding="async" width="597" height="900" />
@@ -4985,7 +4985,7 @@ tags: technology
 
 <p>Le récit est ce qu'il est — écrit par des auteurs chrétiens, des années plus tard, avec les libertés que cela suppose. Mais l'essentiel n'est pas dans le prodige : c'est qu'un empereur romain vient d'attribuer sa victoire au dieu d'une secte persécutée dix ans plus tôt, dont les fidèles ne représentent peut-être qu'un dixième de la population. La religion des suppliciés de Néron devient celle du vainqueur.</p>
 
-# 313 ans
+# 313 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/editdemilan.webp' | relative_url }}" alt="Illustration du labarum de Constantin : un étendard de pourpre suspendu à une traverse, orné de trois médaillons impériaux et surmonté du chrisme formé des lettres grecques khi et rhô" loading="lazy" decoding="async" width="407" height="550" />
   <br /><small><em>Le labarum de Constantin, étendard au chrisme. L'édit de Milan ne fait pas du christianisme la religion de l'Empire : il proclame la liberté de culte et rend aux chrétiens les biens confisqués.</em></small></p>
@@ -4994,7 +4994,7 @@ tags: technology
 
 <p>Mais Constantin va bien au-delà de la tolérance : il exempte le clergé d'impôts, finance la construction de basiliques, offre des palais aux évêques, restitue et enrichit. En une génération, l'Église passe de la clandestinité à la fortune, et la conversion cesse d'être un risque pour devenir un avantage. Le nombre de fidèles explose — pour des raisons qui ne sont pas toutes spirituelles.</p>
 
-# 320 ans
+# 320 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/gupta.webp' | relative_url }}" alt="Photographie des deux faces d'une monnaie d'or gupta : au droit, le souverain debout devant un autel ; au revers, une divinité assise, frappés en relief sur un flan bosselé" loading="lazy" decoding="async" width="1200" height="592" />
   <br /><small><em>Monnaie d'or gupta, avers et revers. La dynastie fait de l'Inde du Nord l'un des foyers savants du monde ancien, à l'époque même où l'Occident romain se disloque.</em></small></p>
@@ -5007,7 +5007,7 @@ tags: technology
 
 <p>Ces dix signes passeront aux savants du monde musulman, puis de là à l'Europe — qui les appellera « chiffres arabes », oubliant au passage l'étape indienne. Toute l'arithmétique que tu as apprise à l'école commence ici.</p>
 
-# 325 ans
+# 325 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/nicee.webp' | relative_url }}" alt="Icône du premier concile de Nicée : les évêques nimbés assis en demi-cercle autour de l'empereur trônant, tenant le texte du symbole de foi, tandis qu'Arius gît terrassé au bas de l'image" loading="lazy" decoding="async" width="1200" height="1531" />
   <br /><small><em>Le premier concile de Nicée, icône : les évêques encadrent le texte du symbole de foi, Arius terrassé au bas de l'image. Constantin y préside en personne les débats d'une religion dont il n'est pas encore baptisé.</em></small></p>
@@ -5020,7 +5020,7 @@ tags: technology
 
 <p>Voilà ce que Nicée invente : non pas une croyance, mais une norme. À partir de ce jour, la foi a un texte officiel, ce qui s'en écarte porte un nom — l'hérésie — et l'État se charge de faire respecter la frontière. L'Église y gagne son unité, l'empereur un instrument de cohésion sans équivalent, et le désaccord religieux devient pour la première fois un problème politique.</p>
 
-# 326 ans
+# 326 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/crispus.webp' | relative_url }}" alt="Photographie des deux faces d'une petite monnaie de bronze au nom de Crispus, telle qu'elle sort de fouille : le profil impérial d'un côté, la légende de l'autre, avec des réglettes graduées en centimètres" loading="lazy" decoding="async" width="1200" height="763" />
   <br /><small><em>Petite monnaie de bronze au nom de Crispus, telle qu'on la retrouve en fouille. Un an après Nicée, Constantin fait exécuter ce fils aîné, puis son épouse Fausta, et fait marteler leurs noms sur les inscriptions.</em></small></p>
@@ -5035,7 +5035,7 @@ tags: technology
 
 <p>Les récits tardifs proposent une explication : Fausta aurait accusé son beau-fils d'avoir tenté de la séduire ; Constantin l'aurait cru et fait exécuter Crispus, puis, découvrant le mensonge, se serait vengé sur elle. D'autres y voient plus simplement une lutte de succession — une mère écartant le fils d'un premier lit pour dégager la voie aux siens, et un empereur supprimant les deux une fois qu'il a compris. Aucune version n'est vérifiable. Toutes disent la même chose du pouvoir impérial : il dévore d'abord ceux qui en sont le plus proches.</p>
 
-# 330 ans
+# 330 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/constantinople.webp' | relative_url }}" alt="Plan de Constantinople à l'époque byzantine : la ville en triangle entre la Corne d'Or, le Bosphore et la mer de Marmara, avec ses quartiers, ses monuments et la ligne des murailles terrestres, accompagné d'une légende et d'une échelle" loading="lazy" decoding="async" width="900" height="812" />
@@ -5058,7 +5058,7 @@ tags: technology
 
 <p>Cette Église-là ne disparaîtra pas. Coupée du reste de la chrétienté par la conquête arabe, l'Éthiopie gardera sa foi, sa liturgie et son alphabet propre pendant dix-sept siècles d'isolement.</p>
 
-# 337 ans
+# 337 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/baptemeconstantin.webp' | relative_url }}" alt="Photographie de la fresque du baptême de Constantin, à l'atelier de Raphaël : l'empereur agenouillé dans la vasque au centre d'un vaste baptistère à colonnes, entouré de la cour et du clergé" loading="lazy" decoding="async" width="1191" height="740" />
   <br /><small><em>« Le baptême de Constantin », fresque de l'atelier de Raphaël au Vatican. L'empereur ne se fit en réalité baptiser que sur son lit de mort — et par un évêque arien, c'est-à-dire par un adversaire de Nicée.</em></small></p>
@@ -5071,7 +5071,7 @@ tags: technology
 
 <p>La foi de l'Empire venait d'être fixée par écrit ; elle était encore loin d'être fixée dans les esprits. L'arianisme survivra longtemps, et il sera même la version du christianisme apportée aux peuples germaniques par leurs missionnaires. Quand ceux-ci s'installeront dans l'Empire, ils seront donc chrétiens — mais de la mauvaise sorte aux yeux de Rome, ce qui empoisonnera leurs rapports pendant deux siècles.</p>
 
-# 350 ans
+# 350 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/samkhya.webp' | relative_url }}" alt="Photographie d'un manuscrit indien sur feuille de palme : une longue lamelle percée de deux trous, couverte de lignes de caractères finement gravés" loading="lazy" decoding="async" width="1200" height="248" />
   <br /><small><em>Manuscrit indien sur feuille de palme. C'est sur ce support fragile, recopié de génération en génération, qu'ont voyagé les grands exposés philosophiques comme la Samkhyakarika.</em></small></p>
@@ -5084,7 +5084,7 @@ tags: technology
 
 <p>Le problème humain vient d'une confusion : le <em>purusha</em> s'identifie à ce qu'il observe et croit être le corps, les émotions ou les pensées. La libération vient lorsqu'il reconnaît qu'il en est distinct. Une recherche de la vie intérieure commencée de nombreux siècles auparavant reçoit ainsi une architecture philosophique extrêmement précise.</p>
 
-# 376 ans
+# 376 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/gothsdanube.webp' | relative_url }}" alt="Carte allemande des grandes migrations intitulée « Europa zur Zeit der Völkerwanderung » : les itinéraires des peuples germaniques, huns et slaves tracés en couleurs à travers l'Europe et le bassin méditerranéen, avec leur légende" loading="lazy" decoding="async" width="1200" height="726" />
   <br /><small><em>Carte allemande des grandes migrations. Ce ne sont pas les Huns qui abattent l'Empire d'Occident : c'est la pression qu'ils exercent, en poussant devant eux les peuples établis sur le Danube.</em></small></p>
@@ -5095,7 +5095,7 @@ tags: technology
 
 <p>L'accueil tourne au désastre. Les fonctionnaires chargés du ravitaillement affament délibérément les réfugiés pour leur revendre des vivres à prix d'or, allant, disent les sources, jusqu'à échanger de la viande de chien contre des enfants réduits en esclavage. Beaucoup gardent leurs armes en soudoyant les gardes. Désarmés en théorie, dépouillés en pratique, humiliés en tout, les Goths se soulèvent — et l'Empire découvre qu'il a laissé entrer une armée.</p>
 
-# 378 ans
+# 378 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/andrinople.webp' | relative_url }}" alt="Gravure du XIXᵉ siècle représentant la bataille d'Andrinople : une mêlée confuse de fantassins et de cavaliers, lances brisées et corps entassés au premier plan" loading="lazy" decoding="async" width="912" height="1305" />
   <br /><small><em>La bataille d'Andrinople, gravure du XIXᵉ siècle. Deux tiers de l'armée romaine d'Orient sont anéantis en un après-midi et l'empereur Valens disparaît dans la mêlée — on ne retrouvera jamais son corps.</em></small></p>
@@ -5106,7 +5106,7 @@ tags: technology
 
 <p>Ce n'est pas la défaite qui fait le tournant — Rome en avait subi de pires et s'en était relevée. C'est ce qu'elle révèle. L'Empire n'a plus les réserves d'hommes pour reconstituer une armée détruite ; il devra désormais recruter des barbares pour se défendre contre les barbares. Et les Goths, cette fois, ne repartent pas : ils demeurent à l'intérieur des frontières, armés, avec leurs chefs et leurs lois, ni sujets ni ennemis. Le principe même de l'Empire — les citoyens dedans, les autres dehors — vient de se fissurer.</p>
 
-# 380 ans
+# 380 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/theodose.webp' | relative_url }}" alt="Détail du missorium d'argent de Théodose Iᵉʳ : le buste de l'empereur, couronné d'un diadème perlé et entouré d'un nimbe, drapé dans un manteau richement orné" loading="lazy" decoding="async" width="485" height="627" />
   <br /><small><em>Théodose Iᵉʳ, détail du missorium d'argent : le nimbe autour de la tête impériale est déjà celui des saints. Son édit impose à tous les habitants de l'Empire d'être chrétiens, et d'une seule façon.</em></small></p>
@@ -5117,7 +5117,7 @@ tags: technology
 
 <p>Le premier ennemi visé n'est d'ailleurs pas le païen, mais le chrétien qui pense autrement — l'arien, dont Nicée n'avait pas réussi à régler le cas. C'est une constante : une religion d'État s'attaque d'abord à ses propres dissidents, avant de s'occuper des étrangers.</p>
 
-# 390 ans
+# 390 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/ambroise.webp' | relative_url }}" alt="Photographie du tableau de Van Dyck « Saint Ambroise interdisant à Théodose l'entrée de la cathédrale » : l'évêque en chape dorée barre le portail à l'empereur en manteau rouge, entouré de sa suite et du clergé" loading="lazy" decoding="async" width="1200" height="1590" />
   <br /><small><em>« Saint Ambroise interdisant à Théodose l'entrée de la cathédrale », Van Dyck. L'empereur cède, s'habille en pénitent et reste des mois exclu de la communion : c'est la première fois en Occident qu'une autorité religieuse fait plier le pouvoir politique.</em></small></p>
@@ -5132,7 +5132,7 @@ tags: technology
 
 <p>C'est la première fois en Occident qu'une autorité religieuse fait plier une autorité politique. Sept siècles plus tard, un empereur germanique attendra trois jours pieds nus dans la neige devant le château de Canossa pour obtenir le pardon d'un pape : toute cette histoire commence ici. En s'appuyant sur l'Église, l'État s'était donné un allié — il vient de comprendre qu'il s'est aussi donné un juge.</p>
 
-# 391 ans
+# 391 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/serapeum.webp' | relative_url }}" alt="Photographie du site du Serapeum à Alexandrie : les fondations et les blocs antiques dégagés au fond d'une esplanade, aujourd'hui cernés par les immeubles de la ville" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Le site du Serapeum à Alexandrie, aujourd'hui cerné par la ville. La foule chrétienne menée par son évêque y détruit l'un des plus beaux sanctuaires du monde antique.</em></small></p>
@@ -5143,7 +5143,7 @@ tags: technology
 
 <p>Dans la vallée du Nil, la conséquence sera plus silencieuse mais plus définitive encore. Les temples fermés, c'est la chaîne des prêtres qui se rompt — ceux-là mêmes qui se transmettaient, de génération en génération, la lecture des hiéroglyphes. Le savoir déclinait déjà, concurrencé par le grec ; l'édit lui porte le coup fatal. Il ne reste plus, tout au sud, que quelques sanctuaires trop lointains pour être atteints.</p>
 
-# 392 ans
+# 392 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/lararium.webp' | relative_url }}" alt="Photographie d'une peinture murale de laraire à Pompéi : sur l'enduit, le génie de la maison en toge tenant une coupe, encadré d'oiseaux et de rameaux, au-dessus d'un panneau rouge orné de serpents protecteurs" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Peinture murale de laraire à Pompéi : le génie de la maison, les serpents protecteurs, les oiseaux. Théodose proscrit jusqu'à la pratique domestique — plus d'encens devant ces images, plus de libation de vin.</em></small></p>
@@ -5154,7 +5154,7 @@ tags: technology
 
 <p>En moins d'un siècle, la religion qu'on suppliciait dans les jardins de Néron est devenue celle qui interdit toutes les autres. Et le mot « païen » — <em>paganus</em>, le paysan, le péquenaud des campagnes — dit assez le renversement : l'ancienne religion de l'Empire n'est plus qu'une survivance de culs-terreux.</p>
 
-# 394 ans
+# 394 apr. J.-C.
 
 <p>Le 24 août, sur la porte d'Hadrien au temple de Philae, à la frontière sud de l'Égypte, un prêtre grave quelques signes. C'est une inscription banale — une dédicace au dieu Mandoulis, accompagnée de la représentation du dieu et d'une prière pour l'éternité. Elle est signée : Esmet-Akhom, fils de Nesmeterakhem, scribe du livre d'Isis.</p>
 
@@ -5169,7 +5169,7 @@ tags: technology
 
 <p>Nul n'a su ce jour-là qu'il s'agissait d'une fin. Esmet-Akhom gravait une prière ordinaire ; il refermait, sans le savoir, une porte qui resterait close quatorze siècles.</p>
 
-# 400 ans
+# 400 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/patanjali.webp' | relative_url }}" alt="Photographie ancienne d'une sculpture de Patanjali : un buste humain aux mains jointes émergeant d'un corps de serpent enroulé, sous un dais de cobras déployés, entre deux chandeliers" loading="lazy" decoding="async" width="476" height="666" />
   <br /><small><em>Sculpture de Patanjali, buste humain émergeant d'un corps de serpent, mains jointes. Le Yoga Sutra qu'on lui attribue donne à des pratiques bien plus anciennes leur architecture canonique en huit membres.</em></small></p>
@@ -5180,7 +5180,7 @@ tags: technology
 
 <p>L'<em>ahimsa</em> vient avant les exercices corporels. Le yogin doit apprendre à ne pas nuire, à maîtriser ses désirs et à réduire son attachement aux possessions avant d'entreprendre les disciplines plus avancées. L'<em>asana</em> n'est encore nullement la succession complexe de postures que le monde moderne associera au yoga : il s'agit avant tout d'établir une posture stable permettant le travail méditatif.</p>
 
-# 402 ans
+# 402 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/yungang.webp' | relative_url }}" alt="Photographie ancienne d'un bouddha des grottes de Yungang : une statue colossale taillée dans la falaise, main levée en signe de protection, entourée de parois criblées de petites niches sculptées" loading="lazy" decoding="async" width="1005" height="1299" />
   <br /><small><em>Bouddha des grottes de Yungang, photographie ancienne. Les souverains venus des steppes qui règnent alors sur le nord de la Chine financent ces sanctuaires : une religion étrangère les dispense de se justifier devant les lettrés chinois.</em></small></p>
@@ -5193,7 +5193,7 @@ tags: technology
 
 <p>C'est aussi l'âge des grands traducteurs. Kumārajīva, moine d'Asie centrale amené en Chine comme prise de guerre, dirige à Chang'an un atelier de centaines de collaborateurs et donne des textes sanskrits des versions chinoises d'une telle beauté littéraire qu'elles sont encore récitées aujourd'hui. Le bouddhisme cesse alors d'être une importation mal comprise : il commence à parler chinois — et à devenir chinois.</p>
 
-# 410 ans
+# 410 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/sacrome410.webp' | relative_url }}" alt="Enluminure médiévale du sac de Rome : des guerriers escaladent et forcent les tours d'une ville aux hautes murailles blanches, tandis que les habitants tombent au premier plan" loading="lazy" decoding="async" width="532" height="653" />
@@ -5206,7 +5206,7 @@ tags: technology
 
 <p>Le choc est ailleurs : dans les têtes. Rome était l'idée d'éternité faite pierre ; on la croyait invincible depuis toujours. Saint Jérôme, apprenant la nouvelle depuis sa cellule de Bethléem, écrit que la douleur lui a coupé la parole. Et les païens accusent aussitôt les chrétiens : c'est en abandonnant les dieux qui la protégeaient depuis mille ans que Rome se serait perdue. L'accusation est grave, et elle exige une réponse.</p>
 
-# 413 ans
+# 413 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/augustin.webp' | relative_url }}" alt="Fresque représentant saint Augustin dans son cabinet : l'évêque assis à sa table de travail, la main au menton, entouré de livres et d'instruments, sous une architecture peinte" loading="lazy" decoding="async" width="585" height="900" />
@@ -5219,14 +5219,14 @@ tags: technology
 
 <p>L'effet est double, et durable. Il libère le christianisme de son mariage avec l'Empire — on peut être chrétien sans que Rome existe, ce qui sera bien utile dans les siècles qui viennent. Et il fournit à l'Occident sa manière de penser l'histoire : non plus des cycles, comme chez les Anciens, mais une ligne qui va d'un commencement à une fin, avec un sens. Toutes les philosophies de l'histoire européennes, jusqu'aux plus laïques, descendront de ce schéma.</p>
 
-# 430 ans
+# 430 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/vandales.webp' | relative_url }}" alt="Carte du royaume vandale : le territoire des Vandales et des Alains, en violet, couvre l'Afrique du Nord et les îles de la Méditerranée occidentale, à côté des royaumes berbères d'Altava et des Aurès" loading="lazy" decoding="async" width="1200" height="893" />
   <br /><small><em>Carte du royaume vandale d'Afrique du Nord. Augustin meurt à Hippone pendant que les Vandales assiègent sa ville, après avoir passé sa vie à écrire que les cités des hommes sont périssables.</em></small></p>
 
 <p>Augustin meurt à Hippone, sa ville assiégée par les Vandales depuis trois mois. Il a soixante-quinze ans, il a passé sa vie à écrire que les cités des hommes sont périssables — et la sienne est en train de tomber sous ses fenêtres. La tradition rapporte qu'il avait fait copier sur les murs de sa chambre les psaumes de pénitence, pour les lire depuis son lit.</p>
 
-# 451 ans
+# 451 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/attila.webp' | relative_url }}" alt="Peinture représentant Attila : un cavalier lancé au galop sur un cheval blanc, brandissant son arme au-dessus de corps étendus au premier plan" loading="lazy" decoding="async" width="716" height="900" />
@@ -5239,7 +5239,7 @@ tags: technology
 
 <p>Le mécanisme mérite d'être noté : ce ne sont pas les Huns qui abattront l'Empire d'Occident. C'est la pression qu'ils exercent — en poussant devant eux, comme un chasse-neige, tous les peuples germaniques qui s'installeront à l'intérieur des frontières romaines.</p>
 
-# 452 ans
+# 452 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/aquilee.webp' | relative_url }}" alt="Photographie des ruines du forum d'Aquilée : les bases et les fûts de colonnes alignés dans l'herbe, bordés d'une haie de cyprès, avec le clocher de la basilique à l'arrière-plan" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Les ruines du forum d'Aquilée, alignées sous les cyprès. La ville est rasée par Attila sans laisser de traces ; ses habitants fuient vers les lagunes de l'Adriatique — la tradition y voit l'origine de Venise.</em></small></p>
@@ -5248,7 +5248,7 @@ tags: technology
 
 <p>Aux portes de Rome, le pape Léon Iᵉʳ vient à sa rencontre et obtient son retrait. L'Église en fera un miracle — la légende montrera saint Pierre et saint Paul apparaissant en armes au-dessus du pontife. Les historiens invoquent plutôt la famine, l'épidémie qui ravageait son armée et les renforts venus d'Orient. Reste le fait, chargé de sens : c'est un évêque, et non un empereur, qui a parlé au nom de Rome.</p>
 
-# 453 ans
+# 453 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/mortattila.webp' | relative_url }}" alt="Peinture du XIXᵉ siècle représentant la mort d'Attila : le roi hun étendu mort sur son lit dans une tente tendue de rouge, sa jeune épouse debout à côté, les bras levés d'effroi" loading="lazy" decoding="async" width="800" height="633" />
   <br /><small><em>« La mort d'Attila », peinture du XIXᵉ siècle. Il meurt la nuit de ses noces, étouffé dans son propre sang ; son empire se disloque en quelques mois et les Huns disparaissent presque aussi vite qu'ils étaient apparus.</em></small></p>
@@ -5257,7 +5257,7 @@ tags: technology
 
 <p>Son empire se disloque en quelques mois : ses fils se déchirent, les peuples soumis se révoltent, et les Huns disparaissent de l'histoire presque aussi vite qu'ils y étaient entrés. C'est la loi des empires des steppes — bâtis sur le prestige d'un seul homme, ils ne survivent pas à ses funérailles. Attila aura régné vingt ans et remodelé l'Europe sans laisser ni État, ni ville, ni tombe connue.</p>
 
-# 476 ans
+# 476 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/romulusaugustule.webp' | relative_url }}" alt="Photographie des deux faces d'un trémissis d'or au nom de Romulus Augustule : au droit, le buste diadémé du jeune empereur ; au revers, une croix dans une couronne de laurier" loading="lazy" decoding="async" width="500" height="233" />
   <br /><small><em>Trémissis d'or au nom de Romulus Augustule, avers et revers. Le dernier empereur d'Occident est un adolescent qui porte, par ironie, les noms du fondateur de Rome et du fondateur de l'Empire.</em></small></p>
@@ -5266,7 +5266,7 @@ tags: technology
 
 <p>Puis Odoacre fait quelque chose de plus révélateur qu'un couronnement : il renvoie les insignes impériaux à Constantinople, avec ce message qu'un seul empereur suffit désormais au monde. Personne n'a conscience de vivre une fin d'époque. L'Empire d'Occident ne s'écroule pas dans un fracas : il cesse simplement d'être rempli. La date que les manuels retiendront comme la fin de l'Antiquité est passée, sur le moment, presque inaperçue.</p>
 
-# 496 ans
+# 496 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/clovis.webp' | relative_url }}" alt="Relief en ivoire représentant le baptême de Clovis : le roi debout dans la cuve baptismale, les mains jointes, tandis que l'évêque lui verse l'eau et que la colombe descend au-dessus de sa tête" loading="lazy" decoding="async" width="276" height="625" />
@@ -5275,7 +5275,7 @@ tags: technology
 
 <p>Clovis, roi des Francs, se fait baptiser à Reims. Son choix est un coup politique magistral : tous les autres rois germaniques sont ariens, donc hérétiques aux yeux de l'Église et des populations gallo-romaines qu'ils gouvernent. En choisissant le catholicisme, Clovis s'attache d'un coup les évêques, l'aristocratie romaine et la légitimité — et se donne un motif pour faire la guerre à ses voisins. De ce calcul naîtra la France, et cette alliance du trône franc et de l'Église durera treize siècles.</p>
 
-# 529 ans
+# 529 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/justinien.webp' | relative_url }}" alt="Détail de la mosaïque de Ravenne représentant Justinien : l'empereur de face, nimbé, couronné du diadème perlé et vêtu de pourpre, sur un fond d'or" loading="lazy" decoding="async" width="676" height="900" />
@@ -5284,7 +5284,7 @@ tags: technology
 
 <p>Deux événements de la même année dessinent le monde qui vient. À Athènes, Justinien ferme l'Académie fondée par Platon neuf siècles plus tôt : la dernière institution philosophique païenne s'éteint, et ses maîtres partent en exil chez les Perses. Au même moment, en Italie, Benoît de Nursie fonde le monastère du Mont-Cassin et rédige une règle promise à un immense avenir — prière, travail manuel, étude, stabilité. Le lieu où l'on pense change de nature : ce ne sera plus l'école du philosophe, ce sera le scriptorium du moine. Et ces moines recopieront, en même temps que les Écritures, les textes antiques qui nous seraient sinon perdus.</p>
 
-# 537 ans
+# 537 apr. J.-C.
 
 <p>L'empereur Justinien inaugure à Constantinople une église que rien n'annonçait : Sainte-Sophie, la Sagesse divine. Elle a été construite en cinq ans seulement, après qu'une émeute eut incendié l'église précédente — sur les ruines de son pouvoir contesté, l'empereur a voulu bâtir la preuve de sa grandeur.</p>
 
@@ -5299,7 +5299,7 @@ tags: technology
 
 <p>Sainte-Sophie restera le plus vaste espace couvert du monde pendant près de mille ans. La tradition rapporte que Justinien, y entrant pour la première fois, aurait murmuré : « Salomon, je t'ai surpassé. » L'architecture chrétienne venait de trouver sa forme — et l'Empire d'Orient, son symbole.</p>
 
-# 541 ans
+# 541 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/pestejustinien.webp' | relative_url }}" alt="Panneau peint du XVᵉ siècle représentant une ville frappée par la peste : des corps étendus dans la rue au premier plan, des vivants qui s'enfuient ou prient, et le clergé officiant devant l'église" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Une ville frappée par la peste, panneau peint du XVᵉ siècle. L'image est bien postérieure : aucune représentation contemporaine de la pandémie de 541 ne nous est parvenue, alors qu'elle emporta des millions de personnes.</em></small></p>
@@ -5310,7 +5310,7 @@ tags: technology
 
 <p>Son moment est cruel. Justinien venait de reconquérir l'Italie, l'Afrique et le sud de l'Espagne ; il croyait refaire l'Empire romain. La peste vide ses provinces, ruine ses finances, décime ses armées — et referme définitivement cette possibilité. Ni Byzance ni la Perse ne s'en relèveront vraiment ; un siècle plus tard, épuisées, elles s'effondreront devant les armées arabes.</p>
 
-# 581 ans
+# 581 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/suiwendi.webp' | relative_url }}" alt="Portrait sur soie de l'empereur Wen des Sui : le souverain debout, coiffé du mortier impérial à pendeloques, encadré de deux serviteurs en robes de cour" loading="lazy" decoding="async" width="868" height="1280" />
   <br /><small><em>L'empereur Wen des Sui, portrait attribué à Yan Liben. Général du nord devenu souverain, il réussit ce que personne n'avait accompli depuis la chute des Han : réunifier la Chine.</em></small></p>
@@ -5319,7 +5319,7 @@ tags: technology
 
 <p>La réunification n'est pas qu'une affaire militaire, c'est une reconstruction administrative. Les Sui imposent un code de lois unique, une monnaie unique, un système d'impôts unique. Et surtout, ils remettent en marche le recrutement des fonctionnaires par examens écrits — ce qui deviendra la grande originalité chinoise : une administration choisie sur les connaissances plutôt que sur la naissance, à une époque où l'Europe confie ses charges à ceux dont le père les détenait.</p>
 
-# 605 ans
+# 605 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/grandcanal.webp' | relative_url }}" alt="Photographie du Grand Canal de Chine : un bief bordé de quais de pierre et de saules pleureurs, franchi par un petit pont en dos d'âne" loading="lazy" decoding="async" width="900" height="675" />
@@ -5330,7 +5330,7 @@ tags: technology
 
 <p>Le prix humain est terrible : des millions de paysans réquisitionnés, dont une part considérable ne rentrera pas. Mais l'ouvrage, lui, ne mourra pas — il fonctionne encore aujourd'hui, et reste la plus longue voie navigable artificielle du monde. La Chine du nord et celle du sud ne se sépareront plus jamais durablement.</p>
 
-# 610 ans
+# 610 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/hira.webp' | relative_url }}" alt="Photographie de la grotte de Hira, sur le mont al-Nour : des pèlerins en vêtements blancs pressés à l'entrée d'une étroite fente entre les rochers, près d'une plaque calligraphiée verte" loading="lazy" decoding="async" width="1200" height="801" />
   <br /><small><em>La grotte de Hira, sur le mont al-Nour, où des pèlerins se pressent aujourd'hui. C'est là que, selon la tradition islamique, un marchand mecquois d'une quarantaine d'années reçoit sa première révélation.</em></small></p>
@@ -5343,7 +5343,7 @@ tags: technology
 
 <p>Personne, en 610, n'imagine la suite. L'Arabie est une périphérie que ni Byzance ni la Perse ne jugent digne de conquête. Un siècle plus tard, les successeurs de cet homme régneront de l'Espagne à l'Indus.</p>
 
-# 618 ans
+# 618 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/tanggaozu.webp' | relative_url }}" alt="Portrait sur soie de l'empereur Gaozu des Tang : le souverain debout de trois quarts, en ample robe rouge ceinturée d'une ceinture à plaques et coiffé du bonnet noir de cour" loading="lazy" decoding="async" width="1200" height="2469" />
   <br /><small><em>L'empereur Gaozu des Tang, portrait sur soie. Les Sui s'effondrent après moins de quarante ans, épuisés par leurs propres grands travaux ; la dynastie suivante en récolte les fruits.</em></small></p>
@@ -5352,7 +5352,7 @@ tags: technology
 
 <p>Le schéma s'était déjà produit huit siècles plus tôt avec les Qin : une dynastie brève et brutale refait l'unité et se consume à la tâche, une dynastie suivante en récolte les fruits et dure des siècles. Les Tang régneront près de trois cents ans, et leur règne restera dans la mémoire chinoise comme l'âge d'or absolu — celui de la poésie, de la peinture, de la porcelaine et de la puissance.</p>
 
-# 622 ans
+# 622 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/medine.webp' | relative_url }}" alt="Photographie de Médine : la mosquée du Prophète, sa coupole verte et ses hauts minarets blancs, dominant la ville derrière un premier plan de palmiers" loading="lazy" decoding="async" width="1200" height="1788" />
   <br /><small><em>Médine et la mosquée du Prophète, coupole verte au milieu des palmeraies. C'est l'émigration vers cette oasis, et non la naissance ni la mort de Mahomet, qui ouvre le calendrier musulman.</em></small></p>
@@ -5363,7 +5363,7 @@ tags: technology
 
 <p>Cette différence marquera durablement l'islam. Le christianisme est né dans un empire déjà constitué, sous un pouvoir qui l'a d'abord persécuté puis adopté trois siècles plus tard : il s'est donc pensé d'emblée comme distinct du politique — « rendez à César ». L'islam, lui, naît en fondant sa propre cité : la loi religieuse et la loi civile s'y élaborent ensemble, dans les mêmes textes et par le même homme. Deux histoires opposées, dont les conséquences se feront sentir pendant quatorze siècles.</p>
 
-# 630 ans
+# 630 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/kaaba.webp' | relative_url }}" alt="Photographie de la Kaaba à La Mecque : le cube drapé de noir et ceint d'une bande calligraphiée dorée, entouré d'une foule dense de pèlerins en vêtements blancs" loading="lazy" decoding="async" width="900" height="675" />
@@ -5382,7 +5382,7 @@ tags: technology
 
 <p>Et les vaincus deviennent les cadres du vainqueur : les grandes familles mecquoises, hier adversaires acharnés, occuperont en une génération les premiers postes du nouvel empire. Le fils du chef qui avait mené la guerre contre Mahomet fondera même la première dynastie musulmane, celle des Omeyyades.</p>
 
-# 632 ans
+# 632 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/mortmahomet.webp' | relative_url }}" alt="Photographie panoramique de l'esplanade de la mosquée du Prophète à Médine : le vaste parvis dallé, ses parasols repliés et ses portails, avec la coupole verte au fond" loading="lazy" decoding="async" width="1200" height="200" />
   <br /><small><em>L'esplanade de la mosquée du Prophète à Médine. Mahomet y meurt après une courte maladie, laissant une communauté qui est aussi un État — et aucune règle pour désigner son successeur.</em></small></p>
@@ -5395,7 +5395,7 @@ tags: technology
 
 <p>Quatorze siècles plus tard, cette question de succession vieille de quelques jours structure encore la géopolitique du Moyen-Orient.</p>
 
-# 636 ans
+# 636 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/yarmouk.webp' | relative_url }}" alt="Carte arabe du premier jour de la bataille du Yarmouk : les lignes musulmanes en rouge face aux lignes byzantines en bleu, avec les mouvements de cavalerie fléchés le long des ravins de la rivière" loading="lazy" decoding="async" width="1200" height="1001" />
   <br /><small><em>Carte arabe de la bataille du Yarmouk, premier jour. L'armée byzantine est plus nombreuse, mieux équipée, professionnelle — et elle est détruite ; la Syrie, la Palestine puis l'Égypte échappent à Byzance.</em></small></p>
@@ -5412,7 +5412,7 @@ tags: technology
 
 <p>Pour la Perse, ce sera fatal. Son roi, Yazdgard III, a douze ans ; monté sur le trône à huit ans dans un empire qui venait de brûler quatre souverains en quatre ans, il n'a jamais vraiment gouverné. Il abandonne Ctésiphon, sa capitale aux palais immenses — les Arabes y trouveront des trésors qu'ils n'imaginaient pas, dont un tapis brodé de pierreries figurant un jardin, qu'ils débiteront en morceaux pour le partager. Le roi des rois part vers l'est avec sa cour, ses prêtres et ce qu'il peut emporter. Il ne reviendra plus.</p>
 
-# 642 ans
+# 642 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/nahavand.webp' | relative_url }}" alt="Photographie d'un plat d'argent sassanide : deux cavaliers s'affrontent à la lance au-dessus d'un cheval abattu, la scène ciselée en relief sur toute la coupe" loading="lazy" decoding="async" width="1186" height="1162" />
   <br /><small><em>Plat d'argent sassanide à scène de combat monté. À Nahavand, la Perse tente son dernier grand rassemblement militaire ; battue, elle n'oppose plus rien à l'avance arabe.</em></small></p>
@@ -5421,7 +5421,7 @@ tags: technology
 
 <p>Yazdgard passe désormais son temps à fuir — mais il ne fuit pas seulement devant l'ennemi : il cherche des soldats, et n'en trouve pas. Les grands seigneurs des provinces orientales, qui disposent encore de troupes, préfèrent négocier avec les envahisseurs plutôt que de mourir pour un roi sans royaume. Il envoie même des ambassades demander du secours à la Chine des Tang, en vain. Chaque ville où il arrive l'accueille d'abord en souverain, se lasse d'entretenir sa cour, puis lui demande de repartir.</p>
 
-# 651 ans
+# 651 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/merv.webp' | relative_url }}" alt="Photographie de la forteresse de Kyz Kala à Merv : une haute muraille de terre crue dont la façade est plissée en gros bourrelets verticaux, dressée au milieu du désert" loading="lazy" decoding="async" width="1023" height="682" />
   <br /><small><em>La forteresse de Kyz Kala à Merv, murs de terre crue plissés comme des colonnes. C'est dans cette ville des confins que Yazdgard III, dernier roi sassanide, finit assassiné.</em></small></p>
@@ -5438,7 +5438,7 @@ tags: technology
 
 <p>En une quinzaine d'années, une puissance dont personne ne soupçonnait l'existence a donc renversé un empire et amputé l'autre. L'histoire offre peu d'équivalents : ni Alexandre ni Rome n'ont conquis aussi vite. Et cette conquête ne déplace pas seulement des frontières — elle installe pour toujours une langue et une religion du Maghreb à l'Asie centrale.</p>
 
-# 700 ans
+# 700 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/changan.webp' | relative_url }}" alt="Détail d'une peinture murale de tombe chinoise : une porte monumentale à plusieurs étages de toits, tracée à l'ocre rouge sur l'enduit écaillé" loading="lazy" decoding="async" width="775" height="900" />
@@ -5459,7 +5459,7 @@ tags: technology
 
 <p>Et la ville est un carrefour plus qu'une capitale. Au bout de la route de la soie, elle accueille marchands sogdiens et persans, chameliers d'Asie centrale, moines indiens, ambassadeurs coréens et japonais. On y trouve des temples bouddhistes par centaines, mais aussi des sanctuaires zoroastriens, des communautés nestoriennes venues de Syrie, des manichéens, des juifs. Les danseuses d'Asie centrale sont à la mode, la musique étrangère aussi, et les dames de la cour montent à cheval et jouent au polo. Rarement une civilisation aura été aussi sûre d'elle et aussi ouverte en même temps.</p>
 
-# 711 ans
+# 711 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/gibraltar.webp' | relative_url }}" alt="Photographie du rocher de Gibraltar : le promontoire calcaire abrupt dominant la ville et le détroit, vu depuis la mer" loading="lazy" decoding="async" width="400" height="166" />
@@ -5474,7 +5474,7 @@ tags: technology
 
 <p>Seule une frange montagneuse du nord échappe au mouvement, dans les Asturies. C'est de là que partira, huit siècles durant, la longue reconquête chrétienne — et les royaumes qui en naîtront finiront par former l'Espagne et le Portugal.</p>
 
-# 732 ans
+# 732 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/poitiers732.webp' | relative_url }}" alt="Peinture du XIXᵉ siècle représentant la bataille de Poitiers : une mêlée de cavaliers et de fantassins autour d'une grande croix, chevaux cabrés et corps enchevêtrés au premier plan" loading="lazy" decoding="async" width="900" height="741" />
@@ -5485,7 +5485,7 @@ tags: technology
 
 <p>La victoire eut un effet politique considérable — elle fit la fortune de la famille de Charles Martel, qui écartera bientôt les rois mérovingiens pour prendre leur place. Son petit-fils s'appellera Charlemagne.</p>
 
-# 742 ans
+# 742 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/xuanzong.webp' | relative_url }}" alt="Portrait peint de l'empereur Xuanzong des Tang : buste d'un homme moustachu à barbiche, coiffé du bonnet noir à ailettes, en robe bleue brodée d'un motif doré" loading="lazy" decoding="async" width="1080" height="1202" />
   <br /><small><em>L'empereur Xuanzong des Tang. Il administre son empire avec application pendant trente ans, puis cesse de gouverner : à partir de sa rencontre avec Yang Guifei, il se consacre à sa favorite et à la musique.</em></small></p>
@@ -5494,7 +5494,7 @@ tags: technology
 
 <p>C'est l'âge d'or de la poésie chinoise. Li Bai, l'ivrogne génial que la légende fera mourir noyé en voulant embrasser le reflet de la lune, et Du Fu, le grave, le témoin des malheurs du peuple, vivent à la même époque et se sont rencontrés — deux mille ans de littérature chinoise n'ont produit personne au-dessus d'eux. À la cour, l'empereur fonde une école d'acteurs et de musiciens, le Jardin des Poiriers, dont les comédiens chinois se disent encore aujourd'hui les enfants.</p>
 
-# 745 ans
+# 745 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/yangguifei.webp' | relative_url }}" alt="Dessin à l'encre représentant Yang Guifei : une femme en longue robe de cour aux manches flottantes, la tête inclinée, coiffure ornée" loading="lazy" decoding="async" width="756" height="2100" />
   <br /><small><em>Yang Guifei, dessin à l'encre. Entrée au palais avec le rang le plus élevé après celui d'impératrice, elle était quelques années plus tôt mariée à l'un des fils de l'empereur.</em></small></p>
@@ -5507,7 +5507,7 @@ tags: technology
 
 <p>Le vrai danger est ailleurs, et il est double. À la cour, le cousin de la favorite devient chancelier et sa famille s'empare des charges — ce qui fait beaucoup de jaloux et d'ennemis. Aux frontières, pour se décharger de la défense, l'empereur a confié à quelques généraux des commandements militaires immenses, avec des armées de centaines de milliers d'hommes, une autonomie financière et plus personne au-dessus d'eux. L'un de ces généraux, un Sogdien nommé An Lushan, est justement un familier du palais et un protégé de la favorite.</p>
 
-# 750 ans
+# 750 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/abbassides.webp' | relative_url }}" alt="Carte du califat abbasside vers 850 : le territoire sous l'autorité du calife, en vert, s'étend de l'Égypte et de l'Arabie jusqu'au Khorasan, au Sistan et au Sind, avec les provinces nommées et les dynasties autonomes distinguées en légende" loading="lazy" decoding="async" width="900" height="560" />
@@ -5520,7 +5520,7 @@ tags: technology
 
 <p>La révolte part du Khorassan, à l'est, portée par ces convertis mécontents et par les partisans de la famille du Prophète. Elle amène au pouvoir les Abbassides, qui entreprennent d'exterminer méthodiquement les Omeyyades — nous y reviendrons.</p>
 
-# 755 ans
+# 755 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/anlushan.webp' | relative_url }}" alt="Carte de la révolte d'An Lushan : sur le fond de l'empire Tang, les mouvements des rebelles en rouge et ceux des Tang et de leurs alliés en bleu, avec les capitales, les villes prises et la retraite de l'empereur Xuanzong" loading="lazy" decoding="async" width="1200" height="849" />
   <br /><small><em>Carte de la révolte d'An Lushan. Les armées de la frontière, aguerries par des années de guerre, ne rencontrent presque aucune résistance : les troupes de l'intérieur ne se sont pas battues depuis des décennies.</em></small></p>
@@ -5531,7 +5531,7 @@ tags: technology
 
 <p>Ses armées, aguerries par des années de guerre aux frontières, ne rencontrent presque aucune résistance : les troupes de l'intérieur ne se sont pas battues depuis des décennies. En quelques semaines, Luoyang tombe, et An Lushan s'y proclame empereur d'une dynastie nouvelle. Ce qui commence là ne s'achèvera qu'après huit ans de guerre, et comptera parmi les catastrophes les plus meurtrières de l'histoire humaine.</p>
 
-# 756 ans
+# 756 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/fuitexuanzong.webp' | relative_url }}" alt="Peinture sur soie « La fuite de l'empereur Xuanzong vers le Shu » : la cour à cheval, en petits groupes colorés, chemine au pied de montagnes escarpées et d'arbres tordus" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>« La fuite de l'empereur Xuanzong vers le Shu », peinture sur soie. La cour s'enfuit de nuit vers les montagnes du Sichuan ; à l'étape de Mawei, l'escorte se mutine et exige la mort du chancelier, puis celle de la favorite.</em></small></p>
@@ -5556,7 +5556,7 @@ tags: technology
 
 <p>Il débarque, rallie ces fidèles, bat le gouverneur en place et s'empare de Cordoue. Le monde musulman a désormais deux capitales rivales : le calife de Bagdad l'appellera « le faucon des Quraych », en reconnaissant qu'un homme seul, sans armée ni argent, avait fondé un État à trois mille kilomètres de son royaume perdu. Sa dynastie régnera près de trois siècles sur al-Andalus et en fera la province la plus brillante de l'Europe.</p>
 
-# 760 ans
+# 760 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/luyu.webp' | relative_url }}" alt="Page xylographiée du Classique du thé de Lu Yu : des colonnes de caractères chinois encadrées d'un filet noir, la première portant le titre de l'ouvrage" loading="lazy" decoding="async" width="1200" height="1553" />
   <br /><small><em>Page du Classique du thé de Lu Yu, édition xylographique. Premier traité jamais consacré à une boisson, il condamne les mélanges au sel et au gingembre et transforme une habitude en art.</em></small></p>
@@ -5569,7 +5569,7 @@ tags: technology
 
 <p>Le thé ne reculera plus. Les moines japonais venus étudier en Chine en rapporteront les graines et les gestes, et en tireront des siècles plus tard la cérémonie du thé. Quant à Lu Yu, les marchands chinois finiront par le diviniser : son effigie trônait autrefois dans les boutiques, patron d'un commerce qui bouleversera un jour l'économie mondiale.</p>
 
-# 762 ans
+# 762 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/bagdadmaqamat.webp' | relative_url }}" alt="Miniature des Maqamat d'al-Hariri : une caravane de pèlerins, bannières noires déployées, chameaux et litière, trompettes et tambour" width="600" loading="lazy" decoding="async" height="595" />
@@ -5580,7 +5580,7 @@ tags: technology
 
 <p>Le déplacement n'est pas qu'une affaire de géographie. En quittant la Syrie pour l'ancienne Mésopotamie, le pouvoir s'installe au cœur du vieux monde persan et en adopte les usages : administration savante, protocole de cour, vizirs, bureaux. Les charges s'ouvrent à tous les musulmans sans distinction d'origine — les administrateurs persans, les médecins syriaques, les mathématiciens d'Asie centrale y comptent désormais autant que les guerriers arabes.</p>
 
-# 763 ans
+# 763 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/cavalerietang.webp' | relative_url }}" alt="Photographie d'une statuette funéraire chinoise en terre cuite : un cavalier casqué et cuirassé, sanglé sur un cheval harnaché, présenté sur socle devant un fond noir" loading="lazy" decoding="async" width="1200" height="1431" />
   <br /><small><em>Figurine funéraire en terre cuite d'un cavalier Tang. Ce sont des armées de frontière comme celle-ci que l'empire, faute de troupes d'État, devra louer à des gouverneurs devenus quasi indépendants.</em></small></p>
@@ -5597,7 +5597,7 @@ tags: technology
 
 <p>Les Tang régneront encore un siècle et demi, et l'empire connaîtra même des périodes de prospérité. Mais le pouvoir central ne reprendra jamais le contrôle de ses provinces, et c'est de ces généraux devenus rois chez eux que viendra, cent cinquante ans plus tard, la chute finale. La dynastie a survécu à la révolte ; elle n'y a pas survécu entière.</p>
 
-# 782 ans
+# 782 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/verden.webp' | relative_url }}" alt="Gravure du massacre de Verden : Charlemagne debout, drapé dans son manteau, devant un amoncellement de corps décapités" loading="lazy" decoding="async" width="1200" height="660" />
   <br /><small><em>Le massacre de Verden, gravure du XIXᵉ siècle. Le chiffre de quatre mille cinq cents décapités vient des annales de la cour de Charlemagne elle-même — sa propagande n'y voyait pas une tache.</em></small></p>
@@ -5608,7 +5608,7 @@ tags: technology
 
 <p>La méthode choqua même certains contemporains. Alcuin, le savant qui dirige la réforme scolaire de l'empereur, lui écrivit que la foi naît de la volonté et ne peut être imposée, et qu'un homme qu'on baptise de force reste un païen mouillé. L'empereur adoucira ces lois plus tard — après avoir gagné.</p>
 
-# 785 ans
+# 785 apr. J.-C.
 
 <p>À Cordoue, le prince omeyyade qui a fui le massacre de sa famille en Syrie et refondé un émirat à l'autre bout du monde musulman fait bâtir une grande mosquée. Ses colonnes proviennent d'édifices romains et wisigoths démontés, et ses doubles arcs rouges et blancs, empruntés à l'aqueduc antique, créent un espace sans équivalent. Elle sera agrandie trois fois en deux siècles.</p>
 
@@ -5617,7 +5617,7 @@ tags: technology
   <br /><small><em>La salle hypostyle de la grande mosquée de Cordoue : des centaines de colonnes de remploi, surmontées de deux étages d'arcs bicolores qui rattrapent en hauteur ce que les fûts trop courts ne donnaient pas. Photo Alvaro Viñuela Carnicero, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 789 ans
+# 789 apr. J.-C.
 
 <p>Charlemagne promulgue un capitulaire qui ordonne quelque chose d'inédit : que chaque évêché et chaque monastère ouvre une école, et qu'on y enseigne à lire, à chanter et à compter — non seulement aux futurs clercs, mais à tous les enfants capables d'apprendre.</p>
 
@@ -5636,7 +5636,7 @@ tags: technology
 
 <p>Le résultat dépasse de loin l'intention : une part considérable des textes latins antiques que nous possédons — Cicéron, Tacite, Virgile — ne nous est parvenue que par ces copies carolingiennes. Sans ces moines mis au travail par un empereur qui savait à peine écrire, une partie de l'Antiquité serait perdue.</p>
 
-# 800 ans
+# 800 apr. J.-C.
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/charlemagne.webp' | relative_url }}" alt="Photographie d'un denier d'argent de Charlemagne : le buste lauré de l'empereur, drapé à l'antique, entouré de la légende KAROLVS IMP AVG" loading="lazy" decoding="async" width="900" height="900" />
@@ -5649,7 +5649,7 @@ tags: technology
 
 <p>L'empire ne survivra pas trois générations : ses petits-fils le partageront, et de ce partage sortiront lentement la France et l'Allemagne.</p>
 
-# 806 ans
+# 806 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/baijuyi.webp' | relative_url }}" alt="Photographie d'une édition xylographique chinoise ouverte : la page de droite couverte de colonnes de caractères sous un titre encadré, la page de gauche restée vierge" loading="lazy" decoding="async" width="1200" height="963" />
   <br /><small><em>Le <em>Chant du regret éternel</em> de Bai Juyi dans une édition xylographique des Trois Cents Poèmes des Tang. Le poème raconte, un demi-siècle après, l'amour de l'empereur et de la favorite tuée à Mawei.</em></small></p>
@@ -5658,7 +5658,7 @@ tags: technology
 
 <p>Il complète l'œuvre de Du Fu, qui avait vécu la guerre de l'autre côté — sur les routes, parmi les réfugiés, les recruteurs et les familles brisées, et qui en avait tiré les vers les plus déchirants jamais écrits en chinois.</p>
 
-# 845 ans
+# 845 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/wuzong.webp' | relative_url }}" alt="Dessin au trait de l'empereur Wuzong des Tang : buste d'un homme moustachu à barbiche, coiffé du bonnet à ailettes, sous son nom calligraphié" loading="lazy" decoding="async" width="500" height="776" />
   <br /><small><em>L'empereur Wuzong des Tang, portrait au trait. Il ordonne la destruction du bouddhisme en Chine : quatre mille monastères rasés, des centaines de milliers de moines renvoyés à la vie civile.</em></small></p>
@@ -5669,7 +5669,7 @@ tags: technology
 
 <p>S'y ajoute un argument identitaire, martelé par les lettrés confucéens depuis un siècle : le bouddhisme est une religion étrangère, venue de l'Inde, qui détourne les hommes de leurs devoirs envers leur famille et leur souverain. Un moine ne se marie pas, n'a pas d'enfants, ne travaille pas la terre, ne sert pas l'empereur — trois manquements à l'ordre confucéen. Wuzong, lui-même taoïste fervent, entouré de maîtres qui lui promettaient l'immortalité, avait toutes les raisons d'écouter.</p>
 
-# 846 ans
+# 846 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/elixir.webp' | relative_url }}" alt="Planche d'un traité d'alchimie chinoise : le schéma en coupe d'un fourneau et de ses récipients, légendé de caractères désignant chaque partie de l'appareil" loading="lazy" decoding="async" width="1200" height="1800" />
   <br /><small><em>Fourneau d'alchimiste chinois, planche d'un traité taoïste. C'est en cherchant l'élixir d'immortalité dans ces appareils que l'on mêla salpêtre, soufre et charbon — et que l'on trouva la poudre.</em></small></p>
@@ -5682,7 +5682,7 @@ tags: technology
 
 <p>Seule prospère celle qui n'avait rien à confisquer : le chan, dont les moines cultivaient leur propre nourriture selon la règle « un jour sans travail, un jour sans manger », et qui tenait l'éveil pour une expérience directe, indépendante des écritures. On ne détruit pas ce qui ne possède rien.</p>
 
-# 850 ans
+# 850 apr. J.-C.
 
 <p>Un traité taoïste met en garde ses lecteurs : certains alchimistes, dit-il, ont mêlé du salpêtre, du soufre et du charbon en cherchant à composer un élixir de longue vie — le mélange s'est enflammé, leur a brûlé les mains, le visage, et a incendié le bâtiment. L'avertissement est le plus ancien témoignage écrit de la poudre.</p>
 
@@ -5701,7 +5701,7 @@ tags: technology
 
 <p>L'idée restera longtemps confinée à cette région : il faudra des siècles avant que le vent ne travaille ailleurs.</p>
 
-# 877 ans
+# 877 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/feodalite.webp' | relative_url }}" alt="Gravure ancienne d'un château fort féodal : une enceinte hérissée de tours à toits coniques, dominant un pont et un faubourg fortifié" loading="lazy" decoding="async" width="1200" height="2026" />
   <br /><small><em>Château fort médiéval, gravure du XIXᵉ siècle. Quand le roi ne protège plus, c'est le seigneur voisin qui protège : celui qui a une forteresse et des cavaliers. La féodalité naît de ce report de confiance.</em></small></p>
@@ -5716,7 +5716,7 @@ tags: technology
 
 <p>C'est la naissance de la féodalité.</p>
 
-# 890 ans
+# 890 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/alfred.webp' | relative_url }}" alt="Photographie de la statue d'Alfred le Grand : le roi debout sur un haut socle, couronné et brandissant son épée par la lame, au-dessus des toits d'une ville" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>La statue d'Alfred le Grand à Winchester. Plutôt que de restaurer le latin, ce roi fait traduire les livres essentiels en vieil anglais — et pose sans le savoir la première pierre de l'anglais littéraire.</em></small></p>
@@ -5729,7 +5729,7 @@ tags: technology
 
 <p>La conséquence dépasse son intention. En faisant du dialecte du Wessex la langue officielle de l'écrit, Alfred pose la première pierre de l'anglais comme langue littéraire — quand partout ailleurs en Europe, le savoir restera enfermé en latin pendant encore cinq siècles. Un roi qui n'avait presque plus de royaume, occupé la moitié de sa vie à combattre les Vikings, aura été le premier souverain d'Occident à décider que son peuple devait lire dans sa propre langue.</p>
 
-# 939 ans
+# 939 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/masakado.webp' | relative_url }}" alt="Portrait japonais de Taira no Masakado : un guerrier assis en large tenue de cour noire, le sabre posé devant lui, sur fond d'or" loading="lazy" decoding="async" width="588" height="506" />
   <br /><small><em>Portrait japonais traditionnel d'un chef de guerre en robe de cour. Taira no Masakado se proclame empereur dans le Kantō : un blasphème politique, dans un pays où la lignée impériale descend de la déesse du soleil.</em></small></p>
@@ -5740,7 +5740,7 @@ tags: technology
 
 <p>L'épisode annonce pourtant tout ce qui va suivre. La cour vit dans un raffinement extrême, mais elle a cessé de tenir les provinces : ceux qui y détiennent la force réelle sont ces familles guerrières, les Taira et les Minamoto, dont les descendants finiront par prendre le pouvoir pour de bon.</p>
 
-# 941 ans
+# 941 apr. J.-C.
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VvGlw2HCxbU" data-id="VvGlw2HCxbU" rel="noopener" aria-label="Lire la vidéo YouTube : Du &quot;cocktail Molotov&quot; au &quot;Bandera smoothie&quot; ukrainien : histoire d'une arme incendiaire"><img src="https://i.ytimg.com/vi/VvGlw2HCxbU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Du &quot;cocktail Molotov&quot; au &quot;Bandera smoothie&quot; ukrainien : histoire d'une arme incendiaire »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -5757,7 +5757,7 @@ tags: technology
 
 <p>Les survivants rentrent à Kiev avec un récit qui fera le tour du Nord. Mais l'expédition, en échouant, ouvre paradoxalement autre chose : à partir de là, les Rus' et Byzance ne cesseront plus de se parler.</p>
 
-# 944 ans
+# 944 apr. J.-C.
 
 <p>Igor revient avec une armée bien plus nombreuse, grossie de mercenaires petchénègues. Cette fois, l'empereur ne l'attend pas devant ses murs : il envoie des ambassadeurs à sa rencontre, chargés d'or et de soieries, et lui propose un traité. Igor accepte sans combattre.</p>
 
@@ -5765,11 +5765,11 @@ tags: technology
 
 <p>La conséquence sera plus profonde que prévu. Chaque printemps, des convois de barques descendent le Dniepr chargés de fourrures, de miel, de cire et d'esclaves, et remontent chargés de vin, de soie et d'objets précieux. Des générations de Rus' découvrent ainsi la plus grande ville du monde chrétien — ses coupoles, ses processions, ses reliques. Le commerce prépare la conversion.</p>
 
-# 950 ans
+# 950 apr. J.-C.
 
 <p>Cordoue est alors la plus grande ville d'Europe occidentale — peut-être cent mille habitants, quand Paris ou Rome en comptent quelques dizaines de milliers. Les califes y entretiennent une cour fastueuse, des ateliers d'ivoire et de soie, des astronomes et des médecins.</p>
 
-# 960 ans
+# 960 apr. J.-C.
 
 <p style="text-align:center"><img src="{{ '/assets/img/songtaizu.webp' | relative_url }}" alt="Portrait sur soie de l'empereur Taizu des Song : le souverain assis de face sur un trône laqué de rouge, en ample robe blanche et coiffe noire à longues ailettes horizontales" loading="lazy" decoding="async" width="1200" height="1347" />
   <br /><small><em>L'empereur Taizu des Song, portrait sur soie. Proclamé par ses propres troupes, il remplace l'aristocratie militaire par une administration recrutée sur examens — ouverte, en principe, à tout homme sachant lire.</em></small></p>
@@ -5786,7 +5786,7 @@ tags: technology
 
 <p>Car les Song n'ont jamais tenu le nord. Ils passeront leur histoire à payer tribut à des voisins guerriers, perdront la moitié de leur territoire, se replieront au sud — et finiront écrasés par les Mongols. La dynastie la plus raffinée et la plus inventive de Chine fut aussi la plus faible militairement.</p>
 
-# 987 ans
+# 987 apr. J.-C.
 
 <p>Les forgerons japonais commencent à produire des lames courbes à un seul tranchant : le <em>tachi</em>, ancêtre direct du katana. Jusqu'ici, on utilisait des sabres droits d'influence chinoise, hérités du continent.</p>
 
@@ -5801,7 +5801,7 @@ tags: technology
 
 <p>L'arme deviendra le symbole d'une caste. Le sabre passe de père en fils, reçoit un nom, se transmet comme une âme — et les plus belles lames du Moyen Âge japonais sont aujourd'hui classées trésors nationaux, exposées comme des œuvres d'art. Il faut dire qu'elles en sont.</p>
 
-# 1008 ans
+# 1008
 
 <p>À la cour de Kyoto, une dame d'honneur achève ce qu'on tient souvent pour le premier roman psychologique de l'histoire : le <em>Dit du Genji</em>. Murasaki Shikibu y suit sur cinquante-quatre chapitres la vie d'un prince séduisant, ses amours, ses disgrâces, son vieillissement, puis la génération qui lui succède — avec une attention aux états d'âme, aux silences et aux regrets qui n'a aucun équivalent ailleurs à cette époque.</p>
 
@@ -5814,7 +5814,7 @@ tags: technology
 
 <p>Cette cour raffinée passe son temps à composer des poèmes, à assortir les couleurs de ses vêtements et à juger les gens sur leur calligraphie. Elle ignore superbement les provinces où s'arment les guerriers qui la balaieront.</p>
 
-# 1024 ans
+# 1024
 
 <p>L'économie des Song est en pleine expansion, mais elle bute sur un obstacle bête : le poids de la monnaie. Le cuivre manque, et la province du Sichuan frappe donc ses pièces en fer — un métal si peu précieux qu'il en faut des kilos pour un achat courant. Faire ses courses devient une affaire de brouette, et transporter une somme sérieuse exige une escorte.</p>
 
@@ -5831,7 +5831,7 @@ tags: technology
 
 <p>Il faudra attendre le XVIIᵉ siècle pour que l'Europe s'y essaie à son tour .</p>
 
-# 1040 ans
+# 1040
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/bisheng.webp' | relative_url }}" alt="Photographie d'une reconstitution muséographique de l'atelier de Bi Sheng : une statue de l'artisan assis devant deux grandes tables rondes tournantes portant ses caractères mobiles" loading="lazy" decoding="async" width="596" height="900" />
@@ -5848,7 +5848,7 @@ tags: technology
 
 <p>Il y a là une leçon qui vaut au-delà de l'imprimerie : une invention ne vaut que par le milieu qui l'accueille. La même idée, dans deux langues différentes, produit d'un côté une curiosité technique, de l'autre une révolution qui changera le monde.</p>
 
-# 1050 ans
+# 1050
 
 <p>Au confluent du Mississippi et du Missouri, là où se dresse aujourd'hui Saint-Louis, une ville sort de terre en une génération. Les archéologues parlent d'un « big bang » : en quelques décennies à peine, on trace des places, on aligne des quartiers, et l'on entasse de la terre.</p>
 
@@ -5863,14 +5863,14 @@ tags: technology
 
 <p>Sans écriture, aucun nom ne nous est parvenu : ni celui de la ville, ni celui d'un seul de ses habitants. Restent les tombes, et elles ne racontent pas une société douce — l'une d'elles associe un personnage couché sur vingt mille perles de coquillage à des fosses communes de jeunes femmes. Vers 1350, la ville est vide. On invoque la déforestation, les inondations, l'épuisement des sols, les tensions internes ; on ne tranche pas.</p>
 
-# 1054 ans
+# 1054
 
 <p style="text-align:center"><img src="{{ '/assets/img/schisme1054.webp' | relative_url }}" alt="Carte du schisme de 1054 : l'Europe partagée entre l'Église catholique en orange à l'ouest et l'Église orthodoxe en bleu à l'est, avec les principaux royaumes nommés" loading="lazy" decoding="async" width="1200" height="1284" />
   <br /><small><em>Carte du schisme de 1054 : en orange l'obédience romaine, en bleu l'obédience de Constantinople. La ligne tracée cette année-là partage encore l'Europe aujourd'hui.</em></small></p>
 
 <p>Excommunications réciproques entre Rome et Constantinople. Le 16 juillet, un légat du pape dépose sur l'autel de Sainte-Sophie une bulle excommuniant le patriarche Michel Cérulaire, qui excommunie les légats en retour. Ces condamnations visent des personnes, non les Églises, et les contemporains n'y voient pas une rupture. L'incident révèle pourtant des divergences anciennes — doctrine (le <em>Filioque</em>), autorité (primauté du pape contestée par l'Orient), pratiques liturgiques — entre un Occident latin et un Orient grec qui s'éloignent depuis des siècles. C'est rétrospectivement que 1054 sera retenue comme date symbolique du « Grand Schisme ».</p>
 
-# 1066 ans
+# 1066
 
 <p style="text-align:center"><img src="{{ '/assets/img/grenade1066.webp' | relative_url }}" alt="Photographie de l'alcazaba de Grenade : les murailles et les tours de pierre ocre dominant la végétation, avec les montagnes de la Sierra à l'arrière-plan" loading="lazy" decoding="async" width="1200" height="860" />
   <br /><small><em>Les remparts de Grenade au pied de la Sierra Nevada. C'est là qu'une émeute tue le vizir juif Joseph ibn Naghrela et s'étend à toute la communauté.</em></small></p>
@@ -5879,14 +5879,14 @@ tags: technology
 
 <p>Une foule en colère attaque le palais royal, tuant Joseph ibn Naghrela et crucifiant son corps. Le massacre s'étend à la ville, où des milliers de Juifs sont tués (les estimations varient, mais certains rapports parlent de plus de 4000 victimes). Cet événement est considéré comme l'un des premiers pogroms en Europe.</p>
 
-# 1095 ans
+# 1095
 
 <p style="text-align:center"><img src="{{ '/assets/img/clermont.webp' | relative_url }}" alt="Enluminure de l'appel de Clermont : le pape assis en chaire dans une église gothique, prêchant devant une foule dense de prélats et de seigneurs, avec sous l'image un texte à deux colonnes et une seconde scène d'assemblée" loading="lazy" decoding="async" width="1200" height="1801" />
   <br /><small><em>L'appel de Clermont, enluminure française. Le 27 novembre 1095, Urbain II prêche en plein air, devant une foule trop nombreuse pour tenir dans la cathédrale ; il promet la rémission des péchés à ceux qui partiront, et fait coudre une croix d'étoffe sur leur épaule — d'où leur nom.</em></small></p>
 
 <p>Le pape Urbain II prononce l'appel de Clermont (27 novembre). Répondant à la demande de secours de l'empereur byzantin Alexis Ier, menacé par l'avancée des Turcs seldjoukides en Anatolie, il exhorte la chevalerie d'Occident à reprendre Jérusalem et le Saint-Sépulcre, sous domination musulmane depuis 638. Cet appel déclenche la première croisade.</p>
 
-# 1113 ans
+# 1113
 
 <p>Un souverain khmer monte sur le trône et entreprend le plus vaste monument religieux jamais construit : Angkor Vat, cent soixante hectares enclos de douves, une montagne de grès dressée à la gloire de Vishnou — avant de devenir, quelques siècles plus tard, un sanctuaire bouddhiste, sans jamais cesser d'être fréquenté.</p>
 
@@ -5901,7 +5901,7 @@ tags: technology
 
 <p>Sa force fera sa fragilité. Aux XIVᵉ et XVᵉ siècles, des sécheresses d'une violence exceptionnelle — les cernes des arbres en gardent la trace — alternent avec des moussons dévastatrices ; le réseau s'envase, se rompt, et personne ne peut plus le réparer en entier. Une civilisation qui avait bâti sa puissance sur la maîtrise de l'eau meurt de ne plus l'avoir.</p>
 
-# 1117 ans
+# 1117
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/boussolechinoise.webp' | relative_url }}" alt="Boussole chinoise ancienne : une planchette de bois gravée, percée en haut d'un puits rond sous verre où pivote l'aiguille aimantée, et couverte en dessous de colonnes de caractères" width="340" loading="lazy" decoding="async" height="477" />
@@ -5910,7 +5910,7 @@ tags: technology
 
 <p>Premier témoignage attesté de l'usage maritime de la boussole : dans son <em>Pingzhou ketan</em>, Zhu Yu rapporte que les pilotes des navires marchands de Canton s'orientent grâce aux étoiles la nuit, au soleil le jour, et à l'aiguille aimantée par temps couvert. La boussole devient un instrument de navigation hauturière sur les routes commerciales de la mer de Chine et de l'océan Indien, complétant l'observation astronomique plutôt que la remplaçant.</p>
 
-# 1144 ans
+# 1144
 
 <p style="text-align:center"><img src="{{ '/assets/img/norwich.webp' | relative_url }}" alt="Photographie de l'intérieur de la cathédrale de Norwich : la nef vue dans l'axe, ses stalles de bois sculpté et ses arcades gothiques montant vers la voûte à nervures" loading="lazy" decoding="async" width="1200" height="1072" />
   <br /><small><em>L'intérieur de la cathédrale de Norwich. C'est dans cette ville qu'un moine invente, après la mort d'un enfant, l'accusation de meurtre rituel — une calomnie qui fera des siècles de victimes en Europe.</em></small></p>
@@ -5919,7 +5919,7 @@ tags: technology
 
 <p>Au fil des siècles, cette calomnie se répète à de nombreuses reprises dans diverses parties de l'Europe, menant souvent à des persécutions et des violences contre les communautés juives. Ces accusations sont entièrement infondées et reflètent les préjugés et la méfiance profonds envers les Juifs qui prévalent dans la société médiévale chrétienne.</p>
 
-# 1150 ans
+# 1150
 
 <p style="text-align:center"><img src="{{ '/assets/img/tolede.webp' | relative_url }}" alt="Photographie de Tolède au crépuscule : la ville étagée sur sa colline, dominée par l'Alcázar carré à gauche et la flèche de la cathédrale à droite" loading="lazy" decoding="async" width="1200" height="570" />
   <br /><small><em>Tolède, l'Alcázar et la cathédrale. C'est dans cette ville reconquise, et non dans l'Espagne musulmane à son apogée, qu'Aristote, Euclide et Ptolémée repassent en latin.</em></small></p>
@@ -5930,14 +5930,14 @@ tags: technology
 
 <p>Le paradoxe mérite d'être noté : ces traductions décisives ne se font pas dans l'Espagne musulmane à son apogée, mais dans une ville reconquise, sous autorité chrétienne, à partir de bibliothèques héritées. Les cultures se transmettent souvent ainsi — non par cohabitation harmonieuse, mais par conquête, réemploi et curiosité.</p>
 
-# 1170 ans
+# 1170
 
 <p style="text-align:center"><img src="{{ '/assets/img/lancelot.webp' | relative_url }}" alt="Enluminure médiévale d'un roman courtois : deux couples assis dans une barque, l'un partageant une coupe, dans une bordure de rinceaux fleuris surmontée d'un texte en écriture gothique" loading="lazy" decoding="async" width="1200" height="1005" />
   <br /><small><em>Enluminure du <em>Roman de Tristan</em> : la scène du philtre, bue en mer sur un échiquier. Les récits arthuriens diffusent alors dans toute l'Europe les valeurs de la chevalerie courtoise.</em></small></p>
 
 <p>Les récits de Chrétien de Troyes diffusent les figures de Lancelot, Guenièvre et les valeurs de la chevalerie courtoise dans toute l'Europe.</p>
 
-# 1180 ans
+# 1180
 
 <p style="text-align:center"><img src="{{ '/assets/img/taira.webp' | relative_url }}" alt="Portrait japonais de Taira no Kiyomori : le chef de clan assis en large tenue de cour noire à motifs, coiffé du bonnet d'apparat, avec une inscription calligraphiée en haut" loading="lazy" decoding="async" width="1137" height="1060" />
   <br /><small><em>Taira no Kiyomori, portrait japonais. Son clan domine la cour impériale et installe même son petit-fils sur le trône — jusqu'à la guerre qui portera les Minamoto au pouvoir.</em></small></p>
@@ -5946,14 +5946,14 @@ tags: technology
 
 <p>Dans le sud de la Chine, Zhu Xi enseigne à ses disciples à pratiquer le quiet sitting (méditation) chaque jour, notamment avant l’étude des Classiques, pour calmer les émotions, se recentrer, et se rendre disponible à l’apprentissage moral.</p>
 
-# 1190 ans
+# 1190
 
 <p style="text-align:center"><img src="{{ '/assets/img/boussoleeurope.webp' | relative_url }}" alt="Rose des vents d'un portulan : une étoile à seize branches peinte en rouge, vert et or, portant l'initiale des vents et surmontée d'une fleur de lys marquant le nord" loading="lazy" decoding="async" width="1200" height="1179" />
   <br /><small><em>Rose des vents d'une carte portulan, à la fleur de lys marquant le nord. La boussole, signalée en Chine dès 1117, apparaît dans les textes européens à la fin du XIIᵉ siècle.</em></small></p>
 
 <p>Première mention européenne de la boussole : le moine anglais Alexander Neckam décrit dans son <em>De naturis rerum</em> l'aiguille aimantée utilisée par les marins pour retrouver le nord lorsque le ciel est voilé. La transmission depuis la Chine s'est probablement faite par les routes commerciales, via les navigateurs du monde islamique ou directement le long des routes de la soie, sans que le trajet exact soit documenté.</p>
 
-# 1191 ans
+# 1191
 
 <p style="text-align:center"><img src="{{ '/assets/img/eisai.webp' | relative_url }}" alt="Peinture japonaise représentant le moine Eisai assis sur une estrade, en robe monastique et bandeau blanc, ses sandales posées devant lui" loading="lazy" decoding="async" width="800" height="1414" />
   <br /><small><em>Portrait japonais du moine Eisai. Rentré de Chine, il introduit au Japon l'école chan — le zen — et rapporte dans ses bagages des graines de théier.</em></small></p>
@@ -5964,7 +5964,7 @@ tags: technology
 
 <p>Curieuse trajectoire : une doctrine indienne, transformée en Chine, sauvée par sa pauvreté d'une persécution impériale, devenue au Japon l'art de vivre d'une caste de guerriers.</p>
 
-# 1192 ans
+# 1192
 
 <p style="text-align:center"><img src="{{ '/assets/img/yoritomo.webp' | relative_url }}" alt="Portrait japonais de Minamoto no Yoritomo : le premier shōgun assis en tenue de cour sombre, coiffe noire et sabre à la ceinture, sur fond neutre" loading="lazy" decoding="async" width="1200" height="1495" />
   <br /><small><em>Minamoto no Yoritomo, portrait sur soie. Il ne renverse pas l'empereur : il le laisse régner et prend tout le reste — l'armée, la justice, l'impôt. Le montage durera sept siècles.</em></small></p>
@@ -5975,7 +5975,7 @@ tags: technology
 
 <p>Masakado avait voulu être empereur et y avait perdu la tête. Ses successeurs ont compris qu'il valait mieux garder l'empereur et prendre tout le reste.</p>
 
-# 1202 ans
+# 1202
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/sacconstantinople.webp' | relative_url }}" alt="Peinture du sac de Constantinople : les galères croisées accostent au pied des murailles, échelles dressées et bannières déployées, dans la fumée de l'assaut" loading="lazy" decoding="async" width="900" height="764" />
@@ -5984,7 +5984,7 @@ tags: technology
 
 <p>La quatrième croisade est lancée par le pape Innocent III. L'objectif militaire retenu n'est pas Jérusalem elle-même mais l'Égypte, tenue pour la clé de la Terre sainte : c'est en frappant le cœur de la puissance ayyoubide qu'on espère reprendre la ville.</p>
 
-# 1204 ans
+# 1204
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4qOVh4R8lys" data-id="4qOVh4R8lys" rel="noopener" aria-label="Lire la vidéo YouTube : 1204 quand la croisade dérape"><img src="https://i.ytimg.com/vi/4qOVh4R8lys/hqdefault.jpg" alt="Miniature de la vidéo YouTube « 1204 quand la croisade dérape »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -5992,7 +5992,7 @@ tags: technology
 
 <p>Le traumatisme scelle dans les mentalités orientales ce que les querelles théologiques n'avaient pas accompli : Rome n'est plus perçue comme une Église sœur en désaccord, mais comme un agresseur. Même après la reconquête byzantine de 1261, les tentatives d'union (Lyon 1274, Florence 1439) échoueront face au refus populaire et monastique grec. Les anathèmes de 1054 seront levés réciproquement en 1965 par Paul VI et le patriarche Athénagoras, sans rétablissement de la pleine communion.</p>
 
-# 1206 ans
+# 1206
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=A9o_eh6qGOo" data-id="A9o_eh6qGOo" rel="noopener" aria-label="Lire la vidéo YouTube : Gengis Khan et les Mongols, artisans de la première mondialisation de l'histoire"><img src="https://i.ytimg.com/vi/A9o_eh6qGOo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Gengis Khan et les Mongols, artisans de la première mondialisation de l'histoire »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6009,7 +6009,7 @@ tags: technology
 
 <p>Ironie que ces deux fondations de la même année réservent à l'histoire : c'est ce sultanat, et presque lui seul, qui arrêtera les descendants de Gengis Khan. Pendant un siècle, les armées mongoles se briseront devant Delhi sans jamais prendre la plaine du Gange. L'Inde du Nord sera l'un des très rares mondes que la vague mongole atteindra sans le submerger.</p>
 
-# 1235 ans
+# 1235
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/empiremali.webp' | relative_url }}" alt="Carte de l'empire du Mali : le territoire, en vert, s'étire de l'Atlantique au coude du Niger, avec Koumbi Saleh, Tombouctou, Djenné et Gao repérées le long du fleuve" loading="lazy" decoding="async" width="900" height="562" />
@@ -6024,7 +6024,7 @@ tags: technology
 
 <p>Nous avons déjà croisé ce mécanisme deux fois : les hymnes védiques mémorisés syllabe par syllabe, les chants d'Achille transmis pendant quatre siècles d'obscurité grecque. L'Afrique de l'Ouest en offre le troisième grand exemple — et le seul dont les praticiens exercent encore aujourd'hui.</p>
 
-# 1270 ans
+# 1270
 
 <p style="text-align:center"><img src="{{ '/assets/img/saintlouis.webp' | relative_url }}" alt="Peinture de la mort de Saint Louis : le roi soutenu au milieu de son camp en désordre, un soldat brandissant l'épée au-dessus des mourants et des armes abandonnées" loading="lazy" decoding="async" width="500" height="709" />
   <br /><small><em>Saint Louis au combat pendant une croisade, peinture du XVIIIᵉ siècle. Il meurt devant Tunis, emporté par l'épidémie qui ravage son camp.</em></small></p>
@@ -6035,7 +6035,7 @@ tags: technology
 
 <p>La même piété produit l'autre versant du règne : il fait brûler les exemplaires du Talmud, durcit le statut des juifs du royaume et impose le port d'un signe distinctif. On le canonise en 1297. Aucun roi de France ne le sera après lui.</p>
 
-# 1275 ans
+# 1275
 
 <p style="text-align:center"><img src="{{ '/assets/img/horloge.webp' | relative_url }}" alt="Planche technique d'un échappement d'horloge médiévale : deux vues d'un mécanisme à roues dentées, avec l'arbre vertical, la palette d'échappement et le balancier à poids, chaque pièce repérée par une lettre" loading="lazy" decoding="async" width="1200" height="1287" />
   <br /><small><em>Planches gravées d'échappements d'horloge. L'échappement à foliot découpe le temps en intervalles égaux : les monastères d'Occident cessent de lire l'heure au soleil pour la lire sur une machine.</em></small></p>
@@ -6044,14 +6044,14 @@ tags: technology
 
 <p>Les horloges mécaniques de cette époque sont souvent installées dans les églises et les monastères, où elles servent à marquer les heures pour les prières et les offices religieux. Elles ont également été utilisées pour réguler les activités quotidiennes dans les communautés locales.</p>
 
-# 1279 ans
+# 1279
 
 <p style="text-align:center"><img src="{{ '/assets/img/yamen.webp' | relative_url }}" alt="Gravure sur bois chinoise d'un navire de guerre à étages : un bâtiment à rames surmonté d'une tour crénelée et armé d'une catapulte à traction, entouré de colonnes de caractères" loading="lazy" decoding="async" width="1600" height="1199" />
   <br /><small><em>Navire de guerre chinois à tour et catapulte, planche du Wujing Zongyao, le manuel militaire des Song. C'est une flotte de ce type qui est détruite à Yamen. Domaine public, via Wikimedia Commons.</em></small></p>
 
 <p>Les forces Song résistantes sont défaites par les Mongols à la bataille de Yamen. C'est à cette bataille que le dernier empereur Song, l'empereur Bing, périt, mettant fin à la dynastie Song.</p>
 
-# 1324 ans
+# 1324
 
 <p>L'empereur du Mali part en pèlerinage à La Mecque, et son passage au Caire va rester dans les annales des chroniqueurs arabes pour une raison très concrète : il fait s'effondrer le cours de l'or.</p>
 
@@ -6066,7 +6066,7 @@ tags: technology
   <br /><small><em>Mansa Moussa sur son trône, une pépite d'or à la main : l'atlas catalan de 1375, dessiné à Majorque. Attribué à Abraham Cresques, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1347 ans
+# 1347
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=fbKCnLt1o-I" data-id="fbKCnLt1o-I" rel="noopener" aria-label="Lire la vidéo YouTube : La grande peste noire du Moyen Âge"><img src="https://i.ytimg.com/vi/fbKCnLt1o-I/hqdefault.jpg" alt="Miniature de la vidéo YouTube « La grande peste noire du Moyen Âge »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6078,7 +6078,7 @@ tags: technology
 
 <p>Il y a un débat entre les médecins: le mal se propage par l'air ou par le contact. Même s'ils n'ont aucun moyen scientifique pour démontrer cette hypothèse, les médecins comprennent qu'il faut empêcher la circulation des marchandises et des humains.</p>
 
-# 1348 ans
+# 1348
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/pestenoire.webp' | relative_url }}" alt="Enluminure médiévale de la peste noire : des habitants ensevelissent à la hâte les corps dans des cercueils alignés, sous un encadrement décoratif" loading="lazy" decoding="async" width="801" height="482" />
@@ -6089,7 +6089,7 @@ tags: technology
 
 <p>Un dimanche des Rameaux, des habitants envahirent le quartier juif de Toulon, tuèrent une quarantaine de Juifs et pillèrent leurs maisons.</p>
 
-# 1349 ans
+# 1349
 
 <p style="text-align:center"><img src="{{ '/assets/img/strasbourg1349.webp' | relative_url }}" alt="Gravure d'un massacre médiéval : une foule armée envahit une maison et frappe ses habitants, un chandelier à sept branches renversé au fond de la pièce" loading="lazy" decoding="async" width="1200" height="1252" />
   <br /><small><em>Le massacre des Juifs de Strasbourg, gravure du XIXᵉ siècle. Deux logiques s'y mêlent : punir des coupables supposés de l'épidémie, ou croire que les tuer l'empêchera d'arriver.</em></small></p>
@@ -6098,7 +6098,7 @@ tags: technology
 
 <p>Ces croyances reposent sur deux logiques distinctes : tantôt punir les Juifs tenus pour responsables de la peste, tantôt croire que les tuer empêcherait la maladie d'atteindre la localité. Et il est notable que l'Église officielle s'y oppose : le pape Clément VI, dans une bulle de la fin 1349, condamne les flagellants pour le « sang des Juifs versé ». Les historiens économistes ont d'ailleurs montré que les pogroms sont souvent déclenchés par des familles de marchands endettées auprès des Juifs — autrement dit, l'accusation d'empoisonnement sert aussi des intérêts matériels très concrets.</p>
 
-# 1350 ans
+# 1350
 
 <p>Sur un plateau entre le Zambèze et le Limpopo s'élève une capitale de pierre sèche. Aucun mortier : des centaines de milliers de blocs de granit taillés et empilés avec une précision telle que les murs tiennent debout sept siècles plus tard. Le plus grand enclos développe deux cent cinquante mètres de muraille sur onze mètres de haut, doublée d'une tour conique dont personne ne sait à quoi elle servait.</p>
 
@@ -6113,7 +6113,7 @@ tags: technology
 
 <p>L'archéologie a tranché depuis longtemps. En accédant à l'indépendance en 1980, le pays a pris le nom de ses ruines.</p>
 
-# 1353 ans
+# 1353
 
 <p style="text-align:center"><img src="{{ '/assets/img/pestemoscou.webp' | relative_url }}" alt="Miniature médiévale de la peste : des malades allongés côte à côte sous des couvertures à carreaux, veillés par un religieux qui lève les bras au-dessus d'eux" loading="lazy" decoding="async" width="533" height="357" />
   <br /><small><em>Malades couverts de bubons, miniature de la Bible de Toggenburg, 1411. C'est l'une des rares images contemporaines de la peste noire, qui met six ans à traverser le continent d'un bout à l'autre.</em></small></p>
@@ -6124,7 +6124,7 @@ tags: technology
 
 <p>Il faut mesurer le trajet accompli : partie d'Asie centrale, l'épidémie aura mis six ans à parcourir le continent d'un bout à l'autre, à la vitesse des caravanes et des navires. C'est la première fois qu'un événement biologique frappe l'Eurasie entière comme un seul organisme.</p>
 
-# 1364 ans
+# 1364
 
 ## France
 
@@ -6132,7 +6132,7 @@ tags: technology
 
 <p>À Reims, les fidèles entendent pour la première fois une messe entièrement composée par un seul musicien, avec des voix qui s’entrelacent de façon savante, donnant une nouvelle ampleur à la liturgie médiévale et ouvrant la voie à toute la musique polyphonique de la Renaissance. La Messe de Nostre Dame de Guillaume de Machaut n’a pourtant pas été écrite pour une grande cérémonie. Chanoine de Reims depuis une trentaine d’années, Machaut la destine à la messe mariale hebdomadaire que son frère Jean et lui ont fondée à la cathédrale : elle devait être chantée chaque samedi à l’autel de Notre-Dame, pour le repos de leurs âmes. Le chef-d’œuvre est né d’une fondation funéraire privée.</p>
 
-# 1368 ans
+# 1368
 
 <p style="text-align:center"><img src="{{ '/assets/img/hongwu.webp' | relative_url }}" alt="Portrait chinois à l'encre de l'empereur Hongwu : un homme au visage grêlé et à la mâchoire proéminente, coiffé d'un bonnet, en robe claire" loading="lazy" decoding="async" width="823" height="1230" />
   <br /><small><em>L'empereur Hongwu dans la version la plus rude de ses portraits. Fils de paysans sans terre, orphelin de la famine, moine mendiant puis chef rebelle, il fonde les Ming et gouverne seul, jusqu'à la paranoïa.</em></small></p>
@@ -6145,7 +6145,7 @@ tags: technology
 
 <p>Les Ming donneront à la Chine trois siècles de stabilité, la Cité interdite, une porcelaine bleu et blanc que l'Europe entière s'arrachera — et une durable méfiance envers le large.</p>
 
-# 1388 ans
+# 1388
 
 <p style="text-align:center"><img src="{{ '/assets/img/vagabondage.webp' | relative_url }}" alt="Plaque émaillée médiévale dans un cadre doré : un cavalier en manteau partage son vêtement avec un mendiant, devant une ville aux tours rouges sur fond bleu étoilé" loading="lazy" decoding="async" width="1200" height="1159" />
   <br /><small><em>Plaque émaillée de Limoges : saint Martin partage son manteau avec un mendiant. Au même moment, l'Angleterre fait du vagabondage un délit et oblige les sans-terre à rester dans leur paroisse.</em></small></p>
@@ -6154,21 +6154,21 @@ tags: technology
 
 <p>La loi vise à réguler le travail et à contrôler les déplacements des travailleurs. Elle exige des gens sans terre ou sans emploi qu'ils restent dans leur lieu de naissance ou là où ils ont vécu ces trois dernières années, sauf s'ils peuvent démontrer qu'ils sont en recherche active d'emploi. Ceux qui ne se conforment pas sont considérés comme des vagabonds et peuvent être punis.</p>
 
-# 1392 ans
+# 1392
 
 <p style="text-align:center"><img src="{{ '/assets/img/joseon.webp' | relative_url }}" alt="Portrait de cour coréen du roi Taejo, fondateur de la dynastie Joseon : le souverain assis de face sur un trône rouge, en robe bleue brodée d'un dragon d'or et coiffé du bonnet noir" loading="lazy" decoding="async" width="650" height="928" />
   <br /><small><em>Taejo de Joseon en robe de dragon bleue. Le général Yi Seong-gye renverse la dynastie Goryeo et fonde un régime qui gouvernera la Corée pendant cinq siècles.</em></small></p>
 
 <p>La période Joseon, également appelée dynastie Joseon ou Chosŏn, débute en Corée. Elle est fondée par le général Yi Seong-gye, qui renverse la dynastie Goryeo et devient le premier roi de Joseon sous le nom de Taejo.</p>
 
-# 1400 ans
+# 1400
 
 <p style="text-align:center"><img src="{{ '/assets/img/cafeyemen.webp' | relative_url }}" alt="Gravure ancienne d'un port : des voiliers à l'ancre et des barques au premier plan, devant une ville côtière hérissée de tours et adossée à des montagnes" loading="lazy" decoding="async" width="744" height="391" />
   <br /><small><em>Le port de Moka, gravure ancienne. C'est par cette rade du Yémen que le café, d'abord bu par des soufis pour tenir éveillés pendant les veillées, part à la conquête du monde.</em></small></p>
 
 <p>Le café commence à être cultivé et consommé sous forme de boisson au Yémen, principalement par des soufis, des religieux qui utilisent la boisson pour rester éveillés pendant les longues heures de prière et de méditation nocturnes.</p>
 
-# 1402 ans
+# 1402
 
 <p>Près d'Ankara, deux des plus grandes armées du monde se rencontrent, et l'Empire ottoman manque de disparaître soixante ans avant d'atteindre son sommet.</p>
 
@@ -6185,7 +6185,7 @@ tags: technology
   <br /><small><em>Le Registan de Samarcande : les coupoles turquoise dont Tamerlan a couvert sa capitale avec les artisans déportés des pays qu'il détruisait. Photo Jean-Pierre Dalbéra, CC BY 2.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1405 ans
+# 1405
 
 <p>Un eunuque musulman de la cour Ming prend la mer à la tête de la plus grande flotte que le monde ait vue : plusieurs centaines de navires, près de trente mille hommes. Les plus grands bâtiments — les « bateaux-trésors » — dépassent probablement les soixante mètres, quand les caravelles portugaises qui partiront un siècle plus tard en font vingt-cinq. Ils ont des cloisons étanches, un gouvernail d'étambot, la boussole, et des jonques entières chargées d'eau douce. L'homme s'appelle Zheng He.</p>
 
@@ -6200,7 +6200,7 @@ tags: technology
 
 <p>Soixante ans après la dernière expédition, Vasco de Gama double le cap de Bonne-Espérance avec quatre navires et cent soixante-dix hommes, et entre dans un océan Indien que la Chine venait de quitter. Il n'y a donc aucune fatalité technique dans la domination européenne des mers : à un moment précis, l'empire le mieux équipé du monde a décidé que le large ne l'intéressait pas.</p>
 
-# 1420 ans
+# 1420
 
 <p>Florence a un problème que personne ne sait résoudre. Sa cathédrale est ouverte depuis plus d'un siècle sur un trou de quarante-trois mètres de diamètre : on a bâti l'édifice en pariant qu'on trouverait bien, un jour, le moyen de le couvrir. Aucune charpente ne peut porter un cintre de cette portée, et il n'y a pas assez de bois en Toscane pour l'essayer.</p>
 
@@ -6219,7 +6219,7 @@ tags: technology
 
 <p>Voilà ce qu'est la Renaissance, bien plus qu'un retour à l'Antiquité : un déplacement du point de vue. Et Florence, ville de banquiers sans dynastie ni armée, en devient le laboratoire — parce que les Médicis y ont compris avant les autres qu'on achète du prestige avec de l'art plus sûrement qu'avec des soldats.</p>
 
-# 1439 ans
+# 1439
 
 <p>Johannes Gutenberg met au point sa première imprimerie en Allemagne. Les étapes de l'invention sont les suivantes:</p>
 
@@ -6256,7 +6256,7 @@ tags: technology
   <br /><small><em>La Genèse dans la Bible à 42 lignes : texte imprimé, décor peint à la main. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1453 ans
+# 1453
 
 <p>Constantinople, la capitale de l'Empire byzantin, est assiégée et conquise par les forces ottomanes dirigées par le sultan Mehmed II. L'évolution technologique de l'artillerie joue un rôle crucial dans la prise de Constantinople. Les Ottomans, dirigés par le sultan Mehmed utilisent des canons de siège massifs et innovants pour percer les remparts autrefois impénétrables de la ville. Les canons sont capables de tirer sur de longues distances avec une précision étonnante pour l'époque. Ils sont utilisés pour pilonner les murs de la ville pendant plusieurs semaines, créant des brèches qui permettent aux forces ottomanes d'entrer et de capturer Constantinople.</p>
 
@@ -6269,7 +6269,7 @@ tags: technology
 
 <p>Cet événement historique marque la fin de l'Empire byzantin et le début de l'Empire ottoman. C'est aussi souvent considérée comme la fin de l'époque médiévale et le début de l'époque moderne en Europe. Elle entraîne également la fragmentation de la chrétienté orthodoxe et la montée en puissance de l'Empire ottoman, qui devient l'une des forces dominantes de la région pendant plusieurs siècles.</p>
 
-# 1455 ans
+# 1455
 
 <p style="text-align:center"><img src="{{ '/assets/img/romanuspontifex.webp' | relative_url }}" alt="Photographie d'un fragment de sceau de cire ou d'argile posé à côté d'une réglette de 2 cm : un demi-disque beige portant une empreinte en relief partiellement effacée" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Fragment de bulle de plomb pontificale, avec échelle. C'est le sceau qui authentifiait les actes du pape — comme la bulle <em>Romanus Pontifex</em>, qui légitima la traite portugaise.</em></small></p>
@@ -6278,7 +6278,7 @@ tags: technology
 
 <p>Cette bulle papale est utilisée par les Portugais pour justifier leur expansion coloniale en Afrique et leur commerce des Africains comme esclaves.</p>
 
-# 1456 ans
+# 1456
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=VD9vwdkoUm0" data-id="VD9vwdkoUm0" rel="noopener" aria-label="Lire la vidéo YouTube : Vlad l'empaleur, figure du prince barbare et hérétique"><img src="https://i.ytimg.com/vi/VD9vwdkoUm0/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Vlad l'empaleur, figure du prince barbare et hérétique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6288,7 +6288,7 @@ tags: technology
 
 <p>Quatre siècles plus tard, un romancier irlandais cherchant un nom pour son vampire tombera sur celui que Vlad tenait de son père, membre de l'ordre du Dragon : Dracul. En Roumanie, il est resté un héros national — le prince qui a dit non au sultan.</p>
 
-# 1467 ans
+# 1467
 
 <p style="text-align:center"><img src="{{ '/assets/img/onin.webp' | relative_url }}" alt="Plan ancien d'une ville d'Extrême-Orient : le damier des quartiers et des palais, le réseau des canaux et des cours d'eau tracés en vert, accompagné de longues colonnes de caractères" loading="lazy" decoding="async" width="1200" height="1889" />
   <br /><small><em>Plan ancien de Kyoto. La guerre d'Ōnin se déroule onze ans à l'intérieur même de la ville, qui en sort en cendres — et le pays entre dans un siècle et demi de provinces en guerre.</em></small></p>
@@ -6299,7 +6299,7 @@ tags: technology
 
 <p>Commence alors ce que les Japonais appellent l'époque des provinces en guerre : un siècle et demi où quelques centaines de seigneurs se dévorent, où l'on peut naître paysan et mourir maître d'une province, et d'où sortiront les trois unificateurs qui refermeront le pays. Le Japon des samouraïs que l'imagination occidentale a retenu — les châteaux, les bannières, les batailles rangées — naît de cet effondrement.</p>
 
-# 1468 ans
+# 1468
 
 <p>Le souverain songhaï Sonni Ali prend Tombouctou et entreprend d'absorber ce qui restait de l'empire du Mali. Sous son successeur Askia Mohammed, le Songhaï deviendra le plus vaste État que l'Afrique ait porté.</p>
 
@@ -6316,13 +6316,13 @@ tags: technology
 
 <p>La fin viendra du désert. En 1591, une armée envoyée par le sultan du Maroc traverse le Sahara et écrase les Songhaïs à Tondibi. Ils étaient bien plus nombreux ; les Marocains avaient des arquebuses. La poudre, sortie des officines des alchimistes taoïstes sept siècles plus tôt, achève ici sa traversée du monde.</p>
 
-# 1470 ans
+# 1470
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=_t-rAsC9IWc" data-id="_t-rAsC9IWc" rel="noopener" aria-label="Lire la vidéo YouTube : Johannes Ockeghem - Missa prolationum"><img src="https://i.ytimg.com/vi/_t-rAsC9IWc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Johannes Ockeghem - Missa prolationum »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Ecriture de la messe polyphonique Missa Prolationum qui est une innovation majeure parce qu’elle est entièrement construite sur des canons complexes, chaque voix imitant les autres à différentes vitesses et proportions (c’est-à-dire que la musique joue sur les durées relatives et les imitations croisées).</p>
 
-# 1473 ans
+# 1473
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/copernic.webp' | relative_url }}" alt="Portrait peint de Nicolas Copernic : un homme aux cheveux mi-longs, vêtu d'une robe rouge sur une chemise sombre, sur fond neutre" loading="lazy" decoding="async" width="900" height="879" />
@@ -6335,14 +6335,14 @@ tags: technology
 
 <p>Il fera circuler un résumé manuscrit dès 1514, puis attendra son lit de mort, en 1543, pour laisser paraître son livre. La prudence n'était pas feinte : déplacer la Terre, c'était déloger l'homme du centre de la création. Galilée l'apprendra à ses dépens quatre-vingt-dix ans plus tard.</p>
 
-# 1475 ans
+# 1475
 
 <p style="text-align:center"><img src="{{ '/assets/img/maisondecafe.webp' | relative_url }}" alt="Miniature ottomane : une assemblée d'hommes en turbans, assis par petits groupes sur plusieurs registres d'un intérieur richement décoré, occupés à converser et à boire" loading="lazy" decoding="async" width="966" height="1484" />
   <br /><small><em>Une maison de café ottomane, miniature turque. Ce n'est ni la famille ni la mosquée : c'est le premier lieu où des hommes s'assoient ensemble sans autre raison que d'y être — d'où l'inquiétude des autorités.</em></small></p>
 
 <p>La tradition place ici l'ouverture de la première maison de café (<em>qahveh khaneh</em>) à Constantinople — mais aucune source ne l'atteste, et les premiers cafés d'Istanbul solidement documentés datent en réalité des années 1550. Ces établissements, une fois installés, deviennent des lieux publics consacrés à la consommation de café. Ces établissements sont des lieux de rencontre pour les intellectuels, les artistes et les religieux.</p>
 
-# 1482 ans
+# 1482
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/leonard.webp' | relative_url }}" alt="Dessin à la sanguine représentant Léonard de Vinci de profil : un vieil homme à la longue barbe et aux cheveux ondulés, sous une inscription portant son nom" loading="lazy" decoding="async" width="628" height="900" />
@@ -6357,7 +6357,7 @@ tags: technology
 
 <p>Léonard passera dix-sept ans à Milan et y laissera la Cène, peinte sur un mur de réfectoire avec une technique de son invention qui commencera à s'écailler de son vivant. C'était sa manie : essayer autrement, quitte à ce que cela tienne moins longtemps.</p>
 
-# 1492 ans
+# 1492
 
 <p>En Espagne, le dernier royaume musulman ibérique s'effondre. C'est la fin de la « reconquista » qui est marquée par la prise de la ville de Grenade, dernier bastion de la péninsule ibérique. Les royaumes chrétiens souhaitent propager la religion partout où ils le peuvent. La fin de la reconquista coïncide également avec le début de l'âge d'or de l'Espagne, qui voit le pays devenir une puissance maritime et coloniale majeure.</p>
 
@@ -6365,7 +6365,7 @@ tags: technology
 
 <p>Dans la recherche de nouvelles routes commerciales vers les Indes, de nouvelles terres sont découvertes à l'Ouest, par delà le grand océan. Christophe Colomb débarque aux Antilles pour le compte de l'Espagne. Il découvre aussi Cuba.</p>
 
-# 1498 ans
+# 1498
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/vascodegama.webp' | relative_url }}" alt="Portrait peint de Vasco de Gama : le navigateur en pourpoint sombre et manteau rouge, la main sur la garde de son épée, la croix de l'ordre du Christ brodée sur la poitrine" loading="lazy" decoding="async" width="654" height="900" />
@@ -6378,7 +6378,7 @@ tags: technology
 
 <p>Le Portugal en tire une stratégie que l'Europe copiera pendant quatre siècles : non pas conquérir des territoires, mais tenir les points de passage — Goa, Ormuz, Malacca — et faire payer le droit de naviguer. La Méditerranée cesse d'être le centre du monde ; l'océan le devient.</p>
 
-# 1500 ans
+# 1500
 
 <p style="text-align:center"><img src="{{ '/assets/img/cabral.webp' | relative_url }}" alt="Portrait gravé de Pedro Álvares Cabral dans un médaillon ovale : un homme barbu en armure, son nom gravé sur le cartouche du bas" loading="lazy" decoding="async" width="827" height="1024" />
   <br /><small><em>Pedro Álvares Cabral, portrait gravé. Parti pour les Indes, sa flotte s'écarte trop à l'ouest et touche une côte inconnue : le Brésil.</em></small></p>
@@ -6389,7 +6389,7 @@ tags: technology
 
 <p>La logique est implacable et elle sera copiée partout : une plante rentable, une colonie lointaine, une main-d'œuvre déportée. En trois siècles, elle transportera de force plus de dix millions d'Africains à travers l'Atlantique, dont près de la moitié vers le seul Brésil. L'Europe ne vient pas d'inventer l'esclavage, qui est vieux comme les États. Elle vient de l'industrialiser.</p>
 
-# 1503 ans
+# 1503
 
 <p style="text-align:center"><img src="{{ '/assets/img/encomienda.webp' | relative_url }}" alt="Photographie du Cerro Rico dominant Potosí : la montagne conique aux flancs ravinés, surplombant les toits serrés de la ville minière, sous un ciel d'altitude" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Le Cerro Rico dominant Potosí. La montagne d'argent et l'encomienda relèvent de la même mécanique : un travail imposé aux populations locales sous couvert de contrat ou de protection.</em></small></p>
@@ -6400,7 +6400,7 @@ tags: technology
 
 <p>Ce sera une constante de l'histoire coloniale : les catégories du droit servent moins à empêcher la violence qu'à la rendre énonçable.</p>
 
-# 1508 ans
+# 1508
 
 <p>Trois hommes travaillent la même année à quelques centaines de mètres les uns des autres, et l'histoire de l'art n'a jamais rassemblé pareille concentration.</p>
 
@@ -6417,7 +6417,7 @@ tags: technology
 
 <p>C'est le paradoxe de cette Renaissance : elle produit des œuvres que personne ne dépassera et un savoir qui ne circule pas. Il manque à ces hommes ce que Gutenberg vient d'inventer à deux mille kilomètres de là — l'imprimé, la diffusion, la possibilité qu'un autre reprenne votre travail là où vous l'avez laissé. Le génie isolé fait des chefs-d'œuvre ; il ne fait pas une science.</p>
 
-# 1510 ans
+# 1510
 
 <p style="text-align:center"><img src="{{ '/assets/img/cafelecaire.webp' | relative_url }}" alt="Peinture orientaliste d'une maison de café ottomane : des hommes en turbans assis sur des banquettes autour d'un narguilé, dans une salle voûtée éclairée par une lanterne" loading="lazy" decoding="async" width="640" height="480" />
   <br /><small><em>Intérieur d'un café ottoman, estampe orientaliste du XIXᵉ siècle. Le café gagne La Mecque et Le Caire — et avec lui l'idée d'un espace public où l'on parle.</em></small></p>
@@ -6428,7 +6428,7 @@ tags: technology
 
 <p>Le café gagnera à chaque fois, et il emportera sa maison avec lui : de Constantinople à Londres et à Paris, le siècle qui vient verra les cafés devenir les premiers espaces publics de l'histoire moderne — assez ouverts pour qu'on y entre sans y être invité, assez fermés pour qu'on y parle.</p>
 
-# 1511 ans
+# 1511
 
 <p style="text-align:center"><img src="{{ '/assets/img/cuba.webp' | relative_url }}" alt="Photographie d'une cathédrale coloniale à deux clochers, façade jaune et coupoles dorées, dominant une place plantée d'arbres" loading="lazy" decoding="async" width="1200" height="898" />
   <br /><small><em>La cathédrale de Santiago de Cuba. Fondée par Velázquez, la ville sert de base arrière à tout ce qui suivra dans les Caraïbes — dont l'expédition de Cortés.</em></small></p>
@@ -6437,7 +6437,7 @@ tags: technology
 
 <p>Le schéma se répète d'île en île avec une régularité mécanique : débarquement, alliance avec un groupe local contre un autre, encomienda, épidémie, effondrement démographique, et recherche d'une nouvelle île. En moins de trente ans, les Grandes Antilles auront perdu l'essentiel de leur population d'origine — et c'est ce vide, plus que la richesse des lieux, qui poussera les Espagnols vers le continent.</p>
 
-# 1514 ans
+# 1514
 
 <p style="text-align:center"><img src="{{ '/assets/img/commentariolus.webp' | relative_url }}" alt="Photographie du manuscrit du Commentariolus de Copernic : une page de papier jauni et écornée, couverte d'une écriture serrée sous le titre latin" loading="lazy" decoding="async" width="1200" height="1592" />
   <br /><small><em>Première page du <em>Commentariolus</em> de Copernic. Une quarantaine de pages manuscrites, sans nom d'auteur, qu'il fait seulement circuler entre amis : il attendra son lit de mort pour publier.</em></small></p>
@@ -6448,7 +6448,7 @@ tags: technology
 
 <p>Le livre ne paraîtra qu'en 1543, l'année de sa mort — la tradition veut qu'on lui en ait apporté un exemplaire sur son lit d'agonie. Il faudra encore un siècle, les ellipses de Kepler et la lunette de Galilée, pour que l'intuition devienne une preuve.</p>
 
-# 1515 ans
+# 1515
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vlB1HR4BgUg" data-id="vlB1HR4BgUg" rel="noopener" aria-label="Lire la vidéo YouTube : Josquin:  Missa Pange lingua (Tallis Scholars)"><img src="https://i.ytimg.com/vi/vlB1HR4BgUg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Josquin:  Missa Pange lingua (Tallis Scholars) »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6456,7 +6456,7 @@ tags: technology
 
 <p>Le résultat est un renversement. Dans la polyphonie ancienne, les voix se superposaient sur une mélodie porteuse ; ici, elles sont toutes faites de la même matière et toutes également vivantes. C'est la naissance d'une écriture où la musique se développe à partir d'une cellule, comme une plante à partir d'une graine — le principe que travailleront Palestrina, puis Bach, puis à peu près tout le monde.</p>
 
-# 1517 ans
+# 1517
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/luther.webp' | relative_url }}" alt="Portrait peint de Martin Luther par Cranach : le réformateur de trois quarts, en robe noire et large béret, sur un fond vert" loading="lazy" decoding="async" width="617" height="900" />
@@ -6473,7 +6473,7 @@ tags: technology
 
 <p>L'Europe occidentale, unie sous une seule autorité religieuse depuis mille ans, vient de se fracturer. Elle ne se recollera pas.</p>
 
-# 1518 ans
+# 1518
 
 <p style="text-align:center"><img src="{{ '/assets/img/asiento.webp' | relative_url }}" alt="Gravure intitulée « On board a slave-ship » : sur le pont d'un navire négrier, des marins entravent des captifs africains tandis que d'autres sont assis à même les planches" loading="lazy" decoding="async" width="800" height="591" />
   <br /><small><em>« À bord d'un navire négrier », gravure du XIXᵉ siècle. L'asiento est la licence royale qui autorise le transport direct de captifs africains vers l'Amérique, sans passer par Séville.</em></small></p>
@@ -6482,7 +6482,7 @@ tags: technology
 
 <p>Le détail administratif dessine la figure géométrique qui va organiser l'Atlantique pendant trois siècles : des marchandises européennes vers l'Afrique, des captifs africains vers l'Amérique, du sucre et de l'argent américains vers l'Europe. Chaque branche du triangle est rentable, et aucun des trois continents n'a de vue d'ensemble sur les deux autres.</p>
 
-# 1519 ans
+# 1519
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/cortes.webp' | relative_url }}" alt="Portrait peint d'Hernán Cortés : un homme au visage émacié, barbe grise et fraise blanche, coiffé d'un béret noir, sous une inscription portant son nom" loading="lazy" decoding="async" width="764" height="900" />
@@ -6495,7 +6495,7 @@ tags: technology
 
 <p>La même année, un autre Portugais passé au service de l'Espagne quitte Séville avec cinq navires : Fernand de Magellan cherche un passage vers l'ouest jusqu'aux îles aux épices. Personne à bord n'imagine ce que le voyage va devenir.</p>
 
-# 1520 ans
+# 1520
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/soliman.webp' | relative_url }}" alt="Miniature ottomane représentant Soliman le Magnifique : le sultan assis sur son trône, coiffé d'un large turban blanc et vêtu d'un caftan brodé, devant un fond de carreaux bleus à motifs floraux" loading="lazy" decoding="async" width="451" height="763" />
@@ -6510,7 +6510,7 @@ tags: technology
 
 <p>Sa diplomatie choque tout autant. François Iᵉʳ, écrasé par Charles Quint, s'allie au sultan contre l'empereur — un roi Très Chrétien coordonnant ses campagnes avec l'Ottoman. Le scandale est énorme et l'alliance durera deux siècles et demi. À cette date, la question n'est pas de savoir si l'Europe peut vaincre l'Empire ottoman : c'est de savoir jusqu'où il ira.</p>
 
-# 1521 ans
+# 1521
 
 <p>Tenochtitlán tombe le 13 août, après quatre-vingt-treize jours de siège. Le dernier souverain, Cuauhtémoc, est capturé sur le lac.</p>
 
@@ -6527,7 +6527,7 @@ tags: technology
 
 <p>À l'autre bout du monde, Magellan meurt le 27 avril sur une plage des Philippines, tué dans une querelle locale où il n'avait rien à faire.</p>
 
-# 1522 ans
+# 1522
 
 <p style="text-align:center"><img src="{{ '/assets/img/elcano.webp' | relative_url }}" alt="Photographie nocturne d'une réplique de nef du XVIᵉ siècle amarrée le long d'un quai, ses mâts et sa haute poupe se découpant sur un ciel d'orage, les lumières de la ville se reflétant dans l'eau" loading="lazy" decoding="async" width="1200" height="801" />
   <br /><small><em>Réplique moderne de la nef <em>Victoria</em>. Partis à deux cent trente-sept sur cinq navires, dix-huit hommes rentrent sur ce seul bateau — avec la preuve expérimentale que la date dépend du lieu où l'on se tient.</em></small></p>
@@ -6538,7 +6538,7 @@ tags: technology
 
 <p>C'est la première démonstration expérimentale, faite par des marins épuisés qui n'avaient rien demandé, que le temps dépend de l'endroit où l'on se tient sur la Terre. La ligne de changement de date naîtra de cette journée manquante.</p>
 
-# 1526 ans
+# 1526
 
 <p style="text-align:center"><img src="{{ '/assets/img/panipat.webp' | relative_url }}" alt="Miniature moghole de la bataille de Panipat : une mêlée foisonnante de cavaliers, d'archers et de fantassins en costumes colorés, encadrée d'une bordure enluminée" loading="lazy" decoding="async" width="1173" height="2000" />
   <br /><small><em>La bataille de Panipat, miniature moghole. Bâbur y écrase avec ses canons une armée dix fois supérieure et fonde un empire qui régnera trois siècles sur l'Inde du Nord.</em></small></p>
@@ -6551,7 +6551,7 @@ tags: technology
 
 <p>Les deux victoires reposent sur la même chose — l'artillerie de campagne et l'arme à feu portative, servies par des soldats permanents payés par un État capable de lever l'impôt. Le monde entre dans le siècle des empires à poudre, et pour l'instant les plus efficaces ne sont pas européens.</p>
 
-# 1532 ans
+# 1532
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/atahualpa.webp' | relative_url }}" alt="Portrait peint d'Atahualpa dans un cadre doré : le souverain inca de profil, coiffé de la mascapaicha à plume et paré de larges ornements d'oreilles, tenant une hache cérémonielle" loading="lazy" decoding="async" width="492" height="600" />
@@ -6566,7 +6566,7 @@ tags: technology
 
 <p>Deux empires immenses, tombés à onze ans d'intervalle devant quelques centaines d'hommes : la coïncidence a nourri des siècles d'explications par la supériorité européenne. La cause principale tient en une phrase. Les Amériques n'avaient presque pas de grands mammifères domestiqués — donc pas de siècles de promiscuité avec le bétail, donc pas de maladies passées de l'animal à l'homme, donc pas d'immunité. L'Eurasie a envoyé ses microbes ; elle n'en a presque rien reçu en retour.</p>
 
-# 1533 ans
+# 1533
 
 <p style="text-align:center"><img src="{{ '/assets/img/pizarro.webp' | relative_url }}" alt="Gravure ancienne d'une bataille de la conquête espagnole : des cavaliers cuirassés chargent lance au poing une foule de guerriers indigènes, devant une pyramide à degrés couverte de défenseurs" loading="lazy" decoding="async" width="833" height="595" />
   <br /><small><em>La bataille de Cajamarca, gravure du XVIᵉ siècle. Cent soixante-huit Espagnols capturent l'empereur inca au milieu de ses milliers d'hommes — mais la variole avait déjà fait le plus gros du travail.</em></small></p>
@@ -6575,7 +6575,7 @@ tags: technology
 
 <p>La résistance durera pourtant quarante ans. Le souverain fantoche se révoltera, assiégera Cuzco, puis se retirera dans les montagnes où ses successeurs maintiendront un État inca réduit jusqu'en 1572.</p>
 
-# 1543 ans
+# 1543
 
 <p>Trois navires portugais poussés par une tempête abordent Tanegashima, une île au sud du Japon. Les marchands ont à bord des arquebuses. Le seigneur local en achète deux à prix d'or et met ses forgerons à les copier.</p>
 
@@ -6606,7 +6606,7 @@ tags: technology
 
 <p>Deux livres, la même année, contre les deux plus grandes autorités héritées de l'Antiquité : Ptolémée et Galien. Aucun des deux auteurs ne se réclame de la nouveauté — tous deux se croient occupés à restaurer un savoir ancien mal transmis. Mais tous deux font le geste qui compte, et qui est le vrai commencement : ils vont voir eux-mêmes, et ils écrivent que le texte a tort.</p>
 
-# 1545 ans
+# 1545
 
 <p>Dans les Andes boliviennes, à plus de quatre mille mètres, on découvre une montagne d'argent : le Cerro Rico de Potosí. Il n'y a rien autour — ni bois, ni eau, ni cultures. En quarante ans, une ville de cent cinquante mille habitants y pousse, aussi peuplée que Londres à la même date, ravitaillée à dos de lama sur des centaines de kilomètres.</p>
 
@@ -6623,7 +6623,7 @@ tags: technology
 
 <p>Voilà la première économie véritablement globale, et elle a une caractéristique gênante pour le récit habituel : l'Europe n'y est pas le centre mais l'intermédiaire. Elle ne produit presque rien que l'Asie veuille acheter. Elle a l'argent des Amériques, et c'est à peu près tout ce qu'elle a à offrir.</p>
 
-# 1550 ans
+# 1550
 
 <p style="text-align:center"><img src="{{ '/assets/img/brevisimarelacion.webp' | relative_url }}" alt="Page de titre imprimée en 1552 : les armes des Habsbourg encadrées de deux colonnes gravées, sous un titre en lettres rouges et noires portant la date" loading="lazy" decoding="async" width="380" height="565" />
   <br /><small><em>Page de titre de la <em>Brevísima relación de la destrucción de las Indias</em>, Séville, 1552. Deux ans après Valladolid, Las Casas fait imprimer son réquisitoire sans autorisation royale préalable ; le livre sera traduit dans toute l'Europe et servira aussi, plus tard, à noircir l'Espagne au profit de ses rivales. Domaine public, via Wikimedia Commons.</em></small></p>
@@ -6638,7 +6638,7 @@ tags: technology
 
 <p>Il faut ajouter la tache. Pour épargner les Indiens, Las Casas avait proposé dans sa jeunesse qu'on importe à leur place des captifs africains. Il s'en est repenti par écrit, reconnaissant tardivement qu'il avait échangé une injustice contre une autre — mais la suggestion, elle, avait déjà été entendue.</p>
 
-# 1553 ans
+# 1553
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=Df5MLgLrL1w" data-id="Df5MLgLrL1w" rel="noopener" aria-label="Lire la vidéo YouTube : Henri IV I Quelle Histoire - TV5 Monde"><img src="https://i.ytimg.com/vi/Df5MLgLrL1w/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Henri IV I Quelle Histoire - TV5 Monde »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6648,7 +6648,7 @@ tags: technology
 
 <p>C'est lui qui signera en 1598 l'édit de Nantes et mettra fin à trente-six ans de massacres, par une solution que personne n'avait osée : non pas convertir le camp d'en face, mais admettre que deux religions puissent coexister dans un même royaume. Un fanatique le poignardera pour cela douze ans plus tard.</p>
 
-# 1556 ans
+# 1556
 
 <p>Un garçon de treize ans monte sur le trône moghol : Akbar. Il régnera près d'un demi-siècle et fera de l'Inde du Nord l'État le plus riche du monde.</p>
 
@@ -6661,7 +6661,7 @@ tags: technology
   <br /><small><em>Le Diwan-i-Khas de Fatehpur Sikri, où Akbar faisait débattre théologiens musulmans, hindous, jaïns, zoroastriens et jésuites. Photo Clément Bardot, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1562 ans
+# 1562
 
 ## Rome
 
@@ -6673,7 +6673,7 @@ tags: technology
 
 <p>La légende voudra que cette messe ait à elle seule sauvé la polyphonie du bûcher conciliaire. C'est trop beau, et c'est faux — le concile n'a jamais menacé de l'interdire. Mais l'œuvre a fixé un modèle pour trois siècles de musique catholique, et elle dit quelque chose de la Contre-Réforme tout entière : Rome ne répond pas au protestantisme en se dépouillant, elle y répond par une splendeur qu'elle rend intelligible.</p>
 
-# 1571 ans
+# 1571
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/lepante.webp' | relative_url }}" alt="Photographie d'un tableau de la bataille de Lépante : en bas, des centaines de galères enchevêtrées dans la fumée des canons ; en haut, les saints protecteurs intercédant dans le ciel" loading="lazy" decoding="async" width="728" height="900" />
@@ -6686,7 +6686,7 @@ tags: technology
 
 <p>Il avait raison sur le court terme. Mais le déplacement réel s'est produit ailleurs et personne ne le voit encore : la Méditerranée cesse d'être le centre du monde. La richesse est désormais dans l'Atlantique et dans l'océan Indien, et les puissances qui se battent pour cette mer intérieure se disputent une pièce dont on est en train de déplacer le mobilier.</p>
 
-# 1572 ans
+# 1572
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XXxFTsYdLpQ" data-id="XXxFTsYdLpQ" rel="noopener" aria-label="Lire la vidéo YouTube : &quot;La Reine Margot&quot; : la Saint-Barthélémy selon Dumas"><img src="https://i.ytimg.com/vi/XXxFTsYdLpQ/hqdefault.jpg" alt="Miniature de la vidéo YouTube « &quot;La Reine Margot&quot; : la Saint-Barthélémy selon Dumas »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6704,7 +6704,7 @@ tags: technology
 
 <p>Trois mois plus tôt, à Paris, on massacrait au nom d'une vérité qu'on croyait fixée pour toujours. Dans le ciel de Copenhague, quelque chose vient d'apparaître là où rien ne pouvait apparaître.</p>
 
-# 1577 ans
+# 1577
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/tychobrahe.webp' | relative_url }}" alt="Portrait peint de Tycho Brahe : l'astronome en pourpoint noir et large fraise blanche, portant le collier de l'ordre de l'Éléphant, dans un cadre d'architecture peinte portant une inscription latine" loading="lazy" decoding="async" width="730" height="900" />
@@ -6719,7 +6719,7 @@ tags: technology
 
 <p>Ces carnets sont le trésor le plus précieux du siècle. À sa mort, un jeune assistant allemand dont il se méfiait et qu'il tenait soigneusement à l'écart de ses données s'en empare. Il s'appelle Johannes Kepler, et sans ces vingt années de chiffres il n'aurait rien pu faire.</p>
 
-# 1588 ans
+# 1588
 
 <p style="text-align:center"><img src="{{ '/assets/img/chasseauxsabres.webp' | relative_url }}" alt="Photographie de deux sabres japonais posés côte à côte sur fond clair : leurs fourreaux laqués de rouge et d'or, munis de cordons de suspension noirs" loading="lazy" decoding="async" width="1200" height="611" />
   <br /><small><em>Sabres japonais dans leurs fourreaux de laque rouge. Hideyoshi ordonne la « chasse aux sabres » : les paysans rendent leurs lames, et la frontière entre guerrier et cultivateur devient héréditaire.</em></small></p>
@@ -6734,7 +6734,7 @@ tags: technology
 
 <p>Le contraste est saisissant. Le Japon désarme sa population pour geler l'ordre intérieur ; l'Europe, elle, ne peut pas se le permettre — ses États sont trop nombreux, trop imbriqués, trop en guerre les uns contre les autres pour qu'aucun cesse d'armer. Cette concurrence permanente coûtera à l'Europe des ravages que le Japon s'épargnera. Elle lui donnera aussi, à force de se battre, une avance militaire et navale décisive.</p>
 
-# 1589 ans
+# 1589
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=MeIG80r4yqM" data-id="MeIG80r4yqM" rel="noopener" aria-label="Lire la vidéo YouTube : CapriCCio Vocal Ensemble: Intermedi della Pellegrina, May, 26, 2023"><img src="https://i.ytimg.com/vi/MeIG80r4yqM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « CapriCCio Vocal Ensemble: Intermedi della Pellegrina, May, 26, 2023 »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6744,7 +6744,7 @@ tags: technology
 
 <p>De cette réunion de moyens princiers et d'une idée théorique naîtra, en moins de vingt ans, l'opéra.</p>
 
-# 1591 ans
+# 1591
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/tombouctou.webp' | relative_url }}" alt="Photographie de la mosquée Djinguereber de Tombouctou : les murs de terre crue hérissés de poutres et le minaret pyramidal, devant lesquels passe une caravane d'ânes chargés" loading="lazy" decoding="async" width="900" height="619" />
@@ -6759,7 +6759,7 @@ tags: technology
 
 <p>Le moment est cruel. L'Afrique de l'Ouest perd sa principale puissance politique et sa capacité à négocier d'égal à égal, précisément quand la demande atlantique de captifs commence à s'emballer. La traite ne trouvera plus en face d'elle d'État assez fort pour lui poser des conditions.</p>
 
-# 1598 ans
+# 1598
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/editnantes.webp' | relative_url }}" alt="Photographie de l'original manuscrit de l'édit de Nantes : un grand parchemin couvert d'une longue écriture cursive, au sceau pendant" loading="lazy" decoding="async" width="728" height="900" />
@@ -6772,7 +6772,7 @@ tags: technology
 
 <p>C'est pourtant de cet aveu d'impuissance que sort quelque chose de neuf. Pour la première fois en Europe, un État admet durablement que deux confessions coexistent sur son sol sans que le prince impose la sienne. L'idée est encore purement pratique ; il faudra un siècle et demi pour qu'elle devienne un principe, et un roi pour la révoquer en 1685.</p>
 
-# 1600 ans
+# 1600
 
 <p style="text-align:center"><img src="{{ '/assets/img/compagnieindes.webp' | relative_url }}" alt="Peinture d'un grand voilier de commerce naviguant par gros temps : le navire toutes voiles dehors, drapeau hissé, croisant une barque de pêcheurs devant un phare" loading="lazy" decoding="async" width="944" height="698" />
   <br /><small><em>Un navire de la Compagnie des Indes par gros temps, peinture du XIXᵉ siècle. Rien n'annonce alors qu'une entreprise privée lèvera des armées et finira par administrer un sous-continent.</em></small></p>
@@ -6783,7 +6783,7 @@ tags: technology
 
 <p>La même année, au Japon, la bataille de Sekigahara règle en une journée la question de savoir qui gouvernera l'archipel. Tokugawa Ieyasu l'emporte, et la victoire est si complète qu'elle fonde un régime.</p>
 
-# 1602 ans
+# 1602
 
 <p>Six compagnies néerlandaises rivales, qui se ruinaient à se concurrencer sur les mêmes routes, sont fusionnées d'autorité par les États généraux en une seule : la Compagnie néerlandaise des Indes orientales, la VOC. Elle reçoit le monopole du commerce asiatique, et le droit de signer des traités, de bâtir des forts et de faire la guerre à l'est du cap.</p>
 
@@ -6800,7 +6800,7 @@ tags: technology
 
 <p>Rien de tout cela n'existe alors ailleurs. Les empires les plus riches du monde — Ming, moghol, ottoman — commercent davantage que les Provinces-Unies, mais leurs marchands n'ont ni société permanente, ni marché secondaire, ni moyen de mobiliser l'épargne d'inconnus. C'est l'un des rares domaines où l'Europe de 1600 invente réellement quelque chose, et c'est celui qui finira par tout emporter.</p>
 
-# 1603 ans
+# 1603
 
 <p style="text-align:center">
   <img src="{{ '/assets/img/tokugawa.webp' | relative_url }}" alt="Portrait japonais de Tokugawa Ieyasu : le shōgun assis en costume de cour noir, sabre à la ceinture, sur une estrade encadrée de rideaux armoriés, devant un paysage de montagnes" loading="lazy" decoding="async" width="451" height="900" />
@@ -6813,7 +6813,7 @@ tags: technology
 
 <p>Aucun seigneur ne se révoltera. Le Japon des Tokugawa connaîtra la plus longue paix intérieure de l'histoire d'un grand pays, une urbanisation spectaculaire et une culture urbaine flamboyante. Il la paiera d'un immobilisme social que la modernité, quand elle forcera la porte au XIXᵉ siècle, fera voler en éclats en une génération.</p>
 
-# 1607 ans
+# 1607
 
 <p>Cent quatre colons anglais s'installent sur une presqu'île marécageuse de Virginie et l'appellent Jamestown. Ils cherchent de l'or, ne trouvent que la malaria et la famine, et les deux tiers meurent la première année. Ce qui sauvera la colonie n'est pas un métal mais une plante — le tabac, planté à partir de 1612, dont l'Europe raffole aussitôt.</p>
 
@@ -6831,7 +6831,7 @@ tags: technology
 
 <p>Le théâtre européen vient de trouver la forme qui le dominera pendant trois siècles.</p>
 
-# 1609 ans
+# 1609
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=hvw1dFM_zqs" data-id="hvw1dFM_zqs" rel="noopener" aria-label="Lire la vidéo YouTube : Galilée, l'un des pères de l'astronomie moderne"><img src="https://i.ytimg.com/vi/hvw1dFM_zqs/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Galilée, l'un des pères de l'astronomie moderne »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -6862,7 +6862,7 @@ tags: technology
 
 <p>Le contraste avec Galilée, la même année, dit tout de ce moment. L'un pointe une lunette et voit ; l'autre passe huit ans sur des colonnes de chiffres et calcule. La science moderne naît de ces deux gestes ensemble — et les deux hommes ne se sont jamais rencontrés. Galilée, qui connaissait pourtant les travaux de Kepler, n'a jamais accepté ses ellipses.</p>
 
-# 1610 ans
+# 1610
 
 <p>Le 14 mai, rue de la Ferronnerie à Paris, un maître d'école exalté nommé Ravaillac saute sur le marchepied du carrosse royal et poignarde Henri IV. Le roi qui avait mis fin aux guerres de religion meurt de la main d'un homme convaincu qu'il allait faire la guerre au pape.</p>
 
@@ -6874,7 +6874,7 @@ tags: technology
 
 <p>C'était probablement un dossier de candidature — Monteverdi cherchait un poste, et il obtiendra Saint-Marc de Venise. C'est accessoirement la première grande œuvre sacrée du baroque.</p>
 
-# 1618 ans
+# 1618
 
 <p style="text-align:center"><img src="{{ '/assets/img/defenestration.webp' | relative_url }}" alt="Gravure de la défenestration de Prague : dans une salle voûtée du château, des nobles empoignent deux hommes et les précipitent par la fenêtre ouverte" loading="lazy" decoding="async" width="1200" height="892" />
   <br /><small><em>La défenestration de Prague, gravure d'époque. Les deux gouverneurs survivent à la chute — sur un tas de fumier, disent les protestants ; portés par des anges, disent les catholiques.</em></small></p>
@@ -6889,7 +6889,7 @@ tags: technology
 
 <p>Le moment est en outre le plus mauvais possible. L'hémisphère nord traverse alors la phase la plus froide du « petit âge glaciaire » : les récoltes manquent, les prix s'envolent, et le même demi-siècle voit se soulever la Chine, la France, l'Angleterre, la Catalogne, Naples et la Russie. Les historiens parlent d'une crise générale du XVIIᵉ siècle — un rappel que les climats font aussi de la politique.</p>
 
-# 1620 ans
+# 1620
 
 <p style="text-align:center"><img src="{{ '/assets/img/novumorganum.webp' | relative_url }}" alt="Page de titre gravée du Novum Organum de Francis Bacon : deux colonnes encadrant un navire qui franchit les colonnes d'Hercule, sous le titre latin et au-dessus de l'adresse de l'imprimeur" loading="lazy" decoding="async" width="1200" height="1954" />
   <br /><small><em>Frontispice du <em>Novum Organum</em> de Bacon : un navire franchit les colonnes d'Hercule, avec la devise « beaucoup passeront, et la science s'accroîtra ».</em></small></p>
@@ -6902,7 +6902,7 @@ tags: technology
 
 <p>La même année, un navire de cent deux passagers, dont une quarantaine de dissidents religieux anglais, touche le cap Cod : le <em>Mayflower</em>. Avant de débarquer, ils signent entre eux un pacte par lequel ils s'engagent à obéir aux lois qu'ils se donneront eux-mêmes. Le geste est modeste et pratique — l'expédition n'est pas là où sa charte l'autorisait — mais l'Amérique du Nord en fera l'un de ses textes fondateurs.</p>
 
-# 1628 ans
+# 1628
 
 <p>Un médecin anglais publie à Francfort un petit livre de soixante-douze pages, mal imprimé sur mauvais papier : <em>De motu cordis</em>. William Harvey y démontre que le sang circule en boucle fermée dans le corps, propulsé par le cœur.</p>
 
@@ -6917,7 +6917,7 @@ tags: technology
 
 <p>Une pièce manque à la démonstration, et Harvey le sait : on ne voit pas par où le sang passe des artères aux veines. Il postule des liaisons trop fines pour l'œil. Elles seront observées trente-trois ans plus tard, au microscope, quatre ans après sa mort.</p>
 
-# 1633 ans
+# 1633
 
 <p>Galilée comparaît devant l'Inquisition à Rome. Il a soixante-neuf ans.</p>
 
@@ -6934,7 +6934,7 @@ tags: technology
 
 <p>Un effet secondaire, en revanche, est bien réel : le centre de gravité de la science européenne quitte l'Italie pour le nord protestant — les Provinces-Unies, l'Angleterre, plus tard l'Allemagne. Rome a gagné le procès et perdu trois siècles.</p>
 
-# 1637 ans
+# 1637
 
 <p>À Haarlem, le 3 février, une vente de bulbes de tulipes ne trouve pas preneur. En quelques jours, les prix s'effondrent d'un bout à l'autre des Provinces-Unies.</p>
 
@@ -6951,7 +6951,7 @@ tags: technology
 
 <p>Le choix du français plutôt que du latin est une décision politique : Descartes veut être lu par ceux qui n'ont pas fait d'études, « même par les femmes », écrit-il. La philosophie sort de l'université. Et il publie aux Provinces-Unies, où il vit depuis vingt ans — comme Galilée y publiera, comme Spinoza y écrira. Dans une Europe qui brûle, un petit pays de marchands tolérants est devenu l'imprimerie de la pensée européenne.</p>
 
-# 1639 ans
+# 1639
 
 <p style="text-align:center"><img src="{{ '/assets/img/dejima.webp' | relative_url }}" alt="Photographie du site de l'ancien comptoir de Dejima, à Nagasaki : le bassin et le mur de quai en pierre, aujourd'hui cernés par les immeubles de la ville moderne" loading="lazy" decoding="async" width="1200" height="802" />
   <br /><small><em>Le site de Dejima à Nagasaki aujourd'hui. Sur cet îlot artificiel, les Néerlandais furent pendant deux siècles la seule fenêtre du Japon fermé sur le monde extérieur.</em></small></p>
@@ -6964,7 +6964,7 @@ tags: technology
 
 <p>Le contraste avec l'Europe est total, et les deux choix se paieront. Le Japon s'offre deux siècles de paix et se réveillera en 1853 avec deux siècles de retard militaire. L'Europe ne s'offre aucune paix et en sortira armée pour conquérir le monde.</p>
 
-# 1644 ans
+# 1644
 
 <p style="text-align:center"><img src="{{ '/assets/img/lizicheng.webp' | relative_url }}" alt="Photographie d'une statue équestre de Li Zicheng : le chef rebelle en manteau flottant, l'arme à la main, dressé sur un haut socle de pierre au milieu d'une ville" loading="lazy" decoding="async" width="1496" height="1039" />
   <br /><small><em>Statue de Li Zicheng, le chef paysan qui entre dans Pékin en 1644. Les Ming s'effondrent sous le froid, la peste et la crise monétaire ; le dernier empereur se pend derrière son palais après avoir tué les femmes de sa famille. Photo Gary Todd, CC0, via Wikimedia Commons.</em></small></p>
@@ -6977,7 +6977,7 @@ tags: technology
 
 <p>Voilà donc le siècle. En Chine, un empire de cent cinquante millions d'habitants s'effondre sous le froid, la peste et une crise monétaire. En Allemagne, un habitant sur trois meurt dans une guerre de trente ans. Les deux catastrophes n'ont aucun lien de cause à effet — mais elles partagent un climat, et pour partie une monnaie. Le monde est devenu assez connecté pour souffrir ensemble, et bien trop peu pour le savoir.</p>
 
-# 1648 ans
+# 1648
 
 <p>Après cinq ans de négociations menées dans deux villes de Westphalie — les catholiques dans l'une, les protestants dans l'autre, les diplomates faisant la navette pour ne pas avoir à se rencontrer —, on signe la paix. La guerre de Trente Ans est finie, et avec elle un siècle et demi de guerres de religion européennes.</p>
 
@@ -6992,7 +6992,7 @@ tags: technology
 
 <p>Il faut mesurer ce que ce siècle et demi a coûté pour y arriver. L'Europe est sortie de l'idée qu'une société doit partager une seule foi, et elle en est sortie par épuisement, après la Saint-Barthélemy, les bûchers, l'Allemagne dévastée et des millions de morts. Akbar avait eu l'intuition soixante-dix ans plus tôt et l'avait mise en œuvre sans qu'une goutte de sang coule ; sa doctrine n'a pas survécu à son petit-fils. L'Europe, elle, a payé le prix fort — et c'est peut-être pour cela que sa solution a tenu.</p>
 
-# 1649 ans
+# 1649
 
 <p>Le 30 janvier, devant sa propre salle de banquet à Whitehall, on décapite le roi d'Angleterre. Charles Iᵉʳ meurt en public, après un procès public, condamné par un tribunal qui s'est arrogé le droit de juger un souverain.</p>
 
@@ -7007,7 +7007,7 @@ tags: technology
 
 <p>L'onde de choc traverse l'Europe. Toutes les monarchies du continent sont fondées sur l'idée que la personne du roi est sacrée et inviolable ; on vient de démontrer publiquement qu'elle ne l'est pas. La république anglaise durera onze ans, la monarchie reviendra en 1660 — mais aucun roi anglais ne réessaiera jamais de gouverner sans le Parlement, et cent quarante-quatre ans plus tard, la Convention française lira les minutes de ce procès avant de juger Louis XVI.</p>
 
-# 1660 ans
+# 1660
 
 <p style="text-align:center"><img src="{{ '/assets/img/greshamcollege.webp' | relative_url }}" alt="Photographie de la façade de Gresham College à Londres : une porte à fronton encadrée de pierres de taille, sous une fenêtre fleurie et la plaque de Gresham Street" loading="lazy" decoding="async" width="1200" height="1780" />
   <br /><small><em>Gresham Street, dans la City de Londres. C'est après une conférence d'astronomie au Gresham College que douze gentilshommes décident de fonder un collège pour le savoir expérimental.</em></small></p>
@@ -7018,7 +7018,7 @@ tags: technology
 
 <p>La même année, la monarchie revient en Angleterre. Charles II, fils du décapité, remonte sur le trône — et devient l'un des premiers protecteurs de la Société.</p>
 
-# 1661 ans
+# 1661
 
 <p style="text-align:center"><img src="{{ '/assets/img/kangxi.webp' | relative_url }}" alt="Portrait de cour de l'empereur Kangxi enfant : le jeune souverain coiffé d'un bonnet rouge, assis à une table de travail sur une estrade richement décorée, un pinceau à la main, devant un paravent aux dragons" loading="lazy" decoding="async" width="700" height="1089" />
   <br /><small><em>L'empereur Kangxi à son bureau, pinceau en main. Soixante et un ans de règne, levé avant l'aube pour lire les rapports : l'exact contraire de Louis XIV se faisant peindre en Apollon.</em></small></p>
@@ -7031,7 +7031,7 @@ tags: technology
 
 <p>Le contraste dit tout de deux conceptions du pouvoir. Louis XIV se fait peindre en Apollon et bâtit Versailles pour qu'on le regarde. Kangxi, lui, se lève avant l'aube pour lire des rapports, apprend les mathématiques et l'astronomie avec des jésuites, publie un dictionnaire de quarante-sept mille caractères et voyage sans cesse pour inspecter les digues du fleuve Jaune. L'un se donne en spectacle, l'autre travaille — et gouverne quatre fois plus de sujets.</p>
 
-# 1662 ans
+# 1662
 
 <p>Deux ans après sa première réunion, la société obtient de Charles II une charte royale : elle devient officiellement la Royal Society, et sa devise — <em>Nullius in verba</em> — cesse d'être un mot d'ordre entre amis pour devenir celle d'une institution.</p>
 
@@ -7046,7 +7046,7 @@ tags: technology
 
 <p>Le changement d'échelle est difficile à surestimer. Jusque-là, une découverte appartenait à celui qui l'avait faite : il la gardait, la chiffrait, l'emportait dans la tombe. Léonard écrivait à l'envers ; Tartaglia cachait sa méthode de résolution des équations ; Galilée annonçait ses découvertes sous forme d'anagrammes, pour s'assurer la priorité sans rien dévoiler. Désormais on publie, parce que la reconnaissance rapporte plus que le secret. Le savoir cesse d'être un patrimoine et devient un flux.</p>
 
-# 1666 ans
+# 1666
 
 <p>Dans la nuit du 2 septembre, un feu part d'une boulangerie de Pudding Lane. Londres est une ville de bois et de poix, l'été a été sec, le vent souffle d'est : en quatre jours, le feu détruit les cinq sixièmes de la cité intra-muros — treize mille maisons, quatre-vingt-sept églises, la vieille cathédrale Saint-Paul. Une poignée de morts recensés, et peut-être cent mille sans-abri.</p>
 
@@ -7061,7 +7061,7 @@ tags: technology
 
 <p>Pendant ce temps, un étudiant de vingt-trois ans renvoyé de Cambridge par la peste passe deux années à la campagne, chez sa mère, à Woolsthorpe. Il y invente le calcul différentiel, décompose la lumière blanche au prisme et commence à se demander si la force qui fait tomber une pomme pourrait être celle qui retient la Lune. Isaac Newton appellera plus tard cette parenthèse ses années miraculeuses. Il ne publiera rien avant vingt ans.</p>
 
-# 1674 ans
+# 1674
 
 <p>À Delft, un drapier sans latin ni université, qui polit ses lentilles lui-même pour compter les fils des étoffes, regarde une goutte d'eau prise dans un lac voisin. Elle grouille. Antoni van Leeuwenhoek y voit des créatures qui nagent, tournent et se poursuivent — ses « animalcules ». Il en estime la taille : mille fois plus petites qu'un œil de pou.</p>
 
@@ -7074,13 +7074,13 @@ tags: technology
 
 <p>Le siècle aura donc doublé le monde visible deux fois, et dans les deux directions. La lunette de Galilée a montré qu'il existait des astres que personne n'avait vus ; les lentilles de Delft montrent qu'une goutte d'eau contient une population. Entre les deux, l'échelle humaine cesse d'être la mesure de quoi que ce soit. Et il faudra deux siècles encore pour comprendre que ces animalcules-là ont tué plus d'hommes que toutes les guerres.</p>
 
-# 1675 ans
+# 1675
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ilWgr42sdjE" data-id="ilWgr42sdjE" rel="noopener" aria-label="Lire la vidéo YouTube : Spinoza, le philosophe qui bouleversa notre conception de Dieu"><img src="https://i.ytimg.com/vi/ilWgr42sdjE/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Spinoza, le philosophe qui bouleversa notre conception de Dieu »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Baruch Spinoza écrit son œuvre "Éthique". Bien qu'il l'achève en 1675, l'ouvrage ne sera publié qu'après sa mort en 1677, du fait de ses idées considérées comme controversées. Spinoza avance l'idée que Dieu et la Nature (ou l'univers) sont la même chose, ce qui s'oppose à la conception traditionnelle d'un Dieu transcendant. Cette idée est souvent qualifiée de panthéiste.</p>
 
-# 1682 ans
+# 1682
 
 <p>Louis XIV installe définitivement la cour et le gouvernement à Versailles. Ce n'est pas un caprice de bâtisseur : c'est un dispositif politique, et il faut le lire comme tel.</p>
 
@@ -7095,7 +7095,7 @@ tags: technology
 
 <p>Toute l'Europe copiera le palais et sa cour, de Vienne à Saint-Pétersbourg. Presque aucun de ces imitateurs ne comprendra qu'il copiait une cage.</p>
 
-# 1683 ans
+# 1683
 
 <p>Le 12 septembre, sur les hauteurs du Kahlenberg qui dominent Vienne, la plus grande charge de cavalerie de l'histoire dévale la pente : environ dix-huit mille cavaliers, hussards ailés polonais en tête, conduits par le roi Jean III Sobieski. En contrebas, l'armée ottomane assiège la ville depuis deux mois et ses sapeurs sont sur le point d'ouvrir la brèche décisive.</p>
 
@@ -7110,7 +7110,7 @@ tags: technology
 
 <p>Reste une légende tenace, et elle boucle une histoire commencée bien plus tôt dans ce récit. Les Ottomans, en fuyant, auraient abandonné des sacs d'un grain brun dont les Viennois ne savaient que faire — d'où, dit-on, les cafés de Vienne. C'est une jolie histoire, forgée un siècle après les faits : on buvait déjà du café à Venise et à Marseille. Mais elle dit une chose exacte — parti du Yémen, passé par La Mecque et Constantinople, le café achève ici sa conquête de l'Europe.</p>
 
-# 1685 ans
+# 1685
 
 <p style="text-align:center"><img src="{{ '/assets/img/codenoir.webp' | relative_url }}" alt="Photographie d'un exemplaire ancien du Code Noir ouvert dans une vitrine : la page de titre imprimée sous une reliure de cuir usée" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Un exemplaire imprimé du Code Noir. Le texte règle par écrit le rapport entre maître et esclave dans les colonies françaises — et donne ainsi à l'esclavage la forme d'un droit.</em></small></p>
@@ -7121,7 +7121,7 @@ tags: technology
 
 <p>Naissance à Eisenach, dans une grande famille de musiciens allemands (plusieurs générations d’organistes, violonistes et compositeurs) de Johann Sebastian Bach. Orphelin très jeune (à 10 ans), il est recueilli par son frère aîné Johann Christoph, organiste, qui lui transmet une partie de son savoir.</p>
 
-# 1687 ans
+# 1687
 
 <p>Isaac Newton publie les <em>Principia</em>. Le livre répond à une question qu'Edmond Halley était venu lui poser trois ans plus tôt : quelle courbe décrit une planète attirée par une force qui décroît comme le carré de la distance ? Newton répond aussitôt qu'il s'agit d'une ellipse — il l'a calculé, dit-il, et égaré ses papiers. Halley le pousse à refaire la démonstration, puis paiera l'impression de sa poche.</p>
 
@@ -7136,7 +7136,7 @@ tags: technology
 
 <p>Il reste une gêne, et Newton l'assume. Sa force agit instantanément à travers le vide, sans contact ni mécanisme : il décrit comment elle se comporte et refuse de dire ce qu'elle est. « Je ne feins pas d'hypothèses », écrira-t-il dans une édition ultérieure. C'est là que la physique moderne se sépare pour de bon de la philosophie ancienne, qui voulait d'abord expliquer les causes. On renonce à savoir pourquoi, on se contente de prédire exactement — et cela marchera si bien que personne ne rouvrira sérieusement la question pendant deux cent vingt-huit ans, jusqu'à Einstein.</p>
 
-# 1688 ans
+# 1688
 
 <p style="text-align:center"><img src="{{ '/assets/img/glorieuserevolution.webp' | relative_url }}" alt="Peinture d'un débarquement en mer : des chaloupes chargées d'hommes s'approchent du rivage tandis que les vaisseaux de guerre, voiles carguées, restent au large dans la brume" loading="lazy" decoding="async" width="1200" height="904" />
   <br /><small><em>« Le débarquement du prince d'Orange à Torbay », par Turner. Guillaume ne reçoit la couronne qu'en acceptant une Déclaration des droits : la monarchie passe sous la loi.</em></small></p>
@@ -7149,7 +7149,7 @@ tags: technology
 
 <p>La conséquence la plus immédiate est financière, et c'est elle qui décidera du siècle suivant. Un roi qui ne peut plus répudier ses dettes unilatéralement devient un emprunteur fiable : les prêteurs acceptent des taux plus bas. En 1694, l'État crée la Banque d'Angleterre pour gérer sa dette, et découvre qu'il peut emprunter à volonté ce que la France, dont le roi ne rend de comptes à personne, ne trouvera jamais. Pendant un siècle, un royaume trois fois moins peuplé battra la France sur mer parce qu'il empruntait moins cher.</p>
 
-# 1689 ans
+# 1689
 
 <p style="text-align:center"><img src="{{ '/assets/img/financesanglaises.webp' | relative_url }}" alt="Gravure d'architecture intitulée « North View of the New Buildings at the Bank of England » : l'élévation de la longue façade à colonnades, avec son échelle sous le dessin" loading="lazy" decoding="async" width="1200" height="697" />
   <br /><small><em>La Banque d'Angleterre, gravure de 1797. Un roi qui ne peut plus répudier ses dettes devient un emprunteur sûr — et un État qui emprunte à bas taux arme des flottes qu'aucun rival n'égale.</em></small></p>
@@ -7158,7 +7158,7 @@ tags: technology
 
 <p>L'ensemble porte un nom : la révolution financière anglaise. Son effet est démultiplicateur. Un État qui emprunte à bas taux peut armer des flottes qu'aucun rival ne peut aligner, et un pays où le crédit est abondant et bon marché voit ses entrepreneurs financer des mines, des canaux et des machines. La révolution industrielle sortira de ce terreau-là, et il faut le souligner parce qu'on l'oublie souvent : elle commence par une réforme comptable.</p>
 
-# 1690 ans
+# 1690
 
 <p style="text-align:center"><img src="{{ '/assets/img/saintdomingue.webp' | relative_url }}" alt="Gravure d'une habitation sucrière coloniale : les bâtiments et le moulin au milieu des champs de canne, dans un paysage de collines et de palmiers où travaillent de petites silhouettes" loading="lazy" decoding="async" width="750" height="444" />
   <br /><small><em>Une habitation sucrière coloniale, gravure du XVIIIᵉ siècle. Trente mille esclaves et trois mille tonnes de sucre en 1690 ; un siècle plus tard, ce sera seize fois plus, sur la même île.</em></small></p>
@@ -7169,7 +7169,7 @@ tags: technology
 
 <p>Toute la mécanique de la plantation est déjà là, en réduction : une culture unique destinée à l'exportation, une main-d'œuvre importée de force parce qu'aucune population locale n'a survécu, et une rentabilité qui croît avec la brutalité. Il ne manque que l'échelle.</p>
 
-# 1707 ans
+# 1707
 
 <p style="text-align:center"><img src="{{ '/assets/img/aurangzeb.webp' | relative_url }}" alt="Miniature moghole de l'empereur Aurangzeb : le souverain nimbé, debout de profil en longue robe rose fleurie, un faucon posé sur le poing" loading="lazy" decoding="async" width="1040" height="1920" />
   <br /><small><em>Aurangzeb, miniature moghole. Il défait une à une les décisions d'Akbar — rétablit l'impôt sur les non-musulmans, écarte les hindous des charges — et lègue un empire qui s'effondrera en cinquante ans.</em></small></p>
@@ -7182,7 +7182,7 @@ tags: technology
 
 <p>La même année, à l'autre bout du monde, l'Angleterre et l'Écosse fusionnent leurs parlements : le Royaume-Uni de Grande-Bretagne est né. Deux empires suivent des trajectoires inverses — l'un se défait d'avoir voulu l'unité de foi, l'autre se fait en acceptant deux Églises et deux systèmes de droit.</p>
 
-# 1712 ans
+# 1712
 
 <p>Dans une mine de charbon du Staffordshire, un quincaillier baptiste nommé Thomas Newcomen installe une machine qui va changer la face du monde, et il n'en tirera presque rien.</p>
 
@@ -7197,7 +7197,7 @@ tags: technology
 
 <p>Des centaines de ces machines pomperont les mines d'Angleterre pendant soixante ans avant que Watt n'y touche. Et la boucle qu'elles amorcent est le vrai moteur de ce qui vient : la machine permet d'extraire plus de charbon, le charbon alimente plus de machines, qui permettent de creuser plus profond. Pour la première fois depuis le néolithique, une société cesse de dépendre du muscle, du vent et de l'eau courante.</p>
 
-# 1720 ans
+# 1720
 
 <p>Le <em>Grand-Saint-Antoine</em>, revenu du Levant avec une cargaison de soie et d'étoffes, mouille devant Marseille. Des marins sont morts pendant la traversée. Le protocole existe pourtant, et il est rigoureux — Venise l'a inventé quatre siècles plus tôt : quarante jours d'isolement sur une île, d'où le mot quarantaine. Mais la cargaison est attendue pour la foire de Beaucaire, des notables qui y ont investi pressent les autorités, et l'on abrège.</p>
 
@@ -7210,13 +7210,13 @@ tags: technology
 
 <p>C'est la dernière grande épidémie de peste en Europe occidentale — près de quatre siècles après son retour de 1347. Elle laisse une leçon qui n'a pas vieilli : le dispositif sanitaire était correct, connu et suffisant, et il a cédé devant l'intérêt commercial de quelques-uns.</p>
 
-# 1721 ans
+# 1721
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=HTm2kEAfo8o" data-id="HTm2kEAfo8o" rel="noopener" aria-label="Lire la vidéo YouTube : Bach - Brandenburg Concertos (complete)"><img src="https://i.ytimg.com/vi/HTm2kEAfo8o/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Bach - Brandenburg Concertos (complete) »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Bach offre Les Concertos Brandebourgeois au margrave de Brandebourg, d’où leur nom. Ce sont six concertos pour orchestre, chacun avec une instrumentation différente (clavecin soliste, violon, flûte, cors, trompettes, etc.). Bach traite chaque concerto comme une expérience unique, explorant toutes les couleurs possibles d’un orchestre baroque. C’est presque une démonstration de ce que pouvait faire la musique instrumentale de son temps. Jusqu’alors, le concerto était surtout italien (Vivaldi). Bach reprend la forme et la pousse à son extrême, en créant une variété inégalée. C’est l’équivalent d’un “album complet” de musique instrumentale baroque.</p>
 
-# 1723 ans
+# 1723
 
 <p>Bach s’installe à Leipzig comme cantor de l’église Saint-Thomas (poste qu’il occupera jusqu’à sa mort). Là, il compose chaque semaine de nouvelles cantates pour la liturgie, mais aussi ses grandes œuvres sacrées : Passion selon saint Matthieu, Messe en si mineur, etc. Il a l'obligation de produire une grande quantité de musique religieuse chaque semaine.</p>
 
@@ -7225,13 +7225,13 @@ tags: technology
   <br /><small><em>Jean-Sébastien Bach : cantor à Leipzig, il composait une cantate nouvelle presque chaque semaine. Elias Gottlob Haussmann, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1725 ans
+# 1725
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=GRxofEmo3HA" data-id="GRxofEmo3HA" rel="noopener" aria-label="Lire la vidéo YouTube : Four Seasons ~ Vivaldi"><img src="https://i.ytimg.com/vi/GRxofEmo3HA/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Four Seasons ~ Vivaldi »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Publication des 4 saisons de Vivaldi. Ce recueil est publié avec une dédicace à un noble italien (le comte Wenzel von Morzin), ce qui renforce sa diffusion dans les cercles aristocratiques européens.</p>
 
-# 1735 ans
+# 1735
 
 <p>Carl von Linné publie le <em>Systema Naturae</em>, et donne au vivant la grammaire qu'on lui applique encore. Chaque espèce reçoit deux mots latins — le genre puis l'espèce — et prend place dans un emboîtement de rangs : règne, classe, ordre, genre, espèce. Le système est si commode qu'il survivra à la révolution darwinienne, qui lui donnera après coup une justification que Linné n'imaginait pas : si les êtres se rangent en arbre, c'est qu'ils descendent les uns des autres.</p>
 
@@ -7244,7 +7244,7 @@ tags: technology
 
 <p>Le même livre porte cependant une part sombre et durable. Linné subdivise l'espèce humaine en variétés géographiques auxquelles il attribue des tempéraments et des vices : l'Européen ingénieux et gouverné par les lois, l'Africain indolent et gouverné par le caprice. Il croit décrire ; il fournit une caution savante. Ces pages seront citées pendant un siècle et demi pour justifier l'esclavage puis la colonisation, et il faudra la génétique du XXᵉ siècle pour établir que ces variétés n'ont aucune réalité biologique.</p>
 
-# 1739 ans
+# 1739
 
 <p style="text-align:center"><img src="{{ '/assets/img/nadershah.webp' | relative_url }}" alt="Portrait peint de Nader Shah : le souverain assis en tailleur sur un tapis, coiffé d'une haute toque rouge à aigrette, couvert de bijoux et de chaînes d'or, son sabre posé à côté de lui" loading="lazy" decoding="async" width="1200" height="1928" />
   <br /><small><em>Nader Shah, portrait persan. Il entre dans Delhi et repart avec le trésor de huit générations de Grands Moghols : le diamant Koh-i-Noor et le trône du Paon compris.</em></small></p>
@@ -7257,7 +7257,7 @@ tags: technology
 
 <p>Dix-huit ans plus tard, une compagnie commerciale anglaise n'aura besoin que de quelques milliers d'hommes pour s'emparer de la province la plus riche de l'Inde. Le sac de Delhi lui a préparé le terrain.</p>
 
-# 1744 ans
+# 1744
 
 <p style="text-align:center"><img src="{{ '/assets/img/diriyah.webp' | relative_url }}" alt="Photographie nocturne de Dariya, en Arabie saoudite : les murailles et les tours de terre crue du quartier historique, éclairées de teintes chaudes, devant lesquelles se rassemble un groupe en tenue traditionnelle" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Diriyah, berceau de la famille Saoud, mise en lumière aujourd'hui. C'est ici que l'alliance de 1744 entre un prédicateur et un chef de clan fonde un pouvoir qui dure encore.</em></small></p>
@@ -7266,14 +7266,14 @@ tags: technology
 
 <p>Les deux familles se sont mariées à plusieurs reprises au cours des années et dans l'actuelle Arabie saoudite, le ministre du culte est toujours un membre de la famille de l'Al ash-Sheikh (c'est-à-dire un descendant de Mohammed ben Abdelwahhab).</p>
 
-# 1750 ans
+# 1750
 
 <p style="text-align:center"><img src="{{ '/assets/img/tombeaubach.webp' | relative_url }}" alt="Photographie de la plaque commémorative de Jean-Sébastien Bach à l'église Saint-Thomas de Leipzig : un texte allemand gravé en lettres dorées rappelant ses vingt-sept années de cantorat et le transfert de sa tombe en 1949" loading="lazy" decoding="async" width="881" height="608" />
   <br /><small><em>Plaque commémorative de la Thomaskirche de Leipzig. Bach y fut cantor vingt-sept ans ; sa musique tomba dans un demi-oubli après sa mort, avant que Mendelssohn ne la remette au jour.</em></small></p>
 
 <p>Mort de Bach à Leipzig. Sa musique tombe un peu dans l’oubli après sa mort, avant d’être redécouverte au XIXᵉ siècle, notamment grâce à Mendelssohn. Bach n’a jamais écrit d’opéra (contrairement à Händel ou Vivaldi). Son univers est davantage lié à l’orgue, à l’église et aux formes instrumentales savantes.</p>
 
-# 1751 ans
+# 1751
 
 <p>Paraît le premier des vingt-huit volumes de l'<em>Encyclopédie</em>. Le projet a commencé comme la traduction d'un dictionnaire anglais ; Diderot et d'Alembert en font tout autre chose, et il leur faudra vingt ans, cent cinquante collaborateurs et deux interdictions royales pour l'achever.</p>
 
@@ -7290,7 +7290,7 @@ tags: technology
 
 <p>Le pari de fond est celui des Lumières tout entières : mettre entre les mains de qui sait lire les moyens de juger par lui-même, sans passer par un clergé ni par un maître. Quatre mille exemplaires environ circuleront avant la Révolution — énorme pour l'époque, et lus bien au-delà de leurs acheteurs.</p>
 
-# 1755 ans
+# 1755
 
 <p>Le 1ᵉʳ novembre, jour de la Toussaint, alors que les églises de Lisbonne sont pleines, un séisme d'une magnitude estimée autour de 8,5 détruit la ville en dix minutes. Les cierges renversés allument un incendie qui brûle cinq jours ; les survivants qui se réfugient sur les quais sont emportés par un tsunami de plusieurs mètres. Entre trente et soixante mille morts dans l'une des plus riches capitales d'Europe.</p>
 
@@ -7305,7 +7305,7 @@ tags: technology
 
 <p>C'est la première enquête sismologique de l'histoire. En quelques mois, on est passé du châtiment divin au phénomène naturel qu'on mesure, qu'on cartographie et contre lequel on construit.</p>
 
-# 1756 ans
+# 1756
 
 <p style="text-align:center"><img src="{{ '/assets/img/septans.webp' | relative_url }}" alt="Peinture d'une bataille du XVIIIᵉ siècle : des escadrons de cavalerie s'affrontent au sabre dans une clairière, chevaux et cavaliers abattus au premier plan sous un ciel chargé" loading="lazy" decoding="async" width="1200" height="960" />
   <br /><small><em>Une charge de cavalerie au XVIIIᵉ siècle. La guerre de Sept Ans se joue en Amérique, aux Antilles, en Inde et aux Philippines autant qu'en Europe : c'est la première guerre véritablement mondiale.</em></small></p>
@@ -7316,7 +7316,7 @@ tags: technology
 
 <p>Le résultat, en 1763, est un basculement. La France perd le Canada, la Louisiane et l'essentiel de ses comptoirs indiens ; l'Angleterre devient la première puissance coloniale du monde. Deux conséquences en découlent directement : pour payer cette guerre, Londres taxera ses colonies américaines, qui se révolteront ; et pour prendre sa revanche, la France financera cette révolte — jusqu'à la faillite qui la conduira à 1789. La guerre de Sept Ans fabrique les deux révolutions qui vont suivre.</p>
 
-# 1757 ans
+# 1757
 
 <p style="text-align:center">
   <img src="/assets/img/mine.webp" alt="Photographie ancienne de la fosse Saint-Louis de la Compagnie des mines d'Anzin : le chevalement du puits et sa cheminée dominant les bâtiments de brique" width="400" loading="lazy" decoding="async" height="246" />
@@ -7331,7 +7331,7 @@ tags: technology
 
 <p>La suite est aussi prévisible qu'atroce. Une administration dont l'unique mission est le rendement, une fiscalité maintenue pendant une sécheresse, et le Bengale perd en 1770 peut-être un tiers de sa population dans une famine. La Compagnie, elle, verse ses dividendes.</p>
 
-# 1762 ans
+# 1762
 
 <p>Jean-Jacques Rousseau publie la même année deux livres qui seront tous deux condamnés et brûlés, à Paris comme à Genève, et dont l'un fournira son vocabulaire à la Révolution française.</p>
 
@@ -7346,7 +7346,7 @@ tags: technology
 
 <p>Il faut noter la contradiction, elle est saisissante : l'homme qui écrit le traité d'éducation le plus influent de l'histoire a déposé ses cinq enfants aux Enfants-Trouvés. Il l'avouera lui-même dans ses <em>Confessions</em>, autre invention de sa part — le premier livre où quelqu'un entreprend de se raconter tout entier, y compris ce qui le déshonore.</p>
 
-# 1764 ans
+# 1764
 
 <p>Dans le Lancashire, un tisserand nommé James Hargreaves construit une machine qui fait tourner huit fuseaux à la fois au lieu d'un : la <em>spinning jenny</em>. En quelques années, on en fera tourner quatre-vingts.</p>
 
@@ -7361,13 +7361,13 @@ tags: technology
 
 <p>Hargreaves, lui, verra sa maison saccagée par des fileuses en colère et mourra sans fortune. C'est une constante des débuts industriels : les gains vont à ceux qui possèdent les bâtiments, pas à ceux qui ont eu l'idée.</p>
 
-# 1769 ans
+# 1769
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LaYSECG6yIo" data-id="LaYSECG6yIo" rel="noopener" aria-label="Lire la vidéo YouTube : Animation sur la machine de James Watt"><img src="https://i.ytimg.com/vi/LaYSECG6yIo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Animation sur la machine de James Watt »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les machines à vapeur permettent de pomper les zones d'infiltrations des mines de charbon et des souterrains, augmentant considérablement l'exploitation du charbon, qui alimente lui-même ses machines, permettant son extraction. Elles jouent un rôle important dans la révolution industrielle en fournissant une source d'énergie alternative aux moyens traditionnels tels que les chevaux et les eaux courantes.</p>
 
-# 1770 ans
+# 1770
 
 <p>Le 5 mars, une sentinelle britannique postée devant la douane de Boston est prise à partie par une foule qui lui jette des boules de neige et des morceaux de glace. Le renfort arrive, la bousculade tourne mal, un soldat tire sans en avoir reçu l'ordre, les autres suivent. Cinq morts — dont Crispus Attucks, un docker noir que la mémoire américaine retiendra comme le premier tué de la Révolution.</p>
 
@@ -7380,7 +7380,7 @@ tags: technology
 
 <p>Détail que l'on retient rarement : les soldats sont jugés, et défendus par John Adams, futur deuxième président des États-Unis, convaincu qu'un procès équitable importe plus que sa propre cause. Six sont acquittés, deux condamnés pour homicide. Adams écrira plus tard que ce fut l'un des actes les plus utiles de sa vie.</p>
 
-# 1773 ans
+# 1773
 
 <p>Le soir du 16 décembre, une cinquantaine d'hommes déguisés en Amérindiens montent à bord de trois navires dans le port de Boston et jettent à la mer trois cent quarante-deux caisses de thé appartenant à la Compagnie des Indes orientales.</p>
 
@@ -7393,7 +7393,7 @@ tags: technology
 
 <p>Londres répond par des lois de coercition qui ferment le port et suspendent les libertés du Massachusetts. Les autres colonies, jusque-là indifférentes, se solidarisent et convoquent un congrès. En dix-huit mois, une querelle fiscale est devenue une révolution.</p>
 
-# 1774 ans
+# 1774
 
 <p style="text-align:center"><img src="{{ '/assets/img/louisxvi.webp' | relative_url }}" alt="Portrait officiel de Louis XVI en costume de sacre : le roi debout, drapé dans le grand manteau bleu semé de fleurs de lys et doublé d'hermine, la main appuyée sur le sceptre, la couronne posée sur un coussin" loading="lazy" decoding="async" width="1200" height="1782" />
   <br /><small><em>Louis XVI en habit de sacre, par Callet. Il hérite du royaume le plus peuplé d'Europe occidentale et d'un État dont les finances ne tiennent plus.</em></small></p>
@@ -7404,7 +7404,7 @@ tags: technology
 
 <p>Le schéma se répétera avec chacun de ses ministres jusqu'en 1789 : le diagnostic est juste, la réforme est écrite, et elle échoue toujours au même endroit — le refus des ordres privilégiés de renoncer à leurs exemptions fiscales. Un souverain qui voit le problème et ne peut pas imposer la solution, c'est la définition même d'un régime à bout de course.</p>
 
-# 1775 ans
+# 1775
 
 <p style="text-align:center"><img src="{{ '/assets/img/thomaspaine.webp' | relative_url }}" alt="Portrait peint de Thomas Paine dans un médaillon ovale : un homme en habit noir et cravate blanche, les cheveux gris ramenés en arrière" loading="lazy" decoding="async" width="1200" height="1562" />
   <br /><small><em>Thomas Paine. Arrivé d'Angleterre à trente-huit ans, il réclame l'abolition immédiate de l'esclavage et pose l'objection qui embarrassera l'Amérique un siècle durant.</em></small></p>
@@ -7415,7 +7415,7 @@ tags: technology
 
 <p>L'année suivante, le même homme publiera <em>Le Sens commun</em>, pamphlet de quelques dizaines de pages tiré à des centaines de milliers d'exemplaires, qui fera basculer une opinion coloniale encore largement attachée à la couronne. Peu d'écrits auront à ce point déplacé un débat.</p>
 
-# 1776 ans
+# 1776
 
 <p>Les colonies britanniques en Amérique du Nord décident de se séparer de l'Empire britannique et de devenir un pays indépendant. Cela est motivé par plusieurs facteurs, y compris le désir de liberté et d'autonomie des colonies, le mécontentement croissant envers le gouvernement britannique et la répression des colonies par les troupes britanniques.</p>
 
@@ -7430,7 +7430,7 @@ tags: technology
 
 <p>Les États-Unis déclarent leur indépendance le 4 juillet 1776, lorsque la Déclaration d'Indépendance est adoptée par le Congrès Continental. La Déclaration d'Indépendance, rédigée par Thomas Jefferson, énonce les raisons pour lesquelles les colonies se séparent de l'Empire britannique et proclament leur indépendance en tant que nouveau pays, les États-Unis d'Amérique.</p>
 
-# 1778 ans
+# 1778
 
 <p style="text-align:center"><img src="{{ '/assets/img/saratoga.webp' | relative_url }}" alt="Gravure de la reddition de Saratoga : dans un médaillon ovale encadré de rinceaux, le général vaincu remet son épée au vainqueur devant les officiers des deux camps, canon et tentes à l'arrière-plan" loading="lazy" decoding="async" width="1200" height="662" />
   <br /><small><em>La reddition du général Burgoyne à Saratoga, gravure. C'est cette victoire américaine qui décide la France à entrer en guerre — au prix d'une dette qui la mènera à 1789.</em></small></p>
@@ -7441,14 +7441,14 @@ tags: technology
 
 <p>Financièrement, c'est un désastre. L'intervention est payée par l'emprunt, sans impôt nouveau, parce qu'aucun impôt n'est votable ; la dette enfle, et son service absorbera bientôt près de la moitié des recettes de l'État. Onze ans plus tard, c'est cette faillite qui obligera Louis XVI à convoquer les états généraux. La France aura financé une révolution au-dehors et déclenché la sienne au-dedans.</p>
 
-# 1780 ans
+# 1780
 
 <p style="text-align:center"><img src="{{ '/assets/img/antilles.webp' | relative_url }}" alt="Gravure d'une plantation de canne à sucre : des esclaves coupent les cannes à la machette au premier plan, tandis que d'autres chargent les tiges vers la sucrerie dont les cheminées fument au fond" loading="lazy" decoding="async" width="976" height="802" />
   <br /><small><em>La coupe de la canne, gravure du XIXᵉ siècle. Interdire la mutilation des esclaves aux Antilles ne change rien à ce travail : c'est le régime lui-même qui produit la violence.</em></small></p>
 
 <p>Les actes de mutilation contre les esclaves sont interdits aux Antilles. Dans ces colonies, les esclaves sont souvent soumis à des actes de violence et de mutilation pour les punir de diverses infractions. Par exemple, ils peuvent être marqués au fer rouge, mutilés ou tués pour s'être rebellés ou pour avoir tenté de s'échapper.</p>
 
-# 1781 ans
+# 1781
 
 <p>James Watt brevette sa machine à vapeur rotative — après le condenseur séparé de 1769, c'est elle qui permet enfin d'entraîner des machines tournantes, et non plus seulement de pomper. Le but est de remplacer les sources d'énergie traditionnelles, telles que les chevaux et les mules, qui sont utilisés pour actionner les moulins et les usines de l'époque. Pour libérer de l'énergie il faut un feu allumé pour produire de la vapeur d'eau, qui s'échappe par un tuyau et pénètre dans un cylindre. La vapeur s'accumule dans le cylindre et exerce une pression sur le piston, le faisant bouger de haut en bas. Le mouvement du piston est transmis à une roue dentée, qui peut être utilisée pour actionner des machines ou des outils.</p>
 
@@ -7457,7 +7457,7 @@ tags: technology
   <br /><small><em>James Watt : le condenseur séparé puis le mouvement rotatif — la vapeur cesse de pomper pour entraîner des machines. Carl Frederik von Breda, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1783 ans
+# 1783
 
 <p style="text-align:center"><img src="{{ '/assets/img/traitedeparis1783.webp' | relative_url }}" alt="Peinture inachevée des négociateurs du traité de Paris de 1783 : cinq plénipotentiaires américains groupés autour d'une table, la partie droite de la toile restée à l'état d'esquisse" loading="lazy" decoding="async" width="1200" height="932" />
   <br /><small><em>« Les commissaires américains », toile inachevée de Benjamin West : les négociateurs britanniques ayant refusé de poser, la moitié droite est restée blanche.</em></small></p>
@@ -7466,7 +7466,7 @@ tags: technology
 
 <p>Création de l'école des mines en France, afin de former des ingénieurs d'excellence, surtout dans le domaine du charbon et de son extraction.</p>
 
-# 1784 ans
+# 1784
 
 <p>Emmanuel Kant publie un petit texte de moins d'une dizaine de pages: Qu'est-ce que les Lumières. C'est peut-être le moment dans lequel un mouvement philosophique a clairement été explicité. Ce mouvement se diffuse dans toute l'Europe occidentale (France, Allemagne, Angleterre, et par ricochet Etats-Unis). La symbolique principale des Lumières est probablement ce qu'on appelle "connaissance". Le projet est peut-être au fond de pouvoir diffuser la connaissance. Pourquoi la "connaissance" est si importante à cette époque ? Probablement parce que la grande partie de l'influence sur les esprits est exercée par la religion (christianisme en occident). Cette influence religieuse a un pouvoir énorme sur la culture et l'instruction à cette époque.</p>
 
@@ -7479,7 +7479,7 @@ tags: technology
 
 <p>En résumé, le message principal du mouvement des Lumières est de promouvoir la liberté, l'égalité et la démocratie en mettant l'accent sur la raison et la science comme moyens de progrès humain.</p>
 
-# 1786 ans
+# 1786
 
 <p style="text-align:center"><img src="{{ '/assets/img/calonne.webp' | relative_url }}" alt="Portrait peint de Charles Alexandre de Calonne : le contrôleur général assis dans un fauteuil doré, en habit de velours bleu et perruque poudrée, une lettre à la main devant un bureau couvert de papiers" loading="lazy" decoding="async" width="1200" height="1435" />
   <br /><small><em>Calonne, par Élisabeth Vigée Le Brun. Il remet au roi un mémoire qu'aucun ministre n'avait osé écrire : l'État est en faillite, et il faut un impôt payé aussi par les nobles et le clergé.</em></small></p>
@@ -7490,14 +7490,14 @@ tags: technology
 
 <p>Sachant que les parlements refuseront, Calonne convainc le roi de convoquer une Assemblée des notables qu'il croit pouvoir manœuvrer. Elle se réunit en 1787, refuse tout, et exige que la nation soit consultée. L'engrenage qui mènera aux états généraux s'enclenche ici : pour taxer les privilégiés il faut une assemblée, et une assemblée ne se contente jamais de voter l'impôt.</p>
 
-# 1788 ans
+# 1788
 
 <p style="text-align:center"><img src="{{ '/assets/img/symington.webp' | relative_url }}" alt="Photographie de la maquette d'un bateau à vapeur primitif : une coque de bois pontée, sa chaudière et sa cheminée au centre, entraînant une roue à aubes latérale" loading="lazy" decoding="async" width="1200" height="888" />
   <br /><small><em>Maquette d'un bateau à vapeur à roue à aubes. Symington fait naviguer un prototype sur un loch d'Écosse, puis construira le premier remorqueur à vapeur pratique.</em></small></p>
 
 <p>William Symington fait naviguer sur le loch Dalswinton, en Écosse, un bateau à vapeur expérimental. Il construira quinze ans plus tard le « Charlotte Dundas », premier remorqueur à vapeur réellement opérationnel.</p>
 
-# 1789 ans
+# 1789
 
 <p>Le royaume est en faillite. Depuis le rapport de Calonne, trois ans plus tôt, aucune réforme n'est passée : la noblesse et le clergé refusent l'impôt, et le roi n'a plus les moyens de les y contraindre. Acculé, Louis XVI convoque les états généraux — l'assemblée des trois ordres du royaume, qui ne s'était plus réunie depuis 1614.</p>
 
@@ -7516,7 +7516,7 @@ tags: technology
 
 <p>Ce texte est la vraie charge explosive. Il ne réforme pas la France, il énonce des principes présentés comme valables partout et pour tout le monde — et c'est à ce titre qu'il voyagera. La Révolution donnera ensuite la Terreur, l'Empire, puis le retour des rois ; mais l'idée qu'un pouvoir doive se justifier devant ceux qu'il gouverne, elle, ne se refermera plus.</p>
 
-# 1790 ans
+# 1790
 
 <p style="text-align:center"><img src="{{ '/assets/img/canneasucre.webp' | relative_url }}" alt="Gravure d'une habitation sucrière tropicale : la maison de maître et ses dépendances entourées de palmiers, la cheminée de la sucrerie fumant à droite, avec des travailleurs dans les champs au premier plan" loading="lazy" decoding="async" width="1200" height="653" />
   <br /><small><em>Une sucrerie coloniale, gravure du XIXᵉ siècle. Cinq cent mille esclaves et cent mille tonnes de sucre : Saint-Domingue est alors la colonie la plus rentable du monde.</em></small></p>
@@ -7525,7 +7525,7 @@ tags: technology
 
 <p>Les esclaves sont divisés en deux catégories : les esclaves domestiques, qui travaillent principalement dans les maisons des propriétaires de plantations, et les esclaves agricoles, qui travaillent principalement dans les champs. Les esclaves agricoles sont souvent soumis à des conditions de travail très difficiles et sont souvent maltraités par leurs propriétaires et leurs surveillants.</p>
 
-# 1791 ans
+# 1791
 
 <p>Toussaint Louverture inflige une série de revers aux colons français. Il réussit notamment à utiliser la guérilla et les embuscades pour déstabiliser les forces françaises et à repousser leurs attaques. En outre, Toussaint Louverture sait négocier avec les différents groupes et factions de Saint-Domingue — l'île ne prendra le nom d'Haïti qu'à son indépendance, en 1804 — et réussit à unir les forces de l'indépendance derrière lui, ce qui lui permet de mieux résister aux Français.</p>
 
@@ -7534,7 +7534,7 @@ tags: technology
   <br /><small><em>Toussaint Louverture : ancien esclave devenu général, il tiendra en échec les armées française, espagnole et britannique. Pierre-Charles Baquoy, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1792 ans
+# 1792
 
 <p>La Révolution bascule en trois mois d'été, et le déclencheur vient de l'extérieur.</p>
 
@@ -7551,7 +7551,7 @@ tags: technology
 
 <p>Il faut tenir les deux faits ensemble, parce que toute la période est là : la même semaine produit les massacres de septembre et la naissance de la République. Une révolution qui se croit assiégée invente très vite des raisons de tuer sans juger — et ce qui a commencé par une Déclaration des droits de l'homme va passer par quatorze mois de Terreur.</p>
 
-# 1793 ans
+# 1793
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=FKnSmFTB4Cg" data-id="FKnSmFTB4Cg" rel="noopener" aria-label="Lire la vidéo YouTube : &quot;Génocide vendéen&quot; : histoire d'un concept polémique"><img src="https://i.ytimg.com/vi/FKnSmFTB4Cg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « &quot;Génocide vendéen&quot; : histoire d'un concept polémique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -7569,7 +7569,7 @@ tags: technology
 
 <p>C'est le paradoxe qui hantera les deux siècles suivants : le premier régime fondé sur les droits de l'homme est aussi le premier à organiser légalement l'élimination de ses opposants au nom du salut public.</p>
 
-# 1794 ans
+# 1794
 
 <p>Le 27 juillet, Robespierre est mis en accusation, arrêté et guillotiné le lendemain sans jugement, avec une vingtaine de ses proches. Thermidor met fin à la Terreur ; la Révolution entre dans sa phase de reflux, qui se terminera cinq ans plus tard par un général.</p>
 
@@ -7580,7 +7580,7 @@ tags: technology
 
 <p>Quelques mois plus tôt, la Convention avait aboli l'esclavage dans les colonies françaises — l'une des toutes premières abolitions générales décidées par un État. Elle entérinait d'ailleurs un fait accompli : à Saint-Domingue, les esclaves révoltés depuis 1791 avaient déjà arraché leur liberté sur le terrain, et le commissaire de la République l'avait proclamée localement pour ne pas perdre l'île. Elle ne s'applique pas à la Martinique, passée sous domination britannique. Napoléon rétablira l'esclavage huit ans plus tard.</p>
 
-# 1796 ans
+# 1796
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=cOSKe7JTavo" data-id="cOSKe7JTavo" rel="noopener" aria-label="Lire la vidéo YouTube : Edward Jenner, inventeur du vaccin"><img src="https://i.ytimg.com/vi/cOSKe7JTavo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Edward Jenner, inventeur du vaccin »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -7592,14 +7592,14 @@ tags: technology
 
 <p>Depuis, de nombreux autres vaccins sont développés pour lutter contre d'autres maladies infectieuses, utilisant des techniques similaires basées sur l'exposition à des virus affaiblis ou inoffensifs pour stimuler la production d'anticorps et offrir une protection contre ces maladies.</p>
 
-# 1798 ans
+# 1798
 
 <p style="text-align:center"><img src="{{ '/assets/img/recensement.webp' | relative_url }}" alt="Reproduction d'un bulletin de recensement ancien : une grande feuille imprimée quadrillée en colonnes numérotées, chacune correspondant à une question sur les habitants du foyer" loading="lazy" decoding="async" width="1200" height="881" />
   <br /><small><em>Feuille de recensement par ménage. Compter la population devient un instrument d'État : on demande l'âge, le métier, la maison — et l'on découvre qu'on peut gouverner par les chiffres.</em></small></p>
 
 <p>Le gouvernement britannique commence à élaborer des plans pour évaluer et renforcer les capacités de défense nationales. L'idée d'utiliser des questionnaires de masse pour évaluer la volonté des hommes à combattre en cas d'invasion est envisagée. Les questionnaires sont distribués à travers la Grande-Bretagne. Tous les hommes éligibles sont interrogés sur leur volonté et leur capacité à prendre les armes contre une potentielle invasion française.</p>
 
-# 1799 ans
+# 1799
 
 <p>Le 9 novembre — 18 brumaire an VIII —, un général de trente ans rentré d'Égypte sans son armée renverse le Directoire avec la complicité de deux directeurs et de son frère, président du Conseil des Cinq-Cents. Le coup est mal mené : Bonaparte bafouille devant les députés, se fait bousculer, et c'est son frère qui sauve l'opération en lançant les grenadiers dans la salle.</p>
 
@@ -7612,7 +7612,7 @@ tags: technology
 
 <p>Quelques mois plus tôt, en Égypte, des soldats de son expédition avaient dégagé près de Rosette un bloc de granodiorite couvert de trois écritures. Un décret administratif sans intérêt — mais gravé en hiéroglyphes, en démotique et en grec. Champollion s'en servira pour rendre sa voix à trois millénaires d'Égypte, et cette pierre est déjà passée dans ce récit, quatorze siècles plus tôt, le jour où le dernier prêtre de Philae grava les derniers hiéroglyphes de l'histoire.</p>
 
-# 1800 ans
+# 1800
 
 <p style="text-align:center"><img src="{{ '/assets/img/populationmondiale.webp' | relative_url }}" alt="Graphique « World population growth, 1700-2100 » : l'aire turquoise de la population mondiale grimpe de 600 millions en 1700 à 11,2 milliards en 2100, tandis que la courbe rose du taux de croissance annuel culmine vers 1968 puis retombe" loading="lazy" decoding="async" width="1200" height="855" />
   <br /><small><em>Courbe de la population mondiale de 1700 à 2100. Le milliard est atteint vers 1800 ; ce qui bascule alors n'est pas la fécondité mais la mortalité — et presque tout ce qui suit en découle.</em></small></p>
@@ -7623,13 +7623,13 @@ tags: technology
 
 <p>Presque tout ce qui suit dans cette chronologie — l'exode rural, l'industrie, les empires coloniaux, la pression sur les ressources — découle de cette courbe qui vient de se redresser.</p>
 
-# 1802 ans
+# 1802
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=jY9ug_p-B8g" data-id="jY9ug_p-B8g" rel="noopener" aria-label="Lire la vidéo YouTube : Bicentenaire de la mort de Napoléon : l'empereur qui a rétabli l'esclavage dans les colonies"><img src="https://i.ytimg.com/vi/jY9ug_p-B8g/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Bicentenaire de la mort de Napoléon : l'empereur qui a rétabli l'esclavage dans les colonies »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>La Martinique redevient française, l'année où Napoléon rétablit l'esclavage. Il le rétablit également dans les colonies françaises en raison de sa politique expansionniste et de sa volonté de rétablir l'autorité de la France sur ces territoires.</p>
 
-# 1807 ans
+# 1807
 
 <p>Fulton lance le "Clermont", le premier bateau à vapeur commercial réussi. Le "Clermont" navigue le long de la rivière Hudson, reliant New York à Albany.</p>
 
@@ -7642,14 +7642,14 @@ tags: technology
 
 <p>Le Royaume-Uni interdit la traite négrière transatlantique.</p>
 
-# 1808 ans
+# 1808
 
 <p style="text-align:center"><img src="{{ '/assets/img/abolitiontraite.webp' | relative_url }}" alt="Photographie d'un ouvrage ancien relié en cuir vert : les plats marbrés ouverts et le dos titré « History of the abolition of the African slave-trade », de Thomas Clarkson" loading="lazy" decoding="async" width="1200" height="743" />
   <br /><small><em>L'<em>Histoire de l'abolition de la traite africaine</em> de Thomas Clarkson. Interdire le commerce des captifs n'est pas abolir l'esclavage : il faudra encore vingt-cinq ans à l'Empire britannique.</em></small></p>
 
 <p>L'interdiction de la traite entre en application dans tout l'Empire britannique. L'esclavage lui-même, en revanche, n'y sera aboli qu'en 1833 : interdire le commerce des captifs et libérer ceux qui sont déjà réduits en servitude sont deux décisions distinctes, séparées d'un quart de siècle.</p>
 
-# 1810 ans
+# 1810
 
 <p>Début de la guerre d'indépendance hispano-américaine. Cette guerre est un conflit qui oppose les colonies espagnoles d'Amérique du Sud et d'Amérique centrale aux forces espagnoles, et qui aboutit à l'indépendance de ces colonies.</p>
 
@@ -7660,7 +7660,7 @@ tags: technology
   <br /><small><em><em>Le Trois Mai 1808</em> de Goya : l'exécution des insurgés madrilènes. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1815 ans
+# 1815
 
 <p>Échappé de l'île d'Elbe, Napoléon reprend le pouvoir sans tirer un coup de feu : les régiments envoyés pour l'arrêter passent dans son camp. Ce sont les Cent-Jours. L'Europe coalisée refuse de traiter et lève des armées.</p>
 
@@ -7673,13 +7673,13 @@ tags: technology
 
 <p>Napoléon abdique quatre jours plus tard et finira ses jours sur un rocher de l'Atlantique sud, Sainte-Hélène. Vingt-trois ans de guerres presque continues s'achèvent. Le congrès de Vienne redessine l'Europe autour d'un équilibre entre grandes puissances qui, malgré les crises et les révolutions, lui évitera une guerre générale pendant près d'un siècle — jusqu'en 1914.</p>
 
-# 1820 ans
+# 1820
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2jHtTpLGn-4" data-id="2jHtTpLGn-4" rel="noopener" aria-label="Lire la vidéo YouTube : Beethoven: Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo – Adagio..."><img src="https://i.ytimg.com/vi/2jHtTpLGn-4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Beethoven: Piano Sonata No. 30 in E Major, Op. 109: I. Vivace ma non troppo – Adagio... »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Trois dernières sonates pour piano de Beethoven, les Opus 109, 110 et 111, souvent considérées comme le sommet de son œuvre pianistique. Ces trois sonates ont été composées, alors que Beethoven avait environ 50 à 52 ans, presque totalement sourd. Elles marquent la dernière période créatrice du compositeur, dite période tardive, où son style devient à la fois introspectif, spirituel et expérimental. Son univers musical se détache des conventions classiques pour explorer de nouvelles formes, une liberté rythmique et harmonique.</p>
 
-# 1821 ans
+# 1821
 
 <p style="text-align:center"><img src="{{ '/assets/img/mortnapoleon.webp' | relative_url }}" alt="Peinture de Napoléon à Sainte-Hélène : l'empereur assis à sa table de travail, la main dans le gilet, entouré de quelques officiers de sa suite dans une pièce sombre" loading="lazy" decoding="async" width="731" height="658" />
   <br /><small><em>Napoléon dictant à ses officiers. Il meurt sur un rocher de l'Atlantique sud, vingt-trois ans de guerres presque continues derrière lui.</em></small></p>
@@ -7688,7 +7688,7 @@ tags: technology
 
 <p>Début de la Guerre d'indépendance grecque contre l'Empire ottoman. Les Grecs se soulèvent contre l'Empire ottoman après plusieurs siècles de domination. La guerre d'indépendance dure près de dix ans et bénéficie progressivement du soutien de plusieurs puissances européennes.</p>
 
-# 1822 ans
+# 1822
 
 <p>Réunis à Épidaure, les insurgés grecs proclament l'indépendance et se donnent une constitution. Ils ne contrôlent qu'une partie du Péloponnèse et des îles, et la guerre durera encore sept ans.</p>
 
@@ -7701,13 +7701,13 @@ tags: technology
 
 <p>Ce philhellénisme est le premier grand mouvement d'opinion internationale de l'histoire, et il finira par forcer la main aux gouvernements — c'est lui qui amènera, cinq ans plus tard, les flottes française, anglaise et russe à détruire la flotte ottomane à Navarin.</p>
 
-# 1825 ans
+# 1825
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=4r9cIp9vwCY" data-id="4r9cIp9vwCY" rel="noopener" aria-label="Lire la vidéo YouTube : Quand les esclaves haïtiens étaient contraints de payer une dette à la France"><img src="https://i.ytimg.com/vi/4r9cIp9vwCY/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Quand les esclaves haïtiens étaient contraints de payer une dette à la France »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>A Haïti, le président Boyer signe un accord avec la France qui permet à Haïti de devenir officiellement reconnu comme une nation indépendante par la France. Toutefois, cet accord impose à Haïti de payer une indemnité de 150 millions de francs-or à la France en échange de cette reconnaissance. Cette somme considérable est perçue comme une forme de chantage économique par Haïti, qui doit emprunter de l'argent auprès de banques françaises pour la payer. Cette dette est un fardeau pour le pays pendant de nombreuses décennies et entrave son développement économique.</p>
 
-# 1826 ans
+# 1826
 
 <p>Dans une maison de campagne près de Chalon-sur-Saône, Nicéphore Niépce cale devant sa fenêtre une plaque d'étain enduite de bitume de Judée. Le bitume durcit là où la lumière le frappe ; on lave le reste au solvant, et l'image demeure. Il aura fallu poser des heures — assez longtemps pour que le soleil se déplace et vienne éclairer les deux côtés de la cour à la fois.</p>
 
@@ -7722,7 +7722,7 @@ tags: technology
   <br /><small><em>Point de vue du Gras, par Niépce : la première photographie conservée, obtenue après des heures de pose.</em></small>
 </p>
 
-# 1827 ans
+# 1827
 
 <p style="text-align:center"><img src="{{ '/assets/img/navarin.webp' | relative_url }}" alt="Peinture de la bataille de Navarin : les escadres alliées et ottomanes canonnant à courte distance dans la rade, fumée et navires en feu, la côte montagneuse à l'horizon" loading="lazy" decoding="async" width="1200" height="759" />
   <br /><small><em>La bataille de Navarin. Les flottes britannique, française et russe détruisent la flotte ottomano-égyptienne — l'aboutissement d'un mouvement d'opinion, le philhellénisme.</em></small></p>
@@ -7731,7 +7731,7 @@ tags: technology
 
 <p>Bataille de Navarin. Les flottes britannique, française et russe détruisent la flotte ottomano-égyptienne</p>
 
-# 1830 ans
+# 1830
 
 <p>Les tribus Indiennes sont forcées de se déplacer de l'est à l'ouest du Mississipi. C'est une marche forcée de plus de 3000 kilomètres. L'Ouest du Mississipi se transforme donc en terre indienne mais pour très peu de temps.</p>
 
@@ -7744,7 +7744,7 @@ tags: technology
   <br /><small><em>La <em>Rocket</em> de Stephenson, qui remporta le concours ouvrant la ligne Liverpool-Manchester. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1831 ans
+# 1831
 
 <p>Invention de la moissonneuse mécanique (le « reaper ») par Cyrus McCormick, un inventeur américain. Cette invention révolutionnaire transforme le processus de récolte des cultures céréalières telles que le blé, l'orge et l'avoine.</p>
 
@@ -7755,7 +7755,7 @@ tags: technology
 
 <p>La moissonneuse est une machine tirée par des chevaux ou des bœufs, équipée d'une barre de coupe qui tranche les tiges et d'un rabatteur qui les couche sur une plate-forme. Le battage, lui, reste une opération distincte : il faudra encore un demi-siècle pour que les deux soient réunis dans la moissonneuse-batteuse. Avant l'invention du "Reaper", la récolte des céréales se fait à la main, ce qui est une tâche laborieuse et fastidieuse nécessitant de nombreuses mains-d'œuvre.</p>
 
-# 1832 ans
+# 1832
 
 <p style="text-align:center"><img src="{{ '/assets/img/cholera.webp' | relative_url }}" alt="Caricature intitulée « A London Board of Health hunting after cases like cholera » : des inspecteurs en haut-de-forme fouillent une ruelle insalubre, l'un grimpant à l'échelle, l'autre scrutant le caniveau, avec leurs répliques en bulles" loading="lazy" decoding="async" width="1200" height="793" />
   <br /><small><em>« Un conseil de santé londonien à la chasse au choléra », caricature. On cherche la maladie dans les odeurs et les tas d'ordures : l'eau ne sera mise en cause que vingt ans plus tard.</em></small></p>
@@ -7764,7 +7764,7 @@ tags: technology
 
 <p>Traité de Constantinople de 1832. L'Empire ottoman accepte l'existence d'un État grec indépendant.</p>
 
-# 1835 ans
+# 1835
 
 <p style="text-align:center"><img src="{{ '/assets/img/montecharge.webp' | relative_url }}" alt="Photographie ancienne d'un treuil à vapeur de mine : le tambour d'enroulement et son engrenage installés à même le sol caillouteux d'un flanc de colline, au-dessus des installations du puits" loading="lazy" decoding="async" width="1200" height="869" />
   <br /><small><em>Treuil de mine à moteur. Le principe est rudimentaire — un tambour, un câble — mais il lève une contrainte ancienne ; reste le verrou de la sécurité, qui interdit encore d'y monter des hommes.</em></small></p>
@@ -7775,7 +7775,7 @@ tags: technology
 
 <p>L'hydraulique, que William Armstrong développera à partir des années 1840, prendra bientôt le relais de la vapeur. Et de ces machines à monter sortira, un demi-siècle plus tard, une conséquence architecturale que personne n'avait prévue : le gratte-ciel. Sans ascenseur, les étages élevés sont les moins chers ; avec lui, ils deviennent les plus chers.</p>
 
-# 1837 ans
+# 1837
 
 <p>Samuel Morse fait passer un courant dans un fil et le transforme en une suite de points et de traits. L'idée n'est pas d'envoyer une lettre : c'est d'envoyer instantanément ce qu'une lettre aurait mis des jours à porter.</p>
 
@@ -7789,7 +7789,7 @@ tags: technology
 
 <p>Le premier message officiel envoyé sur la ligne Washington-Baltimore sera une citation biblique : « Qu'est-ce que Dieu a forgé ? » On n'était pas loin de la bonne question.</p>
 
-# 1839 ans
+# 1839
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=amQ3OLsf1Hc" data-id="amQ3OLsf1Hc" rel="noopener" aria-label="Lire la vidéo YouTube : Mémoires - La guerre de l’opium enfume les relations"><img src="https://i.ytimg.com/vi/amQ3OLsf1Hc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Mémoires - La guerre de l’opium enfume les relations »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -7799,7 +7799,7 @@ tags: technology
 
 <p>Le physicien français Alexandre-Edmond Becquerel observe que certains matériaux produisent une petite quantité de courant électrique lorsqu'ils sont exposés à la lumière. Parmi les matériaux qu'il étudie figurent l'or, l'argent et le platine. Il découvre que cet effet est dû à l'excitation des électrons dans les matériaux par la lumière.</p>
 
-# 1840 ans
+# 1840
 
 <p>Le développement de l'industrie ferroviaire nourrit encore plus la demande en charbon. L'industrie ferrovière a en effet besoin de charbon comme source d'énergie pour alimenter ses locomotives à vapeur.</p>
 
@@ -7810,7 +7810,7 @@ tags: technology
 
 <p>Les locomotives à vapeur fonctionnent en brûlant du charbon pour produire de la chaleur, qui est utilisée pour produire de la vapeur d'eau. La vapeur d'eau est envoyée dans les cylindres de la locomotive, où elle actionne les pistons qui entraînent les roues de la locomotive.</p>
 
-# 1841 ans
+# 1841
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ybUbu-7l0Fc" data-id="ybUbu-7l0Fc" rel="noopener" aria-label="Lire la vidéo YouTube : Le thé, l'opium et les origines de la domination britannique à Hong Kong"><img src="https://i.ytimg.com/vi/ybUbu-7l0Fc/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Le thé, l'opium et les origines de la domination britannique à Hong Kong »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -7820,7 +7820,7 @@ tags: technology
 
 <p>Quant au rocher, les Britanniques le jugent sans valeur — leur ministre des Affaires étrangères parle d'une île stérile sur laquelle on ne bâtira jamais une maison. Elle sera rendue à la Chine en 1997, cent cinquante-six ans plus tard, comme l'une des premières places financières du monde.</p>
 
-# 1842 ans
+# 1842
 
 <p>Le traité de Nankin, signé en août, met fin à la première guerre de l'opium. Il n'interdit pas l'opium : il n'en parle même pas. La Chine cède Hong Kong, ouvre cinq ports, verse une indemnité qui couvre notamment la valeur de la drogue détruite en 1839 — et le trafic reprend aussitôt, plus important qu'avant, désormais couvert par des consuls et des canonnières.</p>
 
@@ -7833,13 +7833,13 @@ tags: technology
 
 <p>Les importations continueront de croître pendant des décennies, et la question ne sera pas réglée : elle produira une seconde guerre quatorze ans plus tard.</p>
 
-# 1844 ans
+# 1844
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=o53cy136jTs" data-id="o53cy136jTs" rel="noopener" aria-label="Lire la vidéo YouTube : Comment Alexandre Dumas a écrit &quot;Les Trois Mousquetaires&quot;"><img src="https://i.ytimg.com/vi/o53cy136jTs/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment Alexandre Dumas a écrit &quot;Les Trois Mousquetaires&quot; »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Alexandre Dumas, un écrivain et dramaturge français prolifique, publie deux de ses œuvres les plus célèbres : "Les Trois Mousquetaires" et "Le Comte de Monte-Cristo". Ces deux romans sont publiés sous forme de feuilletons dans des journaux français, ce qui était courant à l'époque.</p>
 
-# 1845 ans
+# 1845
 
 <p>Un journaliste new-yorkais, John O'Sullivan, écrit que les États-Unis ont pour « destinée manifeste » de se répandre sur le continent que la Providence leur a assigné. La formule est trouvée ; elle nommera pendant un siècle la conviction que l'expansion vers l'ouest n'est pas une conquête mais un accomplissement.</p>
 
@@ -7860,7 +7860,7 @@ tags: technology
 
 <p>Un million de morts, un million de départs. L'Irlande comptait huit millions et demi d'habitants ; elle n'en a jamais retrouvé autant depuis, et c'est aujourd'hui encore le seul pays d'Europe moins peuplé qu'au XIXᵉ siècle. C'est de là que viennent les Irlandais de Boston, de New York et de Chicago — et une rancune envers Londres qui pèsera sur tout le siècle suivant.</p>
 
-# 1847 ans
+# 1847
 
 <p style="text-align:center"><img src="{{ '/assets/img/chloroforme.webp' | relative_url }}" alt="Gravure d'une expérimentation du chloroforme : deux hommes effondrés au sol dans un cabinet encombré de flacons, tandis que deux femmes se penchent sur eux, une horloge marquant l'heure au mur" loading="lazy" decoding="async" width="1200" height="1657" />
   <br /><small><em>Simpson et ses assistants effondrés après avoir inhalé du chloroforme, illustration d'époque. Ils testaient les produits sur eux-mêmes : l'anesthésie transforme la chirurgie, qui cesse d'être une course de vitesse.</em></small></p>
@@ -7871,7 +7871,7 @@ tags: technology
 
 <p>La résistance viendra des théologiens, pour qui la douleur de l'accouchement est prescrite par la Genèse. Simpson leur répond que Dieu avait endormi Adam avant de lui retirer une côte. L'affaire se tranchera en 1853, quand la reine Victoria acceptera le chloroforme pour la naissance de son huitième enfant : ce qui est bon pour la souveraine devient acceptable pour tout le monde.</p>
 
-# 1848 ans
+# 1848
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vGZGx7c5jl8" data-id="vGZGx7c5jl8" rel="noopener" aria-label="Lire la vidéo YouTube : Dawson city et la ruée vers l'or - #CulturePrime"><img src="https://i.ytimg.com/vi/vGZGx7c5jl8/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Dawson city et la ruée vers l'or - #CulturePrime »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -7889,7 +7889,7 @@ tags: technology
 
 <p>Au même moment paraît à Londres, en allemand, une brochure d'une vingtaine de pages commandée à deux exilés par une petite association d'ouvriers. Elle s'ouvre sur un spectre qui hante l'Europe et s'achève sur un appel aux prolétaires de tous les pays. Sur le moment, le <em>Manifeste du parti communiste</em> ne se vend presque pas et n'a aucun effet sur les révolutions en cours. Il propose pourtant quelque chose de neuf : relire toute l'histoire — celle que raconte cette chronologie — comme la succession des luttes entre ceux qui possèdent et ceux qui travaillent. L'idée aura, au siècle suivant, plus de conséquences que toutes les barricades de cette année-là.</p>
 
-# 1852 ans
+# 1852
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UtkAJscxbZU" data-id="UtkAJscxbZU" rel="noopener" aria-label="Lire la vidéo YouTube : How Elevators Changed the World | Origins: The Journey of Humankind"><img src="https://i.ytimg.com/vi/UtkAJscxbZU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « How Elevators Changed the World | Origins: The Journey of Humankind »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -7903,7 +7903,7 @@ tags: technology
 
 <p>Un décret ordonne que les maisons se connectent aux égouts existants.</p>
 
-# 1853 ans
+# 1853
 
 <p>Début de la guerre de Crimée. Première guerre qui utilise la technique de la photographie. C'est le quotidien des soldats qui est saisi.</p>
 
@@ -7916,7 +7916,7 @@ tags: technology
 
 <p>La Compagnie Générale des Eaux (CGE) est actée par Napoléon III. Avec un grand investissement au départ, cette compagnie va pouvoir s'agrandir et assainir de nombreuses villes de France les unes après les autres. Cette entreprise privée met en pratique des idéaux en vogue à l'époque dans les milieux industriels: les idéaux saint-simoniens.</p>
 
-# 1854 ans
+# 1854
 
 <p>Matthew Perry revient sur les côtes japonaises avec une flotte plus puissante.</p>
 <p>Par crainte, le Japon signe la convention de Kanagawa et accepte d'ouvrir deux ports aux américains : Shimoda et Hakodate.</p>
@@ -7928,14 +7928,14 @@ tags: technology
   <br /><small><em>La carte de John Snow : chaque barre noire est un mort, et l'amas désigne une pompe précise de Broad Street. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1856 ans
+# 1856
 
 <p style="text-align:center"><img src="{{ '/assets/img/palaisdete.webp' | relative_url }}" alt="Photographie ancienne du Palais d'été de Pékin : une haute tour à étages, richement ornée, dominant un parc boisé au pied des collines" loading="lazy" decoding="async" width="1200" height="1072" />
   <br /><small><em>Une pagode près du Palais d'été, photographiée par Felice Beato en 1860. Le palais sera pillé puis incendié par les troupes franco-britanniques.</em></small></p>
 
 <p>Début de la seconde guerre de l'opium. Elle oppose la Chine à une coalition de puissances étrangères, la Grande-Bretagne et la France. Le conflit débute avec l'affaire de l'Arrow : les autorités chinoises arraisonnent à Canton un navire battant pavillon britannique, accusé de contrebande et de piraterie.</p>
 
-# 1858 ans
+# 1858
 
 <p style="text-align:center"><img src="{{ '/assets/img/traiteharris.webp' | relative_url }}" alt="Estampe japonaise représentant des étrangers : cinq personnages occidentaux en uniformes et redingotes, dessinés côte à côte sur un fond clair, avec une échelle colorimétrique en bas" loading="lazy" decoding="async" width="1200" height="759" />
   <br /><small><em>Occidentaux vus par un peintre japonais de Yokohama. Après Harris, la France, la Russie, le Royaume-Uni et les Pays-Bas obtiennent les mêmes droits — et les étrangers apportent le choléra.</em></small></p>
@@ -7950,7 +7950,7 @@ tags: technology
 
 <p>C'est une époque compliquée pour le Japon d'autant plus que les étrangers apportent le choléra.</p>
 
-# 1859 ans
+# 1859
 
 <p>Edwin Drake réalise le premier forage pétrolier commercial moderne à Titusville, en Pennsylvanie.</p>
 
@@ -7965,7 +7965,7 @@ tags: technology
 
 <p>Le scandale ne vient pas de l'évolution — l'idée circulait déjà — mais de son moteur. Retirer l'intention du vivant, c'est retirer le dessein de la nature. Et une phrase glissée dans les dernières pages indique où cela mène : « une lumière sera jetée sur l'origine de l'homme et son histoire. » Tout ce que cette chronologie raconte depuis les premières cellules — les éponges, les trilobites, les poissons à nageoires charnues, les australopithèques — ne tient que par ce mécanisme-là. Il aura fallu attendre 1859 pour le nommer.</p>
 
-# 1860 ans
+# 1860
 
 <p>Les premiers vélocipèdes à pédales sortent des ateliers parisiens : une machine en fer forgé, les pédales fixées directement sur la roue avant, sans transmission ni roue libre — si dure sur les pavés qu'on la surnommera la « machine à secouer les os ».</p>
 
@@ -7978,7 +7978,7 @@ tags: technology
 
 <p>Alors seulement, une fois le pneumatique ajouté, la bicyclette deviendra ce qu'aucun véhicule n'avait jamais été : un transport individuel, silencieux, sans carburant ni animal, assez bon marché pour un ouvrier. Elle élargira littéralement le rayon de vie de millions de gens — et sera le premier moyen de locomotion dont les femmes s'empareront seules.</p>
 
-# 1861 ans
+# 1861
 
 <p>Début de la guerre de sécession. Elle oppose les États du Nord, qui forment l'Union, aux États du Sud, qui forment la Confédération. La guerre de Sécession est causée en raison de différences profondes entre les États du Nord et ceux du Sud sur la question de l'esclavage et de l'autonomie des États. Les États du Sud, qui sont principalement agricoles et qui ont besoin de main-d'œuvre bon marché, ont mis en place un système d'esclavage pour travailler dans les champs de coton, de tabac et de canne à sucre. Les États du Nord, qui sont principalement industriels et qui ont besoin de main-d'œuvre qualifiée, ont mis fin à l'esclavage.</p>
 
@@ -8001,7 +8001,7 @@ tags: technology
 
 <p>Le rapprochement mérite d'être fait : la même année, aux deux extrémités du monde, deux empires s'attaquent au travail forcé — l'un par un décret signé en une matinée, l'autre par quatre ans de guerre et six cent mille morts.</p>
 
-# 1863 ans
+# 1863
 
 <p>La photographie est beaucoup utilisée durant la guerre de Sécession. Le photographe Alexander Gardner semble montrer une image critique de ce carnage. Par exemple, il prend une série de photographies intitulée "The Dead of Antietam", qui montre les soldats morts sur le champ de bataille de la bataille de Antietam.</p>
 
@@ -8012,14 +8012,14 @@ tags: technology
 
 <p>Abraham Lincoln proclame l'émancipation des esclaves des États en rébellion — l'abolition proprement dite ne viendra qu'avec le Treizième Amendement, deux ans plus tard. Lincoln prend cette décision pour plusieurs raisons. Tout d'abord, il considère l'esclavage comme une injustice et un obstacle à la réalisation des idéaux de liberté et d'égalité auxquels il croit. Il déclare que tous les esclaves du Sud sont libres et ordonne aux forces militaires de l'Union de respecter cette décision. Cette proclamation a un impact immédiat sur les esclaves du Sud, qui commencent à fuir les plantations pour se joindre aux forces de l'Union.</p>
 
-# 1864 ans
+# 1864
 
 <p style="text-align:center"><img src="{{ '/assets/img/shimonoseki.webp' | relative_url }}" alt="Photographie du bombardement de Shimonoseki : des marins et des soldats occidentaux posant en foule autour des canons pris dans la batterie côtière, sur fond de colline" loading="lazy" decoding="async" width="1200" height="905" />
   <br /><small><em>Canons japonais capturés à Shimonoseki, photographie de Felice Beato, 1864. Une coalition occidentale bombarde le détroit pour forcer le Japon à l'ouverture.</em></small></p>
 
 <p>Une coalition bombarde Shimonoseki au Japon. Une flotte navale britannique, française et américaine est envoyée dans la baie de Shimonoseki pour obliger le Japon à accepter de nouvelles concessions commerciales. Les navires bombardent la ville et le port, causant de nombreux dégâts et tuant plusieurs centaines de personnes. Le Japon comprend qu'il est impossible de vaincre militairement les occidentaux. Cet événement est l'un des éléments déclencheurs de l'ouverture du Japon au monde extérieur et de sa modernisation forcée et rapide au cours du XIXe siècle.</p>
 
-# 1865 ans
+# 1865
 
 <p>La guerre de Sécession prend fin. Les états du sud sont ravagés. Il faut désormais reconstruire et réconcilier. Le défi est immense.</p>
 
@@ -8031,7 +8031,7 @@ tags: technology
 
 <p>Fondation du Ku Klux Klan à Pulaski, dans le Tennessee, peu après la guerre de Sécession.</p>
 
-# 1866 ans
+# 1866
 
 <p>Les travaux du premier chemin de fer transcontinental américain battent leur plein. Deux compagnies avancent l'une vers l'autre : l'Union Pacific part d'Omaha vers l'ouest à travers les Grandes Plaines ; la Central Pacific part de Sacramento vers l'est et doit franchir la Sierra Nevada, en perçant des tunnels dans le granit à la main et à la poudre noire, sous des hivers qui ensevelissent les chantiers.</p>
 
@@ -8044,7 +8044,7 @@ tags: technology
 
 <p>La jonction se fera en 1869 dans l'Utah. Ce qui prenait six mois en convoi de chariots prendra une semaine. La ligne ouvre les Plaines à la colonisation, permet l'expédition industrielle des peaux de bison vers l'est, et scelle du même coup le sort des nations qui vivaient de ces troupeaux. Elle ne traverse pas seulement un continent : elle le referme.</p>
 
-# 1868 ans
+# 1868
 
 <p>Ouverture du Japon à l'Occident, entraînant la dissolution progressive de la classe des samouraïs. Les réformes de l'ère Meiji abolissent les privilèges féodaux et conduisent à la modernisation de l'armée japonaise, rendant le rôle traditionnel des samouraïs obsolète.</p>
 
@@ -8055,7 +8055,7 @@ tags: technology
 
 <p>C’est la fin de la période Edo et le début de la période Meiji.</p>
 
-# 1869 ans
+# 1869
 
 <p>Le 17 novembre, un cortège de navires pavoisés franchit un couloir d'eau de cent soixante kilomètres creusé en plein désert : le canal de Suez est ouvert. La Méditerranée touche la mer Rouge, et le trajet de l'Europe vers l'Inde raccourcit de plusieurs milliers de kilomètres — on n'a plus à contourner l'Afrique.</p>
 
@@ -8075,7 +8075,7 @@ tags: technology
 
 <p>On les découvrira dans les quinze ans, à peu près comme annoncé. C'est la démonstration la plus spectaculaire qu'une bonne classification ne se contente pas de ranger ce qu'on sait : elle indique où chercher ce qu'on ignore. Le tableau ne livrera son sens complet qu'un demi-siècle plus tard, quand on comprendra que ce qui gouverne l'ordre n'est pas la masse mais le nombre de protons — celui-là même que les étoiles fabriquent.</p>
 
-# 1870 ans
+# 1870
 
 <p style="text-align:center"><img src="{{ '/assets/img/cheminsdeferjapon.webp' | relative_url }}" alt="Photographie d'un ancien dépôt ferroviaire japonais : un bâtiment de bois bleu clair à grandes portes cintrées, avec sa baie en éventail au-dessus de l'entrée" loading="lazy" decoding="async" width="1200" height="960" />
   <br /><small><em>Bâtiment ferroviaire de l'ère Meiji conservé au Japon. Télégraphe, chemin de fer, mode de vie occidental : en quelques années, le pays adopte ce qu'il avait refusé pendant deux siècles.</em></small></p>
@@ -8090,7 +8090,7 @@ tags: technology
 
 <p>Guerre franco-prussienne. Cette guerre oppose le Second Empire français, sous Napoléon III, et les États de la Confédération de l'Allemagne du Nord dirigée par le royaume de Prusse sous la direction d'Otto von Bismarck.</p>
 
-# 1871 ans
+# 1871
 
 <p>Défaite significative de la France, marquée par la capture de Napoléon III et la chute de son empire. La défaite de la France dans cette guerre conduit à la proclamation de l'Empire allemand en janvier 1871 dans la Galerie des Glaces du château de Versailles, un acte symbolique marquant l'unification de l'Allemagne sous la Prusse. La France perd l'Alsace-Lorraine.</p>
 
@@ -8107,7 +8107,7 @@ tags: technology
 
 <p>L'épisode laissera deux héritages opposés et durables. Pour une partie de la gauche européenne, ce fut le premier gouvernement ouvrier de l'histoire ; pour les gouvernements, la preuve qu'une capitale peut basculer en une matinée. Marx en fera aussitôt le modèle de ce qu'il attendait ; Lénine, quarante-six ans plus tard, s'en servira comme d'un manuel — en concluant surtout qu'il ne fallait pas se montrer aussi doux.</p>
 
-# 1873 ans
+# 1873
 
 <p style="text-align:center"><img src="{{ '/assets/img/seikanron.webp' | relative_url }}" alt="Triptyque d'estampes japonaises représentant un conseil de gouvernement : les ministres en costume de cour et en uniforme occidental débattant dans une salle tendue de rouge, sous les banderoles de titre" loading="lazy" decoding="async" width="1200" height="592" />
   <br /><small><em>Le débat sur la Corée, estampe japonaise en triptyque. Les anciens fiefs guerriers réclament une expédition — peut-être surtout pour trouver un emploi aux samouraïs que les réformes ont déclassés.</em></small></p>
@@ -8116,7 +8116,7 @@ tags: technology
 
 <p>Naissance du jean Levi's à San Francisco.</p>
 
-# 1876 ans
+# 1876
 
 <p>Léopold II fonde l'Association internationale africaine à Bruxelles. Officiellement, l'organisation vise l'exploration de l'Afrique centrale et la lutte contre la traite des esclaves.</p>
 
@@ -8129,7 +8129,7 @@ tags: technology
 
 <p>Le premier téléphone de Alexander Graham Bell fonctionne grâce à un système électromécanique de transmission de la voix humaine. Il utilise un microphone pour convertir les sons en signaux électriques, puis un émetteur pour transmettre ces signaux par des fils téléphoniques jusqu'à un récepteur, où ils sont convertis en sons à nouveau. Le système est basé sur le principe de la transmission des signaux électriques à travers des fils métalliques.</p>
 
-# 1877 ans
+# 1877
 
 <p style="text-align:center"><img src="{{ '/assets/img/satsuma.webp' | relative_url }}" alt="Dessin japonais à l'encre et à l'aquarelle : des combattants en manteau militaire assis dans les nuées, sabre et étendard à la main, avec un cartouche calligraphié et un sceau rouge" loading="lazy" decoding="async" width="800" height="570" />
   <br /><small><em>Caricature japonaise à l'encre de la guerre du Sud-Ouest. La nouvelle armée impériale de conscrits écrase la révolte des samouraïs : la caste des guerriers est militairement périmée.</em></small></p>
@@ -8138,7 +8138,7 @@ tags: technology
 
 <p>Envahissement des Black Hills territoire des amérindiens. Les Black Hills sont considérées comme un territoire sacré par les Amérindiens de la région, en particulier les Lakotas et les Cheyennes, qui y ont vécu depuis des siècles. L'envahissement des Black Hills est déclenché par la découverte d'or dans la région. Des prospecteurs envahissent les Black Hills et commencent à exploiter l'or sans tenir compte des droits des Amérindiens sur le territoire.</p>
 
-# 1879 ans
+# 1879
 
 <p>Ce n'est pas la première ampoule électrique : on en fabrique depuis quarante ans, et elles brillent quelques heures avant de griller. Thomas Edison trouve un filament qui tient — du fil de coton carbonisé, dans une ampoule vidée de son air — et qui brûle d'abord des dizaines d'heures, puis des centaines.</p>
 
@@ -8153,7 +8153,7 @@ tags: technology
 
 <p>Depuis le feu apprivoisé par Homo erectus, l'humanité n'avait pas repris autant de terrain sur la nuit.</p>
 
-# 1880 ans
+# 1880
 
 <p>C'est l'âge du grand-bi : une roue avant démesurée, pour qu'un tour de pédale fasse le plus de chemin possible, et un cycliste juché à un mètre cinquante du sol. L'engin est rapide, coûteux et franchement dangereux — la moindre pierre projette son cavalier tête la première. Il ne se démocratisera jamais.</p>
 
@@ -8162,7 +8162,7 @@ tags: technology
   <br /><small><em>Le grand-bi : une roue avant démesurée pour aller plus vite, et un cycliste juché à un mètre cinquante du sol. Photo Agnieszka Kwiecień, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1882 ans
+# 1882
 
 <p>La première centrale hydroélectrique commerciale est mise en service à Appleton, dans le Wisconsin. Elle est équipée d'une turbine du type mis au point par l'ingénieur James B. Francis, dont le principe équipe encore aujourd'hui la majorité des barrages du monde.</p>
 
@@ -8208,7 +8208,7 @@ tags: technology
 
 <p>La centrale électrique de Holborn Viaduct est une innovation importante dans l'histoire de l'énergie, car elle permet de produire de l'électricité de manière plus efficace et à un coût inférieur à celui de la production d'électricité par d'autres moyens. Depuis lors, les centrales électriques alimentées au charbon continuent à être développées et améliorées, et elles sont utilisées de manière intensive comme source d'énergie pour la production d'électricité. Cependant, le charbon est une source d'énergie très polluante, car il libère de grandes quantités de dioxyde de carbone (CO2) et d'autres gaz à effet de serre lorsqu'il est brûlé. En outre, l'extraction du charbon peut avoir des impacts négatifs sur l'environnement, notamment la déforestation, la pollution de l'air et de l'eau, et la perturbation des écosystèmes. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation du charbon et à se tourner vers des sources d'énergie renouvelables moins polluantes.</p>
 
-# 1883 ans
+# 1883
 
 <p>Eugène Poubelle, préfet de la Seine, impose aux propriétaires de fournir à leurs locataires des contenants en bois garnis de fer-blanc et munis d'un couvercle. Ces seaux hermétiques devront contenir tous les déchets ménagers, récupérés par les services municipaux.</p>
 
@@ -8217,7 +8217,7 @@ tags: technology
   <br /><small><em>Eugène Poubelle : le préfet dont l'arrêté sur les récipients à ordures a donné son nom à l'objet. Photo Nadar, CC0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1885 ans
+# 1885
 
 <p>Lors de la Conférence de Berlin, les puissances européennes reconnaissent l'État indépendant du Congo comme propriété personnelle du roi Léopold II. Cette période est marquée par l'exploitation intensive du caoutchouc et de l'ivoire ainsi que par de nombreuses violences contre les populations locales.</p>
 
@@ -8241,14 +8241,14 @@ tags: technology
   <br /><small><em>Le Benz Patent-Motorwagen : trois roues, un moteur à explosion, une chaîne. Photo Stas Kozlovskiy, CC BY-SA 4.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1886 ans
+# 1886
 
 <p style="text-align:center"><img src="{{ '/assets/img/cocacola.webp' | relative_url }}" alt="Affiche publicitaire Coca-Cola : le mot « Refreshing memories » composé en grandes lettres remplies de vignettes publicitaires anciennes, sur un fond dégradé brun, avec le logo de la marque et la mention « Since 1886 »" loading="lazy" decoding="async" width="1000" height="684" />
   <br /><small><em>Publicité rétrospective de Coca-Cola. La recette d'origine contenait des feuilles de coca et de la noix de kola — d'où le nom, et d'où la suite.</em></small></p>
 
 <p>Création du Coca Cola à Atlanta. La recette originale de Coca-Cola comprend du coca (une plante dont les feuilles sont utilisées pour produire de la cocaïne), du sucre, de l'extrait de noix de cola et d'autres ingrédients secrets. La boisson est vendue pour la première fois dans une pharmacie d'Atlanta sous forme de sirop mélangé à de l'eau gazeuse.</p>
 
-# 1887 ans
+# 1887
 
 <p style="text-align:center"><img src="{{ '/assets/img/eolienneblyth.webp' | relative_url }}" alt="Photographie ancienne de l'éolienne de James Blyth : un mât de bois portant plusieurs voiles rectangulaires disposées en croix, dressé dans un jardin à côté d'une remise" loading="lazy" decoding="async" width="719" height="464" />
   <br /><small><em>L'une des premières éoliennes productrices d'électricité, photographie d'époque. James Blyth en dresse une dans son jardin de Marykirk pour éclairer sa maison ; Charles Brush fait de même aux États-Unis.</em></small></p>
@@ -8273,7 +8273,7 @@ tags: technology
 
 <p>Le courant électrique est envoyé à un transformateur, qui le modifie afin qu'il puisse être utilisé dans le réseau électrique local.</p>
 
-# 1888 ans
+# 1888
 
 <p>À Belfast, un vétérinaire écossais nommé John Boyd Dunlop bricole pour le tricycle de son fils, qui se plaint des secousses : il enroule autour de la jante un tube de caoutchouc gonflé d'air, maintenu par une bande de toile. Il ignore qu'un autre Écossais, Robert William Thomson, avait breveté l'idée quarante ans plus tôt et qu'elle était tombée dans l'oubli faute d'un usage qui la justifie.</p>
 
@@ -8286,7 +8286,7 @@ tags: technology
 
 <p>La portée dépasse le vélo. Sans pneumatique, l'automobile serait restée une voiture à roues cerclées de fer, lente et éreintante : c'est cette invention qui la rend praticable. Et la demande de caoutchouc qu'elle déclenche transformera l'économie de régions entières — Amazonie, Malaisie, et le Congo de Léopold II, où la récolte forcée du latex fera des centaines de milliers de morts.</p>
 
-# 1890 ans
+# 1890
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V-Qv9TfG6dw" data-id="V-Qv9TfG6dw" rel="noopener" aria-label="Lire la vidéo YouTube : How Bicycles Changed Women's Lives | Origins: The Journey of Humankind"><img src="https://i.ytimg.com/vi/V-Qv9TfG6dw/hqdefault.jpg" alt="Miniature de la vidéo YouTube « How Bicycles Changed Women's Lives | Origins: The Journey of Humankind »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8303,7 +8303,7 @@ tags: technology
 
 <p>Pour lire les cartes perforées, la machine de Hollerith utilise un lecteur de cartes. Ce lecteur comprend plusieurs tiges métalliques qui passent à travers les perforations de la carte. Selon la position des perforations sur la carte, certaines tiges sont bloquées et d'autres non. En fonction de la combinaison de tiges bloquées ou non, la machine peut déterminer la valeur numérique représentée par la carte. Une fois que la machine a lu la carte, elle peut utiliser ces données pour effectuer des calculs et produire des résultats. Par exemple, si une carte représente un nombre de personnes et une autre représente un montant d'argent, la machine peut additionner ces valeurs pour obtenir un total.</p>
 
-# 1893 ans
+# 1893
 
 <p style="text-align:center"><img src="{{ '/assets/img/henryford.webp' | relative_url }}" alt="Portrait photographique d'Henry Ford : un homme aux cheveux blancs, en costume trois-pièces et cravate, une fleur à la boutonnière" loading="lazy" decoding="async" width="1200" height="1532" />
   <br /><small><em>Henry Ford. Ingénieur en chef adjoint chez Edison à Détroit, il consacre ses soirées à un moteur à essence — alors que trois technologies se disputent encore l'avenir de l'automobile.</em></small></p>
@@ -8314,7 +8314,7 @@ tags: technology
 
 <p>C'est cette densité énergétique qui tranchera, et pour un siècle. Ford ne construira son premier véhicule que trois ans plus tard, et l'entreprise qui porte son nom dix ans après.</p>
 
-# 1894 ans
+# 1894
 
 <p style="text-align:center"><img src="{{ '/assets/img/pestehongkong.webp' | relative_url }}" alt="Photographie de deux médailles d'argent réunies par un ruban jaune et rouge, posées sur fond noir : l'une gravée d'une scène de secours aux malades, l'autre d'une inscription commémorative" loading="lazy" decoding="async" width="1200" height="799" />
   <br /><small><em>Médailles décernées pour services rendus pendant la peste de Hong Kong, 1894. Partie du Yunnan, la troisième pandémie se diffuse par voie maritime et fera une douzaine de millions de morts.</em></small></p>
@@ -8323,7 +8323,7 @@ tags: technology
 
 <p>Le Coca Cola a rapidement gagné en popularité et est commercialisé sous forme de boisson gazeuse en bouteille.</p>
 
-# 1895 ans
+# 1895
 
 <p>L'inventeur italien Guglielmo Marconi développe les premiers émetteurs et récepteurs radio. Il est l'un des premiers à comprendre que les ondes radio peuvent être utilisées pour la communication à distance et met au point un système de transmission de signaux à l'aide d'ondes radio à haute fréquence (HF).</p>
 
@@ -8336,14 +8336,14 @@ tags: technology
 
 <p>Il réussit à transmettre un signal radio sur une distance de quelques centaines de mètres.</p>
 
-# 1896 ans
+# 1896
 
 <p style="text-align:center"><img src="{{ '/assets/img/quadricycle.webp' | relative_url }}" alt="Photographie du quadricycle de Ford exposé en musée : une caisse à banquette capitonnée montée sur quatre roues de bicyclette, avec sa barre de direction et sa lanterne de cuivre" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Le quadricycle de Ford, son premier véhicule. Quatre roues de bicyclette, un moteur, une barre à la place du volant — et dix ans plus tard, la chaîne de montage.</em></small></p>
 
 <p>Ford construit un véhicule à moteur de 4 chevaux refroidi par eau. Un moteur de 4 chevaux refroidi par eau est un type de moteur qui utilise de l'eau comme fluide de refroidissement pour évacuer la chaleur générée par la combustion du carburant dans le moteur.</p>
 
-# 1898 ans
+# 1898
 
 <p style="text-align:center"><img src="{{ '/assets/img/hispanoamericaine.webp' | relative_url }}" alt="Carte postale allemande de 1898 intitulée « Der Amerikanisch-Spanische Krieg » : le portrait du président McKinley à gauche, celui de la régente d'Espagne et du jeune roi à droite, séparés par une carte de Cuba" loading="lazy" decoding="async" width="1200" height="789" />
   <br /><small><em>Estampe commémorative de la guerre hispano-américaine de 1898. L'Espagne perd Cuba, Porto Rico, Guam et les Philippines : ses dernières colonies.</em></small></p>
@@ -8356,7 +8356,7 @@ tags: technology
 
 <p>Les responsables de la peste ne sont donc ni les étoiles, ni Dieu, ni les juifs.</p>
 
-# 1900 ans
+# 1900
 
 <p>Trente pour cent des habitations parisiennes sont reliées aux égouts. Le chiffre paraît faible ; il est le résultat d'un demi-siècle de travaux et d'une bataille politique. Le raccordement obligatoire — le « tout-à-l'égout » — a été imposé par une loi de 1894 contre les propriétaires, qui refusaient d'en payer le coût, et contre les entreprises de vidange, dont il ruinait le métier.</p>
 
@@ -8369,14 +8369,14 @@ tags: technology
 
 <p>Assainir et transporter : ce sont les deux fonctions qui rendent vivable une ville de plusieurs millions d'habitants. La médecine a compris vingt ans plus tôt que le choléra et la typhoïde se transmettent par l'eau ; l'ingénierie en tire enfin les conséquences, et la mortalité urbaine se met à baisser sans plus jamais remonter.</p>
 
-# 1901 ans
+# 1901
 
 <p style="text-align:center"><img src="{{ '/assets/img/signalhill.webp' | relative_url }}" alt="Photographie de Signal Hill, à Terre-Neuve : la tour de pierre au sommet de la colline dénudée, dominant la route en lacets et la mer sous un ciel d'orage" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Signal Hill, à Terre-Neuve. C'est ici que Marconi reçoit le premier signal radio transatlantique, envoyé depuis les Cornouailles.</em></small></p>
 
 <p>Marconi réussit à envoyer un signal radio transatlantique des Cornouailles anglaises à Terre-Neuve. Le système de Marconi est un énorme progrès par rapport aux technologies de transmission de signaux de l'époque, et il ouvre la voie à l'utilisation de la radio pour la communication à distance.</p>
 
-# 1903 ans
+# 1903
 
 <p>Premier vol motorisé de l'histoire. L'appareil des frères Wright parcourt une quarantaine de mètres sans toucher le sol. Après cette date, les pionniers de l'aviation volent de plus en plus vite, et de plus en plus loin.</p>
 
@@ -8393,7 +8393,7 @@ tags: technology
 
 <p>Lors du congrès du Parti ouvrier social-démocrate russe, le mouvement se divise entre Bolcheviks et Mencheviks.</p>
 
-# 1904 ans
+# 1904
 
 <p>La guerre russo-japonaise débute. Elle est déclenchée par des rivalités impériales entre l'Empire russe et l'Empire japonais, principalement en raison de leurs intérêts concurrents en Corée et en Mandchourie (nord-est de la Chine). La Russie souhaite étendre son influence en Asie orientale, sécuriser un accès à des ports en eau libre toute l'année et promouvoir le développement économique de sa région sibérienne. De son côté, le Japon cherche à devenir une puissance régionale en Asie de l'Est et à sécuriser sa sphère d'influence en Corée et en Mandchourie. Les dirigeants japonais craignent que l'expansion russe ne menace leurs intérêts et la sécurité du Japon. Les tentatives diplomatiques pour résoudre les tensions n'aboutissent pas, et le Japon lance finalement une attaque surprise contre la flotte russe stationnée à Port Arthur le 8 février 1904, sans déclaration de guerre préalable. La guerre se déroule principalement en Mandchourie et dans les mers environnantes, avec des batailles terrestres et navales importantes. Le Japon sort victorieux, obtenant plusieurs concessions territoriales et confirmant sa position de puissance montante en Asie de l'Est.</p>
 
@@ -8402,7 +8402,7 @@ tags: technology
   <br /><small><em>La guerre russo-japonaise : pour la première fois, une puissance asiatique écrase une puissance européenne. Original uploader and author was Dustandshadow at en.wikipedia, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1905 ans
+# 1905
 
 <p>On utilise la purification de l'eau par ozone. À cette époque, l’ozone est déjà connu pour ses propriétés désinfectantes, et les ingénieurs français développent un procédé pour l’utiliser à grande échelle dans le traitement de l’eau potable.</p>
 
@@ -8410,7 +8410,7 @@ tags: technology
 
 <p>Einstein travaille sur sa théorie de la relativité restreinte, qui remet en question les notions classiques de l'espace et du temps. Cette théorie explique comment l'espace et le temps sont reliés et comment ils affectent la perception de la vitesse et de l'énergie. Il découvre aussi qu'une petite quantité de matière peut être convertie en une énorme quantité d'énergie.</p>
 
-# 1909 ans
+# 1909
 
 <p style="text-align:center">
   <img src="/assets/img/bleriotXI.webp" alt="Photographie d'un Blériot XI en vol : un monoplan à fuselage découvert, aile haubanée et train à deux roues, filant au-dessus des arbres" width="400" loading="lazy" decoding="async" height="225" />
@@ -8423,14 +8423,14 @@ tags: technology
 
 <p>Mais l'essentiel est ailleurs, et la presse britannique le formule aussitôt : l'Angleterre n'est plus une île. Depuis 1066, aucune armée n'y a débarqué, protégée par une marine qui tenait la Manche. Un homme seul, dans une machine de bois et de toile, vient de démontrer que cette barrière a cessé d'exister. Cinq ans plus tard, la guerre commencera.</p>
 
-# 1910 ans
+# 1910
 
 <p style="text-align:center"><img src="{{ '/assets/img/annexioncoree.webp' | relative_url }}" alt="Photographie du document du traité d'annexion de la Corée : un registre ouvert, couvert de colonnes de caractères japonais tracés à l'encre, avec les signatures et les sceaux des signataires" loading="lazy" decoding="async" width="1200" height="841" />
   <br /><small><em>Le traité d'annexion de la Corée par le Japon, 1910. L'empereur Sunjong est contraint d'abdiquer : cinq siècles de dynastie Joseon s'achèvent.</em></small></p>
 
 <p>La Corée est annexée par l'Empire japonais. Suite à l'annexion, l'empereur Sunjong est contraint d'abdiquer, mettant ainsi fin à la dynastie Joseon. Pendant l'occupation japonaise, les Coréens subissent de nombreuses politiques répressives et discriminatoires de la part du gouvernement colonial japonais. Les Coréens sont forcés d'apprendre et de parler le japonais, leur culture et leurs traditions sont supprimées, et de nombreux Coréens sont exploités pour le travail forcé et les ressources naturelles du pays sont pillées.</p>
 
-# 1911 ans
+# 1911
 
 <p style="text-align:center"><img src="{{ '/assets/img/ctr.webp' | relative_url }}" alt="Photographie ancienne d'une opératrice de machine à cartes perforées : une jeune femme assise devant l'appareil, une carte à la main, à côté du tambour de tri" loading="lazy" decoding="async" width="1200" height="945" />
   <br /><small><em>Opératrice sur une perforatrice de cartes, avec son tambour de tri. C'est de ce métier que naîtra la Computing-Tabulating-Recording Company, future IBM.</em></small></p>
@@ -8441,13 +8441,13 @@ tags: technology
 
 <p>Ce qui s'effondre n'est pas seulement une dynastie mandchoue, c'est l'institution impériale elle-même — le fils du Ciel, les rites, le mandat, tout ce que les Zhou avaient mis en place trois mille ans plus tôt. L'empereur a six ans ; il abdiquera au début de l'année suivante. La république qui lui succède sera aussitôt confisquée par les militaires, et la Chine entre dans quarante ans de seigneurs de la guerre, d'invasion japonaise et de guerre civile. On ne remplace pas en une saison un principe de légitimité vieux de trois millénaires.</p>
 
-# 1912 ans
+# 1912
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=R3XcpqJ8Dbw" data-id="R3XcpqJ8Dbw" rel="noopener" aria-label="Lire la vidéo YouTube : Naufrage du Titanic, une rescapée témoigne"><img src="https://i.ytimg.com/vi/R3XcpqJ8Dbw/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Naufrage du Titanic, une rescapée témoigne »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Dans la nuit du 14 au 15 avril 1912, le Titanic heurte un iceberg dans l'Atlantique Nord, provoquant la rupture de sa coque et l'inondation de ses compartiments étanches. En moins de trois heures, le navire sombre, entraînant la mort de plus de 1 500 des 2 224 passagers et membres d'équipage à bord. Le naufrage du Titanic est l'une des plus grandes tragédies maritimes de l'histoire.</p>
 
-# 1913 ans
+# 1913
 
 <p style="text-align:center"><img src="{{ '/assets/img/lenine.webp' | relative_url }}" alt="Portrait peint de Lénine : le dirigeant en costume sombre, le bras tendu vers l'avant au-dessus d'une feuille, devant un drapeau rouge et une foule en arrière-plan" loading="lazy" decoding="async" width="1000" height="689" />
   <br /><small><em>Lénine devant une bannière rouge, par Brodski. Rien, en 1913, n'annonce 1917 : le parti compte quelques milliers de membres et son chef vit en exil.</em></small></p>
@@ -8458,7 +8458,7 @@ tags: technology
 
 <p>Ce qui rendra l'improbable possible n'est pas la force de ce parti, c'est la guerre. Quatre ans plus tard, l'armée sera épuisée, les villes affamées, le régime sans soutien — et le seul groupe qui aura constamment réclamé la paix immédiate et sans conditions se trouvera être celui-là. On ne prévoit pas les révolutions : on constate après coup qui était prêt à ramasser le pouvoir.</p>
 
-# 1914 ans
+# 1914
 
 <p>Début de la première guerre mondiale. C'est une tragédie humaine. Près de 10 millions de soldats et 7 millions de civils trouvent la mort. La Première Guerre mondiale est déclenchée par l'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, et implique des alliances militaires complexes entre les différents pays. Les principaux belligérants sont l'Allemagne, l'Autriche-Hongrie et l'Empire ottoman d'un côté, et la France, le Royaume-Uni, la Russie et leurs alliés de l'autre — les États-Unis n'entrant dans le conflit qu'en 1917.</p>
 
@@ -8475,7 +8475,7 @@ tags: technology
 
 <p>Quand Watson rejoint la CTR (Computing-Tabulating-Recording Company), il hérite d'un assemblage hétéroclite de fabricants de balances, d'horloges pointeuses et de tabulatrices, sans réelle cohérence. Watson va alors imposer une culture d'entreprise d'une puissance restée légendaire : le slogan « THINK » affiché partout, un corps de vendeurs en costume sombre formés comme une élite, des chants d'entreprise, une loyauté quasi militaire. Surtout, il fait un choix stratégique décisif : concentrer l'entreprise sur les machines à cartes perforées et, plutôt que de les vendre, les louer aux clients tout en leur vendant en continu les cartes perforées consommables. C'est ce modèle — revenus récurrents, clients captifs — qui assurera la fortune durable de la maison.</p>
 
-# 1915 ans
+# 1915
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=PumBUVxrhW8" data-id="PumBUVxrhW8" rel="noopener" aria-label="Lire la vidéo YouTube : Vers une reconnaissance du génocide assyro-chaldéen"><img src="https://i.ytimg.com/vi/PumBUVxrhW8/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Vers une reconnaissance du génocide assyro-chaldéen »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8489,7 +8489,7 @@ tags: technology
 
 <p>Première utilisation massive de gaz toxiques par l'Allemagne lors de la Deuxième bataille d'Ypres en Belgique.</p>
 
-# 1916 ans
+# 1916
 
 ## 15 septembre
 
@@ -8504,7 +8504,7 @@ tags: technology
 
 <p>C'est pourtant la bonne réponse, employée trop tôt et en trop petit nombre. Il faudra attendre Cambrai, l'année suivante, pour un emploi massif — et 1940 pour que d'autres comprennent que ces machines ne doivent pas accompagner l'infanterie au pas, mais être rassemblées et lancées en profondeur. La bataille de la Somme, elle, s'achèvera en novembre : plus d'un million de morts et de blessés pour une dizaine de kilomètres.</p>
 
-# 1917 ans
+# 1917
 
 ## 8 mars
 
@@ -8519,7 +8519,7 @@ tags: technology
 
 <p>Révolution d'Octobre. Les Bolcheviks dirigés par Vladimir Lénine prennent le pouvoir en Russie.</p>
 
-# 1918 ans
+# 1918
 
 <p>Fin de la première guerre mondiale. Le roman d'Erich Maria Remarque À l'Ouest, rien de nouveau, et les films qui en seront tirés, dénonceront l'horreur et la futilité de cette guerre. Ils montrent qu'il n'y a aucune gloire, aucun honneur à chercher derrière une guerre. Juste de la tristesse, de l'horreur et de la désolation.</p>
 
@@ -8529,7 +8529,7 @@ tags: technology
 
 <p>La grippe espagnole ne vient pas d'Espagne : elle doit son nom au fait que la presse espagnole, seule à ne pas être censurée dans une Europe en guerre, fut la première à en parler librement. Elle se propage rapidement dans toute l'Europe et dans le monde entier. La maladie est particulièrement grave en Europe, où elle frappe une population affaiblie par la guerre. Il n'y a pas eu de grand confinement. Les raisons exactes de son apparition restent inconnues.</p>
 
-# 1919 ans
+# 1919
 
 <p>Le 28 juin, dans la galerie des Glaces de Versailles — là même où l'Empire allemand avait été proclamé en 1871 —, l'Allemagne signe un traité qu'elle n'a pas négocié. Elle perd environ un septième de son territoire et la totalité de ses colonies, voit son armée ramenée à cent mille hommes, et se voit imputer par l'article 231 la responsabilité de la guerre, qui sert de fondement juridique à des réparations colossales.</p>
 
@@ -8544,7 +8544,7 @@ tags: technology
 
 <p>La même année, l'aviation civile fait ses débuts : le premier avion commercial vraiment fiable, entièrement construit en métal, entre en service.</p>
 
-# 1920 ans
+# 1920
 
 <p style="text-align:center"><img src="{{ '/assets/img/aviateurs.webp' | relative_url }}" alt="Photographie ancienne d'aviateurs devant leur biplan : l'appareil de bois et de toile sorti du hangar, quelques hommes en tenue de vol posant à côté de l'hélice" loading="lazy" decoding="async" width="1000" height="751" />
   <br /><small><em>Un biplane des débuts et son équipage. Le public adule ces pionniers : l'aviation devient le symbole d'un « homme nouveau » — et le taux de mortalité des aviateurs de guerre atteint 25 %.</em></small></p>
@@ -8553,13 +8553,13 @@ tags: technology
 
 <p>70 % des habitations sont reliées aux égouts.</p>
 
-# 1921 ans
+# 1921
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=V591sz3jdmY" data-id="V591sz3jdmY" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine du sida : le Congo colonisé des années 1930"><img src="https://i.ytimg.com/vi/V591sz3jdmY/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine du sida : le Congo colonisé des années 1930 »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les populations locales du Congo auraient été infectées par le virus similaire au VIH présent chez les singes, puis auraient transmis le virus à d'autres populations par le biais de relations sexuelles non protégées et d'autres pratiques qui favorisent la transmission du virus.</p>
 
-# 1922 ans
+# 1922
 
 <p style="text-align:center"><img src="{{ '/assets/img/ulysse.webp' | relative_url }}" alt="Photographie de la première édition d'« Ulysses » de James Joyce : un volume broché à couverture bleue portant le titre et le nom de l'auteur en lettres blanches, aux pages non massicotées" loading="lazy" decoding="async" width="1200" height="820" />
   <br /><small><em>Un exemplaire de l'édition originale d'<em>Ulysse</em>, dans sa couverture bleue. Joyce y enferme une seule journée dublinoise dans sept cents pages.</em></small></p>
@@ -8570,7 +8570,7 @@ tags: technology
 
 <p>Création de l'Union soviétique sous la direction du Parti bolchevik.</p>
 
-# 1923 ans
+# 1923
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=vwf0DafQLnI" data-id="vwf0DafQLnI" rel="noopener" aria-label="Lire la vidéo YouTube : 1923, les conséquences de l'hyperinflation"><img src="https://i.ytimg.com/vi/vwf0DafQLnI/hqdefault.jpg" alt="Miniature de la vidéo YouTube « 1923, les conséquences de l'hyperinflation »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8581,21 +8581,21 @@ tags: technology
   <br /><small><em>Un billet de cent millions de marks daté du 22 août 1923. Domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1924 ans
+# 1924
 
 <p style="text-align:center"><img src="{{ '/assets/img/ibm.webp' | relative_url }}" alt="Portrait photographique de Thomas J. Watson : un homme aux cheveux blancs, en costume sombre, chemise blanche et cravate rayée" loading="lazy" decoding="async" width="1200" height="1172" />
   <br /><small><em>Thomas J. Watson. Dix ans après son arrivée, il abandonne le nom terne de « Computing-Tabulating-Recording » pour un autre, beaucoup plus ambitieux : International Business Machines.</em></small></p>
 
 <p>Le conglomérat CTR est rebaptisé International Business Machines Corporation (IBM). Dix ans après son arrivée, Watson abandonne le nom terne et technique de « Computing-Tabulating-Recording Company » pour un nom volontairement grandiose. Le choix est purement programmatique, presque visionnaire : on parle d'« International » alors que l'activité reste très largement américaine, et de « Business Machines » pour affirmer une ambition globale dépassant la simple tabulatrice. Le nom précède donc la réalité — il décrit l'entreprise que Watson veut bâtir, pas celle qu'il dirige encore. C'est sous cette nouvelle identité qu'IBM s'impose comme l'acteur dominant du traitement de l'information pour le demi-siècle suivant.</p>
 
-# 1926 ans
+# 1926
 
 <p style="text-align:center"><img src="{{ '/assets/img/posteaerienne.webp' | relative_url }}" alt="Photographie ancienne du courrier aérien : un employé tend un sac postal à l'aviateur penché hors de son biplan marqué « U.S. Mail »" loading="lazy" decoding="async" width="700" height="509" />
   <br /><small><em>Remise d'un sac postal à un hydravion. Ce n'est pas le transport de passagers qui rend l'aviation commerciale rentable aux États-Unis, c'est le courrier.</em></small></p>
 
 <p>L'aviation commerciale devient rentable aux États-Unis. Ce n'est pas le transport de passagers qui y parvient le premier, mais le courrier : en confiant les lignes postales à des opérateurs privés, l'État leur garantit un revenu régulier. Les compagnies nées de ces contrats — parmi lesquelles celles qui formeront United Airlines — sont les premières à dégager des bénéfices significatifs. Les passagers viendront ensuite, d'abord comme un supplément au sac postal.</p>
 
-# 1928 ans
+# 1928
 
 <p style="text-align:center"><img src="{{ '/assets/img/alphabetturc.webp' | relative_url }}" alt="Photographie de la réforme de l'alphabet turc : un homme en costume, craie à la main devant un tableau noir où sont tracées des lettres latines, entouré de spectateurs sous les arbres" loading="lazy" decoding="async" width="800" height="1162" />
   <br /><small><em>Mustafa Kemal enseignant lui-même le nouvel alphabet latin au tableau noir. La réforme abandonne les caractères arabes et coupe en une génération l'accès aux textes ottomans.</em></small></p>
@@ -8606,7 +8606,7 @@ tags: technology
 
 <p>Alexander Fleming découvre la pénicilline, premier antibiotique moderne.</p>
 
-# 1929 ans
+# 1929
 
 <p>Crise économique, également connue sous le nom de Grande Dépression. De nombreux clients ont demandé à retirer leur argent en même temps, ce qui est connu sous le nom de "panique bancaire". Les banques sont incapables de rembourser tous les clients qui demandent leur argent en même temps, ce qui a conduit à un effondrement de la confiance dans le système bancaire. En outre, il y a également une forte incertitude économique à l'époque, causée par la surproduction, la baisse des prix, la baisse des salaires et le chômage croissant. Les gens sont préoccupés par leur capacité à rembourser leurs dettes et ont donc retiré leur argent des banques pour éviter tout risque de perte.</p>
 
@@ -8615,7 +8615,7 @@ tags: technology
   <br /><small><em>Le krach de 1929 : les épargnants se pressent devant les banques qui ne peuvent plus rembourser. US-gov, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1930 ans
+# 1930
 
 <p>La population mondiale a franchi les 2 milliards d'êtres humains à la fin des années 1920.</p>
 
@@ -8625,7 +8625,7 @@ tags: technology
 
 <p>Pour protester contre cette taxe injuste et symboliser la résistance à l'oppression britannique, Gandhi et un groupe de partisans entreprennent une marche de 240 miles (environ 390 km) de Sabarmati Ashram à Dandi, une côte sur la mer d'Oman. Cette marche dure du 12 mars au 6 avril 1930.</p>
 
-# 1931 ans
+# 1931
 
 <p style="text-align:center"><img src="{{ '/assets/img/mandchourie.webp' | relative_url }}" alt="Photographie de l'invasion de la Mandchourie : une colonne de soldats japonais casqués progressant dans une rue de ville chinoise, entre les échoppes et sous une porte traditionnelle" loading="lazy" decoding="async" width="417" height="333" />
   <br /><small><em>Troupes japonaises dans une rue chinoise, 1931. L'invasion de la Mandchourie est déclenchée par une explosion sur une voie ferrée — organisée par les envahisseurs eux-mêmes.</em></small></p>
@@ -8634,7 +8634,7 @@ tags: technology
 
 <p>L'invasion est aussi déclenchée par une explosion le long de la voie ferrée appartenant au chemin de fer de la Mandchourie du Sud, une entreprise contrôlée par le Japon, près de Mukden (aujourd'hui Shenyang, en Chine). L'armée japonaise accuse rapidement les forces chinoises d'être responsables de l'explosion, bien qu'il soit maintenant largement reconnu que l'incident soit orchestré par des officiers japonais pour fournir un prétexte à l'invasion.</p>
 
-# 1932 ans
+# 1932
 
 <p style="text-align:center"><img src="{{ '/assets/img/elections1932.webp' | relative_url }}" alt="Planche de huit cartes des élections parlementaires allemandes de 1920 à 1933 : chaque carte colorie les circonscriptions du Reich selon le parti arrivé en tête, avec un camembert de la répartition nationale ; la couleur du parti nazi gagne l'ensemble du pays d'une carte à l'autre" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Les élections allemandes de 1920 à 1933, carte par carte. Le brun envahit la carte en deux ans : en juillet 1932, le parti nazi devient le premier d'Allemagne avec 37,3 %.</em></small></p>
@@ -8645,7 +8645,7 @@ tags: technology
 
 <p>Le mécanisme mérite d'être noté, parce qu'il ne suppose aucun coup d'État : une démocratie qui a cessé de fonctionner comme telle, une crise économique brutale, et des élites persuadées de pouvoir maîtriser ce qu'elles installent.</p>
 
-# 1933 ans
+# 1933
 
 <p style="text-align:center"><img src="{{ '/assets/img/haavara.webp' | relative_url }}" alt="Photographie d'un formulaire de la Palästina Treuhand-Stelle : un document dactylographié à l'en-tête de l'organisme de Berlin, rempli à la main et signé, servant au transfert des biens des juifs émigrant vers la Palestine" loading="lazy" decoding="async" width="570" height="823" />
   <br /><small><em>Document de la Palästina Treuhandstelle, l'organisme de l'accord Haavara. Le régime nazi organise alors le départ des Juifs d'Allemagne, en leur faisant payer le transfert de leurs biens.</em></small></p>
@@ -8659,11 +8659,11 @@ tags: technology
 <p style="text-align:center"><img src="{{ '/assets/img/boycottjuif.webp' | relative_url }}" alt="Photographie d'une vitrine de magasin pendant le boycott des commerces juifs : des mannequins en robes derrière la glace, sur laquelle une pancarte appelle les Allemands à n'acheter que dans des magasins allemands, avec sa traduction anglaise" loading="lazy" decoding="async" width="800" height="600" />
   <br /><small><em>Vitrine placardée du mot d'ordre de boycott, avril 1933 : « Allemands, défendez-vous contre la propagande juive, n'achetez que chez des Allemands. »</em></small></p>
 
-# 1934 ans
+# 1934
 
 <p>La notion de Produit intérieur brut (PIB) est inventée pour la première fois par Simon Kuznets, un économiste américain. Le PIB est un indicateur économique qui mesure la valeur totale des biens et services produits dans un pays sur une période donnée, généralement une année. Depuis, le PIB devient l'un des indicateurs les plus couramment utilisés pour mesurer la croissance économique d'un pays et sa comparaison avec d'autres pays.</p>
 
-# 1935 ans
+# 1935
 
 ## Allemagne
 
@@ -8676,21 +8676,21 @@ tags: technology
   <br /><small><em>Le congrès de Nuremberg de 1935, où sont proclamées les lois qui privent les juifs allemands de la citoyenneté. Photo UnknownUnknown, CC BY-SA 3.0 de, via Wikimedia Commons.</em></small>
 </p>
 
-# 1937 ans
+# 1937
 
 <p style="text-align:center"><img src="{{ '/assets/img/shanghai1937.webp' | relative_url }}" alt="Photographie de la bataille de Shanghai : une file de soldats casqués embusqués derrière un muret de briques dans une rue en ruine, arme au poing" loading="lazy" decoding="async" width="1200" height="955" />
   <br /><small><em>Soldats japonais embusqués à Shanghai, 1937. L'une des premières et des plus longues batailles urbaines de la guerre.</em></small></p>
 
 <p>Offensive japonaise contre Shanghai, également connue sous le nom de Bataille de Shanghai. Cette bataille est l'une des premières et des plus longues batailles urbaines de la Seconde Guerre sino-japonaise. Cette offensive s'arrête avec la prise de contrôle de Shanghai par les forces japonaises.</p>
 
-# 1938 ans
+# 1938
 
 <p style="text-align:center"><img src="{{ '/assets/img/kristallnacht.webp' | relative_url }}" alt="Photographie des lendemains de la Nuit de Cristal : l'intérieur saccagé d'une synagogue, bancs renversés et tissus liturgiques jetés au sol, tandis que des hommes en uniforme fouillent les décombres" loading="lazy" decoding="async" width="1200" height="846" />
   <br /><small><em>Synagogue saccagée après la Nuit de Cristal, novembre 1938. Les uniformes présents sur les lieux ne sont pas là pour empêcher : le pogrom est organisé.</em></small></p>
 
 <p>Le décret sur l'enregistrement des biens juifs (Verordnung über die Anmeldung des Vermögens von Juden) oblige tout Juif à déclarer ses biens au-dessus de 5 000 Reichsmark. C'est la base de données qui rend l'aryanisation systématique possible.</p>
 
-# 1939 ans
+# 1939
 
 <p style="text-align:center"><img src="{{ '/assets/img/ausschaltung1938.webp' | relative_url }}" alt="Photographie de la page du Reichsgesetzblatt du 12 novembre 1938 : le texte de la « Verordnung zur Ausschaltung der Juden aus dem deutschen Wirtschaftsleben », imprimé en caractères gothiques sur deux colonnes et signé Göring" loading="lazy" decoding="async" width="1024" height="1461" />
   <br /><small><em>L'ordonnance « pour l'élimination des Juifs de la vie économique allemande », publiée au Reichsgesetzblatt du 12 novembre 1938 et signée Göring : interdiction d'exploiter commerces et ateliers à compter du 1ᵉʳ janvier 1939. Domaine public, via Wikimedia Commons.</em></small></p>
@@ -8701,7 +8701,7 @@ tags: technology
 
 <p>L'Union soviétique envahit la Finlande dans ce qui est connu sous le nom de Guerre d'hiver. Moscou exige des territoires proches de Leningrad, perdus lorsque la Finlande a pris son indépendance dans le chaos de 1917-1918, et se les fait refuser. La Finlande résiste à l'invasion avec succès et réussit à repousser les troupes soviétiques, mais au prix de lourdes pertes.</p>
 
-# 1940 ans
+# 1940
 
 <p style="text-align:center"><img src="{{ '/assets/img/finlande.webp' | relative_url }}" alt="Photographie de la guerre d'Hiver : des soldats finlandais en tenue de camouflage blanche servant une mitrailleuse depuis une position creusée dans la neige, au milieu des bois" loading="lazy" decoding="async" width="1200" height="787" />
   <br /><small><em>Mitrailleurs finlandais en tenue de neige. L'Union soviétique envahit la Finlande pour récupérer des territoires ; elle l'emportera, mais au prix de pertes qui dissimuleront mal sa faiblesse.</em></small></p>
@@ -8710,7 +8710,7 @@ tags: technology
 
 <p>Les Brigades spéciales seront créées l'année suivante par le régime de Vichy. Sous la direction de la Direction Centrale des Renseignements Généraux (DCRG), elles ont pour mission de lutter contre la Résistance française et de traquer les opposants au régime de Vichy et à l'occupation allemande. Leur création est une conséquence directe de la mise en place du régime de Vichy et de la collaboration avec les forces d'occupation allemandes en France.</p>
 
-# 1941 ans
+# 1941
 
 ## 22 juin
 
@@ -8745,7 +8745,7 @@ tags: technology
 
 <p>L'Empire du Japon lance une attaque surprise contre la base navale américaine de Pearl Harbor, située sur l'île d'Oahu, à Hawaii. L'attaque aérienne est lancée tôt le matin et dure environ deux heures, pendant lesquelles des avions japonais larguent des bombes et des torpilles sur les navires américains qui sont amarrés dans le port. L'attaque est dévastatrice pour les États-Unis, qui subissent de lourdes pertes en navires et en avions, ainsi que de nombreux morts et blessés parmi les militaires et les civils. Environ 2 400 Américains sont tués. Le Congrès déclare la guerre au Japon, ce qui entraîne l'entrée des États-Unis dans la guerre contre les puissances de l'Axe, y compris l'Allemagne nazie et l'Italie fasciste.</p>
 
-# 1942 ans
+# 1942
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-i1yoM_ky5E" data-id="-i1yoM_ky5E" rel="noopener" aria-label="Lire la vidéo YouTube : Liberté de Paul Éluard, du poème d'amour à l'hymne de la Résistance"><img src="https://i.ytimg.com/vi/-i1yoM_ky5E/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Liberté de Paul Éluard, du poème d'amour à l'hymne de la Résistance »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8767,7 +8767,7 @@ tags: technology
 
 <p>L'idée traverse la Manche. En France, les ordonnances de 1945 créeront la Sécurité sociale ; au Royaume-Uni, le National Health Service ouvrira en 1948, gratuit au point d'usage. Pendant trente ans, l'Occident bâtira ce qu'on appellera l'État-providence : un pari sur la mutualisation du risque à l'échelle d'une nation entière — et l'une des rares constructions du siècle que ses adversaires eux-mêmes n'ont jamais osé démanteler de face.</p>
 
-# 1943 ans
+# 1943
 
 <p>Les allemands capitulent à Stalingrad. Cette capitulation met fin au mythe de l'invincibilité de l'armée allemande.</p>
 
@@ -8777,7 +8777,7 @@ tags: technology
 
 <p>La Milice française est créée par le gouvernement de Vichy, dirigé par le maréchal Philippe Pétain et son Premier ministre, Pierre Laval. La Milice est une organisation paramilitaire destinée à aider les autorités de Vichy et les forces d'occupation allemandes à lutter contre la Résistance française et à maintenir l'ordre en France.</p>
 
-# 1944 ans
+# 1944
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=ndQhTOgPpw4" data-id="ndQhTOgPpw4" rel="noopener" aria-label="Lire la vidéo YouTube : Wernher von Braun, le nazi passé à la Nasa, inventeur du missile balistique"><img src="https://i.ytimg.com/vi/ndQhTOgPpw4/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Wernher von Braun, le nazi passé à la Nasa, inventeur du missile balistique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8785,7 +8785,7 @@ tags: technology
 
 <p>Friedrich Hayek, un économiste et philosophe autrichien, publie "La Route de la servitude" (The Road to Serfdom). La thèse principale de ce livre est que toute forme de planification centralisée et de contrôle gouvernemental de l'économie mène à une perte de liberté individuelle et conduit finalement à la tyrannie. Hayek soutient que le libre marché et la concurrence sont essentiels pour préserver la liberté et l'autonomie individuelle. Hayek met aussi en garde contre les dangers du socialisme et des économies planifiées, qui, selon lui, provoquent l'émergence de régimes totalitaires.</p>
 
-# 1945 ans
+# 1945
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=aG8qV0cEtKo" data-id="aG8qV0cEtKo" rel="noopener" aria-label="Lire la vidéo YouTube : Einstein est-il le père de la bombe atomique ?"><img src="https://i.ytimg.com/vi/aG8qV0cEtKo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Einstein est-il le père de la bombe atomique ? »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8810,7 +8810,7 @@ tags: technology
   <br /><small><em>Panneaux de l'ENIAC conservés à l'université de Pennsylvanie. Photo TexasDex, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1946 ans
+# 1946
 
 <p style="text-align:center"><img src="{{ '/assets/img/haiphong.webp' | relative_url }}" alt="Photographie d'une rencontre diplomatique : Hô Chi Minh assis dans un fauteuil, en veste claire, un verre à la main, entre un officier français en uniforme et un civil en costume blanc" loading="lazy" decoding="async" width="1200" height="753" />
   <br /><small><em>Hô Chi Minh trinquant avec un officier français, 1946. Quelques mois plus tard, la guerre d'Indochine commence.</em></small></p>
@@ -8821,7 +8821,7 @@ tags: technology
 
 <p>La guerre durera huit ans, s'achèvera à Diên Biên Phu, et sera aussitôt reprise par les États-Unis dans une logique de guerre froide. C'est le premier des grands conflits de décolonisation, et il fournit le schéma des suivants : une armée régulière très supérieure en matériel, une guérilla qui tient la population, et une opinion métropolitaine qui se lasse avant que l'armée ne soit vaincue.</p>
 
-# 1947 ans
+# 1947
 
 <p>Deux ans après avoir gagné la guerre ensemble, les vainqueurs cessent de se parler. Le président américain annonce devant le Congrès que les États-Unis soutiendront les peuples menacés par des minorités armées ou des pressions extérieures — formule diplomatique pour dire : partout où l'Union soviétique poussera, nous pousserons en face. C'est la doctrine Truman, et l'acte de naissance de la guerre froide.</p>
 
@@ -8840,7 +8840,7 @@ tags: technology
 
 <p>Le transistor remplace les tubes à vide (ou lampes électroniques) qui sont utilisés auparavant dans les appareils électroniques pour amplifier les signaux et effectuer des opérations de commutation. Les transistors offrent de nombreux avantages par rapport aux tubes à vide, tels que leur taille réduite, leur coût inférieur, leur consommation d'énergie plus faible et leur fiabilité accrue.</p>
 
-# 1948 ans
+# 1948
 
 <p>Le 14 mai, à Tel-Aviv, David Ben Gourion proclame l'indépendance de l'État d'Israël, quelques heures avant l'expiration du mandat britannique sur la Palestine. Les armées de cinq États arabes voisins entrent en guerre le lendemain.</p>
 
@@ -8855,7 +8855,7 @@ tags: technology
 
 <p>Détail sans équivalent connu : l'hébreu, langue liturgique et savante qui n'était plus la langue maternelle de personne depuis près de deux mille ans, devient la langue officielle du nouvel État. C'est le seul cas attesté de résurrection complète d'une langue morte.</p>
 
-# 1949 ans
+# 1949
 
 <p>Eugene Houdry, ingénieur chimiste français installé aux États-Unis, dépose le brevet du convertisseur catalytique pour réduire les émissions polluantes des véhicules à essence. L'invention devra attendre : elle est incompatible avec l'essence au plomb, et ne sera montée en série que dans les années 1970, une fois le plomb interdit.</p>
 
@@ -8869,7 +8869,7 @@ tags: technology
 
 <p>Ce qui suit tient d'abord de la reconstruction : la terre est redistribuée à des centaines de millions de paysans, l'alphabétisation devient une campagne d'État, la mortalité infantile s'effondre. Et d'emblée la violence : les procès de masse qui accompagnent la réforme agraire font, selon les estimations, un à deux millions de morts. Les deux visages ne se séparent pas, et ne se sépareront pas.</p>
 
-# 1950 ans
+# 1950
 
 <p style="text-align:center"><img src="{{ '/assets/img/toyota.webp' | relative_url }}" alt="Photographie du siège de Toyota à Toyota City : un immeuble de bureaux moderne aux façades de verre incurvées, dans un environnement dégagé" loading="lazy" decoding="async" width="1000" height="1000" />
   <br /><small><em>Le siège de Toyota à Toyota City. C'est ici qu'un ingénieur, Taiichi Ohno, met au point le flux tendu — un principe d'organisation qui gagnera ensuite tous les secteurs industriels.</em></small></p>
@@ -8880,7 +8880,7 @@ tags: technology
 
 <p>La guerre de corée débute, lorsque l'armée nord-coréenne traverse le 38e parallèle et envahit la Corée du Sud.</p>
 
-# 1951 ans
+# 1951
 
 <p>Pour la première fois, l'uranium produit de l'électricité : le réacteur expérimental EBR-I, dans l'Idaho, allume quatre ampoules. La première centrale nucléaire américaine à vocation commerciale, Shippingport en Pennsylvanie, ne démarrera qu'en 1957. Depuis lors, l'uranium est utilisé de manière intensive comme source d'énergie pour la production d'électricité dans de nombreux pays du monde.</p>
 
@@ -8891,7 +8891,7 @@ tags: technology
 
 <p>Il est important de noter que l'uranium est une source d'énergie potentiellement très propre, car il ne libère pas de gaz à effet de serre lorsqu'il est utilisé pour produire de l'électricité. Cependant, l'utilisation de l'uranium peut poser des problèmes de sécurité et de gestion des déchets radioactifs, et elle est souvent critiquée en raison de ses implications pour la santé humaine et l'environnement. En raison de ces préoccupations, de nombreux gouvernements et entreprises cherchent à réduire leur utilisation de l'uranium et à se tourner vers d'autres sources d'énergie renouvelables.</p>
 
-# 1952 ans
+# 1952
 
 <p>Une période de smog intense s'installe dans la ville de Londres pendant plusieurs jours. Cette pollution est principalement causée par l'utilisation généralisée du charbon comme source d'énergie pour le chauffage et la production d'électricité. La visibilité est si faible que les gens ont du mal à se déplacer dans les rues et le trafic est presque complètement arrêté. La pollution a également des effets néfastes sur la santé, provoquant une augmentation considérable du nombre de décès dus à des problèmes respiratoires.</p>
 
@@ -8902,7 +8902,7 @@ tags: technology
 
 <p>L'événement pousse le gouvernement britannique à adopter des lois plus strictes sur la qualité de l'air et à encourager l'utilisation de sources d'énergie plus propres, comme le gaz naturel et l'électricité.</p>
 
-# 1953 ans
+# 1953
 
 <p style="text-align:center"><img src="{{ '/assets/img/armisticecoree.webp' | relative_url }}" alt="Photographie de la dernière page de l'armistice de Panmunjeom : un texte imprimé en caractères chinois, suivi des signatures manuscrites des commandants des deux camps" loading="lazy" decoding="async" width="1200" height="1634" />
   <br /><small><em>La dernière page de l'armistice de Panmunjeom, avec les signatures. Il n'a jamais été remplacé par un traité de paix : techniquement, la guerre de Corée n'est pas terminée.</em></small></p>
@@ -8921,7 +8921,7 @@ tags: technology
 
 <p>L'ADN était identifié depuis quatre-vingts ans, et on le croyait une molécule trop monotone pour porter quoi que ce soit. Il aura suffi d'en comprendre la forme.</p>
 
-# 1954 ans
+# 1954
 
 <p>Test nucléaire "Castle Bravo". C'est l'essai nucléaire américain le plus puissant jamais réalisé. Le test produit une explosion de 15 megatons, soit plus de 1000 fois plus puissant que les bombes atomiques larguées sur Hiroshima et Nagasaki en 1945. Il cause des dégâts considérables dans la région et expose des milliers de personnes aux radiations.</p>
 
@@ -8937,21 +8937,21 @@ tags: technology
 
 <p>Début de la Guerre d'Algérie avec les attaques de la « Toussaint rouge » menées par le Front de libération nationale (FLN).</p>
 
-# 1955 ans
+# 1955
 
 <p style="text-align:center"><img src="{{ '/assets/img/castromexique.webp' | relative_url }}" alt="Photographie d'un monument à Fidel Castro et Che Guevara : deux statues de bronze assises côte à côte sur un banc, devant la grille d'un édifice public" loading="lazy" decoding="async" width="1200" height="834" />
   <br /><small><em>Statues de Fidel Castro et d'Ernesto Guevara à Mexico. C'est en exil dans cette ville que les deux hommes se rencontrent — Guevara est alors un médecin argentin.</em></small></p>
 
 <p>Castro est libéré grâce à une amnistie. Il part en exil au Mexique avec son frère Raúl et d'autres partisans. Là, ils rencontrent Ernesto "Che" Guevara, un médecin argentin et révolutionnaire marxiste qui devient un membre clé du mouvement. Ensemble, ils planifient leur retour à Cuba pour renverser Batista.</p>
 
-# 1956 ans
+# 1956
 
 <p style="text-align:center"><img src="{{ '/assets/img/granma.webp' | relative_url }}" alt="Photographie du yacht Granma en mer : un bateau de plaisance blanc à cabine fermée, battant pavillon cubain, filant sur une mer agitée" loading="lazy" decoding="async" width="700" height="502" />
   <br /><small><em>Le <em>Granma</em>, le yacht qui ramena Castro, Guevara et quatre-vingts hommes à Cuba. Presque tous furent tués ou capturés dans les jours suivant le débarquement.</em></small></p>
 
 <p>Castro, Guevara, Raúl Castro et environ 80 autres rebelles retournent à Cuba à bord d'un bateau. Leur objectif est de rejoindre des groupes de résistance sur place et de lancer une guérilla contre le régime de Batista. Cependant, les forces gouvernementales les attaquent rapidement et seuls 12 rebelles, dont les frères Castro et Guevara, réussissent à s'échapper dans les montagnes de la Sierra Maestra.</p>
 
-# 1958 ans
+# 1958
 
 <p>Mao lance le Grand Bond en avant : la Chine doit rattraper la production d'acier du Royaume-Uni en quinze ans. Les campagnes sont regroupées en communes populaires de plusieurs milliers de foyers, où disparaissent la propriété privée, la cuisine familiale et souvent le repas pris chez soi. Des centaines de milliers de « hauts fourneaux de jardin » s'allument dans les villages ; les paysans y fondent leurs casseroles, leurs outils, parfois leurs charrues, pour produire une fonte inutilisable.</p>
 
@@ -8966,7 +8966,7 @@ tags: technology
 
 <p>La famine qui suit, de 1959 à 1961, est la plus meurtrière de l'histoire humaine : les estimations vont de quinze à quarante-cinq millions de morts. Elle ne doit rien à une sécheresse exceptionnelle ni à une guerre. Elle tient à une politique — et au fait que personne, dans tout l'appareil, n'était en position de dire qu'elle était fausse. Le seul dirigeant qui l'écrivit au président fut destitué et brisé.</p>
 
-# 1959 ans
+# 1959
 
 <p>Batista fuit Cuba pour la République dominicaine, et les forces rebelles prennent le contrôle de La Havane. Le 8 janvier, Fidel Castro entre triomphalement dans la capitale cubaine. Après la prise de pouvoir, Castro met en place un gouvernement révolutionnaire et commence à mettre en œuvre des réformes sociales et économiques radicales, telles que la nationalisation des industries et la redistribution des terres.</p>
 
@@ -8975,7 +8975,7 @@ tags: technology
   <br /><small><em>Fidel Castro entre à La Havane en janvier 1959, après deux ans de guérilla dans la Sierra Maestra. Unknown, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1960 ans
+# 1960
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=tYQrfPTEk6E" data-id="tYQrfPTEk6E" rel="noopener" aria-label="Lire la vidéo YouTube : Comment l'apparition du chauffage a bouleversé nos relations sociales"><img src="https://i.ytimg.com/vi/tYQrfPTEk6E/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Comment l'apparition du chauffage a bouleversé nos relations sociales »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -8999,7 +8999,7 @@ tags: technology
 
 <p>La France attendra 1967 et la loi Neuwirth pour l'autoriser, et 1974 pour la rembourser.</p>
 
-# 1961 ans
+# 1961
 
 <p style="text-align:center"><img src="{{ '/assets/img/b5000.webp' | relative_url }}" alt="Schéma d'architecture informatique : les piles d'exécution de la tâche principale et de la tâche fille, avec leurs blocs mémoire colorés, les pointeurs et les processeurs reliés par des flèches numérotées" loading="lazy" decoding="async" width="800" height="940" />
   <br /><small><em>Schéma de la gestion des piles et des tâches d'un système Burroughs. Le B5000 est conçu pour exécuter directement un langage évolué plutôt que du code machine — une idée en avance d'une génération.</em></small></p>
@@ -9016,7 +9016,7 @@ tags: technology
 
 <p>Il tombera le 9 novembre 1989, en une soirée, sur un malentendu : un porte-parole est-allemand annonçant maladroitement une ouverture des frontières « immédiatement, sans délai », et une foule prenant l'annonce au mot devant des gardes sans consignes. Vingt-huit ans de béton emportés en quelques heures parce que personne n'osa tirer.</p>
 
-# 1962 ans
+# 1962
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=gS6o_QNxc6k" data-id="gS6o_QNxc6k" rel="noopener" aria-label="Lire la vidéo YouTube : Rachel Carson, pionnière de la lutte contre les pesticides"><img src="https://i.ytimg.com/vi/gS6o_QNxc6k/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Rachel Carson, pionnière de la lutte contre les pesticides »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9034,7 +9034,7 @@ tags: technology
 
 <p>Indépendance officielle de l'Algérie.</p>
 
-# 1964 ans
+# 1964
 
 <p style="text-align:center"><img src="{{ '/assets/img/bachman.webp' | relative_url }}" alt="Portrait photographique de Charles Bachman : un homme âgé à lunettes et nœud papillon coloré, souriant, en costume sombre" loading="lazy" decoding="async" width="784" height="1200" />
   <br /><small><em>Charles Bachman. Son Integrated Data Store est l'un des premiers systèmes que l'on puisse appeler une base de données : les informations cessent d'être enfermées dans le programme qui les traite.</em></small></p>
@@ -9043,14 +9043,14 @@ tags: technology
 
 <p>Les premières bases de données sont principalement utilisées par de grandes entreprises et institutions gouvernementales pour des applications telles que la gestion des comptes clients, les inventaires, ou les systèmes de réservation. Elles fonctionnent sur de grands ordinateurs centraux et sont souvent accessibles via des terminaux connectés à ces ordinateurs centraux.</p>
 
-# 1965 ans
+# 1965
 
 <p style="text-align:center"><img src="{{ '/assets/img/att.webp' | relative_url }}" alt="Photographie ancienne d'un central téléphonique : une longue rangée d'opératrices assises côte à côte devant le tableau de connexion, casque sur la tête, enfichant les fiches dans les jacks" loading="lazy" decoding="async" width="600" height="491" />
   <br /><small><em>Un standard téléphonique et ses opératrices. Le monopole d'AT&T portait aussi sur les appareils raccordés au réseau ; c'est ce verrou-là qui sautera, et qui ouvrira la voie aux modems.</em></small></p>
 
 <p>Après l'affaire Hush-A-Phone, la contestation du monopole d'AT&T sur les équipements raccordés au réseau s'installe ; elle aboutira en 1968 à la décision Carterfone, par laquelle l'organisme fédéral de régulation des télécommunications (FCC) statue que des équipements non-Bell peuvent être raccordés au système téléphonique « sans dommage pour le réseau ». Cette décision crée la possibilité de vendre des appareils se connectant au réseau via un coupleur de protection loué auprès d'AT&T, et ouvre le marché aux équipements installés chez le client. Autrement dit, AT&T conserve un temps un point de contrôle (le fameux coupleur), mais la brèche est ouverte — et c'est par cette brèche que passeront, plus tard, les modems et donc l'accès grand public à Internet.</p>
 
-# 1966 ans
+# 1966
 
 <p>Affaibli par le désastre du Grand Bond et écarté de la gestion courante, Mao lance une révolution contre son propre parti. Il appelle la jeunesse à « bombarder le quartier général » — c'est-à-dire à s'en prendre aux cadres qui l'ont mis de côté. Des millions d'adolescents s'organisent en gardes rouges, obtiennent la gratuité des trains, et parcourent le pays pour dénoncer, humilier et frapper leurs professeurs, leurs directeurs, leurs voisins, parfois leurs parents.</p>
 
@@ -9075,7 +9075,7 @@ tags: technology
 
 <p>La note arrive plus tard. Ces variétés ne donnent leur plein rendement qu'arrosées et nourries d'azote — c'est-à-dire fabriquées avec du gaz naturel et de l'eau pompée dans les nappes. Là où les nappes s'épuisent, le miracle s'arrête. On n'avait pas nourri le monde : on lui avait avancé un crédit sur l'eau et sur le pétrole.</p>
 
-# 1967 ans
+# 1967
 
 <p style="text-align:center"><img src="{{ '/assets/img/garciamarquez.webp' | relative_url }}" alt="Photographie de Gabriel García Márquez : l'écrivain moustachu, en veste blanche et chemise bleue, assis au milieu d'un public" loading="lazy" decoding="async" width="1200" height="1791" />
   <br /><small><em>Gabriel García Márquez. <em>Cent Ans de solitude</em> paraît en 1967 et fait entrer le réalisme magique latino-américain dans la littérature mondiale.</em></small></p>
@@ -9086,14 +9086,14 @@ tags: technology
 
 <p>Le succès est immédiat et mondial. Il ouvre à la littérature latino-américaine une audience qu'elle n'avait jamais eue, et vaudra à son auteur le prix Nobel en 1982.</p>
 
-# 1968 ans
+# 1968
 
 <p style="text-align:center"><img src="{{ '/assets/img/mylai.webp' | relative_url }}" alt="Photographie du mémorial de My Lai : un groupe sculpté en pierre claire, dressé sur son socle au bout d'une allée dallée, entouré de palmiers et de pelouses" loading="lazy" decoding="async" width="1200" height="674" />
   <br /><small><em>Le mémorial de My Lai, au Vietnam. Entre trois cent quarante-sept et cinq cent quatre civils désarmés y furent tués par des soldats américains.</em></small></p>
 
 <p>Massacre de My Lai pendant la guerre du Vietnam. Des soldats américains tuent entre 347 et 504 civils vietnamiens non armés dans le village de My Lai. Les victimes sont majoritairement des femmes, des enfants et des personnes âgées. L'événement a mis en lumière les atrocités commises en temps de guerre.</p>
 
-# 1969 ans
+# 1969
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-rfSyV9n4v0" data-id="-rfSyV9n4v0" rel="noopener" aria-label="Lire la vidéo YouTube : Voici l'ancêtre d'internet (Arpanet) | Les Chroniques de Dr Nozman - Science &amp; Vie TV"><img src="https://i.ytimg.com/vi/-rfSyV9n4v0/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Voici l'ancêtre d'internet (Arpanet) | Les Chroniques de Dr Nozman - Science &amp; Vie TV »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9127,7 +9127,7 @@ tags: technology
 
 <p>Sous la pression d'une enquête antitrust du gouvernement américain (et de plaintes de concurrents), IBM annonce le unbundling: l'entreprise décide de facturer séparément le matériel d'un côté, les logiciels et les services de l'autre. C'est souvent décrit comme l'acte de naissance de l'industrie du logiciel telle qu'on la connaît. À partir du moment où le logiciel a un prix distinct, il devient possible pour des éditeurs tiers de vendre le leur en concurrence avec celui d'IBM. La voie est ouverte à tout ce qui suivra, jusqu'à des entreprises comme Microsoft. Puisque le logiciel n'est plus automatiquement fourni clé en main par IBM, les entreprises commencent — progressivement — à recruter et former leurs propres programmeurs, à développer un savoir-faire qu'elles n'avaient jamais eu besoin d'acquérir auparavant. Mais les habitudes mettent des années à franchir le seuil. Le unbundling est une condition nécessaire à l'émergence de l'industrie du logiciel et des compétences internes, mais pas suffisante pour la déclencher immédiatement. La transition se fait par glissement progressif sur les années 1970, pas par rupture brutale.</p>
 
-# 1970 ans
+# 1970
 
 <p style="text-align:center"><img src="{{ '/assets/img/petrolesaoudien.webp' | relative_url }}" alt="Carte du champ pétrolifère de Ghawar : la longue tache rouge du gisement s'étirant du nord au sud en Arabie saoudite, face à Bahreïn et au Qatar sur le golfe Persique" loading="lazy" decoding="async" width="688" height="663" />
   <br /><small><em>Le gisement de Ghawar, le plus grand champ pétrolier du monde. C'est cette rente qui finance la diffusion internationale de mosquées, d'écoles et d'une doctrine religieuse.</em></small></p>
@@ -9139,13 +9139,13 @@ tags: technology
 
 <p>On commence à réaliser que l'augmentation des pollutions chimiques est une menace pour l'eau potable.</p>
 
-# 1971 ans
+# 1971
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=7_Xw5tWsOQo" data-id="7_Xw5tWsOQo" rel="noopener" aria-label="Lire la vidéo YouTube : August 15, 1971 - Richard Nixon Closes the Gold Window"><img src="https://i.ytimg.com/vi/7_Xw5tWsOQo/hqdefault.jpg" alt="Miniature de la vidéo YouTube « August 15, 1971 - Richard Nixon Closes the Gold Window »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>« Choc Nixon » : dans une allocution télévisée, Richard Nixon annonce la suspension de la convertibilité du dollar en or. Cela met fin au système monétaire issu de la conférence de Bretton Woods (1ᵉʳ–22 juillet 1944), dans lequel le dollar est convertible en or à 35 dollars l'once et les autres monnaies arrimées au dollar. À partir de là, la monnaie n'est plus adossée à rien de métallique : elle devient purement fiduciaire (fiat money), garantie par le seul État émetteur.</p>
 
-# 1972 ans
+# 1972
 
 <p>Le langage C est créé à Bell Labs. Il va surtout être utilisé pour développer le système d'exploitation Unix. Assez proche de la machine pour rester rapide, assez lisible pour qu'un humain s'y retrouve : c'est ce compromis qui fera sa fortune.</p>
 
@@ -9156,7 +9156,7 @@ tags: technology
 
 <p>Les derniers Homo Sapiens à marcher sur le sol lunaire sont Harrison Schmitt et Eugene Cernan, lors de la mission Apollo 17.</p>
 
-# 1973 ans
+# 1973
 
 <p>L'Organisation des pays exportateurs de pétrole (OPEP) souhaite réduire significativement la production et de faire augmenter les prix du pétrole. Cette décision est prise en réaction à la décision de l'administration américaine de fournir une aide militaire à Israël pendant la guerre du Kippour, qui oppose Israël à l'Égypte et à la Syrie. L'OPEP veut utiliser son pouvoir de contrôle sur l'offre de pétrole pour faire pression sur les États-Unis et leur faire changer d'avis sur leur soutien à Israël. Le premier choc pétrolier a conduit à une augmentation de la demande pour les sources d'énergie alternatives, telles que l'énergie solaire et éolienne.</p>
 
@@ -9165,14 +9165,14 @@ tags: technology
   <br /><small><em>Le choc pétrolier de 1973 : stations à sec et dimanches sans voiture — l'énergie bon marché n'est plus acquise. David Falconer, Photographer, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1974 ans
+# 1974
 
 <p style="text-align:center"><img src="{{ '/assets/img/ozone.webp' | relative_url }}" alt="Carte satellite de la couche d'ozone au-dessus de l'Antarctique le 1ᵉʳ octobre 1998 : le globe vu du pôle sud, où la vaste zone violette du trou d'ozone est cernée d'anneaux bleus, verts, jaunes et rouges, avec l'échelle en unités Dobson" loading="lazy" decoding="async" width="1200" height="1098" />
   <br /><small><em>Le trou dans la couche d'ozone au-dessus de l'Antarctique, mesuré par la NASA. Molina et Rowland avaient annoncé le mécanisme dès 1974, à partir d'un simple raisonnement chimique.</em></small></p>
 
 <p>Mario Molina et Sherwood Rowland, de l'Université de Californie à Irvine, publient une étude théorique montrant que les chlorofluorocarbones (CFC) rejetés par les aérosols et les réfrigérateurs détruisent l'ozone de la haute atmosphère. Personne n'a encore rien observé dans le ciel : ce n'est qu'un calcul. Il faudra attendre onze ans pour que la mesure leur donne raison.</p>
 
-# 1975 ans
+# 1975
 
 <p>Il y a 4 milliards d'homo sapiens sur Terre.</p>
 
@@ -9184,7 +9184,7 @@ tags: technology
 
 <p>C'est en voyant l'ordinateur Altair 8800 en couverture de Popular Electronics que Gates et Paul Allen écrivent un interpréteur BASIC pour lui, puis fondent Microsoft. La vision « a computer on every desk and in every home » structure dès l'origine la mission de l'entreprise — l'idée étant que si le matériel devient abordable, c'est le logiciel qui fait la valeur. La vision de Gates relève du logiciel et du marché, mais sa condition de possibilité est matérielle, et elle se situe très exactement où le microprocesseur rend le calcul bon marché.</p>
 
-# 1976 ans
+# 1976
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=XImzZe5qUTk" data-id="XImzZe5qUTk" rel="noopener" aria-label="Lire la vidéo YouTube : Pot catalytique"><img src="https://i.ytimg.com/vi/XImzZe5qUTk/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Pot catalytique »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9192,7 +9192,7 @@ tags: technology
 
 <p>Identification du virus Ebola, lors de deux épidémies simultanées en Afrique, une en République démocratique du Congo (alors Zaire) et l'autre en République du Soudan. Le virus Ebola est transmis par des animaux, notamment les chauves-souris, et peut être transmis de personne à personne par contact étroit avec les liquides corporels d'une personne infectée. Le virus Ebola peut causer une maladie grave et potentiellement mortelle appelée fièvre hémorragique à virus Ebola, qui se caractérise par de fortes fièvres, des maux de tête, de la fatigue et des saignements internes.</p>
 
-# 1977 ans
+# 1977
 
 <p style="text-align:center">
   <img src="/assets/img/apple2.webp" alt="Photographie d'un Apple II sur fond noir : le boîtier beige à clavier intégré, surmonté d'un moniteur monochrome et de deux lecteurs de disquettes" width="400" loading="lazy" decoding="async" height="400" />
@@ -9207,7 +9207,7 @@ tags: technology
 
 <p>Instauration de la loi sur la prohibition de l'alcool au Pakistan. Cette loi interdit la production, la vente et la consommation d'alcool dans le pays. La possession et la vente d'alcool sont des infractions punissables par la loi au Pakistan et peuvent entraîner des sanctions sévères, y compris des peines de prison.</p>
 
-# 1978 ans
+# 1978
 
 <p style="text-align:center"><img src="{{ '/assets/img/wordstar.webp' | relative_url }}" alt="Capture d'écran de WordStar : le menu principal des commandes affiché en jaune sur fond noir, au-dessus d'un texte de démonstration en allemand tapé dans le document" loading="lazy" decoding="async" width="522" height="307" />
   <br /><small><em>WordStar à l'écran, menu de commandes en haut. Le traitement de texte devient un produit autonome, acheté séparément et interchangeable : le logiciel se détache de la machine.</em></small></p>
@@ -9218,7 +9218,7 @@ tags: technology
 
 <p>La formule qu'on lui prête — peu importe que le chat soit noir ou blanc pourvu qu'il attrape les souris — dit assez le renversement : ce qui compte n'est plus la pureté idéologique, c'est le résultat. Ce qui suit sera la sortie de pauvreté la plus rapide et la plus massive de toute l'histoire humaine, plusieurs centaines de millions de personnes en une génération. Sans que le parti ne cède à aucun moment une once de pouvoir politique — et c'est exactement ce que 1989 viendra rappeler.</p>
 
-# 1979 ans
+# 1979
 
 <p style="text-align:center">
   <img src="/assets/img/visicalc.webp" alt="Capture d'écran de VisiCalc : une feuille de calcul en caractères verts sur fond noir, avec ses colonnes d'articles, de quantités et de prix, et le total calculé en bas" width="400" loading="lazy" decoding="async" height="275" />
@@ -9231,7 +9231,7 @@ tags: technology
 
 <p>Chute du régime du Shah Mohammad Reza Pahlavi et établissement de la République islamique d'Iran sous la direction de l'Ayatollah Khomeini.</p>
 
-# 1980 ans
+# 1980
 
 <p style="text-align:center"><img src="{{ '/assets/img/recyclage.webp' | relative_url }}" alt="Photographie de quatre poubelles de tri alignées dans un parc, chacune portant en grandes lettres la mention du déchet accepté : ordures générales, aluminium, plastique et papier" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Poubelles de tri sélectif. Les lois des années 1980 déplacent la question des déchets : il ne s'agit plus seulement de les évacuer, mais de les séparer et de les valoriser.</em></small></p>
@@ -9240,14 +9240,14 @@ tags: technology
 
 <p>Le fax (norme Groupe 3). Le concept de fax est très ancien, mais son explosion grand public date d'une norme précise. Le Groupe 3 produit une image numérisée en environ une minute par transmission numérique à travers des modems — le fax est donc lui-même un cousin du modem.</p>
 
-# 1981 ans
+# 1981
 
 <p style="text-align:center"><img src="{{ '/assets/img/smartmodem.webp' | relative_url }}" alt="Photographie d'un modem Hayes Smartmodem : un boîtier noir plat dont la façade porte le nom de la marque et une rangée de voyants d'état rouges" loading="lazy" decoding="async" width="1200" height="695" />
   <br /><small><em>Le Hayes Smartmodem. Avec son jeu de commandes, le modem cesse d'être un appareil de spécialiste : n'importe quel logiciel peut désormais lui dire de composer un numéro.</em></small></p>
 
 <p>Hayes est une marque majeure du marché du modem dès l'introduction du Smartmodem original à 300 bits/s. C'est l'année où le modem cesse d'être un appareil de spécialiste pour devenir un produit qu'on peut acquérir et brancher nous-mêmes. L'utilisateur acquiert un terminal simple ou un PC, le branche sur la ligne téléphonique, et compose le numéro du service qu'il veut — la banque, puis un « service d'information » plus généraliste pour la météo ou les actualités interactives.</p>
 
-# 1983 ans
+# 1983
 
 <p style="text-align:center"><img src="{{ '/assets/img/servicesenligne.webp' | relative_url }}" alt="Photographie d'un poste de travail domestique des années 1980 : un micro-ordinateur à clavier intégré et son moniteur affichant un jeu, à côté d'un téléphone orange à cadran et d'un coupleur acoustique" loading="lazy" decoding="async" width="1200" height="800" />
   <br /><small><em>Un poste des années 1980 : téléphone à cadran, coupleur acoustique, micro-ordinateur et lecteur de cassettes. Se connecter coûtait cher à l'heure, d'où les connexions nocturnes.</em></small></p>
@@ -9258,7 +9258,7 @@ tags: technology
 
 <p>Tout cela se paye à l'heure, et cher : les tarifs sont nettement plus élevés en journée (heures « prime ») qu'en soirée ou la nuit, ce qui pousse les passionnés à se connecter tard. Combiné à la lenteur du débit, le moindre « pastime » peut vite peser sur la facture — un contraste frappant avec l'illimité d'aujourd'hui.</p>
 
-# 1985 ans
+# 1985
 
 <p>Des scientifiques britanniques publient un rapport qui attire l'attention du public sur la gravité du problème de la couche d'ozone et son impact potentiel sur la santé humaine et l'environnement. Le rapport montre que la diminution de la couche d'ozone est causé par les émissions de produits chimiques tels que les chlorofluorocarbones (CFC) utilisés dans les réfrigérateurs, les climatiseurs, les aérosols, etc.</p>
 
@@ -9267,7 +9267,7 @@ tags: technology
   <br /><small><em>Le trou dans la couche d'ozone au-dessus de l'Antarctique : un problème mondial identifié, puis effectivement résolu par un traité. NASA, domaine public, via Wikimedia Commons.</em></small>
 </p>
 
-# 1989 ans
+# 1989
 
 <p style="text-align:center"><img src="{{ '/assets/img/nsfnet.webp' | relative_url }}" alt="Carte du réseau NSFNET T3 en 1992 : les nœuds du réseau répartis sur les États-Unis, nommés par ville, reliés entre eux par les liaisons à haut débit de la dorsale" loading="lazy" decoding="async" width="1200" height="725" />
   <br /><small><em>La dorsale NSFNET en 1992. Le réseau universitaire américain devient l'épine dorsale de l'Internet, juste avant son ouverture au commerce.</em></small></p>
@@ -9284,7 +9284,7 @@ tags: technology
 
 <p>Deux régimes du même bloc, la même année, devant la même demande, et deux issues opposées. L'un a choisi de tenir par la force et dure encore ; l'autre a lâché et s'est effacé en deux ans. Les leçons que chacun en a tirées gouvernent une bonne part du monde d'aujourd'hui.</p>
 
-# 1990 ans
+# 1990
 
 <p style="text-align:center"><img src="{{ '/assets/img/aol.webp' | relative_url }}" alt="Photographie d'un CD-ROM promotionnel America Online : une pochette bleue au logo de la marque, annonçant trois mois gratuits et vantant en espagnol un Internet facile" loading="lazy" decoding="async" width="1200" height="1208" />
   <br /><small><em>Un CD promotionnel America Online. AOL en a inondé la planète avec des heures gratuites — mais ce qu'il proposait était un jardin clos plutôt que l'Internet.</em></small></p>
@@ -9306,7 +9306,7 @@ tags: technology
 
 <p>L'Irak, sous la direction de Saddam Hussein, envahit et annexe le Koweït voisin.</p>
 
-# 1991 ans
+# 1991
 
 <p>Fin de l'Union soviétique (URSS). Eltsine accepte sans violence le départ de l’Ukraine et de la Biélorussie, signant avec ses homologues ukrainien et biélorusse les accords de Belovej, qui actent la dissolution de l'URSS.</p>
 
@@ -9341,7 +9341,7 @@ tags: technology
 
 <p>Télécharger ou créer les fichiers du site Web que vous souhaitez héberger sur le serveur.</p>
 
-# 1992 ans
+# 1992
 
 <p style="text-align:center"><img src="{{ '/assets/img/stationtravail.webp' | relative_url }}" alt="Photographie d'une station de travail Sun : un boîtier informatique horizontal beige portant le logo du constructeur, surmonté d'un moniteur" loading="lazy" decoding="async" width="1200" height="444" />
   <br /><small><em>Une station de travail Sun. C'est sur des machines de ce genre que tournaient les premiers serveurs web, quand un million d'ordinateurs seulement étaient connectés.</em></small></p>
@@ -9352,7 +9352,7 @@ tags: technology
 
 <p>Deux autres verrous sauteront dans la foulée. En avril 1993, le CERN placera le World Wide Web dans le domaine public, sans brevet ni redevance — décision dont on mesure mal la portée : breveté, le Web serait resté un produit parmi d'autres, en concurrence avec des systèmes rivaux et incompatibles. La même année, le navigateur Mosaic affichera pour la première fois les images dans la page plutôt que dans une fenêtre séparée. Le nombre de sites passera alors de quelques centaines à plusieurs dizaines de milliers en deux ans.</p>
 
-# 1993 ans
+# 1993
 
 <p>Création au Rwanda de la radio des Mille Collines, une radio privée, juste avant le début du génocide rwandais. La radio diffuse des messages incitant au meurtre de Tutsis et de Hutu modérés.</p>
 
@@ -9361,21 +9361,21 @@ tags: technology
   <br /><small><em>Le génocide des Tutsi : environ huit cent mille morts en cent jours, sur fond d'appels au meurtre diffusés à la radio. Photo Fanny Schertzer, CC BY-SA 3.0, via Wikimedia Commons.</em></small>
 </p>
 
-# 1994 ans
+# 1994
 
 <p style="text-align:center"><img src="{{ '/assets/img/winsock.webp' | relative_url }}" alt="Photographie d'un modem RTC externe : un boîtier noir incliné, à la façade percée de voyants rouges allumés, portant le nom du modèle" loading="lazy" decoding="async" width="1200" height="778" />
   <br /><small><em>Un modem RTC à 2400 bits/s. Avec Trumpet Winsock, un PC ordinaire pouvait enfin parler TCP/IP et se connecter directement à l'Internet, sans passer par un service propriétaire.</em></small></p>
 
 <p>Trumpet Winsock sort et elle acquiert une réputation internationale comme le meilleur logiciel disponible pour se connecter à Internet. Concrètement : une fois Trumpet Winsock installé, on peut enfin faire tourner Netscape, Eudora ou WS_FTP sur son PC et accéder au web naissant, à l'e-mail et au transfert de fichiers.</p>
 
-# 1995 ans
+# 1995
 
 <p style="text-align:center"><img src="{{ '/assets/img/netscape.webp' | relative_url }}" alt="Capture d'écran de Netscape Navigator : la fenêtre du navigateur avec sa barre d'outils et son champ d'adresse, affichant la page « À propos » avec le logo Netscape et les mentions de copyright" loading="lazy" decoding="async" width="1117" height="699" />
   <br /><small><em>Netscape Navigator 2.02. C'est dans ce navigateur que sont livrés les cookies HTTP, qui donnent enfin une mémoire à un protocole conçu sans en avoir.</em></small></p>
 
 <p>L'ingénieur Lou Montulli a développé les cookies HTTP chez Netscape l'année précédente ; ils sont livrés dans le navigateur et se généralisent à partir de cette année. Cette technologie permet à un site web de mémoriser certaines informations entre plusieurs visites ou pages consultées, comme un identifiant de session, un panier d'achat ou des préférences utilisateur. Les cookies deviennent rapidement un élément fondamental du fonctionnement du Web moderne, facilitant l'authentification des utilisateurs, le commerce électronique et, plus tard, le suivi publicitaire en ligne.</p>
 
-# 1996 ans
+# 1996
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=2I0K6kQtx6A" data-id="2I0K6kQtx6A" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine de Google, une ambition futuriste"><img src="https://i.ytimg.com/vi/2I0K6kQtx6A/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine de Google, une ambition futuriste »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9412,13 +9412,13 @@ tags: technology
 
 <p>Les portails sont populaires à cette époque, ils regroupent des liens vers des sites Web pertinents sur un sujet donné, mais ils sont souvent encombrés et difficiles à naviguer. En raison de ces difficultés, la plupart des gens utilisent Internet principalement pour envoyer des courriers électroniques et pour lire des nouvelles en ligne.</p>
 
-# 1997 ans
+# 1997
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=QRTN1i4iC2M" data-id="QRTN1i4iC2M" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine de Netflix : une archéologie de la paresse"><img src="https://i.ytimg.com/vi/QRTN1i4iC2M/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine de Netflix : une archéologie de la paresse »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Netflix est fondé par Reed Hastings et Marc Randolph. À l'origine, l'entreprise offre un service de location de DVD par correspondance. Au fil du temps, Netflix évolue pour devenir un service de streaming en ligne.</p>
 
-# 1998 ans
+# 1998
 
 <p style="text-align:center"><img src="{{ '/assets/img/google1998.webp' | relative_url }}" alt="Photographie de la première baie de serveurs de Google exposée en musée : une armoire ouverte où s'empilent des dizaines de cartes mères nues, reliées par un écheveau de câbles" loading="lazy" decoding="async" width="1200" height="1600" />
   <br /><small><em>Le premier serveur de Google, boîtiers empilés et câbles apparents. L'architecture — beaucoup de machines ordinaires plutôt qu'une grosse — restera celle de tous ses centres de données.</em></small></p>
@@ -9427,7 +9427,7 @@ tags: technology
 
 <p>Le département de la Justice des États-Unis intente une action en justice contre Microsoft pour abus de sa position dominante sur le marché des systèmes d'exploitation pour ordinateurs personnels.</p>
 
-# 2001 ans
+# 2001
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=I8vsW6U8nnM" data-id="I8vsW6U8nnM" rel="noopener" aria-label="Lire la vidéo YouTube : À l’origine de Wikipédia, deux visions du savoir qui s'opposent"><img src="https://i.ytimg.com/vi/I8vsW6U8nnM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l’origine de Wikipédia, deux visions du savoir qui s'opposent »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9437,7 +9437,7 @@ tags: technology
 
 <p>Les États-Unis sont attaqués dans un acte de terrorisme coordonné d'une ampleur sans précédent. Deux avions de ligne, détournés par des membres d'Al-Qaïda, s'écrasent dans les tours jumelles du World Trade Center à New York, causant leur effondrement. Un troisième avion s'écrase sur le Pentagone, près de Washington, D.C. Un quatrième avion, United Airlines Vol 93, s'écrase en Pennsylvanie après que les passagers et l'équipage tentent de reprendre le contrôle de l'appareil des terroristes. Ces attaques entraînent la mort de près de 3 000 personnes et marquent un tournant majeur dans l'histoire mondiale, déclenchant des guerres en Afghanistan et en Irak et menant à d'importantes modifications des politiques de sécurité nationale et internationale.</p>
 
-# 2002 ans
+# 2002
 
 <p>Identification d'un virus de syndrome respiratoire aigu sévère (SRAS) en Chine. Ce virus touche plusieurs pays en Asie, en Europe et en Amérique du Nord. Cette épidémie de SRAS est la première à être causée par un coronavirus et entraîne la mort de près de 800 personnes dans le monde. Il est actuellement considéré que ce virus est originaire des chauves-souris, plus précisément d'une espèce de chauve-souris appelée Rhinolophus affinis.</p>
 
@@ -9450,13 +9450,13 @@ tags: technology
 
 <p>Des virus similaires au SRAS-CoV sont identifiés par la suite, notamment le nouveau coronavirus (COVID-19) qui est identifié pour la première fois en 2019 et qui cause une pandémie mondiale en 2020.</p>
 
-# 2003 ans
+# 2003
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=wdZiNyiPTPM" data-id="wdZiNyiPTPM" rel="noopener" aria-label="Lire la vidéo YouTube : [Entrée des troupes américaines dans Bagdad]"><img src="https://i.ytimg.com/vi/wdZiNyiPTPM/hqdefault.jpg" alt="Miniature de la vidéo YouTube « [Entrée des troupes américaines dans Bagdad] »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
 <p>Les États-Unis, sous la présidence de George W. Bush, envahissent l'Irak. Cette action, officiellement nommée "Opération Liberté Irakienne", est lancée avec le soutien d'une "coalition des volontaires" incluant le Royaume-Uni et plusieurs autres alliés. L'invasion vise à destituer le président irakien Saddam Hussein, sous prétexte de la possession d'armes de destruction massive par l'Irak et de liens supposés avec le terrorisme, notamment Al-Qaïda. L'invasion suscite des controverses et des protestations à l'échelle internationale.</p>
 
-# 2005 ans
+# 2005
 
 <p style="text-align:center"><img src="{{ '/assets/img/youtube.webp' | relative_url }}" alt="Photographie d'un campus d'entreprise de la Silicon Valley : des bâtiments bas aux façades vitrées, adossés à une colline boisée, au bord d'un carrefour désert" loading="lazy" decoding="async" width="1200" height="671" />
   <br /><small><em>Le siège de YouTube à San Bruno. Lancé en 2005, le site fait passer la vidéo en ligne d'une prouesse technique à un geste ordinaire.</em></small></p>
@@ -9467,7 +9467,7 @@ tags: technology
 
 <p>La conséquence dépasse la technique. Pour la première fois, diffuser des images animées vers un public de masse cesse d'être réservé à ceux qui possèdent une chaîne — studios, télévisions, États. Google rachète le site l'année suivante pour 1,65 milliard de dollars, une somme jugée démente à l'époque. Vingt ans plus tard, la vidéo en ligne aura absorbé la télévision, la formation, le clip, le journal, le cours particulier et une bonne part du débat public.</p>
 
-# 2006 ans
+# 2006
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=UR9Cc5g-F9c" data-id="UR9Cc5g-F9c" rel="noopener" aria-label="Lire la vidéo YouTube : À l'origine de Twitter, pionnier du microblogging"><img src="https://i.ytimg.com/vi/UR9Cc5g-F9c/hqdefault.jpg" alt="Miniature de la vidéo YouTube « À l'origine de Twitter, pionnier du microblogging »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9477,7 +9477,7 @@ tags: technology
 
 <p>Skype, lancé en 2003, s'impose : il fait passer des appels téléphoniques gratuits et de bonne qualité, de PC à PC, par-dessus un réseau conçu pour transporter des paquets de données indifférenciés.</p>
 
-# 2007 ans
+# 2007
 
 <p>Steve Jobs, co-fondateur et PDG d'Apple, présente le premier iPhone le 9 janvier 2007 lors d'une conférence de presse à San Francisco. L'événement, intitulé "Introducing iPhone", est diffusé en direct sur Internet et est suivi par des journalistes, des analystes et des fans d'Apple de partout dans le monde.</p>
 
@@ -9491,7 +9491,7 @@ tags: technology
 
 <p>Tor est toujours utilisé aujourd'hui et est considéré comme l'un des moyens les plus efficaces pour naviguer anonymement sur Internet. Cependant, il est important de noter que même si Tor offre une certaine protection contre la surveillance, il n'est pas infaillible et il est important de prendre des mesures supplémentaires pour protéger son anonymat en ligne.</p>
 
-# 2008 ans
+# 2008
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=eGGy2ocOLHE" data-id="eGGy2ocOLHE" rel="noopener" aria-label="Lire la vidéo YouTube : La crise des subprimes expliquée"><img src="https://i.ytimg.com/vi/eGGy2ocOLHE/hqdefault.jpg" alt="Miniature de la vidéo YouTube « La crise des subprimes expliquée »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9523,7 +9523,7 @@ tags: technology
 
 <p>Le 23 septembre 2008, Android est lancé comme système d'exploitation mobile à code source ouvert (open source), permettant à de nombreux fabricants et développeurs de participer à son écosystème.</p>
 
-# 2009 ans
+# 2009
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=-0JyEeH8rVU" data-id="-0JyEeH8rVU" rel="noopener" aria-label="Lire la vidéo YouTube : Bitcoin : des usines de minage géantes au Texas"><img src="https://i.ytimg.com/vi/-0JyEeH8rVU/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Bitcoin : des usines de minage géantes au Texas »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9533,7 +9533,7 @@ tags: technology
 
 <p>Identification d'un nouveau virus de la grippe de type H1N1. Le virus H1N1 est toujours présent et il est inclus dans les vaccins contre la grippe chaque année pour se protéger contre l'infection.</p>
 
-# 2011 ans
+# 2011
 
 <p>Apple détrône le pétrolier Exxon comme première capitalisation mondiale. L'économie des hardwares numériques dépasse en valeur monétaire l'économie issue des combustions fossiles.</p>
 
@@ -9541,14 +9541,14 @@ tags: technology
 
 <p>La centrale nucléaire de Fukushima Daiichi, située sur la côte est du Japon, est gravement endommagée par le tsunami qui a suivi le tremblement de terre. Les systèmes de refroidissement de la centrale sont endommagés, ce qui entraîne une surchauffe des réacteurs et une fuite de radionucléides dans l'environnement. L'accident de Fukushima est l'un des pires dans l'histoire de l'industrie nucléaire, avec la contamination de vastes zones autour de la centrale et l'évacuation de 160 000 personnes de la région. La décontamination et la reconstruction de la région continuent d'être des défis importants pour le Japon.</p>
 
-# 2012 ans
+# 2012
 
 <p style="text-align:center"><img src="{{ '/assets/img/mers.webp' | relative_url }}" alt="Image au microscope électronique de particules de coronavirus : des virions sphériques gris clair, hérissés de spicules, groupés sur un fond granuleux" loading="lazy" decoding="async" width="537" height="537" />
   <br /><small><em>Le coronavirus du MERS au microscope électronique, avec sa couronne de spicules. C'est de cette famille que viendra, sept ans plus tard, le SARS-CoV-2.</em></small></p>
 
 <p>Identification du syndrome respiratoire du Moyen-Orient (MERS) en Arabie saoudite, une maladie causée par un coronavirus appelé MERS-CoV. Le taux de mortalité de ce virus est élevé. Le virus MERS est transmis de personne à personne par voie respiratoire ou par des animaux, notamment les dromadaires. 850 décès sont attribués à ce virus.</p>
 
-# 2013 ans
+# 2013
 
 <p style="text-align:center"><img src="{{ '/assets/img/ranaplaza.webp' | relative_url }}" alt="Photographie de l'effondrement du Rana Plaza : des étages de béton écrasés les uns sur les autres, avec des sauveteurs en combinaison rouge fouillant les décombres" loading="lazy" decoding="async" width="800" height="534" />
   <br /><small><em>Les secours sur les décombres du Rana Plaza, Bangladesh. Plus de mille cent morts dans un immeuble d'ateliers textiles dont les fissures avaient été signalées la veille.</em></small></p>
@@ -9559,7 +9559,7 @@ tags: technology
 
 <p>La veille de l'effondrement, des fissures dans les murs du bâtiment sont découvertes, et un ingénieur recommande son évacuation. Cependant, les propriétaires des usines et le propriétaire du bâtiment ignorent cet avertissement et contraignent les travailleurs à continuer de travailler.</p>
 
-# 2014 ans
+# 2014
 
 <p style="text-align:center"><img src="{{ '/assets/img/parapluies.webp' | relative_url }}" alt="Photographie d'une installation faite de centaines de parapluies colorés suspendus sous une passerelle urbaine" loading="lazy" decoding="async" width="1200" height="900" />
   <br /><small><em>Des parapluies suspendus sous une passerelle pendant le mouvement de 2014 à Hong Kong. L'objet, d'abord utilisé contre les gaz lacrymogènes, est devenu l'emblème du mouvement.</em></small></p>
@@ -9570,7 +9570,7 @@ tags: technology
 
 <p>L'épidémie révèle surtout un défaut d'organisation mondiale : l'alerte est donnée en mars, la réponse internationale arrive en août. Elle laisse une leçon que la décennie suivante mettra à l'épreuve — face à une maladie qui double tous les vingt jours, le délai de réaction compte davantage que les moyens finalement engagés.</p>
 
-# 2015 ans
+# 2015
 
 <p style="text-align:center"><img src="{{ '/assets/img/dieselgate.webp' | relative_url }}" alt="Photographie d'un site Volkswagen : les bâtiments de recherche et développement derrière une clôture, avec le totem au logo de la marque au premier plan sous un ciel gris" loading="lazy" decoding="async" width="1200" height="863" />
   <br /><small><em>L'entrée de la recherche et développement de Volkswagen à Wolfsburg. Le logiciel truqué détectait le banc d'essai et bridait les émissions le temps du test.</em></small></p>
@@ -9579,7 +9579,7 @@ tags: technology
 
 <p>Fondation de OpenAI. C'est une organisation de recherche en intelligence artificielle (IA) qui vise à promouvoir et développer une IA amicale de manière à ce que l'humanité dans son ensemble puisse en bénéficier.</p>
 
-# 2016 ans
+# 2016
 
 <p>Le 23 juin, les Britanniques votent à 51,9 % la sortie de l'Union européenne. Le référendum avait été convoqué par un Premier ministre qui militait pour le maintien et pensait clore ainsi une querelle interne à son propre parti ; il démissionne le lendemain. Le résultat dessine une fracture qui n'est pas celle des partis : Londres et l'Écosse votent pour rester, les anciennes régions industrielles et les petites villes votent pour partir.</p>
 
@@ -9592,7 +9592,7 @@ tags: technology
 
 <p>Les deux scrutins, à cinq mois d'intervalle, ont assez en commun pour qu'on les lise ensemble : un vote majoritaire dans les territoires que la mondialisation a désindustrialisés, une défiance envers les institutions et les médias, et une campagne menée pour la première fois à grande échelle sur les réseaux sociaux, où l'information circule sans passer par les filtres traditionnels. C'est l'année où les instituts de sondage cessent d'être crus sur parole.</p>
 
-# 2018 ans
+# 2018
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=6rCtJugNkfI" data-id="6rCtJugNkfI" rel="noopener" aria-label="Lire la vidéo YouTube : Gilets jaunes : comment un vêtement banal est devenu un puissant symbole"><img src="https://i.ytimg.com/vi/6rCtJugNkfI/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Gilets jaunes : comment un vêtement banal est devenu un puissant symbole »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9600,7 +9600,7 @@ tags: technology
 
 <p>GPT-1 (Generative Pre-trained Transformer 1) est développé par OpenAI. C'est le premier d'une série de modèles de traitement du langage naturel basés sur l'architecture des transformateurs. Il dispose de 117 millions de paramètres. Un paramètre est une composante du modèle qui est apprise à partir des données d'entraînement. Chaque paramètre représente un aspect de la connaissance que le modèle a acquis. Dans les réseaux de neurones, qui sont au cœur des modèles GPT, les paramètres sont typiquement les poids des connexions entre les neurones. Dans un réseau de neurones, chaque connexion entre deux neurones a un poids associé. Ce poids détermine l'importance et l'influence d'une entrée sur un neurone. Lors de l'apprentissage, ces poids sont ajustés pour que le modèle réponde de manière plus précise aux données d'entraînement.</p>
 
-# 2019 ans
+# 2019
 
 <p>Une étude menée sur des réserves naturelles allemandes, publiée deux ans plus tôt, avait établi une baisse de 75 % de la biomasse des insectes volants entre 1989 et 2016. Le constat continue de se confirmer ailleurs en Europe.</p>
 
@@ -9612,7 +9612,7 @@ tags: technology
 
 <p>OpenAI lance GPT-2. GPT-2 dispose de 1,5 milliard de paramètres, ce qui lui permet d'acquérir une meilleure compréhension du langage et de générer des textes plus cohérents et contextuellement pertinents.</p>
 
-# 2020 ans
+# 2020
 
 <p style="text-align:center"><a class="yt-lite" href="https://www.youtube.com/watch?v=LHSSYoavZFg" data-id="LHSSYoavZFg" rel="noopener" aria-label="Lire la vidéo YouTube : Quand on entendait parler du Covid pour la première fois, il y a 2 ans"><img src="https://i.ytimg.com/vi/LHSSYoavZFg/hqdefault.jpg" alt="Miniature de la vidéo YouTube « Quand on entendait parler du Covid pour la première fois, il y a 2 ans »" loading="lazy" decoding="async" width="480" height="360" /><span class="yt-play" aria-hidden="true"></span></a></p>
 
@@ -9624,7 +9624,7 @@ tags: technology
 
 <p>L'Australie est frappée par des feux de forêt dévastateurs qui brûlent pendant des mois et causent la mort de nombreux animaux.</p>
 
-# 2022 ans
+# 2022
 
 <p>La Terre compte approximativement 7,97 milliards d'habitants.</p>
 
@@ -9637,14 +9637,14 @@ tags: technology
 
 <p>Environ 60 % de la population mondiale vit en Asie, notamment en Chine et en Inde — qui représentent à eux seuls 35 % de la population mondiale. De plus, environ 56 % de la population mondiale vit dans des zones urbaines plutôt que rurales.</p>
 
-# 2023 ans
+# 2023
 
 <p style="text-align:center"><img src="{{ '/assets/img/7octobre2023.webp' | relative_url }}" alt="Photographie d'un terrain servant de parking : des dizaines de voitures endommagées et abandonnées, portières ouvertes, effets personnels au sol, sous un panneau d'accueil du festival resté en place" loading="lazy" decoding="async" width="600" height="400" />
   <br /><small><em>Le parking du festival Nova, près de Ré'im, après l'attaque du 7 octobre 2023 : des dizaines de voitures endommagées et abandonnées, portières ouvertes, affaires laissées au sol — et le panneau d'accueil du festival encore debout. C'est ce rassemblement, ainsi que plusieurs kibboutz voisins, qui ont été visés. Photo Kobi Gideon / GPO, CC BY-SA 3.0, via Wikimedia Commons.</em></small></p>
 
 <p>Le 7 octobre, environ 3 000 militants du Hamas franchissent la frontière vers le sud d'Israël. Ils ciblent un festival de musique et plusieurs kibboutz, causant la mort de plus de 1 200 personnes, pour la plupart des civils. Cet événement est décrit comme la plus grande perte de vie juive depuis l'Holocauste.</p>
 
-# 2024 ans
+# 2024
 
 <p style="text-align:center"><img src="{{ '/assets/img/elections2024.webp' | relative_url }}" alt="Photographie d'un geste de vote : une main glisse un bulletin dans la fente d'une urne posée sur une table de bureau de vote" loading="lazy" decoding="async" width="1200" height="675" />
   <br /><small><em>Un bulletin glissé dans une urne. 2024 aura été l'année électorale la plus chargée de l'histoire : près de la moitié de l'humanité appelée aux urnes.</em></small></p>
@@ -9657,7 +9657,7 @@ tags: technology
 
 <p>Et l'intelligence artificielle entre au palmarès Nobel : le prix de physique récompense les travaux fondateurs sur les réseaux de neurones artificiels, celui de chimie la prédiction de la structure des protéines par apprentissage automatique. Une méthode née de l'informatique vient de trancher un problème que la biologie n'arrivait pas à résoudre depuis cinquante ans.</p>
 
-# 2025 ans
+# 2025
 
 <p>L'intelligence artificielle générative cesse d'être une curiosité pour devenir une infrastructure : elle s'installe dans les moteurs de recherche, les suites bureautiques, les outils de programmation. La course se joue désormais autant sur le coût que sur la performance — un modèle chinois publié en janvier, entraîné pour une fraction du budget des laboratoires américains, fait décrocher les marchés en une séance et rappelle qu'une avance technologique n'est pas un fossé.</p>
 
