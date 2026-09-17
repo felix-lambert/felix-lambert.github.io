@@ -5,34 +5,34 @@ en:
   switch_lang_title: Voir cette page en français
   theme: Toggle dark mode
   hero_cta_cv: Download CV (PDF)
-  hero_cta_email: Email me
+  hero_cta_email: Email
   hero_cta_linkedin: LinkedIn
   hero_cta_github: GitHub
-  worked_with: Companies I have shipped for
+  worked_with: Companies I have worked with
   what_i_do: What I do
-  featured: Featured work
+  featured: Selected work
   featured_role: Founder · design, code, launch, support
   featured_since: since
-  toolbox: Toolbox
-  toolbox_intro: The stack I reach for, and the practices that keep releases boring.
+  toolbox: Skills
+  toolbox_intro: The stack I work with day to day.
   copy_email: Copy email
   copied: Copied!
   essays: Essays
   notes: Reading notes & links
   section_num: ''
   ongoing: Ongoing projects
-  ongoing_intro: What I am building and maintaining right now.
+  ongoing_intro: Products I founded or currently maintain, and apps in progress.
   all_projects: All projects
   experience: Experience
-  experience_intro: Ten years of shipping front-end and mobile products in Paris, Québec and Toronto.
+  experience_intro: Ten years of front-end and mobile work in Paris, Québec and Toronto.
   full_cv: See the full CV
-  writing: Latest writing
+  writing: Writing
   writing_intro: Notes on software craft, technology and philosophy, in English and French.
   all_posts: All posts
-  contact: Let's talk
+  contact: Contact
   contact_text: >-
-    Looking for a lead or senior mobile engineer? I answer every message,
-    usually within a day.
+    Looking for a lead or senior mobile engineer? Email is the fastest way
+    to reach me; I reply within a day.
   contact_cta: Send an email
   cv_title: Curriculum vitae
   cv_download: Download PDF
@@ -78,34 +78,34 @@ fr:
   switch_lang_title: View this page in English
   theme: Basculer le mode sombre
   hero_cta_cv: Télécharger le CV (PDF)
-  hero_cta_email: M'écrire
+  hero_cta_email: E-mail
   hero_cta_linkedin: LinkedIn
   hero_cta_github: GitHub
-  worked_with: Ils m'ont fait confiance
+  worked_with: Entreprises avec lesquelles j'ai travaillé
   what_i_do: Ce que je fais
-  featured: Projet phare
+  featured: Travaux sélectionnés
   featured_role: Fondateur · design, code, lancement, support
   featured_since: depuis
-  toolbox: Boîte à outils
-  toolbox_intro: La stack que j'utilise au quotidien, et les pratiques qui rendent les releases sans surprise.
+  toolbox: Compétences
+  toolbox_intro: La stack que j'utilise au quotidien.
   copy_email: Copier l'e-mail
   copied: Copié !
   essays: Essais
   notes: Notes de lecture et liens
   section_num: ''
   ongoing: Projets en cours
-  ongoing_intro: Ce que je construis et maintiens en ce moment.
+  ongoing_intro: Produits que j'ai fondés ou que je maintiens, et applications en cours.
   all_projects: Tous les projets
   experience: Expérience
-  experience_intro: Dix ans de produits front-end et mobiles livrés à Paris, Québec et Toronto.
+  experience_intro: Dix ans de front-end et de mobile à Paris, Québec et Toronto.
   full_cv: Voir le CV complet
-  writing: Derniers billets
+  writing: Écrits
   writing_intro: Notes sur l'artisanat logiciel, la technologie et la philosophie, en anglais et en français.
   all_posts: Tous les billets
-  contact: Discutons
+  contact: Contact
   contact_text: >-
-    Vous cherchez un lead ou un senior mobile ? Je réponds à chaque message,
-    en général sous 24 heures.
+    Vous cherchez un lead ou un senior mobile ? L'e-mail est le moyen le
+    plus rapide de me joindre ; je réponds sous 24 heures.
   contact_cta: Envoyer un e-mail
   cv_title: Curriculum vitae
   cv_download: Télécharger le PDF

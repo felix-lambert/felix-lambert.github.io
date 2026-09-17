@@ -54,7 +54,7 @@ body_class: cv-page
     <h2>{{ t.experience }}</h2>
     <ol class="timeline">
       {%- for job in site.data.experience %}
-      {% include experience-item.html job=job lang=lang index=forloop.index %}
+      {% include experience-item.html job=job lang=lang %}
       {%- endfor %}
     </ol>
   </section>

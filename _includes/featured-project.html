@@ -2,30 +2,28 @@
 {%- assign t = site.data.i18n[include.lang] -%}
 {%- assign pr = include.project -%}
 {%- assign c = pr[include.lang] -%}
-<article class="featured card" id="{{ pr.id }}">
-  <div class="featured-main">
-    <div class="card-top">
-      <span class="status status-{{ pr.status }}"><span class="status-dot" aria-hidden="true"></span>{{ t.status[pr.status] }}</span>
+<article class="project project-featured" id="{{ pr.id }}">
+  <div class="project-featured-main">
+    <div class="project-meta">
+      <span class="status status-{{ pr.status }}">{{ t.status[pr.status] }}</span>
       <span class="muted small">{{ t.featured_role }} · {{ t.featured_since }} 2019</span>
     </div>
-    <h3 class="featured-title">{{ pr.name }}</h3>
-    <p class="featured-tagline">{{ c.tagline }}</p>
-    <p class="featured-text">{{ c.text }}</p>
+    <h3 class="project-title project-title-lg">{{ pr.name }}</h3>
+    <p class="project-tagline">{{ c.tagline }}</p>
+    <p class="project-text">{{ c.text }}</p>
     {%- if c.highlights %}
-    <ul class="card-highlights">
+    <ul class="project-highlights">
       {%- for h in c.highlights %}<li>{{ h }}</li>{% endfor -%}
     </ul>
     {%- endif %}
-    <ul class="chips" aria-label="Stack">
-      {%- for tag in pr.tags %}<li class="chip">{{ tag }}</li>{% endfor -%}
-    </ul>
-    <p class="card-links">
-      {%- for l in pr.links %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}<span aria-hidden="true"> ↗</span></a>{% endfor -%}
+    <p class="project-stack"><span class="muted">Stack:</span> {{ pr.tags | join: ', ' }}</p>
+    <p class="project-links">
+      {%- for l in pr.links %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}</a>{% endfor -%}
     </p>
   </div>
-  <ul class="featured-metrics" aria-label="Key numbers">
+  <dl class="metrics" aria-label="Key numbers">
     {%- for m in pr.metrics %}
-    <li><span class="metric-value">{{ m.value }}</span><span class="metric-label">{{ m[include.lang] }}</span></li>
+    <div class="metric"><dt>{{ m[include.lang] }}</dt><dd>{{ m.value }}</dd></div>
     {%- endfor %}
-  </ul>
+  </dl>
 </article>

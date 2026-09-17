@@ -30,7 +30,7 @@
     }
   } catch (e) {}
 
-  // --- Header shadow once the page is scrolled. ---
+  // --- Header border once the page is scrolled. ---
   var header = document.querySelector(".site-header");
   if (header) {
     var onScroll = function () {
@@ -56,36 +56,5 @@
     });
   } else if (copy) {
     copy.hidden = true;
-  }
-
-  // --- Reveal sections as they enter the viewport (respects reduced motion). ---
-  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var targets = document.querySelectorAll(".reveal");
-  if (reduce || !("IntersectionObserver" in window)) {
-    targets.forEach(function (el) {
-      el.classList.add("is-visible");
-    });
-  } else {
-    var io = new IntersectionObserver(
-      function (entries) {
-        entries.forEach(function (entry) {
-          if (entry.isIntersecting) {
-            entry.target.classList.add("is-visible");
-            io.unobserve(entry.target);
-          }
-        });
-      },
-      { rootMargin: "0px 0px -8% 0px", threshold: 0.05 }
-    );
-    targets.forEach(function (el) {
-      io.observe(el);
-    });
-    // Safety net: never leave content hidden if the observer does not fire
-    // (print, odd embeds, very old engines).
-    setTimeout(function () {
-      targets.forEach(function (el) {
-        el.classList.add("is-visible");
-      });
-    }, 2500);
   }
 })();

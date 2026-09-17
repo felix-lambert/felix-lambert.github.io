@@ -16,11 +16,8 @@ title:
   fr: Lead Mobile Engineer
 stack: React Native · Kotlin · React
 headline:
-  en: I build mobile products people rely on,
-  fr: Je construis des produits mobiles fiables,
-headline_accent:
-  en: and lead the teams that ship them.
-  fr: et je pilote les équipes qui les livrent.
+  en: Lead Mobile Engineer building and leading React Native and Kotlin products.
+  fr: Lead Mobile Engineer, je construis et pilote des produits React Native et Kotlin.
 # Text "logos" shown under the hero (no image assets needed).
 companies:
   - name: Chexy
