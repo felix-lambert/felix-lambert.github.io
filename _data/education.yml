@@ -1,0 +1,14 @@
+- school:
+    en: Epitech
+    fr: Epitech
+  location: Paris
+  year: 2015
+  en: Master's degree in Computer Science
+  fr: Master en informatique
+- school:
+    en: Paris-Sorbonne University (Paris IV)
+    fr: Université Paris-Sorbonne (Paris IV)
+  location: Paris
+  year: 2008
+  en: Master's degree in Philosophy of Science
+  fr: Master en philosophie des sciences

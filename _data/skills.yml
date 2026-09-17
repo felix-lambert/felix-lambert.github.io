@@ -1,0 +1,20 @@
+- en: Mobile
+  fr: Mobile
+  items:
+    en: [React Native, Expo, TypeScript, Kotlin, Android SDK, Swift (basics), Native modules & bridges, App Store & Google Play releases, Flipper]
+    fr: [React Native, Expo, TypeScript, Kotlin, Android SDK, Swift (bases), Modules natifs et bridges, Publication App Store et Google Play, Flipper]
+- en: Web
+  fr: Web
+  items:
+    en: [React, Redux, JavaScript (ES6+), GraphQL, HTML, CSS & Flexbox, Tailwind CSS]
+    fr: [React, Redux, JavaScript (ES6+), GraphQL, HTML, CSS et Flexbox, Tailwind CSS]
+- en: Back end & cloud
+  fr: Back-end et cloud
+  items:
+    en: [Node.js, Firebase (Cloud Functions, Firestore), REST & GraphQL APIs, MQTT, Redis, Linux]
+    fr: [Node.js, Firebase (Cloud Functions, Firestore), APIs REST et GraphQL, MQTT, Redis, Linux]
+- en: Delivery & leadership
+  fr: Livraison et leadership
+  items:
+    en: [CI/CD (GitHub Actions, Microsoft App Center), Git, Code review, Mentoring, Technical design, AI-assisted development]
+    fr: [CI/CD (GitHub Actions, Microsoft App Center), Git, Relecture de code, Mentorat, Conception technique, Développement assisté par IA]

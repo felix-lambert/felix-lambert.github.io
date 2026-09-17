@@ -1,39 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body>
-    <div id="indicator"></div>
-    <div id="page">
-      <style>
-        .title {
-          color: #0ac4ba;
-          font-size: 18px;
-          font-weight: bold;
-          text-align: center;
-          /* background: #0ac4ba; */
-          display: grid;
-        }
-        .meta {
-          font-size: 0.7rem;
-          font-weight: normal;
-          text-transform: uppercase;
-        }
-      </style>
-      <!-- header -->
-      {% include header.html %}
-      <!-- nav -->
-      
-      {% include nav.html %}
-
-      
-      <!-- page content -->
-      <main class="content">
-        <p class="title">{{page.title}}</p>
-        {{content}}
-      </main>
-
-      <!-- footer -->
-      {% include footer.html %}
+---
+layout: default
+---
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign p = site.data.profile -%}
+{%- assign lang = page.lang -%}
+{%- assign blog_url = '/blog/' -%}{%- if lang == 'fr' -%}{%- assign blog_url = '/fr/blog/' -%}{%- endif -%}
+{%- assign words = content | number_of_words -%}
+{%- assign minutes = words | divided_by: 200 | at_least: 1 -%}
+{%- assign lang_name = t.lang_en -%}{%- if lang == 'fr' -%}{%- assign lang_name = t.lang_fr -%}{%- endif -%}
+<article class="wrap narrow post">
+  <header class="page-header post-header">
+    <p class="eyebrow"><a href="{{ blog_url | relative_url }}">← {{ t.back_blog }}</a></p>
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{% include post-date.html date=page.date lang=lang %}</time>
+      · {{ minutes }} {{ t.read_min }}
+      · {{ t.posted_in }} {{ lang_name }}
+      {%- if page.tags.size > 0 %} · {% for tag in page.tags %}<span class="tag">#{{ tag }}</span> {% endfor %}{% endif %}
+    </p>
+  </header>
+  <div class="prose">
+    {{ content }}
+  </div>
+  <footer class="post-footer">
+    <div class="card author-card">
+      <img src="{{ p.photo | relative_url }}" alt="" width="56" height="56" class="author-avatar">
+      <div>
+        <strong>{{ p.name }}</strong> · {{ p.title[lang] }}<br>
+        <span class="muted">{{ p.tagline[lang] | truncate: 120 }}</span><br>
+        <a href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a> · <a href="mailto:{{ p.email }}">{{ t.hero_cta_email }}</a>
+      </div>
     </div>
-  </body>
-</html>
+    <p><a href="{{ blog_url | relative_url }}">← {{ t.back_blog }}</a></p>
+  </footer>
+</article>

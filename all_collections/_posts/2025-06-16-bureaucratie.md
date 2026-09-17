@@ -2,6 +2,7 @@
 layout: post
 title: Bureaucratie
 date: 2025-06-16 10:18:00
+lang: fr
 tags: philosophy
 ---
 

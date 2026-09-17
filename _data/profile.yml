@@ -1,0 +1,97 @@
+# Single source of truth for the person: used by the home page, the CV page,
+# the PDF export and the SEO tags.
+name: Felix Lambert
+first_name: Felix
+email: lambertfelix8@gmail.com
+phone: "+1 437 383 8295"     # only rendered in the PDF export (site.pdf), never on web pages
+location:
+  en: Toronto, Ontario, Canada
+  fr: Toronto (Ontario), Canada
+photo: /assets/img/avatar.jpg
+photo_alt:
+  en: Portrait of Felix Lambert
+  fr: Portrait de Felix Lambert
+title:
+  en: Lead Mobile Engineer
+  fr: Lead Mobile Engineer
+stack: React Native · Kotlin · React
+tagline:
+  en: >-
+    I build and lead mobile products, from the first commit to the app-store
+    launch. Ten-plus years in front-end and mobile engineering, most of them
+    in React Native and Kotlin, with a founder's eye for what users actually
+    need.
+  fr: >-
+    Je construis et je pilote des produits mobiles, du premier commit à la
+    mise en ligne sur les stores. Plus de dix ans en développement front-end
+    et mobile, surtout en React Native et Kotlin, avec le regard d'un
+    fondateur sur ce dont les utilisateurs ont vraiment besoin.
+availability:
+  status: open            # open | listening | closed
+  en: Open to new opportunities · Toronto or remote
+  fr: Disponible pour de nouvelles opportunités · Toronto ou à distance
+summary:
+  en: >-
+    Lead Mobile Engineer with 10+ years in front-end and mobile development.
+    I have shipped and led React Native and Kotlin products for fintech,
+    HR tech, cloud gaming and my own app with 40k+ downloads, and I am as
+    comfortable mentoring a team as I am in the code. Bilingual
+    English/French, based in Toronto, open to lead or senior mobile roles,
+    on-site or remote.
+  fr: >-
+    Lead Mobile Engineer avec plus de 10 ans d'expérience en développement
+    front-end et mobile. J'ai livré et piloté des produits React Native et
+    Kotlin pour la fintech, les RH, le cloud gaming et ma propre application
+    à plus de 40 000 téléchargements, aussi à l'aise pour accompagner une
+    équipe que dans le code. Bilingue anglais/français, basé à Toronto,
+    ouvert aux postes de lead ou senior mobile, sur site ou à distance.
+links:
+  linkedin: https://www.linkedin.com/in/felix-lambert-6870b720a/
+  github: https://github.com/felix-lambert
+  malt: https://www.malt.fr/profile/felixlambert1
+cv_pdf:
+  en: /download/Felix-Lambert-CV-EN.pdf
+  fr: /download/Felix-Lambert-CV-FR.pdf
+stats:
+  - value: "10+"
+    en: years in front-end & mobile
+    fr: ans en front-end et mobile
+  - value: "40k+"
+    en: downloads of my own app
+    fr: téléchargements de mon app
+  - value: "5"
+    en: engineers led at Chexy
+    fr: développeurs encadrés chez Chexy
+  - value: EN · FR
+    en: bilingual, spoken and written
+    fr: bilingue, à l'oral et à l'écrit
+pillars:
+  - icon: "📱"
+    en:
+      title: Mobile product engineering
+      text: React Native and Kotlin apps shipped to both stores, from architecture and native modules to release pipelines.
+    fr:
+      title: Ingénierie produit mobile
+      text: Applications React Native et Kotlin publiées sur les deux stores, de l'architecture et des modules natifs aux pipelines de release.
+  - icon: "🧭"
+    en:
+      title: Technical leadership
+      text: Leading small teams, mentoring engineers, reviewing code and turning fuzzy requirements into clear technical designs.
+    fr:
+      title: Leadership technique
+      text: Piloter de petites équipes, accompagner les développeurs, relire le code et transformer des besoins flous en designs techniques clairs.
+  - icon: "☁️"
+    en:
+      title: Web & cloud foundations
+      text: React and TypeScript front ends, Node.js and Firebase back ends, CI/CD that keeps releases boring.
+    fr:
+      title: Web et cloud
+      text: Front-ends React et TypeScript, back-ends Node.js et Firebase, CI/CD pour des releases sans surprise.
+languages:
+  - en: French · native
+    fr: Français · langue maternelle
+  - en: English · fluent, bilingual
+    fr: Anglais · courant, bilingue
+
+# Date shown at the bottom of the CV page and in the PDF (YYYY-MM-DD)
+cv_updated: 2026-09-17

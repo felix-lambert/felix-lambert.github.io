@@ -1,13 +1,19 @@
-<footer>
-  <p>
-    {{site.data.extra.list.footer_bio}}
-  </p>
-  <p>
-    &copy 2020 | {{site.title}}
-  </p>
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign p = site.data.profile -%}
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div class="footer-id">
+      <strong>{{ p.name }}</strong> · {{ p.title[page.lang] }}<br>
+      <span class="muted">{{ p.location[page.lang] }}</span>
+    </div>
+    <ul class="footer-links">
+      <li><a href="mailto:{{ p.email }}">{{ p.email }}</a></li>
+      <li><a href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a></li>
+      <li><a href="{{ p.links.github }}" rel="me noopener">GitHub</a></li>
+      <li><a href="{{ p.links.malt }}" rel="me noopener">Malt</a></li>
+      <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
+    </ul>
+    <p class="footer-legal muted">&copy; {{ site.time | date: '%Y' }} {{ p.name }} · {{ t.footer_built }} <a href="https://github.com/felix-lambert/felix-lambert.github.io">{{ t.footer_source }}</a>.</p>
+  </div>
 </footer>
-<!-- <script
-  src="{{site.baseurl}}/assets/js/site.js"
-  id="pill_site_script"
-  type="module"
-></script> -->
+<script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>

@@ -1,0 +1,11 @@
+{%- comment -%} Usage: {% include date-range.html start="2025-06" end="2026-07" lang=page.lang %} {%- endcomment -%}
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign s = include.start | split: '-' -%}
+{%- assign sm = s[1] | plus: 0 | minus: 1 -%}
+{{- t.months_short[sm] }} {{ s[0] }} – {% if include.end -%}
+{%- assign e = include.end | split: '-' -%}
+{%- assign em = e[1] | plus: 0 | minus: 1 -%}
+{{- t.months_short[em] }} {{ e[0] -}}
+{%- else -%}
+{{- t.present -}}
+{%- endif -%}

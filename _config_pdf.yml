@@ -1,0 +1,2 @@
+# Overrides used only when printing the CV pages to PDF (tools/build-cv-pdf.sh).
+pdf: true

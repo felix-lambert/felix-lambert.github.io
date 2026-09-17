@@ -1,0 +1,160 @@
+# Work history, newest first. `en` / `fr` blocks hold the translated copy.
+# `start` / `end` are YYYY-MM; omit `end` for a current position.
+- company: Chexy
+  url: https://chexy.co
+  location: Toronto
+  start: 2025-06
+  end: 2026-07
+  tags: [React Native, TypeScript, Fintech, Leadership]
+  en:
+    role: Lead Mobile Engineer
+    company_note: Toronto fintech that lets renters pay rent by card and build credit
+    bullets:
+      - Led a team of five mobile developers, splitting my time 60/40 between technical leadership and hands-on development.
+      - Mentored engineers, ran code reviews and coordinated cross-team work with product, backend and design.
+      - Translated complex fintech requirements into clear technical designs and delivery plans.
+  fr:
+    role: Lead Mobile Engineer
+    company_note: Fintech torontoise qui permet aux locataires de payer leur loyer par carte et de bâtir leur crédit
+    bullets:
+      - Encadrement d'une équipe de cinq développeurs mobiles, avec une répartition 60/40 entre leadership technique et développement.
+      - Mentorat des développeurs, relectures de code et coordination inter-équipes avec le produit, le backend et le design.
+      - Traduction d'exigences fintech complexes en designs techniques et plans de livraison clairs.
+
+- company: Folks HR
+  url: https://www.folkshr.com
+  location: Québec · remote
+  start: 2024-06
+  end: 2025-05
+  tags: [React Native, TypeScript, HR tech]
+  en:
+    role: React Native Engineer
+    company_note: Human Resource Information System (HRIS) for Canadian SMBs
+    bullets:
+      - Developed the mobile application of a modern HRIS, focused on a seamless experience for HR professionals and employees alike.
+      - Delivered features end to end in React Native and TypeScript, working closely with the product and backend teams.
+  fr:
+    role: Développeur React Native
+    company_note: Système d'information RH (SIRH) pour les PME canadiennes
+    bullets:
+      - Développement de l'application mobile d'un SIRH moderne, centrée sur une expérience fluide pour les professionnels RH comme pour les employés.
+      - Livraison de fonctionnalités de bout en bout en React Native et TypeScript, en lien étroit avec les équipes produit et backend.
+
+- company: EmptyMyFridge
+  url: https://www.emptymyfridge.com
+  location: Toronto · Paris
+  start: 2019-11
+  end: 2024-06
+  tags: [React Native, TypeScript, Firebase, Node.js, Founder]
+  en:
+    role: Founder & Lead Mobile Engineer
+    company_note: AI-driven anti-food-waste app, still live and maintained today
+    bullets:
+      - Conceived, built and shipped the app from scratch on iOS, Android and web; enter the ingredients you have, get recipes.
+      - Grew it to 40k+ downloads and about 150 daily users, rated 4.5★ on the App Store and 4★ on Google Play.
+      - React Native and TypeScript front end, Firebase Cloud Functions (Node.js) back end, migrated to the React Native New Architecture.
+  fr:
+    role: Fondateur & Lead Mobile Engineer
+    company_note: Application anti-gaspillage alimentaire propulsée par l'IA, toujours en ligne et maintenue
+    bullets:
+      - Conception, développement et publication de l'application de zéro sur iOS, Android et web ; on saisit ses ingrédients, on obtient des recettes.
+      - Plus de 40 000 téléchargements et environ 150 utilisateurs quotidiens, notée 4,5★ sur l'App Store et 4★ sur Google Play.
+      - Front-end React Native et TypeScript, back-end Firebase Cloud Functions (Node.js), migration vers la nouvelle architecture React Native.
+
+- company: OnTrain Corp.
+  location: Paris · remote
+  start: 2023-02
+  end: 2023-06
+  tags: [React Native, Kotlin, Java, Training]
+  en:
+    role: Mobile Engineering Trainer
+    bullets:
+      - Trained junior developers in React Native, Java and Kotlin, covering native bridges, debugging with Flipper and day-to-day project workflow.
+  fr:
+    role: Formateur en développement mobile
+    bullets:
+      - "Formation de développeurs juniors en React Native, Java et Kotlin : ponts natifs, débogage avec Flipper et organisation du travail au quotidien."
+
+- company: Freelance via Malt
+  url: https://www.malt.fr/profile/felixlambert1
+  location: Paris
+  start: 2017-09
+  end: 2023-03
+  tags: [React Native, React, GraphQL, CI/CD]
+  en:
+    role: Lead Mobile & Front-end Engineer
+    company_note: "\"Supermalter 3\", the highest status on Europe's leading freelance platform, for consistently top-rated missions"
+    missions:
+      - name: Epsor
+        period: Feb 2022 – Mar 2023
+        text: Led React Native development of an employee-savings and retirement app on a GraphQL API; built the mobile CI/CD with GitHub Actions and Microsoft App Center.
+      - name: Blade / Shadow
+        period: Sep 2018 – Nov 2019
+        text: React front end for a high-performance cloud-gaming service; owned daily operations of the launcher app used by about 100,000 people and set up its CI/CD pipelines.
+      - name: Recast.AI (now SAP Conversational AI)
+        period: Sep 2017 – Sep 2018
+        text: React and Redux front end for a chatbot-building platform, through the company's acquisition by SAP.
+  fr:
+    role: Lead Mobile & Front-end Engineer
+    company_note: "Statut « Supermalter 3 », le plus élevé de la première plateforme freelance d'Europe, pour des missions constamment très bien notées"
+    missions:
+      - name: Epsor
+        period: févr. 2022 – mars 2023
+        text: Pilotage du développement React Native d'une app d'épargne salariale et retraite sur API GraphQL ; mise en place du CI/CD mobile avec GitHub Actions et Microsoft App Center.
+      - name: Blade / Shadow
+        period: sept. 2018 – nov. 2019
+        text: Front-end React d'un service de cloud gaming haute performance ; responsable au quotidien du launcher utilisé par environ 100 000 personnes et de ses pipelines CI/CD.
+      - name: Recast.AI (devenu SAP Conversational AI)
+        period: sept. 2017 – sept. 2018
+        text: Front-end React et Redux d'une plateforme de création de chatbots, pendant le rachat de l'entreprise par SAP.
+
+- company: DisMoi
+  url: https://github.com/dis-moi/mobile
+  location: Paris
+  start: 2020-02
+  end: 2021-03
+  tags: [Kotlin, Android SDK, React Native, Open source]
+  en:
+    role: Kotlin & React Native Engineer
+    company_note: Browser extension and mobile app that surfaces fact-checking while you browse
+    bullets:
+      - Built an Android accessibility service in Kotlin, including the on-screen info-bubble feature; the code is open source.
+      - Hands-on with the Android SDK, Android Studio, Gradle, Java and Kotlin.
+  fr:
+    role: Développeur Kotlin & React Native
+    company_note: Extension de navigateur et app mobile qui affichent du fact-checking pendant la navigation
+    bullets:
+      - Développement d'un service d'accessibilité Android en Kotlin, dont la bulle d'information à l'écran ; le code est open source.
+      - Pratique de l'Android SDK, d'Android Studio, de Gradle, de Java et de Kotlin.
+
+- company: Vizeat
+  location: Paris
+  start: 2017-04
+  end: 2017-10
+  tags: [React, Redux, CSS]
+  en:
+    role: Front-end Developer
+    company_note: Social-dining marketplace
+    bullets:
+      - Front-end development with React, Redux, HTML and CSS (flexbox).
+  fr:
+    role: Développeur front-end
+    company_note: Place de marché de repas chez l'habitant
+    bullets:
+      - Développement front-end avec React, Redux, HTML et CSS (flexbox).
+
+- company: CityTaps
+  location: Paris
+  start: 2016-09
+  end: 2017-03
+  tags: [IoT, MQTT, JavaScript]
+  en:
+    role: Front-end Developer
+    company_note: Prepaid smart water meters bringing running water to urban homes in emerging countries
+    bullets:
+      - Developed the cloud service for IoT-connected water meters, with MQTT for real-time data transmission and front-end display.
+  fr:
+    role: Développeur front-end
+    company_note: Compteurs d'eau intelligents prépayés qui amènent l'eau courante dans les foyers urbains des pays émergents
+    bullets:
+      - Développement du service cloud des compteurs d'eau connectés, avec MQTT pour la transmission des données en temps réel et leur affichage.

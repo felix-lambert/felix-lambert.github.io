@@ -1,0 +1,15 @@
+{%- comment -%} Usage: {% include post-item.html post=post lang=page.lang %} {%- endcomment -%}
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign post = include.post -%}
+{%- assign words = post.content | number_of_words -%}
+{%- assign minutes = words | divided_by: 200 | at_least: 1 -%}
+<li class="post-item">
+  <time class="post-item-date" datetime="{{ post.date | date_to_xmlschema }}">{% include post-date.html date=post.date lang=include.lang %}</time>
+  <div class="post-item-body">
+    <a class="post-item-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="post-item-meta">
+      <span class="lang-chip" lang="{{ post.lang }}">{{ post.lang | upcase }}</span>
+      {{ minutes }} {{ t.read_min }}
+    </span>
+  </div>
+</li>

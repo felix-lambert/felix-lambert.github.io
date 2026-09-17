@@ -1,0 +1,82 @@
+---
+layout: default
+body_class: cv-page
+---
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign p = site.data.profile -%}
+{%- assign lang = page.lang -%}
+{%- assign um = p.cv_updated | date: '%-m' | plus: 0 | minus: 1 -%}
+<article class="wrap cv">
+  <div class="cv-actions no-print">
+    <a class="btn btn-primary" href="{{ p.cv_pdf[lang] | relative_url }}" download>{{ t.cv_download }}</a>
+    <button class="btn" type="button" onclick="window.print()">{{ t.cv_print }}</button>
+    {%- if lang == 'en' %}
+    <a class="btn btn-ghost" href="{{ p.cv_pdf.fr | relative_url }}" download hreflang="fr">Version française (PDF)</a>
+    {%- else %}
+    <a class="btn btn-ghost" href="{{ p.cv_pdf.en | relative_url }}" download hreflang="en">English version (PDF)</a>
+    {%- endif %}
+  </div>
+
+  <header class="cv-header">
+    <div class="cv-id">
+      <h1 class="cv-name">{{ p.name }}</h1>
+      <p class="cv-role">{{ p.title[lang] }} · {{ p.stack }}</p>
+      <ul class="cv-contact">
+        <li>{{ p.location[lang] }}</li>
+        <li><a href="mailto:{{ p.email }}">{{ p.email }}</a></li>
+        {%- if site.pdf %}<li>{{ p.phone }}</li>{% endif %}
+        <li><a href="{{ p.links.linkedin }}">linkedin.com/in/felix-lambert-6870b720a</a></li>
+        <li><a href="{{ p.links.github }}">github.com/felix-lambert</a></li>
+        {%- if site.pdf %}<li><a href="{{ site.url }}">felix-lambert.github.io</a></li>{% endif %}
+      </ul>
+    </div>
+    <img class="cv-avatar" src="{{ p.photo | relative_url }}" alt="" width="96" height="96">
+  </header>
+
+  <section class="cv-section">
+    <h2>{{ t.cv_summary }}</h2>
+    <p class="cv-summary">{{ p.summary[lang] }}</p>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ t.cv_skills }}</h2>
+    <dl class="cv-skills">
+      {%- for group in site.data.skills %}
+      <div class="cv-skill-row">
+        <dt>{{ group[lang] }}</dt>
+        <dd>{{ group.items[lang] | join: ' · ' }}</dd>
+      </div>
+      {%- endfor %}
+    </dl>
+  </section>
+
+  <section class="cv-section">
+    <h2>{{ t.experience }}</h2>
+    <ol class="timeline">
+      {%- for job in site.data.experience %}
+      {% include experience-item.html job=job lang=lang %}
+      {%- endfor %}
+    </ol>
+  </section>
+
+  <div class="cv-two-col">
+    <section class="cv-section">
+      <h2>{{ t.cv_education }}</h2>
+      <ul class="cv-list">
+        {%- for e in site.data.education %}
+        <li><strong>{{ e[lang] }}</strong><br><span class="muted">{{ e.school[lang] }}, {{ e.location }} · {{ e.year }}</span></li>
+        {%- endfor %}
+      </ul>
+    </section>
+    <section class="cv-section">
+      <h2>{{ t.cv_languages }}</h2>
+      <ul class="cv-list">
+        {%- for l in p.languages %}
+        <li>{{ l[lang] }}</li>
+        {%- endfor %}
+      </ul>
+    </section>
+  </div>
+
+  <p class="cv-updated muted small">{{ t.cv_updated }} {% if lang == 'fr' %}{{ p.cv_updated | date: '%-d' }} {{ t.months[um] }} {{ p.cv_updated | date: '%Y' }}{% else %}{{ t.months[um] }} {{ p.cv_updated | date: '%-d, %Y' }}{% endif %} · <a href="{{ site.url }}{{ page.url }}">{{ site.url | remove: 'https://' }}{{ page.url }}</a></p>
+</article>
