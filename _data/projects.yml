@@ -47,6 +47,68 @@
       - Responsabilité produit complète, de l'idée et du design aux releases sur les stores et au support
       - Nouvelle architecture React Native, back-end Firebase Cloud Functions
 
+- id: sport-challenge
+  name: Sport Challenge
+  status: wip
+  ongoing: true
+  period: 2026 – present
+  tags: [Expo SDK 57, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, EAS]
+  links: []
+  en:
+    tagline: Thirty body-weight exercises, played as a ladder of levels
+    text: >-
+      A home-workout app built like a game: pass the current level to unlock
+      the next, then read the sourced health benefit of what you just did.
+      Skip three days and the last level locks again. Everything stays on
+      the phone: no account, no server. In progress, currently in preview
+      on Android.
+    highlights:
+      - Native look on both platforms through @expo/ui (SwiftUI on iOS, Jetpack Compose on Android), Reanimated 4 animations, expo-sqlite storage
+      - Tests, type-check and lint on every pull request; EAS release workflow with over-the-air updates on every push to main
+  fr:
+    tagline: Trente exercices au poids du corps, joués comme une échelle de niveaux
+    text: >-
+      Une app de sport à la maison construite comme un jeu : on réussit le
+      niveau en cours pour débloquer le suivant, puis on lit le bénéfice santé
+      sourcé de ce qu'on vient de faire. Trois jours sans séance et le dernier
+      niveau se referme. Tout reste sur le téléphone : pas de compte, pas de
+      serveur. En cours, actuellement en preview sur Android.
+    highlights:
+      - Rendu natif sur les deux plateformes via @expo/ui (SwiftUI sur iOS, Jetpack Compose sur Android), animations Reanimated 4, stockage expo-sqlite
+      - Tests, typage et lint sur chaque pull request ; workflow de release EAS avec mises à jour OTA à chaque push sur main
+
+- id: korean-challenge
+  name: Korean Challenge
+  status: wip
+  ongoing: true
+  period: 2026 – present
+  tags: [Expo SDK 57, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, expo-speech, EAS]
+  links: []
+  en:
+    tagline: Learn Korean as a map of worlds to unlock
+    text: >-
+      The Sport Challenge concept applied to language learning: a ladder of
+      Korean levels drawn as a map of worlds, each one a timed round of nine
+      kinds of question (recognise, produce, listen, build, sprint, no
+      mistakes) drawn from short lessons. Three days away and the last level
+      locks again. French or English interface, Korean either way, all
+      on-device.
+    highlights:
+      - Curriculum, pedagogy and ladder rules as pure TypeScript modules with tests; generated speech assets for the coach
+      - Same native stack and release pipeline as Sport Challenge, plus headless-browser probes to review many screens at once
+  fr:
+    tagline: Apprendre le coréen comme une carte de mondes à débloquer
+    text: >-
+      Le concept de Sport Challenge appliqué à l'apprentissage d'une langue :
+      une échelle de niveaux de coréen dessinée comme une carte de mondes,
+      chaque niveau étant une manche chronométrée de neuf types de questions
+      (reconnaître, produire, écouter, construire, sprint, sans faute) tirées
+      de courtes leçons. Trois jours d'absence et le dernier niveau se
+      referme. Interface en français ou en anglais, tout sur l'appareil.
+    highlights:
+      - Programme, pédagogie et règles de progression en modules TypeScript purs et testés ; voix du coach générée à partir du programme
+      - Même stack native et même pipeline de release que Sport Challenge, plus des sondes navigateur headless pour relire de nombreux écrans d'un coup
+
 - id: histoire-du-monde
   name: Histoire du monde
   status: wip
@@ -77,35 +139,6 @@
     highlights:
       - 715 entrées datées, 14 chapitres, des centaines d'illustrations légendées
       - Scripts maison d'optimisation et d'envoi des médias
-
-- id: this-site
-  name: felix-lambert.github.io
-  status: open_source
-  ongoing: true
-  period: 2020 – present
-  tags: [Jekyll, GitHub Pages, HTML, CSS, Accessibility]
-  links:
-    - label: Source on GitHub
-      url: https://github.com/felix-lambert/felix-lambert.github.io
-  en:
-    tagline: This bilingual portfolio and blog
-    text: >-
-      A static site with no framework and no build step beyond Jekyll:
-      hand-written CSS, dark mode, English and French versions of every
-      page, and a CV page that doubles as the source of the downloadable PDF.
-    highlights:
-      - One data file drives the home page, the CV page and the PDF
-      - Lighthouse-friendly, keyboard-accessible, works without JavaScript
-  fr:
-    tagline: Ce portfolio et blog bilingue
-    text: >-
-      Un site statique sans framework ni étape de build au-delà de Jekyll :
-      CSS écrit à la main, mode sombre, versions anglaise et française de
-      chaque page, et une page CV qui sert aussi de source au PDF
-      téléchargeable.
-    highlights:
-      - Un seul fichier de données alimente l'accueil, la page CV et le PDF
-      - Léger, navigable au clavier, fonctionne sans JavaScript
 
 - id: dismoi
   name: DisMoi · mobile
