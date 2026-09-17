@@ -1,0 +1,157 @@
+# Projects shown on the home page (ongoing only) and on /projects/.
+# status: live | ongoing | wip | open_source | archived
+- id: emptymyfridge
+  name: EmptyMyFridge
+  status: live
+  ongoing: true
+  period: 2019 – present
+  tags: [React Native, TypeScript, Firebase, Node.js, iOS, Android, Web]
+  links:
+    - label: Website
+      url: https://www.emptymyfridge.com/
+    - label: App Store
+      url: https://apps.apple.com/fr/app/emptymyfridge-recipe-by-food/id1550812530
+    - label: Google Play
+      url: https://play.google.com/store/apps/details?id=com.emptymyfridge
+  en:
+    tagline: AI-driven anti-food-waste app
+    text: >-
+      Type in the ingredients you already have at home and get recipes that
+      use them. I founded it, built it from scratch and still maintain it:
+      40k+ downloads, about 150 daily users, 4.5★ on iOS and 4★ on Android.
+    highlights:
+      - Full product ownership, from idea and design to store releases and support
+      - React Native New Architecture, Firebase Cloud Functions back end
+  fr:
+    tagline: Application anti-gaspillage alimentaire propulsée par l'IA
+    text: >-
+      On saisit les ingrédients déjà à la maison et on obtient des recettes
+      qui les utilisent. Je l'ai fondée, développée de zéro et je la
+      maintiens toujours : plus de 40 000 téléchargements, environ 150
+      utilisateurs par jour, 4,5★ sur iOS et 4★ sur Android.
+    highlights:
+      - Responsabilité produit complète, de l'idée et du design aux releases sur les stores et au support
+      - Nouvelle architecture React Native, back-end Firebase Cloud Functions
+
+- id: histoire-du-monde
+  name: Histoire du monde
+  status: wip
+  ongoing: true
+  period: 2025 – present
+  tags: [Writing, Data curation, Static site, WebP pipeline, Cloudflare R2]
+  links: []
+  en:
+    tagline: A 715-entry timeline from the Big Bang to today
+    text: >-
+      A long-form personal research project: a chronology in 14 chapters,
+      from cosmology to the present day, each entry sourced and illustrated.
+      I built the tooling around it too: image conversion to WebP, media
+      hosting on Cloudflare R2 and video generation. Not published yet; it is
+      being reworked before going back online.
+    highlights:
+      - 715 dated entries, 14 chapters, hundreds of captioned illustrations
+      - Custom scripts for media optimisation and upload
+  fr:
+    tagline: Une chronologie de 715 entrées, du Big Bang à aujourd'hui
+    text: >-
+      Un projet de recherche personnel au long cours : une chronologie en
+      14 chapitres, de la cosmologie à nos jours, chaque entrée sourcée et
+      illustrée. J'ai aussi construit l'outillage autour : conversion des
+      images en WebP, hébergement des médias sur Cloudflare R2 et génération
+      de vidéos. Pas encore publié ; il est retravaillé avant de revenir en
+      ligne.
+    highlights:
+      - 715 entrées datées, 14 chapitres, des centaines d'illustrations légendées
+      - Scripts maison d'optimisation et d'envoi des médias
+
+- id: this-site
+  name: felix-lambert.github.io
+  status: open_source
+  ongoing: true
+  period: 2020 – present
+  tags: [Jekyll, GitHub Pages, HTML, CSS, Accessibility]
+  links:
+    - label: Source on GitHub
+      url: https://github.com/felix-lambert/felix-lambert.github.io
+  en:
+    tagline: This bilingual portfolio and blog
+    text: >-
+      A static site with no framework and no build step beyond Jekyll:
+      hand-written CSS, dark mode, English and French versions of every
+      page, and a CV page that doubles as the source of the downloadable PDF.
+    highlights:
+      - One data file drives the home page, the CV page and the PDF
+      - Lighthouse-friendly, keyboard-accessible, works without JavaScript
+  fr:
+    tagline: Ce portfolio et blog bilingue
+    text: >-
+      Un site statique sans framework ni étape de build au-delà de Jekyll :
+      CSS écrit à la main, mode sombre, versions anglaise et française de
+      chaque page, et une page CV qui sert aussi de source au PDF
+      téléchargeable.
+    highlights:
+      - Un seul fichier de données alimente l'accueil, la page CV et le PDF
+      - Léger, navigable au clavier, fonctionne sans JavaScript
+
+- id: dismoi
+  name: DisMoi · mobile
+  status: open_source
+  ongoing: false
+  period: 2020 – 2021
+  tags: [Kotlin, Android, Accessibility service]
+  links:
+    - label: Code on GitHub
+      url: https://github.com/dis-moi/mobile
+  en:
+    tagline: Fact-checking companion for Android
+    text: >-
+      An Android accessibility service, written in Kotlin, that shows an
+      info bubble with fact-checking notices while you browse. Built for the
+      French non-profit DisMoi and released as open source.
+  fr:
+    tagline: Compagnon de fact-checking pour Android
+    text: >-
+      Un service d'accessibilité Android, écrit en Kotlin, qui affiche une
+      bulle d'information avec des notices de fact-checking pendant la
+      navigation. Réalisé pour l'association DisMoi et publié en open source.
+
+- id: epsor
+  name: Epsor
+  status: archived
+  ongoing: false
+  period: 2022 – 2023
+  tags: [React Native, GraphQL, GitHub Actions, App Center]
+  links: []
+  en:
+    tagline: Employee-savings app, led as a freelancer
+    text: >-
+      Led the React Native mobile app of a French employee-savings and
+      retirement platform, wired to a GraphQL API, and built its mobile
+      CI/CD pipelines with GitHub Actions and Microsoft App Center.
+  fr:
+    tagline: App d'épargne salariale, pilotée en freelance
+    text: >-
+      Pilotage de l'application mobile React Native d'une plateforme
+      française d'épargne salariale et de retraite, branchée sur une API
+      GraphQL, et mise en place de ses pipelines CI/CD mobiles avec GitHub
+      Actions et Microsoft App Center.
+
+- id: shadow
+  name: Blade / Shadow
+  status: archived
+  ongoing: false
+  period: 2018 – 2019
+  tags: [React, JavaScript, CI/CD]
+  links: []
+  en:
+    tagline: Cloud-gaming launcher used by ~100k people
+    text: >-
+      Front-end development in React for Shadow's high-performance cloud
+      computing service, with day-to-day ownership of the launcher
+      application and its CI/CD pipelines.
+  fr:
+    tagline: Launcher de cloud gaming utilisé par ~100 000 personnes
+    text: >-
+      Développement front-end en React pour le service de cloud computing
+      haute performance de Shadow, avec la responsabilité quotidienne du
+      launcher et de ses pipelines CI/CD.

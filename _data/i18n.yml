@@ -1,0 +1,125 @@
+en:
+  skip: Skip to content
+  switch_lang: Français
+  switch_lang_code: FR
+  switch_lang_title: Voir cette page en français
+  theme: Toggle dark mode
+  hero_cta_cv: Download CV (PDF)
+  hero_cta_email: Email me
+  hero_cta_linkedin: LinkedIn
+  hero_cta_github: GitHub
+  what_i_do: What I do
+  ongoing: Ongoing projects
+  ongoing_intro: What I am building and maintaining right now.
+  all_projects: All projects
+  experience: Experience
+  experience_intro: Ten years of shipping front-end and mobile products in Paris, Québec and Toronto.
+  full_cv: See the full CV
+  writing: Latest writing
+  writing_intro: Notes on software craft, technology and philosophy, in English and French.
+  all_posts: All posts
+  contact: Let's talk
+  contact_text: >-
+    Looking for a lead or senior mobile engineer? I answer every message,
+    usually within a day.
+  contact_cta: Send an email
+  cv_title: Curriculum vitae
+  cv_download: Download PDF
+  cv_print: Print
+  cv_summary: Summary
+  cv_skills: Skills
+  cv_languages: Languages
+  cv_education: Education
+  cv_updated: Last updated
+  cv_missions: Freelance missions
+  present: Present
+  projects_title: Projects
+  projects_intro: >-
+    Products I have founded, led or contributed to. Ongoing work first, then
+    selected past missions.
+  projects_past: Selected past work
+  status:
+    live: Live
+    ongoing: In progress
+    wip: Work in progress
+    open_source: Open source
+    archived: Completed
+  blog_title: Blog
+  blog_intro: >-
+    Short essays and reading notes on software craft, technology and
+    philosophy. Some posts are in English, others in French.
+  read_min: min read
+  posted_in: Written in
+  lang_en: English
+  lang_fr: French
+  back_blog: Back to the blog
+  footer_built: Built with Jekyll and hosted on GitHub Pages.
+  footer_source: Source on GitHub
+  not_found: Page not found
+  not_found_text: The page you are looking for does not exist or has moved.
+  go_home: Back to the home page
+  months: [January, February, March, April, May, June, July, August, September, October, November, December]
+  months_short: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+fr:
+  skip: Aller au contenu
+  switch_lang: English
+  switch_lang_code: EN
+  switch_lang_title: View this page in English
+  theme: Basculer le mode sombre
+  hero_cta_cv: Télécharger le CV (PDF)
+  hero_cta_email: M'écrire
+  hero_cta_linkedin: LinkedIn
+  hero_cta_github: GitHub
+  what_i_do: Ce que je fais
+  ongoing: Projets en cours
+  ongoing_intro: Ce que je construis et maintiens en ce moment.
+  all_projects: Tous les projets
+  experience: Expérience
+  experience_intro: Dix ans de produits front-end et mobiles livrés à Paris, Québec et Toronto.
+  full_cv: Voir le CV complet
+  writing: Derniers billets
+  writing_intro: Notes sur l'artisanat logiciel, la technologie et la philosophie, en anglais et en français.
+  all_posts: Tous les billets
+  contact: Discutons
+  contact_text: >-
+    Vous cherchez un lead ou un senior mobile ? Je réponds à chaque message,
+    en général sous 24 heures.
+  contact_cta: Envoyer un e-mail
+  cv_title: Curriculum vitae
+  cv_download: Télécharger le PDF
+  cv_print: Imprimer
+  cv_summary: Profil
+  cv_skills: Compétences
+  cv_languages: Langues
+  cv_education: Formation
+  cv_updated: Mis à jour le
+  cv_missions: Missions freelance
+  present: Aujourd'hui
+  projects_title: Projets
+  projects_intro: >-
+    Les produits que j'ai fondés, pilotés ou auxquels j'ai contribué. Les
+    projets en cours d'abord, puis une sélection de missions passées.
+  projects_past: Sélection de travaux passés
+  status:
+    live: En ligne
+    ongoing: En cours
+    wip: En construction
+    open_source: Open source
+    archived: Terminé
+  blog_title: Blog
+  blog_intro: >-
+    Courts essais et notes de lecture sur l'artisanat logiciel, la
+    technologie et la philosophie. Certains billets sont en anglais,
+    d'autres en français.
+  read_min: min de lecture
+  posted_in: Écrit en
+  lang_en: anglais
+  lang_fr: français
+  back_blog: Retour au blog
+  footer_built: Construit avec Jekyll et hébergé sur GitHub Pages.
+  footer_source: Code source sur GitHub
+  not_found: Page introuvable
+  not_found_text: La page que vous cherchez n'existe pas ou a été déplacée.
+  go_home: Retour à l'accueil
+  months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
+  months_short: [janv., févr., mars, avr., mai, juin, juil., août, sept., oct., nov., déc.]

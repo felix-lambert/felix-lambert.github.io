@@ -1,0 +1,35 @@
+{%- comment -%} Usage: {% include experience-item.html job=job lang=page.lang compact=true %} {%- endcomment -%}
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign job = include.job -%}
+{%- assign c = job[include.lang] -%}
+<li class="xp-item">
+  <div class="xp-when">{% include date-range.html start=job.start end=job.end lang=include.lang %}</div>
+  <div class="xp-body">
+    <h3 class="xp-role">{{ c.role }}</h3>
+    <p class="xp-company">
+      {%- if job.url %}<a href="{{ job.url }}" rel="noopener">{{ job.company }}</a>{% else %}{{ job.company }}{% endif %} · <span class="muted">{{ job.location }}</span>
+      {%- if c.company_note %}<span class="xp-note">{{ c.company_note }}</span>{% endif -%}
+    </p>
+    {%- unless include.compact %}
+    {%- if c.bullets %}
+    <ul class="xp-bullets">
+      {%- for b in c.bullets %}
+      <li>{{ b }}</li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+    {%- if c.missions %}
+    <ul class="xp-missions">
+      {%- for m in c.missions %}
+      <li><strong>{{ m.name }}</strong> <span class="muted">({{ m.period }})</span> — {{ m.text }}</li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+    {%- endunless %}
+    {%- if job.tags %}
+    <ul class="chips" aria-label="Stack">
+      {%- for tag in job.tags %}<li class="chip">{{ tag }}</li>{% endfor -%}
+    </ul>
+    {%- endif %}
+  </div>
+</li>

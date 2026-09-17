@@ -2,7 +2,8 @@
 layout: post
 title: Technophilia and technophobia
 date: 2025-06-16 10:18:00
-tags: technologie
+lang: en
+tags: technology
 ---
 
 SOURCE:

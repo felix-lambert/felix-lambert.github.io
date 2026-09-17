@@ -1,0 +1,104 @@
+---
+layout: default
+---
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign p = site.data.profile -%}
+{%- assign lang = page.lang -%}
+{%- assign projects_url = '/projects/' -%}{%- assign cv_url = '/cv/' -%}{%- assign blog_url = '/blog/' -%}
+{%- if lang == 'fr' -%}{%- assign projects_url = '/fr/projets/' -%}{%- assign cv_url = '/fr/cv/' -%}{%- assign blog_url = '/fr/blog/' -%}{%- endif -%}
+
+<section class="hero wrap">
+  <div class="hero-grid">
+    <img class="hero-avatar" src="{{ p.photo | relative_url }}" alt="{{ p.photo_alt[lang] }}" width="160" height="160" fetchpriority="high">
+    <div class="hero-text">
+      {%- if p.availability.status == 'open' %}
+      <p class="availability"><span class="status-dot" aria-hidden="true"></span>{{ p.availability[lang] }}</p>
+      {%- endif %}
+      <h1 class="hero-name">{{ p.name }}</h1>
+      <p class="hero-title">{{ p.title[lang] }} <span class="hero-stack">· {{ p.stack }}</span></p>
+      <p class="hero-tagline">{{ p.tagline[lang] }}</p>
+      <div class="cta-row">
+        <a class="btn btn-primary" href="{{ p.cv_pdf[lang] | relative_url }}" download>{{ t.hero_cta_cv }}</a>
+        <a class="btn" href="{{ p.links.linkedin }}" rel="me noopener">{{ t.hero_cta_linkedin }}</a>
+        <a class="btn" href="{{ p.links.github }}" rel="me noopener">{{ t.hero_cta_github }}</a>
+        <a class="btn" href="mailto:{{ p.email }}">{{ t.hero_cta_email }}</a>
+      </div>
+    </div>
+  </div>
+  <ul class="stats">
+    {%- for s in p.stats %}
+    <li class="stat"><span class="stat-value">{{ s.value }}</span><span class="stat-label">{{ s[lang] }}</span></li>
+    {%- endfor %}
+  </ul>
+</section>
+
+<section class="section wrap" aria-labelledby="what-title">
+  <h2 id="what-title" class="section-title">{{ t.what_i_do }}</h2>
+  <div class="grid-3">
+    {%- for pillar in p.pillars %}
+    <div class="card pillar">
+      <span class="pillar-icon" aria-hidden="true">{{ pillar.icon }}</span>
+      <h3>{{ pillar[lang].title }}</h3>
+      <p>{{ pillar[lang].text }}</p>
+    </div>
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="section wrap" aria-labelledby="ongoing-title">
+  <div class="section-head">
+    <div>
+      <h2 id="ongoing-title" class="section-title">{{ t.ongoing }}</h2>
+      <p class="section-intro">{{ t.ongoing_intro }}</p>
+    </div>
+    <a class="section-link" href="{{ projects_url | relative_url }}">{{ t.all_projects }} →</a>
+  </div>
+  <div class="grid-3">
+    {%- for project in site.data.projects %}{% if project.ongoing %}
+    {% include project-card.html project=project lang=lang %}
+    {%- endif %}{% endfor %}
+  </div>
+</section>
+
+<section class="section wrap" aria-labelledby="xp-title">
+  <div class="section-head">
+    <div>
+      <h2 id="xp-title" class="section-title">{{ t.experience }}</h2>
+      <p class="section-intro">{{ t.experience_intro }}</p>
+    </div>
+    <a class="section-link" href="{{ cv_url | relative_url }}">{{ t.full_cv }} →</a>
+  </div>
+  <ol class="timeline timeline-compact">
+    {%- for job in site.data.experience limit: 5 %}
+    {% include experience-item.html job=job lang=lang compact=true %}
+    {%- endfor %}
+  </ol>
+</section>
+
+<section class="section wrap" aria-labelledby="writing-title">
+  <div class="section-head">
+    <div>
+      <h2 id="writing-title" class="section-title">{{ t.writing }}</h2>
+      <p class="section-intro">{{ t.writing_intro }}</p>
+    </div>
+    <a class="section-link" href="{{ blog_url | relative_url }}">{{ t.all_posts }} →</a>
+  </div>
+  <ul class="post-list">
+    {%- for post in site.posts limit: 4 %}
+    {% include post-item.html post=post lang=lang %}
+    {%- endfor %}
+  </ul>
+</section>
+
+<section class="section wrap" aria-labelledby="contact-title">
+  <div class="contact card">
+    <div>
+      <h2 id="contact-title" class="section-title">{{ t.contact }}</h2>
+      <p class="section-intro">{{ t.contact_text }}</p>
+    </div>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:{{ p.email }}">{{ t.contact_cta }}</a>
+      <a class="btn" href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a>
+    </div>
+  </div>
+</section>

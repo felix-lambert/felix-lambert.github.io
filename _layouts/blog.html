@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign lang = page.lang -%}
+<div class="wrap narrow">
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.intro }}</p>
+  </header>
+  {%- assign by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {%- for year in by_year %}
+  <section class="blog-year" aria-labelledby="y{{ year.name }}">
+    <h2 id="y{{ year.name }}" class="blog-year-title">{{ year.name }}</h2>
+    <ul class="post-list">
+      {%- for post in year.items %}
+      {% include post-item.html post=post lang=lang %}
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endfor %}
+</div>

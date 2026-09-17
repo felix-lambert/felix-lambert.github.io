@@ -1,5 +1,18 @@
-list:
+en:
   - title: Home
-    url: ""
-  - title: About
-    url: about
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /cv/
+  - title: Blog
+    url: /blog/
+fr:
+  - title: Accueil
+    url: /fr/
+  - title: Projets
+    url: /fr/projets/
+  - title: CV
+    url: /fr/cv/
+  - title: Blog
+    url: /fr/blog/

@@ -2,7 +2,8 @@
 layout: post
 title: Les penseurs optimistes
 date: 2021-08-26 10:18:00
-tags: technologies
+lang: fr
+tags: technology
 ---
 
 - [Michel Serres sur la paix](https://www.youtube.com/watch?v=n0z25Qebv94)

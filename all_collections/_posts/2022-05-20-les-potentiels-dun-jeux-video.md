@@ -2,7 +2,8 @@
 layout: post
 title: Les potentiels d'un jeu vidéo
 date: 2022-05-20 10:18:00
-tags: technologie
+lang: fr
+tags: technology
 ---
 
 Source:

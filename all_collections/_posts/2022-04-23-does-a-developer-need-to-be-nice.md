@@ -2,6 +2,7 @@
 layout: post
 title: Does a developer need to be nice?
 date: 2022-04-23 10:18:00
+lang: en
 tags: technology
 ---
 

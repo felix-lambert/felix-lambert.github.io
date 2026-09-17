@@ -2,6 +2,7 @@
 layout: post
 title: Denouncing or changing
 date: 2024-05-07 10:18:00
+lang: en
 tags: technology
 ---
 

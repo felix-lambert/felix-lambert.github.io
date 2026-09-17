@@ -1,46 +1,74 @@
-title: Felix's blog
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-
-url: ""
+# Site
+title: Felix Lambert
+tagline: Lead Mobile Engineer · React Native, Kotlin, React
+description: >-
+  Felix Lambert is a Lead Mobile Engineer based in Toronto with 10+ years in
+  front-end and mobile development (React Native, Kotlin, React). Bilingual
+  English/French. Open to new opportunities.
+url: "https://felix-lambert.github.io"
 baseurl: ""
+lang: en
+timezone: America/Toronto
+image: /assets/img/og-card.png
+logo: /assets/img/avatar.jpg
 
-# for atom feed
 author:
   name: Felix Lambert
   email: lambertfelix8@gmail.com
+  twitter:
+
+social:
+  name: Felix Lambert
+  links:
+    - https://www.linkedin.com/in/felix-lambert-6870b720a/
+    - https://github.com/felix-lambert
+    - https://www.malt.fr/profile/felixlambert1
+
+# Build
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: highlight
 
 plugins:
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jemoji
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
 
-paginate_path: "/page:num/"
-
-paginate: 5
+feed:
+  path: feed.xml
 
 collections_dir: all_collections
 collections:
   posts:
-    output: true
-  projects:
     output: true
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: "post"
+      layout: page
+      lang: en
+      image: /assets/img/og-card.png
+  - scope:
+      path: "fr"
+    values:
+      lang: fr
   - scope:
       path: "_posts"
     values:
-      layout: "post"
+      layout: post
       permalink: /posts/:categories/:year/:month/:day/:title/
 
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md", "tools"]
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - tools
+  - node_modules
+  - vendor

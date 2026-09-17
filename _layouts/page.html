@@ -1,32 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body>
-    <div id="indicator"></div>
-    <div id="page">
-      <style>
-        .title {
-          padding: 5%;
-          color: #0ac4ba;
-          font-size: 18px;
-          font-weight: bold;
-          text-align: center;
-          /* background: #0ac4ba; */
-          display: grid;
-        }
-      </style>
-      <!-- header -->
-      {% include header.html %}
-      <!-- nav -->
-      {% include nav.html %}
-      <!-- page content -->
-      <main class="content">
-        <p class="title">{{page.title}}</p>
-        {{content}}
-      </main>
-
-      <!-- footer -->
-      {% include footer.html %}
-    </div>
-  </body>
-</html>
+---
+layout: default
+---
+<article class="wrap narrow page">
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    {%- if page.intro %}<p class="lead">{{ page.intro }}</p>{% endif %}
+  </header>
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>

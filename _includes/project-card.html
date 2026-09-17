@@ -1,0 +1,26 @@
+{%- comment -%} Usage: {% include project-card.html project=project lang=page.lang %} {%- endcomment -%}
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign pr = include.project -%}
+{%- assign c = pr[include.lang] -%}
+<article class="card project-card" id="{{ pr.id }}">
+  <div class="card-top">
+    <span class="status status-{{ pr.status }}"><span class="status-dot" aria-hidden="true"></span>{{ t.status[pr.status] }}</span>
+    <span class="muted small">{{ pr.period }}</span>
+  </div>
+  <h3 class="card-title">{{ pr.name }}</h3>
+  <p class="card-tagline">{{ c.tagline }}</p>
+  <p class="card-text">{{ c.text }}</p>
+  {%- if c.highlights %}
+  <ul class="card-highlights">
+    {%- for h in c.highlights %}<li>{{ h }}</li>{% endfor -%}
+  </ul>
+  {%- endif %}
+  <ul class="chips" aria-label="Stack">
+    {%- for tag in pr.tags %}<li class="chip">{{ tag }}</li>{% endfor -%}
+  </ul>
+  {%- if pr.links.size > 0 %}
+  <p class="card-links">
+    {%- for l in pr.links %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}<span aria-hidden="true"> ↗</span></a>{% endfor -%}
+  </p>
+  {%- endif %}
+</article>

@@ -1,5 +1,43 @@
-<header>
-	<a href="{{site.baseurl}}/">
-		<h3>{{site.title}}</h3>
-	</a>
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign p = site.data.profile -%}
+{%- assign nav = site.data.nav[page.lang] -%}
+{%- assign other = 'fr' -%}{%- if page.lang == 'fr' -%}{%- assign other = 'en' -%}{%- endif -%}
+{%- assign home = '/' -%}{%- if page.lang == 'fr' -%}{%- assign home = '/fr/' -%}{%- endif -%}
+{%- if page.translation -%}
+  {%- assign alt = page.translation -%}
+{%- elsif page.layout == 'post' -%}
+  {%- if page.lang == 'fr' -%}{%- assign alt = '/blog/' -%}{%- else -%}{%- assign alt = '/fr/blog/' -%}{%- endif -%}
+{%- elsif page.lang == 'fr' -%}
+  {%- assign alt = '/' -%}
+{%- else -%}
+  {%- assign alt = '/fr/' -%}
+{%- endif -%}
+<a class="skip-link" href="#main">{{ t.skip }}</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ home | relative_url }}">
+      <img class="brand-avatar" src="{{ p.photo | relative_url }}" alt="" width="32" height="32">
+      <span>{{ p.name }}</span>
+    </a>
+    <nav class="site-nav" aria-label="{% if page.lang == 'fr' %}Navigation principale{% else %}Main navigation{% endif %}">
+      {%- for item in nav -%}
+        {%- assign active = false -%}
+        {%- if item.url == page.url -%}
+          {%- assign active = true -%}
+        {%- elsif item.url != home and page.url contains item.url -%}
+          {%- assign active = true -%}
+        {%- elsif page.layout == 'post' and item.url contains '/blog/' -%}
+          {%- assign active = true -%}
+        {%- endif %}
+      <a href="{{ item.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      {%- endfor %}
+    </nav>
+    <div class="header-tools">
+      <a class="lang-switch" href="{{ alt | relative_url }}" hreflang="{{ other }}" lang="{{ other }}" title="{{ t.switch_lang_title }}" aria-label="{{ t.switch_lang }}">{{ t.switch_lang_code }}</a>
+      <button class="theme-toggle" type="button" aria-label="{{ t.theme }}" title="{{ t.theme }}">
+        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </div>
 </header>

@@ -1,0 +1,8 @@
+{%- comment -%} Usage: {% include post-date.html date=post.date lang=page.lang %} {%- endcomment -%}
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign m = include.date | date: '%-m' | plus: 0 | minus: 1 -%}
+{%- if include.lang == 'fr' -%}
+{{ include.date | date: '%-d' }} {{ t.months[m] }} {{ include.date | date: '%Y' }}
+{%- else -%}
+{{ t.months[m] }} {{ include.date | date: '%-d, %Y' }}
+{%- endif -%}
