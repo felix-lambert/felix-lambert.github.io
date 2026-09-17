@@ -8,40 +8,36 @@ body_class: home
 {%- assign projects_url = '/projects/' -%}{%- assign cv_url = '/cv/' -%}{%- assign blog_url = '/blog/' -%}
 {%- if lang == 'fr' -%}{%- assign projects_url = '/fr/projets/' -%}{%- assign cv_url = '/fr/cv/' -%}{%- assign blog_url = '/fr/blog/' -%}{%- endif -%}
 
-<section class="hero">
-  <div class="wrap hero-grid">
+<section class="hero wrap">
+  <div class="hero-grid">
     <div class="hero-copy">
       {%- if p.availability.status == 'open' %}
       <p class="availability"><span class="status-dot" aria-hidden="true"></span>{{ p.availability[lang] }}</p>
       {%- endif %}
-      <h1 class="hero-headline">{{ p.headline[lang] }} <em>{{ p.headline_accent[lang] }}</em></h1>
+      <p class="hero-kicker">{{ p.title[lang] }} · {{ p.location[lang] }}</p>
+      <h1 class="hero-name">{{ p.name }}</h1>
+      <p class="hero-headline">{{ p.headline[lang] }}</p>
       <p class="hero-sub">{{ p.tagline[lang] }}</p>
       <div class="cta-row">
-        <a class="btn btn-primary btn-lg" href="mailto:{{ p.email }}">{{ t.hero_cta_email }}</a>
-        <a class="btn btn-lg" href="{{ p.cv_pdf[lang] | relative_url }}" download>{{ t.hero_cta_cv }}</a>
+        <a class="btn btn-primary" href="mailto:{{ p.email }}">{{ t.hero_cta_email }} · {{ p.email }}</a>
+        <a class="btn" href="{{ p.cv_pdf[lang] | relative_url }}" download>{{ t.hero_cta_cv }}</a>
       </div>
       <ul class="hero-links">
-        <li><a href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn<span aria-hidden="true"> ↗</span></a></li>
-        <li><a href="{{ p.links.github }}" rel="me noopener">GitHub<span aria-hidden="true"> ↗</span></a></li>
-        <li><a href="{{ p.links.malt }}" rel="me noopener">Malt<span aria-hidden="true"> ↗</span></a></li>
-      </ul>
-      <ul class="stats">
-        {%- for s in p.stats %}
-        <li class="stat"><span class="stat-value">{{ s.value }}</span><span class="stat-label">{{ s[lang] }}</span></li>
-        {%- endfor %}
+        <li><a href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a></li>
+        <li><a href="{{ p.links.github }}" rel="me noopener">GitHub</a></li>
+        <li><a href="{{ p.links.malt }}" rel="me noopener">Malt</a></li>
       </ul>
     </div>
     <figure class="hero-figure">
-      <img class="hero-photo" src="{{ p.photo | relative_url }}?v={{ site.time | date: '%s' }}" alt="{{ p.photo_alt[lang] }}" width="360" height="360" fetchpriority="high">
-      <figcaption class="hero-card">
-        <strong>{{ p.name }}</strong>
-        <span>{{ p.title[lang] }}</span>
-        <span class="muted">{{ p.stack }}</span>
-        <span class="muted">{{ p.location[lang] }}</span>
-      </figcaption>
+      <img class="hero-photo" src="{{ p.photo | relative_url }}?v={{ site.time | date: '%s' }}" alt="{{ p.photo_alt[lang] }}" width="280" height="280" fetchpriority="high">
     </figure>
   </div>
-  <div class="wrap companies reveal">
+  <dl class="facts">
+    {%- for s in p.stats %}
+    <div class="fact"><dd>{{ s.value }}</dd><dt>{{ s[lang] }}</dt></div>
+    {%- endfor %}
+  </dl>
+  <div class="companies">
     <p class="companies-label">{{ t.worked_with }}</p>
     <ul class="companies-list">
       {%- for c in p.companies %}
@@ -51,24 +47,24 @@ body_class: home
   </div>
 </section>
 
-<section class="section wrap reveal" aria-labelledby="what-title">
-  <p class="eyebrow">01</p>
-  <h2 id="what-title" class="section-title">{{ t.what_i_do }}</h2>
-  <div class="grid-3 pillars">
-    {%- for pillar in p.pillars %}
-    <div class="pillar">
-      <span class="pillar-icon" aria-hidden="true">{{ pillar.icon }}</span>
-      <h3>{{ pillar[lang].title }}</h3>
-      <p>{{ pillar[lang].text }}</p>
-    </div>
-    {%- endfor %}
-  </div>
-</section>
-
-<section class="section wrap reveal" aria-labelledby="work-title">
+<section class="section wrap" aria-labelledby="xp-title">
   <div class="section-head">
     <div>
-      <p class="eyebrow">02</p>
+      <h2 id="xp-title" class="section-title">{{ t.experience }}</h2>
+      <p class="section-intro">{{ t.experience_intro }}</p>
+    </div>
+    <a class="section-link" href="{{ cv_url | relative_url }}">{{ t.full_cv }} →</a>
+  </div>
+  <ol class="timeline timeline-compact">
+    {%- for job in site.data.experience limit: 5 %}
+    {% include experience-item.html job=job lang=lang compact=true %}
+    {%- endfor %}
+  </ol>
+</section>
+
+<section class="section wrap" aria-labelledby="work-title">
+  <div class="section-head">
+    <div>
       <h2 id="work-title" class="section-title">{{ t.featured }}</h2>
       <p class="section-intro">{{ t.ongoing_intro }}</p>
     </div>
@@ -77,51 +73,29 @@ body_class: home
   {%- for project in site.data.projects %}{% if project.featured %}
   {% include featured-project.html project=project lang=lang %}
   {%- endif %}{% endfor %}
-  <div class="grid-3 project-grid">
+  <div class="project-grid">
     {%- for project in site.data.projects %}{% if project.ongoing and project.featured != true %}
     {% include project-card.html project=project lang=lang %}
     {%- endif %}{% endfor %}
   </div>
 </section>
 
-<section class="section wrap reveal" aria-labelledby="xp-title">
-  <div class="section-head">
-    <div>
-      <p class="eyebrow">03</p>
-      <h2 id="xp-title" class="section-title">{{ t.experience }}</h2>
-      <p class="section-intro">{{ t.experience_intro }}</p>
-    </div>
-    <a class="section-link" href="{{ cv_url | relative_url }}">{{ t.full_cv }} →</a>
-  </div>
-  <ol class="timeline timeline-compact">
-    {%- for job in site.data.experience limit: 5 %}
-    {% include experience-item.html job=job lang=lang compact=true index=forloop.index %}
-    {%- endfor %}
-  </ol>
-</section>
-
-<section class="section wrap reveal" aria-labelledby="tools-title">
-  <p class="eyebrow">04</p>
-  <h2 id="tools-title" class="section-title">{{ t.toolbox }}</h2>
+<section class="section wrap" aria-labelledby="skills-title">
+  <h2 id="skills-title" class="section-title">{{ t.toolbox }}</h2>
   <p class="section-intro">{{ t.toolbox_intro }}</p>
-  <dl class="toolbox">
+  <dl class="skills">
     {%- for group in site.data.skills %}
-    <div class="toolbox-row">
+    <div class="skills-row">
       <dt>{{ group[lang] }}</dt>
-      <dd>
-        <ul class="chips">
-          {%- for item in group.items[lang] %}<li class="chip">{{ item }}</li>{% endfor -%}
-        </ul>
-      </dd>
+      <dd>{{ group.items[lang] | join: ', ' }}</dd>
     </div>
     {%- endfor %}
   </dl>
 </section>
 
-<section class="section wrap reveal" aria-labelledby="writing-title">
+<section class="section wrap" aria-labelledby="writing-title">
   <div class="section-head">
     <div>
-      <p class="eyebrow">05</p>
       <h2 id="writing-title" class="section-title">{{ t.writing }}</h2>
       <p class="section-intro">{{ t.writing_intro }}</p>
     </div>
@@ -139,16 +113,15 @@ body_class: home
   </ul>
 </section>
 
-<section class="section wrap reveal" aria-labelledby="contact-title">
+<section class="section wrap" aria-labelledby="contact-title">
   <div class="contact">
-    <p class="eyebrow">06</p>
-    <h2 id="contact-title" class="section-title contact-title">{{ t.contact }}</h2>
-    <p class="section-intro contact-text">{{ t.contact_text }}</p>
-    <div class="contact-actions">
-      <a class="btn btn-primary btn-lg" href="mailto:{{ p.email }}">{{ t.contact_cta }}</a>
-      <button class="btn btn-lg copy-email" type="button" data-email="{{ p.email }}" data-copied="{{ t.copied }}">{{ t.copy_email }}</button>
-      <a class="btn btn-lg" href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a>
-    </div>
+    <h2 id="contact-title" class="section-title">{{ t.contact }}</h2>
+    <p class="section-intro">{{ t.contact_text }}</p>
     <p class="contact-email"><a href="mailto:{{ p.email }}">{{ p.email }}</a></p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:{{ p.email }}">{{ t.contact_cta }}</a>
+      <button class="btn copy-email" type="button" data-email="{{ p.email }}" data-copied="{{ t.copied }}">{{ t.copy_email }}</button>
+      <a class="btn" href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a>
+    </div>
   </div>
 </section>

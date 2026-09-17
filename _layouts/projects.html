@@ -11,7 +11,7 @@ layout: default
 
   <section class="section-tight" aria-labelledby="ongoing-title">
     <h2 id="ongoing-title" class="section-title">{{ t.ongoing }}</h2>
-    <div class="grid-2">
+    <div class="project-grid">
       {%- for project in site.data.projects %}{% if project.ongoing %}
       {% include project-card.html project=project lang=lang %}
       {%- endif %}{% endfor %}
@@ -20,7 +20,7 @@ layout: default
 
   <section class="section-tight" aria-labelledby="past-title">
     <h2 id="past-title" class="section-title">{{ t.projects_past }}</h2>
-    <div class="grid-2">
+    <div class="project-grid">
       {%- for project in site.data.projects %}{% unless project.ongoing %}
       {% include project-card.html project=project lang=lang %}
       {%- endunless %}{% endfor %}
