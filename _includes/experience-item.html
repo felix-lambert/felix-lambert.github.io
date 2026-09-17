@@ -1,15 +1,21 @@
-{%- comment -%} Usage: {% include experience-item.html job=job lang=page.lang compact=true %} {%- endcomment -%}
+{%- comment -%} Usage: {% include experience-item.html job=job lang=page.lang compact=true index=forloop.index %} {%- endcomment -%}
 {%- assign t = site.data.i18n[include.lang] -%}
 {%- assign job = include.job -%}
 {%- assign c = job[include.lang] -%}
+{%- assign initial = job.company | slice: 0 -%}
 <li class="xp-item">
   <div class="xp-when">{% include date-range.html start=job.start end=job.end lang=include.lang %}</div>
   <div class="xp-body">
-    <h3 class="xp-role">{{ c.role }}</h3>
-    <p class="xp-company">
-      {%- if job.url %}<a href="{{ job.url }}" rel="noopener">{{ job.company }}</a>{% else %}{{ job.company }}{% endif %} · <span class="muted">{{ job.location }}</span>
-      {%- if c.company_note %}<span class="xp-note">{{ c.company_note }}</span>{% endif -%}
-    </p>
+    <div class="xp-head">
+      <span class="mark mark-{{ include.index | default: 1 | modulo: 6 }}" aria-hidden="true">{{ initial }}</span>
+      <div>
+        <h3 class="xp-role">{{ c.role }}</h3>
+        <p class="xp-company">
+          {%- if job.url %}<a href="{{ job.url }}" rel="noopener">{{ job.company }}</a>{% else %}{{ job.company }}{% endif %} <span class="muted">· {{ job.location }}</span>
+        </p>
+      </div>
+    </div>
+    {%- if c.company_note %}<p class="xp-note">{{ c.company_note }}</p>{% endif -%}
     {%- unless include.compact %}
     {%- if c.bullets %}
     <ul class="xp-bullets">

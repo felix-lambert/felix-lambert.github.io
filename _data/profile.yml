@@ -15,6 +15,35 @@ title:
   en: Lead Mobile Engineer
   fr: Lead Mobile Engineer
 stack: React Native · Kotlin · React
+headline:
+  en: I build mobile products people rely on,
+  fr: Je construis des produits mobiles fiables,
+headline_accent:
+  en: and lead the teams that ship them.
+  fr: et je pilote les équipes qui les livrent.
+# Text "logos" shown under the hero (no image assets needed).
+companies:
+  - name: Chexy
+    en: Fintech · Toronto
+    fr: Fintech · Toronto
+  - name: Folks HR
+    en: HR tech · Québec
+    fr: RH · Québec
+  - name: Epsor
+    en: Employee savings · Paris
+    fr: Épargne salariale · Paris
+  - name: Shadow
+    en: Cloud gaming · Paris
+    fr: Cloud gaming · Paris
+  - name: Recast.AI
+    en: Conversational AI · SAP
+    fr: IA conversationnelle · SAP
+  - name: DisMoi
+    en: Fact-checking · Paris
+    fr: Fact-checking · Paris
+  - name: CityTaps
+    en: IoT water access
+    fr: IoT · accès à l'eau
 tagline:
   en: >-
     I build and lead mobile products, from the first commit to the app-store

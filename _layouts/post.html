@@ -16,7 +16,6 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">{% include post-date.html date=page.date lang=lang %}</time>
       · {{ minutes }} {{ t.read_min }}
       · {{ t.posted_in }} {{ lang_name }}
-      {%- if page.tags.size > 0 %} · {% for tag in page.tags %}<span class="tag">#{{ tag }}</span> {% endfor %}{% endif %}
     </p>
   </header>
   <div class="prose">

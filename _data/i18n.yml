@@ -8,7 +8,18 @@ en:
   hero_cta_email: Email me
   hero_cta_linkedin: LinkedIn
   hero_cta_github: GitHub
+  worked_with: Companies I have shipped for
   what_i_do: What I do
+  featured: Featured work
+  featured_role: Founder · design, code, launch, support
+  featured_since: since
+  toolbox: Toolbox
+  toolbox_intro: The stack I reach for, and the practices that keep releases boring.
+  copy_email: Copy email
+  copied: Copied!
+  essays: Essays
+  notes: Reading notes & links
+  section_num: ''
   ongoing: Ongoing projects
   ongoing_intro: What I am building and maintaining right now.
   all_projects: All projects
@@ -70,7 +81,18 @@ fr:
   hero_cta_email: M'écrire
   hero_cta_linkedin: LinkedIn
   hero_cta_github: GitHub
+  worked_with: Ils m'ont fait confiance
   what_i_do: Ce que je fais
+  featured: Projet phare
+  featured_role: Fondateur · design, code, lancement, support
+  featured_since: depuis
+  toolbox: Boîte à outils
+  toolbox_intro: La stack que j'utilise au quotidien, et les pratiques qui rendent les releases sans surprise.
+  copy_email: Copier l'e-mail
+  copied: Copié !
+  essays: Essais
+  notes: Notes de lecture et liens
+  section_num: ''
   ongoing: Projets en cours
   ongoing_intro: Ce que je construis et maintiens en ce moment.
   all_projects: Tous les projets

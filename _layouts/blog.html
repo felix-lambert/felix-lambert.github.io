@@ -8,15 +8,28 @@ layout: default
     <h1>{{ page.title }}</h1>
     <p class="lead">{{ page.intro }}</p>
   </header>
-  {%- assign by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-  {%- for year in by_year %}
-  <section class="blog-year" aria-labelledby="y{{ year.name }}">
-    <h2 id="y{{ year.name }}" class="blog-year-title">{{ year.name }}</h2>
+
+  <section class="blog-group" aria-labelledby="essays-title">
+    <h2 id="essays-title" class="blog-group-title">{{ t.essays }}</h2>
     <ul class="post-list">
-      {%- for post in year.items %}
+      {%- for post in site.posts %}
+        {%- assign words = post.content | number_of_words %}
+        {%- if words >= 120 %}
       {% include post-item.html post=post lang=lang %}
+        {%- endif %}
       {%- endfor %}
     </ul>
   </section>
-  {%- endfor %}
+
+  <section class="blog-group" aria-labelledby="notes-title">
+    <h2 id="notes-title" class="blog-group-title">{{ t.notes }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts %}
+        {%- assign words = post.content | number_of_words %}
+        {%- if words < 120 %}
+      {% include post-item.html post=post lang=lang %}
+        {%- endif %}
+      {%- endfor %}
+    </ul>
+  </section>
 </div>
