@@ -25,6 +25,11 @@ body_class: home
         <li><a href="{{ p.links.github }}" rel="me noopener">GitHub<span aria-hidden="true"> ↗</span></a></li>
         <li><a href="{{ p.links.malt }}" rel="me noopener">Malt<span aria-hidden="true"> ↗</span></a></li>
       </ul>
+      <ul class="stats">
+        {%- for s in p.stats %}
+        <li class="stat"><span class="stat-value">{{ s.value }}</span><span class="stat-label">{{ s[lang] }}</span></li>
+        {%- endfor %}
+      </ul>
     </div>
     <figure class="hero-figure">
       <img class="hero-photo" src="{{ p.photo | relative_url }}" alt="{{ p.photo_alt[lang] }}" width="360" height="360" fetchpriority="high">
@@ -44,15 +49,6 @@ body_class: home
       {%- endfor %}
     </ul>
   </div>
-</section>
-
-<section class="section wrap reveal" aria-labelledby="stats-title">
-  <h2 id="stats-title" class="visually-hidden">{{ t.what_i_do }}</h2>
-  <ul class="stats">
-    {%- for s in p.stats %}
-    <li class="stat"><span class="stat-value">{{ s.value }}</span><span class="stat-label">{{ s[lang] }}</span></li>
-    {%- endfor %}
-  </ul>
 </section>
 
 <section class="section wrap reveal" aria-labelledby="what-title">
