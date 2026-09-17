@@ -32,7 +32,7 @@ body_class: home
       </ul>
     </div>
     <figure class="hero-figure">
-      <img class="hero-photo" src="{{ p.photo | relative_url }}" alt="{{ p.photo_alt[lang] }}" width="360" height="360" fetchpriority="high">
+      <img class="hero-photo" src="{{ p.photo | relative_url }}?v={{ site.time | date: '%s' }}" alt="{{ p.photo_alt[lang] }}" width="360" height="360" fetchpriority="high">
       <figcaption class="hero-card">
         <strong>{{ p.name }}</strong>
         <span>{{ p.title[lang] }}</span>
