@@ -30,7 +30,7 @@ body_class: cv-page
         {%- if site.pdf %}<li><a href="{{ site.url }}">felix-lambert.github.io</a></li>{% endif %}
       </ul>
     </div>
-    <img class="cv-avatar" src="{{ p.photo | relative_url }}" alt="" width="96" height="96">
+    <img class="cv-avatar" src="{{ p.photo | relative_url }}?v={{ site.time | date: '%s' }}" alt="" width="96" height="96">
   </header>
 
   <section class="cv-section">

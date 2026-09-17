@@ -23,7 +23,7 @@ layout: default
   </div>
   <footer class="post-footer">
     <div class="card author-card">
-      <img src="{{ p.photo | relative_url }}" alt="" width="56" height="56" class="author-avatar">
+      <img src="{{ p.photo | relative_url }}?v={{ site.time | date: '%s' }}" alt="" width="56" height="56" class="author-avatar">
       <div>
         <strong>{{ p.name }}</strong> · {{ p.title[lang] }}<br>
         <span class="muted">{{ p.tagline[lang] | truncate: 120 }}</span><br>
