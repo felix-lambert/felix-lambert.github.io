@@ -4,7 +4,21 @@
   name: EmptyMyFridge
   status: live
   ongoing: true
+  featured: true
   period: 2019 – present
+  metrics:
+    - value: "40k+"
+      en: downloads
+      fr: téléchargements
+    - value: "~150"
+      en: daily users
+      fr: utilisateurs / jour
+    - value: "4.5★"
+      en: App Store rating
+      fr: note App Store
+    - value: "4★"
+      en: Google Play rating
+      fr: note Google Play
   tags: [React Native, TypeScript, Firebase, Node.js, iOS, Android, Web]
   links:
     - label: Website

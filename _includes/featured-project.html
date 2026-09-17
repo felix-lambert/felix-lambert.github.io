@@ -1,0 +1,31 @@
+{%- comment -%} Usage: {% include featured-project.html project=project lang=page.lang %} {%- endcomment -%}
+{%- assign t = site.data.i18n[include.lang] -%}
+{%- assign pr = include.project -%}
+{%- assign c = pr[include.lang] -%}
+<article class="featured card" id="{{ pr.id }}">
+  <div class="featured-main">
+    <div class="card-top">
+      <span class="status status-{{ pr.status }}"><span class="status-dot" aria-hidden="true"></span>{{ t.status[pr.status] }}</span>
+      <span class="muted small">{{ t.featured_role }} · {{ t.featured_since }} 2019</span>
+    </div>
+    <h3 class="featured-title">{{ pr.name }}</h3>
+    <p class="featured-tagline">{{ c.tagline }}</p>
+    <p class="featured-text">{{ c.text }}</p>
+    {%- if c.highlights %}
+    <ul class="card-highlights">
+      {%- for h in c.highlights %}<li>{{ h }}</li>{% endfor -%}
+    </ul>
+    {%- endif %}
+    <ul class="chips" aria-label="Stack">
+      {%- for tag in pr.tags %}<li class="chip">{{ tag }}</li>{% endfor -%}
+    </ul>
+    <p class="card-links">
+      {%- for l in pr.links %}<a href="{{ l.url }}" rel="noopener">{{ l.label }}<span aria-hidden="true"> ↗</span></a>{% endfor -%}
+    </p>
+  </div>
+  <ul class="featured-metrics" aria-label="Key numbers">
+    {%- for m in pr.metrics %}
+    <li><span class="metric-value">{{ m.value }}</span><span class="metric-label">{{ m[include.lang] }}</span></li>
+    {%- endfor %}
+  </ul>
+</article>
