@@ -260,12 +260,11 @@ pre {
 }
 
 .eyebrow {
-  font-family: var(--font-display);
-  font-style: italic;
-  font-size: 1.15rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
   color: var(--accent);
-  margin: 0 0 0.4rem;
-  letter-spacing: 0.02em;
+  margin: 0 0 0.5rem;
 }
 
 .section-title {
@@ -851,58 +850,36 @@ html.js .reveal.is-visible {
   }
 }
 
-/* Stats ------------------------------------------------------------------ */
+/* Stats (inline row under the hero copy) --------------------------------- */
 
 .stats {
   list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  padding: 1.25rem 0 0;
+  margin: 1.75rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 2.5rem;
   border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
 }
 
 .stat {
-  padding: 1.5rem 1.25rem 1.5rem 0;
   display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-}
-
-.stat + .stat {
-  padding-left: 1.5rem;
-  border-left: 1px solid var(--line);
+  align-items: baseline;
+  gap: 0.5rem;
 }
 
 .stat-value {
-  font-family: var(--font-display);
-  font-size: 2.6rem;
+  font-weight: 800;
+  font-size: 1.5rem;
   line-height: 1;
-  letter-spacing: -0.02em;
-  color: var(--text);
+  letter-spacing: -0.03em;
+  color: var(--accent);
   font-variant-numeric: tabular-nums;
 }
 
 .stat-label {
   font-size: 0.9rem;
   color: var(--text-2);
-}
-
-@media (max-width: 760px) {
-  .stats {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .stat:nth-child(3) {
-    padding-left: 0;
-    border-left: 0;
-    border-top: 1px solid var(--line);
-  }
-
-  .stat:nth-child(4) {
-    border-top: 1px solid var(--line);
-  }
 }
 
 /* Pillars ---------------------------------------------------------------- */
@@ -982,10 +959,12 @@ html.js .reveal.is-visible {
 }
 
 .metric-value {
-  font-family: var(--font-display);
-  font-size: 2rem;
+  font-weight: 800;
+  font-size: 1.75rem;
   line-height: 1;
-  color: var(--text);
+  letter-spacing: -0.03em;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
 }
 
 .metric-label {
