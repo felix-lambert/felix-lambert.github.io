@@ -3,7 +3,7 @@ layout: projects
 lang: fr
 title: Projets
 intro: >-
-  Les produits que j'ai fondés, pilotés ou auxquels j'ai contribué. Les
+  Les produits que j'ai fondés ou auxquels j'ai contribué. Les
   projets en cours d'abord, puis une sélection de missions passées.
 description: >-
   Les projets de Felix Lambert : EmptyMyFridge (40 000+ téléchargements),

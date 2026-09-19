@@ -12,12 +12,12 @@ photo_alt:
   en: Portrait of Felix Lambert
   fr: Portrait de Felix Lambert
 title:
-  en: Lead Mobile Engineer
-  fr: Lead Mobile Engineer
-stack: React Native · Kotlin · React
+  en: Mobile Engineer
+  fr: Mobile Engineer
+stack: React Native · React
 headline:
-  en: Lead Mobile Engineer building and leading React Native and Kotlin products.
-  fr: Lead Mobile Engineer, je construis et pilote des produits React Native et Kotlin.
+  en: Mobile Engineer building React Native products.
+  fr: Mobile Engineer, je construis des produits React Native.
 # Text "logos" shown under the hero (no image assets needed).
 companies:
   - name: Chexy
@@ -43,34 +43,30 @@ companies:
     fr: IoT · accès à l'eau
 tagline:
   en: >-
-    I build and lead mobile products, from the first commit to the app-store
-    launch. Ten-plus years in front-end and mobile engineering, most of them
-    in React Native and Kotlin, with a founder's eye for what users actually
-    need.
+    I build mobile products, from the first commit to the app-store launch.
+    Ten-plus years in front-end and mobile engineering, most of them in
+    React Native, with a founder's eye for what users actually need.
   fr: >-
-    Je construis et je pilote des produits mobiles, du premier commit à la
-    mise en ligne sur les stores. Plus de dix ans en développement front-end
-    et mobile, surtout en React Native et Kotlin, avec le regard d'un
-    fondateur sur ce dont les utilisateurs ont vraiment besoin.
+    Je construis des produits mobiles, du premier commit à la mise en ligne
+    sur les stores. Plus de dix ans en développement front-end et mobile,
+    surtout en React Native, avec le regard d'un fondateur sur ce dont les
+    utilisateurs ont vraiment besoin.
 availability:
   status: open            # open | listening | closed
   en: Open to new opportunities · Toronto or remote
   fr: Disponible pour de nouvelles opportunités · Toronto ou à distance
 summary:
   en: >-
-    Lead Mobile Engineer with 10+ years in front-end and mobile development.
-    I have shipped and led React Native and Kotlin products for fintech,
-    HR tech, cloud gaming and my own app with 40k+ downloads, and I am as
-    comfortable mentoring a team as I am in the code. Bilingual
-    English/French, based in Toronto, open to lead or senior mobile roles,
-    on-site or remote.
+    Mobile Engineer with 10+ years in front-end and mobile development.
+    I have shipped React Native products for fintech, HR tech, cloud gaming
+    and my own app with 40k+ downloads. Bilingual English/French, based in
+    Toronto, open to mobile roles, on-site or remote.
   fr: >-
-    Lead Mobile Engineer avec plus de 10 ans d'expérience en développement
-    front-end et mobile. J'ai livré et piloté des produits React Native et
-    Kotlin pour la fintech, les RH, le cloud gaming et ma propre application
-    à plus de 40 000 téléchargements, aussi à l'aise pour accompagner une
-    équipe que dans le code. Bilingue anglais/français, basé à Toronto,
-    ouvert aux postes de lead ou senior mobile, sur site ou à distance.
+    Mobile Engineer avec plus de 10 ans d'expérience en développement
+    front-end et mobile. J'ai livré des produits React Native pour la
+    fintech, les RH, le cloud gaming et ma propre application à plus de
+    40 000 téléchargements. Bilingue anglais/français, basé à Toronto,
+    ouvert aux postes mobile, sur site ou à distance.
 links:
   linkedin: https://www.linkedin.com/in/felix-lambert-6870b720a/
   github: https://github.com/felix-lambert
@@ -92,17 +88,17 @@ pillars:
   - icon: "📱"
     en:
       title: Mobile product engineering
-      text: React Native and Kotlin apps shipped to both stores, from architecture and native modules to release pipelines.
+      text: React Native apps shipped to both stores, from architecture and native modules to release pipelines.
     fr:
       title: Ingénierie produit mobile
-      text: Applications React Native et Kotlin publiées sur les deux stores, de l'architecture et des modules natifs aux pipelines de release.
+      text: Applications React Native publiées sur les deux stores, de l'architecture et des modules natifs aux pipelines de release.
   - icon: "🧭"
     en:
-      title: Technical leadership
-      text: Leading small teams, mentoring engineers, reviewing code and turning fuzzy requirements into clear technical designs.
+      title: Working with teams
+      text: Mentoring engineers, reviewing code and turning fuzzy requirements into clear technical designs.
     fr:
-      title: Leadership technique
-      text: Piloter de petites équipes, accompagner les développeurs, relire le code et transformer des besoins flous en designs techniques clairs.
+      title: Travail en équipe
+      text: Accompagner les développeurs, relire le code et transformer des besoins flous en designs techniques clairs.
   - icon: "☁️"
     en:
       title: Web & cloud foundations

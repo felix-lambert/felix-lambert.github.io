@@ -31,7 +31,7 @@ en:
   all_posts: All posts
   contact: Contact
   contact_text: >-
-    Looking for a lead or senior mobile engineer? Email is the fastest way
+    Looking for a mobile engineer? Email is the fastest way
     to reach me; I reply within a day.
   contact_cta: Send an email
   cv_title: Curriculum vitae
@@ -46,7 +46,7 @@ en:
   present: Present
   projects_title: Projects
   projects_intro: >-
-    Products I have founded, led or contributed to. Ongoing work first, then
+    Products I have founded or contributed to. Ongoing work first, then
     selected past missions.
   projects_past: Selected past work
   status:
@@ -104,7 +104,7 @@ fr:
   all_posts: Tous les billets
   contact: Contact
   contact_text: >-
-    Vous cherchez un lead ou un senior mobile ? L'e-mail est le moyen le
+    Vous cherchez un développeur mobile ? L'e-mail est le moyen le
     plus rapide de me joindre ; je réponds sous 24 heures.
   contact_cta: Envoyer un e-mail
   cv_title: Curriculum vitae
@@ -119,7 +119,7 @@ fr:
   present: Aujourd'hui
   projects_title: Projets
   projects_intro: >-
-    Les produits que j'ai fondés, pilotés ou auxquels j'ai contribué. Les
+    Les produits que j'ai fondés ou auxquels j'ai contribué. Les
     projets en cours d'abord, puis une sélection de missions passées.
   projects_past: Sélection de travaux passés
   status:
