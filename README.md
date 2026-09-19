@@ -27,14 +27,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-## Regenerating the CV PDFs
+## CV PDF
 
-The PDFs in `download/` are printed from the `/cv/` and `/fr/cv/` pages
-with headless Chromium (Playwright). After editing the data files:
-
-```sh
-tools/build-cv-pdf.sh
-```
-
-The PDF build passes `_config_pdf.yml`, which is the only build that
-renders the phone number.
+`download/Felix-Lambert-CV.pdf` is the hand-made CV, served for both
+languages. To update it, replace the file (keep the name).

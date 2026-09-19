@@ -10,11 +10,6 @@ body_class: cv-page
   <div class="cv-actions no-print">
     <a class="btn btn-primary" href="{{ p.cv_pdf[lang] | relative_url }}" download>{{ t.cv_download }}</a>
     <button class="btn" type="button" onclick="window.print()">{{ t.cv_print }}</button>
-    {%- if lang == 'en' %}
-    <a class="btn btn-ghost" href="{{ p.cv_pdf.fr | relative_url }}" download hreflang="fr">Version française (PDF)</a>
-    {%- else %}
-    <a class="btn btn-ghost" href="{{ p.cv_pdf.en | relative_url }}" download hreflang="en">English version (PDF)</a>
-    {%- endif %}
   </div>
 
   <header class="cv-header">

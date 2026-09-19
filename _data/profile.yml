@@ -76,8 +76,8 @@ links:
   github: https://github.com/felix-lambert
   malt: https://www.malt.fr/profile/felixlambert1
 cv_pdf:
-  en: /download/Felix-Lambert-CV-EN.pdf
-  fr: /download/Felix-Lambert-CV-FR.pdf
+  en: /download/Felix-Lambert-CV.pdf
+  fr: /download/Felix-Lambert-CV.pdf
 stats:
   - value: "10+"
     en: years in front-end & mobile
