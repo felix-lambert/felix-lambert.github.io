@@ -7,15 +7,17 @@
   tags: [React Native, TypeScript, Fintech, Leadership]
   en:
     role: Lead Mobile Engineer
-    company_note: Toronto fintech that lets renters pay rent by card and build credit
+    company_note: Toronto fintech that lets renters pay rent by card, earn rewards and build credit
     bullets:
+      - Built the mobile app from scratch and shipped it to the App Store and Google Play in under a year; it now serves 2,500+ daily active users.
       - Leading a team of five mobile developers, splitting my time 60/40 between technical leadership and hands-on development.
       - Mentoring engineers, running code reviews and coordinating cross-team work with product, backend and design.
       - Translating complex fintech requirements into clear technical designs and delivery plans.
   fr:
     role: Lead Mobile Engineer
-    company_note: Fintech torontoise qui permet aux locataires de payer leur loyer par carte et de bâtir leur crédit
+    company_note: Fintech torontoise qui permet aux locataires de payer leur loyer par carte, de gagner des récompenses et de bâtir leur crédit
     bullets:
+      - Application mobile construite de zéro et publiée sur l'App Store et Google Play en moins d'un an ; elle sert aujourd'hui plus de 2 500 utilisateurs actifs par jour.
       - Encadrement d'une équipe de cinq développeurs mobiles, avec une répartition 60/40 entre leadership technique et développement.
       - Mentorat des développeurs, relectures de code et coordination inter-équipes avec le produit, le backend et le design.
       - Traduction d'exigences fintech complexes en designs techniques et plans de livraison clairs.

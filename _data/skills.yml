@@ -16,5 +16,5 @@
 - en: Delivery & leadership
   fr: Livraison et leadership
   items:
-    en: [CI/CD (GitHub Actions, Microsoft App Center), Git, Code review, Mentoring, Technical design, AI-assisted development]
-    fr: [CI/CD (GitHub Actions, Microsoft App Center), Git, Relecture de code, Mentorat, Conception technique, Développement assisté par IA]
+    en: [CI/CD (GitHub Actions, Microsoft App Center), Git, Code review, Mentoring, Technical design, AI agent-driven development]
+    fr: [CI/CD (GitHub Actions, Microsoft App Center), Git, Relecture de code, Mentorat, Conception technique, Développement piloté par agents IA]

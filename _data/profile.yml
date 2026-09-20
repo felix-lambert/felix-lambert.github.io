@@ -43,29 +43,45 @@ companies:
     fr: IoT · accès à l'eau
 tagline:
   en: >-
-    I build mobile products, from the first commit to the app-store launch.
-    10+ years in front-end and mobile engineering, most of them in
-    React Native.
+    10+ years in React Native, with 4 apps shipped to the App Store and
+    Google Play. I build complete products: architecture, delivery
+    pipeline, testing and observability. Today I work exclusively through
+    AI agents, on products where AI is the core experience.
   fr: >-
-    Je construis des produits mobiles, du premier commit à la mise en ligne
-    sur les stores. 10+ ans en développement front-end et mobile,
-    surtout en React Native.
+    10+ ans en React Native, avec 4 applications publiées sur l'App Store
+    et Google Play. Je construis des produits complets : architecture,
+    pipeline de livraison, tests et observabilité. Aujourd'hui je travaille
+    exclusivement avec des agents IA, sur des produits où l'IA est
+    l'expérience centrale.
 availability:
   status: open            # open | listening | closed
   en: Open to new opportunities · Toronto or remote
   fr: Disponible pour de nouvelles opportunités · Toronto ou à distance
 summary:
   en: >-
-    Mobile Engineer with 10+ years in front-end and mobile development.
-    I have shipped React Native products for fintech, HR tech, cloud gaming
-    and my own app with 40k+ downloads. Bilingual English/French, based in
-    Toronto, open to mobile roles, on-site or remote.
+    Mobile engineer with 10+ years in front-end and mobile development and
+    4 apps shipped to the App Store and Google Play. I build complete
+    products: architecture, delivery pipeline, testing and observability,
+    from the first commit to the stores. Most recently I built Chexy's
+    mobile app from scratch and took it to both stores in under a year, a
+    fintech product that helps Canadians earn rewards on rent and build
+    credit, now serving 2,500+ daily active users. I work exclusively
+    through AI agents, with a focus on AI-first mobile products where AI is
+    the core experience. Bilingual English/French, based in Toronto, open
+    to mobile roles, on-site or remote.
   fr: >-
-    Mobile Engineer avec plus de 10 ans d'expérience en développement
-    front-end et mobile. J'ai livré des produits React Native pour la
-    fintech, les RH, le cloud gaming et ma propre application à plus de
-    40 000 téléchargements. Bilingue anglais/français, basé à Toronto,
-    ouvert aux postes mobile, sur site ou à distance.
+    Mobile Engineer avec plus de 10 ans en développement front-end et
+    mobile, et 4 applications publiées sur l'App Store et Google Play. Je
+    construis des produits complets : architecture, pipeline de livraison,
+    tests et observabilité, du premier commit aux stores. Récemment, j'ai
+    construit de zéro l'application mobile de Chexy et l'ai publiée sur les
+    deux stores en moins d'un an : une fintech qui aide les Canadiens à
+    gagner des récompenses sur leur loyer et à bâtir leur crédit, utilisée
+    aujourd'hui par plus de 2 500 personnes par jour. Je travaille
+    exclusivement avec des agents IA, avec un focus sur les applications
+    mobiles AI-first, où l'IA est l'expérience centrale. Bilingue
+    anglais/français, basé à Toronto, ouvert aux postes mobile, sur site ou
+    à distance.
 links:
   linkedin: https://www.linkedin.com/in/felix-lambert-6870b720a/
   github: https://github.com/felix-lambert
@@ -77,9 +93,9 @@ stats:
   - value: "10+"
     en: years in front-end & mobile
     fr: ans en front-end et mobile
-  - value: "40k+"
-    en: downloads of my own app
-    fr: téléchargements de mon app
+  - value: "4"
+    en: apps on the App Store & Google Play
+    fr: apps sur l'App Store et Google Play
   - value: EN · FR
     en: bilingual, spoken and written
     fr: bilingue, à l'oral et à l'écrit
