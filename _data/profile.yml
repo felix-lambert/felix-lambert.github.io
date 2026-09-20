@@ -44,13 +44,12 @@ companies:
 tagline:
   en: >-
     I build mobile products, from the first commit to the app-store launch.
-    Ten-plus years in front-end and mobile engineering, most of them in
-    React Native, with a founder's eye for what users actually need.
+    10+ years in front-end and mobile engineering, most of them in
+    React Native.
   fr: >-
     Je construis des produits mobiles, du premier commit à la mise en ligne
-    sur les stores. Plus de dix ans en développement front-end et mobile,
-    surtout en React Native, avec le regard d'un fondateur sur ce dont les
-    utilisateurs ont vraiment besoin.
+    sur les stores. 10+ ans en développement front-end et mobile,
+    surtout en React Native.
 availability:
   status: open            # open | listening | closed
   en: Open to new opportunities · Toronto or remote
