@@ -5,8 +5,8 @@ body_class: home
 {%- assign t = site.data.i18n[page.lang] -%}
 {%- assign p = site.data.profile -%}
 {%- assign lang = page.lang -%}
-{%- assign projects_url = '/projects/' -%}{%- assign cv_url = '/cv/' -%}{%- assign blog_url = '/blog/' -%}
-{%- if lang == 'fr' -%}{%- assign projects_url = '/fr/projets/' -%}{%- assign cv_url = '/fr/cv/' -%}{%- assign blog_url = '/fr/blog/' -%}{%- endif -%}
+{%- assign projects_url = '/projects/' -%}{%- assign cv_url = '/cv/' -%}
+{%- if lang == 'fr' -%}{%- assign projects_url = '/fr/projets/' -%}{%- assign cv_url = '/fr/cv/' -%}{%- endif -%}
 
 <section class="hero wrap">
   <div class="hero-grid">
@@ -91,26 +91,6 @@ body_class: home
     </div>
     {%- endfor %}
   </dl>
-</section>
-
-<section class="section wrap" aria-labelledby="writing-title">
-  <div class="section-head">
-    <div>
-      <h2 id="writing-title" class="section-title">{{ t.writing }}</h2>
-      <p class="section-intro">{{ t.writing_intro }}</p>
-    </div>
-    <a class="section-link" href="{{ blog_url | relative_url }}">{{ t.all_posts }} →</a>
-  </div>
-  <ul class="post-list">
-    {%- assign shown = 0 %}
-    {%- for post in site.posts %}
-      {%- assign words = post.content | number_of_words %}
-      {%- if words >= 120 and shown < 4 %}
-        {%- assign shown = shown | plus: 1 %}
-    {% include post-item.html post=post lang=lang %}
-      {%- endif %}
-    {%- endfor %}
-  </ul>
 </section>
 
 <section class="section wrap" aria-labelledby="contact-title">

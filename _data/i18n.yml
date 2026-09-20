@@ -17,8 +17,6 @@ en:
   toolbox_intro: The stack I work with day to day.
   copy_email: Copy email
   copied: Copied!
-  essays: Essays
-  notes: Reading notes & links
   section_num: ''
   ongoing: Ongoing projects
   ongoing_intro: Products I founded or currently maintain, and apps in progress.
@@ -26,9 +24,6 @@ en:
   experience: Experience
   experience_intro: Ten years of front-end and mobile work in Paris, Québec and Toronto.
   full_cv: See the full CV
-  writing: Writing
-  writing_intro: Notes on software craft, technology and philosophy, in English and French.
-  all_posts: All posts
   contact: Contact
   contact_text: >-
     Looking for a mobile engineer? Email is the fastest way
@@ -55,15 +50,6 @@ en:
     wip: Work in progress
     open_source: Open source
     archived: Completed
-  blog_title: Blog
-  blog_intro: >-
-    Short essays and reading notes on software craft, technology and
-    philosophy. Some posts are in English, others in French.
-  read_min: min read
-  posted_in: Written in
-  lang_en: English
-  lang_fr: French
-  back_blog: Back to the blog
   footer_built: Built with Jekyll and hosted on GitHub Pages.
   footer_source: Source on GitHub
   not_found: Page not found
@@ -90,8 +76,6 @@ fr:
   toolbox_intro: La stack que j'utilise au quotidien.
   copy_email: Copier l'e-mail
   copied: Copié !
-  essays: Essais
-  notes: Notes de lecture et liens
   section_num: ''
   ongoing: Projets en cours
   ongoing_intro: Produits que j'ai fondés ou que je maintiens, et applications en cours.
@@ -99,9 +83,6 @@ fr:
   experience: Expérience
   experience_intro: Dix ans de front-end et de mobile à Paris, Québec et Toronto.
   full_cv: Voir le CV complet
-  writing: Écrits
-  writing_intro: Notes sur l'artisanat logiciel, la technologie et la philosophie, en anglais et en français.
-  all_posts: Tous les billets
   contact: Contact
   contact_text: >-
     Vous cherchez un développeur mobile ? L'e-mail est le moyen le
@@ -128,16 +109,6 @@ fr:
     wip: En construction
     open_source: Open source
     archived: Terminé
-  blog_title: Blog
-  blog_intro: >-
-    Courts essais et notes de lecture sur l'artisanat logiciel, la
-    technologie et la philosophie. Certains billets sont en anglais,
-    d'autres en français.
-  read_min: min de lecture
-  posted_in: Écrit en
-  lang_en: anglais
-  lang_fr: français
-  back_blog: Retour au blog
   footer_built: Construit avec Jekyll et hébergé sur GitHub Pages.
   footer_source: Code source sur GitHub
   not_found: Page introuvable

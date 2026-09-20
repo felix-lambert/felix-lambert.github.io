@@ -1,7 +1,0 @@
-{%- comment -%} Usage: {% include post-item.html post=post lang=page.lang %} {%- endcomment -%}
-{%- assign post = include.post -%}
-<li class="post-item">
-  <time class="post-item-date" datetime="{{ post.date | date_to_xmlschema }}">{% include post-date.html date=post.date lang=include.lang %}</time>
-  <a class="post-item-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  <span class="lang-chip" lang="{{ post.lang }}">{{ post.lang | upcase }}</span>
-</li>

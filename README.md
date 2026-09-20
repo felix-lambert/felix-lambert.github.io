@@ -1,6 +1,6 @@
 # felix-lambert.github.io
 
-Bilingual (English / French) portfolio, CV and blog of Felix Lambert, built
+Bilingual (English / French) portfolio and CV of Felix Lambert, built
 with Jekyll and published on GitHub Pages.
 
 ## Editing content
@@ -16,9 +16,6 @@ Everything shown on the home page, the CV page and the PDF comes from
 | `_data/skills.yml`    | skill groups on the CV                           |
 | `_data/education.yml` | degrees                                          |
 | `_data/i18n.yml`      | UI strings for both languages                    |
-
-Blog posts live in `all_collections/_posts/`. Add `lang: fr` to a post
-written in French (English is the default).
 
 ## Local preview
 

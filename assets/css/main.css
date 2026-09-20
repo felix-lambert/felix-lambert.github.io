@@ -900,78 +900,6 @@ pre {
   }
 }
 
-/* Posts ------------------------------------------------------------------ */
-
-.post-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.post-item {
-  display: grid;
-  grid-template-columns: 150px 1fr auto;
-  align-items: baseline;
-  gap: 1rem;
-  padding: 0.9rem 0;
-  border-top: 1px solid var(--line);
-}
-
-.post-item:last-child {
-  border-bottom: 1px solid var(--line);
-}
-
-.post-item-date {
-  color: var(--text-2);
-  font-size: 0.9rem;
-  font-variant-numeric: tabular-nums;
-}
-
-.post-item-title {
-  font-weight: 600;
-  color: var(--text);
-  font-size: 1.02rem;
-}
-
-.post-item-title:hover {
-  color: var(--accent);
-}
-
-.lang-chip {
-  display: inline-block;
-  font-size: 0.68rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  padding: 0.1rem 0.4rem;
-  border: 1px solid var(--line-strong);
-  border-radius: 4px;
-  color: var(--text-2);
-}
-
-@media (max-width: 640px) {
-  .post-item {
-    grid-template-columns: 1fr auto;
-  }
-
-  .post-item-date {
-    grid-column: 1 / -1;
-    order: -1;
-    font-size: 0.82rem;
-  }
-}
-
-.blog-group {
-  margin-top: 2.5rem;
-}
-
-.blog-group-title {
-  font-size: 0.78rem;
-  color: var(--text-3);
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin-bottom: 0.6rem;
-}
-
 /* Generic page & prose --------------------------------------------------- */
 
 .page-header {
@@ -989,11 +917,6 @@ pre {
   font-size: 0.9rem;
   font-weight: 500;
   margin-bottom: 1.25rem;
-}
-
-.post-meta {
-  color: var(--text-2);
-  font-size: 0.95rem;
 }
 
 .prose {
@@ -1067,10 +990,6 @@ pre {
   border: 0;
   border-top: 1px solid var(--line);
   margin: 2.5rem 0;
-}
-
-.post-footer {
-  margin-top: 3rem;
 }
 
 .card {

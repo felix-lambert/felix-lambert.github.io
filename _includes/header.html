@@ -5,8 +5,6 @@
 {%- assign home = '/' -%}{%- if page.lang == 'fr' -%}{%- assign home = '/fr/' -%}{%- endif -%}
 {%- if page.translation -%}
   {%- assign alt = page.translation -%}
-{%- elsif page.layout == 'post' -%}
-  {%- if page.lang == 'fr' -%}{%- assign alt = '/blog/' -%}{%- else -%}{%- assign alt = '/fr/blog/' -%}{%- endif -%}
 {%- elsif page.lang == 'fr' -%}
   {%- assign alt = '/' -%}
 {%- else -%}
@@ -22,8 +20,6 @@
         {%- if item.url == page.url -%}
           {%- assign active = true -%}
         {%- elsif item.url != home and page.url contains item.url -%}
-          {%- assign active = true -%}
-        {%- elsif page.layout == 'post' and item.url contains '/blog/' -%}
           {%- assign active = true -%}
         {%- endif %}
       <a href="{{ item.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ item.title }}</a>

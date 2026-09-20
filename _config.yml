@@ -36,17 +36,8 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-redirect-from
   - jemoji
-
-feed:
-  path: feed.xml
-
-collections_dir: all_collections
-collections:
-  posts:
-    output: true
 
 defaults:
   - scope:
@@ -59,11 +50,6 @@ defaults:
       path: "fr"
     values:
       lang: fr
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      permalink: /posts/:categories/:year/:month/:day/:title/
 
 exclude:
   - LICENSE
