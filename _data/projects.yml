@@ -49,19 +49,23 @@
 
 - id: sport-challenge
   name: Sport Challenge
-  status: wip
+  status: live
   ongoing: true
   period: 2026 – present
   tags: [Expo SDK 57, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, EAS]
-  links: []
+  links:
+    - label: App Store
+      url: https://apps.apple.com/app/sport-challenge-home-workout/id6819818056
+    - label: Google Play
+      url: https://play.google.com/store/apps/details?id=com.felixlambert.sportchallenge
   en:
     tagline: Thirty body-weight exercises, played as a ladder of levels
     text: >-
       A home-workout app built like a game: pass the current level to unlock
       the next, then read the sourced health benefit of what you just did.
       Skip three days and the last level locks again. Everything stays on
-      the phone: no account, no server. In progress, currently in preview
-      on Android.
+      the phone: no account, no server. Live on the App Store and Google
+      Play.
     highlights:
       - Native look on both platforms through @expo/ui (SwiftUI on iOS, Jetpack Compose on Android), Reanimated 4 animations, expo-sqlite storage
       - Tests, type-check and lint on every pull request; EAS release workflow with over-the-air updates on every push to main
@@ -72,7 +76,7 @@
       niveau en cours pour débloquer le suivant, puis on lit le bénéfice santé
       sourcé de ce qu'on vient de faire. Trois jours sans séance et le dernier
       niveau se referme. Tout reste sur le téléphone : pas de compte, pas de
-      serveur. En cours, actuellement en preview sur Android.
+      serveur. Disponible sur l'App Store et Google Play.
     highlights:
       - Rendu natif sur les deux plateformes via @expo/ui (SwiftUI sur iOS, Jetpack Compose sur Android), animations Reanimated 4, stockage expo-sqlite
       - Tests, typage et lint sur chaque pull request ; workflow de release EAS avec mises à jour OTA à chaque push sur main
