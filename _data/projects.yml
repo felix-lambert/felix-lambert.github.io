@@ -113,6 +113,67 @@
       - Programme, pédagogie et règles de progression en modules TypeScript purs et testés ; voix du coach générée à partir du programme
       - Même stack native et même pipeline de release que Sport Challenge, plus des sondes navigateur headless pour relire de nombreux écrans d'un coup
 
+- id: luckylist
+  name: Luckylist
+  status: wip
+  ongoing: true
+  period: 2026 – present
+  tags: [Expo, React Native, TypeScript, "@expo/ui", Offline-first, Supabase, MCP, EAS]
+  links: []
+  en:
+    tagline: A to-do list that picks your next task for you
+    text: >-
+      Write your tasks, give each one a weight, and let the app draw the
+      next one at random, the heavier ones more often. It works offline
+      first; sync across devices is optional, and a connector lets Claude
+      or ChatGPT read and add tasks for you. iOS, Android and web.
+    highlights:
+      - Weighted random draw and list logic as pure, tested TypeScript; local storage first, optional Supabase sync
+      - MCP server so AI assistants can manage the lists, with a free tier and a Plus plan
+  fr:
+    tagline: Une todolist qui tire au sort votre prochaine tâche
+    text: >-
+      On écrit ses tâches, on donne un poids à chacune, et l'app tire la
+      suivante au hasard, les plus lourdes plus souvent. Elle marche
+      d'abord hors ligne ; la synchronisation entre appareils est
+      facultative, et un connecteur permet à Claude ou ChatGPT de lire et
+      d'ajouter des tâches. iOS, Android et web.
+    highlights:
+      - Tirage aléatoire pondéré et logique des listes en TypeScript pur et testé ; stockage local d'abord, synchro Supabase facultative
+      - Serveur MCP pour que les assistants IA gèrent les listes, avec une offre gratuite et une offre Plus
+
+- id: locale
+  name: Locale
+  status: wip
+  ongoing: true
+  period: 2026 – present
+  tags: [Electron, node-llama-cpp, llama.cpp, Metal, JavaScript, Hugging Face]
+  links: []
+  en:
+    tagline: A private AI that runs on your computer and says when anything goes online
+    text: >-
+      A desktop app that looks at your machine (memory, GPU, disk),
+      recommends the best open model for what you want to do, downloads it
+      once from Hugging Face and then runs it with no internet. A light at
+      the top of the window shows at all times whether anything is leaving
+      the computer; airplane mode blocks every outgoing connection and a
+      network log lists each one.
+    highlights:
+      - Network guard wrapping fetch, http and https in the main process; the window itself cannot load anything online
+      - Model recommendation from available GPU memory and a scored catalogue of 14 open models, checked against Hugging Face
+  fr:
+    tagline: Une IA privée qui tourne sur l'ordinateur et signale tout ce qui part en ligne
+    text: >-
+      Une app de bureau qui analyse la machine (mémoire, puce graphique,
+      disque), conseille le meilleur modèle ouvert pour l'usage voulu, le
+      télécharge une fois depuis Hugging Face, puis tout tourne sans
+      Internet. Un voyant en haut de la fenêtre indique en permanence si
+      quelque chose sort de l'ordinateur ; le mode avion bloque toute
+      connexion sortante et un journal réseau les liste une à une.
+    highlights:
+      - Garde réseau qui enveloppe fetch, http et https du processus principal ; la fenêtre elle-même ne peut rien charger en ligne
+      - Recommandation de modèle selon la mémoire graphique disponible et un catalogue noté de 14 modèles ouverts, vérifié sur Hugging Face
+
 - id: histoire-du-monde
   name: Histoire du monde
   status: wip
