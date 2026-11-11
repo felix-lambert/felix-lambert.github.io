@@ -113,35 +113,6 @@
       - Programme, pédagogie et règles de progression en modules TypeScript purs et testés ; voix du coach générée à partir du programme
       - Même stack native et même pipeline de release que Sport Challenge, plus des sondes navigateur headless pour relire de nombreux écrans d'un coup
 
-- id: luckylist
-  name: Luckylist
-  status: wip
-  ongoing: true
-  period: 2026 – present
-  tags: [Expo, React Native, TypeScript, "@expo/ui", Offline-first, Supabase, MCP, EAS]
-  links: []
-  en:
-    tagline: A to-do list that picks your next task for you
-    text: >-
-      Write your tasks, give each one a weight, and let the app draw the
-      next one at random, the heavier ones more often. It works offline
-      first; sync across devices is optional, and a connector lets Claude
-      or ChatGPT read and add tasks for you. iOS, Android and web.
-    highlights:
-      - Weighted random draw and list logic as pure, tested TypeScript; local storage first, optional Supabase sync
-      - MCP server so AI assistants can manage the lists, with a free tier and a Plus plan
-  fr:
-    tagline: Une todolist qui tire au sort votre prochaine tâche
-    text: >-
-      On écrit ses tâches, on donne un poids à chacune, et l'app tire la
-      suivante au hasard, les plus lourdes plus souvent. Elle marche
-      d'abord hors ligne ; la synchronisation entre appareils est
-      facultative, et un connecteur permet à Claude ou ChatGPT de lire et
-      d'ajouter des tâches. iOS, Android et web.
-    highlights:
-      - Tirage aléatoire pondéré et logique des listes en TypeScript pur et testé ; stockage local d'abord, synchro Supabase facultative
-      - Serveur MCP pour que les assistants IA gèrent les listes, avec une offre gratuite et une offre Plus
-
 - id: locale
   name: Locale
   status: wip

@@ -6,7 +6,7 @@ intro: >-
   Les produits que j'ai fondés ou auxquels j'ai contribué. Les
   projets en cours d'abord, puis une sélection de missions passées.
 description: >-
-  Les projets de Felix Lambert : EmptyMyFridge (40 000+ téléchargements), Sport Challenge, Luckylist, Locale,
+  Les projets de Felix Lambert : EmptyMyFridge (40 000+ téléchargements), Sport Challenge, Locale,
   contributions open source Android, apps React Native en fintech et RH.
 permalink: /fr/projets/
 translation: /projects/
