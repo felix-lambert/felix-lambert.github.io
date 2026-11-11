@@ -113,6 +113,38 @@
       - Programme, pédagogie et règles de progression en modules TypeScript purs et testés ; voix du coach générée à partir du programme
       - Même stack native et même pipeline de release que Sport Challenge, plus des sondes navigateur headless pour relire de nombreux écrans d'un coup
 
+- id: locale
+  name: Locale
+  status: wip
+  ongoing: true
+  period: 2026 – present
+  tags: [Electron, node-llama-cpp, llama.cpp, Metal, JavaScript, Hugging Face]
+  links: []
+  en:
+    tagline: A private AI that runs on your computer and says when anything goes online
+    text: >-
+      A desktop app that looks at your machine (memory, GPU, disk),
+      recommends the best open model for what you want to do, downloads it
+      once from Hugging Face and then runs it with no internet. A light at
+      the top of the window shows at all times whether anything is leaving
+      the computer; airplane mode blocks every outgoing connection and a
+      network log lists each one.
+    highlights:
+      - Network guard wrapping fetch, http and https in the main process; the window itself cannot load anything online
+      - Model recommendation from available GPU memory and a scored catalogue of 14 open models, checked against Hugging Face
+  fr:
+    tagline: Une IA privée qui tourne sur l'ordinateur et signale tout ce qui part en ligne
+    text: >-
+      Une app de bureau qui analyse la machine (mémoire, puce graphique,
+      disque), conseille le meilleur modèle ouvert pour l'usage voulu, le
+      télécharge une fois depuis Hugging Face, puis tout tourne sans
+      Internet. Un voyant en haut de la fenêtre indique en permanence si
+      quelque chose sort de l'ordinateur ; le mode avion bloque toute
+      connexion sortante et un journal réseau les liste une à une.
+    highlights:
+      - Garde réseau qui enveloppe fetch, http et https du processus principal ; la fenêtre elle-même ne peut rien charger en ligne
+      - Recommandation de modèle selon la mémoire graphique disponible et un catalogue noté de 14 modèles ouverts, vérifié sur Hugging Face
+
 - id: histoire-du-monde
   name: Histoire du monde
   status: wip
