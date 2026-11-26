@@ -86,20 +86,25 @@ links:
   linkedin: https://www.linkedin.com/in/felix-lambert-6870b720a/
   github: https://github.com/felix-lambert
   malt: https://www.malt.fr/profile/felixlambert1
-# YouTube channels shown on the home page (section "YouTube").
+# YouTube channel shown on the home page (section "YouTube").
 youtube:
-  - name: Team EmptyMyFridge
-    url: https://www.youtube.com/@teamemptymyfridge9101
-    en: Recipe Shorts made from what is left in the fridge
-    fr: Des Shorts recettes faites avec ce qui reste dans le frigo
-  - name: EmptyMyFridge
-    url: https://www.youtube.com/@emptymyfridge269
-    en: The app's presentation video and recipe Shorts
-    fr: La vidéo de présentation de l'app et des Shorts recettes
-  - name: Sport Challenge
-    url: https://www.youtube.com/@sportchallenge-z2q
-    en: 30-second home-workout challenges, as Shorts
-    fr: Des défis sport à la maison de 30 secondes, en Shorts
+  name: EmptyMyFridge
+  url: https://www.youtube.com/@teamemptymyfridge9101
+  en:
+    title: Anti-waste cooking, in short videos
+    text: >-
+      Quick recipes built from what is already in the fridge: a few
+      ingredients you have, one dish, nothing thrown away. Shorts and
+      longer videos on cooking leftovers, using food before it goes off
+      and eating well on a budget.
+  fr:
+    title: La cuisine anti-gaspi, en vidéos courtes
+    text: >-
+      Des recettes rapides faites avec ce qu'il y a déjà dans le frigo :
+      quelques ingrédients qu'on a sous la main, un plat, rien à jeter.
+      Des Shorts et des vidéos plus longues pour cuisiner les restes,
+      utiliser les aliments avant qu'ils se perdent et bien manger sans
+      trop dépenser.
 cv_pdf:
   en: /download/Felix-Lambert-CV.pdf
   fr: /download/Felix-Lambert-CV.pdf
