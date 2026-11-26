@@ -94,6 +94,8 @@
   links:
     - label: Website
       url: https://topikprep.app/
+    - label: App Store
+      url: https://apps.apple.com/app/id6822458945
     - label: Google Play
       url: https://play.google.com/store/apps/details?id=com.flavien2.koreanteacher
   en:
@@ -101,8 +103,8 @@
     text: >-
       Full TOPIK mock exams built from lessons written for the app, plus an
       oral tab where you answer out loud and an AI grades what you said.
-      French or English interface, Korean either way. Live on Google Play
-      and on the web.
+      French or English interface, Korean either way. Live on the App Store,
+      Google Play and the web.
     highlights:
       - Curriculum, question dealing and grading rules as pure TypeScript modules with tests; recordings generated from the curriculum
       - One server route on EAS Hosting grades spoken answers, the only place a secret lives; the rest runs on the phone
@@ -112,7 +114,8 @@
       Des examens blancs complets du TOPIK construits à partir de leçons
       écrites pour l'app, et un onglet oral où l'on répond à voix haute et
       une IA évalue la réponse. Interface en français ou en anglais, le
-      coréen reste du coréen. Disponible sur Google Play et sur le web.
+      coréen reste du coréen. Disponible sur l'App Store,
+      Google Play et le web.
     highlights:
       - Programme, tirage des questions et règles de correction en modules TypeScript purs et testés ; enregistrements générés à partir du programme
       - Une seule route serveur sur EAS Hosting évalue l'oral, seul endroit où vit un secret ; tout le reste tourne sur le téléphone
@@ -124,6 +127,8 @@
   period: 2025 – present
   tags: [Expo SDK 58, React Native, TypeScript, Expo Router, react-native-svg, Cloudflare R2, EAS Update]
   links:
+    - label: App Store
+      url: https://apps.apple.com/app/id6822866896
     - label: Google Play
       url: https://play.google.com/store/apps/details?id=com.felixlambert.chronarium
   en:
