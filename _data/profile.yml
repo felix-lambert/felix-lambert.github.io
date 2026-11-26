@@ -43,12 +43,12 @@ companies:
     fr: IoT · accès à l'eau
 tagline:
   en: >-
-    10+ years in React Native, with 4 apps shipped to the App Store and
+    10+ years in React Native, with 5+ apps shipped to the App Store and
     Google Play. I build complete products: architecture, delivery
     pipeline, testing and observability. Today I work exclusively through
     AI agents, on products where AI is the core experience.
   fr: >-
-    10+ ans en React Native, avec 4 applications publiées sur l'App Store
+    10+ ans en React Native, avec plus de 5 applications publiées sur l'App Store
     et Google Play. Je construis des produits complets : architecture,
     pipeline de livraison, tests et observabilité. Aujourd'hui je travaille
     exclusivement avec des agents IA, sur des produits où l'IA est
@@ -60,7 +60,7 @@ availability:
 summary:
   en: >-
     Mobile engineer with 10+ years in front-end and mobile development and
-    4 apps shipped to the App Store and Google Play. I build complete
+    5+ apps shipped to the App Store and Google Play. I build complete
     products: architecture, delivery pipeline, testing and observability,
     from the first commit to the stores. Most recently I built Chexy's
     mobile app from scratch and took it to both stores in under a year, a
@@ -71,7 +71,7 @@ summary:
     to mobile roles, on-site or remote.
   fr: >-
     Mobile Engineer avec plus de 10 ans en développement front-end et
-    mobile, et 4 applications publiées sur l'App Store et Google Play. Je
+    mobile, et plus de 5 applications publiées sur l'App Store et Google Play. Je
     construis des produits complets : architecture, pipeline de livraison,
     tests et observabilité, du premier commit aux stores. Récemment, j'ai
     construit de zéro l'application mobile de Chexy et l'ai publiée sur les
@@ -86,6 +86,20 @@ links:
   linkedin: https://www.linkedin.com/in/felix-lambert-6870b720a/
   github: https://github.com/felix-lambert
   malt: https://www.malt.fr/profile/felixlambert1
+# YouTube channels shown on the home page (section "YouTube").
+youtube:
+  - name: Team EmptyMyFridge
+    url: https://www.youtube.com/@teamemptymyfridge9101
+    en: Recipe Shorts made from what is left in the fridge
+    fr: Des Shorts recettes faites avec ce qui reste dans le frigo
+  - name: EmptyMyFridge
+    url: https://www.youtube.com/@emptymyfridge269
+    en: The app's presentation video and recipe Shorts
+    fr: La vidéo de présentation de l'app et des Shorts recettes
+  - name: Sport Challenge
+    url: https://www.youtube.com/@sportchallenge-z2q
+    en: 30-second home-workout challenges, as Shorts
+    fr: Des défis sport à la maison de 30 secondes, en Shorts
 cv_pdf:
   en: /download/Felix-Lambert-CV.pdf
   fr: /download/Felix-Lambert-CV.pdf
@@ -93,7 +107,7 @@ stats:
   - value: "10+"
     en: years in front-end & mobile
     fr: ans en front-end et mobile
-  - value: "4"
+  - value: "5+"
     en: apps on the App Store & Google Play
     fr: apps sur l'App Store et Google Play
   - value: EN · FR
