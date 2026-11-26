@@ -43,12 +43,12 @@ companies:
     fr: IoT · accès à l'eau
 tagline:
   en: >-
-    10+ years in React Native, with 5+ apps shipped to the App Store and
+    10+ years in React Native, with 5 apps shipped to the App Store and
     Google Play. I build complete products: architecture, delivery
     pipeline, testing and observability. Today I work exclusively through
     AI agents, on products where AI is the core experience.
   fr: >-
-    10+ ans en React Native, avec plus de 5 applications publiées sur l'App Store
+    10+ ans en React Native, avec 5 applications publiées sur l'App Store
     et Google Play. Je construis des produits complets : architecture,
     pipeline de livraison, tests et observabilité. Aujourd'hui je travaille
     exclusivement avec des agents IA, sur des produits où l'IA est
@@ -60,7 +60,7 @@ availability:
 summary:
   en: >-
     Mobile engineer with 10+ years in front-end and mobile development and
-    5+ apps shipped to the App Store and Google Play. I build complete
+    5 apps shipped to the App Store and Google Play. I build complete
     products: architecture, delivery pipeline, testing and observability,
     from the first commit to the stores. Most recently I built Chexy's
     mobile app from scratch and took it to both stores in under a year, a
@@ -71,7 +71,7 @@ summary:
     to mobile roles, on-site or remote.
   fr: >-
     Mobile Engineer avec plus de 10 ans en développement front-end et
-    mobile, et plus de 5 applications publiées sur l'App Store et Google Play. Je
+    mobile, et 5 applications publiées sur l'App Store et Google Play. Je
     construis des produits complets : architecture, pipeline de livraison,
     tests et observabilité, du premier commit aux stores. Récemment, j'ai
     construit de zéro l'application mobile de Chexy et l'ai publiée sur les
@@ -107,7 +107,7 @@ stats:
   - value: "10+"
     en: years in front-end & mobile
     fr: ans en front-end et mobile
-  - value: "5+"
+  - value: "5"
     en: apps on the App Store & Google Play
     fr: apps sur l'App Store et Google Play
   - value: EN · FR
