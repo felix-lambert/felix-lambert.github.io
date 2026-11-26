@@ -26,6 +26,7 @@ body_class: home
         <li><a href="{{ p.links.linkedin }}" rel="me noopener">LinkedIn</a></li>
         <li><a href="{{ p.links.github }}" rel="me noopener">GitHub</a></li>
         <li><a href="{{ p.links.malt }}" rel="me noopener">Malt</a></li>
+        <li><a href="#youtube-title">YouTube</a></li>
       </ul>
     </div>
     <figure class="hero-figure">
@@ -78,6 +79,23 @@ body_class: home
     {% include project-card.html project=project lang=lang %}
     {%- endif %}{% endfor %}
   </div>
+</section>
+
+<section class="section wrap" aria-labelledby="youtube-title">
+  <h2 id="youtube-title" class="section-title">{{ t.youtube }}</h2>
+  <p class="section-intro">{{ t.youtube_intro }}</p>
+  <ul class="channel-grid">
+    {%- for ch in p.youtube %}
+    <li class="channel">
+      <a class="channel-link" href="{{ ch.url }}" rel="me noopener">
+        <span class="channel-icon" aria-hidden="true">▶</span>
+        <span class="channel-name">{{ ch.name }}</span>
+        <span class="channel-text">{{ ch[lang] }}</span>
+        <span class="channel-cta">{{ t.youtube_cta }} →</span>
+      </a>
+    </li>
+    {%- endfor %}
+  </ul>
 </section>
 
 <section class="section wrap" aria-labelledby="skills-title">

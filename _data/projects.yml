@@ -27,6 +27,8 @@
       url: https://apps.apple.com/fr/app/emptymyfridge-recipe-by-food/id1550812530
     - label: Google Play
       url: https://play.google.com/store/apps/details?id=com.emptymyfridge
+    - label: YouTube
+      url: https://www.youtube.com/@teamemptymyfridge9101
   en:
     tagline: AI-driven anti-food-waste app
     text: >-
@@ -52,12 +54,14 @@
   status: live
   ongoing: true
   period: 2026 – present
-  tags: [Expo SDK 57, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, EAS]
+  tags: [Expo SDK 58, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, EAS]
   links:
     - label: App Store
       url: https://apps.apple.com/app/sport-challenge-home-workout/id6819818056
     - label: Google Play
       url: https://play.google.com/store/apps/details?id=com.felixlambert.sportchallenge
+    - label: YouTube
+      url: https://www.youtube.com/@sportchallenge-z2q
   en:
     tagline: Thirty body-weight exercises, played as a ladder of levels
     text: >-
@@ -81,37 +85,136 @@
       - Rendu natif sur les deux plateformes via @expo/ui (SwiftUI sur iOS, Jetpack Compose sur Android), animations Reanimated 4, stockage expo-sqlite
       - Tests, typage et lint sur chaque pull request ; workflow de release EAS avec mises à jour OTA à chaque push sur main
 
-- id: korean-challenge
-  name: Korean Challenge
+- id: topik-prep
+  name: TOPIK Prep
+  status: live
+  ongoing: true
+  period: 2026 – present
+  tags: [Expo SDK 58, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, EAS Hosting, OpenAI]
+  links:
+    - label: Website
+      url: https://topikprep.app/
+    - label: Google Play
+      url: https://play.google.com/store/apps/details?id=com.flavien2.koreanteacher
+  en:
+    tagline: Prepare the TOPIK, the Korean proficiency exam
+    text: >-
+      Full TOPIK mock exams built from lessons written for the app, plus an
+      oral tab where you answer out loud and an AI grades what you said.
+      French or English interface, Korean either way. Live on Google Play
+      and on the web.
+    highlights:
+      - Curriculum, question dealing and grading rules as pure TypeScript modules with tests; recordings generated from the curriculum
+      - One server route on EAS Hosting grades spoken answers, the only place a secret lives; the rest runs on the phone
+  fr:
+    tagline: Préparer le TOPIK, l'examen officiel de coréen
+    text: >-
+      Des examens blancs complets du TOPIK construits à partir de leçons
+      écrites pour l'app, et un onglet oral où l'on répond à voix haute et
+      une IA évalue la réponse. Interface en français ou en anglais, le
+      coréen reste du coréen. Disponible sur Google Play et sur le web.
+    highlights:
+      - Programme, tirage des questions et règles de correction en modules TypeScript purs et testés ; enregistrements générés à partir du programme
+      - Une seule route serveur sur EAS Hosting évalue l'oral, seul endroit où vit un secret ; tout le reste tourne sur le téléphone
+
+- id: chronarium
+  name: Chronarium
+  status: live
+  ongoing: true
+  period: 2025 – present
+  tags: [Expo SDK 58, React Native, TypeScript, Expo Router, react-native-svg, Cloudflare R2, EAS Update]
+  links:
+    - label: Google Play
+      url: https://play.google.com/store/apps/details?id=com.felixlambert.chronarium
+  en:
+    tagline: An illustrated history of the world, from the Big Bang to today
+    text: >-
+      A chronology of about 1,200 sourced and illustrated entries in 14
+      chapters, read as a journey across a map of 32 worlds named after
+      the great periods (Palaeozoic, Bronze Age, Renaissance, Cold War…).
+      Nothing is locked: you travel from era to era at your own pace. In
+      French with an English version on top.
+    highlights:
+      - Content written as TSV sources, compiled to JSON and held by blocking checkers (sources, English, summaries, places)
+      - Hand-drawn SVG map and illustrations, every image credited under a free licence and served as WebP from Cloudflare R2
+  fr:
+    tagline: Une histoire illustrée du monde, du Big Bang à aujourd'hui
+    text: >-
+      Une chronologie d'environ 1 200 entrées sourcées et illustrées en 14
+      chapitres, lue comme un voyage sur une carte de 32 mondes nommés
+      d'après les grandes périodes (Paléozoïque, âge du Bronze, Renaissance,
+      guerre froide…). Rien n'est verrouillé : on avance d'époque en époque
+      à son rythme. En français, avec une version anglaise.
+    highlights:
+      - Contenu écrit en TSV, compilé en JSON et tenu par des vérificateurs bloquants (sources, anglais, résumés, lieux)
+      - Carte et illustrations en SVG dessinées pour l'app, chaque image créditée sous licence libre et servie en WebP depuis Cloudflare R2
+
+- id: moneytrail
+  name: MoneyTrail
   status: wip
   ongoing: true
   period: 2026 – present
-  tags: [Expo SDK 57, React Native, TypeScript, Expo Router, "@expo/ui", Reanimated 4, expo-speech, EAS]
+  tags: [Expo SDK 58, React Native, TypeScript, Supabase, Plaid, RevenueCat, expo-camera]
+  links:
+    - label: Website
+      url: https://moneytrail.ca/
+  en:
+    tagline: Follow your money to the groups that receive it
+    text: >-
+      Scan a receipt or a product and MoneyTrail traces each purchase to
+      the corporate group that owns the brand, with an A–E grade for that
+      group and a source behind every fact. This week's deals and prices
+      show the grade next to each price, and the month's spending adds up
+      by group. Scanning and receipts are free; MoneyTrail+ adds bank
+      connection.
+    highlights:
+      - Supabase back end; bank transactions through Plaid stay on the phone, the server only keeps access tokens
+      - MoneyTrail+ subscription through in-app purchases on Google Play and the App Store, managed by RevenueCat
+  fr:
+    tagline: Suivre son argent jusqu'aux groupes qui le reçoivent
+    text: >-
+      On scanne un ticket ou un produit et MoneyTrail relie chaque achat au
+      groupe qui possède la marque, avec une note de A à E pour ce groupe
+      et une source derrière chaque fait. Les promos et les prix de la
+      semaine affichent la note à côté de chaque prix, et les dépenses du
+      mois s'additionnent par groupe. Le scan et les tickets sont gratuits ;
+      MoneyTrail+ ajoute la connexion bancaire.
+    highlights:
+      - Back-end Supabase ; les transactions bancaires passent par Plaid et restent sur le téléphone, le serveur ne garde que les jetons d'accès
+      - Abonnement MoneyTrail+ en achat intégré sur Google Play et l'App Store, géré par RevenueCat
+
+- id: chronarium-game
+  name: Chronarium, the game
+  status: wip
+  ongoing: true
+  period: 2026 – present
+  tags: [Godot 4.5, GDScript, Shaders, Android]
   links: []
   en:
-    tagline: Learn Korean as a map of worlds to unlock
+    tagline: Replay the history of the universe, one date per mission
     text: >-
-      The Sport Challenge concept applied to language learning: a ladder of
-      Korean levels drawn as a map of worlds, each one a timed round of nine
-      kinds of question (recognise, produce, listen, build, sprint, no
-      mistakes) drawn from short lessons. Three days away and the last level
-      locks again. French or English interface, Korean either way, all
-      on-device.
+      A mobile game built from Chronarium's timeline: you start at the Big
+      Bang and work your way to today. Each date is a short gesture-based
+      mission and a place on a map of the universe; clearing it opens the
+      path to the next. Around 40 missions so far, from the four
+      fundamental forces to the first galaxies and beyond. English by
+      default, French one tap away.
     highlights:
-      - Curriculum, pedagogy and ladder rules as pure TypeScript modules with tests; generated speech assets for the coach
-      - Same native stack and release pipeline as Sport Challenge, plus headless-browser probes to review many screens at once
+      - Godot 4.5 and GDScript, Android first, with custom shaders and sounds
+      - An automated playthrough replays the whole game before every change ships
   fr:
-    tagline: Apprendre le coréen comme une carte de mondes à débloquer
+    tagline: Rejouer l'histoire de l'univers, une date par mission
     text: >-
-      Le concept de Sport Challenge appliqué à l'apprentissage d'une langue :
-      une échelle de niveaux de coréen dessinée comme une carte de mondes,
-      chaque niveau étant une manche chronométrée de neuf types de questions
-      (reconnaître, produire, écouter, construire, sprint, sans faute) tirées
-      de courtes leçons. Trois jours d'absence et le dernier niveau se
-      referme. Interface en français ou en anglais, tout sur l'appareil.
+      Un jeu mobile construit sur la frise de Chronarium : on part du Big
+      Bang et on remonte jusqu'à aujourd'hui. Chaque date est une courte
+      mission jouée au geste et un lieu sur la carte de l'univers ; la
+      réussir ouvre le chemin jusqu'à la suivante. Une quarantaine de
+      missions pour l'instant, des quatre forces fondamentales aux
+      premières galaxies et au-delà. En anglais par défaut, en français en
+      un geste.
     highlights:
-      - Programme, pédagogie et règles de progression en modules TypeScript purs et testés ; voix du coach générée à partir du programme
-      - Même stack native et même pipeline de release que Sport Challenge, plus des sondes navigateur headless pour relire de nombreux écrans d'un coup
+      - Godot 4.5 et GDScript, Android d'abord, avec shaders et sons maison
+      - Un essai automatique rejoue la partie complète avant chaque livraison
 
 - id: locale
   name: Locale
@@ -144,37 +247,6 @@
     highlights:
       - Garde réseau qui enveloppe fetch, http et https du processus principal ; la fenêtre elle-même ne peut rien charger en ligne
       - Recommandation de modèle selon la mémoire graphique disponible et un catalogue noté de 14 modèles ouverts, vérifié sur Hugging Face
-
-- id: histoire-du-monde
-  name: Histoire du monde
-  status: wip
-  ongoing: true
-  period: 2025 – present
-  tags: [Writing, Data curation, Static site, WebP pipeline, Cloudflare R2]
-  links: []
-  en:
-    tagline: A 715-entry timeline from the Big Bang to today
-    text: >-
-      A long-form personal research project: a chronology in 14 chapters,
-      from cosmology to the present day, each entry sourced and illustrated.
-      I built the tooling around it too: image conversion to WebP, media
-      hosting on Cloudflare R2 and video generation. Not published yet; it is
-      being reworked before going back online.
-    highlights:
-      - 715 dated entries, 14 chapters, hundreds of captioned illustrations
-      - Custom scripts for media optimisation and upload
-  fr:
-    tagline: Une chronologie de 715 entrées, du Big Bang à aujourd'hui
-    text: >-
-      Un projet de recherche personnel au long cours : une chronologie en
-      14 chapitres, de la cosmologie à nos jours, chaque entrée sourcée et
-      illustrée. J'ai aussi construit l'outillage autour : conversion des
-      images en WebP, hébergement des médias sur Cloudflare R2 et génération
-      de vidéos. Pas encore publié ; il est retravaillé avant de revenir en
-      ligne.
-    highlights:
-      - 715 entrées datées, 14 chapitres, des centaines d'illustrations légendées
-      - Scripts maison d'optimisation et d'envoi des médias
 
 - id: dismoi
   name: DisMoi · mobile
