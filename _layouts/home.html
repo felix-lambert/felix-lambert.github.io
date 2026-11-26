@@ -81,21 +81,18 @@ body_class: home
   </div>
 </section>
 
+{%- assign yt = p.youtube -%}
 <section class="section wrap" aria-labelledby="youtube-title">
   <h2 id="youtube-title" class="section-title">{{ t.youtube }}</h2>
-  <p class="section-intro">{{ t.youtube_intro }}</p>
-  <ul class="channel-grid">
-    {%- for ch in p.youtube %}
-    <li class="channel">
-      <a class="channel-link" href="{{ ch.url }}" rel="me noopener">
-        <span class="channel-icon" aria-hidden="true">▶</span>
-        <span class="channel-name">{{ ch.name }}</span>
-        <span class="channel-text">{{ ch[lang] }}</span>
-        <span class="channel-cta">{{ t.youtube_cta }} →</span>
-      </a>
-    </li>
-    {%- endfor %}
-  </ul>
+  <a class="channel-link" href="{{ yt.url }}" rel="me noopener">
+    <span class="channel-head">
+      <span class="channel-icon" aria-hidden="true">▶</span>
+      <span class="channel-name">{{ yt.name }}</span>
+    </span>
+    <span class="channel-title">{{ yt[lang].title }}</span>
+    <span class="channel-text">{{ yt[lang].text }}</span>
+    <span class="channel-cta">{{ t.youtube_cta }} →</span>
+  </a>
 </section>
 
 <section class="section wrap" aria-labelledby="skills-title">

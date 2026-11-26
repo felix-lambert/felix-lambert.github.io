@@ -1362,29 +1362,13 @@ pre {
   }
 }
 
-/* YouTube channels ------------------------------------------------------- */
-
-.channel-grid {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.25rem;
-}
-
-@media (max-width: 960px) {
-  .channel-grid {
-    grid-template-columns: minmax(0, 1fr);
-  }
-}
+/* YouTube channel ------------------------------------------------------- */
 
 .channel-link {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
-  height: 100%;
-  padding: 1.25rem 1.5rem;
+  gap: 0.5rem;
+  padding: 1.75rem 2rem;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   color: var(--text);
@@ -1396,32 +1380,47 @@ pre {
   border-color: var(--accent);
 }
 
+.channel-head {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
 .channel-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2rem;
-  height: 1.4rem;
+  flex: none;
+  width: 2.2rem;
+  height: 1.55rem;
   border-radius: 6px;
   background: #ff0033;
   color: #fff;
-  font-size: 0.7rem;
+  font-size: 0.75rem;
 }
 
 .channel-name {
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
+}
+
+.channel-title {
+  font-weight: 500;
+  color: var(--text-2);
 }
 
 .channel-text {
-  color: var(--text-2);
-  font-size: 0.93rem;
+  max-width: 60ch;
 }
 
 .channel-cta {
   color: var(--accent);
-  margin-top: auto;
-  padding-top: 0.5rem;
+  margin-top: 0.25rem;
   font-weight: 500;
-  font-size: 0.95rem;
+}
+
+@media (max-width: 600px) {
+  .channel-link {
+    padding: 1.25rem;
+  }
 }
